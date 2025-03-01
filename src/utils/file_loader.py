@@ -51,7 +51,7 @@ def getSubtopics(path: str):
     for subtopic in data.get("mainTopic").get("subTopics"):
         subtopics.append(subtopic.get("title"))
     parts = [
-        types.Part.from_text(text=f"Subtopics:\n{str(subtopics)}"),
+        types.Part.from_text(text=f"Only include these subtopics:\n{str(subtopics)}"),
         
         ]
     contentInfo = data.get("mainTopic").get("content_info")
@@ -69,4 +69,6 @@ def loadPrompt(prompName: str):
     path = os.environ.get("PROMPT_LOCATIONS") + prompName
     with open(path, "r") as file:
         prompt = file.read()
-    return prompt
+    return types.Part.from_text(
+                text=prompt
+            )

@@ -24,9 +24,7 @@ def generate(client: genai.Client, parts):
         max_output_tokens=65536,
         response_mime_type="text/plain",
         system_instruction=[
-            types.Part.from_text(
-                text=loadPrompt("default_prompt.txt")
-            ),
+            loadPrompt("default_prompt.txt")
         ],
     )
     result = ""

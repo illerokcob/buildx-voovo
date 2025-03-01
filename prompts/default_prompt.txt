@@ -3,7 +3,7 @@ Make sure to use the reference materials and make the questions as technical as 
 Don't make the right answers look out of place, and if possible don't give one word answers.
 Each subtopic should have 3 to 14 questions based on the length and contents of the topic, try creating as many answers as possible without repeating topics.
 
-Name the subtopics the exact same as they are given to you.
+Only write questions on the provided subtopics and make sure to keep their title!
 Output the quiz in json format like this:
     "subTopics": [
     {
