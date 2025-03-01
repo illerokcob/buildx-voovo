@@ -1,4 +1,4 @@
-Your task is to generate a quiz from the provided pdfs. Separate the quiestions based on the given subtopics. Each question should have 1 good and 4 wrong options.
+Your task is to generate a quiz from the provided pdfs. Separate the questions based on the given subtopics. Each question should have 1 good and 4 wrong options.
 Make sure to use the reference materials and make the questions as technical as possible, so no obvious answers, also no short answers, make them complicated.
 Don't make the right answers look out of place, and if possible don't give one word answers.
 Each subtopic should have 3 to 14 questions based on the length and contents of the topic, try creating as many answers as possible without repeating topics.
