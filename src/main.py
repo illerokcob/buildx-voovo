@@ -1,6 +1,7 @@
 import os
 from google import genai
 from google.genai import types
+from ai.process_queue import addRequest
 from utils.file_loader import getFileParts
 from ai.generate import generate
 from utils.file_loader import saveResult
@@ -15,26 +16,15 @@ def handleTopic(client: genai.Client, path: str, depth:int = 0):
     fullPath = os.path.join(inputPath, path)
     mainTopicName = os.path.basename(os.path.normpath(fullPath))
     
-    print(((depth + 1) * "  ") + f"Processing main topic: {mainTopicName}", end="", flush=True)
 
     resultPath = os.path.join(outputPath, path, f"{mainTopicName}.json")
+    addRequest(client, fullPath, resultPath, mainTopicName, depth)
 
-    parts = getFileParts(client, fullPath)
-    result = generate(client, parts)
-    if saveResult(fullPath, resultPath, result):
-        print(" ✅")
-    else:
-        print(" ❌")
-    #try:
-        
-    #except Exception:
-    #    print(" ❌❌❌")
 
     
 def processFolderRecursive(client: genai.Client,path: str, depth: int = 0, maxDepth = 10):
     fullPath = os.path.join(inputPath, path)
 
-    print((depth * "  ") + f"Processing folder: {fullPath}")
     entries = os.listdir(fullPath)
     
     isBranch = True
