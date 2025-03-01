@@ -6,44 +6,56 @@ from ai.generate import generate
 from utils.file_loader import saveResult
 
 
-input_path = os.environ.get("INPUT_PATH")
-output_path = os.environ.get("OUTPUT_PATH")
+inputPath = os.environ.get("INPUT_PATH")
+outputPath = os.environ.get("OUTPUT_PATH")
 
 
-def handle_topic(client: genai.Client, path: str):
-    main_topic_name = os.path.basename(path)
-    head, tail = os.path.split(path)
-    course_name = os.path.basename(head)
+def handleTopic(client: genai.Client, path: str, depth:int = 0):
 
-    result_path = os.path.join(output_path, course_name, f"{main_topic_name}.json")
+    fullPath = os.path.join(inputPath, path)
+    mainTopicName = os.path.basename(os.path.normpath(fullPath))
+    
+    print(((depth + 1) * "  ") + f"Processing main topic: {mainTopicName}", end="", flush=True)
 
-    parts = getFileParts(client, path)
+    resultPath = os.path.join(outputPath, path, f"{mainTopicName}.json")
+
+    parts = getFileParts(client, fullPath)
     result = generate(client, parts)
+    if saveResult(fullPath, resultPath, result):
+        print(" ✅")
+    else:
+        print(" ❌")
+    #try:
+        
+    #except Exception:
+    #    print(" ❌❌❌")
 
-    #print(saveResult(path, result_path, result))
-    saveResult(path, result_path, result)
+    
+def processFolderRecursive(client: genai.Client,path: str, depth: int = 0, maxDepth = 10):
+    fullPath = os.path.join(inputPath, path)
+
+    print((depth * "  ") + f"Processing folder: {fullPath}")
+    entries = os.listdir(fullPath)
+    
+    isBranch = True
+    for entry in entries:
+        if os.path.isdir(os.path.join(fullPath, entry)):
+            isBranch = False
+            if depth < maxDepth:
+                processFolderRecursive(client, os.path.join(path, entry), depth = depth + 1, maxDepth = maxDepth)
+    if isBranch:
+        handleTopic(client, path, depth)
 
 def main():
     client = genai.Client(
         api_key=os.environ.get("GEMINI_API_KEY")
     )
 
-    if not os.path.isdir(input_path):
-        print(f"The path '{input_path}' is not a valid directory.")
+    if not os.path.isdir(inputPath):
+        print(f"The path '{inputPath}' is not a valid directory.")
         return
 
-    entries = os.listdir(input_path)
-    for entry in entries:
-        full_path = os.path.join(input_path, entry)
-        if os.path.isdir(full_path):
-            print(f"Processing course collection: {full_path}")
-            entries_lvl2 = os.listdir(full_path)
-            for entry_lvl2 in entries_lvl2:
-                full_path_lvl2 = os.path.join(full_path, entry_lvl2)
-                if os.path.isdir(full_path_lvl2):
-                    print(f" Processing main topic: {full_path_lvl2}", end='', flush=True)
-                    handle_topic(client, full_path_lvl2)
-                    print(" ✅");
+    processFolderRecursive(client,"")
 
 
 main()

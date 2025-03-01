@@ -6,6 +6,8 @@ from google import genai
 from google.genai import types
 import re
 
+from utils.levenshteinDistance import levenshteinDistance
+
 def loadPdfs(client: genai.Client, path: str):
     files = glob.glob(f"{path}*.pdf")
     uploaded_files = []
@@ -34,10 +36,16 @@ def saveResult(src: str, dest: str, aiResponse: str):
     src_subtopics = src_data.get("mainTopic").get("subTopics")
     res_subtopics = res_data.get("subTopics")
     for i in range(len(src_subtopics)):
-        if src_subtopics[i].get("title") != res_subtopics[i].get("title"):
+        if levenshteinDistance(src_subtopics[i].get("title"), res_subtopics[i].get("title")) < 5: # check how different the subtopics are
+            try:
+                src_subtopics[i]["quizzes"] = res_subtopics[i].get("quizzes")
+            except:
+                return False
+        else:
+            print(f'Subtopic mismatch: {src_subtopics[i].get("title")} != {res_subtopics[i].get("title")}')
             return False
     
-    src_data.get("mainTopic")["subTopics"] = res_subtopics
+    
     Path(os.path.dirname(dest)).mkdir(parents=True, exist_ok=True)
     with open(dest, "w") as file:
         print(json.dumps(res_data, indent=4), file=file)

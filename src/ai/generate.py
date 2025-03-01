@@ -27,12 +27,11 @@ def generate(client: genai.Client, parts):
             loadPrompt("default_prompt.txt")
         ],
     )
-    result = ""
-    for chunk in client.models.generate_content_stream(
+    response = client.models.generate_content(
         model=model,
         contents=contents,
         config=generate_content_config,
-    ):
-        result += chunk.text
-        #print(chunk.text, end="")
-    return result
+    )
+    
+    
+    return response.text
