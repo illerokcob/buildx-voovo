@@ -16,12 +16,10 @@ def handleTopic(client: genai.Client, path: str, depth:int = 0):
     fullPath = os.path.join(inputPath, path)
     mainTopicName = os.path.basename(os.path.normpath(fullPath))
     
-
     resultPath = os.path.join(outputPath, path, f"{mainTopicName}.json")
     addRequest(client, fullPath, resultPath, mainTopicName, depth)
 
 
-    
 def processFolderRecursive(client: genai.Client,path: str, depth: int = 0, maxDepth = 10):
     fullPath = os.path.join(inputPath, path)
 

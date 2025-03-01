@@ -48,7 +48,8 @@ def saveResult(src: str, dest: str, aiResponse: str):
     
     Path(os.path.dirname(dest)).mkdir(parents=True, exist_ok=True)
     with open(dest, "w") as file:
-        print(json.dumps(res_data, indent=4), file=file)
+        print(json.dumps(src_data, indent=4), file=file) 
+        # the src_data is returned, because the quizzes are added to it and this way the mainTopic and the subTopic names are reserved like in the examples
     
     return True
 
