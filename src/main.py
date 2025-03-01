@@ -15,8 +15,8 @@ def handleTopic(client: genai.Client, path: str, depth:int = 0):
 
     fullPath = os.path.join(inputPath, path)
     mainTopicName = os.path.basename(os.path.normpath(fullPath))
-    
-    resultPath = os.path.join(outputPath, path, f"{mainTopicName}.json")
+    outPath, _ = os.path.split(os.path.normpath(os.path.join(outputPath, path)))
+    resultPath = os.path.join(outPath, f"{mainTopicName}.json")
     addRequest(client, fullPath, resultPath, mainTopicName, depth)
 
 

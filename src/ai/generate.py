@@ -1,10 +1,6 @@
-import base64
-import os
 from google import genai
 from google.genai import types
-import openai
 from utils.file_loader import loadPrompt
-
 
 def generate(client: genai.Client, parts):
 
@@ -33,5 +29,6 @@ def generate(client: genai.Client, parts):
         config=generate_content_config,
     )
     
-    
     return response.text
+
+

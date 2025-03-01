@@ -1,4 +1,3 @@
-import os
 import threading
 from google import genai
 from google.genai import types
@@ -12,7 +11,7 @@ threadFinishedEvent = threading.Event()
 runningThreads = 0
 MAX_THREADS = 20
 
-MIN_DELAY_MS = 5000 # Minimum waiting time between startign new requests
+MIN_DELAY_MS = 6000 # Minimum waiting time between startign new requests
 delayEvent = threading.Event()
 delayEvent.set()
 
@@ -24,7 +23,7 @@ def topicWorker(client, srcPath, resPath, topic):
     try:
         parts = getFileParts(client, srcPath)
         result = generate(client, parts)
-
+        
         # Update line by overwriting it
         if saveResult(srcPath, resPath, result):
             print(f"{prefix} ✅")
@@ -33,10 +32,14 @@ def topicWorker(client, srcPath, resPath, topic):
 
     except Exception as e:
         print(f"{prefix} ❌❌❌")
-        #print(e)
+        
         if str(e).startswith("429"):
-            print("Out of resource")
-        print()
+            print("Out of resource, waiting 30 seconds")
+            time.sleep(30)
+            addRequest(client, srcPath, resPath, topic)
+        else:
+            print(e)
+            print("❌❌❌ Cannot resolve ❌❌❌")
 
     threadFinishedEvent.set()
     runningThreads -= 1
@@ -46,7 +49,7 @@ def delay():
     time.sleep(MIN_DELAY_MS * 0.001)
     delayEvent.set()
 
-def addRequest(client: genai.Client, srcPath: str, resPath: str, topic: str, depth: int):
+def addRequest(client: genai.Client, srcPath: str, resPath: str, topic: str, depth: int = 0):
     global runningThreads
     
     delayEvent.wait()
