@@ -2,6 +2,7 @@ import glob
 import json
 import os
 from pathlib import Path
+import PyPDF2
 from google import genai
 from google.genai import types
 import re
@@ -82,3 +83,27 @@ def loadPrompt(promptName: str):
     return types.Part.from_text(
                 text=prompt
             )
+
+# Reads the content_info from the json files
+def readJsonContentInfoToString(path:str):
+    files = glob.glob(f"{path}/*.json")
+    with open(files[0],"r") as file:
+        data = json.load(file)
+
+    contentInfo = data.get("mainTopic").get("content_info")
+    if contentInfo:
+        return str(contentInfo)
+    return ""
+
+def readPdfToString(path: str):
+    files = glob.glob(f"{path}*.pdf")
+    text = ''
+    for file in files:
+        with open(file, 'rb') as file:
+            reader = PyPDF2.PdfReader(file)
+            
+            # Iterate through each page and extract text
+            for page_num in range(len(reader.pages)):
+                page = reader.pages[page_num]
+                text += page.extract_text()
+    return text

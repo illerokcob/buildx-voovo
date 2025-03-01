@@ -11,7 +11,7 @@ threadFinishedEvent = threading.Event()
 runningThreads = 0
 MAX_THREADS = 20
 
-MIN_DELAY_MS = 6000 # Minimum waiting time between startign new requests
+MIN_DELAY_MS = 6000 # Minimum waiting time between starting new requests
 delayEvent = threading.Event()
 delayEvent.set()
 
