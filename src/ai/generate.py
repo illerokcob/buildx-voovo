@@ -34,5 +34,5 @@ def generate(client: genai.Client, parts):
         config=generate_content_config,
     ):
         result += chunk.text
-        print(chunk.text, end="")
+        #print(chunk.text, end="")
     return result
