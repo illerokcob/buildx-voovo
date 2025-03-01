@@ -1,6 +1,7 @@
 import glob
 import json
 import os
+from pathlib import Path
 from google import genai
 from google.genai import types
 import re
@@ -26,7 +27,7 @@ def saveResult(src: str, dest: str, aiResponse: str):
     json_string = re.findall(regex,aiResponse,re.DOTALL)
     res_data = json.loads(json_string[0])
     
-    files = glob.glob(f"{src}*.json")
+    files = glob.glob(f"{src}/*.json")
     with open(files[0],"r") as file:
         src_data = json.load(file)
     
@@ -37,14 +38,14 @@ def saveResult(src: str, dest: str, aiResponse: str):
             return False
     
     src_data.get("mainTopic")["subTopics"] = res_subtopics
-    
-    with open(dest, mode="w") as file:
-        print(json.dumps(src_data, indent=4), file=file)
+    Path(os.path.dirname(dest)).mkdir(parents=True, exist_ok=True)
+    with open(dest, "w") as file:
+        print(json.dumps(res_data, indent=4), file=file)
     
     return True
 
 def getSubtopics(path: str):
-    files = glob.glob(f"{path}*.json")
+    files = glob.glob(f"{path}/*.json")
     with open(files[0],"r") as file:
         data = json.load(file)
     subtopics = []
@@ -65,8 +66,8 @@ def getFileParts(client: genai.Client, path: str):
     parts += getSubtopics(path)
     return parts
 
-def loadPrompt(prompName: str):
-    path = os.environ.get("PROMPT_LOCATIONS") + prompName
+def loadPrompt(promptName: str):
+    path = os.environ.get("PROMPT_LOCATIONS") + promptName
     with open(path, "r") as file:
         prompt = file.read()
     return types.Part.from_text(
