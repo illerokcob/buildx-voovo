@@ -26,6 +26,8 @@ def addStats(data0: dict, data1: dict):
 def stringToDict(review: str):
     regex = r"```json(.*)```"
     json_string = re.findall(regex,review,re.DOTALL)
+    if len(json_string) == 0:
+        return json.loads(review)
     return json.loads(json_string[0])
 
 def evalQuestion(data: dict):

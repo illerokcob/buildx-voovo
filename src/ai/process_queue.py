@@ -1,5 +1,7 @@
+import json
 import os
 import threading
+import traceback
 from google import genai
 from google.genai import types
 from ai.openai_verifier import generateVerification
@@ -8,6 +10,8 @@ from utils.file_loader import getFileParts, loadPdfs, saveJSON
 from ai.generate import generate
 from utils.file_loader import saveResult
 import time
+
+ENABLE_OPENAI = True
 
 threadFinishedEvent = threading.Event()
 runningThreads = 0
@@ -38,7 +42,10 @@ def topicWorker(client, srcPath, resPath, topic):
         
         verificationParts = loadPdfs(client, srcPath)
         verificationParts.append(types.Part.from_text(text=str(result)))
-        review = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
+        if ENABLE_OPENAI:
+            review = stringToDict(generateVerification(json.dumps(result, indent=4),srcPath))
+        else:
+            review = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
         analitics["original"] = evalReview(review)
         print(f"{prefix} 2/3")
 
@@ -48,7 +55,10 @@ def topicWorker(client, srcPath, resPath, topic):
         
         verificationParts = loadPdfs(client, srcPath)
         verificationParts.append(types.Part.from_text(text=str(correctedResult)))
-        correctedReview = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
+        if ENABLE_OPENAI:
+            correctedReview = stringToDict(generateVerification(json.dumps(correctedResult, indent=4),srcPath))
+        else:
+            correctedReview = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
         analitics["revised"] = evalReview(correctedReview)
         
         correctedResult = filterBetter(result, correctedResult, review, correctedReview)
@@ -72,6 +82,7 @@ def topicWorker(client, srcPath, resPath, topic):
         else:
             print(e)
             print("❌❌❌ Cannot resolve ❌❌❌")
+            print(traceback.format_exc())
 
     threadFinishedEvent.set()
     runningThreads -= 1
