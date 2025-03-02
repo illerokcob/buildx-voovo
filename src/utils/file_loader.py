@@ -38,6 +38,8 @@ def saveResult(src: str, dest: str, res_data: dict):
         src_data = json.load(file)
     
     src_subtopics = src_data.get("mainTopic").get("subTopics")
+    src_data["mainTopic"]["team_name"] = "Bobókocka"
+
     res_subtopics = res_data.get("subTopics")
     for i in range(len(src_subtopics)):
         if levenshteinDistance(src_subtopics[i].get("title"), res_subtopics[i].get("title")) < 5: # check how different the subtopics are

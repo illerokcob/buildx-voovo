@@ -69,12 +69,12 @@ def filterBetter(result: dict, correctedResult: dict, review: dict, correctedRev
     reviewSubts = review.get("subTopics")
     corrReviewSubts = correctedReview.get("subTopics")
     
-    for i in range(len(originalSubts)):
+    for i in range(min(len(originalSubts),len(correctedSubts),len(reviewSubts),len(corrReviewSubts))):
         quizzes = originalSubts[i].get("quizzes")
         correctedQuizzes = correctedSubts[i].get("quizzes")
         reviewQuizzes = reviewSubts[i].get("quizzes")
         correctedReviewQuizzes = corrReviewSubts[i].get("quizzes")
-        for j in range(len(quizzes)):
+        for j in range(min(len(quizzes),len(correctedQuizzes),len(reviewQuizzes),len(correctedReviewQuizzes))):
             original = evalQuestion(reviewQuizzes[j])
             revised = evalQuestion(correctedReviewQuizzes[j])
             if original > revised:

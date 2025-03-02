@@ -24,12 +24,15 @@ def startCooldown():
             condition.notify(1)
             requests -= 1
     running = False
+    with condition:
+        condition.notifyAll()
 
 def generateVerification(aiResponse: str, path: str):
     global running
     global requests
+    requests += 1
+    
     if running:
-        requests += 1
         with condition:
             condition.wait()
     else:
@@ -37,7 +40,6 @@ def generateVerification(aiResponse: str, path: str):
         cooldown = threading.Thread(target=startCooldown,args=())
         cooldown.start()
 
-    
     contentInfo = readJsonContentInfoToString(path)
 
     pdfContent = readPdfToString(path)

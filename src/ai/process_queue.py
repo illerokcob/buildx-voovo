@@ -52,7 +52,8 @@ def topicWorker(client, srcPath, resPath, topic):
         parts.append(types.Part.from_text(text=str(result)))
         parts.append(types.Part.from_text(text=str(review)))
         correctedResult = stringToDict(generate(client, parts, "correction_prompt.txt"))
-        
+        print(f"{prefix} 3/3")
+
         verificationParts = loadPdfs(client, srcPath)
         verificationParts.append(types.Part.from_text(text=str(correctedResult)))
         if ENABLE_OPENAI:
@@ -66,7 +67,7 @@ def topicWorker(client, srcPath, resPath, topic):
 
         if ANALYTICS_PATH:
             saveJSON(os.path.join(ANALYTICS_PATH,f"{topic} - stats.json"),analitics)
-                    
+
         if saveResult(srcPath, resPath, correctedResult):
             print(f"{prefix} ✅")
         else:
