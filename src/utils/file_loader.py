@@ -78,7 +78,7 @@ def getFileParts(client: genai.Client, path: str):
     return parts
 
 def loadPrompt(promptName: str):
-    path = os.environ.get("PROMPT_LOCATIONS") + promptName
+    path = os.path.join(os.environ.get("PROMPT_LOCATIONS"), promptName)
     with open(path, "r") as file:
         prompt = file.read()
     return types.Part.from_text(
