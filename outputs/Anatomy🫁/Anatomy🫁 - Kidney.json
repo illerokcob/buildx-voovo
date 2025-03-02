@@ -1,0 +1,96 @@
+{
+    "mainTopic": {
+        "title": "Kidney",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Gross anatomy of the kidney",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the macroscopic structure of the renal hilum and its positional relationship within the kidney's anatomy?",
+                        "goodAnswer": "The renal hilum, a concave fissure on the medial border of each kidney, serves as the entry and exit point for the renal artery, renal vein, lymphatic vessels, nerves, and the ureter.",
+                        "wrongAnswer_1": "The renal hilum, a convex ridge located on the lateral border of each kidney, is the primary site for the passage of the renal artery, renal vein, efferent arterioles, nerves, and the ureter.",
+                        "wrongAnswer_2": "The renal hilum, a concave fissure situated on the lateral aspect of each kidney, facilitates the passage of the renal artery, renal vein, glomerular capillaries, sympathetic nerves, and the urethra.",
+                        "wrongAnswer_3": "The renal hilum, a convex depression found on the medial border of each kidney, provides an opening for the renal artery, renal vein, lymphatic ducts, parasympathetic nerves, and the bladder.",
+                        "wrongAnswer_4": "The renal hilum, a circular foramen on the superior pole of each kidney, is the conduit for the renal artery, renal vein, lymphatic vessels, somatic nerves, and the urethra."
+                    },
+                    {
+                        "question": "Identify the correct order of tissue layers, progressing from the outermost to the innermost, that encapsulate and protect the kidney, contributing to its structural integrity.",
+                        "goodAnswer": "Renal fascia -> Perirenal fat capsule -> Renal capsule describes the layers from outermost to innermost, providing structural support and protection to the kidney.",
+                        "wrongAnswer_1": "Pararenal fat body -> Renal fascia -> Perirenal fat capsule represents the tissue layers from the most superficial to deepest, offering insulation and mechanical cushioning to the kidney.",
+                        "wrongAnswer_2": "Renal capsule -> Renal fascia -> Perirenal fat capsule outlines the sequence of tissue layers from external to internal, contributing to the kidney's anchorage and thermal regulation.",
+                        "wrongAnswer_3": "Renal fascia -> Renal capsule -> Perirenal fat capsule indicates the arrangement of layers from superficial to profound, primarily concerned with fluid balance and immune defense of the kidney.",
+                        "wrongAnswer_4": "Perirenal fat capsule -> Renal capsule -> Renal fascia is the correct order of layers from external to internal, which are vital for the metabolic support and endocrine function of the kidney."
+                    },
+                    {
+                        "question": "Describe the anatomical relationship between the renal cortex and renal medulla, specifying their distinct structural components and spatial arrangement within the kidney.",
+                        "goodAnswer": "The renal cortex, the outer region, surrounds the inner renal medulla, and contains renal corpuscles and convoluted tubules, while the medulla consists of renal pyramids and collecting ducts.",
+                        "wrongAnswer_1": "The renal medulla, the outer layer, completely encloses the renal cortex, and contains renal corpuscles and collecting ducts, whereas the cortex is composed of renal pyramids and convoluted tubules.",
+                        "wrongAnswer_2": "The renal cortex, the central zone, is encircled by the renal medulla, and is characterized by renal pyramids and convoluted tubules, while the medulla houses renal corpuscles and collecting ducts.",
+                        "wrongAnswer_3": "The renal medulla, the superficial region, covers the renal cortex internally, and includes renal corpuscles and renal pyramids, with the cortex containing convoluted tubules and collecting ducts.",
+                        "wrongAnswer_4": "Both the renal cortex and renal medulla are intermixed, with renal corpuscles and pyramids distributed evenly throughout, and convoluted tubules and collecting ducts forming a separate layer around them."
+                    }
+                ]
+            },
+            {
+                "title": "Nephrons",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately represents the sequential arrangement of tubular segments within a nephron, starting from Bowman's capsule and progressing towards the collecting duct system?",
+                        "goodAnswer": "Bowman's capsule -> Proximal convoluted tubule -> Loop of Henle -> Distal convoluted tubule -> Collecting duct accurately depicts the nephron's tubular segment order from initial filtration to urine collection.",
+                        "wrongAnswer_1": "Bowman's capsule -> Distal convoluted tubule -> Loop of Henle -> Proximal convoluted tubule -> Collecting duct is the sequence of nephron segments, beginning at filtration and concluding at urine excretion.",
+                        "wrongAnswer_2": "Proximal convoluted tubule -> Bowman's capsule -> Loop of Henle -> Distal convoluted tubule -> Collecting duct describes the flow through nephron segments, initiated at reabsorption and ending at urine storage.",
+                        "wrongAnswer_3": "Bowman's capsule -> Loop of Henle -> Proximal convoluted tubule -> Distal convoluted tubule -> Collecting duct represents the order of nephron tubules, starting with filtration and leading to urine concentration.",
+                        "wrongAnswer_4": "Distal convoluted tubule -> Loop of Henle -> Proximal convoluted tubule -> Bowman's capsule -> Collecting duct is the correct sequence of nephron segments, commencing at secretion and culminating in urine transport."
+                    },
+                    {
+                        "question": "Differentiate between cortical and juxtamedullary nephrons based on their location within the kidney and the structural characteristics of their loops of Henle.",
+                        "goodAnswer": "Cortical nephrons are located primarily in the renal cortex with short loops of Henle that barely extend into the outer medulla, whereas juxtamedullary nephrons have glomeruli near the corticomedullary border and long loops of Henle extending deep into the inner medulla.",
+                        "wrongAnswer_1": "Cortical nephrons are situated deeply within the renal medulla and possess long loops of Henle reaching into the renal pelvis, while juxtamedullary nephrons reside in the cortex and have short loops confined to the outer cortex.",
+                        "wrongAnswer_2": "Both cortical and juxtamedullary nephrons are exclusively located in the renal cortex, differing only in the diameter of their glomeruli and the presence of vasa recta surrounding their tubules.",
+                        "wrongAnswer_3": "Juxtamedullary nephrons are located superficially in the renal cortex with short loops of Henle that extend into the outer medulla, and cortical nephrons are found near the renal pelvis with long loops reaching deep into the inner medulla.",
+                        "wrongAnswer_4": "Cortical nephrons are characterized by glomeruli close to the corticomedullary junction and extensive loops of Henle penetrating the inner medulla, while juxtamedullary nephrons have glomeruli in the outer cortex and minimal loops confined to the cortex and outer medulla."
+                    },
+                    {
+                        "question": "Describe the key structural components of the renal corpuscle, including Bowman's capsule and the glomerulus, emphasizing their respective roles in the initial stage of urine formation.",
+                        "goodAnswer": "The renal corpuscle comprises Bowman's capsule, a cup-shaped structure enclosing the glomerulus, a capillary network; Bowman's capsule filters blood from the glomerulus initiating urine formation.",
+                        "wrongAnswer_1": "The renal corpuscle consists of the glomerulus, a tubular segment surrounding Bowman's capsule, a spherical structure; the glomerulus reabsorbs filtrate into Bowman's capsule to start urine formation.",
+                        "wrongAnswer_2": "The renal corpuscle is made up of Bowman's capsule, a capillary network within the glomerulus, a collecting duct; Bowman's capsule secretes waste into the glomerulus for initial urine production.",
+                        "wrongAnswer_3": "The renal corpuscle includes the glomerulus, a capsule-like structure around Bowman's capsule, a tubular component; the glomerulus concentrates urine within Bowman's capsule to begin urine formation.",
+                        "wrongAnswer_4": "The renal corpuscle is composed of Bowman's capsule, a network of efferent arterioles forming the glomerulus, a spherical body; Bowman's capsule actively transports solutes into the glomerulus to initiate urine formation."
+                    }
+                ]
+            },
+            {
+                "title": "Vasculature of the kidney",
+                "quizzes": [
+                    {
+                        "question": "Trace the pathway of arterial blood flow into the kidney, correctly ordering the arterial segments from the renal artery to the afferent arterioles that supply the glomeruli.",
+                        "goodAnswer": "Renal artery -> Segmental arteries -> Interlobar arteries -> Arcuate arteries -> Interlobular arteries -> Afferent arterioles accurately outlines the sequence of arterial blood flow to the glomeruli.",
+                        "wrongAnswer_1": "Renal artery -> Segmental arteries -> Interlobar arteries -> Interlobular arteries -> Arcuate arteries -> Afferent arterioles presents a slightly altered sequence of arterial segments, reversing the order of arcuate and interlobular arteries.",
+                        "wrongAnswer_2": "Renal artery -> Segmental arteries -> Arcuate arteries -> Interlobar arteries -> Interlobular arteries -> Afferent arterioles describes a pathway where arcuate arteries precede interlobar arteries in the renal arterial tree.",
+                        "wrongAnswer_3": "Renal artery -> Interlobar arteries -> Segmental arteries -> Arcuate arteries -> Interlobular arteries -> Afferent arterioles illustrates an order where interlobar arteries branch off before segmental arteries in the arterial supply.",
+                        "wrongAnswer_4": "Renal artery -> Interlobular arteries -> Arcuate arteries -> Segmental arteries -> Interlobar arteries -> Afferent arterioles shows a sequence beginning with interlobular arteries branching directly from the renal artery."
+                    },
+                    {
+                        "question": "Describe the efferent arterioles and their subsequent vascular destinations in both cortical and juxtamedullary nephrons, highlighting the structural and functional differences.",
+                        "goodAnswer": "Efferent arterioles from cortical nephrons primarily form peritubular capillaries surrounding cortical tubules, facilitating reabsorption and secretion, while efferent arterioles from juxtamedullary nephrons form vasa recta that descend into the medulla alongside the loop of Henle, crucial for urine concentration.",
+                        "wrongAnswer_1": "Efferent arterioles from cortical nephrons mainly give rise to vasa recta surrounding medullary tubules in the cortex, designed for nutrient delivery, and efferent arterioles from juxtamedullary nephrons form peritubular capillaries around cortical nephron segments, aiding in filtration.",
+                        "wrongAnswer_2": "Efferent arterioles from both cortical and juxtamedullary nephrons converge to form a singular network of peritubular capillaries that uniformly surrounds all nephron segments throughout the kidney, ensuring consistent blood flow.",
+                        "wrongAnswer_3": "Efferent arterioles from cortical nephrons branch into glomerular capillaries for a second filtration stage, enhancing waste removal, whereas efferent arterioles of juxtamedullary nephrons directly drain into the renal vein, bypassing capillary beds.",
+                        "wrongAnswer_4": "Efferent arterioles from all nephrons, regardless of type, consistently develop into vasa recta that are exclusively located within the renal cortex and play a role in cortical reabsorption only, maintaining cortical osmolarity."
+                    },
+                    {
+                        "question": "Outline the venous drainage pathway from the kidney, arranging the venous segments from the interlobular veins to the renal vein that exits the kidney at the hilum.",
+                        "goodAnswer": "Interlobular veins -> Arcuate veins -> Interlobar veins -> Renal vein correctly sequences the venous drainage from the nephrons towards the renal vein exiting the kidney.",
+                        "wrongAnswer_1": "Interlobular veins -> Interlobar veins -> Arcuate veins -> Renal vein presents a pathway where interlobar veins precede arcuate veins in the renal venous drainage system.",
+                        "wrongAnswer_2": "Arcuate veins -> Interlobular veins -> Interlobar veins -> Renal vein describes a venous drainage route starting with arcuate veins collecting directly from interlobular capillaries.",
+                        "wrongAnswer_3": "Interlobular veins -> Cortical radial veins -> Arcuate veins -> Renal vein illustrates a pathway including cortical radial veins as an intermediary in the venous outflow.",
+                        "wrongAnswer_4": "Interlobar veins -> Arcuate veins -> Interlobular veins -> Renal vein shows an order where interlobar veins collect from arcuate veins before draining into interlobular veins."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

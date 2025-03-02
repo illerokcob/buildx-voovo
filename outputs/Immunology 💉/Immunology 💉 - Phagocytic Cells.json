@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Phagocytic Cells",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Types and functions of phagocytic cells",
+                "quizzes": [
+                    {
+                        "question": "Which of the following cell types is characterized as a professional phagocyte, primarily responsible for the engulfment and destruction of pathogens and cellular debris within tissues, and known for its role in initiating the adaptive immune response by presenting antigens to T cells?",
+                        "goodAnswer": "Macrophages are tissue-resident professional phagocytes that engulf pathogens, cellular debris, and present antigens to T cells, initiating adaptive immune responses within the tissue environment.",
+                        "wrongAnswer_1": "Neutrophils are blood-circulating professional phagocytes that primarily target viral-infected cells and present antigens to B cells, initiating humoral immunity in the bloodstream.",
+                        "wrongAnswer_2": "Dendritic cells are lymph node-resident professional phagocytes that process soluble antigens and present them to NK cells, initiating innate lymphoid responses in lymphatic tissues.",
+                        "wrongAnswer_3": "Eosinophils are mucosal-tissue professional phagocytes specialized in phagocytosing parasites and presenting lipid antigens to gamma delta T cells, initiating mucosal barrier immunity.",
+                        "wrongAnswer_4": "Basophils are bone marrow-derived professional phagocytes that engulf allergens and present them to mast cells, initiating immediate hypersensitivity reactions in vascularized tissues."
+                    },
+                    {
+                        "question": "Identify the primary function associated with neutrophils, which are the most abundant type of leukocytes in the blood and are rapidly recruited to sites of infection.",
+                        "goodAnswer": "Neutrophils are primarily involved in the rapid response to infection through phagocytosis of bacteria and fungi, degranulation releasing antimicrobial peptides, and formation of neutrophil extracellular traps (NETs) to immobilize pathogens.",
+                        "wrongAnswer_1": "Neutrophils primarily function in the adaptive immune response by producing antigen-specific antibodies, releasing histamine to promote vasodilation, and forming neutrophil intracellular traps (NITs) to neutralize intracellular viruses.",
+                        "wrongAnswer_2": "Neutrophils primarily function in resolving chronic inflammation by secreting anti-inflammatory cytokines, releasing growth factors to stimulate tissue repair, and forming neutrophil extracellular substances (NESs) to degrade damaged tissue.",
+                        "wrongAnswer_3": "Neutrophils are mainly involved in allergic reactions by phagocytosing allergens, releasing heparin to prevent blood clotting, and forming neutrophil-derived granulomas to encapsulate foreign bodies.",
+                        "wrongAnswer_4": "Neutrophils primarily function in immune surveillance against tumors by directly lysing cancer cells, releasing cytotoxic granules containing perforin and granzymes, and forming neutrophil-tumor extracellular networks (NTENs) to contain tumor growth."
+                    },
+                    {
+                        "question": "Which phagocytic cell type, derived from monocytes, exhibits a high degree of plasticity, allowing it to differentiate into functionally distinct subtypes based on environmental cues, and plays a crucial role in both pro-inflammatory and anti-inflammatory processes?",
+                        "goodAnswer": "Macrophages, originating from monocytes, are highly plastic phagocytes capable of differentiating into diverse subtypes, such as M1 (pro-inflammatory) and M2 (anti-inflammatory), based on microenvironmental signals, influencing both inflammatory initiation and resolution.",
+                        "wrongAnswer_1": "Neutrophils, originating from granulocytes, are highly plastic phagocytes that differentiate into subtypes like N1 (pro-viral) and N2 (anti-bacterial), based on pathogen-derived signals, primarily involved in pathogen-specific clearance.",
+                        "wrongAnswer_2": "Dendritic cells, originating from lymphoid precursors, are highly plastic phagocytes differentiating into DC1 (T-helper 1 promoting) and DC2 (T-helper 2 promoting) subtypes, based on cytokine milieu, mainly regulating adaptive T cell responses.",
+                        "wrongAnswer_3": "Mast cells, originating from myeloid-erythroid progenitors, are highly plastic phagocytes differentiating into MC1 (pro-allergic) and MC2 (anti-parasitic) subtypes, based on allergen exposure, primarily mediating immediate hypersensitivity reactions.",
+                        "wrongAnswer_4": "Eosinophils, originating from megakaryocyte-erythroid progenitors, are highly plastic phagocytes that differentiate into EO1 (pro-fibrotic) and EO2 (anti-fibrotic) subtypes, based on tissue damage signals, predominantly involved in tissue remodeling processes."
+                    }
+                ]
+            },
+            {
+                "title": "Neutrophils and Macrophages",
+                "quizzes": [
+                    {
+                        "question": "Contrast the typical lifespan and primary location of neutrophils and macrophages within the human body.",
+                        "goodAnswer": "Neutrophils typically have a short lifespan of hours to a few days and primarily circulate in the bloodstream, being rapidly recruited to tissues during inflammation, whereas macrophages exhibit a longer lifespan, residing in tissues as sentinels.",
+                        "wrongAnswer_1": "Neutrophils have a long lifespan of weeks to months and primarily reside within tissue parenchyma, acting as long-term immune surveyors, while macrophages are short-lived, circulating in the blood and lymphatics during acute infection.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages are characterized by a short lifespan of minutes to hours and primarily operate within the lymphatic system, facilitating rapid antigen transport and immune activation in lymph nodes.",
+                        "wrongAnswer_3": "Both neutrophils and macrophages are long-lived cells persisting for months to years and primarily reside in bone marrow, serving as reservoirs for immediate release upon systemic immune challenge.",
+                        "wrongAnswer_4": "Neutrophils are moderately long-lived with a lifespan of days to weeks residing in secondary lymphoid organs, where they initiate adaptive immune responses, and macrophages are extremely short-lived, limited to the site of injury within tissues."
+                    },
+                    {
+                        "question": "Differentiate between the roles of neutrophils and macrophages in the context of an acute bacterial infection.",
+                        "goodAnswer": "In acute bacterial infections, neutrophils act as the first line of defense, rapidly migrating to the site of infection to phagocytose bacteria and release antimicrobial substances, while macrophages arrive later to clear cellular debris, modulate inflammation, and initiate tissue repair processes.",
+                        "wrongAnswer_1": "In acute bacterial infections, macrophages are the initial responders, rapidly phagocytosing bacteria and releasing pro-inflammatory cytokines to recruit neutrophils, while neutrophils arrive later to present bacterial antigens and activate adaptive immunity.",
+                        "wrongAnswer_2": "Neutrophils are primarily involved in containing viral infections during the acute phase, producing interferon and limiting viral spread, whereas macrophages handle bacterial infections and subsequent parasitic infestations during the resolution phase.",
+                        "wrongAnswer_3": "Macrophages are primarily responsible for initiating inflammation in acute bacterial infections through histamine release and vasodilation, while neutrophils resolve inflammation and promote tissue regeneration by secreting anti-inflammatory mediators.",
+                        "wrongAnswer_4": "Neutrophils and macrophages respond simultaneously to acute bacterial infections, with macrophages focused on bacterial phagocytosis and neutrophils specializing in antigen presentation to bridge innate and adaptive immunity."
+                    },
+                    {
+                        "question": "Which statement accurately describes the receptor usage and activation pathways that distinguish neutrophil and macrophage responses to pathogens?",
+                        "goodAnswer": "Neutrophils predominantly utilize Toll-like receptors (TLRs) and complement receptors (CRs) for pathogen recognition, leading to rapid activation and degranulation for immediate antimicrobial effects, whereas macrophages employ a broader array of receptors, including Fc receptors (FcRs) and cytokine receptors, enabling more diverse and sustained responses encompassing phagocytosis, antigen presentation, and immunomodulation.",
+                        "wrongAnswer_1": "Macrophages primarily utilize TLRs and CRs for pathogen recognition, resulting in rapid degranulation and NET formation, while neutrophils mainly rely on FcRs and cytokine receptors for slower, antibody-dependent cellular cytotoxicity and cytokine-mediated inflammation resolution.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages exclusively utilize TLRs for pathogen recognition, leading to convergent activation pathways characterized by immediate antibody production and complement activation, ensuring a unified innate immune response.",
+                        "wrongAnswer_3": "Neutrophils primarily rely on Fc receptors for pathogen recognition, mediating antibody-dependent cellular phagocytosis, whereas macrophages mainly use cytokine receptors for chemotaxis and inflammation amplification through chemokine production.",
+                        "wrongAnswer_4": "Both neutrophils and macrophages primarily use cytokine receptors for pathogen recognition, resulting in delayed activation focused on adaptive immune responses rather than immediate innate effector mechanisms, emphasizing long-term immunological memory."
+                    }
+                ]
+            },
+            {
+                "title": "Targets of Neutrophil Products",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary target of neutrophil-derived reactive oxygen species (ROS) in the context of pathogen elimination.",
+                        "goodAnswer": "The primary target of neutrophil-derived ROS is microbial pathogens, where ROS induce oxidative damage to essential microbial biomolecules including proteins, lipids, and nucleic acids, leading to direct pathogen destruction and growth inhibition within the phagolysosome.",
+                        "wrongAnswer_1": "The primary target of neutrophil-derived ROS is host tissue cells, where ROS induce controlled oxidative damage to host proteins, lipids, and DNA to promote inflammation resolution and subsequent tissue remodeling during the healing phase.",
+                        "wrongAnswer_2": "The primary target of neutrophil-derived ROS is the extracellular matrix, where ROS induce structural modifications to collagen and elastin fibers, leading to tissue matrix degradation and facilitating immune cell migration into the infected site.",
+                        "wrongAnswer_3": "The primary target of neutrophil-derived ROS is immune cell signaling molecules, where ROS modulate cytokine and chemokine receptor activity on neighboring immune cells, leading to immune suppression and prevention of excessive inflammation.",
+                        "wrongAnswer_4": "The primary target of neutrophil-derived ROS is circulating antibodies, where ROS induce conformational changes in immunoglobulin structures, leading to enhanced antibody neutralization capacity against extracellular pathogens in the bloodstream."
+                    },
+                    {
+                        "question": "What are the primary targets of neutrophil-derived proteases, such as elastase and proteinase 3, in the inflammatory environment?",
+                        "goodAnswer": "Neutrophil proteases primarily target bacterial virulence factors, extracellular matrix components, and host tissue proteins, contributing to both pathogen degradation and tissue damage.",
+                        "wrongAnswer_1": "Neutrophil proteases primarily target viral capsid proteins, intracellular signaling pathways, and host cell DNA, contributing to both viral inactivation and cellular apoptosis.",
+                        "wrongAnswer_2": "Neutrophil proteases primarily target fungal cell walls, complement cascade components, and host cell lipids, contributing to both fungal clearance and membrane repair.",
+                        "wrongAnswer_3": "Neutrophil proteases primarily target parasitic antigens, antibody structures, and host cell carbohydrates, contributing to both parasite elimination and glycan synthesis.",
+                        "wrongAnswer_4": "Neutrophil proteases primarily target tumor cell surface markers, growth factor receptors, and host cell RNA, contributing to both tumor cell lysis and gene transcription."
+                    },
+                    {
+                        "question": "Describe the mechanism and primary targets of neutrophil extracellular traps (NETs) in combating infection.",
+                        "goodAnswer": "NETs are composed of decondensed DNA, histones, and antimicrobial proteins like myeloperoxidase and elastase, released extracellularly by neutrophils to ensnare and kill pathogens primarily in the extracellular space, with bacteria and fungi being major targets due to their size and extracellular location.",
+                        "wrongAnswer_1": "NETs are composed of processed RNA, lipids, and signaling molecules such as cytokines and chemokines, released intracellularly by neutrophils to activate intracellular signaling pathways and kill pathogens within the neutrophil cytoplasm, primarily targeting viruses and intracellular parasites.",
+                        "wrongAnswer_2": "NETs are composed of a complex of proteins, carbohydrates, and cytokines including TNF-alpha and IL-6, released via cell-cell contact by neutrophils to modulate immune responses and kill pathogens through direct cytotoxic mechanisms, primarily targeting tumor cells and allergens in the tissue microenvironment.",
+                        "wrongAnswer_3": "NETs are composed of cytoplasm, organelles, and metabolic enzymes such as lysozyme and defensins, released into the phagolysosome by neutrophils to promote tissue repair and kill pathogens through nutrient deprivation and enzymatic degradation, primarily targeting damaged host cells and cellular debris.",
+                        "wrongAnswer_4": "NETs are composed of granules, receptors such as TLRs and CRs, and adhesion molecules like integrins, released on the neutrophil cell surface to facilitate cell migration and kill pathogens by opsonization and receptor-mediated phagocytosis, primarily targeting protozoa and helminths in the bloodstream."
+                    }
+                ]
+            },
+            {
+                "title": "Protective mechansims",
+                "quizzes": [
+                    {
+                        "question": "Which of the following mechanisms represents a primary protective barrier function of the skin against pathogen invasion?",
+                        "goodAnswer": "The skin's primary protective mechanism is the stratum corneum, a physical barrier of keratinized epithelium, complemented by antimicrobial peptides like defensins and cathelicidins secreted by keratinocytes, which disrupt microbial membranes and prevent pathogen colonization on the skin surface.",
+                        "wrongAnswer_1": "The skin's primary protective mechanism involves the dense network of antibodies secreted by dermal lymphocytes, particularly IgA and IgG, and complement activation within the dermis, which directly neutralize pathogens and prevent systemic spread upon initial skin contact.",
+                        "wrongAnswer_2": "The skin's primary protective mechanism involves the continuous production of mucus by specialized epidermal glands and ciliary action on the skin surface, effectively trapping airborne pathogens and facilitating their removal through external mucociliary clearance mechanisms.",
+                        "wrongAnswer_3": "The skin's primary protective mechanism involves immediate vasodilation and increased vascular permeability in the epidermal and dermal layers, allowing rapid and extensive immune cell infiltration and pathogen clearance through enhanced vascular access and immune surveillance.",
+                        "wrongAnswer_4": "The skin's primary protective mechanism involves copious sebum production by subcutaneous sebaceous glands and hypotonic sweat secretion from eccrine sweat glands, creating a hypertonic, lipid-rich environment and continuously flushing out transient pathogens from the skin surface."
+                    },
+                    {
+                        "question": "Identify the role of the complement system as a protective mechanism in the context of innate immunity.",
+                        "goodAnswer": "The complement system, a crucial component of innate immunity, functions as a protective mechanism by opsonizing pathogens with C3b to enhance phagocytosis, directly lysing certain Gram-negative bacteria through the membrane attack complex (MAC), and generating anaphylatoxins (C3a and C5a) to promote inflammation and recruit immune cells.",
+                        "wrongAnswer_1": "The complement system functions as a protective mechanism by directly neutralizing viral particles through antibody-like binding of complement components, stimulating B cell antibody production and class switching, and suppressing excessive inflammation through the production of regulatory complement proteins.",
+                        "wrongAnswer_2": "The complement system functions as a protective mechanism by activating cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells to induce apoptosis of virally infected cells, promoting tissue repair through complement-mediated growth factor release, and limiting pathogen dissemination through complement-driven coagulation.",
+                        "wrongAnswer_3": "The complement system functions as a protective mechanism by enhancing antigen presentation to B cells and T cells via complement receptors on antigen-presenting cells, stimulating immunoglobulin class switching towards IgE, and inhibiting inflammation through the production of anti-inflammatory complement fragments.",
+                        "wrongAnswer_4": "The complement system functions as a protective mechanism by promoting rapid blood clotting at sites of pathogen invasion, preventing pathogen dissemination through fibrin meshwork formation, and resolving inflammation through the production of coagulation cascade inhibitors derived from complement components."
+                    },
+                    {
+                        "question": "Describe the protective mechanism associated with the mucociliary escalator in the respiratory tract.",
+                        "goodAnswer": "The mucociliary escalator is a vital protective mechanism in the respiratory tract, involving goblet cells secreting mucus to trap inhaled pathogens and debris, and ciliated epithelial cells rhythmically beating their cilia to transport the mucus layer upwards, expelling it from the airways and preventing pathogen colonization in the lungs.",
+                        "wrongAnswer_1": "The mucociliary escalator protects the respiratory tract by producing antigen-specific antibodies like secretory IgA in the mucus, which directly neutralize inhaled pathogens, and peristaltic action of the airway smooth muscle to transport the antibody-laden mucus downwards into the lungs for degradation.",
+                        "wrongAnswer_2": "The mucociliary escalator protects the respiratory tract by inducing localized inflammation and edema in the bronchial airways, which traps inhaled pathogens within the alveoli and are then removed by lymphatic drainage and subsequent processing in mediastinal lymph nodes.",
+                        "wrongAnswer_3": "The mucociliary escalator protects the respiratory tract by continuously secreting antimicrobial enzymes such as lysozyme and RNase into the mucus, which degrade pathogen cell walls and nucleic acids, and are then transported laterally across the airway surface by passive diffusion into the bloodstream.",
+                        "wrongAnswer_4": "The mucociliary escalator protects the respiratory tract by stimulating alveolar macrophages to actively engulf pathogens trapped in the mucus within the alveoli, which are then transported downwards and into the systemic circulation by active transport mechanisms for systemic immune clearance."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

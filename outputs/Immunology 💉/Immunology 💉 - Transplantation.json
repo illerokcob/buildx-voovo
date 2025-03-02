@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Transplantation",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "ABO Matching",
+                "quizzes": [
+                    {
+                        "question": "In the context of ABO blood group system compatibility for organ transplantation, identify the primary immunological risk associated with transplanting an organ from a blood group A donor into a blood group O recipient.",
+                        "goodAnswer": "Hyperacute rejection mediated by pre-existing anti-A antibodies in the recipient's serum, leading to immediate graft destruction through complement activation and thrombotic occlusion of graft vessels.",
+                        "wrongAnswer_1": "Acute cellular rejection mediated by recipient T-lymphocytes recognizing donor HLA antigens, initiated within days to weeks post-transplant due to minor ABO incompatibilities and requiring calcineurin inhibitors.",
+                        "wrongAnswer_2": "Chronic antibody-mediated rejection characterized by the slow deposition of donor-specific antibodies in the graft vasculature over months to years, driven by persistent ABO incompatibility and necessitating mTOR inhibitors.",
+                        "wrongAnswer_3": "Delayed-type hypersensitivity reaction mediated by recipient CD4+ T-cells recognizing soluble ABO antigens released from the graft, causing a gradual inflammatory response and treatable with corticosteroids.",
+                        "wrongAnswer_4": "Accelerated acute rejection mediated by pre-existing anti-B antibodies in the recipient, causing graft dysfunction within 24-48 hours due to endothelial cell activation and infiltration by natural killer cells."
+                    },
+                    {
+                        "question": "What is the crucial initial step in ABO blood group matching for solid organ transplantation to prevent hyperacute rejection?",
+                        "goodAnswer": "Performing a pre-transplant crossmatch to detect the presence of recipient antibodies against donor ABO antigens, ensuring the absence of pre-formed antibodies before transplantation proceeds.",
+                        "wrongAnswer_1": "Administering broad immunosuppression with calcineurin inhibitors and corticosteroids pre-transplant to globally suppress recipient antibody production, regardless of ABO compatibility status.",
+                        "wrongAnswer_2": "Conducting HLA typing for both donor and recipient to identify HLA mismatches, which are more critical than ABO incompatibility in triggering hyperacute rejection in solid organ transplantation.",
+                        "wrongAnswer_3": "Infusing donor packed red blood cells into the recipient pre-transplant to neutralize any potential recipient anti-ABO antibodies and prevent antibody-mediated graft destruction.",
+                        "wrongAnswer_4": "Checking the recipient's medical history for prior blood transfusions or pregnancies, which are the primary causes of ABO incompatibility and can be reversed with plasmapheresis."
+                    },
+                    {
+                        "question": "In ABO-incompatible kidney transplantation, which therapeutic strategy is primarily employed to mitigate the risk of hyperacute rejection caused by pre-existing recipient antibodies?",
+                        "goodAnswer": "Pre-transplant antibody removal using plasmapheresis or immunoadsorption, combined with immunosuppression including anti-CD20 antibodies and intravenous immunoglobulin (IVIG) to reduce and suppress antibody rebound.",
+                        "wrongAnswer_1": "High-dose corticosteroids administered peri-transplantally to globally suppress the inflammatory response and prevent antibody-mediated rejection, without directly addressing pre-existing antibodies.",
+                        "wrongAnswer_2": "Desensitization protocols using intravenous immunoglobulin (IVIG) alone in high doses to neutralize recipient anti-ABO antibodies, effectively blocking their interaction with donor ABO antigens.",
+                        "wrongAnswer_3": "Pre-emptive treatment with anti-thymocyte globulin (ATG) to deplete recipient T-cells and prevent cellular rejection, which is the predominant mechanism in ABO-incompatible transplantation.",
+                        "wrongAnswer_4": "Pharmacological induction of ABO blood group tolerance in the recipient using donor-specific transfusion and alemtuzumab to permanently eliminate recipient anti-ABO antibodies."
+                    }
+                ]
+            },
+            {
+                "title": "Histocompatibility",
+                "quizzes": [
+                    {
+                        "question": "Explain the fundamental role of the Major Histocompatibility Complex (MHC) molecules, particularly HLA in humans, in the context of allogeneic transplantation.",
+                        "goodAnswer": "HLA molecules present processed peptides to T lymphocytes, initiating immune responses; in transplantation, mismatched HLA molecules on donor cells are recognized as foreign, triggering graft rejection.",
+                        "wrongAnswer_1": "MHC molecules primarily function in complement activation, directly lysing foreign cells; in transplantation, MHC mismatch leads to hyperacute rejection due to complement-mediated cytotoxicity and neutrophil infiltration.",
+                        "wrongAnswer_2": "HLA molecules are adhesion molecules facilitating cell-cell interaction and tissue integrity; in transplantation, HLA mismatch disrupts tissue architecture, causing structural graft failure independently of immune responses.",
+                        "wrongAnswer_3": "MHC molecules act as receptors for cytokines, mediating inflammatory signaling pathways; in transplantation, HLA mismatch amplifies cytokine storm, leading to systemic inflammatory response syndrome and multi-organ failure.",
+                        "wrongAnswer_4": "HLA molecules are responsible for antibody production; in transplantation, HLA mismatch stimulates recipient B cells to produce donor-specific antibodies, causing antibody-mediated rejection and graft vasculopathy."
+                    },
+                    {
+                        "question": "What is the purpose and methodology of HLA typing in the context of solid organ transplantation?",
+                        "goodAnswer": "To identify HLA alleles of both donor and recipient using molecular techniques like PCR-SSP or NGS, aiming to minimize HLA mismatches, particularly at HLA-DR, -B, and -A loci, to reduce the risk of rejection.",
+                        "wrongAnswer_1": "To assess the ABO blood group compatibility between donor and recipient using serological agglutination assays, crucial for preventing hyperacute rejection, but less relevant for long-term graft survival compared to HLA matching.",
+                        "wrongAnswer_2": "To measure the level of pre-formed donor-specific antibodies (DSAs) in the recipient's serum using flow cytometry, primarily used for crossmatching and risk stratification in sensitized recipients before transplantation.",
+                        "wrongAnswer_3": "To evaluate the recipient's general immunological competence by measuring T-cell and B-cell counts using complete blood count (CBC), assessing the overall risk of infection post-transplant but not specifically rejection.",
+                        "wrongAnswer_4": "To determine the presence of anti-HLA antibodies in the donor serum using ELISA, important to prevent donor-derived antibody-mediated injury to the recipient's native tissues, rather than graft rejection."
+                    },
+                    {
+                        "question": "Describe the 'crossmatch' test performed prior to transplantation and its significance in predicting transplant outcomes.",
+                        "goodAnswer": "The crossmatch detects pre-existing recipient antibodies against donor HLA antigens; a positive crossmatch, typically via CDC or flow cytometry, indicates high risk of antibody-mediated rejection and may contraindicate transplantation unless desensitization is performed.",
+                        "wrongAnswer_1": "The crossmatch assesses ABO blood group compatibility by mixing donor and recipient serum with red blood cells; a positive crossmatch indicates ABO incompatibility and necessitates ABO-incompatible transplantation protocols and plasmapheresis.",
+                        "wrongAnswer_2": "The crossmatch evaluates the overall inflammatory state of the recipient by measuring C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR); a positive crossmatch suggests systemic inflammation and increased risk of infection post-transplant.",
+                        "wrongAnswer_3": "The crossmatch determines the presence of recipient antibodies against donor infectious agents like CMV and EBV; a positive crossmatch indicates increased risk of viral reactivation or de novo infection post-transplant and necessitates antiviral prophylaxis.",
+                        "wrongAnswer_4": "The crossmatch quantifies recipient T-cell alloreactivity against donor HLA antigens using mixed lymphocyte reaction (MLR); a positive crossmatch predicts the likelihood of acute cellular rejection and guides immunosuppression intensity."
+                    }
+                ]
+            },
+            {
+                "title": "Immunosuppression",
+                "quizzes": [
+                    {
+                        "question": "Explain the mechanism of action of calcineurin inhibitors (CNIs) like cyclosporine and tacrolimus in preventing transplant rejection.",
+                        "goodAnswer": "CNIs inhibit calcineurin, a phosphatase crucial for IL-2 gene transcription in T-cells, thereby blocking T-cell activation and proliferation, suppressing cellular immunity and preventing acute rejection.",
+                        "wrongAnswer_1": "CNIs directly deplete T-cells through antibody-dependent cellular cytotoxicity, reducing the overall T-cell population and preventing cellular rejection, but carrying a risk of profound immunosuppression and infection.",
+                        "wrongAnswer_2": "CNIs block costimulatory signals between antigen-presenting cells and T-cells, preventing T-cell activation and cytokine production, primarily targeting the CD28-B7 pathway involved in T-cell co-stimulation.",
+                        "wrongAnswer_3": "CNIs induce T-cell apoptosis by activating caspase pathways, selectively eliminating activated T-cells and controlling cellular rejection, but also potentially inducing T-cell tolerance through clonal deletion.",
+                        "wrongAnswer_4": "CNIs inhibit mTOR, a kinase involved in T-cell proliferation and metabolism, thus suppressing T-cell clonal expansion and preventing cellular rejection, working synergistically with other immunosuppressants like corticosteroids."
+                    },
+                    {
+                        "question": "What is the primary mechanism of action of mycophenolate mofetil (MMF) in immunosuppression following organ transplantation?",
+                        "goodAnswer": "MMF is a prodrug converted to mycophenolic acid (MPA), which inhibits inosine monophosphate dehydrogenase (IMPDH), a key enzyme in de novo guanosine nucleotide synthesis, preferentially suppressing lymphocyte proliferation.",
+                        "wrongAnswer_1": "MMF directly inhibits DNA polymerase in lymphocytes, blocking DNA replication and cell division, thereby suppressing lymphocyte proliferation and reducing cellular immune responses against the graft.",
+                        "wrongAnswer_2": "MMF is a selective inhibitor of cyclooxygenase (COX) enzymes, reducing prostaglandin and thromboxane synthesis, thereby suppressing inflammation and preventing both cellular and antibody-mediated rejection.",
+                        "wrongAnswer_3": "MMF activates adenosine monophosphate-activated protein kinase (AMPK) in lymphocytes, inhibiting anabolic pathways and inducing cell cycle arrest, leading to suppression of lymphocyte activation and proliferation.",
+                        "wrongAnswer_4": "MMF is a potent antagonist of interleukin-2 receptors (IL-2R) on T-cells, blocking IL-2 signaling and subsequent T-cell proliferation and differentiation, thus preventing acute cellular rejection."
+                    },
+                    {
+                        "question": "Describe the role of corticosteroids, such as prednisone, in immunosuppression protocols for transplant recipients.",
+                        "goodAnswer": "Corticosteroids exert broad immunosuppressive effects by inhibiting cytokine gene transcription, reducing inflammatory mediator release, and inducing lymphocyte apoptosis, used for induction, maintenance, and treatment of acute rejection.",
+                        "wrongAnswer_1": "Corticosteroids selectively deplete CD4+ T-cells by inducing complement-dependent cytotoxicity, reducing T-helper cell function and suppressing cellular immunity, primarily used as induction agents in high-risk recipients.",
+                        "wrongAnswer_2": "Corticosteroids block the action of TNF-alpha, a key pro-inflammatory cytokine, thereby reducing inflammation and preventing chronic antibody-mediated rejection, especially in sensitized recipients.",
+                        "wrongAnswer_3": "Corticosteroids enhance regulatory T-cell (Treg) function by promoting FoxP3 expression, inducing immune tolerance to the graft and preventing both acute and chronic rejection episodes.",
+                        "wrongAnswer_4": "Corticosteroids directly inhibit calcineurin phosphatase activity, similar to cyclosporine and tacrolimus, but with a broader spectrum of immunosuppressive effects and fewer nephrotoxic side effects."
+                    }
+                ]
+            },
+            {
+                "title": "Bone Marrow Transplantation",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between autologous, allogeneic, and syngeneic bone marrow transplantation (BMT) in terms of donor source and immunological considerations.",
+                        "goodAnswer": "Autologous BMT uses patient's own cells, avoiding GVHD but not graft rejection; allogeneic BMT uses matched donor cells, risk of GVHD and rejection; syngeneic BMT uses identical twin cells, no GVHD or rejection risk.",
+                        "wrongAnswer_1": "Autologous BMT uses matched sibling donor cells, minimal GVHD risk but possible graft rejection; allogeneic BMT uses unrelated donor cells, high risk of GVHD and rejection; syngeneic BMT uses patient's own cells after ex-vivo gene therapy.",
+                        "wrongAnswer_2": "Autologous BMT involves transplanting hematopoietic stem cells from peripheral blood; allogeneic BMT always requires myeloablative conditioning; syngeneic BMT is rarely performed due to donor availability limitations.",
+                        "wrongAnswer_3": "Autologous BMT is indicated primarily for autoimmune diseases; allogeneic BMT for solid tumors; syngeneic BMT for inherited metabolic disorders, each with distinct immunological and preparative regimen considerations.",
+                        "wrongAnswer_4": "Autologous BMT necessitates complete HLA matching; allogeneic BMT tolerates minor HLA mismatches; syngeneic BMT requires ABO compatibility only, differing mainly in their conditioning and post-transplant immunosuppression strategies."
+                    },
+                    {
+                        "question": "What is the purpose of 'conditioning regimens' in bone marrow transplantation, and describe the two main types: myeloablative and non-myeloablative?",
+                        "goodAnswer": "Conditioning regimens create space for donor cells, suppress recipient immunity, and eradicate malignant cells; myeloablative uses high-dose chemotherapy/radiation for complete bone marrow ablation; non-myeloablative (reduced intensity) uses lower doses for less toxicity.",
+                        "wrongAnswer_1": "Conditioning regimens primarily aim to prevent graft-versus-host disease (GVHD) by depleting recipient T-cells; myeloablative regimens use potent immunosuppressants like ATG; non-myeloablative use calcineurin inhibitors for GVHD prophylaxis.",
+                        "wrongAnswer_2": "Conditioning regimens enhance engraftment by stimulating donor stem cell proliferation; myeloablative regimens use growth factors like G-CSF; non-myeloablative use cytokines like IL-2 to promote donor cell expansion.",
+                        "wrongAnswer_3": "Conditioning regimens are designed to induce graft-versus-tumor effect in allogeneic transplantation; myeloablative regimens maximize this effect by using high-dose TBI; non-myeloablative regimens rely on donor lymphocyte infusion post-transplant.",
+                        "wrongAnswer_4": "Conditioning regimens are used only in autologous BMT to mobilize stem cells into peripheral blood for collection; myeloablative regimens use cyclophosphamide and G-CSF; non-myeloablative use plerixafor for mobilization in autologous settings."
+                    },
+                    {
+                        "question": "Explain the pathophysiology of Graft-versus-Host Disease (GVHD) in allogeneic bone marrow transplantation.",
+                        "goodAnswer": "GVHD occurs when donor T-cells recognize recipient tissues as foreign, leading to immune attack primarily on skin, liver, and gut; acute GVHD is early, mediated by Th1 cells; chronic GVHD is later, more fibrotic and autoimmune-like.",
+                        "wrongAnswer_1": "GVHD is caused by recipient antibodies attacking donor bone marrow cells, leading to graft failure and pancytopenia; acute GVHD is antibody-mediated; chronic GVHD is T-cell mediated, affecting predominantly the kidneys and lungs.",
+                        "wrongAnswer_2": "GVHD is a result of viral reactivation post-transplant, particularly CMV and EBV, triggering systemic inflammation and organ damage; acute GVHD is caused by CMV; chronic GVHD by EBV-induced lymphoproliferative disorder.",
+                        "wrongAnswer_3": "GVHD is an allergic reaction to conditioning chemotherapy agents, manifesting as skin rash and gastrointestinal distress; acute GVHD is IgE-mediated hypersensitivity; chronic GVHD is delayed-type hypersensitivity reaction.",
+                        "wrongAnswer_4": "GVHD is due to depletion of recipient regulatory T-cells (Tregs), leading to loss of immune tolerance and autoimmunity; acute GVHD is characterized by Treg deficiency; chronic GVHD by Treg dysfunction and Th17 cell overactivity."
+                    }
+                ]
+            },
+            {
+                "title": "Hematopoietic Stem Cell Transplantation",
+                "quizzes": [
+                    {
+                        "question": "Describe the different sources of hematopoietic stem cells (HSCs) used for transplantation and their relative advantages and disadvantages.",
+                        "goodAnswer": "Sources: Bone marrow (BM), peripheral blood stem cells (PBSC), umbilical cord blood (UCB); BM: surgical collection, higher GVHD risk; PBSC: mobilized with G-CSF, quicker engraftment; UCB: less HLA matching needed, delayed engraftment.",
+                        "wrongAnswer_1": "Sources: Bone marrow (BM), thymus, spleen; BM: rich in mature lymphocytes, higher risk of GVHD; thymus: contains only T-cell precursors, limited hematopoietic potential; spleen: primarily for red blood cell precursors, not HSCs.",
+                        "wrongAnswer_2": "Sources: Fetal liver, amniotic fluid, placental blood; Fetal liver: ethically challenging, high graft failure rate; amniotic fluid: low HSC yield, limited engraftment; placental blood: similar to UCB but with higher maternal cell contamination.",
+                        "wrongAnswer_3": "Sources: Bone marrow (BM), lymph nodes, cerebrospinal fluid (CSF); BM: gold standard, high HSC purity; lymph nodes: contains mainly lymphocytes, low HSC concentration; CSF: devoid of HSCs, used for CNS malignancy assessment.",
+                        "wrongAnswer_4": "Sources: Peripheral blood stem cells (PBSC), embryonic stem cells (ESC), induced pluripotent stem cells (iPSC); PBSC: non-invasive collection, risk of graft rejection; ESC: pluripotent, ethical concerns, teratoma risk; iPSC: autologous potential, reprogramming challenges."
+                    },
+                    {
+                        "question": "What is the process of peripheral blood stem cell (PBSC) mobilization for hematopoietic stem cell transplantation, and which agents are commonly used?",
+                        "goodAnswer": "Mobilization involves stimulating HSC release from bone marrow into peripheral blood; Granulocyte colony-stimulating factor (G-CSF) is primary agent, sometimes combined with Plerixafor (CXCR4 antagonist) for enhanced mobilization.",
+                        "wrongAnswer_1": "Mobilization is achieved through chemotherapy alone, which induces bone marrow suppression followed by HSC rebound into peripheral blood; Cyclophosphamide is commonly used as a single agent mobilization strategy.",
+                        "wrongAnswer_2": "Mobilization relies on erythropoietin (EPO) administration to stimulate red blood cell production, indirectly increasing HSC release; EPO is used to mobilize HSCs particularly in patients with renal failure.",
+                        "wrongAnswer_3": "Mobilization involves using corticosteroids to suppress bone marrow stromal cell activity, facilitating HSC egress into peripheral blood; Prednisone is used to mobilize HSCs in patients with inflammatory conditions.",
+                        "wrongAnswer_4": "Mobilization is accomplished by transfusing donor bone marrow cells into the recipient to stimulate endogenous HSC proliferation and migration; Donor lymphocyte infusion (DLI) is used for PBSC mobilization in allogeneic settings."
+                    },
+                    {
+                        "question": "Describe the key stages of hematopoietic stem cell transplantation, from conditioning to engraftment and immune reconstitution.",
+                        "goodAnswer": "Stages: Conditioning (myeloablative/non-myeloablative), stem cell infusion, engraftment (neutrophil and platelet recovery), immune reconstitution (T-cell, B-cell recovery), long-term follow-up for GVHD and relapse.",
+                        "wrongAnswer_1": "Stages: Stem cell mobilization, harvest, cryopreservation, thawing, infusion, infection prophylaxis, long-term immunosuppression, focusing on procedural steps rather than biological phases post-transplant.",
+                        "wrongAnswer_2": "Stages: HLA typing, crossmatching, conditioning, stem cell infusion, acute rejection monitoring, chronic rejection prophylaxis, emphasizing pre-transplant workup and rejection management rather than engraftment.",
+                        "wrongAnswer_3": "Stages: Diagnosis of malignancy, chemotherapy induction, radiation therapy consolidation, stem cell transplantation, minimal residual disease monitoring, relapse prevention, focusing on malignant disease context rather than transplantation process.",
+                        "wrongAnswer_4": "Stages: Patient selection, donor matching, conditioning, stem cell infusion, supportive care (transfusions, antibiotics), psychological support, rehabilitation, highlighting logistical and supportive aspects rather than biological stages."
+                    }
+                ]
+            },
+            {
+                "title": "Transplant Complications",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between hyperacute, acute, and chronic rejection in solid organ transplantation based on their timing, mechanisms, and histopathological features.",
+                        "goodAnswer": "Hyperacute: minutes-hours, pre-existing antibodies, vascular thrombosis; Acute: weeks-months, T-cell mediated, tubulointerstitial inflammation; Chronic: months-years, antibody/T-cell mediated, graft fibrosis and vasculopathy.",
+                        "wrongAnswer_1": "Hyperacute: days-weeks, complement activation, neutrophil infiltration; Acute: hours-days, NK cell mediated, endothelialitis; Chronic: weeks-months, macrophage infiltration, granuloma formation, differing primarily in inflammatory cell types.",
+                        "wrongAnswer_2": "Hyperacute: years-decades, chronic immunosuppression toxicity, graft dysfunction; Acute: months-years, recurrent infections, opportunistic pathogens; Chronic: minutes-hours, surgical complications, vascular anastomotic failure, misclassifying non-rejection complications as rejection types.",
+                        "wrongAnswer_3": "Hyperacute: weeks-months, antibody-mediated, glomerulonephritis; Acute: months-years, cellular mediated, interstitial nephritis; Chronic: minutes-hours, T-cell mediated, acute tubular necrosis, conflating rejection types with specific organ pathologies.",
+                        "wrongAnswer_4": "Hyperacute: slow onset, cytokine storm, systemic inflammatory response; Acute: rapid onset, local inflammation, edema and pain; Chronic: insidious onset, progressive dysfunction, atrophy and scarring, describing rejection in terms of general inflammatory responses rather than specific mechanisms."
+                    },
+                    {
+                        "question": "What are the primary infectious complications following solid organ transplantation, and what factors contribute to their increased risk?",
+                        "goodAnswer": "Opportunistic infections (CMV, Pneumocystis, Aspergillus), bacterial infections; Risk factors: immunosuppression intensity, type, duration, cytomegalovirus (CMV) serostatus mismatch (D+/R-), neutropenia, breaches in mucocutaneous barriers.",
+                        "wrongAnswer_1": "Autoimmune diseases (SLE, RA), graft-versus-host disease (GVHD); Risk factors: HLA mismatch degree, pre-transplant sensitization, genetic predisposition, unrelated to infectious agents but to dysregulated immunity.",
+                        "wrongAnswer_2": "Malignancies (PTLD, skin cancer, Kaposi's sarcoma); Risk factors: chronic inflammation, immunosuppression promoting viral oncogenesis (EBV, HPV), genetic susceptibility, focusing on oncological rather than infectious complications.",
+                        "wrongAnswer_3": "Metabolic disorders (diabetes, hyperlipidemia), cardiovascular disease; Risk factors: immunosuppressant-induced metabolic side effects, sedentary lifestyle, pre-existing comorbidities, highlighting metabolic and cardiovascular issues post-transplant.",
+                        "wrongAnswer_4": "Surgical complications (vascular thrombosis, anastomotic leak), primary non-function; Risk factors: donor organ quality, cold ischemia time, surgical technique, recipient comorbidities, emphasizing procedural and organ-related failures rather than infections."
+                    },
+                    {
+                        "question": "Explain the pathogenesis and clinical features of Post-transplant Lymphoproliferative Disorder (PTLD) in transplant recipients.",
+                        "goodAnswer": "PTLD is lymphoid proliferation due to EBV reactivation/de novo infection under immunosuppression; presents as lymphadenopathy, fever, B symptoms, can be polymorphic or monomorphic lymphoma, risk highest in EBV-seronegative recipients receiving organs from seropositive donors (D+/R-).",
+                        "wrongAnswer_1": "PTLD is caused by chronic rejection leading to graft infiltration by lymphocytes and fibrosis, mimicking lymphoma; presents with graft dysfunction, proteinuria, hypertension, associated with chronic antibody-mediated rejection and graft vasculopathy.",
+                        "wrongAnswer_2": "PTLD is a form of graft-versus-host disease (GVHD) affecting lymphoid tissues, caused by donor T-cell infiltration into recipient lymph nodes; presents with fever, rash, diarrhea, liver dysfunction, seen predominantly in bone marrow transplant recipients.",
+                        "wrongAnswer_3": "PTLD is an autoimmune disease triggered by transplantation, leading to autoantibody production and lymphoid hyperplasia; presents with fatigue, joint pain, mucosal ulcers, resembles systemic lupus erythematosus and rheumatoid arthritis post-transplant.",
+                        "wrongAnswer_4": "PTLD is a drug-induced toxicity of immunosuppressants, particularly calcineurin inhibitors, causing benign lymphoid hyperplasia; presents with gingival hyperplasia, tremor, nephrotoxicity, resolves upon dose reduction or drug withdrawal."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

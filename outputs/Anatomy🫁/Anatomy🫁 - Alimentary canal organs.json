@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Alimentary canal organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The mouth",
+                "quizzes": [
+                    {
+                        "question": "Which anatomical component of the oral cavity is characterized by enamel-covered crowns and roots embedded in alveolar processes, serving principally in the trituration of ingested substances?",
+                        "goodAnswer": "Teeth, situated within the alveolar processes of the maxilla and mandible, are defined by their enamel-capped crowns and roots, functioning primarily in the mechanical reduction of food particle size through masticatory action.",
+                        "wrongAnswer_1": "The hard palate, forming the rigid superior boundary of the oral cavity, is anatomically distinguished by its rugae and underlying bony structure, serving principally in the enzymatic digestion of carbohydrates via salivary amylase.",
+                        "wrongAnswer_2": "The tongue, a muscular hydrostat of the oral cavity, is characterized by its lingual papillae and intrinsic musculature, functioning primarily in the chemical breakdown of lipids through lingual lipase secretions.",
+                        "wrongAnswer_3": "Salivary glands, including parotid, submandibular, and sublingual glands, are anatomically defined by their ductal systems and acinar units, serving principally in the lubrication of the oral mucosa and bolus formation.",
+                        "wrongAnswer_4": "The temporomandibular joint, articulating the mandible with the temporal bone, is anatomically defined by its condylar process and articular fossa, serving principally in the regulation of salivary flow and taste perception."
+                    },
+                    {
+                        "question": "Describe the structural composition and functional role of the hard palate within the oral cavity.",
+                        "goodAnswer": "The hard palate, forming the anterior two-thirds of the oral cavity's roof, is composed of the palatine processes of the maxillae and palatine bones, providing a rigid bony separation between the oral and nasal cavities and assisting in food manipulation.",
+                        "wrongAnswer_1": "The soft palate, located posteriorly in the oral cavity, is composed of muscle and connective tissue, forming a flexible barrier between the oral and pharyngeal cavities and contributing to bolus formation through enzymatic action.",
+                        "wrongAnswer_2": "The hard palate, comprising the posterior portion of the oral cavity floor, is made of the mandible and hyoid bone, providing structural support for the tongue and housing taste buds for gustatory sensation.",
+                        "wrongAnswer_3": "The soft palate, forming the anterior roof of the nasal cavity, is composed of cartilage and mucous membrane, separating the nasal cavity from the cranial cavity and playing a role in olfaction and air filtration.",
+                        "wrongAnswer_4": "The hard palate, situated in the posterior oropharynx, is formed by the sphenoid and ethmoid bones, acting as a rigid partition between the oropharynx and nasopharynx, primarily involved in respiratory airflow regulation."
+                    },
+                    {
+                        "question": "Characterize the morphological diversity of lingual papillae on the dorsal tongue surface, specifying the distinct types and their respective distributions.",
+                        "goodAnswer": "The dorsal surface of the tongue exhibits four types of lingual papillae: filiform (widespread, conical shape), fungiform (scattered, mushroom shape), circumvallate (posterior, large, vallate shape), and foliate (lateral, leaf-like folds), each with a unique morphology and distribution pattern.",
+                        "wrongAnswer_1": "The dorsal tongue surface is characterized by three types of papillae: conical papillae (anterior tip), cylindrical papillae (lateral margins), and spherical papillae (posterior base), each type containing specialized glands for mucin secretion.",
+                        "wrongAnswer_2": "The dorsal tongue surface displays two primary papillae types: villiform papillae (elongated, covering the entire surface) and bulbous papillae (clustered centrally), both exclusively involved in temperature sensation.",
+                        "wrongAnswer_3": "The dorsal tongue surface is uniformly covered by lenticular papillae (lens-shaped), which are singular in type and primarily responsible for secreting lingual lipase for initial fat digestion.",
+                        "wrongAnswer_4": "The dorsal tongue surface presents with five types of papillae: stellate papillae (star-shaped), rhomboid papillae (diamond-shaped), crescent papillae (moon-shaped), annular papillae (ring-shaped), and linear papillae (line-shaped), distributed randomly and associated with keratin production."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "Discriminate between the anatomical boundaries of the nasopharynx, oropharynx, and laryngopharynx, detailing their respective superior and inferior demarcations.",
+                        "goodAnswer": "The nasopharynx extends from the base of the cranium to the soft palate, the oropharynx from the soft palate to the hyoid bone, and the laryngopharynx from the hyoid bone to the inferior border of the cricoid cartilage, delineating distinct pharyngeal regions.",
+                        "wrongAnswer_1": "The nasopharynx is located anterior to the nasal cavity, the oropharynx superior to the oral cavity, and the laryngopharynx inferior to the larynx, representing positional relationships rather than anatomical boundaries.",
+                        "wrongAnswer_2": "The nasopharynx spans from the hard palate to the epiglottis, the oropharynx from the epiglottis to the vocal cords, and the laryngopharynx from the vocal cords to the trachea, incorrectly defining pharyngeal subdivisions by internal landmarks.",
+                        "wrongAnswer_3": "The nasopharynx ranges from the zygomatic arch to the mandible, the oropharynx from the mandible to the clavicle, and the laryngopharynx from the clavicle to the sternal angle, using external skeletal references to demarcate pharyngeal regions.",
+                        "wrongAnswer_4": "The nasopharynx is defined by the nasal septum anteriorly, the oropharynx by the tongue dorsally, and the laryngopharynx by the esophagus posteriorly, describing adjacent structures rather than superior and inferior limits."
+                    },
+                    {
+                        "question": "Identify the cartilaginous structure of the laryngopharynx that is positioned anterior to the laryngeal inlet and functions to modulate the passage of substances during deglutition.",
+                        "goodAnswer": "The epiglottis, a leaf-shaped cartilage in the laryngopharynx, is situated anterior to the laryngeal inlet, acting as a pivotal structure to direct the bolus towards the esophagus and prevent tracheal aspiration during swallowing.",
+                        "wrongAnswer_1": "The cricoid cartilage, a ring-shaped cartilage encircling the trachea, is positioned anterior to the esophageal inlet, serving to maintain airway patency and facilitate vocal cord vibration during phonation.",
+                        "wrongAnswer_2": "The thyroid cartilage, a shield-shaped cartilage forming the anterior larynx, is located posterior to the pharyngeal inlet, acting to protect the vocal folds and provide attachment for laryngeal muscles involved in respiration.",
+                        "wrongAnswer_3": "The arytenoid cartilages, paired pyramidal cartilages within the larynx, are positioned lateral to the tracheal inlet, functioning to control vocal cord tension and abduction during speech and breathing.",
+                        "wrongAnswer_4": "The corniculate cartilages, small conical cartilages atop the arytenoids, are located superior to the pharyngeal outlet, serving to support the aryepiglottic folds and limit posterior laryngeal movement during coughing."
+                    },
+                    {
+                        "question": "Describe the arrangement of muscular strata within the pharyngeal wall, distinguishing between their fiber orientation and their role in bolus progression.",
+                        "goodAnswer": "The pharyngeal wall musculature is arranged in an inner longitudinal and an outer circular layer of skeletal muscle, which contract sequentially to generate peristaltic waves that propel the bolus from the oropharynx through the laryngopharynx towards the esophagus.",
+                        "wrongAnswer_1": "The pharyngeal wall is composed of an inner circular and an outer longitudinal layer of smooth muscle, exhibiting rhythmic contractions for segmentation and mixing of the bolus within the pharyngeal cavity to enhance digestion.",
+                        "wrongAnswer_2": "The pharyngeal wall musculature consists solely of a single layer of striated muscle fibers arranged in a spiral configuration, enabling rapid rotational movements for mastication and mechanical breakdown of food within the pharynx.",
+                        "wrongAnswer_3": "The pharyngeal wall is characterized by layers of cardiac muscle fibers with intercalated discs, facilitating synchronized contractions to forcefully pump the bolus from the pharynx into the stomach against gravitational forces.",
+                        "wrongAnswer_4": "The pharyngeal wall musculature is structured with inner oblique and outer transverse layers of skeletal muscle, providing multidirectional force vectors to churn and mix the bolus with saliva within the nasopharynx prior to swallowing."
+                    }
+                ]
+            },
+            {
+                "title": "Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Explain the histological composition of the esophageal wall, detailing the layers from mucosa to serosa (or adventitia).",
+                        "goodAnswer": "The esophageal wall, from innermost to outermost, comprises: mucosa (stratified squamous epithelium, lamina propria, muscularis mucosae), submucosa (glands, blood vessels), muscularis externa (inner circular, outer longitudinal layers), and adventitia (connective tissue blending with surrounding structures).",
+                        "wrongAnswer_1": "The esophageal wall consists of: mucosa (simple columnar epithelium, goblet cells, villi), submucosa (Peyer's patches, lacteals), muscularis externa (inner longitudinal, outer circular layers), and serosa (mesothelium covering the organ within the peritoneal cavity).",
+                        "wrongAnswer_2": "The esophageal wall is composed of: mucosa (pseudostratified ciliated columnar epithelium, cilia, goblet cells), submucosa (lymphatic nodules, lymphatic vessels), muscularis externa (inner oblique, outer transverse layers), and adventitia (fibrous capsule enclosing the organ).",
+                        "wrongAnswer_3": "The esophageal wall includes: mucosa (transitional epithelium, rugae, gastric pits), submucosa ( Brunner's glands, submucosal plexus), muscularis externa (inner spiral, outer oblique layers), and serosa (peritoneal lining adhering to adjacent organs).",
+                        "wrongAnswer_4": "The esophageal wall is structured as: mucosa (simple cuboidal epithelium, microvilli, crypts of Lieberk\u00fchn), submucosa (mucous glands, nerve fibers), muscularis externa (inner longitudinal, outer oblique layers), and adventitia (ligaments anchoring the organ to the mediastinum)."
+                    },
+                    {
+                        "question": "Differentiate between the anatomical location and structural characteristics of the upper esophageal sphincter (UES) and the lower esophageal sphincter (LES).",
+                        "goodAnswer": "The UES is anatomically located at the pharyngoesophageal junction, composed of the cricopharyngeus muscle, while the LES, a physiological sphincter, is situated at the esophagogastric junction, lacking a distinct anatomical thickening but defined by increased basal muscle tone.",
+                        "wrongAnswer_1": "The UES is situated at the gastroesophageal junction, structurally formed by the pyloric sphincter muscle, and the LES is located at the pharyngoesophageal junction, composed of the palatopharyngeus muscle, controlling pharyngeal airflow.",
+                        "wrongAnswer_2": "The UES is anatomically positioned at the tracheal bifurcation (carina), composed of cartilaginous rings, and the LES is located at the ileocecal junction (ileocecal valve), regulating chyme flow into the cecum via ileocecal musculature.",
+                        "wrongAnswer_3": "The UES is found at the esophageal hiatus of the diaphragm, structurally formed by diaphragmatic crura, and the LES is located at the anal canal (internal anal sphincter), composed of smooth muscle controlling fecal continence.",
+                        "wrongAnswer_4": "The UES is positioned at the cardiac notch of the stomach, composed of gastric rugae, and the LES is located at the duodenojejunal flexure (ligament of Treitz), supporting the duodenal loop and pancreatic duct via ligamentous tissue."
+                    },
+                    {
+                        "question": "Explain the sequential muscular contractions within the esophageal wall during peristalsis, detailing the contribution of each muscular layer to bolus transport.",
+                        "goodAnswer": "Esophageal peristalsis involves a coordinated sequence of muscularis externa contractions: initially, circular muscle contraction proximal to the bolus constricts the esophageal lumen, followed by longitudinal muscle contraction distal to the bolus to shorten and widen the lumen, propelling the bolus towards the stomach.",
+                        "wrongAnswer_1": "Esophageal peristalsis is characterized by simultaneous contractions of both circular and longitudinal muscle layers throughout the esophageal length, creating a uniform squeezing action that propels the bolus through mass movements towards the stomach.",
+                        "wrongAnswer_2": "Esophageal peristalsis results from centrifugal forces generated by rapid rotation of the esophageal wall, where circular muscle relaxation and longitudinal muscle contraction create a centrifugal wave that moves the bolus towards the stomach.",
+                        "wrongAnswer_3": "Esophageal peristalsis involves primarily the muscularis mucosae layer, which rhythmically contracts and relaxes to create mucosal folds that propel the bolus along the esophageal lining, with minimal contribution from the muscularis externa.",
+                        "wrongAnswer_4": "Esophageal peristalsis is driven by osmotic gradients across the esophageal mucosa, drawing water into the lumen and creating hydrostatic pressure that flushes the bolus towards the stomach, independently of muscularis externa contractions."
+                    }
+                ]
+            },
+            {
+                "title": "The stomach",
+                "quizzes": [
+                    {
+                        "question": "Delineate the principal anatomical regions of the stomach, specifying their positional relationships relative to each other and the esophageal and duodenal junctions.",
+                        "goodAnswer": "The stomach comprises the cardia, encircling the esophageal orifice; the fundus, a superiorly projecting dome; the body, the main central portion; and the pylorus, the distal, tapering region connecting to the duodenum, situated along the lesser and greater curvatures.",
+                        "wrongAnswer_1": "The stomach consists of the proximal segment (near the esophagus), medial segment (central body), distal segment (towards the duodenum), and apical segment (uppermost fundus), arranged linearly without distinct curvatures or regional demarcations.",
+                        "wrongAnswer_2": "The stomach is segmented into the antero-superior portion, postero-inferior portion, lateral portion, and medial portion, exhibiting a radial symmetry around a central axis and lacking defined regions like cardia or pylorus.",
+                        "wrongAnswer_3": "The stomach is divided into the cranial portion (towards the head), caudal portion (towards the duodenum), dorsal portion (posterior aspect), and ventral portion (anterior aspect), oriented linearly along the digestive tract without specific regional distinctions.",
+                        "wrongAnswer_4": "The stomach is structured into the oral segment (near the mouth), pharyngeal segment (adjacent to the pharynx), esophageal segment (connecting to the esophagus), and intestinal segment (leading to intestines), forming a continuous tube without regional specializations."
+                    },
+                    {
+                        "question": "Characterize the histological specializations of the gastric mucosa, focusing on the glandular structures within the gastric pits and their cellular components.",
+                        "goodAnswer": "The gastric mucosa is invaginated into gastric pits, which lead to gastric glands containing parietal cells (located mainly in the upper gland), chief cells (predominant in the lower gland), mucous neck cells (in the gland neck), and enteroendocrine cells (scattered throughout), each cell type contributing to gastric secretion.",
+                        "wrongAnswer_1": "The gastric mucosa features intestinal villi and crypts of Lieberk\u00fchn, lined with enterocytes, goblet cells, Paneth cells, and Peyer's patches, specialized for nutrient absorption and immune surveillance rather than gastric secretion.",
+                        "wrongAnswer_2": "The gastric mucosa exhibits esophageal glands in the lamina propria containing squamous epithelial cells, keratinocytes, melanocytes, and Langerhans cells, primarily for physical protection and melanogenesis, not for gastric digestion.",
+                        "wrongAnswer_3": "The gastric mucosa is characterized by colonic crypts with goblet cells, absorptive colonocytes, teniae coli, and haustra, primarily involved in water reabsorption and fecal consolidation, unrelated to gastric gland structure.",
+                        "wrongAnswer_4": "The gastric mucosa includes pancreatic acini and islets of Langerhans embedded in submucosa, with acinar cells, alpha cells, beta cells, and delta cells, primarily for exocrine enzyme secretion and endocrine hormone regulation in the pancreas, not in the stomach."
+                    },
+                    {
+                        "question": "Describe the organization of the muscularis externa within the stomach wall, delineating the specific layers and their fiber orientation that facilitate gastric motility.",
+                        "goodAnswer": "The stomach's muscularis externa is uniquely composed of three layers: an innermost oblique layer, a middle circular layer, and an outermost longitudinal layer, with muscle fibers oriented in different directions to enable complex churning, mixing, and peristaltic movements characteristic of gastric motility.",
+                        "wrongAnswer_1": "The stomach's muscularis externa is comprised of two layers: an inner circular and an outer longitudinal layer, similar to the esophageal muscularis externa, facilitating segmentation and peristaltic movements primarily for nutrient absorption rather than complex mixing.",
+                        "wrongAnswer_2": "The stomach's muscularis externa consists of a single layer of smooth muscle fibers arranged in a helical pattern, providing uniform contractile force for gentle mixing and propulsion of gastric contents, lacking the complexity for churning and vigorous peristalsis.",
+                        "wrongAnswer_3": "The stomach's muscularis externa is organized into four layers: inner longitudinal, middle circular, outer oblique, and serosal muscle, allowing for multidirectional and forceful contractions for rapid gastric emptying directly into the jejunum, bypassing pyloric control.",
+                        "wrongAnswer_4": "The stomach's muscularis externa is characterized by layers of cardiac muscle fibers with intercalated discs, enabling synchronized and powerful pumping contractions for rhythmic ejection of chyme through the pyloric sphincter into the duodenum, resembling cardiac muscle action."
+                    }
+                ]
+            },
+            {
+                "title": "The small intestines",
+                "quizzes": [
+                    {
+                        "question": "Sequence the anatomical divisions of the small intestine in a proximal to distal order, identifying the distinct segments from the pyloroduodenal junction to the ileocecal valve.",
+                        "goodAnswer": "The small intestine's segments, in proximal to distal order, are the duodenum (beginning at the pylorus), jejunum (intermediate segment), and ileum (terminal segment), culminating at the ileocecal valve, each segment exhibiting unique anatomical and absorptive characteristics.",
+                        "wrongAnswer_1": "The segments of the small intestine, from proximal to distal, are the ileum, jejunum, and duodenum, showing a reversed anatomical order that misrepresents the sequential flow of intestinal contents.",
+                        "wrongAnswer_2": "The small intestinal divisions, in sequential order, are the cecum, colon, and rectum, incorrectly listing large intestinal segments and omitting the actual components of the small intestine.",
+                        "wrongAnswer_3": "The anatomical parts of the small intestine, from beginning to end, are the pylorus, body, and fundus, erroneously naming gastric regions as components of the small intestine and misplacing them in sequence.",
+                        "wrongAnswer_4": "The segments of the small intestine, in anatomical sequence, are the esophagus, stomach, and duodenum, describing the upper digestive tract and only partially including the small intestine with a non-comprehensive list."
+                    },
+                    {
+                        "question": "Detail the structural modifications of the small intestinal mucosa that collectively amplify its absorptive luminal surface area.",
+                        "goodAnswer": "The small intestinal mucosa exhibits three hierarchical surface area augmentations: plicae circulares (macroscopic circular folds of mucosa and submucosa), villi (microscopic finger-like mucosal projections), and microvilli (submicroscopic apical extensions of enterocyte plasma membranes), cumulatively increasing the absorptive surface area significantly.",
+                        "wrongAnswer_1": "The small intestinal mucosa is characterized by rugae (longitudinal folds), haustra (sacculations), and taeniae coli (muscle bands), which are structural features of the large intestine primarily enhancing water reabsorption and fecal compaction, not small intestinal nutrient absorption.",
+                        "wrongAnswer_2": "The small intestinal mucosa features gastric pits (mucosal indentations), gastric glands (secretory units), and rugae (temporary folds), which are structural adaptations of the stomach mucosa primarily facilitating gastric acid secretion and mechanical mixing, preceding intestinal absorption.",
+                        "wrongAnswer_3": "The small intestinal mucosa displays alveoli (air sacs), bronchioles (air passages), and pleura (membrane lining), which are structural components of the respiratory system responsible for gas exchange in the lungs, unrelated to intestinal absorption mechanisms.",
+                        "wrongAnswer_4": "The small intestinal mucosa exhibits nephrons (functional units), glomeruli (filtration units), and tubules (reabsorption channels), which are anatomical features of the kidney involved in blood filtration and waste excretion, not nutrient absorption in the intestine."
+                    },
+                    {
+                        "question": "Specify the anatomical location and histological composition of Peyer's patches within the small intestine wall.",
+                        "goodAnswer": "Peyer's patches, organized lymphoid nodules, are predominantly located within the lamina propria and extending into the submucosa of the ileum, the distal segment of the small intestine, histologically composed of lymphoid follicles rich in B and T lymphocytes and macrophages.",
+                        "wrongAnswer_1": "Peyer's patches are found in the muscularis externa of the duodenum, the proximal segment of the small intestine, histologically characterized by smooth muscle cells, enteric neurons, and interstitial cells of Cajal, primarily involved in regulating motility.",
+                        "wrongAnswer_2": "Peyer's patches are located in the serosa of the jejunum, the middle segment of the small intestine, histologically composed of mesothelial cells, adipose tissue, and blood vessels, serving to lubricate and support the intestinal wall.",
+                        "wrongAnswer_3": "Peyer's patches are situated within the submucosal plexus of the cecum, the initial segment of the large intestine, histologically characterized by ganglion cells, nerve fibers, and glial cells, coordinating neuronal control of intestinal secretions and motility.",
+                        "wrongAnswer_4": "Peyer's patches are embedded in the muscularis mucosae of the stomach, a region proximal to the small intestine, histologically composed of smooth muscle cells, fibroblasts, and collagen fibers, primarily controlling mucosal folding and gastric gland activity."
+                    }
+                ]
+            },
+            {
+                "title": "The large intestines",
+                "quizzes": [
+                    {
+                        "question": "Describe the main anatomical regions of the large intestine, listing them in the sequence of chyme passage.",
+                        "goodAnswer": "The large intestine regions, in order of chyme passage, are the cecum (with appendix), ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anal canal, primarily involved in water absorption and fecal formation.",
+                        "wrongAnswer_1": "The segments of the large intestine, sequentially arranged, are the duodenum, jejunum, ileum, cecum, and colon, representing a mix of small and large intestinal components, incorrectly ordering the segments and including small intestinal parts.",
+                        "wrongAnswer_2": "The divisions of the large intestine, in order of flow, are the pylorus, fundus, body, and antrum, describing the regions of the stomach that precede the large intestine, and are not part of the large intestine itself.",
+                        "wrongAnswer_3": "The anatomical parts of the large intestine, from beginning to end, are the esophagus, stomach, small intestine, and large intestine, providing a broader overview of the digestive tract but not detailing the specific regions within the large intestine.",
+                        "wrongAnswer_4": "The regions of the large intestine, in sequence, are the mouth, pharynx, esophagus, stomach, and small intestine, outlining the upper digestive tract before reaching the large intestine, and not listing the regions within the large intestine."
+                    },
+                    {
+                        "question": "Explain the structural features that distinguish the large intestine from the small intestine, focusing on taeniae coli, haustra, and omental appendices.",
+                        "goodAnswer": "The large intestine is distinguished by taeniae coli (longitudinal muscle bands), haustra (sacculations between taeniae), and omental appendices (fat-filled pouches), features absent in the small intestine, facilitating segmental contractions and water absorption.",
+                        "wrongAnswer_1": "The large intestine is characterized by villi (finger-like projections), microvilli (apical membrane extensions), and plicae circulares (circular folds), structural adaptations primarily found in the small intestine for enhancing nutrient absorption, not in the large intestine.",
+                        "wrongAnswer_2": "The large intestine is defined by gastric pits (mucosal indentations), gastric glands (secretory units), and rugae (temporary folds), features typical of the stomach mucosa for acid secretion and mechanical mixing, not found in the large intestine.",
+                        "wrongAnswer_3": "The large intestine is identified by alveoli (air sacs), bronchioles (air passages), and pleura (membrane lining), structures of the respiratory system for gas exchange, unrelated to the anatomical features of the large intestine.",
+                        "wrongAnswer_4": "The large intestine is marked by nephrons (functional units), glomeruli (filtration units), and tubules (reabsorption channels), components of the kidney for blood filtration and waste excretion, not characteristic of the large intestine structure."
+                    },
+                    {
+                        "question": "Describe the histological characteristics of the large intestinal mucosa, differentiating it from the small intestinal mucosa in terms of villi and cell types.",
+                        "goodAnswer": "The large intestinal mucosa is characterized by a smooth surface lacking villi and plicae circulares, featuring deep intestinal glands (crypts of Lieberk\u00fchn) rich in goblet cells and absorptive colonocytes, but with fewer enteroendocrine cells and Paneth cells compared to the small intestinal mucosa which possesses villi and a different cellular composition.",
+                        "wrongAnswer_1": "The large intestinal mucosa exhibits prominent villi and plicae circulares, similar to the small intestine, and is lined by enterocytes specialized for nutrient absorption, goblet cells for mucus secretion, and Paneth cells for antimicrobial defense, mirroring small intestinal histology.",
+                        "wrongAnswer_2": "The large intestinal mucosa is histologically identical to the gastric mucosa, featuring gastric pits and glands containing parietal cells, chief cells, and mucous neck cells, specialized for acid and enzyme secretion rather than water absorption and fecal formation.",
+                        "wrongAnswer_3": "The large intestinal mucosa is composed of stratified squamous epithelium, similar to the esophagus, providing a protective barrier against abrasion and mechanical stress, with minimal secretory or absorptive functions and lacking villi or crypts.",
+                        "wrongAnswer_4": "The large intestinal mucosa is characterized by pseudostratified ciliated columnar epithelium with goblet cells, similar to the respiratory mucosa, featuring cilia for mucociliary clearance and goblet cells for mucus production, unrelated to the absorptive functions of the large intestine."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

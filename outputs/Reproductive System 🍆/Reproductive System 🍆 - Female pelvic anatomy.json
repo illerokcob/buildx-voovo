@@ -1,0 +1,136 @@
+{
+    "mainTopic": {
+        "title": "Female pelvic anatomy",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Uterus",
+                "quizzes": [
+                    {
+                        "question": "Considering the uterine cavity as a dynamic potential space, what is the estimated average volume range in a nulliparous, premenopausal uterus, acknowledging its capacity for significant expansion during gestation and the menstrual cycle?",
+                        "goodAnswer": "In a nulliparous, premenopausal state, the uterine cavity, recognized as a potential space, typically averages a volume between 5 to 10 mL, capable of considerable distension.",
+                        "wrongAnswer_1": "The uterine cavity in a nulliparous, premenopausal woman maintains a consistent volume of approximately 20 mL, with minimal variation throughout reproductive life stages.",
+                        "wrongAnswer_2": "Characterized as a rigid cavity, the nulliparous, premenopausal uterus typically presents with a fixed volume of 15 mL, offering limited adaptability to volume changes.",
+                        "wrongAnswer_3": "The uterine cavity, when considered a closed space, averages a minimal volume of 2 to 3 mL in nulliparous, premenopausal individuals, with restricted expansion potential.",
+                        "wrongAnswer_4": "In nulliparous, premenopausal women, the uterine cavity exhibits an average volume of 30 mL, and its dimensions remain largely static, irrespective of hormonal fluctuations or pregnancy."
+                    },
+                    {
+                        "question": "Identify the primary mechanism by which the uterus undergoes significant enlargement during pregnancy to accommodate the developing fetus and the associated placental structures.",
+                        "goodAnswer": "Uterine enlargement during pregnancy is primarily driven by myometrial hypertrophy and hyperplasia, stimulated by hormonal influences, leading to increased cell size and number.",
+                        "wrongAnswer_1": "Uterine enlargement during pregnancy is mainly due to the accumulation of amniotic fluid within the uterine cavity, causing a passive expansion of the myometrial walls.",
+                        "wrongAnswer_2": "Uterine enlargement during pregnancy is primarily a result of myometrial atrophy and cellular swelling, caused by increased blood flow and extracellular fluid accumulation.",
+                        "wrongAnswer_3": "Uterine enlargement during pregnancy is predominantly due to the deposition of adipose tissue within the myometrium, contributing to the overall increase in uterine size and weight.",
+                        "wrongAnswer_4": "Uterine enlargement during pregnancy occurs mainly through myometrial hypertrophy and fibrosis, where the muscle cells increase in size and are replaced by fibrous connective tissue."
+                    },
+                    {
+                        "question": "Which statement accurately describes the orientation of the uterus in the majority of women in the anatomical position, considering both its flexion and version relative to the vagina and cervix?",
+                        "goodAnswer": "In most women, the uterus is anteverted and anteflexed, meaning it is tilted forward relative to the vagina (version) and flexed forward at the cervix (flexion).",
+                        "wrongAnswer_1": "In most women, the uterus is retroverted and retroflexed, indicating it is tilted backward relative to the vagina and flexed backward at the cervix.",
+                        "wrongAnswer_2": "In most women, the uterus is anteverted and retroflexed, characterized by a forward tilt relative to the vagina but a backward flexion at the cervix.",
+                        "wrongAnswer_3": "In most women, the uterus is retroverted and anteflexed, defined by a backward tilt relative to the vagina but a forward flexion at the cervix.",
+                        "wrongAnswer_4": "In most women, the uterus is vertically positioned without significant version or flexion, maintaining a straight alignment with the vagina and cervix."
+                    },
+                    {
+                        "question": "Considering the uterine vasculature, what is the crucial functional role of the arcuate arteries, particularly in relation to their anatomical location and their contribution to the blood supply of the endometrial layers?",
+                        "goodAnswer": "Located within the myometrium, arcuate arteries serve as the origin for radial arteries, which subsequently penetrate into the endometrium to vascularize both the basalis and functionalis layers, ensuring nutrient supply.",
+                        "wrongAnswer_1": "Situated in the perimetrium, arcuate arteries are responsible for directly supplying blood to the functionalis layer of the endometrium, while the basalis layer is vascularized by basal arterioles originating from the radial arteries.",
+                        "wrongAnswer_2": "Positioned within the endometrium, arcuate arteries are the primary source of blood supply to the myometrium and perimetrium, with minimal contribution to the superficial functionalis layer during the menstrual cycle.",
+                        "wrongAnswer_3": "Found in the basalis layer of the endometrium, arcuate arteries provide exclusive blood supply to the basalis layer itself and give rise to spiral arterioles that vascularize the myometrium during the proliferative phase.",
+                        "wrongAnswer_4": "Located in the cervix, arcuate arteries supply blood to the lower uterine segment and the cervical stroma, with no direct contribution to the vascularization of either the basalis or functionalis layers of the endometrium."
+                    }
+                ]
+            },
+            {
+                "title": "Histology",
+                "quizzes": [
+                    {
+                        "question": "Which specific layer of the endometrium undergoes cyclical degeneration and subsequent regeneration in response to the fluctuating levels of ovarian hormones throughout the menstrual cycle, resulting in the process of menstruation?",
+                        "goodAnswer": "The functionalis layer of the endometrium is uniquely characterized by its cyclical shedding and regeneration in response to hormonal variations, culminating in menstrual bleeding and endometrial renewal.",
+                        "wrongAnswer_1": "The basalis layer of the endometrium undergoes cyclical sloughing and regeneration, leading to menstruation and the subsequent restoration of the endometrial functional layer during each menstrual cycle.",
+                        "wrongAnswer_2": "The myometrium, specifically its superficial subendometrial zone, experiences cyclical changes including the detachment of its inner lining, which results in menstrual flow and uterine involution.",
+                        "wrongAnswer_3": "The perimetrium, particularly the serosal layer adjacent to the endometrial surface, is subject to cyclical shedding and regeneration, contributing to menstrual discharge and uterine serosal remodeling.",
+                        "wrongAnswer_4": "Both the basalis and functionalis layers of the endometrium are concurrently shed and regenerated during each menstrual cycle, jointly contributing to the menstrual effluent and endometrial homeostasis."
+                    },
+                    {
+                        "question": "Describe the distinguishing histological feature of the secretory phase of the menstrual cycle within the endometrium, primarily influenced by progesterone after ovulation.",
+                        "goodAnswer": "The secretory phase is characterized by the presence of subnuclear vacuoles in endometrial glandular cells, indicating glycogen accumulation under progesterone influence post-ovulation.",
+                        "wrongAnswer_1": "The secretory phase is marked by pseudostratification of endometrial glandular cell nuclei, indicating increased mitotic activity under estrogen dominance post-ovulation.",
+                        "wrongAnswer_2": "The secretory phase is identified by the prominent stromal edema and infiltration of neutrophils, indicating inflammation and tissue breakdown post-ovulation.",
+                        "wrongAnswer_3": "The secretory phase is characterized by the appearance of spiral arteries extending directly to the endometrial surface, indicative of increased vascularity under estrogen influence.",
+                        "wrongAnswer_4": "The secretory phase is distinguished by the thinning of the endometrial lining and flattening of glandular epithelium, indicating reduced hormonal stimulation post-ovulation."
+                    },
+                    {
+                        "question": "Identify the predominant cell type populating the endometrial stroma during the proliferative phase of the menstrual cycle, which is critically involved in endometrial tissue growth, matrix deposition, and structural repair following menstruation.",
+                        "goodAnswer": "The endometrial stroma in the proliferative phase is predominantly composed of spindle-shaped stromal cells, actively engaged in proliferation and the synthesis of extracellular matrix components essential for tissue restoration and growth.",
+                        "wrongAnswer_1": "During the proliferative phase, the endometrial stroma is mainly populated by decidualized stromal cells, characterized by their enlarged, polygonal morphology and abundant cytoplasm, preparing for implantation.",
+                        "wrongAnswer_2": "The endometrial stroma in the proliferative phase is primarily infiltrated by plasma cells and lymphocytes, indicative of active immune surveillance and modulation of the endometrial microenvironment during tissue regeneration.",
+                        "wrongAnswer_3": "In the proliferative phase, the endometrial stroma is characterized by a high proportion of fibroblasts and adipocytes, contributing to the structural framework and energy storage capacity of the regenerating endometrium.",
+                        "wrongAnswer_4": "The endometrial stroma during the proliferative phase predominantly contains multinucleated giant cells and macrophages, playing a key role in the removal of cellular debris and tissue remodeling after menstruation."
+                    },
+                    {
+                        "question": "What is the histological composition of the myometrium, and how is this cellular arrangement specifically adapted to perform its primary function in uterine contractions?",
+                        "goodAnswer": "The myometrium is composed of interlacing bundles of smooth muscle cells, organized in poorly defined layers, which allows for powerful, coordinated contractions during childbirth.",
+                        "wrongAnswer_1": "The myometrium is composed of striated muscle fibers arranged in parallel layers, providing voluntary control over uterine contractions during labor and delivery.",
+                        "wrongAnswer_2": "The myometrium consists of a single layer of circularly arranged skeletal muscle cells, enabling sustained and forceful contractions during menstruation and labor.",
+                        "wrongAnswer_3": "The myometrium is histologically characterized by dense connective tissue with interspersed elastic fibers, providing structural support but minimal contractile capacity.",
+                        "wrongAnswer_4": "The myometrium is made up of stratified squamous epithelium with underlying connective tissue, protecting the uterus and facilitating glandular secretions during pregnancy."
+                    },
+                    {
+                        "question": "Elaborate on the structural characteristics and functional significance of spiral arteries within the endometrium, particularly concerning their dynamic role in the menstrual cycle and their response to hormonal fluctuations.",
+                        "goodAnswer": "Spiral arteries, located within the functionalis layer, are coiled arterioles that undergo vasoconstriction during the late luteal phase due to hormonal withdrawal, leading to endometrial ischemia and subsequent shedding of the functionalis.",
+                        "wrongAnswer_1": "Spiral arteries are straight arterioles situated in the basalis layer of the endometrium, which vasodilate during menstruation to augment blood flow and support endometrial proliferation and repair processes post-shedding.",
+                        "wrongAnswer_2": "Spiral arteries are venules found in the myometrium that constrict during ovulation to reduce blood supply to the endometrium, thereby preventing implantation of a fertilized ovum and initiating menstruation.",
+                        "wrongAnswer_3": "Spiral arteries are lymphatic vessels primarily located in the perimetrium, functioning in the drainage of interstitial fluid from the uterus and playing no direct hemodynamic role in the cyclical endometrial changes of menstruation.",
+                        "wrongAnswer_4": "Spiral arteries are specialized capillaries within the basalis layer of the endometrium, providing a constant and uninterrupted blood supply to the endometrial layers, remaining unaffected by hormonal shifts during the menstrual cycle."
+                    }
+                ]
+            },
+            {
+                "title": "Abnormal bleeding",
+                "quizzes": [
+                    {
+                        "question": "What is the currently accepted and universally recommended terminology used in clinical practice to comprehensively describe any deviations from normal uterine bleeding patterns in non-pregnant, reproductive-age women, superseding older, less precise terms?",
+                        "goodAnswer": "Abnormal Uterine Bleeding (AUB) is the contemporary and comprehensive term endorsed to describe any abnormal bleeding from the uterus in non-pregnant, reproductive-aged women, replacing less specific terminologies.",
+                        "wrongAnswer_1": "Menorrhagia is now recognized as the most encompassing and contemporary term for all presentations of abnormal uterine bleeding in non-pregnant women during their reproductive years, according to recent consensus.",
+                        "wrongAnswer_2": "Dysfunctional Uterine Bleeding (DUB) remains the currently favored term for abnormal uterine bleeding in reproductive-aged women, widely preferred over the more recent terminology of AUB in clinical settings.",
+                        "wrongAnswer_3": "Metrorrhagia has been re-established as the overarching term of choice for categorizing all forms of abnormal uterine bleeding in non-pregnant women of reproductive age, reflecting its clinical precision.",
+                        "wrongAnswer_4": "Irregular Uterine Bleeding (IUB) is the modern comprehensive term recommended for abnormal bleeding in non-pregnant reproductive-aged women, effectively replacing terms such as AUB and DUB in gynecological discourse."
+                    },
+                    {
+                        "question": "According to the PALM-COEIN classification system, a standardized framework for categorizing abnormal uterine bleeding, which acronym component specifically encompasses structural etiologies that are typically identifiable through imaging modalities or histopathological examination?",
+                        "goodAnswer": "Within the PALM-COEIN classification, the 'PALM' component is designated to represent structural causes of AUB, including conditions such as Polyps, Adenomyosis, Leiomyoma, and Malignancy and hyperplasia, diagnosable via imaging or histology.",
+                        "wrongAnswer_1": "The 'COEIN' component of the PALM-COEIN system is specifically designed to categorize structural causes of AUB, which are typically assessed and identified using clinical examination, imaging techniques, and histological analysis.",
+                        "wrongAnswer_2": "In the PALM-COEIN classification, the 'PALM' acronym refers to non-structural causes of abnormal uterine bleeding, encompassing entities like Polyps, Adenomyosis, Leiomyoma, and Malignancy and hyperplasia, managed primarily medically.",
+                        "wrongAnswer_3": "The 'COEIN' category in the PALM-COEIN system is structured to address structural abnormalities causing AUB, such as Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, and Not yet classified, requiring surgical intervention.",
+                        "wrongAnswer_4": "The structural causes within the PALM-COEIN classification are collectively represented by the acronym 'MILE', which stands for Myomas, Inflammation, Luteal phase defect, and Endometrial hyperplasia, all detected by hysteroscopy."
+                    },
+                    {
+                        "question": "Within the PALM-COEIN classification system for abnormal uterine bleeding, which component of the 'COEIN' acronym is designated to classify conditions related to systemic hemostatic disorders that can manifest clinically as abnormal uterine bleeding?",
+                        "goodAnswer": "The 'C' in COEIN specifically denotes 'Coagulopathy', encompassing systemic hemostatic disorders, such as von Willebrand disease or platelet function defects, which can present with abnormal uterine bleeding as a primary manifestation.",
+                        "wrongAnswer_1": "The 'O' in COEIN stands for 'Ovulatory dysfunction', which also includes systemic hemostatic disorders like von Willebrand disease and platelet function abnormalities that secondarily affect ovulation and cause AUB.",
+                        "wrongAnswer_2": "The 'E' in COEIN represents 'Endometrial', referring to systemic hemostatic disorders that can cause abnormal uterine bleeding indirectly by altering endometrial receptivity to coagulation factors, such as Factor V Leiden deficiency.",
+                        "wrongAnswer_3": "The 'I' in COEIN stands for 'Iatrogenic', which primarily includes systemic bleeding disorders like hemophilia and thrombocytopenia that are induced as adverse effects of medical treatments, leading to AUB.",
+                        "wrongAnswer_4": "The 'N' in COEIN, signifying 'Not yet classified', encompasses systemic coagulopathies like disseminated intravascular coagulation and thrombotic thrombocytopenic purpura, which are secondary causes of abnormal uterine bleeding."
+                    },
+                    {
+                        "question": "What is the underlying pathophysiological mechanism leading to abnormal uterine bleeding in the context of ovulatory dysfunction, a common non-structural etiology classified under the COEIN system for abnormal uterine bleeding?",
+                        "goodAnswer": "Abnormal uterine bleeding due to ovulatory dysfunction typically arises from prolonged, unopposed estrogen exposure resulting from anovulation, which leads to endometrial hyperplasia, instability, and subsequent irregular, unpredictable bleeding patterns.",
+                        "wrongAnswer_1": "Abnormal uterine bleeding associated with ovulatory dysfunction is primarily caused by excessive progesterone secretion in the absence of ovulation, leading to endometrial atrophy, fragility, and consequent irregular shedding and bleeding episodes.",
+                        "wrongAnswer_2": "Ovulatory dysfunction-related AUB originates from synchronized and excessive endometrial shedding due to increased prostaglandin production during anovulatory cycles, causing heavy and prolonged menstrual-like bleeding.",
+                        "wrongAnswer_3": "Abnormal uterine bleeding from ovulatory dysfunction is typically associated with a deficiency in both estrogen and progesterone, causing endometrial hypoplasia, structural weakness, and unpredictable bleeding tendencies.",
+                        "wrongAnswer_4": "Ovulatory dysfunction-related AUB primarily results from increased endometrial vascularity and angiogenesis stimulated by unopposed estrogen, leading to heavy and prolonged menstrual bleeding during otherwise ovulatory cycles."
+                    },
+                    {
+                        "question": "What is the most appropriate initial diagnostic approach for the evaluation of abnormal uterine bleeding in a reproductive-aged woman, recommended as the first-line assessment before considering more invasive or specialized investigative procedures?",
+                        "goodAnswer": "The initial diagnostic approach for abnormal uterine bleeding typically involves a comprehensive clinical history, thorough physical examination including pelvic exam, and exclusion of pregnancy, often followed by basic hormonal assays and transvaginal pelvic ultrasonography for preliminary assessment.",
+                        "wrongAnswer_1": "The first-line diagnostic approach for abnormal uterine bleeding is hysteroscopy with endometrial biopsy, allowing for direct visualization of the uterine cavity and immediate histological sampling to evaluate for structural and pathological abnormalities.",
+                        "wrongAnswer_2": "The primary diagnostic step for abnormal uterine bleeding is dilation and curettage (D&C) to obtain endometrial tissue for comprehensive histological evaluation, and to immediately rule out underlying endometrial hyperplasia or malignancy in symptomatic women.",
+                        "wrongAnswer_3": "The initial diagnostic approach for abnormal uterine bleeding is magnetic resonance imaging (MRI) of the pelvis, providing a detailed anatomical assessment of the uterus and adnexa to comprehensively evaluate for fibroids, adenomyosis, and other structural lesions.",
+                        "wrongAnswer_4": "The first diagnostic step for abnormal uterine bleeding should always include genetic testing to identify potential underlying coagulopathies or inherited bleeding disorders that may be contributing to the abnormal bleeding phenotype, especially in younger women."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}
