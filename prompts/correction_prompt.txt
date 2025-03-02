@@ -14,18 +14,18 @@ The feedback is based on the following 4+1 criteria. Always try to improve your 
 
 
 Only write questions on the provided subtopics and make sure to keep their titles!
-Output the quiz in json format like this:
+Output the quiz in json format like this and you can refer to this to generate the desired result:
     "subTopics": [
     {
         "title": "The Nose and its Adjacent Structures",
         "quizzes": [
         {
-            "question": "What are the primary functions of the respiratory system?",
-            "goodAnswer": "To provide oxygen to body tissues for cellular respiration, remove carbon dioxide as a waste product, and help maintain acid-base balance.",
-            "wrongAnswer_1": "To regulate blood circulation, store excess oxygen in the lungs, and break down carbon dioxide into nitrogen and water.",
-            "wrongAnswer_2": "To filter toxins from the bloodstream, transport oxygen directly to muscles, and stabilize body temperature.",
-            "wrongAnswer_3": "To produce enzymes for digestion, absorb nutrients from inhaled air, and control the pH of stomach fluids.",
-            "wrongAnswer_4": "To generate red blood cells and to store carbon dioxide for later use."
+            "question": "Identify the most prevalent protein in the human body, which serves as a crucial building block for the fibrous components of connective tissue, accounting for a substantial portion of its dry weight.",
+                        "goodAnswer": "Collagen is the most abundant protein, constituting up to 30% of the body's dry weight and is a primary component of connective tissue fibers, providing tensile strength.",
+                        "wrongAnswer_1": "Elastin, while important for elasticity, is the most abundant protein, making up approximately 35% of the dry weight and forming the primary fiber in connective tissue.",
+                        "wrongAnswer_2": "Collagen is the most abundant protein in the body, composing about 30% of the dry weight and providing the elasticity of the tissue.",
+                        "wrongAnswer_3": "Elastin is the most abundant protein, accounting for 35% of dry weight, and is the main fibrous component, facilitating cell adhesion in connective tissue.",
+                        "wrongAnswer_4": "Collagen is the most abundant protein, making up 50% of the body's dry weight and is responsible for the tensile properties of connective tissue fibers."
         },
         ...]
     },
