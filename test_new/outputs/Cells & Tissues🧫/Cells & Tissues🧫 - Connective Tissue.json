@@ -12,12 +12,7 @@
                         "wrongAnswer_1": "Connective tissues originate mainly from the ectoderm, an embryonic germ layer, particularly from neuroectodermal cells, which give rise to the specialized cell types and the unique extracellular matrix found in connective tissues.",
                         "wrongAnswer_2": "Connective tissues are derived primarily from the endoderm, the innermost embryonic germ layer, specifically from epithelial cells undergoing mesenchymal transition, leading to the formation of connective tissue cells and their matrix.",
                         "wrongAnswer_3": "Connective tissues are derived from a combination of ectoderm and endoderm, with ectodermal cells forming the cellular components and endodermal cells contributing to the extracellular matrix of connective tissues.",
-                        "wrongAnswer_4": "Connective tissues arise from the neuroectoderm, a specialized region of the ectoderm, giving rise to mesenchymal stem cells, which in turn differentiate into all connective tissue types and produce their extracellular matrix.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Connective tissues arise from the neuroectoderm, a specialized region of the ectoderm, giving rise to mesenchymal stem cells, which in turn differentiate into all connective tissue types and produce their extracellular matrix."
                     },
                     {
                         "question": "Describe the fundamental composition of connective tissue, emphasizing the two major components that are universally recognized as the defining characteristics of this tissue type.",
@@ -25,12 +20,7 @@
                         "wrongAnswer_1": "Connective tissue is mainly composed of cells and intracellular matrix (ICM), where the ICM is the predominant component, comprising cytosol and organelles, dictating the tissue's metabolic and synthetic activities.",
                         "wrongAnswer_2": "Connective tissue is fundamentally composed of cells and intercellular junctions, with intercellular junctions being the more prominent feature, consisting of tight junctions and gap junctions, which regulate tissue permeability and communication.",
                         "wrongAnswer_3": "Connective tissue is primarily composed of cells and basement membrane, with the basement membrane being the major structural component, made up of lamina lucida and lamina densa, providing epithelial support and filtration.",
-                        "wrongAnswer_4": "Connective tissue is made up of cells and interstitial fluid, with interstitial fluid being the most substantial component, composed of water and electrolytes, influencing tissue hydration and nutrient exchange.",
-                        "options": 9,
-                        "question-complexity": 8,
-                        "answer-complexity": 8,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Connective tissue is made up of cells and interstitial fluid, with interstitial fluid being the most substantial component, composed of water and electrolytes, influencing tissue hydration and nutrient exchange."
                     },
                     {
                         "question": "Outline the principal functions attributed to connective tissues within the body, focusing on the diverse roles they play in maintaining structural integrity and physiological processes.",
@@ -38,12 +28,7 @@
                         "wrongAnswer_1": "Connective tissues primarily function in conducting electrical impulses, generating mechanical movement, secreting hormones, and absorbing nutrients, while their role in structural support and defense is secondary.",
                         "wrongAnswer_2": "Connective tissues are mainly responsible for filtering blood, producing digestive enzymes, synthesizing vitamins, and regulating body temperature, with their involvement in structural integrity and repair being minimal.",
                         "wrongAnswer_3": "Connective tissues predominantly function in gas exchange, waste removal, muscle contraction, and nerve signal transmission, whereas their contribution to structural framework and metabolic exchange is negligible.",
-                        "wrongAnswer_4": "Connective tissues primarily function in epithelial lining, glandular secretion, surface protection, and sensory reception, while their role in support, exchange, defense, storage, and repair is not significant.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Connective tissues primarily function in epithelial lining, glandular secretion, surface protection, and sensory reception, while their role in support, exchange, defense, storage, and repair is not significant."
                     },
                     {
                         "question": "Contrast the vascularity of connective tissues, identifying the exception to the general rule and explaining the implications of this variation in blood supply.",
@@ -51,12 +36,7 @@
                         "wrongAnswer_1": "All connective tissues are highly vascularized, ensuring direct blood supply to all cells and matrix components, which facilitates rapid nutrient delivery and waste removal, and enhances their regenerative capacity.",
                         "wrongAnswer_2": "Most connective tissues are avascular, lacking a direct blood supply, which limits their metabolic activity and regenerative potential, with only a few exceptions like bone and blood being vascularized.",
                         "wrongAnswer_3": "Connective tissues exhibit variable vascularity, with some types like bone and adipose tissue being highly vascular, while others like dense connective tissue and tendons are poorly vascularized, affecting their metabolic rates and repair processes.",
-                        "wrongAnswer_4": "All connective tissues are avascular except for adipose tissue, which is highly vascularized to support lipid metabolism and storage, while all other connective tissues rely on indirect nutrient supply and waste removal mechanisms.",
-                        "options": 9,
-                        "question-complexity": 8,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "All connective tissues are avascular except for adipose tissue, which is highly vascularized to support lipid metabolism and storage, while all other connective tissues rely on indirect nutrient supply and waste removal mechanisms."
                     }
                 ]
             },
@@ -69,12 +49,7 @@
                         "wrongAnswer_1": "Reticular fibers are the most abundant in connective tissue, mainly composed of the protein elastin, which provides elasticity and recoil, crucial for tissues requiring flexibility and deformation.",
                         "wrongAnswer_2": "Elastic fibers are the most abundant in connective tissue, composed primarily of the protein collagen, which provides elasticity and allows tissues to stretch and recoil, essential for tissue flexibility and movement.",
                         "wrongAnswer_3": "Collagen fibers are the most abundant type in connective tissue, composed mainly of the protein fibronectin, which provides adhesive properties and facilitates cell attachment to the extracellular matrix, crucial for tissue organization.",
-                        "wrongAnswer_4": "Reticular fibers are the most abundant type in connective tissue, composed primarily of the protein collagen, which provides a delicate supporting framework and is found mainly in lymphatic organs and basement membranes, offering structural scaffolding.",
-                        "options": 9,
-                        "question-complexity": 8,
-                        "answer-complexity": 8,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Reticular fibers are the most abundant type in connective tissue, composed primarily of the protein collagen, which provides a delicate supporting framework and is found mainly in lymphatic organs and basement membranes, offering structural scaffolding."
                     },
                     {
                         "question": "Describe the key characteristics of collagen fibers, focusing on their structural attributes and the synthesis process involved in their formation.",
@@ -82,12 +57,7 @@
                         "wrongAnswer_1": "Collagen fibers are characterized by their high elasticity, branching nature, and being composed of elastin molecules cross-linked into a network; their synthesis is a simple intracellular process involving direct assembly of elastin monomers in the cytoplasm.",
                         "wrongAnswer_2": "Collagen fibers are characterized by their delicate, mesh-like structure, and being composed of reticulin protein forming a network; their synthesis occurs exclusively extracellularly through self-assembly of reticulin monomers in the tissue spaces.",
                         "wrongAnswer_3": "Collagen fibers are characterized by their rigidity, mineralized nature, and being composed of hydroxyapatite crystals embedded in a protein matrix; their synthesis is a complex process involving osteoblast activity and calcium phosphate deposition.",
-                        "wrongAnswer_4": "Collagen fibers are characterized by their adhesive properties, glycoprotein composition, and being composed of fibronectin and laminin molecules; their synthesis primarily involves fibroblasts secreting glycoproteins that self-assemble into fibers.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Collagen fibers are characterized by their adhesive properties, glycoprotein composition, and being composed of fibronectin and laminin molecules; their synthesis primarily involves fibroblasts secreting glycoproteins that self-assemble into fibers."
                     },
                     {
                         "question": "Explain the function and distribution of elastic fibers in connective tissue, highlighting their unique protein composition and the tissues where they are predominantly found.",
@@ -95,12 +65,7 @@
                         "wrongAnswer_1": "Elastic fibers provide tensile strength and resistance to stretching, composed mainly of collagen and fibronectin, and are predominantly found in tissues requiring high strength such as tendons, ligaments, and bone matrix, preventing over-extension and providing structural rigidity.",
                         "wrongAnswer_2": "Elastic fibers provide a delicate supporting framework, composed mainly of reticulin and glycoproteins, and are prominently found in tissues requiring structural scaffolding such as lymphatic organs, basement membranes, and liver sinusoids, forming a meshwork for cell support.",
                         "wrongAnswer_3": "Elastic fibers provide adhesive properties and cell attachment, composed mainly of laminin and proteoglycans, and are predominantly found in tissues requiring cell adhesion such as epithelial basement membranes, cartilage, and adipose tissue, mediating cell-matrix interactions.",
-                        "wrongAnswer_4": "Elastic fibers provide lubrication and reduce friction in tissues, composed mainly of hyaluronic acid and chondroitin sulfate, and are prominently found in tissues requiring smooth movement such as synovial joints, intervertebral discs, and vitreous humor, facilitating frictionless articulation.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Elastic fibers provide lubrication and reduce friction in tissues, composed mainly of hyaluronic acid and chondroitin sulfate, and are prominently found in tissues requiring smooth movement such as synovial joints, intervertebral discs, and vitreous humor, facilitating frictionless articulation."
                     },
                     {
                         "question": "Describe the structure and function of reticular fibers, emphasizing their distinctive protein component, arrangement, and the types of tissues where they are typically located.",
@@ -108,12 +73,7 @@
                         "wrongAnswer_1": "Reticular fibers are thick, rope-like fibers arranged in parallel bundles, composed of type I collagen, providing high tensile strength in tendons and ligaments, and are typically located in dense regular connective tissue and bone matrix, offering resistance to pulling forces.",
                         "wrongAnswer_2": "Reticular fibers are elastic, branching fibers forming a network, composed of elastin and fibrillin, providing elasticity in arterial walls and lungs, and are typically located in elastic connective tissue and elastic cartilage, enabling stretch and recoil.",
                         "wrongAnswer_3": "Reticular fibers are rigid, mineralized fibers arranged in a crystalline lattice, composed of hydroxyapatite and collagen, providing structural support in bone and teeth, and are typically located in osseous tissue and enamel, offering hardness and compressive strength.",
-                        "wrongAnswer_4": "Reticular fibers are adhesive, sheet-like fibers forming basement membranes, composed of laminin and type IV collagen, providing epithelial support and filtration in kidneys and skin, and are typically located in basement membranes and basal lamina, mediating cell-matrix adhesion.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Reticular fibers are adhesive, sheet-like fibers forming basement membranes, composed of laminin and type IV collagen, providing epithelial support and filtration in kidneys and skin, and are typically located in basement membranes and basal lamina, mediating cell-matrix adhesion."
                     }
                 ]
             },
@@ -126,12 +86,7 @@
                         "wrongAnswer_1": "Ground substance in ECM is a rigid, mineralized matrix composed of hydroxyapatite crystals and collagen, which functions to provide structural support and hardness to bone tissue, and act as a reservoir for calcium and phosphate ions.",
                         "wrongAnswer_2": "Ground substance in ECM is a lipid-rich, hydrophobic matrix composed of triglycerides and cholesterol, which functions to store energy reserves in adipose tissue, and act as insulation and cushioning for organs and tissues.",
                         "wrongAnswer_3": "Ground substance in ECM is a fibrous, proteinaceous matrix composed of collagen and elastin fibers, which functions to provide tensile strength and elasticity to connective tissues, and act as a framework for cell attachment and migration.",
-                        "wrongAnswer_4": "Ground substance in ECM is a cellular, metabolically active matrix composed of fibroblasts and macrophages, which functions to synthesize ECM components and mediate immune responses within connective tissues, and act as a source of growth factors and cytokines.",
-                        "options": 9,
-                        "question-complexity": 8,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Ground substance in ECM is a cellular, metabolically active matrix composed of fibroblasts and macrophages, which functions to synthesize ECM components and mediate immune responses within connective tissues, and act as a source of growth factors and cytokines."
                     },
                     {
                         "question": "Explain the nature and function of glycosaminoglycans (GAGs) within the ground substance, emphasizing their unique structural properties and contribution to ECM characteristics.",
@@ -139,12 +94,7 @@
                         "wrongAnswer_1": "Glycosaminoglycans (GAGs) are branched glycoproteins composed of amino acids and monosaccharides, positively charged, repelling water to create a dehydrated matrix, contributing to the ECM's rigidity, strength, and impermeability, and regulating tissue dehydration and ion exclusion.",
                         "wrongAnswer_2": "Glycosaminoglycans (GAGs) are fibrous proteins composed of collagen and elastin subunits, neutrally charged, having no significant interaction with water, contributing to the ECM's tensile strength, elasticity, and structural integrity, and providing mechanical support.",
                         "wrongAnswer_3": "Glycosaminoglycans (GAGs) are lipid molecules composed of fatty acids and glycerol, hydrophobic, repelling water to form a water-resistant barrier, contributing to the ECM's insulation, impermeability, and energy storage capacity, and regulating temperature and lipid metabolism.",
-                        "wrongAnswer_4": "Glycosaminoglycans (GAGs) are nucleic acid polymers composed of nucleotides, negatively charged, attracting ions but not water, contributing to the ECM's electrical conductivity, ion buffering capacity, and genetic information storage, and regulating nerve impulse transmission.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Glycosaminoglycans (GAGs) are nucleic acid polymers composed of nucleotides, negatively charged, attracting ions but not water, contributing to the ECM's electrical conductivity, ion buffering capacity, and genetic information storage, and regulating nerve impulse transmission."
                     },
                     {
                         "question": "Describe the structure and role of proteoglycans in the extracellular matrix, emphasizing their unique composition and interaction with other ECM components.",
@@ -152,12 +102,7 @@
                         "wrongAnswer_1": "Proteoglycans consist of multiple polypeptide chains interwoven to form fibrous structures, non-covalently associated with GAGs, forming rigid, insoluble complexes that provide tensile strength, prevent molecular diffusion, inhibit cell adhesion, and interact with elastin, providing structural support and elasticity.",
                         "wrongAnswer_2": "Proteoglycans consist of lipid bilayers enclosing aqueous compartments, interspersed with GAGs, forming membrane-like structures that regulate permeability, control ion transport, mediate cell communication, and interact with glycoproteins, providing selective barrier function and signaling pathways.",
                         "wrongAnswer_3": "Proteoglycans consist of mineral crystals embedded within a protein matrix, coated with GAGs, forming hard, dense materials that provide rigidity, resist compression forces, store mineral ions, and interact with hydroxyapatite, providing structural support and mineral homeostasis.",
-                        "wrongAnswer_4": "Proteoglycans consist of nucleic acid strands complexed with proteins, decorated with GAGs, forming informational macromolecules that regulate gene expression, control protein synthesis, mediate cell differentiation, and interact with DNA, providing genetic control and cellular regulation.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Proteoglycans consist of nucleic acid strands complexed with proteins, decorated with GAGs, forming informational macromolecules that regulate gene expression, control protein synthesis, mediate cell differentiation, and interact with DNA, providing genetic control and cellular regulation."
                     },
                     {
                         "question": "Explain the function of multiadhesive glycoproteins in the ECM, highlighting their role in cell-matrix interactions and tissue organization, and provide examples of key glycoproteins.",
@@ -165,12 +110,7 @@
                         "wrongAnswer_1": "Multiadhesive glycoproteins, such as actin and myosin, contain enzymatic active sites and binding sites for ATP and calcium ions, mediating muscle contraction, cell motility, and intracellular transport by generating force and movement within cells and tissues, playing a crucial role in cell dynamics.",
                         "wrongAnswer_2": "Multiadhesive glycoproteins, such as hormones and growth factors, contain receptor-binding domains and signaling motifs, mediating intercellular communication, cell proliferation, and differentiation by transmitting signals between cells and regulating cellular responses, playing a crucial role in tissue homeostasis and growth.",
                         "wrongAnswer_3": "Multiadhesive glycoproteins, such as antibodies and complement proteins, contain antigen-binding sites and effector domains, mediating immune responses, pathogen recognition, and inflammation by targeting foreign substances and activating immune cells, playing a crucial role in host defense and immune surveillance.",
-                        "wrongAnswer_4": "Multiadhesive glycoproteins, such as enzymes and transporters, contain substrate-binding sites and catalytic domains, mediating metabolic reactions, nutrient uptake, and waste removal by catalyzing biochemical transformations and facilitating molecule transport across cell membranes, playing a crucial role in cellular metabolism and homeostasis.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Multiadhesive glycoproteins, such as enzymes and transporters, contain substrate-binding sites and catalytic domains, mediating metabolic reactions, nutrient uptake, and waste removal by catalyzing biochemical transformations and facilitating molecule transport across cell membranes, playing a crucial role in cellular metabolism and homeostasis."
                     }
                 ]
             },
@@ -183,12 +123,7 @@
                         "wrongAnswer_1": "The basement membrane consists of three layers: the lamina propria, a layer of connective tissue underlying the epithelium, composed of collagen and fibroblasts; the lamina reticularis, a layer of reticular fibers; and the lamina muscularis, a layer of smooth muscle, providing support and motility to epithelial tissues.",
                         "wrongAnswer_2": "The basement membrane consists of a single layer, the basal lamina, which is a homogenous electron-dense layer composed solely of type I collagen, providing tensile strength and attachment to underlying connective tissue, acting as a structural foundation for epithelia.",
                         "wrongAnswer_3": "The basement membrane consists of multiple layers of cells: the basal cell layer, a layer of stem cells; the spinous layer, a layer of differentiating cells; and the granular layer, a layer of mature cells, providing cellular stratification and protection to epithelial tissues.",
-                        "wrongAnswer_4": "The basement membrane consists of two layers: the lamina externa, an outer layer composed of elastin and fibrillin, providing elasticity; and the lamina interna, an inner layer composed of proteoglycans and GAGs, providing hydration and diffusion barrier, regulating tissue flexibility and permeability.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "The basement membrane consists of two layers: the lamina externa, an outer layer composed of elastin and fibrillin, providing elasticity; and the lamina interna, an inner layer composed of proteoglycans and GAGs, providing hydration and diffusion barrier, regulating tissue flexibility and permeability."
                     },
                     {
                         "question": "Explain the key functions of the basement membrane in tissues, emphasizing its roles in supporting epithelia and influencing cellular behavior.",
@@ -196,12 +131,7 @@
                         "wrongAnswer_1": "The basement membrane primarily functions in conducting nerve impulses, generating muscle contraction, secreting hormones, and absorbing nutrients, while its role in epithelial support and filtration is minimal, mainly involved in neuronal and muscular tissue function.",
                         "wrongAnswer_2": "The basement membrane mainly functions in synthesizing extracellular matrix components, mediating immune responses, storing energy reserves, and regulating body temperature, whereas its contribution to epithelial support and cellular behavior is negligible, primarily involved in ECM synthesis and metabolic regulation.",
                         "wrongAnswer_3": "The basement membrane primarily functions in gas exchange, waste removal, blood clotting, and vitamin synthesis, while its role in epithelial attachment and filtration is secondary, mainly involved in respiratory, excretory, and circulatory system functions.",
-                        "wrongAnswer_4": "The basement membrane primarily functions in providing mechanical protection, thermal insulation, sensory reception, and glandular secretion, whereas its contribution to epithelial organization and cell behavior is insignificant, mainly involved in skin and glandular tissue functions.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "The basement membrane primarily functions in providing mechanical protection, thermal insulation, sensory reception, and glandular secretion, whereas its contribution to epithelial organization and cell behavior is insignificant, mainly involved in skin and glandular tissue functions."
                     },
                     {
                         "question": "Identify the major molecular components of the lamina densa and lamina lucida of the basement membrane, detailing their specific contributions to the structure and function of each layer.",
@@ -209,12 +139,7 @@
                         "wrongAnswer_1": "The lamina densa is mainly composed of type I collagen, providing tensile strength, and fibronectin, mediating cell adhesion; the lamina lucida is rich in elastin, providing elasticity, and fibrillin, assembling elastic fibers, facilitating tissue flexibility and cell attachment.",
                         "wrongAnswer_2": "The lamina densa is primarily composed of type III collagen (reticulin), providing a delicate framework, and hyaluronic acid, providing hydration; the lamina lucida is rich in proteoglycans, regulating molecular traffic, and glycoproteins, mediating cell signaling, facilitating tissue hydration and communication.",
                         "wrongAnswer_3": "The lamina densa is mainly composed of type II collagen, providing compressive strength, and chondroitin sulfate, contributing to cartilage matrix; the lamina lucida is rich in aggrecan, a large aggregating proteoglycan, and link protein, stabilizing proteoglycan aggregates, facilitating cartilage properties and matrix organization.",
-                        "wrongAnswer_4": "The lamina densa is primarily composed of type V collagen, regulating fibril diameter, and decorin, a small leucine-rich proteoglycan, modulating collagen fibrillogenesis; the lamina lucida is rich in tenascin, modulating cell adhesion, and thrombospondin, regulating angiogenesis, facilitating collagen fibril assembly and cell adhesion modulation.",
-                        "options": 9,
-                        "question-complexity": 10,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "The lamina densa is primarily composed of type V collagen, regulating fibril diameter, and decorin, a small leucine-rich proteoglycan, modulating collagen fibrillogenesis; the lamina lucida is rich in tenascin, modulating cell adhesion, and thrombospondin, regulating angiogenesis, facilitating collagen fibril assembly and cell adhesion modulation."
                     }
                 ]
             },
@@ -227,12 +152,7 @@
                         "wrongAnswer_1": "Connective tissue cells are categorized as epithelial cells and mesenchymal cells; epithelial cells are fixed, forming linings and barriers, while mesenchymal cells are free, migrating and differentiating into various connective tissue types, primarily based on their embryonic origin and tissue location.",
                         "wrongAnswer_2": "Connective tissue cells are categorized as contractile cells and secretory cells; contractile cells, like muscle cells and myofibroblasts, are fixed, generating force and movement, while secretory cells, like glands and adipocytes, are free, producing and releasing substances, primarily based on their functional activities.",
                         "wrongAnswer_3": "Connective tissue cells are categorized as structural cells and functional cells; structural cells, like fibroblasts and chondrocytes, are fixed, providing support and matrix, while functional cells, like nerve cells and blood cells, are free, carrying out specific physiological processes, primarily based on their structural and functional roles.",
-                        "wrongAnswer_4": "Connective tissue cells are categorized as parenchymal cells and stromal cells; parenchymal cells, like hepatocytes and nephrons, are fixed, performing tissue-specific functions, while stromal cells, like fibroblasts and endothelial cells, are free, providing support and microenvironment, primarily based on their tissue-specific functions and support roles.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 10,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Connective tissue cells are categorized as parenchymal cells and stromal cells; parenchymal cells, like hepatocytes and nephrons, are fixed, performing tissue-specific functions, while stromal cells, like fibroblasts and endothelial cells, are free, providing support and microenvironment, primarily based on their tissue-specific functions and support roles."
                     },
                     {
                         "question": "Describe the role and characteristics of fibroblasts, the most abundant fixed cell type in connective tissue, emphasizing their function in ECM production and tissue maintenance.",
@@ -240,12 +160,7 @@
                         "wrongAnswer_1": "Fibroblasts are the most abundant free cells, responsible for immune surveillance and phagocytosis of pathogens and debris, crucial for tissue defense and inflammation; they are typically round-shaped with a multi-lobed nucleus and abundant lysosomes and phagosomes.",
                         "wrongAnswer_2": "Fibroblasts are specialized contractile cells, responsible for generating force and movement in connective tissues, crucial for tissue tension and wound contraction; they are typically star-shaped with numerous cytoplasmic extensions and contractile filaments.",
                         "wrongAnswer_3": "Fibroblasts are lipid storage cells, responsible for storing triglycerides and releasing energy reserves, crucial for energy homeostasis and thermal insulation; they are typically spherical cells filled with a large lipid droplet and a peripheral nucleus.",
-                        "wrongAnswer_4": "Fibroblasts are pigment-producing cells, responsible for synthesizing melanin and providing skin and hair color, crucial for UV protection and camouflage; they are typically dendritic cells with cytoplasmic processes and melanosomes containing melanin pigments.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Fibroblasts are pigment-producing cells, responsible for synthesizing melanin and providing skin and hair color, crucial for UV protection and camouflage; they are typically dendritic cells with cytoplasmic processes and melanosomes containing melanin pigments."
                     },
                     {
                         "question": "Explain the origin and function of macrophages, a type of free cell in connective tissue, highlighting their role in immune defense and tissue remodeling.",
@@ -253,12 +168,7 @@
                         "wrongAnswer_1": "Macrophages originate from fibroblasts within connective tissue, differentiating into phagocytic cells to synthesize extracellular matrix components and provide structural support, and in tissue maintenance and repair by secreting collagen and elastin.",
                         "wrongAnswer_2": "Macrophages originate from lymphocytes in lymphatic tissues, migrating into connective tissues to mediate adaptive immune responses and produce antibodies, and in pathogen neutralization and immune memory by secreting immunoglobulins.",
                         "wrongAnswer_3": "Macrophages originate from mast cells in connective tissue, differentiating into inflammatory cells to release histamine and heparin and mediate allergic reactions, and in vasodilation and anticoagulation by secreting vasoactive mediators.",
-                        "wrongAnswer_4": "Macrophages originate from adipocytes in adipose tissue, migrating into connective tissues to store lipids and release energy reserves, and in energy homeostasis and thermal insulation by secreting triglycerides and fatty acids.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Macrophages originate from adipocytes in adipose tissue, migrating into connective tissues to store lipids and release energy reserves, and in energy homeostasis and thermal insulation by secreting triglycerides and fatty acids."
                     },
                     {
                         "question": "Describe the characteristics and function of mast cells, a type of fixed cell in connective tissue, emphasizing their role in inflammation and allergic reactions.",
@@ -266,12 +176,7 @@
                         "wrongAnswer_1": "Mast cells are free connective tissue cells characterized by a large nucleus and abundant ribosomes, synthesizing and secreting antibodies for adaptive immune responses, playing a key role in pathogen neutralization and immune memory by producing immunoglobulins upon antigen stimulation.",
                         "wrongAnswer_2": "Mast cells are contractile connective tissue cells characterized by cytoplasmic filaments and myosin, generating force for tissue contraction and movement, playing a key role in wound healing and tissue tension by contracting and remodeling the extracellular matrix.",
                         "wrongAnswer_3": "Mast cells are pigment-producing connective tissue cells characterized by melanosomes containing melanin, providing skin and hair color and protection from UV radiation, playing a key role in pigmentation and photoprotection by synthesizing and distributing melanin pigments.",
-                        "wrongAnswer_4": "Mast cells are lipid storage connective tissue cells characterized by a large lipid droplet and peripheral nucleus, storing triglycerides and releasing energy reserves, playing a key role in energy homeostasis and thermal insulation by accumulating and metabolizing lipids.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Mast cells are lipid storage connective tissue cells characterized by a large lipid droplet and peripheral nucleus, storing triglycerides and releasing energy reserves, playing a key role in energy homeostasis and thermal insulation by accumulating and metabolizing lipids."
                     }
                 ]
             },
@@ -284,12 +189,7 @@
                         "wrongAnswer_1": "Loose connective tissue proper has more fibers and less ground substance, providing tensile strength and rigidity; examples include bone and cartilage. Dense connective tissue proper has more ground substance and fewer fibers, providing flexibility and cushioning; examples include adipose tissue and blood.",
                         "wrongAnswer_2": "Loose connective tissue proper has a highly organized and regular arrangement of fibers, providing high tensile strength in one direction; examples include tendons and ligaments. Dense connective tissue proper has a disorganized and irregular arrangement of fibers, providing strength in multiple directions; examples include dermis and organ capsules.",
                         "wrongAnswer_3": "Loose connective tissue proper is avascular and relies on diffusion for nutrient supply, limiting its metabolic activity; examples include cartilage and cornea. Dense connective tissue proper is highly vascular and has a rich blood supply, supporting high metabolic activity; examples include bone marrow and liver.",
-                        "wrongAnswer_4": "Loose connective tissue proper contains primarily elastic fibers, providing elasticity and recoil; examples include arterial walls and lungs. Dense connective tissue proper contains primarily reticular fibers, providing a delicate supporting framework; examples include lymph nodes and spleen.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Loose connective tissue proper contains primarily elastic fibers, providing elasticity and recoil; examples include arterial walls and lungs. Dense connective tissue proper contains primarily reticular fibers, providing a delicate supporting framework; examples include lymph nodes and spleen."
                     },
                     {
                         "question": "Describe the characteristics and function of loose connective tissue proper (areolar tissue), highlighting its components, arrangement, and common locations in the body.",
@@ -297,12 +197,7 @@
                         "wrongAnswer_1": "Loose connective tissue (areolar) is characterized by densely packed, parallel collagen fibers, minimal ground substance, and primarily fibroblasts; it functions to provide high tensile strength and resistance to stretching in one direction, commonly found in tendons and ligaments, and forming strong connections between muscles and bones.",
                         "wrongAnswer_2": "Loose connective tissue (areolar) is characterized by a gel-like matrix with chondrocytes in lacunae, no fibers, and abundant ground substance rich in chondroitin sulfate; it functions to provide flexible support and shock absorption, commonly found in articular surfaces of joints, ears, and nose, and lacking blood vessels and nerves.",
                         "wrongAnswer_3": "Loose connective tissue (areolar) is characterized by adipocytes filled with lipid droplets, sparse ECM, and a rich vascular supply; it functions to store energy reserves, provide insulation, and cushion organs, commonly found in subcutaneous layer, around kidneys and heart, and highly metabolically active.",
-                        "wrongAnswer_4": "Loose connective tissue (areolar) is characterized by reticular fibers forming a network, hematopoietic cells, and immune cells; it functions to provide a supporting framework for lymphatic organs and blood cell formation, commonly found in bone marrow, spleen, and lymph nodes, and involved in immune responses and blood cell production.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Loose connective tissue (areolar) is characterized by reticular fibers forming a network, hematopoietic cells, and immune cells; it functions to provide a supporting framework for lymphatic organs and blood cell formation, commonly found in bone marrow, spleen, and lymph nodes, and involved in immune responses and blood cell production."
                     },
                     {
                         "question": "Contrast dense regular and dense irregular connective tissue proper, emphasizing the organization of their collagen fibers and the functional implications of this arrangement.",
@@ -310,12 +205,7 @@
                         "wrongAnswer_1": "Dense regular connective tissue has elastic fibers arranged in a branching network, providing elasticity and recoil in multiple directions, ideal for tissues that need to stretch and return to their original shape, found in arterial walls and lungs. Dense irregular connective tissue has reticular fibers arranged in a mesh-like network, providing a delicate supporting framework, ideal for lymphatic organs and basement membranes, found in spleen and lymph nodes.",
                         "wrongAnswer_2": "Dense regular connective tissue has chondrocytes embedded in a cartilaginous matrix, providing flexible support and shock absorption, ideal for articular surfaces and ears, found in cartilage. Dense irregular connective tissue has osteocytes embedded in a mineralized matrix, providing rigid support and protection, ideal for bones, found in skeleton.",
                         "wrongAnswer_3": "Dense regular connective tissue has adipocytes filled with lipid droplets, providing energy storage and insulation, ideal for subcutaneous tissue and around organs, found in adipose tissue. Dense irregular connective tissue has hematopoietic cells and immune cells within a reticular network, providing blood cell formation and immune defense, ideal for bone marrow and lymph nodes, found in hematopoietic and lymphatic tissues.",
-                        "wrongAnswer_4": "Dense regular connective tissue has epithelial cells arranged in layers, providing a protective barrier and secretion, ideal for skin and glands, found in epidermis and exocrine glands. Dense irregular connective tissue has muscle fibers arranged in bundles, providing contraction and movement, ideal for muscles, found in skeletal and smooth muscle.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Dense regular connective tissue has epithelial cells arranged in layers, providing a protective barrier and secretion, ideal for skin and glands, found in epidermis and exocrine glands. Dense irregular connective tissue has muscle fibers arranged in bundles, providing contraction and movement, ideal for muscles, found in skeletal and smooth muscle."
                     },
                     {
                         "question": "Describe the characteristics and function of elastic connective tissue proper, highlighting its predominant fiber type and locations where it is functionally significant.",
@@ -323,12 +213,7 @@
                         "wrongAnswer_1": "Elastic connective tissue proper is characterized by densely packed collagen fibers arranged in parallel bundles, providing high tensile strength and resistance to stretching, functionally significant in tendons and ligaments connecting muscles to bones and bones to bones, and resisting pulling forces in one direction.",
                         "wrongAnswer_2": "Elastic connective tissue proper is characterized by reticular fibers forming a delicate meshwork, providing a supporting framework for cells in lymphatic and hematopoietic organs, functionally significant in spleen, lymph nodes, and bone marrow, and supporting immune cells and blood cell formation.",
                         "wrongAnswer_3": "Elastic connective tissue proper is characterized by adipocytes filled with lipid droplets, providing energy storage and thermal insulation, functionally significant in subcutaneous tissue and around organs, and storing triglycerides and releasing energy reserves for metabolic needs.",
-                        "wrongAnswer_4": "Elastic connective tissue proper is characterized by chondrocytes embedded in a cartilaginous matrix, providing flexible support and shock absorption, functionally significant in articular surfaces of joints, ears, and nose, and providing smooth surfaces for joint movement and structural support for flexible organs.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Elastic connective tissue proper is characterized by chondrocytes embedded in a cartilaginous matrix, providing flexible support and shock absorption, functionally significant in articular surfaces of joints, ears, and nose, and providing smooth surfaces for joint movement and structural support for flexible organs."
                     },
                     {
                         "question": "Outline the key features and function of reticular connective tissue proper, emphasizing its fiber type, cellular components, and primary locations in the body.",
@@ -336,12 +221,7 @@
                         "wrongAnswer_1": "Reticular connective tissue proper is characterized by densely packed collagen fibers arranged in parallel bundles produced by fibroblasts, along with fibroblasts and mast cells; it functions to provide high tensile strength and resistance to stretching in tendons and ligaments, primarily located in tendons, ligaments, and aponeuroses.",
                         "wrongAnswer_2": "Reticular connective tissue proper is characterized by elastic fibers arranged in branching networks produced by fibroblasts, along with fibroblasts and smooth muscle cells; it functions to provide elasticity and recoil in arterial walls and lungs, primarily located in arterial walls, vocal cords, and elastic ligaments.",
                         "wrongAnswer_3": "Reticular connective tissue proper is characterized by adipocytes filled with lipid droplets produced by adipoblasts, along with adipocytes and blood vessels; it functions to store energy reserves and provide insulation in subcutaneous tissue and around organs, primarily located in subcutaneous tissue, mesenteries, and omentum.",
-                        "wrongAnswer_4": "Reticular connective tissue proper is characterized by chondrocytes embedded in a cartilaginous matrix produced by chondroblasts, along with chondrocytes and perichondrium; it functions to provide flexible support and shock absorption in articular surfaces and ears, primarily located in articular cartilage, ears, nose, and trachea.",
-                        "options": 9,
-                        "question-complexity": 9,
-                        "answer-complexity": 9,
-                        "knowledge": 10,
-                        "question-included": false
+                        "wrongAnswer_4": "Reticular connective tissue proper is characterized by chondrocytes embedded in a cartilaginous matrix produced by chondroblasts, along with chondrocytes and perichondrium; it functions to provide flexible support and shock absorption in articular surfaces and ears, primarily located in articular cartilage, ears, nose, and trachea."
                     }
                 ]
             }
