@@ -61,7 +61,7 @@ For example (options, answer-complexity, question-complexity):
 
 "options": 6, //the choises are same length and not so simple
 "question-complexity": 3, //however the question is a full sentence, its too short and it's not a complex question. It directly asks the role of the gallbladder
-"answers-complexity": 5, //the answers are complex sentences
+"answers-complexity": 4, //the answers are complex sentences, but the correct answer is significantly shorter than the others.
 
 3) Easy choices:
 {
@@ -74,5 +74,5 @@ For example (options, answer-complexity, question-complexity):
 }
 
 "options": 1, //without reading the paper you can guess the correct answer, it's too easy
-"question-complexity": 7, //a long full-sentence question
-"answers-complexity": 8, //the answers are full-sentences and relativly different
+"question-complexity": 8, //a long full-sentence question
+"answers-complexity": 6, //the answers are full-sentences and relativly different, but the correct answer is significantly different than the wrong answers (every wrong answer: "..., wich makes...", but the good answer is different)
