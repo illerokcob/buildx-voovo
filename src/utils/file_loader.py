@@ -31,10 +31,7 @@ def saveJSON(dest: str, data: any):
         print(json.dumps(data, indent=4), file=file) 
 
 # Returns True if the subtopics matched the expectations
-def saveResult(src: str, dest: str, aiResponse: str):
-    regex = r"```json(.*)```"
-    json_string = re.findall(regex,aiResponse,re.DOTALL)
-    res_data = json.loads(json_string[0])
+def saveResult(src: str, dest: str, res_data: dict):
     
     files = glob.glob(f"{src}/*.json")
     with open(files[0],"r") as file:

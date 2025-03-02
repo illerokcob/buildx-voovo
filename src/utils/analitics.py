@@ -7,6 +7,14 @@ DATA_FIELDS = [
     "answer-complexity",
     "knowledge"
 ]
+
+FIELD_WEIGHTS = {
+    "options": 2,
+    "question-complexity": 2,
+    "answer-complexity": 2,
+    "knowledge": 2
+}
+
 def devideStats(data: dict, num: float):
     for field in DATA_FIELDS:
         data[field] /= num
@@ -14,13 +22,20 @@ def devideStats(data: dict, num: float):
 def addStats(data0: dict, data1: dict):
     for field in DATA_FIELDS:
         data0[field] += data1[field]
-    
-
-def evalReview(review: str):
+        
+def stringToDict(review: str):
     regex = r"```json(.*)```"
     json_string = re.findall(regex,review,re.DOTALL)
-    data = json.loads(json_string[0])
-        
+    return json.loads(json_string[0])
+
+def evalQuestion(data: dict):
+    value = 0.0
+    for field in DATA_FIELDS:
+        value += data[field] * FIELD_WEIGHTS[field]
+    return value
+    
+
+def evalReview(data: dict):       
     count = 0
     
     collectedData = dict()
@@ -43,3 +58,26 @@ def evalReview(review: str):
         return collectedData
     else:
         return dict()
+
+
+
+def filterBetter(result: dict, correctedResult: dict, review: dict, correctedReview: dict):
+    originalSubts = result.get("subTopics")
+    correctedSubts = correctedResult.get("subTopics")
+    reviewSubts = review.get("subTopics")
+    corrReviewSubts = correctedReview.get("subTopics")
+    
+    for i in range(len(originalSubts)):
+        quizzes = originalSubts[i].get("quizzes")
+        correctedQuizzes = correctedSubts[i].get("quizzes")
+        reviewQuizzes = reviewSubts[i].get("quizzes")
+        correctedReviewQuizzes = corrReviewSubts[i].get("quizzes")
+        for j in range(len(quizzes)):
+            original = evalQuestion(reviewQuizzes[j])
+            revised = evalQuestion(correctedReviewQuizzes[j])
+            if original > revised:
+                correctedQuizzes[j] = quizzes[j]
+                correctedReviewQuizzes[j] = reviewQuizzes[j]
+            
+    
+    return correctedResult

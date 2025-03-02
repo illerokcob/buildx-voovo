@@ -3,7 +3,7 @@ import threading
 from google import genai
 from google.genai import types
 from ai.openai_verifier import generateVerification
-from utils.analitics import evalReview
+from utils.analitics import evalReview, filterBetter, stringToDict
 from utils.file_loader import getFileParts, loadPdfs, saveJSON
 from ai.generate import generate
 from utils.file_loader import saveResult
@@ -28,7 +28,7 @@ def topicWorker(client, srcPath, resPath, topic):
     try:
         print(f"{prefix} 0/3")
         parts = getFileParts(client, srcPath)
-        result = generate(client, parts, "default_prompt.txt")
+        result = stringToDict(generate(client, parts, "default_prompt.txt"))
         try:
             if FIRST_ITER_OUTPUT_PATH:
                 saveResult(srcPath, os.path.join(FIRST_ITER_OUTPUT_PATH,f"{topic} - first iter.json"), result)
@@ -38,25 +38,30 @@ def topicWorker(client, srcPath, resPath, topic):
         
         verificationParts = loadPdfs(client, srcPath)
         verificationParts.append(types.Part.from_text(text=str(result)))
-        review = generate(client, verificationParts, "openai_verification_prompt.txt")
+        review = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
         analitics["original"] = evalReview(review)
         print(f"{prefix} 2/3")
 
         parts.append(types.Part.from_text(text=str(result)))
         parts.append(types.Part.from_text(text=str(review)))
-        result = generate(client, parts, "correction_prompt.txt")
+        correctedResult = stringToDict(generate(client, parts, "correction_prompt.txt"))
         
         if ANALYTICS_PATH:
             try:
                 verificationParts = loadPdfs(client, srcPath)
-                verificationParts.append(types.Part.from_text(text=str(result)))
-                review = generate(client, verificationParts, "openai_verification_prompt.txt")
-                analitics["revised"] = evalReview(review)
+                verificationParts.append(types.Part.from_text(text=str(correctedResult)))
+                correctedReview = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
+                analitics["revised"] = evalReview(correctedReview)
+                
+                correctedResult = filterBetter(result, correctedResult, review, correctedReview)
+                analitics["final"] = evalReview(correctedReview)
+
                 saveJSON(os.path.join(ANALYTICS_PATH,f"{topic} - stats.json"),analitics)
             except:
                 print(f"{prefix} - ❌ Failed to make final review")
+                
         
-        if saveResult(srcPath, resPath, result):
+        if saveResult(srcPath, resPath, correctedResult):
             print(f"{prefix} ✅")
         else:
             print(f"{prefix} ❌")
