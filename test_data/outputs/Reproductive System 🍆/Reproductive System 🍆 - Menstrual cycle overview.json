@@ -1,0 +1,231 @@
+{
+    "mainTopic": {
+        "title": "Menstrual cycle overview",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "GnRH",
+                "quizzes": [
+                    {
+                        "question": "What is the primary target tissue and principal action of Gonadotropin-Releasing Hormone (GnRH) within the reproductive endocrine system?",
+                        "options": [
+                            "The anterior pituitary gland, stimulating the synthesis and secretion of both Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH).",
+                            "The posterior pituitary gland, inhibiting the release of Prolactin and Oxytocin to modulate the menstrual cycle.",
+                            "The ovaries directly, promoting the maturation of follicles and the secretion of estrogen and progesterone.",
+                            "The hypothalamus itself, acting in a negative feedback loop to reduce its own secretion in response to high estrogen levels.",
+                            "The adrenal cortex, stimulating the production of androgens which are then converted to estrogens in peripheral tissues."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Which hypothalamic hormone serves as the crucial initial signal for the onset of puberty and the maintenance of reproductive cycles in both males and females?",
+                        "options": [
+                            "Gonadotropin-Releasing Hormone (GnRH), released in a pulsatile manner to stimulate the pituitary gland.",
+                            "Growth Hormone-Releasing Hormone (GHRH), which indirectly influences reproductive function by promoting overall growth and development.",
+                            "Thyrotropin-Releasing Hormone (TRH), primarily responsible for thyroid hormone regulation, with minimal impact on reproductive axis.",
+                            "Corticotropin-Releasing Hormone (CRH), primarily involved in the stress response and cortisol release, suppressing reproductive functions under stress.",
+                            "Prolactin-Releasing Hormone (PRH), mainly responsible for stimulating prolactin secretion, which can inhibit GnRH under certain conditions."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "In the context of GnRH secretion dynamics, what is the significance of pulsatility and how does it influence gonadotropin release from the anterior pituitary?",
+                        "options": [
+                            "Pulsatile GnRH secretion is essential for stimulating the GnRH receptors on pituitary gonadotrophs, leading to FSH and LH release; continuous secretion downregulates receptors and reduces gonadotropin output.",
+                            "Continuous GnRH secretion is required for sustained stimulation of pituitary gonadotrophs, ensuring a constant baseline level of FSH and LH secretion throughout the cycle.",
+                            "Pulsatile GnRH secretion inhibits the GnRH receptors on pituitary gonadotrophs, preventing excessive FSH and LH release and maintaining hormonal balance.",
+                            "GnRH pulsatility is only relevant in males, driving spermatogenesis through consistent LH stimulation, whereas in females, GnRH secretion is primarily continuous.",
+                            "The frequency of GnRH pulses solely dictates the ratio of FSH to LH released; high frequency favors FSH, while low frequency favors LH release."
+                        ],
+                        "goodAnswerIndex": 0
+                    }
+                ]
+            },
+            {
+                "title": "Follicular development",
+                "quizzes": [
+                    {
+                        "question": "What is the correct sequence of stages in ovarian follicular development, starting from the primordial follicle and culminating in the pre-ovulatory follicle?",
+                        "options": [
+                            "Primordial follicle -> Primary follicle -> Secondary follicle -> Antral follicle -> Pre-ovulatory (Graafian) follicle.",
+                            "Primary follicle -> Primordial follicle -> Secondary follicle -> Pre-ovulatory (Graafian) follicle -> Antral follicle.",
+                            "Primordial follicle -> Secondary follicle -> Primary follicle -> Antral follicle -> Pre-ovulatory (Graafian) follicle.",
+                            "Primordial follicle -> Primary follicle -> Antral follicle -> Secondary follicle -> Pre-ovulatory (Graafian) follicle.",
+                            "Secondary follicle -> Primary follicle -> Primordial follicle -> Antral follicle -> Pre-ovulatory (Graafian) follicle."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Which cellular layer in the developing ovarian follicle is primarily responsible for the production of androgens, a precursor for estrogen synthesis?",
+                        "options": [
+                            "Theca cells, under the influence of LH, produce androgens like androstenedione, which are then converted to estrogens by granulosa cells.",
+                            "Granulosa cells, stimulated by FSH, directly synthesize androgens and subsequently convert them into estrogens within the same cellular compartment.",
+                            "Stromal cells surrounding the follicle, under the influence of FSH and LH, produce androgens that diffuse into the follicular fluid.",
+                            "Germinal epithelium cells, which form the outer layer of the ovary, are responsible for androgen production in response to circulating LH.",
+                            "Oocyte itself, in the early stages of follicular development, produces androgens to support the growth and differentiation of surrounding cells."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "What is the crucial role of Follicle-Stimulating Hormone (FSH) in the early stages of follicular development, specifically transitioning from primordial to primary follicles?",
+                        "options": [
+                            "FSH stimulates the growth of granulosa cells, proliferation, and the expression of FSH receptors on granulosa cells in primordial and primary follicles.",
+                            "FSH primarily stimulates the theca cells in primordial follicles to produce androgens, which then promote the differentiation into primary follicles.",
+                            "FSH induces the oocyte within the primordial follicle to undergo meiotic division, initiating the development into a primary follicle.",
+                            "FSH suppresses the growth of primordial follicles, ensuring that only a select few are recruited to develop into primary follicles in each cycle.",
+                            "FSH is not involved in the primordial to primary follicle transition; this stage is primarily regulated by local growth factors within the ovary."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "During the progression from secondary to antral follicles, what key structural change is observed, and what is its functional significance for follicular maturation?",
+                        "options": [
+                            "Formation of the antrum, a fluid-filled cavity within the follicle, which is crucial for further follicular growth, nutrient supply, and eventual ovulation.",
+                            "Disintegration of the zona pellucida surrounding the oocyte, which allows for increased interaction with granulosa cells and accelerated maturation.",
+                            "Thickening of the theca interna layer, enhancing androgen production, but it has no direct impact on follicular fluid accumulation.",
+                            "Migration of the oocyte to the periphery of the follicle, facilitating easier release during ovulation but not directly related to antrum formation.",
+                            "Development of gap junctions between granulosa cells, improving intercellular communication but not directly forming the antrum."
+                        ],
+                        "goodAnswerIndex": 0
+                    }
+                ]
+            },
+            {
+                "title": "Follicular phase",
+                "quizzes": [
+                    {
+                        "question": "What hormonal event marks the beginning of the follicular phase of the menstrual cycle, and what is its primary physiological consequence in the ovaries?",
+                        "options": [
+                            "The decline in progesterone and estrogen levels from the previous luteal phase, leading to the shedding of the endometrium (menstruation) and allowing FSH to stimulate follicular growth.",
+                            "The surge in LH levels, which triggers ovulation and initiates the development of the corpus luteum and the subsequent follicular phase.",
+                            "The increase in FSH levels, which directly causes the breakdown of the corpus luteum and the start of menstruation, signaling the follicular phase onset.",
+                            "The rise in estrogen levels produced by the corpus luteum, which stimulates endometrial growth and marks the beginning of the follicular phase.",
+                            "The release of GnRH from the hypothalamus, which directly triggers menstruation and the initiation of follicular development in the ovaries."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "How does the rising level of estrogen, produced by the developing follicles during the follicular phase, exert feedback control on the hypothalamic-pituitary axis?",
+                        "options": [
+                            "Initially, moderate estrogen levels exert negative feedback on FSH secretion, limiting the number of follicles that mature; later, high estrogen levels switch to positive feedback, triggering the LH surge.",
+                            "Rising estrogen levels exert a continuous negative feedback on both FSH and LH secretion throughout the follicular phase, preventing premature ovulation.",
+                            "Estrogen levels primarily exert positive feedback on FSH secretion, promoting further follicular growth and estrogen production during the follicular phase.",
+                            "Estrogen levels have no significant feedback effect on the hypothalamic-pituitary axis during the follicular phase; gonadotropin secretion is solely driven by GnRH pulsatility.",
+                            "Estrogen levels exert positive feedback on LH secretion from the beginning of the follicular phase, gradually increasing LH levels until ovulation is triggered."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "What is the 'dominant follicle' and how is it selected during the mid-follicular phase, ensuring typically only one oocyte is ovulated in each cycle?",
+                        "options": [
+                            "The dominant follicle is the follicle that has developed the most FSH receptors and is most sensitive to FSH, allowing it to continue growing and producing estrogen while suppressing other follicles through reduced FSH availability.",
+                            "The dominant follicle is randomly selected from the cohort of developing follicles and is characterized by its larger size from the beginning of follicular development.",
+                            "The dominant follicle is the one that responds most strongly to LH stimulation in the early follicular phase, leading to its preferential growth and maturation.",
+                            "Dominant follicle selection is determined by the number of granulosa cells present in each follicle; the follicle with the most granulosa cells becomes dominant.",
+                            "The dominant follicle is selected based on its proximity to the ovarian surface, facilitating easier ovulation, rather than hormonal sensitivity."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Describe the 'two-cell, two-gonadotropin' model for estrogen synthesis in the ovary during the follicular phase, highlighting the roles of theca and granulosa cells.",
+                        "options": [
+                            "Theca cells, stimulated by LH, produce androgens which then diffuse to granulosa cells, where FSH stimulates aromatase to convert these androgens into estrogens.",
+                            "Granulosa cells, under FSH stimulation, directly synthesize estrogens from cholesterol, and theca cells provide structural support but are not directly involved in steroidogenesis.",
+                            "Both theca and granulosa cells independently synthesize estrogens from cholesterol under the combined stimulation of FSH and LH, contributing equally to total estrogen production.",
+                            "Theca cells produce progesterone under LH stimulation, which is then converted to estrogen by granulosa cells under FSH stimulation in the follicular phase.",
+                            "Granulosa cells produce androgens under LH stimulation, which are then converted to estrogens by theca cells under FSH stimulation, representing a reversed two-cell model."
+                        ],
+                        "goodAnswerIndex": 0
+                    }
+                ]
+            },
+            {
+                "title": "Ovulation",
+                "quizzes": [
+                    {
+                        "question": "What hormonal event is the primary trigger for ovulation, and through what mechanism does it induce the release of the mature oocyte from the Graafian follicle?",
+                        "options": [
+                            "The LH surge, triggered by high estrogen levels, induces final maturation of the oocyte, weakens the follicular wall through enzymatic action, and causes follicular rupture and oocyte release.",
+                            "The FSH surge, occurring simultaneously with the LH surge, directly causes the rupture of the Graafian follicle and the expulsion of the oocyte.",
+                            "A sharp decline in estrogen levels triggers ovulation by destabilizing the Graafian follicle and inducing smooth muscle contractions in the ovary.",
+                            "An increase in progesterone levels, produced by the maturing follicle, acts as the primary trigger for ovulation by directly causing follicular rupture.",
+                            "GnRH surge from the hypothalamus directly induces ovulation by stimulating the release of enzymes that weaken the Graafian follicle wall."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Which enzymes and locally produced mediators are crucial for the process of follicular rupture during ovulation, facilitating the release of the oocyte?",
+                        "options": [
+                            "Proteolytic enzymes like collagenases and plasmin, prostaglandins, and histamine, which weaken the follicular wall and induce localized inflammation, are crucial for rupture.",
+                            "Lipolytic enzymes and leukotrienes, which break down lipids in the follicular fluid, increasing osmotic pressure and causing the follicle to burst.",
+                            "Glycolytic enzymes and nitric oxide, which increase glucose metabolism and vasodilation, leading to increased blood flow and follicular swelling and rupture.",
+                            "Oxidative enzymes and reactive oxygen species, which induce oxidative stress in the follicular wall, leading to cell death and follicular breakdown.",
+                            "Digestive enzymes like amylases and lipases, which digest the extracellular matrix of the follicular wall, causing it to dissolve and release the oocyte."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Beyond the hormonal trigger, what structural changes occur within the Graafian follicle and surrounding ovarian tissue immediately prior to ovulation to ensure successful oocyte release?",
+                        "options": [
+                            "Weakening of the follicular wall, cumulus cell expansion, detachment of the oocyte-cumulus complex from the follicle wall, and localized vascular changes in the ovary.",
+                            "Thickening of the follicular wall, condensation of the follicular fluid, attachment of the oocyte directly to the follicle wall, and overall vasoconstriction in the ovary.",
+                            "Strengthening of the follicular wall, reduction in cumulus cell number, movement of the oocyte to the basal lamina of the follicle, and systemic vasodilation.",
+                            "Calcification of the follicular wall, expansion of the antrum volume, embedding of the oocyte deeper into the follicle wall, and localized vasodilation distant from the follicle.",
+                            "Fusion of granulosa cell layers, decrease in follicular fluid viscosity, encapsulation of the oocyte within the theca layers, and widespread vascular changes across the ovary."
+                        ],
+                        "goodAnswerIndex": 0
+                    }
+                ]
+            },
+            {
+                "title": "Luteal phase",
+                "quizzes": [
+                    {
+                        "question": "What is the immediate fate of the Graafian follicle after ovulation, and what key cellular and hormonal transformation does it undergo to initiate the luteal phase?",
+                        "options": [
+                            "The Graafian follicle transforms into the corpus luteum, with granulosa and theca cells luteinizing to produce progesterone and estrogen under LH influence.",
+                            "The Graafian follicle degenerates and is reabsorbed by the ovarian stroma, while a new follicle immediately begins to develop, initiating the luteal phase.",
+                            "The Graafian follicle collapses and forms the corpus albicans, a scar tissue structure that secretes low levels of estrogen but no progesterone, marking the luteal phase.",
+                            "The Graafian follicle migrates to the uterine wall and implants itself, secreting hCG to maintain pregnancy and initiating the luteal phase within the uterus.",
+                            "The Graafian follicle remains intact but becomes dormant, awaiting fertilization; if fertilization occurs, it then transforms into the corpus luteum in the luteal phase."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "What are the primary hormonal products of the corpus luteum during the luteal phase, and what are their critical roles in preparing the uterus for potential implantation?",
+                        "options": [
+                            "Progesterone and estrogen, with progesterone being dominant, which promote endometrial thickening, glandular development, and vascularization to create a receptive environment for embryo implantation.",
+                            "Primarily estrogen and inhibin, which stimulate endometrial proliferation and suppress FSH secretion, but do not significantly impact endometrial receptivity for implantation.",
+                            "Primarily androgens and progesterone, with androgens being dominant, which induce endometrial thinning and promote uterine contractions, preparing for menstruation.",
+                            "Primarily hCG and relaxin, which maintain the corpus luteum and relax the uterine muscles, but have minimal direct effects on endometrial development.",
+                            "Primarily FSH and LH, which continue to stimulate the ovary and maintain the corpus luteum, but do not directly influence endometrial changes during the luteal phase."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "Describe the mechanism of luteolysis, and what hormonal signal initiates the regression of the corpus luteum if fertilization does not occur?",
+                        "options": [
+                            "The absence of hCG signal from an embryo leads to the corpus luteum's intrinsic lifespan being reached, resulting in decreased steroidogenesis and structural involution, known as luteolysis.",
+                            "A surge in FSH from the pituitary gland triggers luteolysis by directly inhibiting progesterone production and causing structural breakdown of the corpus luteum.",
+                            "Increased estrogen levels from the corpus luteum itself initiate luteolysis through a negative feedback loop that reduces LH support and causes its regression.",
+                            "Prostaglandin F2alpha (PGF2\u03b1) secreted by the endometrium in response to high progesterone levels directly causes luteolysis by inducing vasoconstriction and cell death in the corpus luteum.",
+                            "A decrease in GnRH secretion from the hypothalamus triggers luteolysis by reducing LH and FSH levels, leading to the functional and structural regression of the corpus luteum."
+                        ],
+                        "goodAnswerIndex": 0
+                    },
+                    {
+                        "question": "What is the fate of the corpus luteum if fertilization and implantation occur, and which hormone is crucial for maintaining its function and preventing luteolysis in early pregnancy?",
+                        "options": [
+                            "The corpus luteum is rescued by hCG (human Chorionic Gonadotropin) secreted by the implanting embryo, which maintains its function to produce progesterone and estrogen, essential for pregnancy maintenance.",
+                            "The corpus luteum automatically persists for the duration of pregnancy without any external signal, continuously producing progesterone and estrogen to support gestation.",
+                            "The corpus luteum is replaced by the placenta early in pregnancy, which then takes over progesterone and estrogen production, rendering the corpus luteum unnecessary.",
+                            "The corpus luteum degenerates shortly after ovulation even if fertilization occurs, and progesterone production is immediately taken over by the developing embryo itself.",
+                            "The corpus luteum is maintained by prolactin secreted from the pituitary gland, which stimulates progesterone production and prevents luteolysis during early pregnancy."
+                        ],
+                        "goodAnswerIndex": 0
+                    }
+                ]
+            }
+        ]
+    }
+}

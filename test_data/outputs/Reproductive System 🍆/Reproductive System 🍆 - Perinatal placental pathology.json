@@ -1,0 +1,132 @@
+{
+    "mainTopic": {
+        "title": "Perinatal placental pathology",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Categories of Perinatal Pathology",
+                "quizzes": [
+                    {
+                        "question": "Which category of perinatal pathology is MOST directly associated with disruptions in the normal timeframe of intrauterine development, leading to conditions such as respiratory distress syndrome and necrotizing enterocolitis?",
+                        "goodAnswer": "Gestational age-related pathologies, encompassing prematurity, postmaturity, and related complications arising from birth outside the optimal gestational window.",
+                        "wrongAnswer_1": "Growth abnormalities, characterized by deviations from expected fetal size, such as intrauterine growth restriction (IUGR) and macrosomia, which primarily affect nutrient supply and metabolic balance.",
+                        "wrongAnswer_2": "Placental pathologies, involving structural or functional anomalies of the placenta like placenta previa or abruption, primarily impacting gas exchange and nutrient transfer but not gestational timing.",
+                        "wrongAnswer_3": "Umbilical cord pathologies, including conditions like cord prolapse or vasa previa, which are predominantly related to delivery complications and fetal oxygen supply during labor, not gestational age itself.",
+                        "wrongAnswer_4": "Infectious pathologies, which are caused by viral, bacterial, or parasitic agents and primarily affect organogenesis and tissue integrity, irrespective of the gestational age at delivery."
+                    },
+                    {
+                        "question": "In the classification of perinatal pathology, which category primarily encompasses conditions resulting from an inadequate supply of oxygen or blood flow to the fetus during gestation or delivery, potentially leading to hypoxic-ischemic encephalopathy?",
+                        "goodAnswer": "Perinatal asphyxia and hypoxic-ischemic injury, representing a spectrum of conditions caused by oxygen deprivation, impacting multiple organ systems and neurological function.",
+                        "wrongAnswer_1": "Genetic and chromosomal abnormalities, which involve inherent defects in the fetal genome, leading to structural or functional anomalies that are primarily determined by genetic makeup, not oxygen supply.",
+                        "wrongAnswer_2": "Metabolic disorders, encompassing inborn errors of metabolism, which are characterized by enzymatic deficiencies and accumulation of toxic metabolites, primarily affecting biochemical pathways, not oxygenation.",
+                        "wrongAnswer_3": "Traumatic injuries, including birth trauma and mechanical injuries during delivery, which result from physical forces applied during the birth process, primarily affecting skeletal and soft tissues, not oxygen deprivation.",
+                        "wrongAnswer_4": "Immunologic disorders, which involve immune system dysregulation or alloimmune reactions, leading to conditions like hemolytic disease of the newborn, primarily affecting blood cells and immune responses, not oxygen supply."
+                    },
+                    {
+                        "question": "Which of the following perinatal pathology categories is characterized by conditions arising from structural or functional defects present at birth due to errors in morphogenesis or organogenesis during fetal development?",
+                        "goodAnswer": "Congenital malformations and anomalies, encompassing a wide range of structural defects, from minor variations to severe organ system abnormalities, arising during embryonic or fetal development.",
+                        "wrongAnswer_1": "Acquired perinatal conditions, which develop after birth or during the perinatal period due to environmental factors or exposures, such as neonatal sepsis or respiratory distress syndrome, not inherent developmental errors.",
+                        "wrongAnswer_2": "Iatrogenic conditions, resulting from medical interventions or treatments administered to the mother or fetus, such as medication side effects or complications of procedures, not inherent developmental defects.",
+                        "wrongAnswer_3": "Idiopathic conditions, where the underlying cause is unknown or uncertain, and while some may be congenital, the category itself does not define conditions based on developmental origin.",
+                        "wrongAnswer_4": "Nutritional deficiencies, which result from inadequate intake or absorption of essential nutrients during pregnancy, potentially impacting fetal growth and development but not primarily defined by structural malformations."
+                    }
+                ]
+            },
+            {
+                "title": "Congenital Infections",
+                "quizzes": [
+                    {
+                        "question": "Which of the following congenital infections is MOST strongly associated with the classic triad of chorioretinitis, hydrocephalus, and intracranial calcifications in the neonate, often contracted through the ingestion of undercooked meat or cat feces?",
+                        "goodAnswer": "Toxoplasmosis, caused by the parasite Toxoplasma gondii, frequently manifesting with the aforementioned triad and posing a significant risk of neurological sequelae in affected infants.",
+                        "wrongAnswer_1": "Rubella, typically presenting with congenital cataracts, deafness, and heart defects, with neurological involvement being less prominent than the classic triad of toxoplasmosis.",
+                        "wrongAnswer_2": "Cytomegalovirus (CMV), the most common congenital infection, often leading to sensorineural hearing loss and microcephaly, but less consistently associated with the specific triad of toxoplasmosis.",
+                        "wrongAnswer_3": "Herpes simplex virus (HSV), usually acquired perinatally during delivery, causing skin, eye, and mouth lesions or disseminated disease, rarely presenting with the toxoplasmosis triad.",
+                        "wrongAnswer_4": "Syphilis, a bacterial infection, causing a wide range of congenital abnormalities, including Hutchinson's teeth, saddle nose deformity, and saber shins, distinct from the neurological triad of toxoplasmosis."
+                    },
+                    {
+                        "question": "Congenital infection with which virus is most recognized as the leading non-genetic cause of sensorineural hearing loss in children, and can also result in microcephaly, periventricular calcifications, and hepatosplenomegaly?",
+                        "goodAnswer": "Cytomegalovirus (CMV), being the most common congenital infection, frequently leading to long-term sequelae such as hearing loss and neurodevelopmental delays, alongside the mentioned clinical signs.",
+                        "wrongAnswer_1": "Rubella virus, classically associated with congenital cataracts, heart defects, and deafness, but less predominantly linked to microcephaly and periventricular calcifications compared to CMV.",
+                        "wrongAnswer_2": "Varicella-zoster virus (VZV), causing congenital varicella syndrome with skin scarring, limb hypoplasia, and neurological deficits, but sensorineural hearing loss is not its primary long-term sequela.",
+                        "wrongAnswer_3": "Parvovirus B19, primarily known for causing hydrops fetalis and fetal anemia, with less consistent association with sensorineural hearing loss and the specific neuroimaging findings of CMV.",
+                        "wrongAnswer_4": "Herpes simplex virus (HSV), typically causing neonatal sepsis or localized skin, eye, and mouth disease acquired during delivery, not the leading cause of congenital sensorineural hearing loss."
+                    },
+                    {
+                        "question": "Maternal infection with Rubella virus during which period of gestation carries the HIGHEST risk of severe congenital rubella syndrome (CRS) in the infant, characterized by the classic triad of cataracts, congenital heart defects, and deafness?",
+                        "goodAnswer": "First trimester, particularly the first few weeks of gestation, being the period of organogenesis when rubella virus exposure can disrupt critical developmental processes, leading to the most severe CRS manifestations.",
+                        "wrongAnswer_1": "Second trimester, while still carrying a risk of congenital rubella syndrome, the severity and range of defects are generally less pronounced compared to first-trimester infections, with hearing loss being the most common sequela.",
+                        "wrongAnswer_2": "Third trimester, infection during this period is less likely to result in severe congenital malformations, with the primary risk being postnatal rubella infection in the newborn, rather than major organ defects.",
+                        "wrongAnswer_3": "Peripartum period, rubella infection acquired around the time of delivery would primarily lead to postnatal infection in the neonate, not congenital rubella syndrome resulting from intrauterine exposure.",
+                        "wrongAnswer_4": "Pre-conception period, maternal rubella infection prior to conception does not directly cause congenital rubella syndrome, as the fetus is not exposed during critical developmental stages."
+                    },
+                    {
+                        "question": "Which congenital infection is particularly concerning due to its association with 'blueberry muffin rash' in neonates, alongside hepatosplenomegaly, thrombocytopenia, and potentially severe long-term neurological sequelae?",
+                        "goodAnswer": "Congenital Cytomegalovirus (CMV) infection, commonly manifesting with the 'blueberry muffin rash' due to dermal erythropoiesis, along with systemic involvement and risk of neurodevelopmental impairment.",
+                        "wrongAnswer_1": "Congenital Rubella syndrome, which can also present with a rash, but it is typically more generalized and less specifically described as 'blueberry muffin rash', with cataracts and heart defects being more prominent features.",
+                        "wrongAnswer_2": "Congenital Toxoplasmosis, while causing chorioretinitis and neurological issues, the 'blueberry muffin rash' is not a typical or prominent feature of this infection in neonates.",
+                        "wrongAnswer_3": "Congenital Syphilis, which can cause a vesicular or bullous rash, often on the palms and soles, but not characteristically described as 'blueberry muffin rash', and other features like snuffles and osteochondritis are more typical.",
+                        "wrongAnswer_4": "Congenital Herpes simplex virus (HSV) infection, usually presents with vesicular lesions on the skin, eyes, or mouth, or disseminated disease, but not the 'blueberry muffin rash' associated with CMV."
+                    }
+                ]
+            },
+            {
+                "title": "Meconium",
+                "quizzes": [
+                    {
+                        "question": "What is the PRIMARY component of meconium, contributing to its characteristic dark greenish-black color and viscid consistency, and originating from fetal intestinal secretions and swallowed amniotic fluid?",
+                        "goodAnswer": "Bile pigments, specifically bilirubin and biliverdin, excreted into the fetal bile and subsequently incorporated into meconium within the fetal intestines, imparting its distinctive color.",
+                        "wrongAnswer_1": "Vernix caseosa, a protective, waxy coating on fetal skin, primarily composed of sebum and desquamated epithelial cells, which is present in amniotic fluid but not the main pigment component of meconium.",
+                        "wrongAnswer_2": "Lanugo hair, fine, downy hair covering the fetal body, which is shed into amniotic fluid and may be present in meconium, but does not contribute to its dark color or primary composition.",
+                        "wrongAnswer_3": "Amniotic fluid, the fluid surrounding the fetus, which is swallowed and contributes to meconium volume, but its components are largely water and electrolytes, not the primary pigments causing meconium's color.",
+                        "wrongAnswer_4": "Fetal blood, while trace amounts of blood may be present in meconium, it is not the primary component and the dark color is primarily derived from bile pigments, not hemoglobin breakdown products."
+                    },
+                    {
+                        "question": "In the context of fetal physiology, what is considered the MOST common trigger for antepartum meconium passage, often indicative of fetal stress or hypoxia, leading to potential complications like meconium aspiration syndrome?",
+                        "goodAnswer": "Fetal hypoxia, resulting from placental insufficiency, umbilical cord compression, or maternal conditions, causing increased intestinal peristalsis and relaxation of the anal sphincter, leading to meconium discharge.",
+                        "wrongAnswer_1": "Fetal hyperoxia, an excess of oxygen in fetal blood, which is not a typical physiological state and is less likely to trigger meconium passage; hypoxia, conversely, is a known stressor.",
+                        "wrongAnswer_2": "Normal fetal maturation, while meconium is present in the fetal intestines at term, spontaneous passage before labor is usually associated with stress, not simply normal maturation alone.",
+                        "wrongAnswer_3": "Maternal hydration status, maternal dehydration can affect amniotic fluid volume, but is not a direct trigger for fetal meconium passage; fetal stress is the more direct link.",
+                        "wrongAnswer_4": "Increased fetal movement, while fetal movement is normal, it is not a direct cause of meconium passage; stress-related physiological changes are the primary trigger."
+                    },
+                    {
+                        "question": "Meconium aspiration syndrome (MAS) in neonates is primarily characterized by which pathophysiological mechanism, leading to respiratory distress and potential complications?",
+                        "goodAnswer": "Mechanical obstruction of airways by aspirated meconium, causing air trapping, atelectasis, and inflammation in the lungs, leading to impaired gas exchange and respiratory distress.",
+                        "wrongAnswer_1": "Chemical pneumonitis due to the acidic pH of meconium, while meconium can cause chemical irritation, the primary mechanism is mechanical obstruction, not solely acid-induced inflammation.",
+                        "wrongAnswer_2": "Inhibition of surfactant production by meconium, although meconium can interfere with surfactant function, the primary issue is airway obstruction, not just surfactant deficiency alone.",
+                        "wrongAnswer_3": "Pulmonary vasodilation induced by meconium, meconium aspiration actually tends to cause pulmonary vasoconstriction and persistent pulmonary hypertension, not vasodilation.",
+                        "wrongAnswer_4": "Systemic absorption of meconium toxins, while meconium contains various substances, the primary problem in MAS is the local effect in the lungs due to aspiration and airway blockage, not systemic toxicity."
+                    }
+                ]
+            },
+            {
+                "title": "Fetal vasculopathy",
+                "quizzes": [
+                    {
+                        "question": "Which form of fetal vasculopathy is CHARACTERIZED by the presence of organized thrombi within the fetal placental vessels, often associated with maternal thrombophilias or hypercoagulable states?",
+                        "goodAnswer": "Thrombotic vasculopathy, defined by the formation of thrombi within fetal placental vasculature, indicative of underlying prothrombotic conditions in the mother or fetus, leading to vascular obstruction.",
+                        "wrongAnswer_1": "Obliterative vasculopathy, characterized by progressive narrowing and obliteration of fetal placental vessels due to intimal hyperplasia or fibrosis, not primarily thrombus formation.",
+                        "wrongAnswer_2": "Inflammatory vasculopathy, involving inflammation of the fetal placental vessel walls, typically associated with infections or immune-mediated processes, not primarily thrombus-driven.",
+                        "wrongAnswer_3": "Vasoconstrictive vasculopathy, characterized by abnormal constriction of fetal placental vessels, often seen in maternal preeclampsia, but not primarily defined by thrombus formation.",
+                        "wrongAnswer_4": "Aneurysmal vasculopathy, involving dilation and weakening of fetal placental vessel walls, which is less common in fetal vasculopathy and not related to thrombus formation as a primary feature."
+                    },
+                    {
+                        "question": "Obliterative fetal vasculopathy, often seen in association with maternal conditions like preeclampsia or chronic hypertension, is primarily characterized by what pathological change in the fetal placental vessels?",
+                        "goodAnswer": "Progressive narrowing and obliteration of fetal placental vessels due to intimal hyperplasia and fibrosis, leading to reduced blood flow and chronic fetal hypoxia and growth restriction.",
+                        "wrongAnswer_1": "Acute rupture and hemorrhage of fetal placental vessels, while rupture can occur in some placental pathologies, obliterative vasculopathy is characterized by gradual narrowing, not acute rupture.",
+                        "wrongAnswer_2": "Formation of microaneurysms and vessel wall weakening, aneurysmal changes are not the primary feature of obliterative vasculopathy; narrowing and obliteration are key.",
+                        "wrongAnswer_3": "Inflammatory infiltration of fetal placental vessel walls, inflammation is more characteristic of inflammatory vasculopathies, not the intimal hyperplasia of obliterative type.",
+                        "wrongAnswer_4": "Vasodilation and increased permeability of fetal placental vessels, vasodilation is the opposite of the narrowing seen in obliterative vasculopathy; constriction is the issue."
+                    },
+                    {
+                        "question": "Fetal vasculopathy, particularly obliterative types, is MOST significantly associated with which adverse pregnancy outcome, resulting from chronic placental insufficiency and impaired fetal oxygen and nutrient supply?",
+                        "goodAnswer": "Intrauterine growth restriction (IUGR), as the reduced placental blood flow and oxygen/nutrient delivery due to vasculopathy directly impede fetal growth and development, leading to IUGR.",
+                        "wrongAnswer_1": "Macrosomia, which is excessive fetal growth, the opposite of IUGR; vasculopathy leads to growth restriction, not excessive growth.",
+                        "wrongAnswer_2": "Preterm labor, while placental insufficiency can contribute to preterm labor, IUGR is a more direct and characteristic consequence of fetal vasculopathy.",
+                        "wrongAnswer_3": "Postterm pregnancy, vasculopathy and placental insufficiency are not typically associated with prolonged gestation; preterm birth or IUGR are more common.",
+                        "wrongAnswer_4": "Polyhydramnios, which is excessive amniotic fluid, not directly linked to fetal vasculopathy; oligohydramnios (reduced fluid) might be seen due to IUGR, but not polyhydramnios."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "mainTopic": {
+        "title": "T-Cell Development",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "TCR Structure and genes",
+                "quizzes": [
+                    {
+                        "question": "What is the correct description of the T-cell receptor (TCR) \u03b1\u03b2 heterodimer's structure regarding its domains?",
+                        "goodAnswer": "Each chain, \u03b1 and \u03b2, consists of a variable (V) and a constant (C) domain, with the variable domain containing complementarity-determining regions (CDRs) that are crucial for antigen recognition.",
+                        "wrongAnswer_1": "Each chain, \u03b1 and \u03b2, is composed of only a constant (C) domain and a transmembrane region, lacking variable domains and CDRs for antigen specificity.",
+                        "wrongAnswer_2": "Each chain, \u03b1 and \u03b2, contains variable (V), diversity (D), joining (J), and constant (C) domains, similar to immunoglobulins, with CDRs primarily located in the constant domains.",
+                        "wrongAnswer_3": "The \u03b1 chain consists of V and C domains, while the \u03b2 chain is composed of V, D, J, and C domains, with CDRs equally distributed across both constant and variable domains.",
+                        "wrongAnswer_4": "Both \u03b1 and \u03b2 chains are made up of only variable (V) domains and transmembrane regions, lacking constant domains and relying on quaternary structure for stability."
+                    },
+                    {
+                        "question": "Which statement accurately describes the genetic rearrangement process leading to T-cell receptor (TCR) diversity?",
+                        "goodAnswer": "TCR gene diversity is primarily generated through somatic V(D)J recombination, which involves the random selection and joining of V, D, and J gene segments in the \u03b2 chain locus, and V and J segments in the \u03b1 chain locus, along with junctional diversity.",
+                        "wrongAnswer_1": "TCR diversity is achieved exclusively through somatic hypermutation in the constant regions of the TCR genes, similar to affinity maturation in B cells, without V(D)J recombination.",
+                        "wrongAnswer_2": "TCR gene diversity is primarily due to the presence of multiple germline copies of complete TCR genes, with each T cell expressing a different germline-encoded receptor.",
+                        "wrongAnswer_3": "TCR diversity arises from RNA editing and alternative splicing of TCR transcripts, allowing for multiple receptor variants to be produced from a limited set of gene segments.",
+                        "wrongAnswer_4": "TCR diversity is generated through gene conversion between TCR gene segments and pseudogenes, leading to the introduction of new variable region sequences."
+                    },
+                    {
+                        "question": "How does the number of CDR loops and their location contribute to the antigen-binding specificity of the T-cell receptor (TCR) \u03b1\u03b2?",
+                        "goodAnswer": "Each TCR \u03b1 and \u03b2 chain variable domain contains three CDR loops (CDR1, CDR2, CDR3), with CDR3 being the most variable and crucial for determining peptide-MHC specificity, located at the V-J junction in \u03b1 and V-D-J junction in \u03b2 chains.",
+                        "wrongAnswer_1": "TCR antigen specificity is determined by six CDR loops, three on the \u03b1 chain and three on the \u03b2 chain, all of which are equally variable and located within the constant domains of the TCR.",
+                        "wrongAnswer_2": "TCR specificity relies on only two CDR loops, CDR1 and CDR2, which are highly conserved and located in the framework regions, not the variable domains, of both \u03b1 and \u03b2 chains.",
+                        "wrongAnswer_3": "The TCR \u03b1 chain has four CDR loops, while the \u03b2 chain has only two, with CDR loops primarily contributing to the overall structural stability of the receptor rather than antigen binding.",
+                        "wrongAnswer_4": "TCR antigen binding is mediated by a single CDR loop located at the C-terminal end of both the \u03b1 and \u03b2 chains, which undergoes somatic hypermutation to increase binding affinity."
+                    }
+                ]
+            },
+            {
+                "title": "T Cell Antigen Recognition",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental principle governing T cell antigen recognition in the context of Major Histocompatibility Complex (MHC) molecules?",
+                        "goodAnswer": "T cells recognize processed peptide antigens presented by MHC molecules on the surface of antigen-presenting cells (APCs), requiring both peptide and MHC to be bound by the TCR for activation.",
+                        "wrongAnswer_1": "T cells directly recognize intact, unprocessed antigens in the extracellular fluid, independent of MHC molecules and antigen-presenting cells.",
+                        "wrongAnswer_2": "T cells recognize lipid antigens presented by CD1 molecules, which are structurally and functionally unrelated to MHC molecules and do not require peptide processing.",
+                        "wrongAnswer_3": "T cell activation occurs upon recognition of free MHC molecules on target cells, regardless of the presence of peptide antigens or antigen-presenting cells.",
+                        "wrongAnswer_4": "T cells recognize conformational epitopes on the surface of intact proteins, presented by MHC molecules in their native, unprocessed form without peptide involvement."
+                    },
+                    {
+                        "question": "How does the interaction between the T-cell receptor (TCR) and the peptide-MHC complex initiate T cell activation, considering the role of CD4 and CD8 co-receptors?",
+                        "goodAnswer": "TCR engagement with peptide-MHC triggers signaling cascades in T cells, and this interaction is stabilized and enhanced by CD4 or CD8 co-receptors binding to the MHC molecule, with CD4 interacting with MHC class II and CD8 with MHC class I.",
+                        "wrongAnswer_1": "TCR-peptide-MHC interaction directly induces T cell activation without the need for co-receptors like CD4 or CD8, which are only involved in T cell development in the thymus.",
+                        "wrongAnswer_2": "CD4 and CD8 co-receptors initiate T cell activation by directly binding to peptide antigens, independent of TCR engagement with MHC molecules.",
+                        "wrongAnswer_3": "T cell activation is initiated by the binding of CD4 and CD8 co-receptors to MHC molecules, which then facilitates the subsequent interaction of the TCR with the peptide.",
+                        "wrongAnswer_4": "TCR-peptide-MHC interaction leads to T cell inhibition, and CD4 and CD8 co-receptors are required to reverse this inhibition and promote T cell activation."
+                    },
+                    {
+                        "question": "What distinguishes the antigen recognition mechanism of \u03b1\u03b2 T cells from \u03b3\u03b4 T cells in terms of antigen presentation and MHC dependence?",
+                        "goodAnswer": "\u03b1\u03b2 T cells predominantly recognize peptide antigens presented by classical MHC class I and II molecules, whereas \u03b3\u03b4 T cells can recognize a broader range of antigens, including non-peptide antigens, often in an MHC-independent manner or via non-classical MHC molecules like CD1.",
+                        "wrongAnswer_1": "Both \u03b1\u03b2 and \u03b3\u03b4 T cells exclusively recognize peptide antigens presented by classical MHC class I and II molecules, with \u03b3\u03b4 T cells having a more restricted repertoire of peptide specificities.",
+                        "wrongAnswer_2": "\u03b3\u03b4 T cells recognize peptide antigens presented by classical MHC molecules, while \u03b1\u03b2 T cells recognize lipid antigens presented by CD1 molecules, showing a clear division in antigen specificity and presentation pathways.",
+                        "wrongAnswer_3": "\u03b1\u03b2 T cells are MHC-independent, recognizing intact protein antigens, while \u03b3\u03b4 T cells are strictly MHC-dependent, recognizing only processed peptide antigens presented by MHC class I molecules.",
+                        "wrongAnswer_4": "\u03b3\u03b4 T cells are primarily involved in recognizing carbohydrate antigens presented by MHC class II molecules, whereas \u03b1\u03b2 T cells specialize in peptide antigen recognition via MHC class I and II."
+                    }
+                ]
+            },
+            {
+                "title": "Positive selection",
+                "quizzes": [
+                    {
+                        "question": "What is the primary purpose of positive selection during T cell development in the thymus, and where does this process predominantly occur?",
+                        "goodAnswer": "Positive selection ensures that developing T cells can recognize self-MHC molecules, a crucial step for MHC restriction, and it predominantly occurs in the thymic cortex involving cortical epithelial cells (cTECs).",
+                        "wrongAnswer_1": "Positive selection eliminates self-reactive T cells to prevent autoimmunity, occurring in the thymic medulla and involving medullary epithelial cells (mTECs).",
+                        "wrongAnswer_2": "Positive selection promotes the survival of T cells that recognize foreign antigens with high affinity, taking place in the thymic cortex and involving dendritic cells.",
+                        "wrongAnswer_3": "Positive selection determines whether a T cell will become CD4+ or CD8+, occurring in the thymic medulla and involving macrophages.",
+                        "wrongAnswer_4": "Positive selection is responsible for generating T cell receptor diversity through somatic hypermutation, happening in the thymic cortex and involving thymocytes themselves."
+                    },
+                    {
+                        "question": "Which cell type is primarily responsible for mediating positive selection in the thymus, and what is the nature of the interaction?",
+                        "goodAnswer": "Cortical thymic epithelial cells (cTECs) are the primary mediators of positive selection, presenting self-MHC molecules to developing thymocytes; a low to intermediate affinity interaction between the TCR and self-MHC is required for survival.",
+                        "wrongAnswer_1": "Medullary thymic epithelial cells (mTECs) mediate positive selection by presenting tissue-specific antigens, requiring a high-affinity interaction between the TCR and self-antigen for survival.",
+                        "wrongAnswer_2": "Thymic dendritic cells are responsible for positive selection, presenting foreign antigens to thymocytes, and a strong interaction is necessary for T cell maturation.",
+                        "wrongAnswer_3": "Thymic macrophages mediate positive selection by removing thymocytes that fail to recognize self-MHC, thus indirectly selecting for MHC-restricted T cells.",
+                        "wrongAnswer_4": "Bone marrow-derived hematopoietic cells in the thymus are responsible for positive selection, presenting non-MHC molecules, and any interaction leads to positive selection."
+                    },
+                    {
+                        "question": "What is the consequence for a thymocyte that fails to undergo positive selection in the thymus?",
+                        "goodAnswer": "Thymocytes that fail to recognize self-MHC molecules with sufficient affinity during positive selection receive no survival signals and undergo death by neglect (apoptosis).",
+                        "wrongAnswer_1": "Thymocytes that fail positive selection are redirected to undergo negative selection, even if they are not self-reactive, leading to their deletion.",
+                        "wrongAnswer_2": "Thymocytes failing positive selection differentiate into \u03b3\u03b4 T cells, bypassing the MHC restriction requirement of \u03b1\u03b2 T cells.",
+                        "wrongAnswer_3": "Thymocytes that fail positive selection become anergic and are released into the periphery as functionally inactive T cells.",
+                        "wrongAnswer_4": "Thymocytes failing positive selection re-enter the rearrangement process to generate a new TCR that might be positively selected."
+                    }
+                ]
+            },
+            {
+                "title": "Negative selection",
+                "quizzes": [
+                    {
+                        "question": "What is the main objective of negative selection in T cell development, and where in the thymus does this process primarily take place?",
+                        "goodAnswer": "The primary goal of negative selection is to eliminate strongly self-reactive T cells, preventing autoimmunity, and it mainly occurs in the thymic medulla, but can also occur in the cortex and at the corticomedullary junction.",
+                        "wrongAnswer_1": "Negative selection aims to select T cells that are highly reactive to foreign antigens, ensuring a robust immune response, and it occurs exclusively in the thymic cortex.",
+                        "wrongAnswer_2": "Negative selection is responsible for determining whether a T cell becomes CD4+ or CD8+, taking place in the thymic medulla and involving cortical epithelial cells.",
+                        "wrongAnswer_3": "Negative selection promotes the development of regulatory T cells (Tregs), which suppress autoimmunity, and it occurs only in the thymic cortex.",
+                        "wrongAnswer_4": "Negative selection is designed to eliminate T cells that fail to recognize MHC molecules at all, ensuring MHC restriction, and it happens uniformly throughout the thymus."
+                    },
+                    {
+                        "question": "Which cell types are critically involved in mediating negative selection in the thymus, and what is the nature of the antigens they present?",
+                        "goodAnswer": "Medullary thymic epithelial cells (mTECs) and dendritic cells are key mediators of negative selection, presenting a broad repertoire of self-antigens, including tissue-specific antigens, to developing thymocytes.",
+                        "wrongAnswer_1": "Cortical thymic epithelial cells (cTECs) are the primary mediators of negative selection, presenting only MHC class I molecules loaded with ubiquitous self-peptides.",
+                        "wrongAnswer_2": "Thymic macrophages are solely responsible for negative selection, presenting processed foreign antigens to thymocytes, inducing apoptosis of those with high affinity.",
+                        "wrongAnswer_3": "Only bone marrow-derived hematopoietic cells in the thymus mediate negative selection, presenting non-MHC antigens and inducing deletion of all interacting thymocytes.",
+                        "wrongAnswer_4": "B cells within the thymus are responsible for negative selection, presenting autoantigens derived from apoptotic thymocytes themselves."
+                    },
+                    {
+                        "question": "What is the consequence for a thymocyte that undergoes strong signaling through its TCR during negative selection?",
+                        "goodAnswer": "Thymocytes that strongly recognize self-antigens presented during negative selection receive signals that induce clonal deletion (apoptosis), preventing the release of self-reactive T cells into the periphery.",
+                        "wrongAnswer_1": "Thymocytes undergoing strong TCR signaling during negative selection are redirected to become regulatory T cells (Tregs), thus contributing to immune tolerance.",
+                        "wrongAnswer_2": "Thymocytes with strong self-reactivity are rendered anergic, becoming functionally inactive but still released into the periphery.",
+                        "wrongAnswer_3": "Thymocytes that strongly bind self-antigens are positively selected and promoted to mature, ensuring a robust response against self-tissues.",
+                        "wrongAnswer_4": "Thymocytes undergoing strong signaling during negative selection are forced to undergo receptor editing, changing their TCR specificity to avoid self-reactivity."
+                    }
+                ]
+            },
+            {
+                "title": "Cells and factors mediating T-cell selection",
+                "quizzes": [
+                    {
+                        "question": "Which cell type is essential for presenting a broad array of tissue-specific self-antigens in the thymus to facilitate efficient negative selection and prevent autoimmunity?",
+                        "goodAnswer": "Medullary thymic epithelial cells (mTECs) are unique in their expression of a wide range of tissue-specific antigens, controlled by the Autoimmune Regulator (AIRE) protein, crucial for central tolerance.",
+                        "wrongAnswer_1": "Cortical thymic epithelial cells (cTECs) are responsible for presenting tissue-specific antigens, using a mechanism distinct from AIRE, primarily for positive selection.",
+                        "wrongAnswer_2": "Thymic dendritic cells are the main presenters of tissue-specific antigens in the thymus, acquiring these antigens from peripheral tissues via lymphatic drainage.",
+                        "wrongAnswer_3": "Thymic macrophages specialize in presenting tissue-specific antigens, derived from the phagocytosis of apoptotic cells from various tissues, for negative selection.",
+                        "wrongAnswer_4": "B cells within the thymus are responsible for tissue-specific antigen presentation, utilizing somatic hypermutation to generate diverse autoantigens for negative selection."
+                    },
+                    {
+                        "question": "What role does the Autoimmune Regulator (AIRE) protein play in central tolerance, specifically concerning T-cell selection in the thymus?",
+                        "goodAnswer": "AIRE is a transcription factor expressed in mTECs that promotes the expression of a diverse set of tissue-restricted self-antigens, enabling negative selection of T cells reactive to these antigens and preventing autoimmune diseases.",
+                        "wrongAnswer_1": "AIRE functions in cTECs to enhance the expression of MHC molecules, thereby promoting positive selection of T cells with any MHC reactivity, regardless of antigen specificity.",
+                        "wrongAnswer_2": "AIRE is involved in the development of thymic dendritic cells, increasing their capacity to present foreign antigens and enhance T cell responses to pathogens.",
+                        "wrongAnswer_3": "AIRE regulates the expression of co-stimulatory molecules on thymic epithelial cells, controlling the threshold for T cell activation during both positive and negative selection.",
+                        "wrongAnswer_4": "AIRE is responsible for inducing somatic hypermutation in TCR genes within thymocytes, increasing the diversity of the T cell repertoire and improving antigen recognition."
+                    },
+                    {
+                        "question": "Besides thymic epithelial cells, which other antigen-presenting cells contribute to T-cell selection in the thymus, and what is their primary contribution?",
+                        "goodAnswer": "Thymic dendritic cells, along with macrophages, contribute to negative selection by presenting antigens, including self-antigens acquired from both thymus and periphery, and by efficiently inducing apoptosis of strongly self-reactive T cells.",
+                        "wrongAnswer_1": "Thymic B cells are the primary accessory APCs in the thymus, contributing to positive selection by presenting MHC class II molecules and promoting survival of CD4+ T cells.",
+                        "wrongAnswer_2": "Thymic fibroblasts are crucial for T-cell selection by providing structural support and secreting cytokines that influence thymocyte maturation, but not by antigen presentation.",
+                        "wrongAnswer_3": "Neutrophils within the thymus contribute to negative selection by phagocytosing apoptotic thymocytes, thereby clearing debris but not directly presenting antigens for selection.",
+                        "wrongAnswer_4": "Eosinophils in the thymus are involved in positive selection by releasing growth factors that promote thymocyte proliferation and differentiation, independent of antigen presentation."
+                    }
+                ]
+            },
+            {
+                "title": "Function of T-cells",
+                "quizzes": [
+                    {
+                        "question": "What is the primary effector function of cytotoxic T lymphocytes (CTLs) or CD8+ T cells in adaptive immunity?",
+                        "goodAnswer": "CTLs primarily function to eliminate virus-infected cells, tumor cells, and other abnormal or unwanted cells by recognizing peptide-MHC class I complexes on target cells and inducing apoptosis through mechanisms like perforin/granzyme release and Fas-FasL interaction.",
+                        "wrongAnswer_1": "CTLs primarily function to activate B cells and promote antibody production, especially against intracellular pathogens and tumors, through cytokine secretion and cell-cell contact.",
+                        "wrongAnswer_2": "CTLs mainly function to regulate immune responses and suppress excessive inflammation, preventing autoimmunity and maintaining immune homeostasis through the release of inhibitory cytokines.",
+                        "wrongAnswer_3": "CTLs are primarily involved in the clearance of extracellular bacteria and parasites by enhancing phagocytosis and complement activation through the secretion of opsonizing antibodies.",
+                        "wrongAnswer_4": "CTLs function to promote tissue repair and wound healing by releasing growth factors and cytokines that stimulate cell proliferation and extracellular matrix deposition at sites of damage."
+                    },
+                    {
+                        "question": "What are the principal effector functions of helper T cells (Th cells) or CD4+ T cells, and how do they contribute to adaptive immunity?",
+                        "goodAnswer": "Th cells orchestrate diverse immune responses by recognizing peptide-MHC class II complexes on APCs and providing help to other immune cells, including B cells (for antibody production), macrophages (for enhanced phagocytosis and killing), and CTLs (for activation and cytotoxicity), through cytokine secretion and cell-cell interactions.",
+                        "wrongAnswer_1": "Th cells primarily function to directly kill pathogen-infected cells and tumor cells, similar to CTLs, but with a broader range of target cells and mechanisms, independent of MHC class II.",
+                        "wrongAnswer_2": "Th cells are mainly involved in suppressing immune responses and preventing autoimmunity by directly inhibiting the activation and effector functions of B cells, macrophages, and CTLs.",
+                        "wrongAnswer_3": "Th cells primarily function in allergic reactions and hypersensitivity responses by promoting mast cell degranulation and eosinophil activation through the release of IgE antibodies.",
+                        "wrongAnswer_4": "Th cells are responsible for innate immunity by directly recognizing pathogen-associated molecular patterns (PAMPs) and activating complement and phagocytosis in the absence of prior sensitization."
+                    },
+                    {
+                        "question": "How do different subsets of CD4+ helper T cells (e.g., Th1, Th2, Th17) contribute to distinct types of immune responses?",
+                        "goodAnswer": "Different Th subsets, like Th1 (cellular immunity against intracellular pathogens), Th2 (humoral immunity against extracellular parasites and allergens), and Th17 (inflammation and autoimmunity), secrete distinct sets of cytokines that promote specific effector mechanisms and tailored immune responses.",
+                        "wrongAnswer_1": "All CD4+ T cell subsets perform identical effector functions, differing only in their tissue distribution and activation thresholds, but not in the type of immune response they induce.",
+                        "wrongAnswer_2": "Th1, Th2, and Th17 subsets are stages in the differentiation pathway of all CD4+ T cells, with each cell sequentially transitioning through these stages to become fully functional.",
+                        "wrongAnswer_3": "Th1 cells are specialized in suppressing immune responses, Th2 cells promote cytotoxicity, and Th17 cells are involved in antibody production, representing a reversed functional assignment.",
+                        "wrongAnswer_4": "The classification of CD4+ T cells into Th1, Th2, and Th17 subsets is primarily based on their chemokine receptor expression, not on the cytokines they produce or the effector functions they mediate."
+                    }
+                ]
+            }
+        ]
+    }
+}

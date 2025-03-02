@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Mini-review: Physiology/Pathophysiology of Coronary Blood Flow",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Myocardial ischemia (supply, demand)",
+                "quizzes": [
+                    {
+                        "question": "Myocardial ischemia fundamentally arises from an imbalance between myocardial oxygen supply and demand. Which of the following scenarios best describes a situation where myocardial oxygen demand is increased, potentially leading to ischemia?",
+                        "goodAnswer": "Increased heart rate and contractility during strenuous exercise in an individual with underlying coronary artery disease, limiting supply augmentation.",
+                        "wrongAnswer_1": "Decreased heart rate and contractility during sleep, leading to reduced myocardial oxygen consumption and thus preventing potential ischemia.",
+                        "wrongAnswer_2": "Vasodilation of coronary arteries in response to increased metabolic demand, ensuring adequate oxygen supply and preventing demand-induced ischemia.",
+                        "wrongAnswer_3": "Increased diastolic filling time during bradycardia, enhancing coronary blood flow and oxygen delivery, effectively preventing ischemia development.",
+                        "wrongAnswer_4": "Reduced afterload due to systemic vasodilation, decreasing myocardial wall stress and thus lessening oxygen demand, which exacerbates ischemia."
+                    },
+                    {
+                        "question": "Considering the determinants of myocardial oxygen supply, which of the following factors is LEAST likely to directly impair oxygen delivery to the myocardium, potentially contributing to ischemia?",
+                        "goodAnswer": "Increased hemoglobin concentration within physiological limits, enhancing oxygen-carrying capacity and thus improving myocardial oxygen delivery.",
+                        "wrongAnswer_1": "Reduced coronary artery diameter due to atherosclerotic plaque formation, limiting blood flow and consequently reducing myocardial oxygen supply.",
+                        "wrongAnswer_2": "Decreased diastolic blood pressure, reducing coronary perfusion pressure particularly during diastole, thereby impairing subendocardial oxygen delivery.",
+                        "wrongAnswer_3": "Increased blood viscosity, hindering microcirculatory flow in coronary vessels and thereby impeding efficient oxygen transport to myocardial tissue.",
+                        "wrongAnswer_4": "Severe anemia resulting in reduced oxygen carrying capacity of the blood, limiting the amount of oxygen available for delivery to the myocardium."
+                    },
+                    {
+                        "question": "Which of the following physiological responses is a compensatory mechanism aimed at reducing myocardial oxygen demand in the context of potential or established ischemia?",
+                        "goodAnswer": "Activation of the parasympathetic nervous system leading to a decrease in heart rate and myocardial contractility, effectively reducing cardiac workload and oxygen consumption.",
+                        "wrongAnswer_1": "Release of catecholamines from the adrenal medulla, increasing heart rate and contractility, thereby paradoxically increasing myocardial oxygen demand and potentially worsening ischemia.",
+                        "wrongAnswer_2": "Systemic vasoconstriction to maintain arterial blood pressure, which subsequently increases afterload and myocardial wall stress, leading to increased oxygen demand.",
+                        "wrongAnswer_3": "Increased preload due to fluid retention mechanisms, augmenting ventricular end-diastolic volume and wall tension, and consequently raising myocardial oxygen demand.",
+                        "wrongAnswer_4": "Stimulation of the renin-angiotensin-aldosterone system, causing systemic vasoconstriction and sodium retention, increasing both preload and afterload and thereby oxygen demand."
+                    },
+                    {
+                        "question": "In the context of myocardial ischemia, the 'ischemic cascade' describes a sequence of events following reduced myocardial perfusion. Which of the following is generally considered to be the EARLIEST event in this cascade?",
+                        "goodAnswer": "Onset of metabolic abnormalities at the cellular level, such as ATP depletion and accumulation of lactate, due to reduced oxygen availability, preceding functional changes.",
+                        "wrongAnswer_1": "Development of chest pain (angina pectoris) as the immediate and initial symptomatic manifestation directly resulting from reduced myocardial blood flow and oxygen deprivation.",
+                        "wrongAnswer_2": "Electrocardiographic (ECG) changes, such as ST-segment depression or T-wave inversion, indicating immediate electrical instability secondary to myocardial ischemia.",
+                        "wrongAnswer_3": "Ventricular diastolic dysfunction manifested as impaired relaxation and increased stiffness, occurring as the earliest functional response to reduced myocardial perfusion.",
+                        "wrongAnswer_4": "Irreversible myocardial cell necrosis (infarction), representing the very first stage of cellular damage and structural change in the ischemic cascade progression."
+                    }
+                ]
+            },
+            {
+                "title": "Coronary flow reserve, Determinants of coronary blood flow",
+                "quizzes": [
+                    {
+                        "question": "Coronary Flow Reserve (CFR) is a critical indicator of coronary microvascular health. What does CFR primarily represent in the context of coronary circulation?",
+                        "goodAnswer": "The maximal achievable increase in coronary blood flow above resting baseline in response to potent vasodilatory stimuli, reflecting the functional capacity of microvasculature.",
+                        "wrongAnswer_1": "The absolute volume of blood flowing through the major coronary arteries at rest, indicating basal myocardial perfusion under normal physiological conditions without stress.",
+                        "wrongAnswer_2": "The percentage of oxygen extracted by the myocardium from the coronary blood flow under resting conditions, representing myocardial oxygen utilization efficiency at baseline.",
+                        "wrongAnswer_3": "The difference between systolic and diastolic coronary blood flow velocities, reflecting the pulsatile nature of coronary perfusion throughout the cardiac cycle.",
+                        "wrongAnswer_4": "The ratio of coronary artery luminal diameter to vessel wall thickness, indicating the structural integrity and degree of stenosis in the major coronary vessels."
+                    },
+                    {
+                        "question": "Which of the following factors is the MOST significant determinant of coronary vascular resistance under normal physiological conditions, thereby influencing coronary blood flow?",
+                        "goodAnswer": "The radius of the coronary arterioles, as small changes in arteriolar radius exert a disproportionately large effect on resistance according to Poiseuille's Law.",
+                        "wrongAnswer_1": "The length of the coronary arteries, while contributing to total resistance, its physiological variability is minimal compared to arteriolar radius adjustments.",
+                        "wrongAnswer_2": "The viscosity of the blood, although impacting resistance, it is relatively stable under normal conditions and less dynamically regulated than arteriolar diameter.",
+                        "wrongAnswer_3": "The pressure gradient across the coronary circulation, while essential for flow, resistance is primarily determined by vascular properties, not just pressure difference.",
+                        "wrongAnswer_4": "The hematocrit level of the blood, while influencing viscosity, its normal physiological range variation is less impactful on resistance than arteriolar radius modulation."
+                    },
+                    {
+                        "question": "Autoregulation of coronary blood flow ensures relatively constant myocardial perfusion despite variations in coronary perfusion pressure. Which mechanism is primarily responsible for this autoregulatory response in the coronary circulation?",
+                        "goodAnswer": "Metabolic control, where locally produced vasodilators such as adenosine accumulate in response to reduced oxygen delivery or increased myocardial metabolic demand, inducing vasodilation.",
+                        "wrongAnswer_1": "Neural control via sympathetic vasoconstriction, which actively adjusts coronary vessel diameter to maintain constant blood flow by directly counteracting pressure changes.",
+                        "wrongAnswer_2": "Myogenic response, where increased intravascular pressure leads to vasoconstriction, not vasodilation, of coronary vessels to compensate for pressure changes and maintain stable flow.",
+                        "wrongAnswer_3": "Extrinsic compression from ventricular contraction, which dynamically regulates coronary flow by squeezing vessels during systole, contributing to autoregulation by cyclic flow modulation.",
+                        "wrongAnswer_4": "Humoral control by circulating vasoconstrictors like angiotensin II, which maintain basal coronary vascular tone and prevent excessive flow fluctuations in autoregulation."
+                    },
+                    {
+                        "question": "During ventricular systole, coronary blood flow, particularly in the subendocardial layers, is reduced due to extravascular compression. How is adequate subendocardial perfusion maintained despite this systolic compression?",
+                        "goodAnswer": "Predominantly during diastole, when ventricular relaxation markedly reduces extravascular compression allowing for the majority of coronary blood flow, especially subendocardially, to occur.",
+                        "wrongAnswer_1": "Through continuous, high-velocity blood flow during systole, actively overcoming the compressive forces and ensuring consistent perfusion throughout the cardiac cycle phases.",
+                        "wrongAnswer_2": "By active vasodilation of coronary vessels during systole, effectively counteracting the external compression and maintaining relatively constant coronary blood flow during contraction.",
+                        "wrongAnswer_3": "Via increased oxygen extraction from the blood during systolic compression, efficiently compensating for reduced blood flow by enhancing myocardial oxygen utilization rate.",
+                        "wrongAnswer_4": "Through a robust collateral circulation network that bypasses compressed vessels during systole and provides alternative routes for continuous myocardial perfusion."
+                    }
+                ]
+            },
+            {
+                "title": "Neural (autonomic) mechanisms",
+                "quizzes": [
+                    {
+                        "question": "The autonomic nervous system plays a modulatory role in coronary blood flow regulation. What is the predominant effect of sympathetic nervous system activation on coronary vasculature?",
+                        "goodAnswer": "Net coronary vasodilation mediated primarily through \u03b22-adrenergic receptors on coronary vessels, which generally overrides \u03b11-adrenergic vasoconstriction under physiological stress conditions.",
+                        "wrongAnswer_1": "Pronounced coronary vasoconstriction via \u03b11-adrenergic receptor activation, leading to a significant and sustained reduction in coronary blood flow during sympathetic stimulation.",
+                        "wrongAnswer_2": "Exclusive coronary vasodilation through \u03b21-adrenergic receptors, directly enhancing coronary perfusion and oxygen delivery during periods of sympathetic nervous system activation.",
+                        "wrongAnswer_3": "No significant direct effect on coronary vessels, with sympathetic influence primarily limited to modulating heart rate and myocardial contractility, indirectly affecting coronary flow.",
+                        "wrongAnswer_4": "Unpredictable fluctuations between coronary vasodilation and vasoconstriction due to mixed and opposing effects of sympathetic neurotransmitters on different adrenergic receptor subtypes."
+                    },
+                    {
+                        "question": "While the sympathetic nervous system has a complex effect, the parasympathetic nervous system also influences coronary circulation. What is the primary mechanism by which parasympathetic activation affects coronary blood vessels?",
+                        "goodAnswer": "Release of acetylcholine, leading to coronary vasodilation primarily through activation of muscarinic receptors on endothelial cells and subsequent nitric oxide production and release.",
+                        "wrongAnswer_1": "Release of norepinephrine, causing coronary vasoconstriction through activation of \u03b1-adrenergic receptors, similar to the direct vasoconstrictive effects of sympathetic stimulation.",
+                        "wrongAnswer_2": "Direct coronary vasoconstriction of coronary smooth muscle cells via muscarinic receptor activation, reducing coronary blood flow as a primary parasympathetic effect.",
+                        "wrongAnswer_3": "Indirect coronary vasodilation by decreasing heart rate and myocardial contractility, thereby reducing myocardial oxygen demand and secondarily influencing coronary blood flow.",
+                        "wrongAnswer_4": "No direct effect on coronary vasculature, with parasympathetic effects solely limited to modulating sinoatrial node activity and atrioventricular nodal conduction velocity."
+                    },
+                    {
+                        "question": "In the context of autonomic control of coronary circulation, how does the 'metabolic demand' of the myocardium typically interact with neural influences during exercise?",
+                        "goodAnswer": "Metabolic vasodilation, driven by local factors like adenosine and hypoxia, overrides sympathetic vasoconstrictor effects, ensuring increased blood flow to meet elevated myocardial oxygen demand during exercise.",
+                        "wrongAnswer_1": "Sympathetic vasoconstriction becomes dominant during exercise, significantly limiting coronary blood flow despite increased metabolic demand, potentially leading to myocardial ischemia even in healthy individuals.",
+                        "wrongAnswer_2": "Parasympathetic vasodilation is substantially enhanced during exercise to synergistically increase coronary flow along with metabolic signals, maximizing oxygen delivery to the myocardium.",
+                        "wrongAnswer_3": "Neural and metabolic controls act largely independently and do not significantly interact in regulating coronary blood flow during exercise; each system operates in parallel without crosstalk.",
+                        "wrongAnswer_4": "Autonomic control, especially sympathetic activation, completely dictates coronary flow during exercise, with metabolic signals playing a negligible, secondary role in coronary vasoregulation under stress."
+                    },
+                    {
+                        "question": "Considering the interplay between sympathetic and parasympathetic nervous systems in coronary regulation, which statement accurately describes their functional balance under resting conditions?",
+                        "goodAnswer": "A basal parasympathetic tone promotes mild coronary vasodilation, while sympathetic influence is relatively low, allowing for efficient resting coronary perfusion and oxygen delivery to the myocardium.",
+                        "wrongAnswer_1": "Dominant sympathetic tone maintains a baseline coronary vasoconstriction, which is essential for maintaining coronary blood pressure and ensuring adequate perfusion pressure at rest.",
+                        "wrongAnswer_2": "Both sympathetic and parasympathetic systems are equally and highly active, creating a dynamic equilibrium in coronary vascular tone, resulting in highly variable coronary blood flow at rest.",
+                        "wrongAnswer_3": "Neither system exerts significant influence on coronary tone at rest; basal tone is primarily determined by intrinsic myogenic and local metabolic factors independently of neural input.",
+                        "wrongAnswer_4": "Resting coronary tone is exclusively determined by circulating hormones and vasoactive substances, with negligible contribution from the autonomic nervous system under physiological baseline conditions."
+                    }
+                ]
+            },
+            {
+                "title": "Endothelial factors (mechanisms), NOS, NO and ADMA",
+                "quizzes": [
+                    {
+                        "question": "Endothelial cells play a critical role in regulating coronary vascular tone through the release of various factors. What is the primary mechanism by which Nitric Oxide (NO), derived from endothelial cells, induces vasodilation?",
+                        "goodAnswer": "NO diffuses into vascular smooth muscle cells, activating soluble guanylate cyclase, increasing intracellular cGMP levels, and leading to smooth muscle relaxation and subsequent vasodilation.",
+                        "wrongAnswer_1": "NO directly blocks voltage-gated calcium channels in smooth muscle cells, inhibiting calcium influx and causing immediate vasodilation through direct calcium channel antagonism.",
+                        "wrongAnswer_2": "NO stimulates adenylyl cyclase in smooth muscle cells, increasing intracellular cAMP levels, which subsequently leads to vasodilation via activation of protein kinase A signaling pathways.",
+                        "wrongAnswer_3": "NO acts as a competitive antagonist of vasoconstrictor substances like endothelin-1, thereby indirectly promoting vasodilation by blocking the action of vasoconstrictors.",
+                        "wrongAnswer_4": "NO enhances the release of prostacyclin (PGI2) from endothelial cells, and prostacyclin is the direct mediator of vasodilation through activation of cAMP-dependent pathways."
+                    },
+                    {
+                        "question": "Nitric Oxide Synthase (NOS) enzymes are responsible for the production of NO in endothelial cells. Which isoform of NOS is primarily responsible for constitutive NO production in the vasculature, playing a key role in basal vascular tone regulation?",
+                        "goodAnswer": "Endothelial NOS (eNOS or NOS-3), which is constitutively expressed in endothelial cells and activated by calcium and calmodulin, producing NO continuously for basal vascular regulation.",
+                        "wrongAnswer_1": "Neuronal NOS (nNOS or NOS-1), which is predominantly found in neurons of the central and peripheral nervous system and is the primary source of NO in neuronal signaling pathways.",
+                        "wrongAnswer_2": "Inducible NOS (iNOS or NOS-2), which is inducibly expressed by inflammatory cytokines and is primarily involved in immune responses and pathological conditions such as inflammation.",
+                        "wrongAnswer_3": "Mitochondrial NOS (mtNOS), which is localized within mitochondria and primarily involved in regulating mitochondrial respiration and cellular energy production, not basal vascular tone.",
+                        "wrongAnswer_4": "All three major isoforms (eNOS, nNOS, iNOS) contribute equally to basal NO production in the vasculature under normal physiological conditions, acting synergistically for vascular homeostasis."
+                    },
+                    {
+                        "question": "Asymmetric dimethylarginine (ADMA) is an endogenous inhibitor of Nitric Oxide Synthase. Elevated levels of ADMA are associated with endothelial dysfunction. What is the primary mechanism by which ADMA impairs NO production?",
+                        "goodAnswer": "ADMA competitively inhibits NOS enzymes by structurally mimicking L-arginine, the substrate for NO synthesis, thus reducing the enzymatic conversion of L-arginine to NO and citrulline.",
+                        "wrongAnswer_1": "ADMA directly degrades NO in the vascular lumen, reducing the bioavailability of NO to vascular smooth muscle cells by accelerating its enzymatic breakdown in the extracellular space.",
+                        "wrongAnswer_2": "ADMA enhances the activity of arginase enzymes, which deplete intracellular L-arginine, the substrate for NOS, leading to reduced NO synthesis indirectly through substrate limitation.",
+                        "wrongAnswer_3": "ADMA upregulates the endothelial expression and release of vasoconstrictor substances like endothelin-1, indirectly counteracting the vasodilatory effects of NO by increasing vasoconstrictor tone.",
+                        "wrongAnswer_4": "ADMA promotes the proteolytic degradation of NOS enzymes within endothelial cells, reducing the total amount of NOS protein available for NO production and diminishing endothelial NO synthesis capacity."
+                    },
+                    {
+                        "question": "Besides Nitric Oxide, endothelial cells produce other vasoactive substances. Which of the following endothelial-derived factors primarily acts as a potent vasoconstrictor, counterbalancing the vasodilatory effects of NO and contributing to vascular tone regulation?",
+                        "goodAnswer": "Endothelin-1 (ET-1), a peptide with potent vasoconstrictor properties, acting via ET-A and ET-B receptors on vascular smooth muscle cells to induce prolonged vasoconstriction.",
+                        "wrongAnswer_1": "Prostacyclin (PGI2), a prostaglandin that promotes vasodilation and inhibits platelet aggregation, exhibiting similar vasodilatory effects as Nitric Oxide but through different signaling pathways.",
+                        "wrongAnswer_2": "Bradykinin, a peptide that induces vasodilation and increases vascular permeability, primarily through stimulation of endothelial NO production and release via B2 receptors.",
+                        "wrongAnswer_3": "Adenosine, a nucleoside that acts as a vasodilator in response to hypoxia and increased metabolic demand, particularly in the coronary circulation, mainly through activation of adenosine receptors.",
+                        "wrongAnswer_4": "Angiotensin II, a peptide primarily produced by the renin-angiotensin system in the kidney, acting mainly as a systemic vasoconstrictor but not directly synthesized or released from endothelial cells."
+                    }
+                ]
+            }
+        ]
+    }
+}

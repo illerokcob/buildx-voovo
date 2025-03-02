@@ -1,0 +1,153 @@
+{
+    "mainTopic": {
+        "title": "Opioids",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Definitions and structure-activity relationship",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best defines an 'opioid' in the context of pharmacology?",
+                        "goodAnswer": "A substance that produces morphine-like effects, acting at opioid receptors, and whose actions are typically reversed by opioid antagonists such as naloxone.",
+                        "wrongAnswer_1": "A substance that produces morphine-like effects, acting at adrenergic receptors, and whose actions are typically reversed by adrenergic antagonists such as phentolamine.",
+                        "wrongAnswer_2": "A substance that produces morphine-like effects, acting at opioid receptors, but whose actions are not reversed by opioid antagonists like naloxone due to irreversible binding.",
+                        "wrongAnswer_3": "A substance that produces morphine-like effects irrespective of receptor interaction, and whose actions are only partially reversed by opioid antagonists like naloxone.",
+                        "wrongAnswer_4": "A substance that produces morphine-like effects by acting at GABA receptors, and whose actions are effectively reversed by GABA antagonists like flumazenil."
+                    },
+                    {
+                        "question": "What structural feature is most critical for opioid agonists to interact with their receptors according to structure-activity relationship studies?",
+                        "goodAnswer": "A tertiary nitrogen atom, typically protonated at physiological pH, which is crucial for ionic interaction with the anionic site in the opioid receptor binding pocket.",
+                        "wrongAnswer_1": "A quaternary ammonium group, permanently positively charged, which enhances binding affinity by forming strong covalent bonds with the receptor's active site.",
+                        "wrongAnswer_2": "A primary amine group, which forms hydrogen bonds with the receptor and is essential for agonist activity but not for antagonist activity.",
+                        "wrongAnswer_3": "A phenolic hydroxyl group at position 3 on the morphine ring system, which is essential for receptor selectivity but not for binding affinity.",
+                        "wrongAnswer_4": "A carboxylic acid group, which mimics endogenous ligands and is essential for receptor activation through covalent modification of the receptor protein."
+                    },
+                    {
+                        "question": "Considering the structure-activity relationship of opioids, what is the effect of replacing the N-methyl group in morphine with a larger N-substituent, like N-allyl or N-cyclopropylmethyl?",
+                        "goodAnswer": "It typically converts opioid agonists into antagonists or partial agonists due to altered receptor interactions and conformational changes at the binding site.",
+                        "wrongAnswer_1": "It generally enhances agonist potency and efficacy by increasing lipophilicity and improving penetration of the blood-brain barrier for better receptor access.",
+                        "wrongAnswer_2": "It usually has no significant impact on opioid activity because the N-substituent is not involved in receptor binding or activation mechanisms.",
+                        "wrongAnswer_3": "It selectively enhances mu-opioid receptor affinity while diminishing delta and kappa receptor binding, leading to highly specific analgesia.",
+                        "wrongAnswer_4": "It primarily affects the metabolic stability of the opioid, leading to longer duration of action but no significant change in receptor affinity or efficacy."
+                    }
+                ]
+            },
+            {
+                "title": "Classification of Opioids",
+                "quizzes": [
+                    {
+                        "question": "How are opioids primarily classified based on their origin and synthesis pathways?",
+                        "goodAnswer": "Into three main categories: natural alkaloids (like morphine and codeine), semi-synthetic opioids (derived from natural alkaloids, e.g., hydrocodone), and synthetic opioids (fully synthesized, e.g., fentanyl).",
+                        "wrongAnswer_1": "Into two categories: plant-derived opioids (natural and semi-synthetic) and laboratory-synthesized opioids (synthetic), based solely on their source material.",
+                        "wrongAnswer_2": "Into four categories: alkaloids, glycosides, terpenes, and synthetic, reflecting the diverse chemical structures and biosynthetic origins of opioid compounds.",
+                        "wrongAnswer_3": "Into five categories: natural opioids, prodrug opioids, active metabolite opioids, synthetic opioids, and endogenous opioids, based on their mechanism of activation and metabolic fate.",
+                        "wrongAnswer_4": "Into two categories: opioids with phenanthrene nucleus and opioids with benzylisoquinoline nucleus, based on their core chemical structure, regardless of origin."
+                    },
+                    {
+                        "question": "What is the basis for classifying opioids as 'strong agonists,' 'mild-to-moderate agonists,' 'mixed agonist-antagonists,' and 'antagonists'?",
+                        "goodAnswer": "This classification is based on their efficacy and intrinsic activity at opioid receptors, particularly the mu-opioid receptor, and their ability to produce maximal analgesic effects.",
+                        "wrongAnswer_1": "This classification is solely based on their pharmacokinetic properties, such as absorption rate, duration of action, and metabolic pathways, irrespective of receptor interactions.",
+                        "wrongAnswer_2": "This classification is primarily determined by their selectivity for different opioid receptor subtypes (mu, delta, kappa) and their affinity for non-opioid receptors.",
+                        "wrongAnswer_3": "This classification is based on their chemical structure and molecular weight, which dictates their access to the central nervous system and thus their analgesic potency.",
+                        "wrongAnswer_4": "This classification reflects their clinical indication, such as use in severe pain (strong agonists), moderate pain (mild-to-moderate agonists), or opioid overdose reversal (antagonists)."
+                    },
+                    {
+                        "question": "Which of the following opioid classifications best describes buprenorphine in terms of its receptor activity profile?",
+                        "goodAnswer": "Partial agonist at mu-opioid receptors and antagonist at kappa-opioid receptors, contributing to its unique analgesic and reduced respiratory depression profile.",
+                        "wrongAnswer_1": "Full agonist at mu-opioid receptors and partial agonist at kappa-opioid receptors, leading to high efficacy analgesia and significant respiratory depression risks.",
+                        "wrongAnswer_2": "Antagonist at mu-opioid receptors and agonist at delta-opioid receptors, making it effective for neuropathic pain but not for acute severe pain.",
+                        "wrongAnswer_3": "Full agonist at both mu and delta-opioid receptors, resulting in synergistic analgesic effects but also increased potential for tolerance and dependence.",
+                        "wrongAnswer_4": "Antagonist at all opioid receptor subtypes, primarily used to block the effects of other opioids and manage opioid-induced constipation without analgesic effects."
+                    }
+                ]
+            },
+            {
+                "title": "Endogenous Opioid Peptides",
+                "quizzes": [
+                    {
+                        "question": "What are the three main families of endogenous opioid peptides, categorized by their precursor molecules?",
+                        "goodAnswer": "Pro-opiomelanocortin (POMC) family (e.g., \u03b2-endorphin), proenkephalin family (e.g., met-enkephalin, leu-enkephalin), and prodynorphin family (e.g., dynorphin A).",
+                        "wrongAnswer_1": "Proinsulin family (e.g., insulin-like growth factors), proglucagon family (e.g., glucagon-like peptide-1), and prosomatostatin family (e.g., somatostatin-28).",
+                        "wrongAnswer_2": "Pro-nociceptin/orphanin FQ family, pro-orexin/hypocretin family, and pro-melanin-concentrating hormone (PMCH) family.",
+                        "wrongAnswer_3": "Pro-nerve growth factor (NGF) family, pro-brain-derived neurotrophic factor (BDNF) family, and pro-neurotrophin-3 (NT-3) family.",
+                        "wrongAnswer_4": "Pro-substance P family, pro-neurokinin A family, and pro-calcitonin gene-related peptide (CGRP) family."
+                    },
+                    {
+                        "question": "Which endogenous opioid peptide is derived from the precursor pro-opiomelanocortin (POMC) and is known for its potent analgesic effects and role in stress response?",
+                        "goodAnswer": "\u03b2-endorphin, which has high affinity for mu-opioid receptors and is released from the pituitary gland and hypothalamus in response to stress and pain.",
+                        "wrongAnswer_1": "Met-enkephalin, derived from proenkephalin, primarily acting on delta-opioid receptors and involved in modulating pain perception in the spinal cord.",
+                        "wrongAnswer_2": "Dynorphin A, derived from prodynorphin, with high affinity for kappa-opioid receptors, contributing to dysphoria and pain modulation in the dorsal horn.",
+                        "wrongAnswer_3": "Nociceptin/orphanin FQ, derived from pronociceptin, which is not a classical opioid peptide but modulates pain through the ORL1 receptor, related to opioid receptors.",
+                        "wrongAnswer_4": "\u03b1-melanocyte-stimulating hormone (\u03b1-MSH), also derived from POMC, primarily involved in pigmentation and appetite regulation, with no direct analgesic effects."
+                    },
+                    {
+                        "question": "What is the primary opioid receptor subtype for which enkephalins (met-enkephalin and leu-enkephalin) exhibit the highest affinity and functional activity?",
+                        "goodAnswer": "Delta-opioid receptors (DOR), where enkephalins act as agonists to modulate pain, mood, and reward pathways, particularly in the central nervous system.",
+                        "wrongAnswer_1": "Mu-opioid receptors (MOR), which are the primary targets for \u03b2-endorphin and morphine, mediating analgesia, euphoria, and respiratory depression.",
+                        "wrongAnswer_2": "Kappa-opioid receptors (KOR), the main receptors for dynorphins, associated with dysphoria, sedation, and pain modulation, especially in visceral pain.",
+                        "wrongAnswer_3": "Nociceptin/orphanin FQ receptors (ORL1), which are activated by nociceptin and are involved in pain facilitation and anxiety, distinct from classical opioid receptor actions.",
+                        "wrongAnswer_4": "Sigma receptors (\u03c3 receptors), which are non-opioid receptors historically grouped with opioid receptors but are now recognized as distinct entities involved in psychotomimetic effects."
+                    }
+                ]
+            },
+            {
+                "title": "Pharmacodynamics and pharmacokinetics of opioid agonists",
+                "quizzes": [
+                    {
+                        "question": "What is the primary pharmacodynamic mechanism of action for opioid agonists in producing analgesia at the neuronal level?",
+                        "goodAnswer": "Opioid agonists bind to opioid receptors, leading to Gi/o protein activation, which inhibits adenylyl cyclase, reduces cAMP production, increases potassium conductance (hyperpolarization), and decreases calcium influx, thus inhibiting neurotransmitter release and neuronal excitability.",
+                        "wrongAnswer_1": "Opioid agonists bind to opioid receptors, leading to Gs protein activation, which stimulates adenylyl cyclase, increases cAMP production, and enhances calcium influx, thus promoting neurotransmitter release and neuronal excitability.",
+                        "wrongAnswer_2": "Opioid agonists bind to opioid receptors and directly open ligand-gated chloride channels, causing neuronal hyperpolarization and reducing action potential propagation without affecting second messenger systems.",
+                        "wrongAnswer_3": "Opioid agonists bind to opioid receptors, activating phospholipase C, which increases IP3 and DAG levels, leading to calcium release from intracellular stores and enhanced neuronal signaling.",
+                        "wrongAnswer_4": "Opioid agonists competitively inhibit the reuptake of endogenous opioid peptides in the synaptic cleft, prolonging their action at opioid receptors and enhancing analgesia."
+                    },
+                    {
+                        "question": "Which of the following pharmacokinetic properties is most characteristic of fentanyl, contributing to its rapid onset and short duration of action?",
+                        "goodAnswer": "High lipophilicity, which allows for rapid penetration across the blood-brain barrier and quick distribution to the central nervous system, but also rapid redistribution to peripheral tissues, limiting its duration.",
+                        "wrongAnswer_1": "High protein binding, which prolongs its half-life and duration of action by reducing free drug concentration and slowing down metabolism and excretion processes.",
+                        "wrongAnswer_2": "Low hepatic extraction ratio, leading to slow metabolism and prolonged elimination half-life, contributing to a sustained analgesic effect.",
+                        "wrongAnswer_3": "Active metabolite formation, where metabolites contribute significantly to the overall analgesic effect and extend the duration of action beyond the parent drug.",
+                        "wrongAnswer_4": "Extensive renal clearance, resulting in rapid elimination from the body and a very short duration of action, primarily limited by renal blood flow."
+                    },
+                    {
+                        "question": "How does glucuronidation contribute to the metabolism of morphine and what is the pharmacological significance of its metabolites?",
+                        "goodAnswer": "Morphine undergoes glucuronidation primarily at the 3- and 6- positions, forming morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G); M6G is a potent analgesic, while M3G is neuroexcitatory and can contribute to side effects like nausea.",
+                        "wrongAnswer_1": "Morphine is primarily metabolized by cytochrome P450 enzymes through oxidation and demethylation, producing metabolites with reduced analgesic activity and increased toxicity.",
+                        "wrongAnswer_2": "Morphine metabolism mainly involves hydrolysis by esterases, yielding inactive metabolites that are rapidly excreted in the urine, with no significant active metabolites.",
+                        "wrongAnswer_3": "Morphine undergoes sulfate conjugation, forming morphine-3-sulfate and morphine-6-sulfate, both of which are potent analgesics with longer durations of action than morphine.",
+                        "wrongAnswer_4": "Morphine is not significantly metabolized and is primarily excreted unchanged in the feces, with minimal hepatic metabolism and no formation of pharmacologically active metabolites."
+                    }
+                ]
+            },
+            {
+                "title": "Opioid Antagonists and Agonist-Antagonists",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of naloxone as a pure opioid antagonist in reversing opioid overdose?",
+                        "goodAnswer": "Naloxone competitively binds to mu, delta, and kappa opioid receptors with high affinity, displacing opioid agonists and blocking their effects without producing agonist activity itself, thus rapidly reversing respiratory depression and sedation.",
+                        "wrongAnswer_1": "Naloxone non-competitively binds to opioid receptors, irreversibly blocking their activation by opioid agonists and causing a sustained reversal of opioid effects that lasts for several days.",
+                        "wrongAnswer_2": "Naloxone acts as an inverse agonist at opioid receptors, not only blocking agonist effects but also reducing basal receptor activity, which can lead to withdrawal symptoms even in opioid-naive individuals.",
+                        "wrongAnswer_3": "Naloxone enhances the metabolism of opioid agonists by inducing hepatic enzymes, thereby reducing their plasma concentrations and terminating their pharmacological effects.",
+                        "wrongAnswer_4": "Naloxone selectively blocks delta-opioid receptors, which are primarily responsible for respiratory depression, while leaving mu-opioid receptors unaffected, thus reversing respiratory depression without affecting analgesia."
+                    },
+                    {
+                        "question": "How does buprenorphine's agonist-antagonist profile contribute to its clinical utility in treating opioid dependence and pain management?",
+                        "goodAnswer": "Buprenorphine's partial agonist activity at mu-opioid receptors provides sufficient analgesia and reduces cravings and withdrawal symptoms in opioid dependence, while its ceiling effect on respiratory depression and high receptor affinity limit overdose risk and prevent displacement by other opioids.",
+                        "wrongAnswer_1": "Buprenorphine's full agonist activity at mu-opioid receptors ensures potent analgesia and complete suppression of withdrawal symptoms, but its lack of antagonist activity increases the risk of respiratory depression and overdose.",
+                        "wrongAnswer_2": "Buprenorphine's antagonist activity at mu-opioid receptors blocks the euphoric effects of other opioids, making it effective in preventing relapse, but it does not provide significant analgesia or alleviate withdrawal symptoms.",
+                        "wrongAnswer_3": "Buprenorphine's agonist activity at kappa-opioid receptors and antagonist activity at mu-opioid receptors contribute to its unique analgesic profile, effective for neuropathic pain but not for acute severe pain, and with no relevance to opioid dependence treatment.",
+                        "wrongAnswer_4": "Buprenorphine is a prodrug that is converted to naloxone in the body, providing both opioid agonist and antagonist effects simultaneously, which is beneficial for pain management and opioid dependence treatment due to balanced receptor modulation."
+                    },
+                    {
+                        "question": "What is the clinical significance of naltrexone's longer duration of action compared to naloxone, particularly in the context of opioid dependence treatment?",
+                        "goodAnswer": "Naltrexone's longer duration, due to slower metabolism and higher oral bioavailability, allows for once-daily or even less frequent dosing in maintenance treatment of opioid dependence and alcohol dependence, improving patient compliance and reducing relapse risk.",
+                        "wrongAnswer_1": "Naltrexone's shorter duration of action necessitates frequent administration, making it less practical for long-term maintenance treatment of opioid dependence but suitable for acute opioid overdose reversal in emergency settings.",
+                        "wrongAnswer_2": "Naltrexone's duration is comparable to naloxone, but it has higher potency at mu-opioid receptors, providing more effective blockade of opioid effects with similar dosing frequency requirements.",
+                        "wrongAnswer_3": "Naltrexone's duration of action is highly variable and unpredictable, making it unsuitable for reliable maintenance treatment of opioid dependence, and it is primarily used for acute opioid detoxification under close medical supervision.",
+                        "wrongAnswer_4": "Naltrexone is primarily used as a long-acting injectable formulation, which ensures sustained release over several weeks or months, eliminating the need for daily oral dosing and improving treatment adherence for opioid dependence."
+                    }
+                ]
+            }
+        ]
+    }
+}

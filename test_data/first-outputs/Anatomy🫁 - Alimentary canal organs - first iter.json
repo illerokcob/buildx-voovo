@@ -1,0 +1,198 @@
+{
+    "mainTopic": {
+        "title": "Alimentary canal organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The mouth",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the anatomical boundaries of the oral cavity proper?",
+                        "goodAnswer": "Anteriorly and laterally by the alveolar arches and teeth, superiorly by the hard and soft palates, inferiorly by the tongue and floor of the mouth, and posteriorly by the oropharyngeal isthmus.",
+                        "wrongAnswer_1": "Anteriorly by the lips, laterally by the cheeks, superiorly by the hard palate only, inferiorly by the tongue and floor of the mouth, and posteriorly by the laryngopharynx.",
+                        "wrongAnswer_2": "Anteriorly and laterally by the lips and cheeks, superiorly by the soft palate only, inferiorly by the floor of the mouth, and posteriorly by the nasopharynx.",
+                        "wrongAnswer_3": "Anteriorly by the teeth, laterally by the alveolar processes, superiorly by the soft palate and uvula, inferiorly by the tongue only, and posteriorly by the esophageal sphincter.",
+                        "wrongAnswer_4": "Anteriorly by the mental protuberance, laterally by the mandibular rami, superiorly by the cranial base, inferiorly by the hyoid bone, and posteriorly by the epiglottis."
+                    },
+                    {
+                        "question": "What is the correct order of tooth types in the adult human dentition from the midline moving posteriorly along the alveolar arch?",
+                        "goodAnswer": "Incisors -> Canines -> Premolars -> Molars.",
+                        "wrongAnswer_1": "Incisors -> Molars -> Premolars -> Canines.",
+                        "wrongAnswer_2": "Canines -> Incisors -> Premolars -> Molars.",
+                        "wrongAnswer_3": "Incisors -> Premolars -> Canines -> Molars.",
+                        "wrongAnswer_4": "Canines -> Premolars -> Molars -> Incisors."
+                    },
+                    {
+                        "question": "Which papillae, primarily involved in providing texture and friction but not directly in taste sensation, are the most numerous and distributed across the entire dorsal surface of the tongue?",
+                        "goodAnswer": "Filiform papillae, characterized by their conical shape and keratinized surface, are responsible for the tongue's rough texture but lack taste buds.",
+                        "wrongAnswer_1": "Foliate papillae, located on the posterior lateral borders of the tongue, are responsible for general sensation and temperature detection, but not taste.",
+                        "wrongAnswer_2": "Fungiform papillae, concentrated at the tip and lateral margins of the tongue, are primarily responsible for umami taste and texture perception.",
+                        "wrongAnswer_3": "Circumvallate papillae, arranged in a V-shape near the root of the tongue, are the most numerous taste-sensitive papillae and detect all primary tastes.",
+                        "wrongAnswer_4": "Conical papillae, found mainly on the ventral surface of the tongue, are responsible for detecting bitter taste and are highly sensitive to toxins."
+                    },
+                    {
+                        "question": "Which of the following best describes the composition of the hard palate's bony framework?",
+                        "goodAnswer": "Formed anteriorly by the palatine process of the maxilla and posteriorly by the horizontal plate of the palatine bone, covered by a mucoperiosteum.",
+                        "wrongAnswer_1": "Composed entirely of the palatine bone, covered by a thick layer of submucosa and stratified squamous epithelium.",
+                        "wrongAnswer_2": "Formed anteriorly by the alveolar process of the maxilla and posteriorly by the vomer bone, lined with pseudostratified columnar epithelium.",
+                        "wrongAnswer_3": "Composed of the maxillary bone and the zygomatic bone, covered by a thin layer of keratinized epithelium and numerous taste buds.",
+                        "wrongAnswer_4": "Formed by the sphenoid and ethmoid bones, lined with olfactory epithelium and containing numerous olfactory glands."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "What are the anatomical boundaries that define the oropharynx?",
+                        "goodAnswer": "Extending from the soft palate superiorly to the superior border of the epiglottis inferiorly, located posterior to the oral cavity and anterior to the laryngopharynx.",
+                        "wrongAnswer_1": "Extending from the hard palate superiorly to the inferior border of the cricoid cartilage inferiorly, located posterior to the nasal cavity and anterior to the nasopharynx.",
+                        "wrongAnswer_2": "Extending from the base of the skull superiorly to the hyoid bone inferiorly, located posterior to the oral cavity and anterior to the esophagus.",
+                        "wrongAnswer_3": "Extending from the nasopharynx superiorly to the laryngopharynx inferiorly, located posterior to the nasal cavity and anterior to the trachea.",
+                        "wrongAnswer_4": "Extending from the epiglottis superiorly to the cricoid cartilage inferiorly, located posterior to the larynx and anterior to the esophagus."
+                    },
+                    {
+                        "question": "Which set of muscles is primarily responsible for elevating the pharynx and larynx during swallowing?",
+                        "goodAnswer": "Stylopharyngeus, salpingopharyngeus, and palatopharyngeus muscles, working synergistically to lift the pharynx and larynx.",
+                        "wrongAnswer_1": "Superior, middle, and inferior pharyngeal constrictor muscles, which primarily constrict the pharyngeal walls sequentially.",
+                        "wrongAnswer_2": "Genioglossus, hyoglossus, and styloglossus muscles, mainly involved in tongue movements and speech articulation.",
+                        "wrongAnswer_3": "Masseter, temporalis, and pterygoid muscles, primarily responsible for mastication and mandibular elevation.",
+                        "wrongAnswer_4": "Sternohyoid, sternothyroid, and omohyoid muscles, which primarily depress the hyoid bone and larynx."
+                    },
+                    {
+                        "question": "Where are the palatine tonsils anatomically located within the pharynx?",
+                        "goodAnswer": "In the oropharynx, situated in the tonsillar fossa between the palatoglossal and palatopharyngeal arches.",
+                        "wrongAnswer_1": "In the nasopharynx, located on the posterior wall superior to the soft palate and inferior to the adenoids.",
+                        "wrongAnswer_2": "In the laryngopharynx, positioned on the lateral walls adjacent to the piriform recesses and the epiglottis.",
+                        "wrongAnswer_3": "In the hypopharynx, found at the base of the tongue and extending to the vallecula epiglottica.",
+                        "wrongAnswer_4": "In the nasopharyngeal isthmus, situated between the nasal cavity and the oropharynx, near the opening of the Eustachian tube."
+                    }
+                ]
+            },
+            {
+                "title": "Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Which layer of the esophageal wall is primarily responsible for peristalsis, the wave-like contractions that propel food bolus towards the stomach?",
+                        "goodAnswer": "Muscularis externa, composed of inner circular and outer longitudinal layers of smooth muscle, facilitates peristaltic movements.",
+                        "wrongAnswer_1": "Mucosa, the innermost layer consisting of epithelium, lamina propria, and muscularis mucosae, primarily involved in protection and secretion.",
+                        "wrongAnswer_2": "Submucosa, containing blood vessels, lymphatic vessels, and nerves, mainly provides support and nourishment to the mucosa.",
+                        "wrongAnswer_3": "Adventitia (or serosa in the abdominal part), the outermost layer of connective tissue, primarily anchors the esophagus to surrounding structures.",
+                        "wrongAnswer_4": "Lamina propria, a layer of connective tissue within the mucosa, primarily houses immune cells and supports the epithelium."
+                    },
+                    {
+                        "question": "What type of epithelium lines the mucosa of the esophagus, providing protection against abrasion from the passage of food?",
+                        "goodAnswer": "Non-keratinized stratified squamous epithelium, designed to withstand friction and abrasion during swallowing.",
+                        "wrongAnswer_1": "Simple columnar epithelium with goblet cells, specialized for secretion and absorption of nutrients and mucus.",
+                        "wrongAnswer_2": "Pseudostratified ciliated columnar epithelium with goblet cells, typical of the respiratory tract, designed for mucociliary clearance.",
+                        "wrongAnswer_3": "Transitional epithelium, capable of stretching and distension, typically found in the urinary bladder and ureters.",
+                        "wrongAnswer_4": "Keratinized stratified squamous epithelium, providing a tough, waterproof barrier, mainly found in the skin and oral cavity."
+                    },
+                    {
+                        "question": "Which anatomical structure marks the transition from the esophagus to the stomach and physiologically prevents reflux of gastric contents into the esophagus?",
+                        "goodAnswer": "Lower esophageal sphincter (LES), a physiological sphincter formed by the esophageal musculature and diaphragmatic crura.",
+                        "wrongAnswer_1": "Upper esophageal sphincter (UES), a true anatomical sphincter located at the pharyngoesophageal junction, controlling entry into the esophagus.",
+                        "wrongAnswer_2": "Pyloric sphincter, a true anatomical sphincter located at the junction of the stomach and duodenum, regulating gastric emptying.",
+                        "wrongAnswer_3": "Ileocecal valve, a physiological valve located at the junction of the ileum and cecum, preventing backflow from the large intestine.",
+                        "wrongAnswer_4": "Cardiac notch, the angle between the esophagus and the fundus of the stomach, primarily involved in preventing hiatal hernias."
+                    }
+                ]
+            },
+            {
+                "title": "The stomach",
+                "quizzes": [
+                    {
+                        "question": "Which region of the stomach is characterized by its dome-shaped superior portion, located superior and to the left of the cardia, often containing gas?",
+                        "goodAnswer": "Fundus, the superior rounded portion of the stomach, typically located above the level of the cardioesophageal junction.",
+                        "wrongAnswer_1": "Body, the main central portion of the stomach, extending from the fundus to the antrum and forming the bulk of the organ.",
+                        "wrongAnswer_2": "Antrum, the distal portion of the stomach, leading into the pyloric canal and characterized by thick muscular walls.",
+                        "wrongAnswer_3": "Cardia, the region surrounding the esophageal orifice, located immediately inferior to the lower esophageal sphincter.",
+                        "wrongAnswer_4": "Pylorus, the most distal region of the stomach, connecting to the duodenum via the pyloric sphincter."
+                    },
+                    {
+                        "question": "What are rugae, and what is their primary anatomical function within the stomach?",
+                        "goodAnswer": "Longitudinal folds of the gastric mucosa and submucosa, which allow for expansion of the stomach volume when filled with food.",
+                        "wrongAnswer_1": "Circular folds of the gastric muscularis externa, which facilitate mixing and churning of stomach contents during digestion.",
+                        "wrongAnswer_2": "Projections of the gastric serosa, which provide attachment points for ligaments and mesenteries supporting the stomach.",
+                        "wrongAnswer_3": "Invaginations of the gastric mucosa, forming gastric pits that house gastric glands responsible for enzyme production.",
+                        "wrongAnswer_4": "Spiral folds of the gastric submucosa, which increase the surface area for nutrient absorption in the stomach."
+                    },
+                    {
+                        "question": "Which layer of the stomach wall contains an oblique muscle layer in addition to the typical circular and longitudinal layers, enhancing its churning and mixing capabilities?",
+                        "goodAnswer": "Muscularis externa, which in the stomach has an additional innermost oblique layer, contributing to stronger contractions.",
+                        "wrongAnswer_1": "Mucosa, which contains the muscularis mucosae, responsible for local movements of the mucosal folds but not bulk mixing.",
+                        "wrongAnswer_2": "Submucosa, which provides structural support and houses blood vessels and nerves but lacks contractile tissue.",
+                        "wrongAnswer_3": "Serosa (or adventitia), the outermost layer, which primarily provides protection and attachment but does not contribute to motility.",
+                        "wrongAnswer_4": "Lamina propria, a component of the mucosa, which supports the epithelium and contains glands but does not have muscle layers for churning."
+                    }
+                ]
+            },
+            {
+                "title": "The small intestines",
+                "quizzes": [
+                    {
+                        "question": "What is the correct anatomical order of the three segments of the small intestine, starting from the pylorus and moving distally?",
+                        "goodAnswer": "Duodenum -> Jejunum -> Ileum.",
+                        "wrongAnswer_1": "Jejunum -> Duodenum -> Ileum.",
+                        "wrongAnswer_2": "Ileum -> Jejunum -> Duodenum.",
+                        "wrongAnswer_3": "Duodenum -> Ileum -> Jejunum.",
+                        "wrongAnswer_4": "Jejunum -> Ileum -> Duodenum."
+                    },
+                    {
+                        "question": "Which structural modification of the small intestinal wall, visible to the naked eye, consists of permanent transverse folds of the mucosa and submucosa that significantly increase surface area?",
+                        "goodAnswer": "Plicae circulares (circular folds), large, permanent folds of the mucosa and submucosa, are most prominent in the jejunum.",
+                        "wrongAnswer_1": "Villi, microscopic finger-like projections of the mucosa only, containing lacteals and capillaries for nutrient absorption.",
+                        "wrongAnswer_2": "Microvilli, microscopic extensions of the apical plasma membrane of enterocytes, forming the brush border and dramatically increasing surface area.",
+                        "wrongAnswer_3": "Rugae, large folds of the gastric mucosa and submucosa, primarily for stomach expansion, not found in the small intestine.",
+                        "wrongAnswer_4": "Haustra, sacculations or pouches of the large intestine, formed by the teniae coli, not present in the small intestine."
+                    },
+                    {
+                        "question": "Which segment of the small intestine is primarily responsible for the absorption of vitamin B12 and bile salts, and terminates at the ileocecal valve?",
+                        "goodAnswer": "Ileum, the terminal segment of the small intestine, specialized for absorbing vitamin B12 and bile salts, connecting to the large intestine.",
+                        "wrongAnswer_1": "Duodenum, the initial segment of the small intestine, primarily involved in receiving chyme and pancreatic secretions, and initial digestion.",
+                        "wrongAnswer_2": "Jejunum, the middle segment of the small intestine, mainly responsible for the bulk of nutrient absorption, particularly carbohydrates and proteins.",
+                        "wrongAnswer_3": "Cecum, the pouch-like beginning of the large intestine, receiving contents from the ileum, primarily involved in water and electrolyte absorption.",
+                        "wrongAnswer_4": "Appendix, a finger-like projection from the cecum, with no significant role in nutrient absorption, primarily lymphatic tissue."
+                    }
+                ]
+            },
+            {
+                "title": "The large intestines",
+                "quizzes": [
+                    {
+                        "question": "What is the correct sequence of segments in the large intestine, starting from the ileocecal valve and proceeding to the anus?",
+                        "goodAnswer": "Cecum -> Ascending colon -> Transverse colon -> Descending colon -> Sigmoid colon -> Rectum -> Anal canal.",
+                        "wrongAnswer_1": "Cecum -> Transverse colon -> Ascending colon -> Descending colon -> Sigmoid colon -> Rectum -> Anal canal.",
+                        "wrongAnswer_2": "Ileum -> Cecum -> Ascending colon -> Transverse colon -> Sigmoid colon -> Descending colon -> Rectum -> Anal canal.",
+                        "wrongAnswer_3": "Cecum -> Ascending colon -> Sigmoid colon -> Transverse colon -> Descending colon -> Rectum -> Anal canal.",
+                        "wrongAnswer_4": "Ascending colon -> Transverse colon -> Descending colon -> Sigmoid colon -> Cecum -> Rectum -> Anal canal."
+                    },
+                    {
+                        "question": "What are teniae coli, and what is their anatomical significance in the large intestine?",
+                        "goodAnswer": "Three longitudinal bands of smooth muscle on the outer surface of the colon, responsible for creating haustra and facilitating peristalsis.",
+                        "wrongAnswer_1": "Circular bands of smooth muscle within the submucosa of the colon, responsible for segmentation contractions and mixing of contents.",
+                        "wrongAnswer_2": "Longitudinal folds of the mucosa and submucosa in the colon, increasing surface area for water and electrolyte absorption.",
+                        "wrongAnswer_3": "Fibrous bands of connective tissue in the mesentery of the colon, providing structural support and attachment to the abdominal wall.",
+                        "wrongAnswer_4": "Nerve bundles located within the muscularis externa of the colon, coordinating peristaltic movements and segmentation."
+                    },
+                    {
+                        "question": "Which of the following best describes haustra, characteristic features of the large intestine?",
+                        "goodAnswer": "Sacculations or pouches in the wall of the colon, formed by the contraction of teniae coli, giving the colon its segmented appearance.",
+                        "wrongAnswer_1": "Finger-like projections of the mucosa in the colon, increasing surface area for absorption, similar to villi in the small intestine.",
+                        "wrongAnswer_2": "Longitudinal folds in the mucosa of the colon, facilitating the passage of fecal matter and preventing backflow.",
+                        "wrongAnswer_3": "Circular folds in the submucosa of the colon, providing structural support and preventing collapse of the intestinal lumen.",
+                        "wrongAnswer_4": "Glands located within the mucosa of the colon, secreting mucus and enzymes to aid in digestion of undigested food."
+                    },
+                    {
+                        "question": "What is the primary type of epithelium lining the mucosa of the large intestine, reflecting its main function of water and electrolyte absorption?",
+                        "goodAnswer": "Simple columnar epithelium with numerous goblet cells, specialized for mucus secretion and water absorption, lacking villi.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, providing protection against abrasion from fecal matter, similar to the esophagus.",
+                        "wrongAnswer_2": "Pseudostratified ciliated columnar epithelium, facilitating mucociliary clearance, similar to the respiratory tract.",
+                        "wrongAnswer_3": "Transitional epithelium, allowing for distension and stretching, similar to the urinary bladder.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium with microvilli, primarily involved in active transport and secretion of digestive enzymes."
+                    }
+                ]
+            }
+        ]
+    }
+}

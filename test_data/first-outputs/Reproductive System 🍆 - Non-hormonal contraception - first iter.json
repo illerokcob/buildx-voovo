@@ -1,0 +1,190 @@
+{
+    "mainTopic": {
+        "title": "Non-hormonal contraception",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Lactational Control of Fertility",
+                "quizzes": [
+                    {
+                        "question": "What is the primary physiological mechanism by which lactational amenorrhea method (LAM) provides contraception in the postpartum period?",
+                        "goodAnswer": "Frequent suckling by the infant inhibits the release of gonadotropin-releasing hormone (GnRH), which suppresses ovulation by reducing luteinizing hormone (LH) and follicle-stimulating hormone (FSH) secretion.",
+                        "wrongAnswer_1": "The prolactin surge during breastfeeding directly thickens the cervical mucus, preventing sperm penetration and thus blocking fertilization from occurring in the fallopian tubes.",
+                        "wrongAnswer_2": "Lactation increases estrogen levels, which in turn creates a negative feedback loop on the ovaries, preventing follicular development and subsequent ovulation for up to six months postpartum.",
+                        "wrongAnswer_3": "Frequent breastfeeding leads to a significant decrease in body fat percentage in the mother, causing hypothalamic amenorrhea due to insufficient energy reserves for ovulation to resume.",
+                        "wrongAnswer_4": "The physical act of breastfeeding stimulates the release of oxytocin, which directly interferes with the implantation of a fertilized egg in the uterine lining, preventing pregnancy."
+                    },
+                    {
+                        "question": "According to established criteria for LAM effectiveness, what are the key conditions that must be met to ensure a greater than 98% protection rate in the first six months postpartum?",
+                        "goodAnswer": "Amenorrhea (absence of menses), full or nearly full breastfeeding (baby's primary source of nourishment), and less than six months postpartum are the essential criteria for LAM effectiveness.",
+                        "wrongAnswer_1": "Exclusive breastfeeding on demand, infant being under one year of age, and consistent use of a barrier method as a backup are the main conditions for achieving high effectiveness with LAM.",
+                        "wrongAnswer_2": "Regular night feedings, supplementation with formula only when medically necessary, and maternal age under 35 years are critical factors for LAM to be highly effective.",
+                        "wrongAnswer_3": "Maintaining a specific breastfeeding schedule (every 2-3 hours), using a breast pump in addition to direct breastfeeding, and absence of any vaginal bleeding are the crucial requirements for LAM.",
+                        "wrongAnswer_4": "Complete absence of supplemental foods for the infant, maternal body mass index (BMI) within the normal range, and consistent breastfeeding for at least 8 times in 24 hours are the necessary conditions for LAM's success."
+                    },
+                    {
+                        "question": "Which hormonal change associated with breastfeeding is most directly responsible for the suppression of ovulation in lactational amenorrhea?",
+                        "goodAnswer": "Elevated prolactin levels, stimulated by nipple stimulation during suckling, inhibit pulsatile GnRH release, thereby reducing LH and FSH and suppressing ovarian follicle development.",
+                        "wrongAnswer_1": "Increased oxytocin secretion, triggered by breastfeeding, directly blocks the receptors for luteinizing hormone (LH) in the ovaries, preventing ovulation from occurring.",
+                        "wrongAnswer_2": "Decreased estrogen production during lactation leads to thinning of the endometrial lining, making implantation unfavorable and indirectly preventing ovulation.",
+                        "wrongAnswer_3": "Elevated levels of beta-endorphins, released during breastfeeding, act centrally to suppress the release of gonadotropins from the anterior pituitary gland.",
+                        "wrongAnswer_4": "Increased progesterone levels post-delivery, sustained by breastfeeding, create a hormonal environment similar to pregnancy, thereby inhibiting ovulation through negative feedback."
+                    }
+                ]
+            },
+            {
+                "title": "Reasonable at Time",
+                "quizzes": [
+                    {
+                        "question": "In the context of the 'Reasonable at Time' standard concerning medical malpractice related to contraception, what primarily determines if a healthcare provider's actions were considered reasonable?",
+                        "goodAnswer": "The standard of care that a reasonably prudent healthcare provider in the same specialty would have provided at the time of treatment, based on accepted medical knowledge and practice guidelines prevalent then.",
+                        "wrongAnswer_1": "Whether the patient experienced adverse outcomes, such as unintended pregnancy or complications from contraception, regardless of the provider's adherence to established protocols at the time.",
+                        "wrongAnswer_2": "The prevailing legal interpretations and court precedents related to contraceptive counseling and provision in the jurisdiction where the care was delivered, irrespective of medical standards.",
+                        "wrongAnswer_3": "The personal beliefs and ethical considerations of the healthcare provider regarding contraception, as long as these beliefs were disclosed to the patient prior to treatment.",
+                        "wrongAnswer_4": "The most current and up-to-date medical guidelines and research findings available at the time of legal review, even if those guidelines were not established at the time of the initial treatment."
+                    },
+                    {
+                        "question": "Considering the 'Reasonable at Time' principle, if a patient experienced a contraceptive failure in 1980 following the then-accepted medical advice, would a claim of malpractice likely succeed if current medical standards have evolved?",
+                        "goodAnswer": "Likely not, because the 'Reasonable at Time' standard assesses the provider's actions against the accepted medical practices and knowledge prevalent in 1980, not current standards.",
+                        "wrongAnswer_1": "Likely yes, because legal standards of care are always retrospectively applied based on the most recent advancements in medical science to ensure patient safety.",
+                        "wrongAnswer_2": "It depends on whether the patient signed a consent form acknowledging the risks of contraceptive failure based on current, not past, understandings of effectiveness.",
+                        "wrongAnswer_3": "It would depend on expert witness testimony establishing that even by 1980 standards, the provider's advice deviated significantly from the recognized standard of care at that time.",
+                        "wrongAnswer_4": "Yes, because patients have a fundamental right to effective contraception, and any failure, regardless of the time period, constitutes a breach of duty by the healthcare provider."
+                    },
+                    {
+                        "question": "How does the 'Reasonable at Time' doctrine in medical malpractice cases specifically protect healthcare providers in the context of evolving medical knowledge regarding contraceptive methods?",
+                        "goodAnswer": "It shields providers from being judged by contemporary medical standards for actions taken in the past, provided those actions were in line with the accepted medical practices and understanding at the time.",
+                        "wrongAnswer_1": "It allows providers to be judged based on the most lenient standards of care that were ever in place, regardless of whether those standards were considered outdated even at the time of treatment.",
+                        "wrongAnswer_2": "It ensures that providers are always held accountable to the highest possible standard of care, irrespective of when the treatment was administered or what medical knowledge was available then.",
+                        "wrongAnswer_3": "It mandates that providers stay updated with the absolute latest medical research, even if it's preliminary or not yet widely accepted, to avoid any potential malpractice claims.",
+                        "wrongAnswer_4": "It offers complete immunity to healthcare providers from malpractice claims related to contraception, as long as they can demonstrate any form of reasonable effort in patient care."
+                    }
+                ]
+            },
+            {
+                "title": "Contraception",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the mechanism of action for combined hormonal contraceptives (CHCs) in preventing pregnancy?",
+                        "goodAnswer": "CHCs primarily prevent ovulation by suppressing gonadotropin-releasing hormone (GnRH) from the hypothalamus, leading to reduced follicle-stimulating hormone (FSH) and luteinizing hormone (LH) release from the pituitary.",
+                        "wrongAnswer_1": "Combined hormonal contraceptives mainly work by creating a hostile uterine environment that prevents implantation of a fertilized egg, regardless of whether ovulation occurs.",
+                        "wrongAnswer_2": "CHCs function by thickening the cervical mucus to such an extent that sperm are physically unable to penetrate and reach the egg for fertilization, while ovulation remains unaffected.",
+                        "wrongAnswer_3": "Combined hormonal contraceptives increase the motility of the fallopian tubes, causing the egg to pass through too quickly to be fertilized by sperm in the ampullary region.",
+                        "wrongAnswer_4": "CHCs induce a mild inflammatory response in the endometrium, which is toxic to sperm and prevents fertilization, while having minimal impact on ovulation or cervical mucus."
+                    },
+                    {
+                        "question": "What is the key distinction in the mechanism of action between progestin-only pills (POPs) and combined oral contraceptives (COCs) concerning ovulation inhibition?",
+                        "goodAnswer": "While COCs reliably inhibit ovulation in most cycles, POPs inhibit ovulation less consistently, relying more on cervical mucus thickening and endometrial changes for contraception.",
+                        "wrongAnswer_1": "POPs are more effective at inhibiting ovulation than COCs because they deliver a higher dose of progestin, which has a stronger suppressive effect on the hypothalamic-pituitary axis.",
+                        "wrongAnswer_2": "COCs primarily depend on cervical mucus thickening and endometrial atrophy for contraception, whereas POPs predominantly function by consistently blocking ovulation in every cycle.",
+                        "wrongAnswer_3": "POPs and COCs both have the same primary mechanism of action: consistent and complete inhibition of ovulation through suppression of FSH and LH release from the pituitary gland.",
+                        "wrongAnswer_4": "The difference is that POPs inhibit ovulation by directly acting on the ovaries, while COCs inhibit ovulation indirectly through the hypothalamus and pituitary gland feedback loops."
+                    },
+                    {
+                        "question": "Which non-hormonal contraceptive method primarily functions by creating a physical barrier to prevent sperm from entering the uterus?",
+                        "goodAnswer": "Copper intrauterine devices (IUDs) create a physical barrier in the uterus and also release copper ions, which are toxic to sperm and impair sperm motility, preventing fertilization.",
+                        "wrongAnswer_1": "Spermicides form a chemical barrier that immobilizes and kills sperm on contact before they can reach the cervix and enter the uterus, thus preventing fertilization.",
+                        "wrongAnswer_2": "The diaphragm acts as a physical barrier placed over the cervix to block sperm entry into the uterus, and is typically used in conjunction with spermicide for enhanced effectiveness.",
+                        "wrongAnswer_3": "Fertility awareness-based methods rely on tracking a woman's menstrual cycle and avoiding intercourse during fertile days, thus preventing sperm and egg from meeting.",
+                        "wrongAnswer_4": "Female condoms create a physical barrier lining the vagina, preventing semen from entering the vagina and subsequently the uterus, thereby blocking sperm from reaching the egg."
+                    },
+                    {
+                        "question": "How do copper ions released by copper-containing intrauterine devices (IUDs) contribute to their contraceptive efficacy?",
+                        "goodAnswer": "Copper ions released by IUDs are toxic to sperm, impairing sperm motility and viability, and they also induce a local inflammatory response in the uterus that is spermicidal and prevents implantation.",
+                        "wrongAnswer_1": "Copper ions primarily thicken the cervical mucus, creating a barrier that prevents sperm from migrating into the uterus and reaching the fallopian tubes for fertilization.",
+                        "wrongAnswer_2": "Copper ions directly interfere with the maturation of eggs in the ovaries, preventing ovulation and thus eliminating the possibility of fertilization by sperm.",
+                        "wrongAnswer_3": "Copper ions alter the pH of the vaginal environment, making it highly acidic and lethal to sperm, thereby preventing them from surviving long enough to reach the egg.",
+                        "wrongAnswer_4": "Copper ions stimulate the production of antibodies against sperm, which then attack and destroy sperm cells in the female reproductive tract, preventing fertilization."
+                    }
+                ]
+            },
+            {
+                "title": "IUD History",
+                "quizzes": [
+                    {
+                        "question": "What was a significant early challenge in the history of intrauterine devices (IUDs) that contributed to negative perceptions and setbacks in their widespread adoption?",
+                        "goodAnswer": "Early IUD designs, particularly the Dalkon Shield, were associated with increased risks of pelvic inflammatory disease (PID), septic abortions, and infertility, leading to lawsuits and public distrust.",
+                        "wrongAnswer_1": "The primary historical obstacle for IUDs was religious and ethical opposition to contraception in general, which hindered research, development, and acceptance of IUDs in many regions.",
+                        "wrongAnswer_2": "Initial IUD models were made from materials that caused severe allergic reactions in a significant portion of women, leading to their removal and discouraging further use.",
+                        "wrongAnswer_3": "Early IUDs were technically difficult to insert and remove, requiring specialized surgical procedures, which limited their accessibility and increased the risk of complications.",
+                        "wrongAnswer_4": "The main historical problem with IUDs was their low effectiveness in preventing pregnancy compared to other contraceptive methods available at the time, leading to user dissatisfaction."
+                    },
+                    {
+                        "question": "Which generation of intrauterine devices (IUDs) is characterized by the introduction of hormone-releasing IUDs, specifically levonorgestrel-releasing IUDs, marking a significant advancement in IUD technology?",
+                        "goodAnswer": "The third generation of IUDs is marked by the introduction of hormone-releasing IUDs, such as levonorgestrel-releasing IUDs, which offer both contraceptive and therapeutic benefits.",
+                        "wrongAnswer_1": "The first generation of IUDs is recognized for the development of hormone-releasing IUDs, which combined mechanical and hormonal mechanisms for enhanced contraception.",
+                        "wrongAnswer_2": "The second generation of IUDs is distinguished by the advent of hormone-releasing IUDs, moving beyond inert devices to incorporate hormonal delivery for improved efficacy.",
+                        "wrongAnswer_3": "Hormone-releasing IUDs are not associated with any specific generation of IUDs, but rather represent a separate category of IUDs developed independently of generational classifications.",
+                        "wrongAnswer_4": "The fourth generation of IUDs is defined by the introduction of hormone-releasing IUDs, building upon previous generations of non-hormonal and copper IUD designs."
+                    },
+                    {
+                        "question": "Prior to the development of modern plastic and copper IUDs, what type of materials were historically used to construct early intrauterine devices?",
+                        "goodAnswer": "Early IUDs were often made from materials like silkworm gut, gold, silver, and stainless steel, reflecting the limited range of biocompatible materials available at the time.",
+                        "wrongAnswer_1": "The earliest IUDs were primarily constructed from rubber and latex, materials chosen for their flexibility and ease of sterilization in early medical practices.",
+                        "wrongAnswer_2": "Glass and ceramic were common materials used in the first IUDs due to their inert nature and resistance to degradation within the body, despite their fragility.",
+                        "wrongAnswer_3": "Wood and ivory were among the first materials employed in IUD construction, selected for their availability and perceived biocompatibility in historical contexts.",
+                        "wrongAnswer_4": "Early IUDs were typically made of iron and lead, materials believed to have contraceptive properties due to their potential toxicity to sperm and embryos."
+                    }
+                ]
+            },
+            {
+                "title": "Condoms, Cervical cap, Female condoms",
+                "quizzes": [
+                    {
+                        "question": "What is a key advantage of female condoms compared to male condoms in terms of user control and timing of application?",
+                        "goodAnswer": "Female condoms can be inserted up to 8 hours before intercourse, providing greater spontaneity and control to the user regarding the timing of contraceptive preparation.",
+                        "wrongAnswer_1": "Male condoms offer superior user control because they can be applied immediately before intercourse and are less likely to be displaced during sexual activity.",
+                        "wrongAnswer_2": "Both male and female condoms must be applied immediately prior to sexual intercourse to ensure maximum effectiveness and prevent any risk of slippage or breakage.",
+                        "wrongAnswer_3": "Female condoms require application by a healthcare provider only, limiting user control and spontaneity compared to male condoms which can be self-applied.",
+                        "wrongAnswer_4": "Neither male nor female condoms offer significant user control over timing, as both must be applied at the precise moment of sexual initiation for effective contraception."
+                    },
+                    {
+                        "question": "How does the cervical cap provide contraception, and what is a crucial requirement for its effective use?",
+                        "goodAnswer": "The cervical cap works by fitting tightly over the cervix, blocking sperm entry into the uterus, and it must be used with spermicide placed inside the cap for optimal effectiveness.",
+                        "wrongAnswer_1": "The cervical cap releases hormones that prevent ovulation, and its effectiveness is enhanced by spermicide applied to the external vaginal area, not inside the cap itself.",
+                        "wrongAnswer_2": "Cervical caps function by absorbing semen and preventing sperm from reaching the cervix, and they are most effective when used without spermicide to avoid irritation.",
+                        "wrongAnswer_3": "The cervical cap creates an acidic environment in the vagina that kills sperm, and it must be left in place for at least 24 hours after intercourse to ensure complete spermicidal action.",
+                        "wrongAnswer_4": "Cervical caps work by stimulating the immune system to produce antibodies against sperm, and they are more effective when used without spermicide to prevent allergic reactions."
+                    },
+                    {
+                        "question": "In terms of material composition, what is a primary difference between typical male condoms and female condoms?",
+                        "goodAnswer": "Male condoms are commonly made of latex, polyurethane, or polyisoprene, while female condoms are typically made of nitrile or polyurethane, often being wider and longer than male condoms.",
+                        "wrongAnswer_1": "Male condoms are exclusively made of latex, whereas female condoms are always made of natural lambskin, offering different levels of protection against STIs and pregnancy.",
+                        "wrongAnswer_2": "Both male and female condoms are primarily made of silicone, differing only in shape and size, but offering similar levels of barrier protection and material properties.",
+                        "wrongAnswer_3": "Male condoms are typically made of polyurethane, while female condoms are primarily made of latex, representing a reversal in material composition for barrier contraceptives.",
+                        "wrongAnswer_4": "There is no significant material difference; both male and female condoms are usually made from latex, with variations only in thickness and lubricant type, not base material."
+                    }
+                ]
+            },
+            {
+                "title": "Spermicides",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which nonoxynol-9, a common spermicidal agent, inactivates sperm?",
+                        "goodAnswer": "Nonoxynol-9 disrupts the lipid bilayer of the sperm cell membrane, causing cellular lysis and immobilization, thus preventing fertilization of the egg.",
+                        "wrongAnswer_1": "Nonoxynol-9 primarily works by altering the pH of the vaginal environment to a highly acidic level, which is lethal to sperm and prevents their survival.",
+                        "wrongAnswer_2": "Nonoxynol-9 functions by blocking the acrosome reaction in sperm, preventing them from penetrating the egg's zona pellucida and initiating fertilization.",
+                        "wrongAnswer_3": "Nonoxynol-9 acts as a physical barrier, forming a thick layer in the vagina that prevents sperm from migrating towards the cervix and entering the uterus.",
+                        "wrongAnswer_4": "Nonoxynol-9 inhibits sperm motility by interfering with their mitochondrial function, thus reducing their ability to swim towards the egg for fertilization."
+                    },
+                    {
+                        "question": "When used alone, how does the typical effectiveness rate of spermicides compare to more effective contraceptive methods like intrauterine devices (IUDs) or combined oral contraceptives (COCs)?",
+                        "goodAnswer": "Spermicides used alone have a significantly lower typical effectiveness rate compared to IUDs or COCs, primarily due to higher rates of inconsistent or incorrect use.",
+                        "wrongAnswer_1": "Spermicides are equally effective as IUDs and COCs when used consistently and correctly, providing comparable levels of pregnancy prevention in typical use scenarios.",
+                        "wrongAnswer_2": "Spermicides are actually more effective than IUDs and COCs in preventing pregnancy because they act directly at the site of sperm deposition, eliminating the need for systemic effects.",
+                        "wrongAnswer_3": "The effectiveness of spermicides is highly variable and unpredictable, making them neither more nor less effective than IUDs or COCs, but rather a method with unreliable outcomes.",
+                        "wrongAnswer_4": "Spermicides have a slightly higher typical effectiveness rate than IUDs but are less effective than COCs due to the localized nature of their contraceptive action."
+                    },
+                    {
+                        "question": "What is a recognized potential drawback associated with frequent use of spermicides containing nonoxynol-9, particularly in the context of sexually transmitted infections (STIs)?",
+                        "goodAnswer": "Frequent use of nonoxynol-9 spermicides may cause vaginal and rectal irritation, potentially increasing the risk of STI transmission by disrupting mucosal integrity.",
+                        "wrongAnswer_1": "Long-term use of nonoxynol-9 spermicides can lead to a decreased vaginal pH, which offers enhanced protection against bacterial vaginosis but increases susceptibility to yeast infections.",
+                        "wrongAnswer_2": "Frequent spermicide use may cause systemic absorption of nonoxynol-9, leading to hormonal imbalances and potentially reducing fertility in women over time.",
+                        "wrongAnswer_3": "Consistent use of nonoxynol-9 spermicides has been shown to increase the risk of developing cervical cancer due to its cytotoxic effects on cervical cells.",
+                        "wrongAnswer_4": "Spermicides, especially those with nonoxynol-9, can cause allergic reactions in both men and women, leading to skin rashes and reducing the effectiveness of contraception."
+                    }
+                ]
+            }
+        ]
+    }
+}

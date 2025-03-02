@@ -1,0 +1,190 @@
+{
+    "mainTopic": {
+        "title": "Alimentary canal organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The mouth",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately delineates the boundaries of the oral vestibule?",
+                        "goodAnswer": "Externally by the lips and cheeks, and internally by the alveolar processes and teeth, forming a space separate from the oral cavity proper.",
+                        "wrongAnswer_1": "Anteriorly by the incisors, laterally by the canines, posteriorly by the molars, and superiorly/inferiorly by the hard and soft palates.",
+                        "wrongAnswer_2": "Superiorly by the hard palate, inferiorly by the floor of the mouth, anteriorly by the lips, and posteriorly by the palatoglossal arches.",
+                        "wrongAnswer_3": "Medially by the tongue, laterally by the teeth, anteriorly by the mental symphysis, and posteriorly by the oropharyngeal isthmus.",
+                        "wrongAnswer_4": "Anteriorly by the nasal septum, posteriorly by the pharyngeal wall, superiorly by the cribriform plate, and inferiorly by the hard palate."
+                    },
+                    {
+                        "question": "In the context of tooth anatomy, what distinguishes cementum from enamel and dentin?",
+                        "goodAnswer": "Cementum is a bone-like substance covering the root of the tooth, providing attachment for periodontal ligaments, unlike enamel which covers the crown and dentin which forms the bulk.",
+                        "wrongAnswer_1": "Cementum is the hardest substance in the body covering the crown, protecting it from wear and tear, while enamel is a cellular layer forming the root and dentin is a vascular layer within the crown.",
+                        "wrongAnswer_2": "Cementum is a highly innervated layer forming the pulp cavity, responsible for tooth sensitivity, whereas enamel is a calcified matrix covering the root and dentin is a vascular layer in the crown.",
+                        "wrongAnswer_3": "Cementum is a avascular, acellular layer covering the dentin in the crown, providing protection against acids, unlike enamel which covers the root and dentin which is a cellular layer in the crown.",
+                        "wrongAnswer_4": "Cementum is a specialized epithelium covering the enamel in the crown, responsible for taste sensation, while dentin forms the root and enamel is a connective tissue layer beneath the cementum."
+                    },
+                    {
+                        "question": "Describe the anatomical relationship between the sublingual gland and the submandibular duct (Wharton's duct) in the floor of the mouth.",
+                        "goodAnswer": "The sublingual gland is located superior and anterior to the submandibular gland, with its ducts opening directly into the floor of the mouth, while Wharton's duct from the submandibular gland opens at the sublingual caruncle.",
+                        "wrongAnswer_1": "The sublingual gland is posterior and lateral to the submandibular gland, and its ducts merge to form Wharton's duct, which then opens into the oral vestibule near the upper molars.",
+                        "wrongAnswer_2": "The sublingual gland is inferior and medial to the submandibular gland, and its ducts drain into the parotid duct (Stensen's duct), which opens near the second upper molar, while Wharton's duct drains the parotid gland.",
+                        "wrongAnswer_3": "The sublingual gland is anterior and inferior to the submandibular gland, and its ducts open into the nasal cavity via the nasopalatine canal, while Wharton's duct opens into the oropharynx.",
+                        "wrongAnswer_4": "The sublingual gland is located within the parotid gland, and its ducts combine with Stensen's duct to open into the oral cavity proper, while Wharton's duct is associated with the lacrimal gland."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "What is the anatomical significance of the pharyngeal constrictor muscles in deglutition?",
+                        "goodAnswer": "They sequentially contract to propel the bolus inferiorly through the pharynx into the esophagus, forming a peristaltic wave during swallowing.",
+                        "wrongAnswer_1": "They primarily elevate the larynx and hyoid bone, opening the upper esophageal sphincter to receive the bolus during the oral preparatory phase of swallowing.",
+                        "wrongAnswer_2": "They dilate the pharyngeal lumen to accommodate the bolus, preventing aspiration by closing off the nasopharynx and oropharynx during swallowing.",
+                        "wrongAnswer_3": "They reflexively contract to prevent the bolus from re-entering the oral cavity, ensuring unidirectional movement of food from the mouth to the pharynx.",
+                        "wrongAnswer_4": "They tonically contract to maintain the patency of the pharynx, allowing for continuous airflow and preventing collapse during respiration and swallowing."
+                    },
+                    {
+                        "question": "Describe the location and anatomical relations of the torus tubarius within the nasopharynx.",
+                        "goodAnswer": "The torus tubarius is a cartilaginous elevation posterior to the pharyngeal orifice of the Eustachian tube, formed by the cartilage of the auditory tube, located on the lateral wall of the nasopharynx.",
+                        "wrongAnswer_1": "The torus tubarius is a bony projection anterior to the nasal septum, formed by the vomer bone, located on the midline of the nasopharynx, inferior to the sphenoidal sinus.",
+                        "wrongAnswer_2": "The torus tubarius is a muscular fold superior to the soft palate, formed by the palatopharyngeus muscle, located on the posterior wall of the nasopharynx, continuous with the uvula.",
+                        "wrongAnswer_3": "The torus tubarius is a lymphatic tissue mass inferior to the adenoids, formed by the pharyngeal tonsil, located on the roof of the nasopharynx, superior to the sphenoid bone.",
+                        "wrongAnswer_4": "The torus tubarius is a mucosal fold lateral to the epiglottis, formed by the aryepiglottic fold, located on the anterior wall of the nasopharynx, near the laryngeal inlet."
+                    },
+                    {
+                        "question": "What is Waldeyer's ring, and which lymphoid tissues constitute its anatomical structure in the pharynx?",
+                        "goodAnswer": "Waldeyer's ring is a ring of lymphatic tissue in the pharynx, composed of the pharyngeal tonsil (adenoids), palatine tonsils, and lingual tonsils, providing immunological surveillance.",
+                        "wrongAnswer_1": "Waldeyer's ring is a cartilaginous structure in the larynx, composed of the epiglottis, thyroid cartilage, and cricoid cartilage, supporting the airway and vocal cords.",
+                        "wrongAnswer_2": "Waldeyer's ring is a muscular sphincter in the esophagus, composed of the upper and lower esophageal sphincters, regulating bolus entry into the stomach.",
+                        "wrongAnswer_3": "Waldeyer's ring is a bony circle in the skull base, composed of the foramen magnum, foramen ovale, and foramen spinosum, housing cranial nerves and blood vessels.",
+                        "wrongAnswer_4": "Waldeyer's ring is a mucosal fold in the nasal cavity, composed of the superior, middle, and inferior nasal conchae, increasing surface area for air humidification."
+                    }
+                ]
+            },
+            {
+                "title": "Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Describe the anatomical course of the esophagus from its origin to its termination.",
+                        "goodAnswer": "Originating at the inferior border of the cricoid cartilage (C6 vertebral level), descending through the neck and mediastinum, passing through the diaphragm at the esophageal hiatus (T10), and entering the stomach at the cardia (T11).",
+                        "wrongAnswer_1": "Originating at the superior border of the thyroid cartilage (C4 vertebral level), ascending through the neck and mediastinum, passing anterior to the trachea, and entering the duodenum at the pylorus (L1).",
+                        "wrongAnswer_2": "Originating at the hyoid bone (C3 vertebral level), descending posterior to the larynx and trachea, passing through the aortic hiatus of the diaphragm (T12), and entering the jejunum at the duodenojejunal flexure (L2).",
+                        "wrongAnswer_3": "Originating at the base of the skull (foramen magnum), descending through the vertebral canal, exiting through the sacral hiatus, and entering the rectum at the anal canal (S3).",
+                        "wrongAnswer_4": "Originating at the nasal cavity, descending through the nasopharynx and oropharynx, passing anterior to the vertebral column, and entering the cecum at the ileocecal valve (L5)."
+                    },
+                    {
+                        "question": "What is the histological characteristic that distinguishes the esophageal mucosa from that of the stomach?",
+                        "goodAnswer": "The esophagus is lined by non-keratinized stratified squamous epithelium, adapted for protection against abrasion, while the stomach mucosa is lined by simple columnar epithelium with gastric pits and glands for secretion.",
+                        "wrongAnswer_1": "The esophagus mucosa contains simple cuboidal epithelium with numerous villi for absorption, whereas the stomach mucosa has pseudostratified ciliated columnar epithelium with goblet cells for mucus production.",
+                        "wrongAnswer_2": "The esophagus mucosa is characterized by transitional epithelium allowing for distension, similar to the bladder, while the stomach mucosa has keratinized stratified squamous epithelium for protection against acidic contents.",
+                        "wrongAnswer_3": "Both the esophagus and stomach mucosa are lined by simple squamous epithelium for rapid diffusion of gases and nutrients, facilitating absorption in both organs.",
+                        "wrongAnswer_4": "The esophagus mucosa is composed of dense irregular connective tissue with adipose cells, providing structural support, while the stomach mucosa is made of loose areolar connective tissue with lymphatic nodules."
+                    },
+                    {
+                        "question": "Describe the venous drainage of the esophagus and its clinical significance in portal hypertension.",
+                        "goodAnswer": "Esophageal veins drain into both the systemic (azygos and hemiazygos veins) and portal (left gastric vein) venous systems, creating portosystemic anastomoses; in portal hypertension, these anastomoses can become dilated, leading to esophageal varices.",
+                        "wrongAnswer_1": "Esophageal veins primarily drain into the pulmonary veins, contributing to oxygenated blood return to the heart; in pulmonary hypertension, these veins can become constricted, leading to esophageal stenosis.",
+                        "wrongAnswer_2": "Esophageal veins solely drain into the systemic circulation via the inferior vena cava, bypassing the liver; in systemic hypertension, these veins can rupture, leading to esophageal ulcers.",
+                        "wrongAnswer_3": "Esophageal veins drain exclusively into the hepatic portal vein, facilitating direct detoxification of absorbed substances by the liver; in hepatic vein occlusion, these veins can thrombose, leading to esophageal infarction.",
+                        "wrongAnswer_4": "Esophageal veins drain into the cerebral venous sinuses, contributing to intracranial pressure regulation; in intracranial hypertension, these veins can become compressed, leading to esophageal dysmotility."
+                    }
+                ]
+            },
+            {
+                "title": "The stomach",
+                "quizzes": [
+                    {
+                        "question": "Anatomically, how is the greater curvature of the stomach distinguished from the lesser curvature?",
+                        "goodAnswer": "The greater curvature is the longer, convex border of the stomach, extending from the cardia to the pylorus along the left side, while the lesser curvature is the shorter, concave border on the right side.",
+                        "wrongAnswer_1": "The greater curvature is the superior border of the stomach, located near the diaphragm, while the lesser curvature is the inferior border, adjacent to the pancreas and transverse colon.",
+                        "wrongAnswer_2": "The greater curvature is the anterior surface of the stomach, facing the abdominal wall, while the lesser curvature is the posterior surface, facing the retroperitoneum and spleen.",
+                        "wrongAnswer_3": "The greater curvature is the mucosal lining of the stomach containing rugae, while the lesser curvature is the serosal covering with omental attachments.",
+                        "wrongAnswer_4": "The greater curvature is the region of the stomach rich in parietal cells secreting acid, while the lesser curvature is predominantly composed of chief cells secreting pepsinogen."
+                    },
+                    {
+                        "question": "What is the anatomical composition and functional role of the pyloric sphincter?",
+                        "goodAnswer": "The pyloric sphincter is a thickened ring of smooth muscle at the pyloroduodenal junction, controlling the release of chyme from the stomach into the duodenum and preventing duodenogastric reflux.",
+                        "wrongAnswer_1": "The pyloric sphincter is a cartilaginous ring surrounding the esophageal hiatus, preventing gastroesophageal reflux and maintaining the separation between the thorax and abdomen.",
+                        "wrongAnswer_2": "The pyloric sphincter is a bony structure formed by the fusion of the pyloric antrum and pyloric canal, supporting the stomach and anchoring it to the abdominal wall.",
+                        "wrongAnswer_3": "The pyloric sphincter is a mucosal valve located at the cardioesophageal junction, regulating the entry of food into the stomach and preventing air from entering the esophagus.",
+                        "wrongAnswer_4": "The pyloric sphincter is a fibrous band of connective tissue surrounding the fundus of the stomach, limiting gastric distension and preventing overfilling with food."
+                    },
+                    {
+                        "question": "Describe the peritoneal attachments of the stomach and their anatomical significance.",
+                        "goodAnswer": "The stomach is connected to other organs by the greater and lesser omenta; the lesser omentum attaches the lesser curvature to the liver, and the greater omentum hangs from the greater curvature, covering the intestines, contributing to organ support and fat storage.",
+                        "wrongAnswer_1": "The stomach is directly attached to the posterior abdominal wall by the mesentery proper, providing a fixed position and limiting mobility within the abdominal cavity, while the omenta anchor it to the diaphragm.",
+                        "wrongAnswer_2": "The stomach is suspended within the peritoneal cavity by the falciform ligament and round ligament of the liver, allowing for extensive movement and expansion during digestion, while the omenta are absent.",
+                        "wrongAnswer_3": "The stomach is retroperitoneal, located posterior to the parietal peritoneum, and lacks peritoneal attachments; its position is maintained by surrounding muscles and connective tissues, without omental involvement.",
+                        "wrongAnswer_4": "The stomach is connected to the spleen by the gastrosplenic ligament and to the pancreas by the pancreaticogastric ligament, forming a fixed anatomical unit, while the omenta primarily function in lymphatic drainage."
+                    }
+                ]
+            },
+            {
+                "title": "The small intestines",
+                "quizzes": [
+                    {
+                        "question": "What are the key anatomical differences between the duodenum and the jejunum?",
+                        "goodAnswer": "The duodenum is retroperitoneal, C-shaped, receives bile and pancreatic ducts, and has submucosal Brunner's glands; the jejunum is intraperitoneal, coiled, lacks Brunner's glands, and has longer vasa recta and plicae circulares.",
+                        "wrongAnswer_1": "The duodenum is intraperitoneal, straight, contains Peyer's patches, and has prominent villi; the jejunum is retroperitoneal, U-shaped, lacks Peyer's patches, and has shorter vasa recta and fewer plicae circulares.",
+                        "wrongAnswer_2": "The duodenum is located in the pelvic cavity, short, has a thick muscularis externa, and absorbs primarily water and electrolytes; the jejunum is in the thoracic cavity, long, has a thin muscularis mucosae, and absorbs lipids and proteins.",
+                        "wrongAnswer_3": "The duodenum is part of the large intestine, sacculated, contains haustra and teniae coli, and absorbs vitamins and minerals; the jejunum is part of the stomach, fundic, contains rugae, and churns and mixes food.",
+                        "wrongAnswer_4": "The duodenum is lined by stratified squamous epithelium, lacks villi, and secretes mucus; the jejunum is lined by transitional epithelium, has microvilli, and absorbs glucose and amino acids."
+                    },
+                    {
+                        "question": "Describe the structural adaptations of the ileum that enhance its absorptive capacity.",
+                        "goodAnswer": "The ileum possesses Peyer's patches in the submucosa, fewer and shorter plicae circulares compared to the jejunum, and abundant villi and microvilli, maximizing surface area for nutrient and vitamin B12 absorption.",
+                        "wrongAnswer_1": "The ileum is characterized by prominent Brunner's glands in the mucosa, numerous and tall plicae circulares, and a thick muscularis externa, enhancing mechanical digestion and enzyme secretion.",
+                        "wrongAnswer_2": "The ileum has deep gastric pits in the mucosa, rugae folds in the submucosa, and a well-developed oblique muscle layer, facilitating churning and mixing of chyme with gastric juices.",
+                        "wrongAnswer_3": "The ileum is distinguished by haustra and teniae coli in the muscularis externa, taeniae omentales in the serosa, and abundant goblet cells in the mucosa, promoting water and electrolyte absorption.",
+                        "wrongAnswer_4": "The ileum features large lymphatic vessels in the lamina propria, extensive capillary networks in the muscularis mucosae, and a thick layer of adipose tissue in the serosa, enhancing immune surveillance and lipid storage."
+                    },
+                    {
+                        "question": "What is the anatomical significance of the suspensory muscle of Treitz (ligament of Treitz)?",
+                        "goodAnswer": "The suspensory muscle of Treitz is a fibromuscular band extending from the duodenojejunal flexure to the right crus of the diaphragm, supporting the duodenojejunal junction and marking the anatomical division between the upper and lower gastrointestinal tract.",
+                        "wrongAnswer_1": "The suspensory muscle of Treitz is a ligamentous cord extending from the pyloric sphincter to the left crus of the diaphragm, anchoring the stomach to the diaphragm and preventing hiatal hernias.",
+                        "wrongAnswer_2": "The suspensory muscle of Treitz is a muscular ring surrounding the ileocecal valve, controlling the passage of contents from the ileum to the cecum and preventing ileocecal reflux.",
+                        "wrongAnswer_3": "The suspensory muscle of Treitz is a tendinous structure extending from the splenic flexure to the diaphragm, supporting the transverse colon and limiting its mobility within the abdominal cavity.",
+                        "wrongAnswer_4": "The suspensory muscle of Treitz is a cartilaginous band located at the laryngopharynx, supporting the epiglottis and facilitating laryngeal elevation during swallowing."
+                    }
+                ]
+            },
+            {
+                "title": "The large intestines",
+                "quizzes": [
+                    {
+                        "question": "Describe the anatomical features that distinguish the large intestine from the small intestine macroscopically.",
+                        "goodAnswer": "The large intestine has a larger diameter, haustra, teniae coli, and omental appendices, and lacks plicae circulares and villi, unlike the small intestine which has a smaller diameter, no haustra or teniae coli, and prominent plicae circulares and villi.",
+                        "wrongAnswer_1": "The large intestine is shorter in length, has prominent plicae circulares and villi, and contains Brunner's glands, while the small intestine is longer, lacks plicae circulares and villi, and contains Peyer's patches.",
+                        "wrongAnswer_2": "The large intestine is located in the thoracic cavity, has a thin muscularis externa, and absorbs primarily proteins and carbohydrates, whereas the small intestine is in the pelvic cavity, has a thick muscularis mucosae, and absorbs water and electrolytes.",
+                        "wrongAnswer_3": "The large intestine is retroperitoneal, straight, and lacks haustra and teniae coli, while the small intestine is intraperitoneal, coiled, and has haustra and teniae coli.",
+                        "wrongAnswer_4": "The large intestine is lined by stratified squamous epithelium, secretes digestive enzymes, and contains rugae, whereas the small intestine is lined by transitional epithelium, absorbs bile salts, and lacks rugae."
+                    },
+                    {
+                        "question": "What is the anatomical location and significance of the ileocecal valve?",
+                        "goodAnswer": "The ileocecal valve is located at the junction of the ileum and cecum in the right iliac fossa, controlling the unidirectional flow of chyme from the ileum into the cecum and preventing reflux of colonic contents into the ileum.",
+                        "wrongAnswer_1": "The ileocecal valve is located at the junction of the duodenum and jejunum in the epigastric region, regulating the passage of chyme from the duodenum to the jejunum and preventing duodenogastric reflux.",
+                        "wrongAnswer_2": "The ileocecal valve is located at the junction of the sigmoid colon and rectum in the pelvic cavity, controlling the release of feces from the sigmoid colon into the rectum and preventing fecal incontinence.",
+                        "wrongAnswer_3": "The ileocecal valve is located at the gastroesophageal junction in the thoracic cavity, preventing gastroesophageal reflux and maintaining the separation between the esophagus and stomach.",
+                        "wrongAnswer_4": "The ileocecal valve is located at the anal canal, regulating the expulsion of feces from the body and preventing fecal incontinence."
+                    },
+                    {
+                        "question": "Describe the anatomical course and subdivisions of the colon.",
+                        "goodAnswer": "The colon begins at the cecum in the right iliac fossa, ascends as the ascending colon to the hepatic flexure, becomes the transverse colon across the abdomen, descends as the descending colon to the splenic flexure, becomes the sigmoid colon in the left iliac fossa, and continues as the rectum.",
+                        "wrongAnswer_1": "The colon begins at the pylorus, ascends as the duodenum to the duodenojejunal flexure, becomes the jejunum in the upper abdomen, descends as the ileum to the ileocecal valve, and continues as the cecum.",
+                        "wrongAnswer_2": "The colon begins at the esophagus, ascends as the cardia to the fundus, becomes the body in the mid-abdomen, descends as the antrum to the pylorus, and continues as the duodenum.",
+                        "wrongAnswer_3": "The colon begins at the nasal cavity, ascends as the nasopharynx to the oropharynx, becomes the laryngopharynx in the neck, descends as the trachea to the bronchi, and continues as the lungs.",
+                        "wrongAnswer_4": "The colon begins at the oral cavity, ascends as the vestibule to the oral cavity proper, becomes the tongue in the floor of the mouth, descends as the teeth to the gingivae, and continues as the palate."
+                    },
+                    {
+                        "question": "What are the anatomical differences between the rectum and the anal canal?",
+                        "goodAnswer": "The rectum is the pelvic segment of the large intestine, characterized by rectal ampulla and transverse rectal folds, while the anal canal is the terminal segment, located perineally, containing anal columns, sinuses, valves, and internal and external anal sphincters.",
+                        "wrongAnswer_1": "The rectum is the abdominal segment of the large intestine, characterized by haustra and teniae coli, while the anal canal is the initial segment, located in the right iliac fossa, containing the cecum and appendix.",
+                        "wrongAnswer_2": "The rectum is the thoracic segment of the digestive tract, characterized by esophageal glands and upper and lower esophageal sphincters, while the anal canal is the gastric segment, containing rugae and gastric pits.",
+                        "wrongAnswer_3": "The rectum is the nasal segment of the respiratory system, characterized by nasal conchae and olfactory epithelium, while the anal canal is the oral segment, containing teeth and tongue.",
+                        "wrongAnswer_4": "The rectum and anal canal are anatomically indistinguishable, both characterized by simple columnar epithelium and lacking muscular sphincters, serving solely for water absorption."
+                    }
+                ]
+            }
+        ]
+    }
+}

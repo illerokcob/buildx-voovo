@@ -1,0 +1,119 @@
+{
+    "mainTopic": {
+        "title": "Nitric Oxide",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of nitric oxide",
+                "quizzes": [
+                    {
+                        "question": "What is the primary enzymatic precursor and the key enzyme responsible for the endogenous production of nitric oxide (NO) in mammalian cells?",
+                        "goodAnswer": "L-arginine serves as the principal precursor, and the nitric oxide synthase (NOS) family of enzymes, including isoforms such as eNOS, nNOS, and iNOS, catalyze the conversion of L-arginine into NO and L-citrulline.",
+                        "wrongAnswer_1": "L-citrulline serves as the principal precursor, and the nitric oxide reductase (NOR) family of enzymes, including isoforms such as cNOR, mNOR, and pNOR, catalyze the conversion of L-citrulline into NO and L-arginine.",
+                        "wrongAnswer_2": "L-ornithine serves as the principal precursor, and the nitric oxide oxidase (NOX) family of enzymes, including isoforms such as NOX1, NOX2, and NOX5, catalyze the conversion of L-ornithine into NO and urea.",
+                        "wrongAnswer_3": "L-homoarginine serves as the principal precursor, and the nitric oxide dehydrogenase (NOD) family of enzymes, including isoforms such as NOD1, NOD2, and NOD3, catalyze the conversion of L-homoarginine into NO and L-lysine.",
+                        "wrongAnswer_4": "L-arginine serves as the principal precursor, and the arginase family of enzymes, including isoforms such as ARG1, ARG2, and ARG3, catalyze the conversion of L-arginine into NO and urea."
+                    },
+                    {
+                        "question": "Which of the following signaling mechanisms accurately describes the immediate intracellular action of nitric oxide (NO) leading to vasorelaxation in vascular smooth muscle cells?",
+                        "goodAnswer": "Nitric oxide diffuses into vascular smooth muscle cells, activating soluble guanylate cyclase (sGC), which subsequently increases intracellular levels of cyclic GMP (cGMP), leading to the activation of protein kinase G (PKG) and vasorelaxation.",
+                        "wrongAnswer_1": "Nitric oxide diffuses into vascular smooth muscle cells, activating adenylyl cyclase (AC), which subsequently increases intracellular levels of cyclic AMP (cAMP), leading to the activation of protein kinase A (PKA) and vasorelaxation.",
+                        "wrongAnswer_2": "Nitric oxide diffuses into vascular smooth muscle cells, inhibiting phosphodiesterase type 5 (PDE5), which subsequently prevents the breakdown of cyclic GMP (cGMP), leading to increased cGMP levels and vasoconstriction.",
+                        "wrongAnswer_3": "Nitric oxide diffuses into vascular smooth muscle cells, directly binding to and activating myosin light chain kinase (MLCK), which subsequently increases phosphorylation of myosin light chain, leading to vasoconstriction.",
+                        "wrongAnswer_4": "Nitric oxide diffuses into vascular smooth muscle cells, directly interacting with voltage-gated calcium channels, enhancing calcium influx and intracellular calcium concentration, resulting in sustained vasoconstriction."
+                    },
+                    {
+                        "question": "Nitric oxide (NO) is characterized by its short half-life in vivo, typically lasting only a few seconds. What is the primary biochemical mechanism responsible for this rapid inactivation of NO in biological systems?",
+                        "goodAnswer": "The rapid inactivation of nitric oxide is predominantly due to its spontaneous reaction with molecular oxygen and superoxide radicals, leading to the formation of nitrite and nitrate, and peroxynitrite in the presence of superoxide, respectively.",
+                        "wrongAnswer_1": "The rapid inactivation of nitric oxide is primarily mediated by its enzymatic degradation via nitric oxide reductase (NOR), which converts NO into nitrous oxide (N2O) and water in a process requiring NADH as a cofactor.",
+                        "wrongAnswer_2": "The rapid inactivation of nitric oxide is mainly due to its uptake and sequestration by erythrocytes, where it binds with high affinity to hemoglobin, forming stable nitrosylhemoglobin complexes that are biologically inert.",
+                        "wrongAnswer_3": "The rapid inactivation of nitric oxide is principally caused by its active transport out of cells via ATP-dependent transporters, specifically multidrug resistance-associated protein 1 (MRP1), reducing intracellular NO concentration.",
+                        "wrongAnswer_4": "The rapid inactivation of nitric oxide is predominantly due to its isomerization into a biologically inactive form, iso-nitric oxide (iso-NO), which is then slowly metabolized and excreted via renal pathways."
+                    },
+                    {
+                        "question": "Beyond its well-established role in vasodilation, nitric oxide (NO) participates in a diverse array of physiological and pathological processes. Which of the following accurately represents another significant physiological function attributed to NO?",
+                        "goodAnswer": "In neurotransmission, nitric oxide functions as a non-conventional neurotransmitter in both the central and peripheral nervous systems, implicated in synaptic plasticity, long-term potentiation, and modulation of neuronal excitability.",
+                        "wrongAnswer_1": "In glucose metabolism, nitric oxide serves as a crucial regulator of insulin synthesis and secretion by pancreatic beta cells, directly enhancing glucose uptake in peripheral tissues and promoting glycogen synthesis in the liver.",
+                        "wrongAnswer_2": "In erythropoiesis, nitric oxide acts as a potent stimulator of red blood cell production in the bone marrow, directly interacting with erythropoietin receptors on hematopoietic stem cells and augmenting erythroid differentiation.",
+                        "wrongAnswer_3": "In immune response, nitric oxide functions as a primary activator of the complement system, triggering the classical pathway cascade and enhancing opsonization and phagocytosis of pathogens by immune cells.",
+                        "wrongAnswer_4": "In thermoregulation, nitric oxide acts as a key mediator of body temperature homeostasis, primarily by inducing peripheral vasoconstriction in response to cold exposure and stimulating brown adipose tissue thermogenesis."
+                    }
+                ]
+            },
+            {
+                "title": "Nitric Oxide inhalation in ARDS",
+                "quizzes": [
+                    {
+                        "question": "What is the established primary mechanism by which inhaled nitric oxide (iNO) improves arterial oxygenation in adult patients diagnosed with Acute Respiratory Distress Syndrome (ARDS)?",
+                        "goodAnswer": "Inhaled nitric oxide selectively induces vasodilation in pulmonary vessels within well-ventilated lung regions, thereby redirecting pulmonary blood flow away from poorly ventilated, hypoxic areas towards better-ventilated alveoli, optimizing ventilation-perfusion matching and reducing intrapulmonary shunt.",
+                        "wrongAnswer_1": "Inhaled nitric oxide directly enhances the diffusion capacity of oxygen across the alveolar-capillary membrane by increasing the permeability of both the endothelial and epithelial barriers, thus facilitating gas exchange irrespective of ventilation distribution and improving oxygen uptake.",
+                        "wrongAnswer_2": "Inhaled nitric oxide exerts a systemic vasodilatory effect, reducing both pulmonary and systemic vascular resistance, which subsequently decreases afterload on both the right and left ventricles, indirectly improving cardiac output and enhancing oxygen delivery to the pulmonary circulation.",
+                        "wrongAnswer_3": "Inhaled nitric oxide functions as a potent bronchodilator, inducing relaxation of airway smooth muscle and reducing airway resistance throughout the bronchial tree, leading to improved alveolar ventilation and increased oxygen uptake, particularly in patients with underlying bronchospasm.",
+                        "wrongAnswer_4": "Inhaled nitric oxide stimulates the endogenous production and release of pulmonary surfactant by type II alveolar cells, thereby reducing alveolar surface tension and preventing alveolar collapse, consequently increasing functional residual capacity and improving overall oxygenation in ARDS."
+                    },
+                    {
+                        "question": "When considering the therapeutic application of inhaled nitric oxide (iNO) in the management of ARDS, what is a critical limitation regarding its demonstrated impact on patient-centered outcomes such as mortality?",
+                        "goodAnswer": "While inhaled nitric oxide consistently demonstrates improvements in oxygenation and reductions in pulmonary artery pressure in ARDS patients, robust clinical trials have not unequivocally shown a significant and sustained reduction in overall mortality rates in adult ARDS populations, suggesting it primarily serves as a supportive, temporizing measure.",
+                        "wrongAnswer_1": "Inhaled nitric oxide has been definitively proven to significantly reduce mortality across all etiologies and severity spectrums of ARDS, as it directly targets the underlying inflammatory cascade and prevents progression to irreversible multi-organ failure, establishing it as a cornerstone of ARDS-specific therapy.",
+                        "wrongAnswer_2": "Inhaled nitric oxide paradoxically increases mortality in patients with severe ARDS due to its potent pulmonary vasodilatory effects leading to profound systemic hypotension and subsequent impairment of cerebral perfusion, particularly in hemodynamically unstable individuals with pre-existing comorbidities.",
+                        "wrongAnswer_3": "Inhaled nitric oxide is absolutely contraindicated in ARDS patients with concomitant left ventricular systolic dysfunction because it markedly increases pulmonary blood flow, thereby exacerbating pulmonary edema and precipitously increasing mortality risk in this specific ARDS subgroup.",
+                        "wrongAnswer_4": "Inhaled nitric oxide therapy is consistently associated with a statistically significant increase in mortality due to the dose-dependent development of severe methemoglobinemia and subsequent critical tissue hypoxia, especially when administered at higher concentrations for extended durations in ARDS patients."
+                    },
+                    {
+                        "question": "What is the typically recommended initial dose range for inhaled nitric oxide (iNO) administration in adult patients suffering from ARDS, as commonly initiated in clinical practice settings?",
+                        "goodAnswer": "The generally recommended initial dose of inhaled nitric oxide for adult ARDS patients typically falls within the range of 2 to 20 parts per million (ppm), with subsequent titration guided by the individual patient's oxygenation response, hemodynamic parameters, and minimization of potential adverse effects, aiming for the lowest effective dose.",
+                        "wrongAnswer_1": "The standard initial dose of inhaled nitric oxide for adult ARDS patients is typically initiated at 40 to 80 parts per million (ppm), with rapid upward titration to 100 ppm considered if there is no immediate discernible improvement in arterial oxygenation within the first 30 to 60 minutes of treatment initiation.",
+                        "wrongAnswer_2": "The routine initial dose of inhaled nitric oxide for adult ARDS patients is conservatively started at 0.5 to 1 part per million (ppm), with extremely gradual increments of 0.5 ppm every 4 to 6 hours until a maximum dose of 5 ppm is reached or clinically significant oxygenation improvement is observed.",
+                        "wrongAnswer_3": "The established initial dose of inhaled nitric oxide for adult ARDS patients is rigorously weight-based, typically administered at 5 micrograms per kilogram per minute (mcg/kg/min) via continuous intravenous infusion, alongside inhaled nitrogen gas to facilitate pulmonary delivery and minimize systemic exposure.",
+                        "wrongAnswer_4": "The conventional initial dose of inhaled nitric oxide for adult ARDS patients is administered as a single bolus of 500 micrograms via nebulization, followed by intermittent bolus administrations of 250 micrograms every 6 hours as needed to maintain pre-determined oxygenation target ranges and hemodynamic stability."
+                    },
+                    {
+                        "question": "Discontinuation of inhaled nitric oxide (iNO) therapy in ARDS patients necessitates a meticulously executed weaning process to mitigate potential adverse consequences. What is the primary clinical risk associated with abrupt cessation of iNO administration in this patient population?",
+                        "goodAnswer": "Abrupt cessation of inhaled nitric oxide in ARDS patients can precipitate rebound pulmonary vasoconstriction and subsequent hypoxemia, potentially leading to a deterioration in oxygenation status, necessitating re-escalation of ventilatory support or re-initiation of iNO therapy, underscoring the importance of a gradual, stepwise weaning strategy.",
+                        "wrongAnswer_1": "Sudden discontinuation of inhaled nitric oxide can induce systemic hypotension due to the abrupt loss of systemic vasodilation previously maintained by iNO, potentially resulting in hemodynamic instability and requiring immediate vasopressor support to restore adequate systemic blood pressure and organ perfusion.",
+                        "wrongAnswer_2": "Rapid withdrawal of inhaled nitric oxide can trigger acute bronchospasm as a result of increased airway reactivity and smooth muscle contraction, necessitating immediate administration of bronchodilator therapy and potentially leading to respiratory distress and increased work of breathing.",
+                        "wrongAnswer_3": "Immediate cessation of inhaled nitric oxide can lead to a sudden surge in methemoglobin levels, as the body's endogenous compensatory mechanisms for methemoglobin reduction are overwhelmed, potentially resulting in clinically significant methemoglobinemia and subsequent tissue hypoxia.",
+                        "wrongAnswer_4": "Abrupt discontinuation of inhaled nitric oxide can induce a pronounced hyperinflammatory response within the pulmonary parenchyma, exacerbating underlying lung injury and significantly increasing the risk of ventilator-associated pneumonia and other nosocomial infectious complications in ARDS patients."
+                    }
+                ]
+            },
+            {
+                "title": "Nitric Oxide inhalation in neonatal respiratory failure",
+                "quizzes": [
+                    {
+                        "question": "In neonates experiencing respiratory failure, particularly those with Persistent Pulmonary Hypertension of the Newborn (PPHN), what is the principal therapeutic objective of initiating inhaled nitric oxide (iNO) therapy?",
+                        "goodAnswer": "The primary therapeutic goal of inhaled nitric oxide in neonates with PPHN is to selectively dilate the pulmonary vasculature, thereby reducing pulmonary artery pressure and reversing pathological right-to-left shunting through the foramen ovale and ductus arteriosus, ultimately improving pulmonary blood flow and systemic oxygenation.",
+                        "wrongAnswer_1": "The main therapeutic objective of inhaled nitric oxide is to induce systemic vasodilation in both pulmonary and systemic vascular beds, thereby decreasing systemic vascular resistance and augmenting cardiac output, with the ultimate aim of enhancing oxygen delivery to peripheral tissues and improving overall hemodynamic stability in neonatal respiratory failure.",
+                        "wrongAnswer_2": "The principal therapeutic goal of inhaled nitric oxide is to induce bronchodilation and reduce airway resistance throughout the neonatal respiratory system, thereby improving alveolar ventilation and gas exchange, particularly in neonates with bronchopulmonary dysplasia or meconium aspiration syndrome causing airway obstruction.",
+                        "wrongAnswer_3": "The primary therapeutic objective of inhaled nitric oxide is to stimulate endogenous surfactant production and reduce alveolar surface tension, preventing alveolar collapse and improving overall lung compliance, primarily in premature neonates with respiratory distress syndrome secondary to surfactant deficiency.",
+                        "wrongAnswer_4": "The main therapeutic objective of inhaled nitric oxide is to enhance mucociliary clearance and reduce airway secretions within the neonatal respiratory tract, thereby improving airway patency and decreasing the work of breathing in neonates with respiratory failure secondary to pneumonia or bronchiolitis."
+                    },
+                    {
+                        "question": "Which specific neonatal clinical condition is considered a primary and well-established indication for inhaled nitric oxide (iNO) therapy, owing to its demonstrated efficacy in improving clinically relevant outcomes?",
+                        "goodAnswer": "Persistent Pulmonary Hypertension of the Newborn (PPHN) is a primary indication for inhaled nitric oxide therapy, where iNO is utilized to effectively reduce pulmonary vascular resistance and improve arterial oxygenation in neonates diagnosed with this condition.",
+                        "wrongAnswer_1": "Respiratory Distress Syndrome (RDS) in premature infants constitutes the primary indication for inhaled nitric oxide therapy, as iNO directly addresses the underlying surfactant deficiency and improves lung compliance in these vulnerable neonates, leading to enhanced gas exchange.",
+                        "wrongAnswer_2": "Bronchiolitis obliterans in term infants represents the primary indication for inhaled nitric oxide therapy, where iNO helps to reverse the fixed airway obstruction characteristic of this condition and improve overall ventilation and oxygenation in affected patients.",
+                        "wrongAnswer_3": "Congenital Diaphragmatic Hernia (CDH) is considered the primary indication for inhaled nitric oxide therapy, as iNO effectively reduces pulmonary hypertension associated with pulmonary hypoplasia in neonates with CDH before surgical corrective interventions.",
+                        "wrongAnswer_4": "Necrotizing Enterocolitis (NEC) in preterm infants is the primary indication for inhaled nitric oxide therapy, as iNO improves mesenteric blood flow and reduces intestinal inflammation associated with NEC, thereby mitigating disease progression and improving neonatal outcomes."
+                    },
+                    {
+                        "question": "What is a commonly employed starting dose range for inhaled nitric oxide (iNO) when initiating therapy in neonates diagnosed with Persistent Pulmonary Hypertension of the Newborn (PPHN)?",
+                        "goodAnswer": "A typical starting dose of inhaled nitric oxide in neonates with PPHN generally ranges between 10 to 20 parts per million (ppm), which can be subsequently titrated based on continuous clinical assessment of the neonate's response and analysis of arterial blood gas parameters.",
+                        "wrongAnswer_1": "A typical starting dose of inhaled nitric oxide in neonates with PPHN is considerably higher, ranging between 40 to 60 parts per million (ppm), with the objective of achieving a rapid and substantial reduction in pulmonary artery pressure and immediate improvement in arterial oxygenation.",
+                        "wrongAnswer_2": "A typical starting dose of inhaled nitric oxide in neonates with PPHN is much lower, ranging between 2 to 5 parts per million (ppm), with a gradual escalation up to a maximum of 10 ppm if the initial therapeutic response is deemed inadequate or suboptimal.",
+                        "wrongAnswer_3": "A typical starting dose of inhaled nitric oxide in neonates with PPHN is weight-based, approximately 1 microgram per kilogram per minute (mcg/kg/min) administered via continuous intravenous infusion, and adjusted based on invasive pulmonary hemodynamic monitoring.",
+                        "wrongAnswer_4": "A typical starting dose of inhaled nitric oxide in neonates with PPHN involves a single bolus administration of 100 micrograms via endotracheal instillation, followed by intermittent bolus administrations of 50 micrograms every 6 hours as clinically indicated."
+                    },
+                    {
+                        "question": "During the administration of inhaled nitric oxide (iNO) therapy in neonates, which specific monitoring parameter is considered crucial for the timely detection of potential adverse effects, particularly methemoglobinemia?",
+                        "goodAnswer": "Continuous or intermittent monitoring of methemoglobin levels in arterial or capillary blood is of paramount importance during iNO therapy in neonates, as prolonged exposure, especially at higher doses, can lead to methemoglobinemia, reducing oxygen-carrying capacity and potentially causing tissue hypoxia.",
+                        "wrongAnswer_1": "Routine monitoring of serum creatinine levels is crucial during iNO therapy in neonates, as iNO has been associated with nephrotoxicity, particularly in neonates with pre-existing renal dysfunction, necessitating vigilant monitoring for dose adjustments or therapy discontinuation.",
+                        "wrongAnswer_2": "Regular monitoring of platelet counts is essential during iNO therapy in neonates, as iNO can induce thrombocytopenia, increasing the risk of bleeding complications, particularly in preterm infants with pre-existing coagulopathies or other hematological vulnerabilities.",
+                        "wrongAnswer_3": "Consistent monitoring of liver function tests (LFTs), including ALT and AST, is crucial during iNO therapy in neonates, as iNO can potentially cause hepatotoxicity, particularly in neonates with underlying hepatic disease, necessitating close liver function surveillance.",
+                        "wrongAnswer_4": "Frequent monitoring of blood glucose levels is essential during iNO therapy in neonates, as iNO has been implicated in inducing hyperglycemia, particularly in preterm infants with insulin resistance or immature glucose homeostasis mechanisms, necessitating close glucose control during therapy."
+                    }
+                ]
+            }
+        ]
+    }
+}

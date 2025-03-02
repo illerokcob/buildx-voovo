@@ -1,0 +1,124 @@
+{
+    "mainTopic": {
+        "title": "Aortic stenosis",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "In the context of pneumonia, what is the primary mechanism by which bacterial pathogens like Streptococcus pneumoniae initiate infection in the lower respiratory tract?",
+                        "goodAnswer": "Aspiration of oropharyngeal secretions containing the bacteria, followed by adherence to alveolar epithelial cells and evasion of host defenses such as mucociliary clearance.",
+                        "wrongAnswer_1": "Hematogenous spread from a distant site of infection, characterized by initial colonization of the pleural space and subsequent invasion into the lung parenchyma via lymphatic channels.",
+                        "wrongAnswer_2": "Inhalation of aerosolized droplets containing the bacteria, leading to direct deposition in the bronchioles and immediate destruction of the alveolar-capillary membrane.",
+                        "wrongAnswer_3": "Direct inoculation through a penetrating chest wound, resulting in localized infection of the lung tissue and rapid progression to necrotizing pneumonia due to compromised immune response.",
+                        "wrongAnswer_4": "Reactivation of latent bacterial infection within pulmonary macrophages, triggered by immunosuppression and causing a granulomatous inflammatory response that spreads to adjacent alveoli."
+                    },
+                    {
+                        "question": "Which of the following pathophysiological processes is most directly responsible for the hypoxemia observed in patients with severe pneumonia?",
+                        "goodAnswer": "Ventilation-perfusion mismatch due to alveolar consolidation and inflammation, leading to impaired gas exchange and reduced oxygen diffusion capacity across the thickened alveolar-capillary membrane.",
+                        "wrongAnswer_1": "Pulmonary vasoconstriction induced by inflammatory mediators, resulting in increased pulmonary vascular resistance and reduced blood flow to ventilated lung regions, thereby decreasing oxygen uptake.",
+                        "wrongAnswer_2": "Increased dead space ventilation due to destruction of alveolar walls and formation of large air spaces, causing reduced effective alveolar ventilation and decreased overall oxygen saturation.",
+                        "wrongAnswer_3": "Central hypoventilation secondary to systemic inflammatory response syndrome (SIRS), leading to decreased respiratory drive and inadequate alveolar ventilation, resulting in carbon dioxide retention and hypoxemia.",
+                        "wrongAnswer_4": "Shunting of deoxygenated blood through intrapulmonary arteriovenous fistulae, bypassing ventilated alveoli and mixing with oxygenated blood, causing a significant reduction in arterial oxygen partial pressure."
+                    },
+                    {
+                        "question": "What is the role of the inflammatory response in the pathogenesis of pneumonia caused by respiratory viruses such as influenza virus?",
+                        "goodAnswer": "The viral infection triggers a robust innate immune response, including release of cytokines and chemokines, leading to alveolar inflammation, edema, and influx of immune cells, which contributes to lung injury and impaired gas exchange.",
+                        "wrongAnswer_1": "Viral replication directly destroys alveolar epithelial cells, causing immediate lung necrosis and hemorrhage, with minimal involvement of the host immune system in the initial stages of disease progression.",
+                        "wrongAnswer_2": "The virus induces a predominantly Th2-mediated immune response, characterized by eosinophilic infiltration and mucus hypersecretion in the bronchioles, leading to airway obstruction and secondary bacterial infection.",
+                        "wrongAnswer_3": "Respiratory viruses primarily suppress the host immune system, resulting in opportunistic bacterial superinfection as the main cause of pneumonia and lung damage, rather than direct viral pathogenesis.",
+                        "wrongAnswer_4": "The inflammatory response is minimal and protective, effectively containing the viral infection within the upper respiratory tract, and pneumonia only develops in immunocompromised individuals due to failure of viral clearance."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which constellation of clinical signs and symptoms is most suggestive of typical bacterial pneumonia, as opposed to atypical or viral pneumonia?",
+                        "goodAnswer": "Sudden onset of high fever, productive cough with purulent sputum, pleuritic chest pain, and lobar consolidation on auscultation, often accompanied by rigors and leukocytosis.",
+                        "wrongAnswer_1": "Gradual onset of low-grade fever, dry cough, headache, myalgia, and bilateral patchy infiltrates on chest X-ray, with minimal sputum production and less localized auscultatory findings.",
+                        "wrongAnswer_2": "Abrupt onset of severe dyspnea, non-productive cough, diffuse bilateral crackles, and hypoxemia out of proportion to radiographic findings, frequently associated with underlying cardiac disease.",
+                        "wrongAnswer_3": "Insidious onset of chronic cough with mucopurulent sputum, night sweats, weight loss, and apical lung infiltrates on chest X-ray, commonly seen in individuals with prior tuberculosis exposure.",
+                        "wrongAnswer_4": "Acute onset of wheezing, shortness of breath, chest tightness, and cough exacerbated by allergens or irritants, typically presenting with hyperinflation and diffuse wheezes on auscultation."
+                    },
+                    {
+                        "question": "In the clinical assessment of a patient with suspected pneumonia, which auscultatory finding is most specific for alveolar consolidation?",
+                        "goodAnswer": "Bronchial breath sounds heard in the peripheral lung fields, characterized by harsh, loud sounds during both inspiration and expiration, with a pause between them, indicating air conduction through consolidated lung tissue.",
+                        "wrongAnswer_1": "Vesicular breath sounds with fine crackles at the lung bases, heard predominantly during inspiration, suggesting fluid accumulation in the small airways and alveoli, consistent with early pneumonia or pulmonary edema.",
+                        "wrongAnswer_2": "Wheezing and rhonchi heard throughout the chest, predominantly during expiration, indicative of airway narrowing and mucus plugging, typically associated with asthma or chronic bronchitis exacerbation.",
+                        "wrongAnswer_3": "Decreased or absent breath sounds in a localized area, suggesting pleural effusion or pneumothorax, which may mimic pneumonia but lacks alveolar consolidation.",
+                        "wrongAnswer_4": "Pleural friction rub, a grating or scratching sound heard during both inspiration and expiration, indicating inflammation of the pleural surfaces, which can be present in pleurisy secondary to pneumonia but is not specific to consolidation."
+                    },
+                    {
+                        "question": "What is the significance of 'rusty sputum' in the clinical presentation of pneumonia?",
+                        "goodAnswer": "It is classically associated with Streptococcus pneumoniae pneumonia, indicating alveolar hemorrhage and the presence of altered hemoglobin in the sputum, though not exclusively diagnostic.",
+                        "wrongAnswer_1": "It is pathognomonic for Klebsiella pneumoniae pneumonia, characterized by thick, mucoid sputum with a reddish-brown color due to extensive lung necrosis and cavitation.",
+                        "wrongAnswer_2": "It suggests Pseudomonas aeruginosa pneumonia, indicating a severe necrotizing infection with greenish-yellow purulent sputum due to pyocyanin production by the bacteria.",
+                        "wrongAnswer_3": "It is characteristic of viral pneumonia, where the sputum is typically blood-tinged and watery due to diffuse alveolar damage and capillary leak caused by the viral infection.",
+                        "wrongAnswer_4": "It is indicative of aspiration pneumonia, where the sputum is foul-smelling and purulent, reflecting a polymicrobial infection with anaerobic bacteria from the oropharynx and stomach."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which diagnostic modality is considered the initial imaging study of choice for confirming the presence of pneumonia in a patient presenting with respiratory symptoms?",
+                        "goodAnswer": "Chest radiography (CXR), specifically posteroanterior (PA) and lateral views, to visualize lung infiltrates, consolidation, or pleural effusions, providing rapid and readily available confirmation of pulmonary pathology.",
+                        "wrongAnswer_1": "Computed tomography (CT) scan of the chest, with intravenous contrast, to obtain high-resolution images of the lung parenchyma and mediastinum, primarily used for evaluating complex cases or complications of pneumonia.",
+                        "wrongAnswer_2": "Pulmonary function tests (PFTs), including spirometry and lung volumes, to assess airflow obstruction and lung capacity, primarily useful for differentiating pneumonia from chronic obstructive pulmonary disease (COPD) exacerbation.",
+                        "wrongAnswer_3": "Bronchoscopy with bronchoalveolar lavage (BAL), to obtain lower respiratory tract secretions for microbiological analysis and cytological examination, primarily indicated for immunocompromised patients or suspected unusual pathogens.",
+                        "wrongAnswer_4": "Ventilation-perfusion (V/Q) scan, to detect pulmonary embolism by assessing regional lung ventilation and perfusion, primarily used to rule out pulmonary embolism as a differential diagnosis of acute dyspnea and chest pain."
+                    },
+                    {
+                        "question": "In the microbiological diagnosis of pneumonia, what is the most clinically relevant specimen to obtain for identifying the causative pathogen in a non-intubated patient with community-acquired pneumonia?",
+                        "goodAnswer": "Sputum sample, obtained by expectoration after deep cough, for Gram stain and culture, aiming to identify the predominant bacterial pathogen and guide antibiotic therapy, although quality and sensitivity can be variable.",
+                        "wrongAnswer_1": "Blood cultures, drawn from two separate sites, to detect bacteremia and identify bloodstream pathogens, primarily indicated in patients with severe pneumonia or sepsis, but less sensitive for identifying the primary pulmonary pathogen.",
+                        "wrongAnswer_2": "Nasopharyngeal swab or aspirate, for viral PCR testing, to identify respiratory viruses such as influenza or RSV, primarily useful in patients with suspected viral pneumonia or during respiratory viral outbreaks.",
+                        "wrongAnswer_3": "Urine antigen testing for Legionella pneumophila and Streptococcus pneumoniae, to detect specific bacterial antigens in urine, offering rapid diagnosis but limited to these two pathogens and potential for false positives.",
+                        "wrongAnswer_4": "Pleural fluid aspirate (thoracentesis), obtained from pleural effusion, for Gram stain, culture, and cell count, primarily indicated in patients with parapneumonic effusion or empyema to guide drainage and antibiotic management."
+                    },
+                    {
+                        "question": "When considering the differential diagnosis of pneumonia, which condition most closely mimics the clinical and radiographic presentation of lobar pneumonia caused by Streptococcus pneumoniae?",
+                        "goodAnswer": "Pulmonary embolism with infarction, which can present with acute pleuritic chest pain, hemoptysis, and lobar consolidation on chest X-ray, requiring exclusion through appropriate diagnostic testing such as CT pulmonary angiography.",
+                        "wrongAnswer_1": "Acute exacerbation of chronic obstructive pulmonary disease (COPD), characterized by increased cough, sputum production, and wheezing, but typically with diffuse airway obstruction rather than lobar consolidation on imaging.",
+                        "wrongAnswer_2": "Congestive heart failure with pulmonary edema, presenting with dyspnea, orthopnea, and bilateral crackles, but typically with cardiomegaly and vascular congestion on chest X-ray, and without focal consolidation.",
+                        "wrongAnswer_3": "Pneumothorax, characterized by sudden onset of pleuritic chest pain and dyspnea, but with hyperresonance and decreased breath sounds on physical exam, and air in the pleural space on chest X-ray, distinct from lung consolidation.",
+                        "wrongAnswer_4": "Lung cancer, which may present with chronic cough, weight loss, and hemoptysis, but typically with a more insidious onset and focal mass lesion on chest X-ray or CT, rather than acute infectious symptoms and lobar consolidation."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "According to current guidelines for community-acquired pneumonia (CAP) in previously healthy adults, what is the recommended first-line empirical antibiotic therapy for outpatient management?",
+                        "goodAnswer": "Amoxicillin or doxycycline or a macrolide (azithromycin or clarithromycin) in regions with low macrolide resistance, selected based on local resistance patterns and patient-specific factors.",
+                        "wrongAnswer_1": "Intravenous ceftriaxone plus azithromycin, administered in the outpatient setting, to provide broad-spectrum coverage against common CAP pathogens, including drug-resistant Streptococcus pneumoniae.",
+                        "wrongAnswer_2": "Oral fluoroquinolones (levofloxacin or moxifloxacin) as monotherapy, to ensure coverage against atypical pathogens and penicillin-resistant pneumococci, regardless of local resistance prevalence.",
+                        "wrongAnswer_3": "Trimethoprim-sulfamethoxazole (TMP-SMX) alone, to target Pneumocystis jirovecii pneumonia and common bacterial pathogens, particularly in patients with underlying HIV infection or immunosuppression.",
+                        "wrongAnswer_4": "Oral vancomycin, to treat suspected methicillin-resistant Staphylococcus aureus (MRSA) pneumonia in the outpatient setting, especially in patients with recent hospitalization or risk factors for MRSA colonization."
+                    },
+                    {
+                        "question": "In a hospitalized patient with severe community-acquired pneumonia (CAP) requiring intensive care unit (ICU) admission, which initial antibiotic regimen is typically recommended to provide broad-spectrum coverage?",
+                        "goodAnswer": "Beta-lactam antibiotic (e.g., ceftriaxone, cefepime, piperacillin-tazobactam) plus azithromycin or a respiratory fluoroquinolone (levofloxacin or moxifloxacin), to cover Streptococcus pneumoniae, Legionella, and atypical pathogens.",
+                        "wrongAnswer_1": "Vancomycin plus meropenem, to target methicillin-resistant Staphylococcus aureus (MRSA) and Pseudomonas aeruginosa, particularly in patients with risk factors for these pathogens or prior antibiotic failure.",
+                        "wrongAnswer_2": "Daptomycin monotherapy, to treat suspected gram-positive bacterial pneumonia, including MRSA and penicillin-resistant pneumococci, while minimizing the risk of nephrotoxicity associated with aminoglycosides.",
+                        "wrongAnswer_3": "Oral doxycycline and oral metronidazole, to cover anaerobic bacteria and atypical pathogens, primarily for aspiration pneumonia in patients with poor oral hygiene or risk of aspiration.",
+                        "wrongAnswer_4": "Inhaled ribavirin and intravenous acyclovir, to treat severe viral pneumonia caused by influenza virus or herpes simplex virus, respectively, especially in immunocompromised patients or during viral outbreaks."
+                    },
+                    {
+                        "question": "What is the role of adjunctive corticosteroid therapy in the management of severe community-acquired pneumonia (CAP)?",
+                        "goodAnswer": "In selected patients with severe CAP and evidence of systemic inflammation or acute respiratory distress syndrome (ARDS), corticosteroids may be considered to modulate the inflammatory response and potentially improve outcomes, but routine use is not recommended and risks and benefits should be carefully weighed.",
+                        "wrongAnswer_1": "Corticosteroids are routinely recommended for all patients with CAP to reduce inflammation and prevent long-term lung damage, regardless of disease severity or presence of ARDS.",
+                        "wrongAnswer_2": "Corticosteroids are contraindicated in CAP due to the risk of immunosuppression and increased susceptibility to secondary bacterial or fungal infections, outweighing any potential anti-inflammatory benefits.",
+                        "wrongAnswer_3": "Corticosteroids are specifically indicated for CAP caused by atypical pathogens such as Mycoplasma pneumoniae or Chlamydophila pneumoniae to enhance antibiotic efficacy and shorten the duration of illness.",
+                        "wrongAnswer_4": "Corticosteroids should be administered in high doses for prolonged periods in all patients with CAP to suppress the inflammatory response and prevent the development of antibiotic resistance, irrespective of clinical severity."
+                    }
+                ]
+            }
+        ]
+    }
+}

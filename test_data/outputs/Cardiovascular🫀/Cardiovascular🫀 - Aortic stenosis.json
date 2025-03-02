@@ -1,0 +1,132 @@
+{
+    "mainTopic": {
+        "title": "Aortic stenosis",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "In the context of community-acquired pneumonia (CAP), what is the most critical initial step in the pathogenesis of infection by Streptococcus pneumoniae?",
+                        "goodAnswer": "Adherence of pneumococci to the alveolar epithelial cells facilitated by bacterial surface adhesins like choline-binding proteins and subsequent evasion of innate immune clearance mechanisms.",
+                        "wrongAnswer_1": "Direct invasion of the bloodstream from the nasopharynx, leading to hematogenous seeding of the lung parenchyma and subsequent inflammatory response within the alveolar spaces.",
+                        "wrongAnswer_2": "Disruption of the bronchial mucosal barrier by viral co-infection, allowing for bacterial translocation from the upper respiratory tract to the distal airways and alveolar sacs.",
+                        "wrongAnswer_3": "Suppression of alveolar macrophage phagocytic activity by bacterial pneumolysin, promoting uninhibited bacterial proliferation and dissemination throughout the lung lobes.",
+                        "wrongAnswer_4": "Induction of excessive mucus production by pneumococcal neuraminidase, causing airway obstruction and distal atelectasis, which predisposes to secondary bacterial colonization and infection."
+                    },
+                    {
+                        "question": "Which pathophysiological mechanism primarily accounts for the development of hypoxemia in patients with lobar pneumonia due to alveolar consolidation?",
+                        "goodAnswer": "Ventilation-perfusion (V/Q) mismatch resulting from alveolar filling with inflammatory exudate, causing reduced ventilation to perfused lung regions and intrapulmonary shunting of deoxygenated blood.",
+                        "wrongAnswer_1": "Diffusion impairment across the alveolar-capillary membrane thickened by edema and inflammatory cells, significantly reducing the oxygen transfer rate from alveoli to pulmonary capillaries.",
+                        "wrongAnswer_2": "Increased pulmonary vascular resistance due to hypoxic vasoconstriction in the consolidated lung areas, leading to reduced pulmonary blood flow and overall decrease in systemic oxygen delivery.",
+                        "wrongAnswer_3": "Reduction in total lung capacity and vital capacity due to extensive alveolar consolidation, limiting the overall gas exchange surface area and causing a restrictive ventilatory defect.",
+                        "wrongAnswer_4": "Central hypoventilation secondary to systemic inflammatory cytokines affecting the respiratory centers in the brainstem, leading to decreased respiratory rate and tidal volume, and subsequent hypoxemia."
+                    },
+                    {
+                        "question": "What is the principal mechanism by which viral infections, such as influenza, predispose individuals to secondary bacterial pneumonia?",
+                        "goodAnswer": "Viral-induced damage to the respiratory epithelium, disruption of mucociliary clearance, and immune system modulation, facilitating bacterial adherence, invasion, and reduced host defense against bacterial pathogens.",
+                        "wrongAnswer_1": "Viral stimulation of excessive mucus production in the bronchioles, leading to airway obstruction and creating an anaerobic environment conducive to bacterial overgrowth and subsequent infection.",
+                        "wrongAnswer_2": "Viral activation of latent bacterial colonies within the lung parenchyma, triggering bacterial proliferation and a synergistic inflammatory response that exacerbates lung injury and pneumonia.",
+                        "wrongAnswer_3": "Viral suppression of the complement system, reducing opsonization and phagocytosis of bacterial pathogens, thereby allowing for unchecked bacterial replication and spread in the lungs.",
+                        "wrongAnswer_4": "Viral alteration of the gut microbiome, leading to translocation of opportunistic bacterial pathogens from the gastrointestinal tract to the respiratory system via lymphatic channels, causing secondary pneumonia."
+                    },
+                    {
+                        "question": "In the pathophysiology of aspiration pneumonia, which of the following factors is most crucial in determining the severity and clinical course of the disease?",
+                        "goodAnswer": "The volume and nature of the aspirated material, including pH, bacterial load, and presence of particulate matter, which directly influence the extent of chemical pneumonitis and secondary bacterial infection.",
+                        "wrongAnswer_1": "The patient's pre-existing mucociliary clearance efficiency, as impaired clearance predisposes to prolonged retention of aspirated material and increased risk of developing chronic lung inflammation.",
+                        "wrongAnswer_2": "The genetic predisposition of the individual to mount an exaggerated inflammatory response to aspirated gastric contents, leading to more severe lung injury and acute respiratory distress syndrome (ARDS).",
+                        "wrongAnswer_3": "The presence of underlying structural lung disease, such as bronchiectasis or emphysema, which increases susceptibility to infection and alters the distribution pattern of aspirated material within the lungs.",
+                        "wrongAnswer_4": "The immunocompetence of the individual, particularly the neutrophil and macrophage function, which dictates the ability to clear aspirated bacteria and limit the progression of infection and tissue damage."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which clinical finding is most indicative of pleuritic chest pain associated with pneumonia, differentiating it from other causes of chest discomfort?",
+                        "goodAnswer": "Sharp, localized pain exacerbated by deep inspiration or coughing, typically described as a stabbing or catching sensation, reflecting inflammation of the parietal pleura.",
+                        "wrongAnswer_1": "Dull, aching pain radiating to the arm and jaw, worsened by exertion and relieved by rest, suggesting cardiac ischemia as the underlying cause of chest discomfort.",
+                        "wrongAnswer_2": "Burning, retrosternal pain aggravated by lying down and associated with sour taste in the mouth, indicative of gastroesophageal reflux disease (GERD) related chest pain.",
+                        "wrongAnswer_3": "Squeezing, central chest pressure accompanied by shortness of breath and sweating, irrespective of respiratory movements, pointing towards acute coronary syndrome as the primary concern.",
+                        "wrongAnswer_4": "Constant, band-like chest tightness that is not influenced by breathing or body position, often associated with anxiety or musculoskeletal pain syndromes."
+                    },
+                    {
+                        "question": "During physical examination for suspected pneumonia, which percussion note abnormality is most likely to be elicited over an area of lobar consolidation?",
+                        "goodAnswer": "Dullness to percussion, indicating decreased air-filled space in the lung tissue due to alveolar consolidation and fluid accumulation, contrasting with the normal resonance of aerated lung.",
+                        "wrongAnswer_1": "Hyperresonance to percussion, suggesting increased air within the pleural space or lung parenchyma, typically associated with pneumothorax or emphysema rather than consolidation.",
+                        "wrongAnswer_2": "Tympany to percussion, a drum-like sound elicited over air-filled cavities, which is more characteristic of large pulmonary bullae or pneumothorax but not alveolar consolidation.",
+                        "wrongAnswer_3": "Resonance with diaphragmatic elevation, indicating reduced lung volume or pleural effusion, which may be present in pneumonia but is not specific to alveolar consolidation itself.",
+                        "wrongAnswer_4": "Normal resonance, suggesting no significant alteration in lung tissue density, which would argue against the presence of substantial lobar consolidation from pneumonia."
+                    },
+                    {
+                        "question": "In assessing a patient with suspected pneumonia, which of the following sputum characteristics is least likely to be associated with typical bacterial pneumonia caused by Streptococcus pneumoniae?",
+                        "goodAnswer": "Profuse, watery, and odorless sputum, typically suggestive of viral infections or non-infectious pulmonary edema, rather than the purulent sputum of bacterial pneumonia.",
+                        "wrongAnswer_1": "Purulent sputum, characterized by thick, opaque, yellowish or greenish color, indicating the presence of neutrophils and bacterial debris, common in bacterial pneumonia.",
+                        "wrongAnswer_2": "Rusty sputum, denoting the presence of altered blood and hemoglobin breakdown products, classically associated with pneumococcal pneumonia due to alveolar hemorrhage.",
+                        "wrongAnswer_3": "Mucoid sputum, a thick, white or clear sputum, which can be seen in early stages of bacterial pneumonia or in patients with underlying chronic bronchitis.",
+                        "wrongAnswer_4": "Blood-tinged sputum (hemoptysis), which can occur in bacterial pneumonia due to inflammation and erosion of small blood vessels in the bronchial tree or alveoli."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "When differentiating pneumonia from acute bronchitis, which radiographic finding is most specific to pneumonia and typically absent in acute bronchitis?",
+                        "goodAnswer": "Presence of pulmonary infiltrates or consolidation on chest radiograph, indicating parenchymal involvement characteristic of pneumonia, whereas bronchitis is primarily an airway inflammation without parenchymal changes.",
+                        "wrongAnswer_1": "Increased bronchovascular markings on chest radiograph, which can be observed in both acute bronchitis and pneumonia due to airway inflammation and congestion, lacking specificity.",
+                        "wrongAnswer_2": "Pleural effusion on chest radiograph, which may occur in complicated pneumonia but is not a consistent finding and can be absent in both pneumonia and acute bronchitis.",
+                        "wrongAnswer_3": "Hyperinflation of the lungs on chest radiograph, typically associated with obstructive lung diseases like asthma or COPD exacerbation, and not specific to differentiating pneumonia from bronchitis.",
+                        "wrongAnswer_4": "Normal chest radiograph findings, which are more consistent with acute bronchitis, but early or mild pneumonia may also present without obvious radiographic abnormalities, reducing specificity."
+                    },
+                    {
+                        "question": "In the diagnostic workup of pneumonia, which microbiological test provides the most rapid and specific identification of Streptococcus pneumoniae directly from a sputum sample?",
+                        "goodAnswer": "Gram stain of sputum, allowing for rapid microscopic visualization of Gram-positive diplococci characteristic of S. pneumoniae, though culture is needed for definitive identification and susceptibility testing.",
+                        "wrongAnswer_1": "Sputum culture on blood agar, which is essential for confirming bacterial growth and performing antibiotic susceptibility testing, but typically requires 24-48 hours for results, not immediate identification.",
+                        "wrongAnswer_2": "Urine antigen test for Streptococcus pneumoniae, providing rapid detection of pneumococcal antigen in urine, but less direct for sputum analysis and may have lower sensitivity in early infection.",
+                        "wrongAnswer_3": "PCR assay for Streptococcus pneumoniae DNA in sputum, offering high sensitivity and specificity, but may not be as readily available or rapid as Gram stain in routine clinical settings.",
+                        "wrongAnswer_4": "Acid-fast bacilli (AFB) stain of sputum, used to detect Mycobacterium tuberculosis, not relevant for rapid identification of Streptococcus pneumoniae and targets a different pathogen."
+                    },
+                    {
+                        "question": "Which clinical scenario would most strongly suggest the diagnosis of aspiration pneumonia over community-acquired pneumonia (CAP) in a patient presenting with new onset lung infiltrates?",
+                        "goodAnswer": "Patient with a history of stroke and dysphagia, presenting with right lower lobe infiltrate and foul-smelling sputum, indicative of oropharyngeal aspiration and anaerobic bacterial involvement.",
+                        "wrongAnswer_1": "Previously healthy young adult presenting with acute onset of fever, productive cough with rusty sputum, and lobar consolidation, typical of classic community-acquired pneumococcal pneumonia.",
+                        "wrongAnswer_2": "Elderly patient with chronic obstructive pulmonary disease (COPD) exacerbation, presenting with bilateral wheezing and increased sputum production, more consistent with bronchitis or COPD exacerbation.",
+                        "wrongAnswer_3": "Immunocompromised patient with gradual onset of dry cough, dyspnea, and diffuse interstitial infiltrates, raising suspicion for opportunistic infections like Pneumocystis jirovecii pneumonia.",
+                        "wrongAnswer_4": "Patient with recent travel history to an area with endemic tuberculosis, presenting with chronic cough, night sweats, and apical lung infiltrate, suggesting pulmonary tuberculosis as the primary diagnosis."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "In the outpatient management of community-acquired pneumonia (CAP) for a patient with significant comorbidities and risk factors for drug-resistant Streptococcus pneumoniae, which antibiotic regimen is most appropriate as initial empirical therapy?",
+                        "goodAnswer": "Combination therapy with a beta-lactam (e.g., amoxicillin-clavulanate or cefpodoxime) plus a macrolide (e.g., azithromycin) or doxycycline, to broaden coverage and address potential resistance.",
+                        "wrongAnswer_1": "Monotherapy with a narrow-spectrum penicillin (e.g., penicillin V) to target typical pneumococcal pneumonia, minimizing antibiotic pressure and risk of collateral damage in low-resistance settings.",
+                        "wrongAnswer_2": "Monotherapy with a first-generation cephalosporin (e.g., cephalexin) to cover common community-acquired pathogens, while avoiding broader-spectrum agents and reducing potential side effects.",
+                        "wrongAnswer_3": "Monotherapy with a respiratory fluoroquinolone (e.g., levofloxacin or moxifloxacin) to provide broad-spectrum coverage and ensure activity against atypical pathogens and resistant pneumococci.",
+                        "wrongAnswer_4": "Combination therapy with vancomycin and gentamicin to cover methicillin-resistant Staphylococcus aureus (MRSA) and gram-negative bacteria, primarily indicated for hospital-acquired pneumonia or specific risk factors."
+                    },
+                    {
+                        "question": "For a hospitalized patient with severe community-acquired pneumonia (CAP) complicated by septic shock, which of the following is the most critical initial management strategy in addition to antibiotic therapy?",
+                        "goodAnswer": "Prompt hemodynamic resuscitation with intravenous fluids and vasopressors as needed to maintain adequate tissue perfusion and oxygen delivery, addressing the life-threatening circulatory failure.",
+                        "wrongAnswer_1": "Immediate initiation of non-invasive positive pressure ventilation (NIPPV) to improve oxygenation and reduce work of breathing, irrespective of hemodynamic stability or need for fluid resuscitation.",
+                        "wrongAnswer_2": "Empirical antifungal therapy with an echinocandin to cover for potential invasive fungal infections, especially in immunocompromised patients or those with prolonged antibiotic exposure.",
+                        "wrongAnswer_3": "Prophylactic anticoagulation with low molecular weight heparin to prevent venous thromboembolism, a common complication in hospitalized patients with severe infections and immobility.",
+                        "wrongAnswer_4": "Nutritional support with early enteral feeding to maintain caloric intake and prevent muscle wasting, irrespective of hemodynamic status or immediate resuscitation needs in septic shock."
+                    },
+                    {
+                        "question": "What is the primary indication for considering a switch from intravenous to oral antibiotics in a hospitalized patient being treated for community-acquired pneumonia (CAP)?",
+                        "goodAnswer": "Clinical stability, indicated by improvement in vital signs, resolution of fever, decreased respiratory distress, and ability to tolerate oral medications, ensuring effective oral absorption and continued treatment.",
+                        "wrongAnswer_1": "Completion of a minimum of 7 days of intravenous antibiotic therapy, regardless of clinical response or ongoing signs of infection, adhering to a fixed duration of IV treatment.",
+                        "wrongAnswer_2": "Normalization of inflammatory markers, such as C-reactive protein (CRP) and white blood cell count, indicating resolution of systemic inflammation and readiness for de-escalation of therapy.",
+                        "wrongAnswer_3": "Radiographic improvement on follow-up chest X-ray, demonstrating resolution of lung infiltrates and consolidation, confirming eradication of pneumonia and suitability for oral continuation.",
+                        "wrongAnswer_4": "Patient preference for oral medication and desire to be discharged from the hospital, prioritizing patient comfort and convenience over objective clinical criteria for treatment transition."
+                    }
+                ]
+            }
+        ]
+    }
+}

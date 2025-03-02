@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Ovarian failure",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Causes, Phases",
+                "quizzes": [
+                    {
+                        "question": "What is the primary physiological cause initiating the menopausal transition in women?",
+                        "goodAnswer": "The progressive depletion of ovarian follicles, resulting in decreased production of estradiol and inhibin B, leading to diminished negative feedback on the hypothalamic-pituitary axis and subsequent FSH increase.",
+                        "wrongAnswer_1": "An abrupt surge in pituitary luteinizing hormone (LH) secretion, causing premature luteinization of remaining ovarian follicles and a sudden cessation of estrogen production.",
+                        "wrongAnswer_2": "Autoimmune destruction of ovarian granulosa cells, leading to a rapid decline in estrogen synthesis and a compensatory increase in follicle-stimulating hormone (FSH) levels.",
+                        "wrongAnswer_3": "Dysfunction of the hypothalamic pulse generator, causing erratic gonadotropin-releasing hormone (GnRH) secretion and subsequent disruption of ovarian steroidogenesis.",
+                        "wrongAnswer_4": "Increased peripheral aromatization of androgens to estrogens, leading to a feedback inhibition of ovarian function and premature ovarian failure."
+                    },
+                    {
+                        "question": "Which hormonal profile most accurately characterizes the early perimenopausal phase?",
+                        "goodAnswer": "Elevated follicle-stimulating hormone (FSH) levels with estradiol levels within the normal premenopausal range but exhibiting increased fluctuations and decreased inhibin B.",
+                        "wrongAnswer_1": "Consistently suppressed follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels due to negative feedback from persistently elevated estradiol concentrations.",
+                        "wrongAnswer_2": "Progressive decline in both follicle-stimulating hormone (FSH) and estradiol levels, accompanied by a significant increase in progesterone production from the ovaries.",
+                        "wrongAnswer_3": "Stable follicle-stimulating hormone (FSH) levels within the normal range, but with a marked increase in estradiol and a decrease in progesterone throughout the menstrual cycle.",
+                        "wrongAnswer_4": "Markedly elevated luteinizing hormone (LH) levels with suppressed follicle-stimulating hormone (FSH) and fluctuating estradiol levels indicative of polycystic ovarian syndrome."
+                    },
+                    {
+                        "question": "What is the currently accepted clinical criterion for diagnosing menopause retrospectively?",
+                        "goodAnswer": "Twelve consecutive months of amenorrhea, in the absence of pregnancy or other obvious pathological conditions, reflecting sustained ovarian follicular exhaustion and minimal estrogen production.",
+                        "wrongAnswer_1": "Serum follicle-stimulating hormone (FSH) levels consistently exceeding 40 mIU/mL on two separate measurements taken at least one month apart, irrespective of menstrual status.",
+                        "wrongAnswer_2": "A single measurement of serum anti-M\u00fcllerian hormone (AMH) below the limit of detection, indicating complete depletion of the ovarian primordial follicle pool.",
+                        "wrongAnswer_3": "Transvaginal ultrasound demonstrating the absence of antral follicles in both ovaries, suggesting complete ovarian follicle depletion and irreversible cessation of ovarian function.",
+                        "wrongAnswer_4": "Combined hormonal assays showing suppressed estradiol levels (<20 pg/mL) and elevated LH levels (>25 mIU/mL) in conjunction with reported cessation of menses for six months."
+                    }
+                ]
+            },
+            {
+                "title": "Symptoms, Reduced ovarian function, Sexual function decline, Bone density evaluation, Osteoporosis detection",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the pathophysiology of vasomotor symptoms (VMS) experienced during menopause?",
+                        "goodAnswer": "Hypothalamic thermoregulatory dysfunction due to estrogen withdrawal, leading to a narrowed thermoneutral zone and exaggerated responses to minor increases in core body temperature, manifesting as hot flashes.",
+                        "wrongAnswer_1": "Peripheral vasodilation caused by increased nitric oxide production in response to declining estrogen levels, resulting in sudden sensations of heat and flushing primarily in the extremities.",
+                        "wrongAnswer_2": "Adrenal gland hyperactivity leading to excessive catecholamine release, which directly stimulates heat production and triggers sweating and palpitations characteristic of hot flashes.",
+                        "wrongAnswer_3": "Disruption of the serotonergic neurotransmitter system in the central nervous system, causing erratic temperature regulation and episodic sensations of heat and cold, known as vasomotor instability.",
+                        "wrongAnswer_4": "Increased metabolic rate and thyroid hormone activity associated with estrogen deficiency, leading to elevated body temperature and subjective feelings of warmth, particularly during sleep."
+                    },
+                    {
+                        "question": "By what primary mechanism does reduced ovarian function contribute to the decline in sexual function during menopause?",
+                        "goodAnswer": "Estrogen deficiency-induced urogenital atrophy, decreasing vaginal blood flow, lubrication, and elasticity, leading to dyspareunia, reduced sensation, and diminished libido.",
+                        "wrongAnswer_1": "Elevated follicle-stimulating hormone (FSH) levels directly interfering with neuronal pathways involved in sexual arousal and orgasm, causing generalized sexual dysfunction.",
+                        "wrongAnswer_2": "Progesterone withdrawal leading to decreased central nervous system excitability and reduced sensitivity of peripheral nerve endings in the genital area, impairing sexual responsiveness.",
+                        "wrongAnswer_3": "Increased androgen-to-estrogen ratio causing clitoral hypertrophy and hypersensitivity, leading to pain and discomfort during sexual activity and subsequent avoidance of intercourse.",
+                        "wrongAnswer_4": "Changes in hypothalamic-pituitary-adrenal (HPA) axis activity resulting in elevated cortisol levels, which suppress libido and contribute to psychological barriers to sexual function."
+                    },
+                    {
+                        "question": "Which bone densitometry technique is considered the gold standard for diagnosing osteoporosis and assessing fracture risk in postmenopausal women?",
+                        "goodAnswer": "Dual-energy X-ray absorptiometry (DXA) at the hip and lumbar spine, providing areal bone mineral density (aBMD) measurements and T-scores for diagnostic classification and fracture prediction.",
+                        "wrongAnswer_1": "Quantitative computed tomography (QCT) of the peripheral skeleton, offering volumetric bone mineral density (vBMD) assessment and detailed trabecular bone architecture analysis at distal radius.",
+                        "wrongAnswer_2": "Ultrasound bone densitometry of the calcaneus, utilizing broadband ultrasound attenuation (BUA) and speed of sound (SOS) to estimate bone density and predict fracture probability at the heel.",
+                        "wrongAnswer_3": "Single-photon absorptiometry (SPA) of the mid-radius, employing a radionuclide source to measure bone mineral content and assess fracture risk primarily at the forearm cortical bone.",
+                        "wrongAnswer_4": "Magnetic resonance imaging (MRI) based trabecular bone scoring (TBS), evaluating bone microarchitecture independently of BMD to enhance fracture risk assessment, particularly at the lumbar spine."
+                    },
+                    {
+                        "question": "According to the World Health Organization (WHO) diagnostic criteria for osteoporosis based on DXA measurements, what T-score range is indicative of osteoporosis?",
+                        "goodAnswer": "T-score less than or equal to -2.5 at the lumbar spine, femoral neck, or total hip, representing a bone mineral density 2.5 standard deviations or more below the young adult female reference mean.",
+                        "wrongAnswer_1": "T-score between -1.0 and -2.5 at any skeletal site, classifying the individual as having osteopenia, indicative of moderately reduced bone mineral density and increased fracture susceptibility.",
+                        "wrongAnswer_2": "T-score greater than -1.0 at all measured skeletal sites, indicating normal bone mineral density and a fracture risk comparable to that of young healthy adults of the same sex.",
+                        "wrongAnswer_3": "T-score between -2.0 and -3.5 specifically at the lumbar spine, defining severe osteoporosis characterized by prevalent vertebral fractures and significantly elevated fracture hazard.",
+                        "wrongAnswer_4": "T-score less than or equal to -3.0 regardless of the skeletal measurement site, suggesting established severe osteoporosis with a history of fragility fractures at multiple locations."
+                    }
+                ]
+            },
+            {
+                "title": "Women's health initiative, Estrogen Replacement Therapy, Hormone Replacement Therapy, Recommendations For Hormone Replacement Therapy Use",
+                "quizzes": [
+                    {
+                        "question": "What were the principal outcomes of the estrogen plus progestin arm of the Women's Health Initiative (WHI) study regarding cardiovascular disease and breast cancer risk?",
+                        "goodAnswer": "The WHI trial demonstrated an increased risk of coronary heart disease, stroke, venous thromboembolism, and invasive breast cancer in women receiving combined estrogen and progestin compared to placebo.",
+                        "wrongAnswer_1": "The WHI study revealed a significant reduction in the incidence of cardiovascular events and breast cancer among women using combined hormone therapy, particularly with early initiation post-menopause.",
+                        "wrongAnswer_2": "The WHI trial indicated no statistically significant difference in the rates of major cardiovascular events or breast cancer between the combined hormone therapy group and the placebo group.",
+                        "wrongAnswer_3": "The WHI study suggested that while combined hormone therapy increased the risk of venous thromboembolism, it offered protective effects against breast cancer and coronary artery disease.",
+                        "wrongAnswer_4": "The WHI trial concluded that combined hormone therapy only elevated the risk of stroke in women over 70 years old, with no increased risk for other cardiovascular outcomes or breast cancer in younger participants."
+                    },
+                    {
+                        "question": "What is the fundamental distinction between Estrogen Replacement Therapy (ERT) and Hormone Replacement Therapy (HRT) in the context of menopausal management?",
+                        "goodAnswer": "ERT involves the administration of estrogen alone, primarily indicated for women post-hysterectomy, whereas HRT typically combines estrogen with a progestogen for women with a uterus to prevent endometrial hyperplasia.",
+                        "wrongAnswer_1": "ERT refers to the use of synthetic estrogens, while HRT exclusively utilizes bioidentical hormones, with ERT being favored for women with a history of estrogen-sensitive malignancies.",
+                        "wrongAnswer_2": "ERT is generally administered orally, whereas HRT is predominantly delivered transdermally, with transdermal HRT considered safer due to reduced hepatic first-pass metabolism and lower thrombotic risk.",
+                        "wrongAnswer_3": "ERT is primarily intended for short-term relief of vasomotor symptoms, while HRT is designed for long-term management of osteoporosis and cardiovascular disease prevention in postmenopausal women.",
+                        "wrongAnswer_4": "ERT focuses solely on replacing estrogen, while HRT aims to replace both estrogen and androgen hormones to address a broader spectrum of menopausal symptoms including sexual dysfunction and cognitive decline."
+                    },
+                    {
+                        "question": "According to current guidelines for Hormone Replacement Therapy (HRT) prescription, what is the recommended approach regarding dosage and duration of therapy?",
+                        "goodAnswer": "HRT should be initiated at the lowest effective dose for the shortest duration necessary to alleviate bothersome menopausal symptoms, with periodic reassessment of risks and benefits to guide continuation.",
+                        "wrongAnswer_1": "HRT should commence with a high loading dose to rapidly resolve symptoms, followed by gradual dose reduction to a maintenance level for extended use to maximize long-term preventive benefits.",
+                        "wrongAnswer_2": "HRT should be continued indefinitely at a consistent dose to ensure sustained benefits for bone health and cardiovascular protection in all postmenopausal women, regardless of symptom resolution.",
+                        "wrongAnswer_3": "HRT dosage should be strictly titrated based on serum hormone levels, aiming to restore premenopausal estrogen concentrations irrespective of symptom severity or individual risk profiles.",
+                        "wrongAnswer_4": "HRT should be administered cyclically, mimicking the natural menstrual cycle, to minimize potential side effects and maintain hormonal balance over prolonged periods of postmenopausal life."
+                    },
+                    {
+                        "question": "Which factor is paramount in personalizing the decision to initiate Hormone Replacement Therapy (HRT) for an individual menopausal woman?",
+                        "goodAnswer": "A comprehensive evaluation encompassing the woman's symptom burden, medical history, risk factors for hormone-sensitive conditions, and informed preferences regarding therapeutic options and potential risks.",
+                        "wrongAnswer_1": "The woman's chronological age at menopause onset, with HRT being routinely recommended for all women experiencing natural menopause regardless of symptom severity or pre-existing health conditions.",
+                        "wrongAnswer_2": "The presence of established osteoporosis or elevated fracture risk, making HRT a first-line treatment modality irrespective of other contraindications or cardiovascular risk factors.",
+                        "wrongAnswer_3": "A strong family history of Alzheimer's disease or cognitive impairment, as HRT is considered a primary prophylactic intervention against neurodegenerative disorders in postmenopausal women.",
+                        "wrongAnswer_4": "Quantitative serum hormone level assessments, with HRT initiation solely predicated on the degree of estrogen deficiency detected in laboratory hormone measurements, independent of clinical context."
+                    }
+                ]
+            },
+            {
+                "title": "Cardiovascular Disease, Breast Cancer, Stroke and Pulmonary Embolism, Fractures, Colon Cancer, Cognitive Function,",
+                "quizzes": [
+                    {
+                        "question": "What is the current understanding of the relationship between Hormone Replacement Therapy (HRT) and cardiovascular disease (CVD) risk in postmenopausal women, considering the timing hypothesis?",
+                        "goodAnswer": "Initiation of HRT closer to menopause onset (within 10 years or <60 years) may have a neutral or potentially beneficial effect on CVD risk, while initiation in older women may increase CVD risk, supporting the timing hypothesis.",
+                        "wrongAnswer_1": "HRT consistently reduces the risk of cardiovascular disease in all postmenopausal women, irrespective of age at initiation or type of HRT regimen, providing uniform cardioprotective benefits.",
+                        "wrongAnswer_2": "HRT significantly increases the risk of cardiovascular disease in all postmenopausal women, necessitating avoidance of HRT in favor of non-hormonal therapies for symptom management to mitigate CVD risk.",
+                        "wrongAnswer_3": "HRT has no discernible impact on cardiovascular disease risk in postmenopausal women, with CVD outcomes being solely determined by traditional risk factors such as hypertension, hyperlipidemia, and smoking status.",
+                        "wrongAnswer_4": "HRT selectively increases the risk of peripheral artery disease but confers protective effects against coronary artery disease and stroke, resulting in a net neutral effect on overall cardiovascular morbidity."
+                    },
+                    {
+                        "question": "How does combined Hormone Replacement Therapy (cHRT) with estrogen and progestin influence the risk of breast cancer in postmenopausal women based on long-term observational and trial data?",
+                        "goodAnswer": "Long-term use of cHRT (typically >5 years) is associated with a small but statistically significant increased relative risk of breast cancer, with the risk attenuating after cessation of therapy.",
+                        "wrongAnswer_1": "cHRT significantly reduces the risk of breast cancer in postmenopausal women, particularly when initiated early in menopause and continued for extended durations, offering chemoprotective benefits.",
+                        "wrongAnswer_2": "cHRT has no effect on breast cancer risk in postmenopausal women, with breast cancer incidence being primarily determined by genetic predisposition and modifiable lifestyle factors unrelated to HRT use.",
+                        "wrongAnswer_3": "cHRT preferentially increases the risk of aggressive, rapidly proliferating breast cancers but conversely reduces the risk of indolent, slower-growing breast cancer subtypes in postmenopausal women.",
+                        "wrongAnswer_4": "cHRT exclusively elevates the risk of lobular carcinoma in situ (LCIS), a non-invasive breast condition, without impacting the incidence of invasive ductal or lobular breast carcinomas."
+                    },
+                    {
+                        "question": "What is the established effect of Hormone Replacement Therapy (HRT) on the risk of stroke and venous thromboembolism (VTE) in postmenopausal women, differentiating by route of administration?",
+                        "goodAnswer": "Oral estrogen and combined HRT are associated with a slightly increased risk of stroke and VTE, with oral estrogen posing a higher thrombotic risk compared to transdermal estrogen, which may have a lower risk profile.",
+                        "wrongAnswer_1": "HRT significantly reduces the risk of both stroke and VTE in postmenopausal women, primarily due to its favorable effects on lipid profiles and anticoagulant properties, irrespective of route of administration.",
+                        "wrongAnswer_2": "HRT has no impact on the risk of stroke and VTE in postmenopausal women, with these thromboembolic events being solely determined by pre-existing cardiovascular conditions and lifestyle choices, independent of HRT use.",
+                        "wrongAnswer_3": "HRT selectively increases the risk of arterial thromboembolism (stroke) but provides protective effects against venous thromboembolism (VTE), resulting in a balanced overall thromboembolic risk profile.",
+                        "wrongAnswer_4": "Transdermal estrogen completely eliminates the risk of stroke and VTE associated with HRT, making it a universally safe alternative to oral formulations for all women, regardless of baseline thrombotic risk."
+                    },
+                    {
+                        "question": "How does Hormone Replacement Therapy (HRT) influence the risk of fractures, specifically osteoporotic fractures, in postmenopausal women at risk of osteoporosis?",
+                        "goodAnswer": "HRT effectively reduces the risk of vertebral and hip fractures by increasing bone mineral density and improving bone quality, particularly in women at elevated risk of osteoporosis or with established low bone mass.",
+                        "wrongAnswer_1": "HRT paradoxically increases the risk of all types of fractures, including osteoporotic fractures, due to its potential adverse effects on bone remodeling dynamics and bone microarchitectural integrity.",
+                        "wrongAnswer_2": "HRT has no significant impact on fracture risk in postmenopausal women, with fracture prevention being primarily dependent on non-pharmacological interventions such as calcium and vitamin D supplementation and weight-bearing exercise.",
+                        "wrongAnswer_3": "HRT exclusively reduces the risk of wrist fractures but demonstrates no discernible effect on the risk of vertebral or hip fractures, the most clinically significant osteoporotic fracture types, in postmenopausal women.",
+                        "wrongAnswer_4": "HRT initially reduces fracture risk, but this protective effect wanes after 5 years of continuous use, necessitating the sequential implementation of alternative bone-protective strategies for long-term fracture prevention."
+                    },
+                    {
+                        "question": "What is the current evidence regarding the effect of Hormone Replacement Therapy (HRT) on cognitive function and the risk of dementia, including Alzheimer's disease, in postmenopausal women?",
+                        "goodAnswer": "Current evidence suggests that HRT does not prevent cognitive decline or dementia and may potentially increase the risk of dementia, particularly Alzheimer's disease, if initiated in women over 65 years of age, with no proven cognitive benefits.",
+                        "wrongAnswer_1": "HRT consistently improves cognitive function and significantly reduces the risk of Alzheimer's disease and other forms of dementia in all postmenopausal women, irrespective of age at initiation or duration of therapy, offering neuroprotective benefits.",
+                        "wrongAnswer_2": "HRT exerts a protective effect against cognitive decline only if initiated early in perimenopause, with no cognitive benefit and potential for harm when started in late postmenopause, aligning with a critical window hypothesis.",
+                        "wrongAnswer_3": "HRT selectively improves specific cognitive domains such as verbal memory and executive function but has no demonstrable effect on overall cognitive function or the long-term risk of dementia in postmenopausal women.",
+                        "wrongAnswer_4": "HRT primarily prevents vascular dementia but has no impact on the risk of Alzheimer's disease or other neurodegenerative dementias, indicating a subtype-specific effect on dementia risk reduction."
+                    }
+                ]
+            }
+        ]
+    }
+}

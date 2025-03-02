@@ -1,0 +1,127 @@
+{
+    "mainTopic": {
+        "title": "Female pelvic anatomy",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Uterus",
+                "quizzes": [
+                    {
+                        "question": "Which uterine layer is characterized by its responsiveness to hormonal fluctuations throughout the menstrual cycle, undergoing cyclic proliferation and shedding?",
+                        "goodAnswer": "The endometrium, the innermost layer, is highly responsive to hormonal changes, leading to its cyclical regeneration and desquamation during menstruation under estrogen and progesterone influence.",
+                        "wrongAnswer_1": "The myometrium, the middle layer, is composed of smooth muscle and exhibits significant changes in thickness and contractility, directly shedding during the menstrual phase due to hormonal withdrawal.",
+                        "wrongAnswer_2": "The perimetrium, the outermost serosal layer, directly interacts with hormonal signals to initiate the proliferative phase of the endometrial lining and is shed along with the functional layer.",
+                        "wrongAnswer_3": "The basalis layer, the deepest part of the endometrium, shows the most pronounced cyclic changes and is fully shed during menstruation, while the functionalis remains to regenerate.",
+                        "wrongAnswer_4": "The stratum functionalis, a component of the myometrium, is shed monthly under the influence of estrogen withdrawal, regenerating from the stratum basalis of the myometrium."
+                    },
+                    {
+                        "question": "What is the primary role of the myometrium during parturition and what hormonal influence most directly facilitates this function?",
+                        "goodAnswer": "The myometrium's primary role is to facilitate uterine contractions during labor, a process primarily stimulated and coordinated by oxytocin released from the posterior pituitary gland, enhancing contractility.",
+                        "wrongAnswer_1": "The myometrium supports implantation by providing a stable foundation for the developing embryo, a function heavily reliant on progesterone produced by the corpus luteum, which also induces myometrial relaxation.",
+                        "wrongAnswer_2": "The myometrium contributes to cervical dilation during labor through enzymatic degradation of collagen, regulated predominantly by relaxin secreted by the ovaries, softening the myometrial tissue.",
+                        "wrongAnswer_3": "The myometrium plays a crucial role in sperm transport by generating peristaltic waves, a process mainly driven by estrogen secreted by the developing follicles, increasing myometrial excitability.",
+                        "wrongAnswer_4": "The myometrium prevents uterine prolapse by maintaining tonic contraction, influenced by continuous release of follicle-stimulating hormone from the anterior pituitary, tonifying the smooth muscle."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the blood supply to the uterus, detailing the primary arterial source and its branching pattern?",
+                        "goodAnswer": "The primary arterial supply is from the uterine artery, a branch of the internal iliac artery, which branches into arcuate arteries that encircle the uterus, further branching into radial arteries penetrating the myometrium and endometrium.",
+                        "wrongAnswer_1": "The uterine blood supply originates primarily from the ovarian artery, branching directly into spiral arteries that supply the endometrium and arcuate arteries that supply the myometrium, bypassing the uterine artery.",
+                        "wrongAnswer_2": "The external iliac artery gives rise to the uterine artery, which directly supplies the basalis layer of the endometrium and forms a network of capillary beds within the myometrium, without forming arcuate arteries.",
+                        "wrongAnswer_3": "The uterine artery, stemming from the common iliac artery, initially forms radial arteries in the myometrium, which then give rise to arcuate arteries located in the endometrium, reversing the branching order.",
+                        "wrongAnswer_4": "Venous drainage of the uterus is primarily via the uterine vein, which directly empties into the inferior vena cava, bypassing the iliac veins entirely, and arterial supply comes from external iliac artery."
+                    },
+                    {
+                        "question": "Considering the layers of the uterus, which layer is predominantly composed of smooth muscle and is responsible for uterine contractions?",
+                        "goodAnswer": "The myometrium is the thick middle layer of the uterus, primarily composed of smooth muscle fibers arranged in multiple directions, enabling powerful uterine contractions during childbirth and menstruation.",
+                        "wrongAnswer_1": "The endometrium, the inner mucosal layer, contains a significant proportion of smooth muscle, which facilitates the shedding of the functional layer during menstruation and contributes to uterine contractility.",
+                        "wrongAnswer_2": "The perimetrium, the outer serosal layer, includes a thin layer of smooth muscle that contributes to overall uterine tone and support within the pelvic cavity, and is the primary contractile layer.",
+                        "wrongAnswer_3": "The parametrium, the connective tissue surrounding the uterus, is rich in smooth muscle, extending from the cervix and supporting the lower uterine segment during pregnancy and labor contractions.",
+                        "wrongAnswer_4": "The stratum basalis, a deep layer of the endometrium, is predominantly smooth muscle and regenerates the stratum functionalis after menstruation, also contributing to uterine contractions."
+                    }
+                ]
+            },
+            {
+                "title": "Histology",
+                "quizzes": [
+                    {
+                        "question": "Which type of epithelium predominantly lines the endometrial surface and glands, and what is its key functional characteristic?",
+                        "goodAnswer": "Simple columnar epithelium with cilia and secretory cells lines the endometrial surface and glands, facilitating secretion of uterine milk and movement of fluids and embryos within the uterine cavity.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, characterized by multiple layers of cells, lines the endometrial surface, providing protection against abrasion and infection from the vaginal canal, and facilitating secretion.",
+                        "wrongAnswer_2": "Transitional epithelium, capable of stretching and distending, lines the endometrial glands, allowing for significant changes in gland volume during the menstrual cycle and preventing secretion.",
+                        "wrongAnswer_3": "Pseudostratified columnar epithelium with goblet cells lines the endometrial surface, primarily focused on mucus production to trap pathogens and debris within the uterus and inhibiting fluid movement.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, known for its absorptive capabilities, lines the endometrial glands, actively absorbing nutrients and fluids from the uterine lumen and producing viscous secretions."
+                    },
+                    {
+                        "question": "Describe the histological composition of the endometrial stroma in the proliferative phase and its key cellular component.",
+                        "goodAnswer": "In the proliferative phase, the endometrial stroma is cellular and composed primarily of spindle-shaped stromal cells, along with a sparse extracellular matrix containing reticular fibers and developing blood vessels, under estrogen influence.",
+                        "wrongAnswer_1": "During the proliferative phase, the endometrial stroma is dense and fibrous, characterized by abundant collagen fibers and few stromal cells, providing structural support to the endometrium under progesterone influence.",
+                        "wrongAnswer_2": "The stroma in the proliferative phase is edematous and loosely arranged, dominated by leukocytes and macrophages in preparation for potential implantation during the secretory phase, not the proliferative.",
+                        "wrongAnswer_3": "In the proliferative phase, the endometrial stroma is acellular and gelatinous, composed mainly of hyaluronic acid and proteoglycans, facilitating rapid endometrial growth but lacking cellular components.",
+                        "wrongAnswer_4": "The proliferative stroma is characterized by decidualized cells with large, polygonal shapes and glycogen-rich cytoplasm, indicating preparation for implantation, a feature of the secretory phase not proliferative."
+                    },
+                    {
+                        "question": "What are spiral arteries, and how do their histological characteristics and function change throughout the menstrual cycle?",
+                        "goodAnswer": "Spiral arteries are specialized arteries in the endometrium characterized by their coiled structure and responsiveness to hormonal changes, undergoing cyclical growth, coiling, and vasoconstriction leading to endometrial ischemia and shedding during menstruation.",
+                        "wrongAnswer_1": "Spiral arteries are large-diameter, straight arteries within the myometrium that supply the basalis layer of the endometrium with a constant blood flow, unaffected by hormonal fluctuations and not involved in menstruation.",
+                        "wrongAnswer_2": "Spiral arteries are thin-walled capillaries located in the superficial endometrium, primarily responsible for nutrient exchange and exhibiting minimal changes during the cycle, not causing endometrial shedding.",
+                        "wrongAnswer_3": "Spiral arteries are venous sinusoids within the endometrium that fill with blood during the secretory phase, contributing to endometrial thickening but not involved in vasoconstriction or menstruation directly.",
+                        "wrongAnswer_4": "Spiral arteries are lymphatic vessels in the endometrium that drain excess fluid and waste products, showing cyclical changes in permeability but not in structure or blood flow related to menstruation."
+                    },
+                    {
+                        "question": "Contrast the histological appearance of endometrial glands in the proliferative versus secretory phases of the menstrual cycle.",
+                        "goodAnswer": "In the proliferative phase, endometrial glands are straight and tubular with narrow lumens, lined by pseudostratified columnar epithelium; in the secretory phase, they become coiled and tortuous with dilated lumens and subnuclear vacuolization followed by intracellular glycogen accumulation.",
+                        "wrongAnswer_1": "In the proliferative phase, glands are widely dilated and saccular, filled with secretions; in the secretory phase, they are compressed and atrophic with minimal secretory activity and straight lumens.",
+                        "wrongAnswer_2": "In the proliferative phase, glands are branched and complex with pseudostratified epithelium; in the secretory phase, they simplify to simple cuboidal epithelium with reduced branching and straight appearance.",
+                        "wrongAnswer_3": "In both proliferative and secretory phases, endometrial glands maintain a consistent appearance: straight tubular structures lined by simple columnar epithelium without significant changes in coiling or secretion.",
+                        "wrongAnswer_4": "In the proliferative phase, glands are absent or rudimentary; they develop and mature only during the secretory phase under the influence of progesterone, appearing coiled from the start of development."
+                    }
+                ]
+            },
+            {
+                "title": "Abnormal bleeding",
+                "quizzes": [
+                    {
+                        "question": "Define 'menorrhagia' according to established gynecological terminology and its key characteristics.",
+                        "goodAnswer": "Menorrhagia is defined as abnormally heavy or prolonged menstrual bleeding at regular intervals, characterized by excessive blood loss that interferes with a woman's physical, emotional, social, and material quality of life.",
+                        "wrongAnswer_1": "Menorrhagia refers to irregular uterine bleeding between expected menstrual periods, often light in flow and associated with hormonal imbalances, and unrelated to the menstrual cycle.",
+                        "wrongAnswer_2": "Menorrhagia is the absence of menstrual bleeding for three or more consecutive cycles, typically caused by pregnancy, menopause, or certain medical conditions, representing amenorrhea not heavy bleeding.",
+                        "wrongAnswer_3": "Menorrhagia describes infrequent menstrual bleeding occurring at intervals longer than 35 days, usually associated with ovulatory dysfunction, defining oligomenorrhea rather than heavy bleeding.",
+                        "wrongAnswer_4": "Menorrhagia is characterized by painful menstrual bleeding, often accompanied by systemic symptoms like nausea and vomiting, and is primarily related to endometriosis, defining dysmenorrhea not heavy bleeding."
+                    },
+                    {
+                        "question": "Differentiate between 'metrorrhagia' and 'menometrorrhagia' in terms of their bleeding patterns and relationship to the menstrual cycle.",
+                        "goodAnswer": "Metrorrhagia is irregular bleeding between expected menstrual periods, while menometrorrhagia is heavy, prolonged, and irregular bleeding occurring at frequent and unpredictable intervals, lacking a cyclic pattern.",
+                        "wrongAnswer_1": "Metrorrhagia is heavy and prolonged menstrual bleeding, while menometrorrhagia is light spotting only occurring during ovulation and mid-cycle, representing opposite ends of bleeding severity spectrum.",
+                        "wrongAnswer_2": "Metrorrhagia and menometrorrhagia are synonymous terms, both describing heavy and prolonged menstrual bleeding occurring at regular 28-day intervals, lacking distinction in pattern or regularity.",
+                        "wrongAnswer_3": "Metrorrhagia is bleeding after menopause, while menometrorrhagia is bleeding before menarche in prepubertal girls, both considered abnormal uterine bleeding but specific to age groups.",
+                        "wrongAnswer_4": "Metrorrhagia is predictable bleeding occurring exactly mid-cycle, while menometrorrhagia is unpredictable bleeding occurring only during the luteal phase, suggesting cycle relatedness in both terms."
+                    },
+                    {
+                        "question": "Which classification system, widely used in gynecology, categorizes the causes of abnormal uterine bleeding into structural and non-structural etiologies?",
+                        "goodAnswer": "The PALM-COEIN classification system is used to categorize abnormal uterine bleeding, dividing causes into structural (PALM) and non-structural (COEIN) etiologies, facilitating diagnosis and management strategies based on underlying causes.",
+                        "wrongAnswer_1": "The FIGO classification system primarily categorizes abnormal uterine bleeding based on the duration and severity of bleeding episodes, without differentiating between structural and non-structural causes, focusing on symptoms rather than etiology.",
+                        "wrongAnswer_2": "The Bethesda system is used to classify abnormal uterine bleeding based on cytological findings from endometrial biopsies, focusing mainly on precancerous and cancerous lesions, not broad categorization of causes.",
+                        "wrongAnswer_3": "The WHO classification system categorizes abnormal uterine bleeding according to hormonal profiles and endocrine disorders, neglecting structural abnormalities of the uterus, limiting scope to hormonal imbalances.",
+                        "wrongAnswer_4": "The Rotterdam criteria are used to classify abnormal uterine bleeding related to polycystic ovary syndrome (PCOS) only, not addressing other structural or non-structural causes of general abnormal uterine bleeding."
+                    },
+                    {
+                        "question": "In the context of abnormal uterine bleeding, what does 'PALM' stand for in the PALM-COEIN classification system, and what type of causes does it represent?",
+                        "goodAnswer": "In PALM-COEIN, 'PALM' stands for Polyp, Adenomyosis, Leiomyoma, and Malignancy and hyperplasia, representing structural causes of abnormal uterine bleeding that are often identifiable through imaging techniques like ultrasound or hysteroscopy.",
+                        "wrongAnswer_1": "In PALM-COEIN, 'PALM' stands for Pain, Anovulation, Luteal phase defect, and Menopause, representing hormonal and ovulatory dysfunction causes of abnormal uterine bleeding, falling under the COEIN category not PALM.",
+                        "wrongAnswer_2": "In PALM-COEIN, 'PALM' stands for Progesterone, Androgens, Luteinizing hormone, and Menstruation, representing hormonal factors directly influencing the menstrual cycle and bleeding patterns, not structural uterine pathologies.",
+                        "wrongAnswer_3": "In PALM-COEIN, 'PALM' stands for Pregnancy-related, Autoimmune, Liver disease, and Medications, representing systemic conditions and iatrogenic causes contributing to abnormal uterine bleeding, part of COEIN, not PALM.",
+                        "wrongAnswer_4": "In PALM-COEIN, 'PALM' stands for Psychological stress, Anxiety, Lifestyle factors, and Malnutrition, representing lifestyle and psychological factors indirectly affecting uterine bleeding, not direct structural uterine abnormalities."
+                    },
+                    {
+                        "question": "Explain the 'COEIN' component of the PALM-COEIN classification system for abnormal uterine bleeding, detailing the categories it encompasses.",
+                        "goodAnswer": "COEIN encompasses non-structural causes: Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, and Not yet classified, representing bleeding disorders, hormonal imbalances, primary endometrial disorders, medication-related factors, and cases without clear classification.",
+                        "wrongAnswer_1": "COEIN in PALM-COEIN refers to structural abnormalities: Cystic changes, Outpouchings, Erosions, Intramural lesions, and Neoplasms, all detectable via imaging techniques and belonging to the PALM category not COEIN.",
+                        "wrongAnswer_2": "COEIN represents congenital uterine anomalies: Cavity defects, Obstructions, Endometrial polyps, Intrauterine adhesions, and Nulliparity, focusing on developmental and anatomical uterine issues, which are structural and part of PALM.",
+                        "wrongAnswer_3": "COEIN pertains to infectious causes: Cervicitis, Oophoritis, Endometritis, Intra-abdominal infections, and systemic infections, emphasizing inflammatory and infectious etiologies of bleeding, which are often structural or iatrogenic.",
+                        "wrongAnswer_4": "COEIN includes contraceptive-related issues: Combined hormonal contraception, Oral progestogens, Estrogen therapy, Intrauterine devices, and Natural methods, specifically addressing contraception-induced bleeding problems, a subset of Iatrogenic but too narrow."
+                    }
+                ]
+            }
+        ]
+    }
+}

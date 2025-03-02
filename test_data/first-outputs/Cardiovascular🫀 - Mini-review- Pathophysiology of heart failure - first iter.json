@@ -1,0 +1,135 @@
+{
+    "mainTopic": {
+        "title": "Mini-review: Pathophysiology of heart failure",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Systolic dysfunction, Diastolic dysfunction",
+                "quizzes": [
+                    {
+                        "question": "In systolic heart failure, which of the following is the most characteristic hemodynamic abnormality?",
+                        "goodAnswer": "Reduced left ventricular ejection fraction (LVEF) due to impaired contractility, leading to decreased cardiac output despite normal or elevated preload.",
+                        "wrongAnswer_1": "Elevated left ventricular ejection fraction (LVEF) due to increased contractility, leading to increased cardiac output despite reduced preload.",
+                        "wrongAnswer_2": "Normal left ventricular ejection fraction (LVEF) with preserved contractility, maintaining normal cardiac output regardless of preload conditions.",
+                        "wrongAnswer_3": "Markedly increased left ventricular ejection fraction (LVEF) with hyperdynamic contractility, resulting in excessively high cardiac output and decreased afterload.",
+                        "wrongAnswer_4": "Variable left ventricular ejection fraction (LVEF) fluctuating randomly due to inconsistent contractility, causing unpredictable cardiac output independent of preload."
+                    },
+                    {
+                        "question": "What is the primary pathophysiological mechanism underlying diastolic heart failure?",
+                        "goodAnswer": "Impaired ventricular relaxation and increased stiffness of the ventricular walls, resulting in elevated filling pressures and reduced ventricular compliance despite preserved ejection fraction.",
+                        "wrongAnswer_1": "Increased ventricular contractility and decreased stiffness of the ventricular walls, leading to reduced filling pressures and increased ventricular compliance despite reduced ejection fraction.",
+                        "wrongAnswer_2": "Enhanced ventricular relaxation and decreased stiffness of the ventricular walls, resulting in reduced filling pressures and increased ventricular compliance alongside preserved ejection fraction.",
+                        "wrongAnswer_3": "Decreased ventricular contractility and increased stiffness of the ventricular walls, resulting in reduced filling pressures and decreased ventricular compliance despite severely reduced ejection fraction.",
+                        "wrongAnswer_4": "Unchanged ventricular relaxation and stiffness of the ventricular walls, maintaining normal filling pressures and ventricular compliance irrespective of ejection fraction status."
+                    },
+                    {
+                        "question": "Which of the following best describes the Frank-Starling mechanism in the context of systolic dysfunction?",
+                        "goodAnswer": "In systolic dysfunction, the Frank-Starling mechanism is impaired due to reduced myocardial contractility, leading to a blunted response to increased preload and limited improvement in stroke volume.",
+                        "wrongAnswer_1": "In systolic dysfunction, the Frank-Starling mechanism is enhanced due to compensatory increased myocardial contractility, leading to an exaggerated response to increased preload and excessive improvement in stroke volume.",
+                        "wrongAnswer_2": "In systolic dysfunction, the Frank-Starling mechanism remains unaffected, maintaining a normal response to increased preload and consistent improvement in stroke volume irrespective of contractility.",
+                        "wrongAnswer_3": "In systolic dysfunction, the Frank-Starling mechanism is reversed, causing a paradoxical decrease in stroke volume with increased preload due to altered myocardial mechanics.",
+                        "wrongAnswer_4": "In systolic dysfunction, the Frank-Starling mechanism becomes irrelevant as stroke volume is solely determined by afterload and independent of preload variations."
+                    },
+                    {
+                        "question": "Contrast systolic and diastolic heart failure in terms of ventricular volumes at end-diastole and end-systole.",
+                        "goodAnswer": "In systolic heart failure, both end-diastolic and end-systolic volumes are typically increased, but the end-systolic volume is disproportionately elevated due to impaired ejection, while in diastolic heart failure, end-diastolic volume may be normal or slightly increased, but end-systolic volume is usually normal or near-normal.",
+                        "wrongAnswer_1": "In systolic heart failure, both end-diastolic and end-systolic volumes are typically decreased, but the end-systolic volume is disproportionately reduced due to enhanced ejection, while in diastolic heart failure, end-diastolic volume is significantly decreased and end-systolic volume is also reduced.",
+                        "wrongAnswer_2": "In systolic heart failure, end-diastolic volume is normal and end-systolic volume is decreased due to efficient ejection, while in diastolic heart failure, end-diastolic volume is increased and end-systolic volume is significantly elevated.",
+                        "wrongAnswer_3": "In systolic heart failure, end-diastolic volume is decreased and end-systolic volume is increased due to ineffective ejection, while in diastolic heart failure, end-diastolic volume is increased and end-systolic volume remains unchanged.",
+                        "wrongAnswer_4": "In both systolic and diastolic heart failure, end-diastolic and end-systolic volumes are consistently decreased due to overall ventricular shrinkage and reduced blood volume."
+                    },
+                    {
+                        "question": "Which of the following is a key difference in the etiology of systolic versus diastolic heart failure?",
+                        "goodAnswer": "Systolic heart failure is frequently caused by conditions that damage the myocardium, such as ischemic heart disease or dilated cardiomyopathy, impairing contractility, whereas diastolic heart failure often results from conditions that increase ventricular stiffness, like hypertension or hypertrophic cardiomyopathy, hindering relaxation.",
+                        "wrongAnswer_1": "Systolic heart failure is primarily caused by conditions that increase ventricular stiffness, such as hypertension or hypertrophic cardiomyopathy, hindering relaxation, whereas diastolic heart failure is frequently caused by conditions that damage the myocardium, like ischemic heart disease or dilated cardiomyopathy, impairing contractility.",
+                        "wrongAnswer_2": "Both systolic and diastolic heart failure are predominantly caused by valvular heart diseases, leading to either volume overload in systolic failure or pressure overload in diastolic failure, independent of myocardial or stiffness issues.",
+                        "wrongAnswer_3": "Both systolic and diastolic heart failure are primarily triggered by congenital heart defects, which intrinsically affect both myocardial contractility in systolic failure and ventricular relaxation in diastolic failure.",
+                        "wrongAnswer_4": "The etiology of systolic and diastolic heart failure is indistinguishable, as both are invariably caused by advanced age-related myocardial degeneration, affecting both contractility and relaxation equally."
+                    }
+                ]
+            },
+            {
+                "title": "Right-sided heart failure",
+                "quizzes": [
+                    {
+                        "question": "What is the most common cause of isolated right-sided heart failure?",
+                        "goodAnswer": "Left-sided heart failure, which leads to pulmonary hypertension and increased afterload on the right ventricle, eventually causing right ventricular dysfunction and failure.",
+                        "wrongAnswer_1": "Systemic hypertension, which directly increases afterload on the right ventricle, immediately leading to right ventricular hypertrophy and subsequent right-sided heart failure.",
+                        "wrongAnswer_2": "Aortic valve stenosis, which causes backflow of blood into the right ventricle, directly leading to right ventricular dilation and right-sided heart failure.",
+                        "wrongAnswer_3": "Primary mitral valve regurgitation, which increases preload on the right ventricle, directly leading to right ventricular eccentric hypertrophy and right-sided heart failure.",
+                        "wrongAnswer_4": "Coronary artery disease affecting the right coronary artery, directly causing ischemic damage to the right ventricle and resulting in isolated right-sided heart failure."
+                    },
+                    {
+                        "question": "Which of the following clinical signs is most specific to right-sided heart failure and less commonly observed in left-sided heart failure?",
+                        "goodAnswer": "Peripheral edema, particularly in the lower extremities and sacral area, due to increased systemic venous pressure and fluid retention characteristic of right-sided heart failure.",
+                        "wrongAnswer_1": "Pulmonary edema, manifesting as dyspnea and orthopnea, due to increased pulmonary venous pressure and fluid accumulation in the lungs, primarily seen in left-sided heart failure.",
+                        "wrongAnswer_2": "Paroxysmal nocturnal dyspnea (PND), characterized by sudden breathlessness at night, mainly caused by fluid redistribution to the lungs in left-sided heart failure.",
+                        "wrongAnswer_3": "Cheyne-Stokes respiration, a pattern of cyclic breathing with alternating apnea and hyperpnea, predominantly associated with severe left-sided heart failure and neurological conditions.",
+                        "wrongAnswer_4": "Orthopnea, shortness of breath when lying flat, primarily caused by increased pulmonary congestion and venous return in left-sided heart failure."
+                    },
+                    {
+                        "question": "In right-sided heart failure, jugular venous distension (JVD) is a prominent clinical finding. What is the underlying mechanism causing JVD?",
+                        "goodAnswer": "Elevated right atrial pressure, which is transmitted backward into the jugular veins, causing them to become distended and visible, reflecting systemic venous congestion in right-sided heart failure.",
+                        "wrongAnswer_1": "Reduced right atrial pressure, which leads to collapse of the jugular veins and their distension due to external compression from surrounding tissues in right-sided heart failure.",
+                        "wrongAnswer_2": "Increased left atrial pressure, which is indirectly transmitted to the jugular veins via the pulmonary circulation, causing their distension in right-sided heart failure.",
+                        "wrongAnswer_3": "Decreased systemic arterial pressure, which causes compensatory dilation of the jugular veins to maintain cerebral blood flow, resulting in JVD in right-sided heart failure.",
+                        "wrongAnswer_4": "Local inflammation of the jugular veins due to systemic infection, causing their distension and pain, mimicking JVD in right-sided heart failure."
+                    },
+                    {
+                        "question": "Hepatojugular reflux (HJR) is often assessed in patients with suspected right-sided heart failure. How is HJR elicited and what does a positive HJR indicate?",
+                        "goodAnswer": "HJR is elicited by applying sustained pressure to the abdomen over the liver, and a positive HJR, indicated by a sustained increase in JVP of \u22654 cm, suggests impaired right ventricular function and elevated right atrial pressure.",
+                        "wrongAnswer_1": "HJR is elicited by applying brief pressure to the abdomen over the spleen, and a positive HJR, indicated by a transient decrease in JVP of \u22654 cm, suggests enhanced right ventricular function and reduced right atrial pressure.",
+                        "wrongAnswer_2": "HJR is elicited by applying intermittent pressure to the abdomen over the kidneys, and a positive HJR, indicated by a fluctuating JVP with no significant change, suggests normal right ventricular function and stable right atrial pressure.",
+                        "wrongAnswer_3": "HJR is elicited by applying deep pressure to the chest over the heart, and a positive HJR, indicated by a sustained increase in JVP of <2 cm, suggests mild right ventricular dysfunction and slightly elevated right atrial pressure.",
+                        "wrongAnswer_4": "HJR is elicited by applying light pressure to the neck over the carotid artery, and a positive HJR, indicated by a sustained decrease in JVP of <2 cm, suggests severely impaired right ventricular function and significantly reduced right atrial pressure."
+                    }
+                ]
+            },
+            {
+                "title": "Compensatory mechanisms",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is NOT considered a major compensatory mechanism in heart failure?",
+                        "goodAnswer": "Decreased sympathetic nervous system activity to reduce myocardial oxygen demand and prevent further cardiac damage in chronic heart failure.",
+                        "wrongAnswer_1": "Activation of the renin-angiotensin-aldosterone system (RAAS) to increase sodium and water retention and maintain blood pressure in heart failure.",
+                        "wrongAnswer_2": "Cardiac remodeling, including ventricular hypertrophy and dilation, to increase contractile force and maintain cardiac output in heart failure.",
+                        "wrongAnswer_3": "Frank-Starling mechanism, increasing stroke volume in response to increased preload, to maintain cardiac output in early stages of heart failure.",
+                        "wrongAnswer_4": "Increased sympathetic nervous system activity to enhance heart rate and contractility, supporting cardiac output in the initial phase of heart failure."
+                    },
+                    {
+                        "question": "What is the role of the renin-angiotensin-aldosterone system (RAAS) as a compensatory mechanism in heart failure?",
+                        "goodAnswer": "RAAS activation in heart failure leads to vasoconstriction, sodium and water retention, and aldosterone secretion, aiming to maintain blood pressure and volume, but chronically contributes to adverse remodeling and fluid overload.",
+                        "wrongAnswer_1": "RAAS activation in heart failure leads to vasodilation, sodium and water excretion, and reduced aldosterone secretion, aiming to decrease blood pressure and volume, thus reducing cardiac workload and improving remodeling.",
+                        "wrongAnswer_2": "RAAS activation in heart failure has no significant effect on blood pressure or volume, but primarily stimulates myocardial contractility and heart rate, improving cardiac output without affecting fluid balance.",
+                        "wrongAnswer_3": "RAAS activation in heart failure results in balanced vasodilation and vasoconstriction, maintaining normal blood pressure and volume, while primarily focusing on promoting angiogenesis and myocardial repair.",
+                        "wrongAnswer_4": "RAAS activation in heart failure paradoxically leads to both sodium and water excretion and vasoconstriction, causing dehydration and hypotension, which are detrimental in heart failure progression."
+                    },
+                    {
+                        "question": "How does cardiac remodeling contribute to both compensation and decompensation in heart failure?",
+                        "goodAnswer": "Initially, cardiac remodeling, such as hypertrophy and dilation, helps maintain cardiac output, but prolonged remodeling leads to maladaptive changes, including increased wall stress, fibrosis, and worsened function, contributing to decompensation.",
+                        "wrongAnswer_1": "Cardiac remodeling solely provides sustained compensation in heart failure by permanently enhancing myocardial contractility and improving ventricular geometry, preventing any progression to decompensation.",
+                        "wrongAnswer_2": "Cardiac remodeling is exclusively a maladaptive process from the outset, immediately leading to increased wall stress, fibrosis, and worsened function, directly causing decompensation without any compensatory phase.",
+                        "wrongAnswer_3": "Cardiac remodeling is a neutral process in heart failure, neither contributing to compensation nor decompensation, and its presence does not affect the clinical course or prognosis of heart failure.",
+                        "wrongAnswer_4": "Cardiac remodeling primarily involves ventricular shrinkage and thinning, which reduces wall stress and improves diastolic function, leading to sustained compensation and preventing decompensation in heart failure."
+                    },
+                    {
+                        "question": "Which of the following neurohormonal systems is primarily responsible for the short-term compensatory increase in heart rate and contractility in response to reduced cardiac output?",
+                        "goodAnswer": "Sympathetic nervous system (SNS), releasing catecholamines like norepinephrine and epinephrine, which increase heart rate, contractility, and vasoconstriction to maintain blood pressure and cardiac output acutely.",
+                        "wrongAnswer_1": "Renin-angiotensin-aldosterone system (RAAS), releasing angiotensin II and aldosterone, which primarily cause long-term fluid retention and vasoconstriction but have minimal direct effect on heart rate and contractility.",
+                        "wrongAnswer_2": "Natriuretic peptide system (NPS), releasing atrial and brain natriuretic peptides, which primarily cause vasodilation and natriuresis, opposing the effects of SNS and RAAS and reducing heart rate and contractility.",
+                        "wrongAnswer_3": "Parasympathetic nervous system (PNS), releasing acetylcholine, which primarily decreases heart rate and contractility, aiming to conserve energy and reduce cardiac workload during acute heart failure.",
+                        "wrongAnswer_4": "Endothelin system, releasing endothelin-1, which primarily causes potent vasodilation and bronchodilation, reducing afterload and improving pulmonary function but having minimal direct effect on heart rate and contractility."
+                    },
+                    {
+                        "question": "How does the Frank-Starling mechanism act as a compensatory mechanism in heart failure?",
+                        "goodAnswer": "Increased preload in heart failure stretches myocardial fibers, leading to increased force of contraction and stroke volume, thus temporarily maintaining cardiac output despite reduced contractility.",
+                        "wrongAnswer_1": "Decreased preload in heart failure reduces stretch on myocardial fibers, leading to decreased force of contraction and stroke volume, thus limiting cardiac output in response to reduced contractility.",
+                        "wrongAnswer_2": "Increased afterload in heart failure stretches myocardial fibers, leading to increased force of contraction and stroke volume, thus temporarily maintaining cardiac output despite elevated afterload.",
+                        "wrongAnswer_3": "Decreased afterload in heart failure reduces stretch on myocardial fibers, leading to decreased force of contraction and stroke volume, thus limiting cardiac output in response to reduced afterload.",
+                        "wrongAnswer_4": "The Frank-Starling mechanism is completely ineffective in heart failure and does not contribute to compensation due to the severely impaired myocardial contractility and altered ventricular mechanics."
+                    }
+                ]
+            }
+        ]
+    }
+}

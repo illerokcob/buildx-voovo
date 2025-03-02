@@ -1,0 +1,164 @@
+{
+    "mainTopic": {
+        "title": "Fibroids",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General characteristics",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the cellular origin and typical hormonal responsiveness of uterine fibroids, considering their pathophysiology?",
+                        "goodAnswer": "Uterine fibroids originate from monoclonal neoplastic transformation of myometrial smooth muscle cells, exhibiting significant responsiveness to both estrogen and progesterone due to receptor expression.",
+                        "wrongAnswer_1": "Uterine fibroids arise from polyclonal hyperplasia of endometrial stromal cells, primarily responding to follicle-stimulating hormone (FSH) and luteinizing hormone (LH) fluctuations during the menstrual cycle.",
+                        "wrongAnswer_2": "Uterine fibroids are derived from metaplastic transformation of vascular endothelial cells within the myometrium, showing primary sensitivity to androgens and growth hormone-releasing hormone (GHRH).",
+                        "wrongAnswer_3": "Uterine fibroids develop from differentiation of pluripotent mesenchymal stem cells in the perimetrium, exhibiting dominant responsiveness to insulin-like growth factor 1 (IGF-1) and transforming growth factor beta (TGF-\u03b2).",
+                        "wrongAnswer_4": "Uterine fibroids originate from the invasion of immune cells and fibroblasts into the myometrium, with growth primarily driven by inflammatory cytokines and tumor necrosis factor-alpha (TNF-\u03b1)."
+                    },
+                    {
+                        "question": "Considering the extracellular matrix (ECM) composition in uterine fibroids, which statement best characterizes its role and components in fibroid pathogenesis?",
+                        "goodAnswer": "The ECM in uterine fibroids is markedly increased compared to normal myometrium, rich in collagen, fibronectin, and proteoglycans, contributing to fibroid growth, stiffness, and structural integrity under hormonal influence.",
+                        "wrongAnswer_1": "The ECM in uterine fibroids is significantly reduced, primarily composed of elastin and laminin, leading to decreased tissue elasticity and increased cellular apoptosis within the fibroid mass due to hormonal withdrawal.",
+                        "wrongAnswer_2": "The ECM in uterine fibroids is qualitatively altered, consisting mainly of hyaluronic acid and chondroitin sulfate, promoting fluid retention and cystic degeneration within the fibroid structure independent of hormonal signals.",
+                        "wrongAnswer_3": "The ECM in uterine fibroids is characterized by a high turnover rate, predominantly composed of type III collagen and reticulin fibers, facilitating rapid fibroid growth and regression in response to metabolic changes.",
+                        "wrongAnswer_4": "The ECM in uterine fibroids is structurally similar to normal myometrium but contains increased deposition of amyloid proteins and calcium deposits, causing tissue hardening and resistance to hormonal treatments."
+                    },
+                    {
+                        "question": "Based on the classification systems for uterine fibroids, what distinguishes a subserosal fibroid type 1 from a subserosal fibroid type 2 according to the FIGO classification?",
+                        "goodAnswer": "A subserosal fibroid type 1 protrudes >50% into the serosal surface, whereas a subserosal fibroid type 2 protrudes \u226450% into the serosal surface according to the outer uterine margin in the FIGO classification.",
+                        "wrongAnswer_1": "A subserosal fibroid type 1 is located in the uterine fundus, while a subserosal fibroid type 2 is located in the lower uterine segment according to anatomical location in the FIGO classification.",
+                        "wrongAnswer_2": "A subserosal fibroid type 1 is pedunculated with a stalk, whereas a subserosal fibroid type 2 is sessile with a broad base according to the presence of a stalk in the FIGO classification.",
+                        "wrongAnswer_3": "A subserosal fibroid type 1 is less than 5 cm in diameter, whereas a subserosal fibroid type 2 is greater than 5 cm in diameter according to size criteria in the FIGO classification.",
+                        "wrongAnswer_4": "A subserosal fibroid type 1 is associated with heavy menstrual bleeding, whereas a subserosal fibroid type 2 is associated with pelvic pain according to symptom presentation in the FIGO classification."
+                    }
+                ]
+            },
+            {
+                "title": "Location, Incidence & etiology, development of fibroids",
+                "quizzes": [
+                    {
+                        "question": "Considering the anatomical location of uterine fibroids, which type is most likely to cause distortion of the endometrial cavity and potentially lead to infertility or recurrent pregnancy loss?",
+                        "goodAnswer": "Submucosal fibroids, particularly type 0 and type 1, are most likely to distort the endometrial cavity, directly impacting implantation and placentation, thus increasing the risk of infertility and pregnancy complications.",
+                        "wrongAnswer_1": "Intramural fibroids, especially those located in the outer myometrial layer, are most likely to distort the endometrial cavity due to their expansive growth towards the serosal surface, indirectly affecting endometrial receptivity.",
+                        "wrongAnswer_2": "Subserosal fibroids, particularly pedunculated types, are most likely to distort the endometrial cavity by exerting external pressure on the uterine wall, leading to changes in uterine shape and volume that impair fertility.",
+                        "wrongAnswer_3": "Cervical fibroids, located in the lower uterine segment, are most likely to distort the endometrial cavity by obstructing the cervical canal, preventing sperm transport and embryo implantation, causing primary infertility.",
+                        "wrongAnswer_4": "Broad ligament fibroids, growing within the parametrium, are most likely to distort the endometrial cavity by displacing the uterus and altering its anatomical axis, indirectly affecting endometrial blood flow and function."
+                    },
+                    {
+                        "question": "What is the approximate lifetime risk of developing uterine fibroids for women of African descent compared to women of European descent, considering racial disparities in incidence?",
+                        "goodAnswer": "Women of African descent have a significantly higher lifetime risk of developing uterine fibroids, estimated to be approximately two to three times greater than that of women of European descent, with earlier onset and more severe symptoms.",
+                        "wrongAnswer_1": "Women of African descent have a slightly lower lifetime risk of developing uterine fibroids, approximately 10-20% less than women of European descent, possibly due to protective genetic factors and dietary habits.",
+                        "wrongAnswer_2": "Women of African descent and European descent have a similar lifetime risk of developing uterine fibroids, with ethnic differences primarily affecting the age of onset rather than the overall prevalence.",
+                        "wrongAnswer_3": "Women of African descent have a markedly lower lifetime risk of developing uterine fibroids, estimated to be less than half that of women of European descent, attributed to higher rates of breastfeeding and multiparity.",
+                        "wrongAnswer_4": "Women of African descent have a variable lifetime risk of developing uterine fibroids, which is highly dependent on socioeconomic status and access to healthcare, rather than inherent racial predisposition."
+                    },
+                    {
+                        "question": "Which of the following hormonal and growth factor interactions is most critically involved in the early development and growth stimulation of uterine fibroids at the molecular level?",
+                        "goodAnswer": "Estrogen and progesterone synergistically promote fibroid growth by upregulating growth factors like TGF-\u03b2, IGF-1, and PDGF, which in turn stimulate smooth muscle cell proliferation and ECM deposition through intracellular signaling pathways.",
+                        "wrongAnswer_1": "Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) directly stimulate fibroid growth by binding to receptors on fibroid cells, activating adenylyl cyclase and increasing intracellular cAMP levels, promoting cell division.",
+                        "wrongAnswer_2": "Androgens and glucocorticoids act synergistically to induce fibroid growth by activating androgen and glucocorticoid receptors in fibroid cells, leading to increased expression of genes involved in cell hypertrophy and angiogenesis.",
+                        "wrongAnswer_3": "Prolactin and oxytocin play a critical role in fibroid development by stimulating prolactin and oxytocin receptors on fibroid cells, activating JAK-STAT signaling and promoting cell survival and immune evasion.",
+                        "wrongAnswer_4": "Thyroid hormones and insulin directly influence fibroid growth by modulating thyroid hormone and insulin receptors in fibroid tissue, altering cellular metabolism and nutrient uptake, leading to increased fibroid volume."
+                    },
+                    {
+                        "question": "Considering the genetic and molecular mechanisms in fibroid development, what is the role of MED12 mutations, frequently found in uterine fibroids?",
+                        "goodAnswer": "MED12 mutations, commonly found in uterine fibroids, are thought to disrupt the Mediator complex, altering gene transcription and potentially influencing estrogen and progesterone signaling pathways, thus promoting fibroidogenesis.",
+                        "wrongAnswer_1": "MED12 mutations in uterine fibroids primarily lead to activation of oncogenes such as KRAS and MYC, driving uncontrolled cell proliferation and malignant transformation into leiomyosarcoma through genomic instability.",
+                        "wrongAnswer_2": "MED12 mutations are associated with defects in DNA repair mechanisms within fibroid cells, increasing susceptibility to somatic mutations and promoting rapid fibroid growth and aggressive clinical behavior.",
+                        "wrongAnswer_3": "MED12 mutations in uterine fibroids result in the overexpression of anti-apoptotic genes like BCL2 and MCL1, inhibiting programmed cell death and contributing to fibroid persistence and resistance to hormonal therapies.",
+                        "wrongAnswer_4": "MED12 mutations primarily affect the extracellular matrix composition in fibroids by altering the expression of collagen and fibronectin genes, leading to increased fibroid stiffness and reduced responsiveness to medical treatment."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis",
+                "quizzes": [
+                    {
+                        "question": "In the diagnostic algorithm for uterine fibroids, when is the use of 3D ultrasonography considered particularly advantageous over conventional 2D ultrasonography?",
+                        "goodAnswer": "3D ultrasonography is particularly advantageous for accurately determining fibroid location, volume, and relationship to the endometrial cavity, especially for submucosal fibroids and preoperative planning for hysteroscopic surgery.",
+                        "wrongAnswer_1": "3D ultrasonography is primarily advantageous for detecting early-stage, small uterine fibroids less than 1 cm in diameter, improving sensitivity compared to 2D ultrasonography in routine screening.",
+                        "wrongAnswer_2": "3D ultrasonography is mainly advantageous for assessing the vascularity of uterine fibroids using power Doppler, enhancing the differentiation between benign fibroids and malignant leiomyosarcomas based on blood flow patterns.",
+                        "wrongAnswer_3": "3D ultrasonography is particularly useful for evaluating subserosal fibroids located in the posterior uterine wall, providing better visualization of the serosal surface and potential adhesions compared to 2D imaging.",
+                        "wrongAnswer_4": "3D ultrasonography is primarily advantageous for monitoring the growth rate of uterine fibroids during follow-up examinations, offering more precise volume measurements and tracking changes over time compared to 2D techniques."
+                    },
+                    {
+                        "question": "What is the clinical utility of contrast-enhanced ultrasound (CEUS) in the differential diagnosis of uterine masses, specifically in distinguishing fibroids from adenomyosis and malignancy?",
+                        "goodAnswer": "CEUS can enhance the differentiation between fibroids, adenomyosis, and malignancy by assessing vascular patterns; fibroids typically show peripheral enhancement, adenomyosis shows diffuse enhancement, while malignancies may exhibit irregular and rapid enhancement.",
+                        "wrongAnswer_1": "CEUS is primarily used to measure the size and volume of uterine masses, providing more accurate measurements than conventional ultrasound for monitoring treatment response in patients with known uterine fibroids.",
+                        "wrongAnswer_2": "CEUS is mainly employed to evaluate the stiffness and elasticity of uterine masses using sonoelastography, differentiating benign fibroids (softer) from malignant lesions (stiffer) based on tissue mechanical properties.",
+                        "wrongAnswer_3": "CEUS is particularly useful for detecting calcifications within uterine masses, improving the sensitivity of ultrasound for identifying degenerated fibroids and differentiating them from ovarian teratomas.",
+                        "wrongAnswer_4": "CEUS is primarily indicated for assessing the depth of myometrial invasion by endometrial cancer, providing detailed information about tumor staging and guiding surgical planning in patients with uterine malignancies."
+                    },
+                    {
+                        "question": "In the context of MRI for uterine fibroids, what is the significance of T2-weighted imaging in characterizing fibroid subtypes and differentiating them from other uterine pathologies?",
+                        "goodAnswer": "T2-weighted MRI is crucial for differentiating fibroid subtypes; typical fibroids appear hypointense, while degenerated fibroids may show heterogeneous or hyperintense signal, and it aids in distinguishing fibroids from adenomyosis (junctional zone thickening) and endometrial cancer.",
+                        "wrongAnswer_1": "T1-weighted MRI is primarily used to assess the presence of hemorrhage within uterine fibroids, with areas of hemorrhage appearing hyperintense due to the paramagnetic effects of blood products, aiding in diagnosing hemorrhagic infarction.",
+                        "wrongAnswer_2": "Diffusion-weighted MRI (DWI) is mainly utilized to evaluate the cellularity of uterine masses, with high signal intensity on DWI suggesting high cellularity and potential malignancy, differentiating fibroids from leiomyosarcomas based on cellular density.",
+                        "wrongAnswer_3": "Gadolinium-enhanced MRI is primarily employed to assess the vascularity of uterine masses, with malignant lesions showing marked and rapid enhancement compared to benign fibroids, aiding in differentiating between benign and malignant uterine tumors.",
+                        "wrongAnswer_4": "Short T1 Inversion Recovery (STIR) MRI sequences are particularly useful for detecting fatty degeneration within uterine fibroids, with fat appearing hyperintense on STIR images, differentiating lipoleiomyomas from typical fibroids."
+                    },
+                    {
+                        "question": "Which serum biomarker, although not routinely used for diagnosis, has shown some promise in differentiating leiomyosarcomas from benign uterine fibroids in challenging diagnostic cases?",
+                        "goodAnswer": "Serum lactate dehydrogenase (LDH) levels, particularly LDH isoenzyme 3, have shown potential as a biomarker, with significantly elevated levels in leiomyosarcomas compared to benign fibroids, although specificity and sensitivity are limited for routine screening.",
+                        "wrongAnswer_1": "Serum cancer antigen 125 (CA-125) levels are highly specific and sensitive for differentiating leiomyosarcomas from benign uterine fibroids, with markedly elevated levels in leiomyosarcomas due to peritoneal involvement and serosal spread.",
+                        "wrongAnswer_2": "Serum alpha-fetoprotein (AFP) levels are a reliable biomarker for distinguishing leiomyosarcomas from benign uterine fibroids, with significantly increased levels in leiomyosarcomas due to their origin from germ cells and yolk sac elements.",
+                        "wrongAnswer_3": "Serum human chorionic gonadotropin (hCG) levels are consistently elevated in patients with leiomyosarcomas compared to those with benign uterine fibroids, serving as a highly accurate diagnostic marker for malignant transformation.",
+                        "wrongAnswer_4": "Serum creatine kinase (CK) levels, specifically CK-MB isoenzyme, are significantly increased in leiomyosarcomas compared to benign uterine fibroids, reflecting muscle tissue damage and necrosis associated with malignancy."
+                    }
+                ]
+            },
+            {
+                "title": "Therapy",
+                "quizzes": [
+                    {
+                        "question": "In the medical management of symptomatic uterine fibroids, what is the rationale for using gonadotropin-releasing hormone (GnRH) agonists in premenopausal women?",
+                        "goodAnswer": "GnRH agonists induce a temporary hypoestrogenic state by suppressing ovarian estrogen production, leading to fibroid shrinkage and symptom relief, primarily used for short-term management before surgery or to improve anemia.",
+                        "wrongAnswer_1": "GnRH agonists directly antagonize estrogen receptors on fibroid cells, blocking estrogen binding and inhibiting fibroid growth without affecting ovarian hormone production, providing long-term symptom control.",
+                        "wrongAnswer_2": "GnRH agonists stimulate progesterone receptor activity in fibroid tissue, counteracting estrogen effects and promoting fibroid regression, mainly used for long-term treatment of large symptomatic fibroids.",
+                        "wrongAnswer_3": "GnRH agonists enhance follicle-stimulating hormone (FSH) secretion, indirectly reducing fibroid size by altering the FSH/LH ratio and inducing fibroid apoptosis through paracrine mechanisms.",
+                        "wrongAnswer_4": "GnRH agonists increase systemic androgen levels, creating a hormonal milieu that is unfavorable for fibroid growth and proliferation, primarily used in postmenopausal women with persistent fibroid symptoms."
+                    },
+                    {
+                        "question": "How does ulipristal acetate, a selective progesterone receptor modulator (SPRM), exert its therapeutic effect on uterine fibroids at the cellular and molecular level?",
+                        "goodAnswer": "Ulipristal acetate acts as a partial progesterone receptor antagonist in fibroids, reducing cell proliferation, increasing apoptosis, and decreasing extracellular matrix production by modulating progesterone receptor-mediated gene expression.",
+                        "wrongAnswer_1": "Ulipristal acetate functions as a potent estrogen receptor agonist in fibroid tissue, enhancing estrogen signaling and promoting fibroid maturation and differentiation, leading to reduced symptom severity and improved quality of life.",
+                        "wrongAnswer_2": "Ulipristal acetate directly inhibits aromatase enzyme activity in fibroid cells, reducing local estrogen production within fibroids and thereby decreasing estrogen-driven fibroid growth and vascularity.",
+                        "wrongAnswer_3": "Ulipristal acetate acts as a growth factor inhibitor, specifically targeting IGF-1 and TGF-\u03b2 signaling pathways in fibroids, suppressing growth factor-mediated cell proliferation and extracellular matrix accumulation.",
+                        "wrongAnswer_4": "Ulipristal acetate functions as a selective androgen receptor agonist in fibroid cells, counteracting estrogen effects and inducing fibroid shrinkage by promoting androgen-mediated cellular differentiation and apoptosis."
+                    },
+                    {
+                        "question": "What are the primary advantages of hysteroscopic myomectomy over abdominal myomectomy for the removal of submucosal uterine fibroids, considering patient outcomes and recovery?",
+                        "goodAnswer": "Hysteroscopic myomectomy offers advantages such as no abdominal incision, less postoperative pain, shorter hospital stay, and faster recovery compared to abdominal myomectomy, making it suitable for submucosal fibroids.",
+                        "wrongAnswer_1": "Hysteroscopic myomectomy allows for more complete removal of large and deeply embedded submucosal fibroids compared to abdominal myomectomy, reducing the risk of fibroid recurrence and improving long-term outcomes.",
+                        "wrongAnswer_2": "Hysteroscopic myomectomy is associated with a lower risk of uterine rupture in subsequent pregnancies compared to abdominal myomectomy, making it a safer option for women desiring future fertility after fibroid removal.",
+                        "wrongAnswer_3": "Hysteroscopic myomectomy can be performed under local anesthesia in an outpatient setting, whereas abdominal myomectomy requires general anesthesia and inpatient hospitalization, offering greater convenience and cost-effectiveness.",
+                        "wrongAnswer_4": "Hysteroscopic myomectomy provides better visualization of the uterine cavity and allows for simultaneous treatment of coexisting endometrial pathologies such as polyps and hyperplasia, enhancing diagnostic and therapeutic capabilities."
+                    },
+                    {
+                        "question": "In uterine artery embolization (UAE), which embolic agents are commonly used to occlude the uterine arteries and induce fibroid infarction?",
+                        "goodAnswer": "Polyvinyl alcohol (PVA) particles and tris-acryl gelatin microspheres are commonly used embolic agents in UAE, providing effective and permanent occlusion of uterine arteries leading to fibroid infarction and shrinkage.",
+                        "wrongAnswer_1": "Lipiodol and ethiodized oil are the primary embolic agents used in UAE, selectively targeting the small vessels within fibroids and inducing localized necrosis while preserving normal myometrial perfusion and function.",
+                        "wrongAnswer_2": "Absolute ethanol and sodium tetradecyl sulfate (STS) are frequently used embolic agents in UAE, causing chemical ablation of uterine arteries and fibroid tissue through direct cytotoxic effects and vascular sclerosis.",
+                        "wrongAnswer_3": "Ferumoxytol nanoparticles and gadolinium-based contrast agents are novel embolic agents used in UAE, allowing for MRI-guided embolization and real-time monitoring of vascular occlusion and fibroid response to treatment.",
+                        "wrongAnswer_4": "Cyanoacrylate glue and fibrin sealant are advanced embolic agents used in UAE, providing rapid and durable arterial occlusion through mechanical blockage and tissue adhesion, minimizing recanalization and revascularization."
+                    },
+                    {
+                        "question": "What is the mechanism of action of radiofrequency ablation (RFA) in the treatment of uterine fibroids, and what are its primary clinical applications?",
+                        "goodAnswer": "RFA uses thermal energy to induce coagulative necrosis in fibroid tissue, leading to volume reduction and symptom relief; it is primarily applied for symptomatic intramural and subserosal fibroids not amenable to hysteroscopic resection.",
+                        "wrongAnswer_1": "RFA employs cryoenergy to freeze and destroy fibroid tissue, causing cellular apoptosis and fibroid shrinkage; it is mainly used for submucosal fibroids and adenomyosis located in the anterior uterine wall.",
+                        "wrongAnswer_2": "RFA utilizes microwave energy to heat and ablate fibroid tissue, resulting in tissue vaporization and fibroid removal; it is primarily indicated for large pedunculated subserosal fibroids and cervical fibroids causing pelvic pain and pressure.",
+                        "wrongAnswer_3": "RFA uses focused ultrasound waves to mechanically disrupt fibroid tissue, leading to cellular cavitation and fibroid liquefaction; it is mainly applied for small intramural fibroids and uterine polyps in women with infertility.",
+                        "wrongAnswer_4": "RFA employs laser energy to photocoagulate and vaporize fibroid tissue, causing tissue ablation and fibroid reduction; it is primarily used for submucosal fibroids and endometrial hyperplasia in postmenopausal women."
+                    },
+                    {
+                        "question": "In the context of surgical management of uterine fibroids, what are the key considerations when choosing between myomectomy and hysterectomy for a premenopausal woman with symptomatic fibroids?",
+                        "goodAnswer": "Key considerations include patient's desire for future fertility, number, size, and location of fibroids, severity of symptoms, patient age, and risk of recurrence; myomectomy is uterus-sparing, while hysterectomy is definitive but eliminates fertility.",
+                        "wrongAnswer_1": "The primary factor in choosing between myomectomy and hysterectomy is the patient's body mass index (BMI); myomectomy is preferred for obese women due to lower surgical complexity, while hysterectomy is indicated for women with normal BMI.",
+                        "wrongAnswer_2": "The main determinant is the patient's insurance coverage; myomectomy is generally more cost-effective and covered by most insurance plans, whereas hysterectomy is reserved for patients with comprehensive healthcare coverage.",
+                        "wrongAnswer_3": "The crucial factor is the patient's menopausal status; myomectomy is indicated for perimenopausal women to preserve ovarian function, while hysterectomy is the preferred option for women who have completed childbearing.",
+                        "wrongAnswer_4": "The deciding factor is the patient's preference for minimally invasive surgery; myomectomy is always performed laparoscopically or robotically, while hysterectomy is typically performed via open laparotomy for optimal surgical outcomes."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "mainTopic": {
+        "title": "Cytokines and Chemokines",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Structure and function",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the primary mechanism by which cytokines exert their effects on target cells?",
+                        "goodAnswer": "Cytokines primarily act through binding to specific cell surface receptors, initiating intracellular signaling cascades involving kinases and transcription factors that alter gene expression and cellular function.",
+                        "wrongAnswer_1": "Cytokines mainly function by directly penetrating the cell membrane and interacting with intracellular organelles to modulate metabolic processes, independent of cell surface receptor interactions.",
+                        "wrongAnswer_2": "Cytokines primarily operate by altering the lipid bilayer of target cell membranes, causing changes in membrane permeability and ion flux, subsequently affecting cellular excitability and function.",
+                        "wrongAnswer_3": "Cytokines predominantly function by being endocytosed into target cells and directly influencing protein synthesis at the ribosome level, bypassing genomic mechanisms of cellular regulation.",
+                        "wrongAnswer_4": "Cytokines mainly function by forming stable covalent bonds with intracellular proteins, leading to long-term structural modifications and permanent alterations in cellular behavior."
+                    },
+                    {
+                        "question": "Which of the following correctly outlines the sequential steps in cytokine receptor signaling via the JAK-STAT pathway, starting from cytokine binding and culminating in gene transcription?",
+                        "goodAnswer": "Cytokine binding to receptor -> Receptor dimerization and activation -> Janus kinase (JAK) phosphorylation and activation -> Signal Transducer and Activator of Transcription (STAT) phosphorylation -> STAT dimerization and nuclear translocation -> Binding to DNA and Gene transcription.",
+                        "wrongAnswer_1": "Receptor activation -> STAT phosphorylation -> Cytokine binding -> JAK phosphorylation and activation -> STAT dimerization and nuclear translocation -> Binding to DNA and Gene transcription, initiating signal transduction.",
+                        "wrongAnswer_2": "Cytokine binding -> STAT dimerization -> Receptor phosphorylation -> JAK activation and phosphorylation -> STAT phosphorylation and nuclear translocation -> Binding to DNA and Gene transcription, bypassing initial receptor activation.",
+                        "wrongAnswer_3": "Receptor dimerization and activation -> Cytokine binding -> JAK phosphorylation and activation -> STAT phosphorylation -> STAT dimerization and cytoplasmic translocation -> Binding to DNA and Gene transcription, implying cytoplasmic rather than nuclear STAT action.",
+                        "wrongAnswer_4": "Cytokine binding to receptor -> Receptor internalization -> JAK phosphorylation and activation -> STAT phosphorylation -> STAT monomerization and nuclear translocation -> Binding to DNA and Gene transcription, suggesting STAT monomers are the active form."
+                    },
+                    {
+                        "question": "Which of the following is NOT considered a primary functional classification of cytokines based on their immunological roles within the broader context of immune responses and cellular communication?",
+                        "goodAnswer": "Nutritional cytokines, primarily involved in regulating appetite, nutrient absorption, and metabolic rate, exerting minimal direct influence on immune cell behavior or inflammatory processes.",
+                        "wrongAnswer_1": "Pro-inflammatory cytokines, which promote inflammation, activate immune cells, and are crucial for initiating and amplifying immune responses against pathogens and tissue injury, driving acute phase responses.",
+                        "wrongAnswer_2": "Anti-inflammatory cytokines, which resolve inflammation, suppress immune responses, and maintain immune homeostasis, essential for preventing excessive immune damage and promoting tissue repair and resolution.",
+                        "wrongAnswer_3": "Chemokines, a subset of cytokines that primarily mediate chemotaxis, cell migration, and leukocyte trafficking, guiding immune cells to sites of infection or inflammation for targeted immune responses and tissue surveillance.",
+                        "wrongAnswer_4": "Hematopoietic cytokines, which regulate the development, differentiation, and proliferation of blood cells, including immune cells, influencing the composition, responsiveness, and functional capacity of the immune system."
+                    }
+                ]
+            },
+            {
+                "title": "Cytokine storm",
+                "quizzes": [
+                    {
+                        "question": "What is the most critical distinguishing characteristic of a cytokine storm in the context of severe infectious diseases and dysregulated host immune responses?",
+                        "goodAnswer": "A cytokine storm is pathologically defined by an uncontrolled systemic inflammatory response resulting from excessive and dysregulated production of pro-inflammatory cytokines, leading to widespread tissue damage, multi-organ dysfunction, and potential mortality due to immune hyperactivation.",
+                        "wrongAnswer_1": "A cytokine storm is primarily identified by a localized and contained inflammatory response focused solely at the site of infection, efficiently neutralizing the pathogen without systemic involvement and minimizing collateral damage to distant organs.",
+                        "wrongAnswer_2": "A cytokine storm is clinically defined by a suppressed immune response characterized by cytokine deficiency, leading to increased susceptibility to opportunistic infections and impaired pathogen clearance, rather than immune overactivation.",
+                        "wrongAnswer_3": "A cytokine storm is mainly characterized by the predominant production of anti-inflammatory cytokines, paradoxically exacerbating tissue damage by inhibiting the resolution of inflammation and prolonging immune activation and cellular infiltration.",
+                        "wrongAnswer_4": "A cytokine storm is best described as a rapid and highly efficient clearance of pathogens mediated by a transient surge in cytokine production, leading to accelerated recovery and minimal long-term tissue injury, representing an optimally regulated immune response."
+                    },
+                    {
+                        "question": "Which of the following factors is LEAST likely to significantly contribute to the development of a cytokine storm during an acute infectious disease or other inflammatory conditions?",
+                        "goodAnswer": "Effective and rapid pathogen clearance by the innate immune system and subsequent development of adaptive immunity that resolves infection without excessive or prolonged inflammatory signaling and cytokine release.",
+                        "wrongAnswer_1": "High pathogen load and disseminated tissue infection leading to extensive immune cell activation and massive cytokine release, overwhelming regulatory mechanisms and driving systemic inflammation and vascular permeability.",
+                        "wrongAnswer_2": "Genetic predisposition in the host resulting in hyper-responsiveness of immune cells to inflammatory stimuli, enhancing cytokine production and increasing susceptibility to immune dysregulation and positive feedback loops.",
+                        "wrongAnswer_3": "Dysregulation or failure of negative feedback mechanisms that normally control cytokine production and inflammatory responses, allowing for unrestrained cytokine release and escalating inflammation and immune cell recruitment.",
+                        "wrongAnswer_4": "Secondary bacterial or fungal infections complicating an initial viral infection, synergistically amplifying the inflammatory cascade through combined immune activation and cytokine production from multiple microbial and cellular sources."
+                    },
+                    {
+                        "question": "In the complex pathogenesis of cytokine storm, which of the following cellular sources is typically considered a major and primary contributor to the excessive pro-inflammatory cytokine production that drives systemic inflammation and tissue injury?",
+                        "goodAnswer": "Activated macrophages and monocytes, which are potent producers of pro-inflammatory cytokines including TNF-alpha, IL-1\u03b2, and IL-6 upon encountering pathogen-associated molecular patterns (PAMPs) or damage-associated molecular patterns (DAMPs), initiating and perpetuating the cytokine cascade.",
+                        "wrongAnswer_1": "Resting B lymphocytes, which primarily function in humoral immunity through antibody production and are not typically a major immediate source of pro-inflammatory cytokines in the acute phase of cytokine storm initiation, focusing on antigen-specific responses.",
+                        "wrongAnswer_2": "Mature erythrocytes (red blood cells), which are anucleate and primarily responsible for oxygen transport, lacking the cellular machinery for cytokine production or immune responses, their function being primarily respiratory gas exchange.",
+                        "wrongAnswer_3": "Resting platelets (thrombocytes), which are primarily involved in hemostasis and blood coagulation and do not significantly contribute to the initial surge of pro-inflammatory cytokine production in cytokine storm, their role being mainly in vascular integrity and wound repair.",
+                        "wrongAnswer_4": "Neurons in the central nervous system, which are specialized for neural signaling and information processing and are not primary producers of systemic pro-inflammatory cytokines in cytokine storm pathogenesis, their function being neural communication and network activity."
+                    }
+                ]
+            },
+            {
+                "title": "Cytokine modulation in therapy",
+                "quizzes": [
+                    {
+                        "question": "Which therapeutic strategy is most accurately described as cytokine modulation in the pharmacological management of inflammatory diseases and immune-mediated disorders, aiming for targeted immune intervention?",
+                        "goodAnswer": "Cytokine modulation therapy involves selectively targeting specific pro-inflammatory cytokines or their signaling pathways, or enhancing anti-inflammatory cytokine activity, to restore immune homeostasis and resolve pathological inflammation while minimizing broad immunosuppression and off-target effects.",
+                        "wrongAnswer_1": "Cytokine modulation therapy primarily focuses on broad, non-selective immunosuppression using corticosteroids or cytotoxic drugs to globally dampen all immune responses, irrespective of specific cytokine profiles or disease context, leading to generalized immune suppression and increased infection risk.",
+                        "wrongAnswer_2": "Cytokine modulation therapy mainly involves administering high doses of recombinant pro-inflammatory cytokines to amplify systemic immune activation and eradicate pathogens or tumor cells indiscriminately, regardless of potential for inducing cytokine storm and severe immunopathology.",
+                        "wrongAnswer_3": "Cytokine modulation therapy predominantly relies on physical interventions such as radiation therapy or surgical removal of lymphoid tissues to directly eliminate cytokine-producing cells or inflamed tissues from the body, bypassing pharmacological or biological modulation of cytokine signaling pathways.",
+                        "wrongAnswer_4": "Cytokine modulation therapy focuses solely on completely blocking the production of all cytokines to prevent any inflammatory response, irrespective of the underlying cause or potential beneficial roles of certain cytokines in maintaining immune surveillance and tissue repair processes."
+                    },
+                    {
+                        "question": "Which of the following best describes the mechanism of action of monoclonal antibodies (mAbs) targeting pro-inflammatory cytokines, such as TNF-alpha inhibitors used in rheumatoid arthritis and other autoimmune conditions?",
+                        "goodAnswer": "Monoclonal antibodies specifically bind to and neutralize pro-inflammatory cytokines like TNF-alpha in the extracellular space, preventing them from interacting with their cognate receptors on target cells and thus dampening downstream inflammatory signaling pathways and reducing pathological inflammation and tissue damage.",
+                        "wrongAnswer_1": "Monoclonal antibodies targeting cytokines directly induce apoptosis of cytokine-producing immune cells, leading to a reduction in systemic cytokine levels and inflammation through cellular depletion rather than cytokine neutralization or receptor blockade, altering immune cell populations.",
+                        "wrongAnswer_2": "Monoclonal antibodies against cytokines enhance the endogenous production of anti-inflammatory cytokines, thereby indirectly shifting the cytokine balance and resolving chronic inflammation by promoting counter-regulatory mechanisms and immune homeostasis, via secondary cytokine induction.",
+                        "wrongAnswer_3": "Monoclonal antibodies targeting cytokines stimulate the accelerated clearance of excess cytokines from the circulation by promoting their degradation in the liver and kidneys, enhancing cytokine catabolism and removal rather than direct receptor antagonism or cytokine neutralization.",
+                        "wrongAnswer_4": "Monoclonal antibodies against cytokines act as competitive agonists, binding to cytokine receptors and activating inhibitory signaling pathways that suppress inflammation by mimicking the function of regulatory cytokines, inducing inhibitory receptor signaling and immune quiescence."
+                    },
+                    {
+                        "question": "Beyond monoclonal antibodies, which of the following therapeutic approaches is also effectively employed for cytokine modulation in chronic inflammatory conditions, offering alternative pharmacological strategies for targeted immune regulation?",
+                        "goodAnswer": "Small molecule inhibitors targeting intracellular signaling kinases such as Janus kinases (JAK inhibitors), which block downstream signaling pathways activated by multiple pro-inflammatory cytokines and growth factors, providing broader cytokine pathway inhibition and intracellular immune modulation.",
+                        "wrongAnswer_1": "Gene therapy approaches aimed at permanently deleting genes encoding pro-inflammatory cytokines from immune cells using CRISPR-Cas9 technology, representing a radical and largely experimental method with potential long-term consequences and off-target genomic effects, altering immune cell genetics.",
+                        "wrongAnswer_2": "Administration of high-dose corticosteroids to broadly enhance the production of all cytokines, both pro- and anti-inflammatory, attempting to achieve immune rebalancing through generalized immune system stimulation and non-selective cytokine upregulation, leading to complex and unpredictable immune effects.",
+                        "wrongAnswer_3": "Physical removal of cytokine-rich fluids from the body via techniques like therapeutic plasmapheresis or hemodialysis to directly reduce systemic cytokine concentrations, offering temporary symptomatic relief but not addressing the underlying chronic inflammatory processes or cytokine production, providing transient cytokine reduction.",
+                        "wrongAnswer_4": "Dietary interventions focusing on eliminating specific amino acid precursors required for cytokine synthesis to reduce overall cytokine production, representing a less direct and generally less effective approach for significant cytokine modulation in established chronic inflammatory diseases, offering limited cytokine control."
+                    }
+                ]
+            },
+            {
+                "title": "Viruses and cytokines",
+                "quizzes": [
+                    {
+                        "question": "What is the principal and multifaceted role of cytokines in the host's complex immune response to viral infections, particularly concerning the initiation, coordination, and resolution of antiviral defense mechanisms?",
+                        "goodAnswer": "In antiviral immunity, cytokines function as critical signaling molecules that coordinate both innate and adaptive immune responses, promoting viral clearance by activating immune cells, inducing antiviral states in uninfected and infected cells, and modulating inflammation to control infection and limit immunopathology, orchestrating antiviral defense.",
+                        "wrongAnswer_1": "In viral infections, cytokines primarily serve to facilitate viral replication and dissemination by creating a broadly immunosuppressive environment that allows viruses to evade immune detection and propagate efficiently, directly benefiting viral pathogenesis and persistence within the host.",
+                        "wrongAnswer_2": "Cytokines mainly function in viral pathogenesis by directly inducing cytotoxic damage to host tissues through non-specific inflammatory effects, independent of their role in immune signaling or antiviral defense mechanisms, contributing directly to disease pathology and viral dissemination.",
+                        "wrongAnswer_3": "Cytokines predominantly operate in antiviral immunity by directly neutralizing viral particles in the extracellular space through direct virucidal activity, preventing viral entry into host cells and limiting the spread of infection through non-cellular mechanisms of viral inactivation.",
+                        "wrongAnswer_4": "In the context of viral infections, cytokines primarily function to induce immunological tolerance to viral antigens, thereby preventing excessive immune responses and minimizing the risk of immunopathology, paradoxically favoring viral persistence and chronic infection establishment."
+                    },
+                    {
+                        "question": "How do certain viruses effectively evade or actively subvert host cytokine responses to establish persistent infection and chronic viral carriage within the infected host organism, promoting long-term viral survival?",
+                        "goodAnswer": "Some viruses encode specific viral proteins that directly interfere with host cytokine signaling pathways at multiple levels, such as by blocking cytokine receptors, inhibiting Janus kinase-Signal Transducer and Activator of Transcription (JAK-STAT) phosphorylation, or suppressing host cytokine gene expression, thereby dampening antiviral immunity and promoting viral persistence and immune evasion.",
+                        "wrongAnswer_1": "Viruses primarily evade cytokine responses by inducing a global and non-specific upregulation of host anti-inflammatory cytokines, which effectively counteracts the pro-inflammatory antiviral signals and broadly suppresses antiviral immunity, shifting the overall immune balance towards viral tolerance and chronic carriage.",
+                        "wrongAnswer_2": "Viruses evade cytokine responses predominantly by rapidly mutating their antigenic epitopes, leading to efficient immune escape from both humoral and cellular immunity and rendering cytokine-mediated antiviral mechanisms largely ineffective, primarily targeting antibody and T cell recognition and effector functions.",
+                        "wrongAnswer_3": "Viruses primarily evade cytokine responses by physically sequestering host cytokines within virus-infected cells, preventing their secretion and subsequent paracrine or endocrine signaling to neighboring immune cells and tissues, limiting intercellular communication and immune coordination and response amplification.",
+                        "wrongAnswer_4": "Viruses evade cytokine responses by triggering a massive and uncontrolled systemic cytokine storm, which paradoxically overwhelms and exhausts the host's immune system, ultimately leading to a state of immune paralysis and persistent infection through immune system burnout and functional exhaustion of immune cells."
+                    },
+                    {
+                        "question": "Which of the following mechanisms accurately represents a specific viral strategy employed by certain viruses to directly interfere with interferon (IFN) signaling, a key cytokine pathway in antiviral defense, thereby facilitating viral immune evasion and persistence?",
+                        "goodAnswer": "Virally encoded proteins that specifically block the phosphorylation or nuclear translocation of Signal Transducer and Activator of Transcription (STAT) proteins, thereby inhibiting the expression of interferon-stimulated genes (ISGs) that are essential for establishing antiviral responses and undermining IFN-mediated immunity at the level of gene transcription and protein synthesis.",
+                        "wrongAnswer_1": "Virally encoded proteins that paradoxically enhance the expression of interferon-gamma (IFN-\u03b3) receptors on immune cells, leading to hyper-activation of antiviral responses and accelerated immune clearance of the invading virus, inadvertently boosting host defenses and promoting viral eradication rather than evasion.",
+                        "wrongAnswer_2": "Virally encoded proteins that directly degrade circulating interferon molecules in the extracellular space through enzymatic activity, effectively neutralizing their antiviral activity before they can bind to target cell receptors and initiate intracellular signaling, directly eliminating IFN molecules from the extracellular milieu.",
+                        "wrongAnswer_3": "Virally encoded proteins that constitutively induce the expression of interferon-stimulated genes (ISGs) even in the absence of interferon stimulation, leading to chronic cellular stress, cellular exhaustion, and impaired antiviral immunity through sustained and dysregulated ISG stimulation and homeostatic disruption.",
+                        "wrongAnswer_4": "Virally encoded proteins that redirect interferon signaling pathways to selectively activate pro-viral cellular pathways, thereby promoting viral replication, assembly, and dissemination within the infected host organism, effectively hijacking IFN signaling machinery for viral benefit and propagation instead of antiviral defense."
+                    }
+                ]
+            }
+        ]
+    }
+}

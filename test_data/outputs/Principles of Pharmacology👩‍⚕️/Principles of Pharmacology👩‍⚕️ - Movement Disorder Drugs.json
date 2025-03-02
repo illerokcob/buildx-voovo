@@ -1,0 +1,132 @@
+{
+    "mainTopic": {
+        "title": "Movement Disorder Drugs",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of movement disorders and Parkinson's disease",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the primary classification of movement disorders, differentiating between hyperkinetic and hypokinetic categories?",
+                        "goodAnswer": "Movement disorders are broadly classified into hyperkinetic disorders, characterized by excessive involuntary movements such as chorea and tics, and hypokinetic disorders, distinguished by a paucity of movement like bradykinesia and rigidity.",
+                        "wrongAnswer_1": "Movement disorders are primarily divided into akinetic disorders, marked by complete absence of movement, and dyskinetic disorders, defined by distorted but not necessarily excessive movements.",
+                        "wrongAnswer_2": "Movement disorders are categorized as either neurological, encompassing conditions originating from the central nervous system, or psychiatric, referring to movement abnormalities due to mental health conditions.",
+                        "wrongAnswer_3": "Movement disorders are classified based on their anatomical location in the body, such as proximal disorders affecting limbs and distal disorders affecting facial muscles and extremities.",
+                        "wrongAnswer_4": "Movement disorders are separated into acute onset disorders, which develop rapidly over hours or days, and chronic progressive disorders, which worsen gradually over years, irrespective of movement quantity."
+                    },
+                    {
+                        "question": "What is the most critical neuropathological feature consistently observed in Parkinson's disease that directly leads to its characteristic motor symptoms?",
+                        "goodAnswer": "The hallmark neuropathological feature of Parkinson's disease is the progressive degeneration and loss of dopaminergic neurons specifically within the substantia nigra pars compacta, leading to dopamine deficiency in the striatum.",
+                        "wrongAnswer_1": "The key neuropathological finding in Parkinson's disease is the widespread inflammation and demyelination of neurons throughout the cerebral cortex, causing a general decline in motor and cognitive function.",
+                        "wrongAnswer_2": "Parkinson's disease is primarily characterized by the accumulation of amyloid plaques and neurofibrillary tangles in the hippocampus, disrupting memory and indirectly affecting motor coordination over time.",
+                        "wrongAnswer_3": "The main neuropathological feature of Parkinson's disease involves the selective atrophy of cerebellar Purkinje cells, which impairs motor balance and coordination but not necessarily initiation of movement.",
+                        "wrongAnswer_4": "Parkinson's disease is defined by the excessive proliferation of glial cells, particularly astrocytes, in the basal ganglia, resulting in physical obstruction of neuronal signaling pathways and motor impairment."
+                    },
+                    {
+                        "question": "Which of the following sets of symptoms most accurately represents the primary motor manifestations typically associated with Parkinson's disease?",
+                        "goodAnswer": "The cardinal motor symptoms of Parkinson's disease are tremor at rest, rigidity, bradykinesia (slowness of movement), and postural instability, often accompanied by gait disturbances and reduced facial expression.",
+                        "wrongAnswer_1": "The main motor symptoms of Parkinson's disease include intention tremor, spasticity, hyperkinesia (excessive movement), and exaggerated reflexes, leading to jerky and uncontrolled movements.",
+                        "wrongAnswer_2": "Parkinson's disease is characterized by chorea, athetosis, dystonia, and myoclonus, which are all forms of involuntary, excessive movements that disrupt normal motor function.",
+                        "wrongAnswer_3": "The primary motor features of Parkinson's disease are muscle weakness, fasciculations, muscle atrophy, and areflexia, indicative of lower motor neuron damage and progressive muscle wasting.",
+                        "wrongAnswer_4": "Parkinson's motor symptoms typically present as ballism, hemiballism, tics, and stereotypies, which involve violent flinging movements and repetitive, patterned behaviors."
+                    }
+                ]
+            },
+            {
+                "title": "Biochemistry of dopamine",
+                "quizzes": [
+                    {
+                        "question": "What is the correct enzymatic sequence in the biosynthesis pathway of dopamine from its initial precursor, L-phenylalanine?",
+                        "goodAnswer": "L-Phenylalanine  -> Phenylalanine hydroxylase -> L-Tyrosine -> Tyrosine hydroxylase -> L-DOPA -> DOPA decarboxylase -> Dopamine",
+                        "wrongAnswer_1": "L-Phenylalanine -> Tyrosine hydroxylase -> L-Tyrosine -> Phenylalanine hydroxylase -> L-DOPA -> Aromatic amino acid decarboxylase -> Dopamine",
+                        "wrongAnswer_2": "L-Phenylalanine -> Phenylalanine dehydrogenase -> L-Tyrosine -> DOPA decarboxylase -> L-DOPA -> Tyrosine hydroxylase -> Dopamine",
+                        "wrongAnswer_3": "L-Tyrosine -> Phenylalanine hydroxylase -> L-Phenylalanine -> Tyrosine hydroxylase -> L-DOPA -> DOPA decarboxylase -> Dopamine",
+                        "wrongAnswer_4": "L-Phenylalanine -> Phenylalanine hydroxylase -> L-Tyrosine -> DOPA decarboxylase -> L-DOPA -> Tyrosine hydroxylase -> Dopamine"
+                    },
+                    {
+                        "question": "Which of the following metabolic pathways represents the primary degradation route of dopamine in the synaptic cleft, leading to its inactivation?",
+                        "goodAnswer": "Dopamine is primarily metabolized by Monoamine Oxidase (MAO) and Catechol-O-methyltransferase (COMT), sequentially or concurrently, to produce inactive metabolites such as homovanillic acid (HVA).",
+                        "wrongAnswer_1": "Dopamine is predominantly broken down by Acetylcholinesterase (AChE) and Butyrylcholinesterase (BChE) within the synapse, resulting in choline and acetic acid as the main degradation products.",
+                        "wrongAnswer_2": "The primary degradation pathway for dopamine involves peptidases and proteases in the synaptic cleft, which cleave dopamine into smaller amino acid fragments that are then reabsorbed by glial cells.",
+                        "wrongAnswer_3": "Dopamine is mainly metabolized through sulfation and glucuronidation reactions in the liver and kidneys, before being excreted in urine as dopamine sulfate or dopamine glucuronide conjugates.",
+                        "wrongAnswer_4": "The principal inactivation mechanism for dopamine is reuptake into the presynaptic neuron via dopamine transporters (DAT), with minimal enzymatic degradation occurring in the synaptic cleft itself."
+                    },
+                    {
+                        "question": "How do D2 receptors, a subtype of dopamine receptors, primarily exert their intracellular signaling effects upon activation by dopamine?",
+                        "goodAnswer": "D2 receptors, being G protein-coupled receptors of the Gi/o family, primarily inhibit adenylyl cyclase activity, leading to a decrease in intracellular cAMP levels and subsequent modulation of downstream signaling pathways.",
+                        "wrongAnswer_1": "D2 receptors, functioning as ligand-gated ion channels, directly increase membrane permeability to sodium ions upon dopamine binding, causing rapid depolarization and neuronal excitation.",
+                        "wrongAnswer_2": "D2 receptors, as receptor tyrosine kinases, initiate intracellular signaling by autophosphorylation and activation of downstream kinases like MAPK and PI3K upon dopamine binding.",
+                        "wrongAnswer_3": "D2 receptors, acting as nuclear receptors, translocate to the nucleus upon dopamine binding, directly influencing gene transcription and protein synthesis related to neuronal function.",
+                        "wrongAnswer_4": "D2 receptors, classified as G protein-coupled receptors of the Gq family, primarily stimulate phospholipase C (PLC) activity, leading to an increase in intracellular calcium and activation of protein kinase C (PKC)."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of Parkinson's disease",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of levodopa in alleviating motor symptoms in Parkinson's disease?",
+                        "goodAnswer": "Levodopa acts as a precursor to dopamine; it crosses the blood-brain barrier and is converted into dopamine by DOPA decarboxylase in the brain, thereby replenishing dopamine levels in the striatum.",
+                        "wrongAnswer_1": "Levodopa directly stimulates dopamine receptors in the basal ganglia, mimicking the effects of dopamine and bypassing the need for endogenous dopamine production.",
+                        "wrongAnswer_2": "Levodopa inhibits the enzyme monoamine oxidase B (MAO-B), preventing the breakdown of endogenous dopamine and prolonging its action in the synapse.",
+                        "wrongAnswer_3": "Levodopa enhances the release of dopamine from surviving dopaminergic neurons in the substantia nigra, increasing dopamine availability at the synaptic cleft.",
+                        "wrongAnswer_4": "Levodopa blocks the reuptake of dopamine from the synaptic cleft by inhibiting dopamine transporters (DAT), thereby increasing dopamine concentration in the synapse."
+                    },
+                    {
+                        "question": "Why is levodopa typically administered in conjunction with carbidopa in the treatment of Parkinson's disease?",
+                        "goodAnswer": "Carbidopa, a peripheral DOPA decarboxylase inhibitor, is co-administered with levodopa to prevent the premature conversion of levodopa to dopamine in the periphery, thereby reducing peripheral side effects and increasing levodopa bioavailability in the brain.",
+                        "wrongAnswer_1": "Carbidopa is given with levodopa to enhance the transport of levodopa across the blood-brain barrier by competitively inhibiting peripheral transporters that would otherwise restrict levodopa entry into the CNS.",
+                        "wrongAnswer_2": "Carbidopa acts as a dopamine receptor agonist, synergistically enhancing the effects of levodopa at dopamine receptors and improving motor symptom control in Parkinson's disease.",
+                        "wrongAnswer_3": "Carbidopa is a COMT inhibitor that prevents the peripheral metabolism of levodopa by catechol-O-methyltransferase, thus prolonging the duration of action of levodopa in the central nervous system.",
+                        "wrongAnswer_4": "Carbidopa reduces the gastrointestinal absorption of levodopa, minimizing systemic exposure and thereby decreasing the risk of long-term complications associated with levodopa therapy."
+                    },
+                    {
+                        "question": "How do Monoamine Oxidase B (MAO-B) inhibitors, such as selegiline and rasagiline, contribute to the management of Parkinson's disease symptoms?",
+                        "goodAnswer": "MAO-B inhibitors selectively block the activity of MAO-B, an enzyme that metabolizes dopamine in the brain, thereby reducing dopamine breakdown and increasing dopamine levels in the synaptic cleft, particularly in the striatum.",
+                        "wrongAnswer_1": "MAO-B inhibitors enhance the synthesis of dopamine by activating tyrosine hydroxylase, the rate-limiting enzyme in dopamine biosynthesis, leading to increased dopamine production in dopaminergic neurons.",
+                        "wrongAnswer_2": "MAO-B inhibitors directly stimulate dopamine receptors, particularly D2 receptors, mimicking the effects of dopamine and improving motor function in Parkinson's disease patients.",
+                        "wrongAnswer_3": "MAO-B inhibitors promote the release of dopamine from presynaptic vesicles into the synaptic cleft, increasing dopamine availability for receptor activation and symptomatic relief.",
+                        "wrongAnswer_4": "MAO-B inhibitors act as dopamine reuptake inhibitors, blocking dopamine transporters (DAT) and preventing the reabsorption of dopamine from the synapse, thus prolonging its synaptic action."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which dopamine receptor agonists, such as pramipexole and ropinirole, alleviate motor symptoms in Parkinson's disease?",
+                        "goodAnswer": "Dopamine receptor agonists directly stimulate dopamine receptors in the brain, particularly D2 and D3 receptor subtypes in the striatum, mimicking the action of dopamine and compensating for dopamine deficiency.",
+                        "wrongAnswer_1": "Dopamine receptor agonists increase the endogenous production of dopamine by stimulating tyrosine hydroxylase and DOPA decarboxylase, enhancing dopamine biosynthesis in dopaminergic neurons.",
+                        "wrongAnswer_2": "Dopamine receptor agonists inhibit the metabolism of dopamine by blocking MAO-B and COMT enzymes, thus prolonging the lifespan of endogenous dopamine in the synapse.",
+                        "wrongAnswer_3": "Dopamine receptor agonists enhance the transport of dopamine across the blood-brain barrier, improving dopamine delivery to the brain and increasing dopamine concentration in the striatum.",
+                        "wrongAnswer_4": "Dopamine receptor agonists reduce the degradation of dopaminergic neurons in the substantia nigra, slowing down the progression of Parkinson's disease and preserving endogenous dopamine production."
+                    }
+                ]
+            },
+            {
+                "title": "Dopamine receptor antagonists",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental mechanism of action shared by dopamine receptor antagonists, leading to their therapeutic effects in conditions like schizophrenia?",
+                        "goodAnswer": "Dopamine receptor antagonists primarily block dopamine receptors, particularly D2 receptors, in various brain pathways, reducing dopaminergic neurotransmission and mitigating symptoms associated with dopamine hyperactivity, such as psychosis.",
+                        "wrongAnswer_1": "Dopamine receptor antagonists enhance dopamine reuptake from the synapse, reducing dopamine concentration and normalizing dopaminergic signaling in hyperactive brain circuits.",
+                        "wrongAnswer_2": "Dopamine receptor antagonists increase the metabolism of dopamine by activating MAO and COMT enzymes, thereby lowering dopamine levels in the brain and alleviating psychotic symptoms.",
+                        "wrongAnswer_3": "Dopamine receptor antagonists stimulate inhibitory GABAergic neurons in the brain, indirectly reducing dopaminergic activity through GABA-mediated inhibition of dopamine release.",
+                        "wrongAnswer_4": "Dopamine receptor antagonists deplete dopamine stores in presynaptic vesicles, reducing the amount of dopamine available for release into the synapse and thus decreasing dopaminergic neurotransmission."
+                    },
+                    {
+                        "question": "How do 'atypical' antipsychotic dopamine receptor antagonists differ mechanistically from 'typical' antipsychotics in terms of receptor binding profiles?",
+                        "goodAnswer": "Atypical antipsychotics generally exhibit a lower affinity for D2 receptors and a higher affinity for serotonin 5-HT2A receptors compared to typical antipsychotics, leading to a reduced risk of extrapyramidal side effects and broader efficacy.",
+                        "wrongAnswer_1": "Atypical antipsychotics selectively block D1 receptors while typical antipsychotics primarily target D2 receptors, resulting in different therapeutic profiles and side effect profiles.",
+                        "wrongAnswer_2": "Atypical antipsychotics act as partial agonists at D2 receptors, providing a balanced modulation of dopaminergic activity, whereas typical antipsychotics are full antagonists, causing more pronounced D2 receptor blockade.",
+                        "wrongAnswer_3": "Atypical antipsychotics enhance dopamine receptor desensitization upon chronic administration, leading to a gradual reduction in dopamine receptor responsiveness, unlike typical antipsychotics which maintain high receptor blockade.",
+                        "wrongAnswer_4": "Atypical antipsychotics primarily target presynaptic dopamine autoreceptors, reducing dopamine synthesis and release, while typical antipsychotics mainly block postsynaptic D2 receptors, directly inhibiting dopamine signaling."
+                    },
+                    {
+                        "question": "Which of the following is a common side effect associated with typical dopamine receptor antagonists, primarily due to their potent D2 receptor blockade in the nigrostriatal pathway?",
+                        "goodAnswer": "Extrapyramidal symptoms (EPS), including parkinsonism, dystonia, akathisia, and tardive dyskinesia, are common side effects of typical dopamine receptor antagonists due to D2 receptor blockade in the nigrostriatal pathway.",
+                        "wrongAnswer_1": "Metabolic syndrome, characterized by weight gain, hyperglycemia, and dyslipidemia, is a primary side effect of typical dopamine receptor antagonists resulting from their blockade of histamine H1 and alpha-adrenergic receptors.",
+                        "wrongAnswer_2": "Anticholinergic effects, such as dry mouth, constipation, and blurred vision, are the most prevalent side effects of typical dopamine receptor antagonists due to their significant antagonism of muscarinic acetylcholine receptors.",
+                        "wrongAnswer_3": "Sedation and cognitive impairment are the most common side effects of typical dopamine receptor antagonists, primarily mediated by their strong blockade of serotonin 5-HT2A receptors in the cerebral cortex.",
+                        "wrongAnswer_4": "Cardiovascular side effects, including QT prolongation and orthostatic hypotension, are the most frequent adverse effects of typical dopamine receptor antagonists due to their antagonism of alpha-1 adrenergic receptors and potassium channels."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "mainTopic": {
+        "title": "Vasoactive Drugs for Congestive Heart Failure",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Physiology and definition of congestive heart failure",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the fundamental physiological deficit in congestive heart failure (CHF)?",
+                        "goodAnswer": "The inability of the heart to pump blood at a rate sufficient to meet the metabolic demands of the body or the ability to do so only at elevated filling pressures.",
+                        "wrongAnswer_1": "The excessive pumping of blood by the heart leading to increased systemic blood pressure and eventual vascular damage.",
+                        "wrongAnswer_2": "The structural enlargement of the heart chambers to accommodate increased blood volume, resulting in inefficient contraction.",
+                        "wrongAnswer_3": "The heart's oversensitivity to adrenergic stimulation, causing rapid and uncoordinated contractions and reduced cardiac output.",
+                        "wrongAnswer_4": "The complete cessation of blood flow from the heart due to ventricular standstill, requiring immediate resuscitation."
+                    },
+                    {
+                        "question": "What is the primary hemodynamic hallmark that differentiates heart failure with reduced ejection fraction (HFrEF) from heart failure with preserved ejection fraction (HFpEF)?",
+                        "goodAnswer": "HFrEF is characterized by a left ventricular ejection fraction (LVEF) of less than 40%, reflecting systolic dysfunction, while HFpEF presents with an LVEF of 50% or greater, indicative of diastolic dysfunction.",
+                        "wrongAnswer_1": "HFrEF is defined by a right ventricular ejection fraction (RVEF) below 40%, whereas HFpEF is marked by an RVEF above 50%, indicating differential ventricular involvement.",
+                        "wrongAnswer_2": "HFrEF shows a left ventricular end-diastolic volume index (LVEDVI) greater than 70 mL/m\u00b2, indicating volume overload, and HFpEF presents with LVEDVI less than 50 mL/m\u00b2.",
+                        "wrongAnswer_3": "HFrEF is associated with elevated pulmonary artery wedge pressure (PAWP) above 25 mmHg, signifying pulmonary hypertension, whereas HFpEF shows PAWP below 15 mmHg.",
+                        "wrongAnswer_4": "HFrEF is distinguished by a cardiac index (CI) of greater than 3.5 L/min/m\u00b2, suggesting hyperdynamic circulation, and HFpEF is identified by a CI less than 2.0 L/min/m\u00b2."
+                    },
+                    {
+                        "question": "In the context of cardiac physiology, which compensatory mechanism initially helps maintain cardiac output in early heart failure but eventually contributes to the progression of the disease?",
+                        "goodAnswer": "Neurohormonal activation, including the renin-angiotensin-aldosterone system (RAAS) and the sympathetic nervous system, which initially increases contractility and volume retention but leads to remodeling and further dysfunction over time.",
+                        "wrongAnswer_1": "Myocardial hypertrophy, which is an immediate adaptive response that permanently strengthens the heart muscle and prevents further deterioration of cardiac function.",
+                        "wrongAnswer_2": "Peripheral vasodilation, which immediately reduces afterload and decreases the workload on the failing heart without adverse long-term effects.",
+                        "wrongAnswer_3": "Increased erythropoiesis, which elevates red blood cell count and oxygen-carrying capacity, resolving tissue hypoxia and reversing heart failure progression.",
+                        "wrongAnswer_4": "Coronary artery vasodilation, which improves myocardial blood supply and nutrient delivery, directly repairing damaged cardiac tissue in heart failure."
+                    }
+                ]
+            },
+            {
+                "title": "Definition of congestive heart failure and mortality",
+                "quizzes": [
+                    {
+                        "question": "According to contemporary medical definitions, congestive heart failure is best characterized as a clinical syndrome resulting in what primary outcome concerning the heart?",
+                        "goodAnswer": "The heart's inability to pump sufficient blood to meet the body's needs, leading to symptoms of fluid retention and shortness of breath, indicating a structural or functional cardiac disorder.",
+                        "wrongAnswer_1": "An acute inflammatory condition of the myocardium causing sudden cessation of cardiac function and requiring immediate surgical intervention to restore blood flow.",
+                        "wrongAnswer_2": "A congenital defect in the heart valves that obstructs blood flow and necessitates early corrective surgery to prevent irreversible cardiac damage.",
+                        "wrongAnswer_3": "A chronic vascular disease characterized by progressive hardening of the arteries, leading to reduced blood supply to the heart muscle and eventual infarction.",
+                        "wrongAnswer_4": "A metabolic disorder affecting cardiac muscle cells, causing abnormal energy production and leading to erratic heart rhythms and sudden cardiac arrest."
+                    },
+                    {
+                        "question": "Which of the following statements accurately reflects the mortality associated with congestive heart failure when compared to other common chronic illnesses?",
+                        "goodAnswer": "Congestive heart failure carries a mortality rate comparable to or exceeding that of many common cancers, with approximately 50% of patients dying within 5 years of diagnosis despite advancements in treatment.",
+                        "wrongAnswer_1": "Congestive heart failure has a significantly lower mortality rate than type 2 diabetes, with most patients living for decades after diagnosis with proper lifestyle management.",
+                        "wrongAnswer_2": "The mortality rate for congestive heart failure is similar to that of chronic obstructive pulmonary disease (COPD), with both conditions having a relatively benign long-term prognosis.",
+                        "wrongAnswer_3": "Congestive heart failure mortality is primarily associated with acute exacerbations and is effectively managed with short-term hospitalizations and aggressive diuretic therapy.",
+                        "wrongAnswer_4": "Mortality in congestive heart failure is largely determined by patient age at diagnosis, with younger patients having a substantially higher risk of early mortality compared to older patients."
+                    },
+                    {
+                        "question": "Which factor is most strongly associated with increased mortality in patients diagnosed with congestive heart failure?",
+                        "goodAnswer": "Progressive worsening of New York Heart Association (NYHA) functional class, indicating increasing symptom severity and functional limitation, is a strong predictor of adverse outcomes.",
+                        "wrongAnswer_1": "Elevated levels of serum cholesterol at the time of diagnosis, reflecting a higher risk of atherosclerotic cardiovascular disease and subsequent mortality.",
+                        "wrongAnswer_2": "Patient's body mass index (BMI) at diagnosis, with obesity being directly correlated with increased mortality risk in heart failure patients.",
+                        "wrongAnswer_3": "Presence of a family history of heart failure, suggesting a strong genetic predisposition to rapid disease progression and early mortality.",
+                        "wrongAnswer_4": "Initial response to diuretic therapy, where poor diuretic response in the acute phase is the most significant determinant of long-term mortality."
+                    }
+                ]
+            },
+            {
+                "title": "5 main physiologic ways to get heart failure",
+                "quizzes": [
+                    {
+                        "question": "Which pathophysiological mechanism is primarily responsible for heart failure development following a large myocardial infarction (MI)?",
+                        "goodAnswer": "Loss of viable myocardium and subsequent scar tissue formation, leading to reduced systolic function, ventricular remodeling, and impaired contractility.",
+                        "wrongAnswer_1": "Acute inflammatory response in the pericardium post-MI, causing restrictive pericarditis and limiting diastolic filling of the ventricles.",
+                        "wrongAnswer_2": "Increased vagal tone following MI, resulting in bradycardia and reduced cardiac output due to decreased heart rate.",
+                        "wrongAnswer_3": "Rapid development of left ventricular hypertrophy post-MI, leading to diastolic dysfunction and impaired ventricular relaxation.",
+                        "wrongAnswer_4": "Systemic vasodilation triggered by myocardial necrosis, causing decreased afterload and inadequate blood pressure maintenance."
+                    },
+                    {
+                        "question": "Chronic hypertension leads to heart failure primarily through which physiological pathway?",
+                        "goodAnswer": "Sustained increase in afterload causing left ventricular hypertrophy, initially compensatory but eventually leading to diastolic dysfunction and potentially systolic dysfunction.",
+                        "wrongAnswer_1": "Direct toxic effects of elevated blood pressure on myocardial cells, causing cellular necrosis and progressive loss of contractile function.",
+                        "wrongAnswer_2": "Increased coronary artery blood flow due to hypertension, resulting in myocardial oxygen demand exceeding supply and causing ischemia.",
+                        "wrongAnswer_3": "Systemic vasodilation as a compensatory mechanism for hypertension, leading to reduced venous return and decreased preload.",
+                        "wrongAnswer_4": "Pulmonary vasoconstriction secondary to hypertension, causing right ventricular hypertrophy and eventual right heart failure."
+                    },
+                    {
+                        "question": "Valvular heart diseases, such as aortic stenosis or mitral regurgitation, induce heart failure primarily through which mechanism?",
+                        "goodAnswer": "Chronic pressure or volume overload on the heart chambers, leading to remodeling, hypertrophy, and eventual systolic and/or diastolic dysfunction depending on the valve lesion.",
+                        "wrongAnswer_1": "Direct inflammatory damage to the myocardium caused by turbulent blood flow through the diseased valves, resulting in myocarditis and impaired contractility.",
+                        "wrongAnswer_2": "Thrombus formation on the abnormal heart valves, leading to thromboembolism and subsequent myocardial infarction causing heart failure.",
+                        "wrongAnswer_3": "Disruption of normal electrical conduction pathways due to valvular abnormalities, leading to arrhythmias and tachycardia-induced cardiomyopathy.",
+                        "wrongAnswer_4": "Reduction in coronary artery perfusion pressure due to altered hemodynamics from valvular disease, causing myocardial ischemia and contractile dysfunction."
+                    },
+                    {
+                        "question": "Dilated cardiomyopathy, a common cause of heart failure, is characterized by which primary cardiac abnormality?",
+                        "goodAnswer": "Enlargement of the ventricular chambers, particularly the left ventricle, with impaired systolic function and reduced ejection fraction due to weakened myocardial contractility.",
+                        "wrongAnswer_1": "Thickening of the ventricular walls, especially the septum, leading to diastolic dysfunction and obstruction of left ventricular outflow tract.",
+                        "wrongAnswer_2": "Stiffening of the ventricular myocardium, restricting ventricular filling during diastole and leading to elevated filling pressures.",
+                        "wrongAnswer_3": "Inflammation of the pericardial sac, causing compression of the heart and limiting both systolic and diastolic function.",
+                        "wrongAnswer_4": "Calcification of the heart valves, particularly the mitral and aortic valves, causing valvular stenosis and regurgitation."
+                    },
+                    {
+                        "question": "Tachycardia-induced cardiomyopathy results in heart failure through which primary pathophysiological process?",
+                        "goodAnswer": "Prolonged periods of rapid heart rate leading to myocardial energy depletion, impaired calcium handling, and ventricular remodeling, resulting in systolic dysfunction.",
+                        "wrongAnswer_1": "Increased afterload due to rapid heart rate, causing left ventricular hypertrophy and subsequent diastolic dysfunction.",
+                        "wrongAnswer_2": "Coronary artery spasm induced by tachycardia, leading to myocardial ischemia and necrosis and causing systolic dysfunction.",
+                        "wrongAnswer_3": "Elevated pulmonary artery pressure secondary to rapid heart rate, causing right ventricular hypertrophy and eventually right heart failure.",
+                        "wrongAnswer_4": "Increased preload due to reduced ventricular filling time during tachycardia, leading to ventricular dilatation and impaired systolic function."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of congestive heart failure according to its mechanism",
+                "quizzes": [
+                    {
+                        "question": "For a patient with congestive heart failure primarily due to fluid overload (increased preload), which class of medications is considered first-line therapy?",
+                        "goodAnswer": "Loop diuretics such as furosemide or bumetanide, which promote sodium and water excretion, reducing intravascular volume and alleviating congestion.",
+                        "wrongAnswer_1": "Beta-blockers like metoprolol or carvedilol, which reduce heart rate and blood pressure, decreasing myocardial oxygen demand and improving diastolic filling.",
+                        "wrongAnswer_2": "ACE inhibitors such as enalapril or lisinopril, which block the renin-angiotensin-aldosterone system, reducing afterload and promoting vasodilation.",
+                        "wrongAnswer_3": "Positive inotropes like digoxin or dobutamine, which increase myocardial contractility and improve cardiac output in acute decompensation.",
+                        "wrongAnswer_4": "Vasodilators such as nitrates or hydralazine, which primarily reduce afterload and improve coronary blood flow, indirectly affecting preload."
+                    },
+                    {
+                        "question": "In patients with heart failure characterized by increased afterload and neurohormonal activation, which medication class is crucial for long-term management and mortality reduction?",
+                        "goodAnswer": "Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs), which reduce afterload, prevent ventricular remodeling, and block the RAAS.",
+                        "wrongAnswer_1": "Calcium channel blockers like amlodipine or diltiazem, which reduce blood pressure by peripheral vasodilation and are particularly effective in HFpEF.",
+                        "wrongAnswer_2": "Antiarrhythmic drugs such as amiodarone or sotalol, which prevent life-threatening arrhythmias common in heart failure and improve survival rates.",
+                        "wrongAnswer_3": "Anticoagulants like warfarin or heparin, which prevent thromboembolic events associated with heart failure and improve overall prognosis.",
+                        "wrongAnswer_4": "Statins such as atorvastatin or simvastatin, which lower cholesterol levels and reduce the risk of atherosclerotic progression in heart failure patients."
+                    },
+                    {
+                        "question": "For patients with heart failure and reduced ejection fraction (HFrEF) who remain symptomatic despite ACE inhibitors, beta-blockers, and diuretics, which medication class is now recommended to further reduce morbidity and mortality, targeting neurohormonal overactivation?",
+                        "goodAnswer": "Mineralocorticoid receptor antagonists (MRAs) like spironolactone or eplerenone, which block aldosterone effects, reducing sodium retention, fibrosis, and potassium loss.",
+                        "wrongAnswer_1": "Nitrates such as isosorbide dinitrate, which primarily act as venodilators to reduce preload and are particularly beneficial in patients with angina and heart failure.",
+                        "wrongAnswer_2": "Hydralazine, a direct arterial vasodilator, which primarily reduces afterload and is often used in combination with nitrates in specific patient populations.",
+                        "wrongAnswer_3": "Alpha-blockers like prazosin or terazosin, which reduce blood pressure by blocking alpha-adrenergic receptors and are used for hypertension management in HF.",
+                        "wrongAnswer_4": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors, primarily used for diabetes management but also beneficial in heart failure by improving glycemic control and reducing fluid volume."
+                    },
+                    {
+                        "question": "In acute decompensated heart failure with severe hypotension and evidence of low cardiac output ('cold and wet' profile), which class of medications is typically used to improve hemodynamics in the short term?",
+                        "goodAnswer": "Intravenous inotropes like dobutamine or milrinone, which increase myocardial contractility and cardiac output, improving tissue perfusion and blood pressure.",
+                        "wrongAnswer_1": "Intravenous beta-blockers like metoprolol, which reduce heart rate and myocardial oxygen demand, stabilizing cardiac rhythm in acute decompensation.",
+                        "wrongAnswer_2": "Intravenous ACE inhibitors like enalaprilat, which rapidly reduce afterload and improve left ventricular function in acute heart failure.",
+                        "wrongAnswer_3": "Intravenous calcium channel blockers like verapamil, which reduce heart rate and blood pressure, improving diastolic filling in acute decompensation.",
+                        "wrongAnswer_4": "Intravenous nitrates like nitroglycerin, which primarily reduce preload and alleviate pulmonary congestion in acute heart failure."
+                    }
+                ]
+            },
+            {
+                "title": "Management of secondary neuroendocrine effects",
+                "quizzes": [
+                    {
+                        "question": "What is the primary rationale for targeting the renin-angiotensin-aldosterone system (RAAS) in the management of congestive heart failure?",
+                        "goodAnswer": "To mitigate the detrimental effects of RAAS activation, including vasoconstriction, sodium and water retention, and myocardial remodeling, which exacerbate heart failure progression.",
+                        "wrongAnswer_1": "To directly enhance myocardial contractility by increasing intracellular calcium levels, thereby improving cardiac output in heart failure.",
+                        "wrongAnswer_2": "To selectively dilate coronary arteries and improve myocardial blood supply, reducing ischemic burden and preventing further cardiac damage.",
+                        "wrongAnswer_3": "To reduce sympathetic nervous system activity and lower heart rate, decreasing myocardial oxygen demand and preventing arrhythmias in heart failure.",
+                        "wrongAnswer_4": "To promote natriuresis and diuresis, directly reducing fluid overload and alleviating pulmonary congestion in acute heart failure exacerbations."
+                    },
+                    {
+                        "question": "Which neuroendocrine system, in addition to RAAS, is significantly activated in heart failure and contributes to adverse remodeling and increased myocardial workload?",
+                        "goodAnswer": "The sympathetic nervous system (SNS), whose activation leads to increased heart rate, contractility, and vasoconstriction, initially compensatory but ultimately detrimental in chronic heart failure.",
+                        "wrongAnswer_1": "The parasympathetic nervous system, which is paradoxically overactive in heart failure, leading to bradycardia and reduced cardiac output.",
+                        "wrongAnswer_2": "The natriuretic peptide system, which, while activated, is insufficient to counteract the powerful effects of RAAS and SNS in advanced heart failure.",
+                        "wrongAnswer_3": "The endothelin system, which is primarily involved in pulmonary vasoconstriction and plays a minor role in systemic heart failure pathophysiology.",
+                        "wrongAnswer_4": "The kallikrein-kinin system, which is predominantly involved in inflammation and pain pathways and has minimal impact on heart failure neuroendocrine responses."
+                    },
+                    {
+                        "question": "How do beta-blockers exert their beneficial effects in chronic heart failure, specifically concerning neuroendocrine modulation?",
+                        "goodAnswer": "By blocking the effects of excessive sympathetic nervous system activation, reducing heart rate, myocardial oxygen demand, and preventing adverse remodeling through \u03b21-adrenergic receptor blockade.",
+                        "wrongAnswer_1": "By directly inhibiting the renin-angiotensin-aldosterone system at multiple levels, effectively reducing angiotensin II and aldosterone production in heart failure.",
+                        "wrongAnswer_2": "By enhancing the release and activity of natriuretic peptides, promoting vasodilation and sodium excretion to counteract RAAS and SNS effects.",
+                        "wrongAnswer_3": "By directly blocking aldosterone receptors in the kidneys and heart, reducing sodium retention, potassium loss, and myocardial fibrosis in heart failure.",
+                        "wrongAnswer_4": "By stimulating the parasympathetic nervous system, increasing vagal tone and reducing heart rate, thereby improving diastolic filling and cardiac output."
+                    },
+                    {
+                        "question": "Mineralocorticoid receptor antagonists (MRAs) such as spironolactone are used in heart failure to counteract which specific neuroendocrine effect?",
+                        "goodAnswer": "Aldosterone's detrimental effects, including sodium and water retention, potassium loss, myocardial and vascular fibrosis, and increased sympathetic tone, contributing to heart failure progression.",
+                        "wrongAnswer_1": "Excessive angiotensin II activity, directly inhibiting angiotensin II receptors and preventing vasoconstriction and adrenal aldosterone release.",
+                        "wrongAnswer_2": "Increased norepinephrine levels, directly blocking beta-adrenergic receptors and reducing sympathetic nervous system stimulation of the heart.",
+                        "wrongAnswer_3": "Elevated levels of endothelin, directly antagonizing endothelin receptors and reducing pulmonary and systemic vasoconstriction in heart failure.",
+                        "wrongAnswer_4": "Overactivity of the natriuretic peptide system, paradoxically inhibiting natriuretic peptide receptors to enhance sodium and water retention in severe heart failure."
+                    }
+                ]
+            },
+            {
+                "title": "Beta Blockers in the management of congestive heart failure",
+                "quizzes": [
+                    {
+                        "question": "Despite their initial negative inotropic effect, beta-blockers are a cornerstone of therapy in chronic heart failure with reduced ejection fraction (HFrEF). What is the primary long-term benefit of beta-blocker therapy in this setting?",
+                        "goodAnswer": "Reduction in mortality and hospitalization rates through neurohormonal modulation, prevention of adverse remodeling, and decreased risk of sudden cardiac death.",
+                        "wrongAnswer_1": "Immediate improvement in cardiac contractility and ejection fraction, leading to rapid symptom relief and enhanced functional capacity in HFrEF.",
+                        "wrongAnswer_2": "Direct vasodilation of coronary arteries, improving myocardial blood supply and reducing ischemic burden in patients with HFrEF and angina.",
+                        "wrongAnswer_3": "Significant reduction in systemic blood pressure, leading to decreased afterload and improved cardiac output in hypertensive heart failure patients.",
+                        "wrongAnswer_4": "Prevention of diastolic dysfunction and improvement in ventricular relaxation, making beta-blockers particularly effective in heart failure with preserved ejection fraction (HFpEF)."
+                    },
+                    {
+                        "question": "Which mechanism primarily explains how beta-blockers reduce the risk of sudden cardiac death in patients with chronic heart failure?",
+                        "goodAnswer": "By reducing myocardial ischemia, suppressing ventricular arrhythmias, and decreasing the likelihood of fatal arrhythmias triggered by sympathetic nervous system activation.",
+                        "wrongAnswer_1": "By directly improving myocardial conduction velocity and preventing re-entrant circuits, thus eliminating the substrate for ventricular tachyarrhythmias.",
+                        "wrongAnswer_2": "By increasing heart rate variability and enhancing vagal tone, thereby stabilizing cardiac electrical activity and preventing sudden cardiac death.",
+                        "wrongAnswer_3": "By reducing platelet aggregation and preventing coronary thrombosis, thus decreasing the risk of acute myocardial infarction and sudden cardiac death.",
+                        "wrongAnswer_4": "By lowering systemic blood pressure and reducing left ventricular hypertrophy, thus preventing hypertensive emergencies and sudden cardiac death."
+                    },
+                    {
+                        "question": "When initiating beta-blocker therapy in a patient with chronic heart failure, what is the recommended approach to minimize potential adverse effects and optimize patient tolerance?",
+                        "goodAnswer": "Start with a low dose and gradually titrate upwards every 2-4 weeks, monitoring for symptom worsening, fluid retention, and bradycardia, aiming for target doses proven in clinical trials.",
+                        "wrongAnswer_1": "Begin with a high loading dose to rapidly achieve therapeutic beta-blockade and quickly improve hemodynamic parameters in heart failure.",
+                        "wrongAnswer_2": "Administer beta-blockers intravenously in the acute phase of heart failure to ensure immediate and effective sympathetic blockade.",
+                        "wrongAnswer_3": "Combine beta-blockers with positive inotropes initially to counteract the negative inotropic effects and maintain cardiac output during therapy initiation.",
+                        "wrongAnswer_4": "Prescribe beta-blockers only after achieving optimal fluid status and symptom stability with diuretics and vasodilators in heart failure patients."
+                    },
+                    {
+                        "question": "Which specific beta-blockers have demonstrated mortality benefit and are guideline-recommended for use in chronic heart failure with reduced ejection fraction (HFrEF)?",
+                        "goodAnswer": "Bisoprolol, carvedilol, and metoprolol succinate (extended-release formulation) are the beta-blockers with proven efficacy in reducing mortality and morbidity in HFrEF.",
+                        "wrongAnswer_1": "Propranolol, atenolol, and timolol are the preferred beta-blockers for HFrEF due to their potent beta-adrenergic receptor blockade and extensive clinical use.",
+                        "wrongAnswer_2": "Metoprolol tartrate (immediate-release formulation), esmolol, and labetalol are the guideline-recommended beta-blockers for chronic management of HFrEF.",
+                        "wrongAnswer_3": "Sotalol, amiodarone, and dronedarone, primarily antiarrhythmic agents with beta-blocking properties, are the preferred beta-blockers in HFrEF.",
+                        "wrongAnswer_4": "Nebivolol, acebutolol, and pindolol, known for their intrinsic sympathomimetic activity, are the guideline-recommended beta-blockers for chronic HFrEF."
+                    }
+                ]
+            },
+            {
+                "title": "Severe congestive heart failure",
+                "quizzes": [
+                    {
+                        "question": "What clinical criteria typically define severe or advanced congestive heart failure, indicating a poor prognosis and need for specialized management?",
+                        "goodAnswer": "NYHA class IV symptoms at rest, recurrent hospitalizations for heart failure despite optimized guideline-directed medical therapy, and evidence of end-organ dysfunction.",
+                        "wrongAnswer_1": "NYHA class II symptoms on moderate exertion, stable clinical condition with standard heart failure medications, and preserved renal function.",
+                        "wrongAnswer_2": "First-time diagnosis of heart failure with reduced ejection fraction (HFrEF) and initial presentation with mild to moderate symptoms.",
+                        "wrongAnswer_3": "Presence of isolated diastolic dysfunction (HFpEF) without significant systolic impairment and minimal functional limitations.",
+                        "wrongAnswer_4": "Heart failure patients who are responsive to high-dose diuretic therapy and experience rapid symptom resolution during acute exacerbations."
+                    },
+                    {
+                        "question": "In severe congestive heart failure, which treatment strategy is typically employed to provide hemodynamic support and improve end-organ perfusion in patients unresponsive to conventional therapies?",
+                        "goodAnswer": "Mechanical circulatory support (MCS) devices, such as left ventricular assist devices (LVADs) or intra-aortic balloon pumps (IABPs), to augment cardiac output and maintain systemic circulation.",
+                        "wrongAnswer_1": "Aggressive fluid resuscitation with intravenous crystalloids and colloids to increase preload and improve ventricular filling in severe heart failure.",
+                        "wrongAnswer_2": "High-dose beta-blocker therapy to maximally reduce heart rate and myocardial oxygen demand, stabilizing cardiac function in severe heart failure.",
+                        "wrongAnswer_3": "Renal replacement therapy (dialysis) to aggressively remove excess fluid and electrolytes, improving symptoms of congestion in severe heart failure.",
+                        "wrongAnswer_4": "Surgical ventricular restoration to physically reduce the size of the dilated left ventricle and improve systolic function in severe heart failure."
+                    },
+                    {
+                        "question": "For patients with severe congestive heart failure who are not candidates for mechanical circulatory support or heart transplantation, what is the primary focus of management?",
+                        "goodAnswer": "Palliative care and symptom management, focusing on improving quality of life, alleviating distressing symptoms like dyspnea and pain, and providing emotional and spiritual support.",
+                        "wrongAnswer_1": "Aggressive up-titration of guideline-directed medical therapy to maximum tolerated doses, irrespective of symptom burden or functional status in severe heart failure.",
+                        "wrongAnswer_2": "Experimental therapies and investigational drugs with unproven efficacy, hoping to find a breakthrough treatment option for severe heart failure.",
+                        "wrongAnswer_3": "Frequent hospitalizations for intensive medical management and aggressive diuretic therapy to control fluid overload and prolong survival in severe heart failure.",
+                        "wrongAnswer_4": "Strict dietary restrictions and aggressive exercise regimens to reverse cardiac remodeling and improve functional capacity in severe heart failure."
+                    },
+                    {
+                        "question": "Which of the following is a common complication associated with severe congestive heart failure that significantly contributes to morbidity and mortality?",
+                        "goodAnswer": "Cardiogenic shock, characterized by severe hypotension, end-organ hypoperfusion, and metabolic acidosis, representing a life-threatening manifestation of advanced heart failure.",
+                        "wrongAnswer_1": "Hypertensive crisis, characterized by acutely elevated blood pressure and risk of stroke, commonly seen in patients with severe heart failure and uncontrolled hypertension.",
+                        "wrongAnswer_2": "Hypervolemic hyponatremia, characterized by excessive sodium retention and dilutional hyponatremia, leading to neurological symptoms in severe heart failure.",
+                        "wrongAnswer_3": "Pulmonary embolism, characterized by thromboembolic occlusion of pulmonary arteries, frequently occurring in patients with severe heart failure and hypercoagulability.",
+                        "wrongAnswer_4": "Acute kidney injury due to contrast nephropathy, typically induced by diagnostic procedures involving iodinated contrast agents in severe heart failure patients."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "mainTopic": {
+        "title": "The evaluation of chest pain",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Cardiac causes",
+                "quizzes": [
+                    {
+                        "question": "Which pathophysiological mechanism primarily underlies angina pectoris in the context of cardiac causes of chest pain?",
+                        "goodAnswer": "Myocardial ischemia due to an imbalance between myocardial oxygen supply and demand, often caused by coronary artery atherosclerosis.",
+                        "wrongAnswer_1": "Pericardial inflammation leading to friction rub and sharp chest pain exacerbated by breathing and body position changes.",
+                        "wrongAnswer_2": "Ventricular hypertrophy causing increased myocardial oxygen demand without corresponding increase in coronary blood flow.",
+                        "wrongAnswer_3": "Valvular stenosis or regurgitation resulting in turbulent blood flow and increased cardiac workload, leading to chest discomfort.",
+                        "wrongAnswer_4": "Pulmonary hypertension causing right ventricular strain and referred pain to the chest, mimicking cardiac angina."
+                    },
+                    {
+                        "question": "In the context of acute myocardial infarction (AMI), what is the most critical early cellular event that leads to irreversible myocardial injury?",
+                        "goodAnswer": "Prolonged interruption of coronary blood flow resulting in depletion of ATP and accumulation of toxic metabolic byproducts within cardiomyocytes.",
+                        "wrongAnswer_1": "Sudden increase in intracellular calcium levels causing uncontrolled muscle contraction and hypermetabolic state, leading to cell death.",
+                        "wrongAnswer_2": "Inflammatory response mediated by cytokines and chemokines, directly damaging cardiomyocytes and causing necrosis.",
+                        "wrongAnswer_3": "Rupture of unstable atherosclerotic plaque triggering platelet aggregation and thrombus formation, obstructing coronary arteries.",
+                        "wrongAnswer_4": "Electrical instability within the myocardium causing ventricular fibrillation and sudden cardiac arrest, leading to global ischemia."
+                    },
+                    {
+                        "question": "What is the primary hemodynamic consequence of severe aortic stenosis that contributes to the development of angina and heart failure?",
+                        "goodAnswer": "Increased left ventricular afterload due to obstruction of left ventricular outflow, leading to ventricular hypertrophy and reduced stroke volume.",
+                        "wrongAnswer_1": "Decreased left ventricular preload as a result of reduced venous return and impaired diastolic filling, causing reduced cardiac output.",
+                        "wrongAnswer_2": "Increased right ventricular afterload due to pulmonary congestion and back pressure from the left ventricle, causing right heart failure.",
+                        "wrongAnswer_3": "Decreased systemic vascular resistance leading to hypotension and inadequate coronary perfusion, resulting in myocardial ischemia.",
+                        "wrongAnswer_4": "Mitral regurgitation secondary to left ventricular dilation, causing volume overload in the left atrium and pulmonary edema."
+                    },
+                    {
+                        "question": "Which electrocardiographic (ECG) finding is most indicative of ST-segment elevation myocardial infarction (STEMI) in a patient presenting with acute chest pain?",
+                        "goodAnswer": "New ST-segment elevation of at least 1 mm in two contiguous limb leads or at least 2 mm in two contiguous precordial leads.",
+                        "wrongAnswer_1": "ST-segment depression and T-wave inversion in multiple leads, suggesting subendocardial ischemia or non-ST-segment elevation myocardial infarction (NSTEMI).",
+                        "wrongAnswer_2": "Prolonged PR interval and widened QRS complex, indicative of atrioventricular block or bundle branch block, unrelated to acute ischemia.",
+                        "wrongAnswer_3": "Presence of prominent U waves and flattened T waves, suggesting hypokalemia or electrolyte imbalance, mimicking ischemic changes.",
+                        "wrongAnswer_4": "Sinus tachycardia with nonspecific ST-T wave changes, often seen in anxiety or hyperthyroidism, lacking specificity for acute myocardial infarction."
+                    }
+                ]
+            },
+            {
+                "title": "Gastrointestinal causes",
+                "quizzes": [
+                    {
+                        "question": "What is the predominant pathophysiological mechanism by which gastroesophageal reflux disease (GERD) can cause chest pain mimicking cardiac angina?",
+                        "goodAnswer": "Esophageal mucosal irritation and inflammation due to repeated exposure to gastric acid, leading to visceral pain perceived as originating from the chest.",
+                        "wrongAnswer_1": "Gastric distension stimulating vagal nerve endings and causing referred pain to the chest, often associated with large meals and bloating.",
+                        "wrongAnswer_2": "Biliary colic due to gallstone obstruction of the bile duct, causing referred pain to the right upper quadrant and potentially radiating to the chest.",
+                        "wrongAnswer_3": "Pancreatic inflammation releasing enzymes that irritate nerve endings in the retroperitoneum and refer pain to the chest and back.",
+                        "wrongAnswer_4": "Intestinal ischemia due to mesenteric artery occlusion, causing severe abdominal pain that can sometimes radiate to the chest and mimic cardiac pain."
+                    },
+                    {
+                        "question": "Which esophageal motility disorder is most likely to present with chest pain that is described as squeezing, burning, or pressure-like, often mimicking angina?",
+                        "goodAnswer": "Diffuse esophageal spasm (DES), characterized by uncoordinated, high-amplitude esophageal contractions causing esophageal muscle pain.",
+                        "wrongAnswer_1": "Achalasia, characterized by impaired relaxation of the lower esophageal sphincter and esophageal aperistalsis, primarily causing dysphagia.",
+                        "wrongAnswer_2": "Nutcracker esophagus (hypercontractile esophagus), characterized by high-amplitude peristaltic contractions, mainly associated with dysphagia rather than chest pain.",
+                        "wrongAnswer_3": "Esophageal stricture, characterized by narrowing of the esophageal lumen, typically causing dysphagia to solids and liquids but not primarily chest pain.",
+                        "wrongAnswer_4": "Hiatal hernia, characterized by protrusion of the stomach into the chest cavity, often asymptomatic or causing GERD symptoms, not directly chest pain."
+                    },
+                    {
+                        "question": "In the context of gastrointestinal causes of chest pain, what is the significance of 'Boerhaave syndrome'?",
+                        "goodAnswer": "Spontaneous esophageal rupture, typically following forceful vomiting, leading to severe, sudden-onset chest pain and mediastinitis.",
+                        "wrongAnswer_1": "Esophageal varices rupture, usually due to portal hypertension, causing hematemesis and melena but not typically presenting with chest pain as the primary symptom.",
+                        "wrongAnswer_2": "Mallory-Weiss tear, a mucosal tear at the gastroesophageal junction, causing hematemesis after vomiting, but less likely to cause severe chest pain.",
+                        "wrongAnswer_3": "Pneumomediastinum due to alveolar rupture and air leakage into the mediastinum, causing chest pain and subcutaneous emphysema, but not directly related to esophageal rupture.",
+                        "wrongAnswer_4": "Esophageal cancer, a malignant tumor of the esophagus, typically presenting with progressive dysphagia and weight loss, with chest pain as a late symptom."
+                    },
+                    {
+                        "question": "Which of the following gastrointestinal conditions is LEAST likely to directly cause chest pain as a primary presenting symptom?",
+                        "goodAnswer": "Irritable Bowel Syndrome (IBS), a functional bowel disorder primarily characterized by abdominal pain, bloating, and altered bowel habits.",
+                        "wrongAnswer_1": "Esophagitis, inflammation of the esophageal mucosa, often due to GERD, which can cause burning chest pain.",
+                        "wrongAnswer_2": "Peptic ulcer disease, ulcers in the stomach or duodenum, which can cause epigastric pain that may radiate to the chest.",
+                        "wrongAnswer_3": "Gallbladder disease (cholecystitis or biliary colic), inflammation or obstruction of the gallbladder, which can cause right upper quadrant pain radiating to the chest.",
+                        "wrongAnswer_4": "Pancreatitis, inflammation of the pancreas, which can cause severe epigastric pain radiating to the back and chest."
+                    }
+                ]
+            },
+            {
+                "title": "Musculoskeletal causes",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism behind musculoskeletal chest pain originating from the costochondral joints (costochondritis or Tietze syndrome)?",
+                        "goodAnswer": "Inflammation of the cartilage connecting the ribs to the sternum, leading to localized tenderness and pain exacerbated by movement or palpation.",
+                        "wrongAnswer_1": "Muscle spasm of the intercostal muscles due to strain or overuse, causing diffuse chest pain that worsens with deep breathing or coughing.",
+                        "wrongAnswer_2": "Nerve entrapment of intercostal nerves due to compression or irritation, causing sharp, shooting pain along the rib cage, often radiating around the chest.",
+                        "wrongAnswer_3": "Fracture of the ribs or sternum due to trauma, causing severe, localized pain that is aggravated by movement and breathing.",
+                        "wrongAnswer_4": "Degenerative joint disease (osteoarthritis) of the costovertebral joints, causing chronic back and chest pain that is worse with activity and weight-bearing."
+                    },
+                    {
+                        "question": "Which of the following features is most helpful in differentiating musculoskeletal chest pain from cardiac angina based on patient history?",
+                        "goodAnswer": "Pain that is reproducible with palpation of the chest wall and exacerbated by specific movements or changes in position.",
+                        "wrongAnswer_1": "Pain that is described as a squeezing or pressure sensation, radiating to the left arm, jaw, or back, and associated with exertion.",
+                        "wrongAnswer_2": "Pain that is relieved by rest or nitroglycerin, and associated with risk factors for coronary artery disease such as hypertension and smoking.",
+                        "wrongAnswer_3": "Pain that is accompanied by shortness of breath, diaphoresis, and nausea, and associated with electrocardiographic changes.",
+                        "wrongAnswer_4": "Pain that is sudden in onset, severe, and described as tearing or ripping, radiating to the back, and associated with hypotension."
+                    },
+                    {
+                        "question": "In the context of musculoskeletal chest pain, what is 'slipping rib syndrome' (also known as rib tip syndrome or Cyriax syndrome)?",
+                        "goodAnswer": "Pain caused by hypermobility of the costal cartilage of the lower ribs (typically ribs 8-10), leading to clicking, popping, or slipping sensations and pain.",
+                        "wrongAnswer_1": "Pain due to inflammation of the sternoclavicular joint, the joint between the clavicle and the sternum, causing localized tenderness and pain with shoulder movement.",
+                        "wrongAnswer_2": "Pain due to compression of the thoracic outlet, the space between the clavicle and the first rib, causing neurovascular symptoms in the arm and shoulder.",
+                        "wrongAnswer_3": "Pain due to scoliosis, curvature of the spine, causing muscle imbalance and back pain that can sometimes radiate to the chest.",
+                        "wrongAnswer_4": "Pain due to kyphosis, excessive outward curvature of the spine, causing postural changes and back pain, potentially affecting chest wall mechanics."
+                    },
+                    {
+                        "question": "Which of the following is a typical aggravating factor for musculoskeletal chest pain, but less likely to worsen cardiac angina?",
+                        "goodAnswer": "Deep inspiration, coughing, sneezing, or twisting movements of the torso, which stress the chest wall structures.",
+                        "wrongAnswer_1": "Physical exertion, emotional stress, or exposure to cold temperatures, which increase myocardial oxygen demand.",
+                        "wrongAnswer_2": "Eating a large meal or lying down after eating, which can exacerbate gastroesophageal reflux disease (GERD).",
+                        "wrongAnswer_3": "Anxiety or panic attacks, which can trigger hyperventilation and chest tightness, mimicking cardiac symptoms.",
+                        "wrongAnswer_4": "Exposure to allergens or irritants, which can trigger asthma and bronchospasm, causing chest tightness and shortness of breath."
+                    }
+                ]
+            },
+            {
+                "title": "Aortic causes",
+                "quizzes": [
+                    {
+                        "question": "What is the hallmark symptom of acute aortic dissection, a life-threatening aortic cause of chest pain?",
+                        "goodAnswer": "Sudden onset of severe, tearing or ripping chest pain, often radiating to the back, between the shoulder blades, or to the abdomen.",
+                        "wrongAnswer_1": "Gradual onset of dull, aching chest discomfort, often described as pressure or tightness, localized in the anterior chest.",
+                        "wrongAnswer_2": "Intermittent, sharp, stabbing chest pain, lasting for seconds to minutes, often localized to the precordial area and exacerbated by breathing.",
+                        "wrongAnswer_3": "Burning, epigastric chest pain, often associated with meals and relieved by antacids, suggestive of gastroesophageal reflux.",
+                        "wrongAnswer_4": "Pleuritic chest pain, sharp and stabbing, worsened by inspiration and coughing, localized to one side of the chest."
+                    },
+                    {
+                        "question": "Which predisposing factor is most strongly associated with the development of aortic dissection?",
+                        "goodAnswer": "Hypertension, chronic high blood pressure causing weakening of the aortic wall and increased shear stress.",
+                        "wrongAnswer_1": "Hypercholesterolemia, high cholesterol levels leading to atherosclerosis and coronary artery disease, but less directly to aortic dissection.",
+                        "wrongAnswer_2": "Diabetes mellitus, impaired glucose metabolism increasing the risk of cardiovascular disease, but less specifically aortic dissection.",
+                        "wrongAnswer_3": "Obesity, excess body weight contributing to various cardiovascular risks, but not as directly linked to aortic dissection as hypertension.",
+                        "wrongAnswer_4": "Smoking, tobacco use increasing the risk of atherosclerosis and lung disease, but less directly associated with aortic dissection compared to hypertension."
+                    },
+                    {
+                        "question": "In the classification of aortic dissection, what is the key anatomical distinction between a Stanford type A and a Stanford type B dissection?",
+                        "goodAnswer": "Type A involves the ascending aorta, regardless of the origin, while type B involves only the descending aorta distal to the subclavian artery.",
+                        "wrongAnswer_1": "Type A involves the descending aorta, while type B involves the ascending aorta and aortic arch, differing in their location of primary tear.",
+                        "wrongAnswer_2": "Type A is characterized by a circumferential dissection, while type B is a linear dissection, based on the pattern of aortic wall tear.",
+                        "wrongAnswer_3": "Type A is associated with Marfan syndrome, while type B is associated with hypertension, differentiating based on underlying etiology.",
+                        "wrongAnswer_4": "Type A is acute dissection presenting within 2 weeks of symptom onset, while type B is chronic dissection presenting after 2 weeks, based on the time course."
+                    },
+                    {
+                        "question": "What is the immediate management priority for a patient presenting with suspected acute aortic dissection?",
+                        "goodAnswer": "Rapid control of blood pressure to reduce aortic wall stress and prevent propagation of the dissection.",
+                        "wrongAnswer_1": "Administration of anticoagulants to prevent thrombus formation and further obstruction of blood flow.",
+                        "wrongAnswer_2": "Immediate surgical intervention to repair the aortic tear and prevent rupture, regardless of hemodynamic stability.",
+                        "wrongAnswer_3": "Fluid resuscitation to correct hypovolemia and maintain adequate tissue perfusion, even in the presence of hypertension.",
+                        "wrongAnswer_4": "Administration of pain medication to alleviate chest pain and improve patient comfort, before addressing hemodynamic instability."
+                    }
+                ]
+            },
+            {
+                "title": "Pulmonary causes",
+                "quizzes": [
+                    {
+                        "question": "What is the typical mechanism of pleuritic chest pain associated with pulmonary embolism (PE) or pneumonia?",
+                        "goodAnswer": "Inflammation of the parietal pleura due to pulmonary infarction or infection, causing sharp pain that worsens with inspiration and coughing.",
+                        "wrongAnswer_1": "Bronchospasm and airway constriction due to inflammatory mediators released in response to pulmonary embolus or infection, causing chest tightness.",
+                        "wrongAnswer_2": "Pulmonary hypertension and right ventricular strain due to obstruction of pulmonary arteries, causing substernal chest pressure and dyspnea.",
+                        "wrongAnswer_3": "Myocardial ischemia secondary to hypoxemia and reduced oxygen delivery to the heart, causing angina-like chest pain in pulmonary conditions.",
+                        "wrongAnswer_4": "Esophageal irritation due to coughing and increased intra-abdominal pressure, causing burning chest pain mimicking gastroesophageal reflux."
+                    },
+                    {
+                        "question": "Which of the following is a characteristic feature that helps differentiate pleuritic chest pain from cardiac angina?",
+                        "goodAnswer": "Pain that is sharply localized and aggravated by breathing, coughing, or movement of the chest wall, but not by exertion.",
+                        "wrongAnswer_1": "Pain that is described as squeezing, pressure, or tightness, radiating to the left arm, jaw, or back, and precipitated by physical exertion.",
+                        "wrongAnswer_2": "Pain that is relieved by rest or nitroglycerin, and associated with risk factors for coronary artery disease.",
+                        "wrongAnswer_3": "Pain that is accompanied by diaphoresis, nausea, and vomiting, and associated with electrocardiographic ST-segment changes.",
+                        "wrongAnswer_4": "Pain that is sudden in onset, severe, and described as tearing or ripping, radiating to the back, and associated with hypotension."
+                    },
+                    {
+                        "question": "In the context of pulmonary causes of chest pain, what is the significance of 'pneumothorax'?",
+                        "goodAnswer": "Presence of air in the pleural space, causing lung collapse and sudden onset of pleuritic chest pain and shortness of breath.",
+                        "wrongAnswer_1": "Accumulation of fluid in the pleural space (pleural effusion), causing gradual onset of chest discomfort and dyspnea, but less often acute pain.",
+                        "wrongAnswer_2": "Inflammation of the bronchioles (bronchiolitis), causing wheezing, coughing, and shortness of breath, but not typically sharp pleuritic chest pain.",
+                        "wrongAnswer_3": "Consolidation of lung tissue (pneumonia), causing fever, cough, and pleuritic chest pain, but usually with more gradual onset than pneumothorax.",
+                        "wrongAnswer_4": "Pulmonary edema (fluid in the lungs), causing shortness of breath, orthopnea, and paroxysmal nocturnal dyspnea, but not typically sharp pleuritic chest pain."
+                    },
+                    {
+                        "question": "Which pulmonary condition is most likely to present with unilateral pleuritic chest pain, hemoptysis, and a risk factor profile including prolonged immobilization or malignancy?",
+                        "goodAnswer": "Pulmonary embolism (PE), particularly if it causes pulmonary infarction and pleural irritation due to obstruction of pulmonary arteries.",
+                        "wrongAnswer_1": "Acute bronchitis, inflammation of the large airways, typically causing cough, sputum production, and diffuse chest discomfort, but not usually hemoptysis.",
+                        "wrongAnswer_2": "Asthma exacerbation, characterized by bronchospasm, wheezing, and shortness of breath, but not typically pleuritic chest pain or hemoptysis.",
+                        "wrongAnswer_3": "Chronic obstructive pulmonary disease (COPD) exacerbation, characterized by increased cough, sputum production, and dyspnea, but not typically pleuritic pain.",
+                        "wrongAnswer_4": "Pneumonia, infection of the lung parenchyma, typically causing fever, cough, purulent sputum, and pleuritic chest pain, but less specifically associated with hemoptysis."
+                    }
+                ]
+            },
+            {
+                "title": "Psychological causes",
+                "quizzes": [
+                    {
+                        "question": "In the context of psychological causes of chest pain, what is the typical presentation of chest pain associated with panic disorder?",
+                        "goodAnswer": "Sudden onset of sharp, stabbing, or tightness in the chest, often accompanied by palpitations, shortness of breath, dizziness, and fear of impending doom.",
+                        "wrongAnswer_1": "Gradual onset of dull, aching chest discomfort, often described as pressure or tightness, localized in the anterior chest and worsening with exertion.",
+                        "wrongAnswer_2": "Intermittent, sharp, stabbing chest pain, lasting for seconds to minutes, often localized to the precordial area and exacerbated by breathing.",
+                        "wrongAnswer_3": "Burning, epigastric chest pain, often associated with meals and relieved by antacids, suggestive of gastroesophageal reflux.",
+                        "wrongAnswer_4": "Pleuritic chest pain, sharp and stabbing, worsened by inspiration and coughing, localized to one side of the chest and associated with fever and cough."
+                    },
+                    {
+                        "question": "Which psychological mechanism is thought to contribute to chest pain in patients with anxiety disorders?",
+                        "goodAnswer": "Increased muscle tension in the chest wall and intercostal muscles, as well as heightened perception of normal bodily sensations.",
+                        "wrongAnswer_1": "Coronary artery vasospasm induced by stress hormones, leading to myocardial ischemia and angina-like chest pain.",
+                        "wrongAnswer_2": "Hyperventilation causing respiratory alkalosis and chest tightness, mimicking symptoms of pulmonary embolism.",
+                        "wrongAnswer_3": "Esophageal dysmotility and increased esophageal sensitivity due to autonomic nervous system dysregulation.",
+                        "wrongAnswer_4": "Increased gastric acid production and esophageal reflux due to stress, leading to symptoms of gastroesophageal reflux disease (GERD)."
+                    },
+                    {
+                        "question": "What is a key differentiating factor between chest pain of psychological origin and chest pain of cardiac origin based on symptom characteristics?",
+                        "goodAnswer": "Variability in pain location, duration, and quality, often described vaguely and inconsistently, and not clearly related to exertion.",
+                        "wrongAnswer_1": "Pain that is consistently described as squeezing, pressure, or tightness, radiating to the left arm, jaw, or back, and precipitated by physical exertion.",
+                        "wrongAnswer_2": "Pain that is relieved by rest or nitroglycerin, and associated with risk factors for coronary artery disease such as hypertension and smoking.",
+                        "wrongAnswer_3": "Pain that is accompanied by diaphoresis, nausea, and vomiting, and associated with electrocardiographic ST-segment changes.",
+                        "wrongAnswer_4": "Pain that is sudden in onset, severe, and described as tearing or ripping, radiating to the back, and associated with hypotension and pulse deficits."
+                    },
+                    {
+                        "question": "In managing chest pain attributed to psychological causes, what is a crucial aspect of patient communication and management?",
+                        "goodAnswer": "Empathic reassurance, validation of the patient's symptoms, and explanation of the link between psychological factors and physical symptoms.",
+                        "wrongAnswer_1": "Dismissing the patient's symptoms as 'all in their head' and avoiding further medical evaluation to minimize unnecessary testing.",
+                        "wrongAnswer_2": "Prescribing high doses of pain medication to alleviate chest pain and reduce patient anxiety, without addressing underlying psychological factors.",
+                        "wrongAnswer_3": "Focusing solely on cardiac risk factor modification and aggressive medical management, even when cardiac causes have been ruled out.",
+                        "wrongAnswer_4": "Ordering extensive cardiac testing and imaging to definitively exclude all possible cardiac etiologies, regardless of clinical suspicion."
+                    }
+                ]
+            }
+        ]
+    }
+}

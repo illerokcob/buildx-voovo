@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Maternal physiology",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Cardiovascular System",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which the Frank-Starling law operates to regulate cardiac output?",
+                        "goodAnswer": "Increased venous return leads to increased ventricular end-diastolic volume, causing greater stretch of cardiac muscle fibers and a subsequent increase in the force of contraction.",
+                        "wrongAnswer_1": "Increased arterial blood pressure directly stimulates baroreceptors in the ventricles, causing a reflexive increase in the force of ventricular contraction and stroke volume.",
+                        "wrongAnswer_2": "Decreased afterload on the heart allows for more complete ventricular emptying, resulting in a larger stroke volume and thus increased cardiac output, independent of preload.",
+                        "wrongAnswer_3": "Changes in heart rate mediated by the autonomic nervous system directly alter the contractility of the myocardium, leading to adjustments in cardiac output based on venous return.",
+                        "wrongAnswer_4": "The release of atrial natriuretic peptide (ANP) in response to increased atrial stretch causes a direct increase in myocardial contractility and subsequent rise in cardiac output."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the role of the baroreceptor reflex in maintaining blood pressure homeostasis during a sudden decrease in arterial pressure?",
+                        "goodAnswer": "Decreased baroreceptor firing leads to increased sympathetic outflow and decreased parasympathetic outflow, resulting in vasoconstriction, increased heart rate, and enhanced myocardial contractility.",
+                        "wrongAnswer_1": "Increased baroreceptor firing inhibits the vasomotor center in the medulla oblongata, causing vasodilation, decreased heart rate, and reduced myocardial contractility to restore blood pressure.",
+                        "wrongAnswer_2": "Baroreceptors directly stimulate the release of renin from the kidneys, leading to increased angiotensin II production, which causes vasodilation and decreased aldosterone secretion.",
+                        "wrongAnswer_3": "The baroreceptor reflex triggers the release of atrial natriuretic peptide (ANP) from the atria, resulting in increased sodium and water excretion, and subsequent blood pressure reduction.",
+                        "wrongAnswer_4": "Decreased baroreceptor firing leads to activation of the parasympathetic nervous system, causing bradycardia and vasodilation to compensate for the initial drop in blood pressure."
+                    },
+                    {
+                        "question": "What is the functional consequence of the plateau phase in the cardiac action potential, primarily mediated by L-type calcium channels?",
+                        "goodAnswer": "It prolongs the duration of cardiac muscle contraction, ensuring sufficient time for ventricular ejection and preventing premature re-excitation of cardiac tissue, thus preventing tetany.",
+                        "wrongAnswer_1": "It rapidly repolarizes the cardiac myocyte membrane, allowing for a quick succession of action potentials and enabling a high heart rate during periods of intense physical activity.",
+                        "wrongAnswer_2": "It initiates the refractory period in cardiac muscle, preventing summation of contractions and ensuring that each contraction is followed by complete relaxation for efficient filling.",
+                        "wrongAnswer_3": "It directly triggers the release of calcium from the sarcoplasmic reticulum, initiating the excitation-contraction coupling process and the subsequent binding of actin and myosin.",
+                        "wrongAnswer_4": "It hyperpolarizes the cardiac myocyte membrane, making it less excitable and preventing spontaneous depolarization, thereby ensuring a stable resting heart rate."
+                    },
+                    {
+                        "question": "During the cardiac cycle, what event is most directly responsible for the 'dicrotic notch' observed in the arterial blood pressure waveform?",
+                        "goodAnswer": "The brief backflow of blood against the closed aortic valve immediately following ventricular ejection, causing a transient increase in arterial pressure.",
+                        "wrongAnswer_1": "The rapid ejection of blood from the left ventricle into the aorta during systole, creating a sharp rise in arterial pressure that is perceived as the dicrotic notch.",
+                        "wrongAnswer_2": "The opening of the mitral valve during diastole, allowing blood to flow from the left atrium into the left ventricle and causing a slight pressure fluctuation in the arteries.",
+                        "wrongAnswer_3": "The contraction of the atria at the end of diastole, contributing to ventricular filling and causing a small pressure wave that is recorded as the dicrotic notch.",
+                        "wrongAnswer_4": "The closure of the tricuspid valve at the beginning of ventricular systole, preventing backflow of blood into the right atrium and causing a pressure change in the systemic arteries."
+                    }
+                ]
+            },
+            {
+                "title": "Pulmonary changes",
+                "quizzes": [
+                    {
+                        "question": "What physiological alteration primarily accounts for the increased minute ventilation observed during moderate-intensity exercise?",
+                        "goodAnswer": "An increase in both tidal volume and respiratory rate, driven mainly by chemoreceptor stimulation due to increased carbon dioxide production and hydrogen ion concentration.",
+                        "wrongAnswer_1": "A significant increase in respiratory rate with a minimal change in tidal volume, primarily mediated by mechanical receptors in the lungs and airways responding to increased airflow.",
+                        "wrongAnswer_2": "A substantial increase in tidal volume with a slight decrease in respiratory rate, controlled by central command signals originating from the motor cortex during physical exertion.",
+                        "wrongAnswer_3": "An exclusive increase in dead space ventilation, where respiratory rate increases but tidal volume remains constant, leading to inefficient gas exchange and higher minute ventilation.",
+                        "wrongAnswer_4": "A decrease in both tidal volume and respiratory rate, compensated by an enhanced diffusion capacity of the lungs, ensuring adequate oxygen uptake despite reduced ventilation."
+                    },
+                    {
+                        "question": "Which of the following statements accurately describes the physiological basis of the Haldane effect in the context of respiratory gas transport?",
+                        "goodAnswer": "Deoxygenated hemoglobin has a higher affinity for carbon dioxide and hydrogen ions, promoting carbon dioxide uptake in tissues and release in the lungs.",
+                        "wrongAnswer_1": "Oxygenated hemoglobin has a greater capacity to bind carbon dioxide, facilitating carbon dioxide transport from the lungs to the tissues for cellular respiration.",
+                        "wrongAnswer_2": "The Haldane effect describes the increased affinity of hemoglobin for oxygen at lower partial pressures of carbon dioxide, enhancing oxygen unloading in tissues.",
+                        "wrongAnswer_3": "Carbonic anhydrase activity is inhibited by deoxygenated hemoglobin, reducing the formation of bicarbonate ions and thus diminishing carbon dioxide transport capacity.",
+                        "wrongAnswer_4": "The Haldane effect refers to the competition between oxygen and carbon dioxide for binding sites on hemoglobin, favoring oxygen binding in the lungs and carbon dioxide binding in tissues."
+                    },
+                    {
+                        "question": "In the context of pulmonary physiology, what does the term 'physiological dead space' primarily represent?",
+                        "goodAnswer": "The total volume of air that is inhaled but does not participate in gas exchange, including both anatomical dead space and alveolar dead space due to ventilation-perfusion mismatch.",
+                        "wrongAnswer_1": "The volume of air remaining in the lungs after maximal expiration, which is unavailable for gas exchange and contributes to residual volume.",
+                        "wrongAnswer_2": "The volume of air that reaches the alveoli but is not effectively perfused by pulmonary capillaries, leading to wasted ventilation despite alveolar airflow.",
+                        "wrongAnswer_3": "The anatomical volume of the conducting airways (trachea, bronchi, bronchioles) where gas exchange does not occur, representing the primary component of dead space.",
+                        "wrongAnswer_4": "The volume of air that is trapped in non-functional alveoli due to airway obstruction or alveolar collapse, contributing to decreased lung compliance and increased dead space."
+                    },
+                    {
+                        "question": "What is the primary role of surfactant in the alveoli of the lungs regarding pulmonary mechanics?",
+                        "goodAnswer": "To reduce surface tension within the alveoli, preventing alveolar collapse at end-expiration and decreasing the work of breathing required to inflate the lungs.",
+                        "wrongAnswer_1": "To increase surface tension in the alveoli, promoting alveolar expansion during inspiration and maximizing gas exchange surface area within the lungs.",
+                        "wrongAnswer_2": "To facilitate the diffusion of oxygen and carbon dioxide across the alveolar-capillary membrane by creating a hydrophilic layer that enhances gas solubility.",
+                        "wrongAnswer_3": "To strengthen the structural integrity of the alveolar walls, preventing over-distension during inspiration and maintaining alveolar shape during ventilation.",
+                        "wrongAnswer_4": "To attract immune cells to the alveolar surface, providing a first line of defense against inhaled pathogens and preventing respiratory infections within the lungs."
+                    }
+                ]
+            },
+            {
+                "title": "Glucose metabolism",
+                "quizzes": [
+                    {
+                        "question": "Which enzymatic reaction is considered the rate-limiting step in glycolysis and is a major control point for regulating glucose flux through this pathway?",
+                        "goodAnswer": "Phosphofructokinase-1 (PFK-1) catalyzing the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate, allosterically regulated by ATP and AMP.",
+                        "wrongAnswer_1": "Hexokinase catalyzing the phosphorylation of glucose to glucose-6-phosphate, inhibited by glucose-6-phosphate and activated by inorganic phosphate.",
+                        "wrongAnswer_2": "Pyruvate kinase catalyzing the conversion of phosphoenolpyruvate to pyruvate, activated by fructose-1,6-bisphosphate and inhibited by ATP and alanine.",
+                        "wrongAnswer_3": "Glyceraldehyde-3-phosphate dehydrogenase catalyzing the oxidation and phosphorylation of glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate, regulated by NAD+/NADH ratio.",
+                        "wrongAnswer_4": "Lactate dehydrogenase catalyzing the reduction of pyruvate to lactate under anaerobic conditions, regulated by pyruvate concentration and NADH availability."
+                    },
+                    {
+                        "question": "In the context of gluconeogenesis, which of the following enzymes is unique to this pathway and bypasses an irreversible step of glycolysis in the liver?",
+                        "goodAnswer": "Glucose-6-phosphatase, which dephosphorylates glucose-6-phosphate to generate free glucose, allowing glucose release into the bloodstream from hepatocytes.",
+                        "wrongAnswer_1": "Phosphoenolpyruvate carboxykinase (PEPCK), which converts oxaloacetate to phosphoenolpyruvate, bypassing the pyruvate kinase reaction in gluconeogenesis.",
+                        "wrongAnswer_2": "Fructose-1,6-bisphosphatase, which dephosphorylates fructose-1,6-bisphosphate to fructose-6-phosphate, circumventing the phosphofructokinase-1 (PFK-1) step.",
+                        "wrongAnswer_3": "Pyruvate carboxylase, which converts pyruvate to oxaloacetate in the mitochondria, the first committed step in gluconeogenesis and replenishing citric acid cycle intermediates.",
+                        "wrongAnswer_4": "Glucokinase, which phosphorylates glucose to glucose-6-phosphate in liver and pancreatic beta cells, trapping glucose inside the cell for glycolysis or glycogen synthesis."
+                    },
+                    {
+                        "question": "What is the primary metabolic consequence of insulin binding to its receptor on target cells, specifically concerning glucose uptake?",
+                        "goodAnswer": "Translocation of GLUT4 glucose transporters from intracellular vesicles to the plasma membrane, increasing glucose permeability and facilitating glucose entry into cells, particularly in muscle and adipose tissue.",
+                        "wrongAnswer_1": "Activation of glycogen synthase and inhibition of glycogen phosphorylase, promoting glycogen synthesis and reducing glucose release from glycogen stores in the liver and muscle.",
+                        "wrongAnswer_2": "Stimulation of gluconeogenesis in the liver, increasing endogenous glucose production and elevating blood glucose levels to meet energy demands of peripheral tissues.",
+                        "wrongAnswer_3": "Inhibition of glycolysis in muscle cells, diverting glucose towards glycogen storage and reducing glucose utilization for immediate energy production during periods of insulin signaling.",
+                        "wrongAnswer_4": "Increased activity of hexokinase and phosphofructokinase-1 (PFK-1) in liver cells, accelerating glycolysis and promoting glucose breakdown for ATP generation and fatty acid synthesis."
+                    },
+                    {
+                        "question": "Which hormone primarily counteracts the effects of insulin in regulating blood glucose levels, and through what mechanism does it predominantly exert its hyperglycemic effect?",
+                        "goodAnswer": "Glucagon, primarily by stimulating glycogenolysis and gluconeogenesis in the liver, leading to increased glucose release into the bloodstream and elevated blood glucose concentrations.",
+                        "wrongAnswer_1": "Cortisol, mainly by enhancing glucose uptake by muscle and adipose tissue, thereby reducing blood glucose levels and promoting glucose utilization for energy production.",
+                        "wrongAnswer_2": "Epinephrine, primarily by inhibiting insulin secretion from pancreatic beta cells, indirectly leading to reduced glucose uptake and increased blood glucose levels during stress.",
+                        "wrongAnswer_3": "Growth hormone, mainly by promoting glucose transport into liver cells, stimulating glycogen synthesis and reducing glucose availability for peripheral tissues.",
+                        "wrongAnswer_4": "Thyroxine (T4), primarily by increasing basal metabolic rate and glucose oxidation in all tissues, leading to a net decrease in blood glucose concentrations and enhanced glucose utilization."
+                    }
+                ]
+            },
+            {
+                "title": "Laboratory parameters",
+                "quizzes": [
+                    {
+                        "question": "Elevated levels of serum creatinine are most indicative of impaired function in which organ system?",
+                        "goodAnswer": "Renal system, as creatinine is a waste product of muscle metabolism primarily excreted by the kidneys, and its accumulation reflects reduced glomerular filtration rate.",
+                        "wrongAnswer_1": "Hepatic system, as creatinine is synthesized in the liver from amino acids and elevated levels suggest impaired liver detoxification and metabolic processes.",
+                        "wrongAnswer_2": "Cardiovascular system, as high creatinine levels indicate increased myocardial stress and reduced cardiac output, leading to systemic accumulation of metabolic waste products.",
+                        "wrongAnswer_3": "Pulmonary system, as creatinine is cleared from the body through respiration, and elevated levels suggest impaired gas exchange and respiratory acidosis.",
+                        "wrongAnswer_4": "Endocrine system, as creatinine metabolism is regulated by thyroid hormones, and abnormal levels indicate thyroid dysfunction and altered metabolic homeostasis."
+                    },
+                    {
+                        "question": "An arterial blood gas analysis reveals a pH of 7.30, PaCO2 of 55 mmHg, and HCO3- of 26 mEq/L. Which acid-base disorder is most consistent with these findings?",
+                        "goodAnswer": "Respiratory acidosis, uncompensated, characterized by low pH and elevated PaCO2, indicating hypoventilation and impaired carbon dioxide elimination by the lungs.",
+                        "wrongAnswer_1": "Metabolic acidosis, uncompensated, defined by low pH and low HCO3-, suggesting excessive acid production or bicarbonate loss independent of respiratory function.",
+                        "wrongAnswer_2": "Respiratory alkalosis, partially compensated, indicated by high pH and low PaCO2, reflecting hyperventilation and excessive carbon dioxide removal, with some renal compensation.",
+                        "wrongAnswer_3": "Metabolic alkalosis, fully compensated, characterized by high pH and high HCO3-, suggesting bicarbonate excess with respiratory compensation to normalize pH by retaining CO2.",
+                        "wrongAnswer_4": "Mixed acid-base disorder, involving both respiratory and metabolic components, requiring further evaluation to distinguish primary and secondary imbalances contributing to the abnormal values."
+                    },
+                    {
+                        "question": "Elevated levels of liver enzymes, specifically alanine transaminase (ALT) and aspartate transaminase (AST), in serum are most suggestive of damage or inflammation in which organ?",
+                        "goodAnswer": "Liver, as ALT and AST are intracellular enzymes predominantly found in hepatocytes, and their release into the bloodstream indicates hepatocellular injury or necrosis.",
+                        "wrongAnswer_1": "Pancreas, as elevated ALT and AST are specific markers of pancreatic inflammation (pancreatitis) and acinar cell damage, reflecting enzyme leakage into circulation.",
+                        "wrongAnswer_2": "Kidneys, as ALT and AST are involved in renal tubular cell metabolism, and their increased serum levels suggest acute kidney injury or nephron dysfunction.",
+                        "wrongAnswer_3": "Heart, as AST, specifically, is a cardiac enzyme released during myocardial infarction (heart attack), and elevated levels indicate cardiac muscle damage and necrosis.",
+                        "wrongAnswer_4": "Skeletal muscle, as both ALT and AST are present in muscle tissue, and their elevation in serum may reflect rhabdomyolysis or muscle injury due to trauma or strenuous exercise."
+                    },
+                    {
+                        "question": "A complete blood count (CBC) report shows a decreased hemoglobin level, reduced hematocrit, and low red blood cell count. These findings are most consistent with which hematological condition?",
+                        "goodAnswer": "Anemia, characterized by a deficiency in red blood cells or hemoglobin, leading to reduced oxygen-carrying capacity of the blood and potential tissue hypoxia.",
+                        "wrongAnswer_1": "Polycythemia, characterized by an excess of red blood cells, resulting in increased blood viscosity and elevated hematocrit, often associated with chronic hypoxia or myeloproliferative disorders.",
+                        "wrongAnswer_2": "Leukocytosis, indicated by an elevated white blood cell count, typically suggestive of infection, inflammation, or certain hematological malignancies, unrelated to red blood cell parameters.",
+                        "wrongAnswer_3": "Thrombocytopenia, characterized by a decreased platelet count, increasing the risk of bleeding and bruising, and primarily affecting hemostasis rather than red blood cell indices.",
+                        "wrongAnswer_4": "Leukopenia, defined by a reduced white blood cell count, increasing susceptibility to infections, and primarily affecting immune function rather than red blood cell parameters or oxygen transport."
+                    }
+                ]
+            }
+        ]
+    }
+}

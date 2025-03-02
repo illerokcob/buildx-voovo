@@ -1,0 +1,164 @@
+{
+    "mainTopic": {
+        "title": "Male Reproductive system anatomy",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Testis, Sertoli- and Leydig cells, epididymis, vas deferens, prostate",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the functional roles of Sertoli cells within the seminiferous tubules?",
+                        "goodAnswer": "Supporting spermatogenesis through nutrient provision, blood-testis barrier formation via tight junctions, and secretion of androgen-binding protein (ABP) and inhibin.",
+                        "wrongAnswer_1": "Initiating meiosis in spermatogonia, producing testosterone under LH stimulation, and facilitating sperm transport into the epididymis through ciliary action.",
+                        "wrongAnswer_2": "Synthesizing luteinizing hormone-releasing hormone (LHRH), phagocytosing residual bodies from Leydig cells, and directly stimulating smooth muscle contraction in the vas deferens.",
+                        "wrongAnswer_3": "Converting testosterone to dihydrotestosterone (DHT), regulating testicular temperature through vasodilation, and secreting follicle-stimulating hormone (FSH) to stimulate Leydig cells.",
+                        "wrongAnswer_4": "Producing seminal vesicle fluid, initiating capacitation of sperm in the testis, and controlling the release of GnRH from the hypothalamus via negative feedback of estrogen."
+                    },
+                    {
+                        "question": "Leydig cells, located in the interstitial space of the testis, are primarily responsible for which endocrine function?",
+                        "goodAnswer": "Production of testosterone in response to luteinizing hormone (LH), which is crucial for spermatogenesis, development of secondary sexual characteristics, and libido.",
+                        "wrongAnswer_1": "Secretion of follicle-stimulating hormone (FSH) to stimulate Sertoli cell function, synthesis of inhibin to negatively regulate FSH, and production of estrogen from androgens.",
+                        "wrongAnswer_2": "Synthesis of gonadotropin-releasing hormone (GnRH) to initiate the hypothalamic-pituitary-gonadal axis, production of androgen-binding protein (ABP) to concentrate testosterone in seminiferous tubules, and secretion of prostaglandins to aid in sperm transport.",
+                        "wrongAnswer_3": "Conversion of testosterone to estrogen via aromatase, regulation of testicular temperature through local hormone release, and production of dihydrotestosterone (DHT) from adrenal androgens.",
+                        "wrongAnswer_4": "Storage of mature spermatozoa prior to ejaculation, secretion of enzymes involved in sperm capacitation within the epididymis, and synthesis of seminal fluid components like fructose and prostaglandins."
+                    },
+                    {
+                        "question": "What is the primary physiological role of the epididymis in male reproductive function?",
+                        "goodAnswer": "Maturation and storage of spermatozoa, including acquisition of motility and fertility, and secretion of factors that contribute to sperm capacitation and protection.",
+                        "wrongAnswer_1": "Production of seminal fluid rich in fructose to nourish sperm, synthesis of prostaglandins to stimulate uterine contractions, and filtration of blood to create the blood-testis barrier.",
+                        "wrongAnswer_2": "Transport of spermatozoa from the testis to the ejaculatory duct via peristaltic contractions, secretion of enzymes that break down the acrosome for fertilization, and regulation of testicular temperature through countercurrent heat exchange.",
+                        "wrongAnswer_3": "Synthesis of testosterone from cholesterol, conversion of testosterone to dihydrotestosterone (DHT), and storage of Leydig cells precursors for future androgen production.",
+                        "wrongAnswer_4": "Production of inhibin to regulate FSH secretion, secretion of androgen-binding protein (ABP) to concentrate testosterone, and phagocytosis of degenerated germ cells within the seminiferous tubules."
+                    },
+                    {
+                        "question": "The vas deferens contributes to male reproductive physiology primarily through:",
+                        "goodAnswer": "Transporting spermatozoa from the epididymis to the ejaculatory duct via strong peristaltic contractions during ejaculation, and contributing to sperm storage prior to ejaculation.",
+                        "wrongAnswer_1": "Producing a significant portion of seminal fluid volume, secreting alkaline fluids to neutralize vaginal acidity, and synthesizing fructose to provide energy for sperm motility within the female reproductive tract.",
+                        "wrongAnswer_2": "Maturing spermatozoa by altering their membrane proteins and metabolic activity, concentrating sperm by reabsorbing fluid, and synthesizing enzymes necessary for acrosome reaction during fertilization.",
+                        "wrongAnswer_3": "Regulating testicular temperature by countercurrent heat exchange between arterial and venous blood, producing testosterone under LH stimulation, and secreting inhibin to regulate FSH release.",
+                        "wrongAnswer_4": "Filtering blood to remove toxins and create the blood-testis barrier, phagocytosing residual bodies from spermatids, and secreting androgen-binding protein to maintain high intratesticular testosterone levels."
+                    },
+                    {
+                        "question": "What are the major contributions of the prostate gland to the seminal fluid?",
+                        "goodAnswer": "Secretion of a slightly alkaline, milky fluid containing citrate, calcium, and enzymes like prostate-specific antigen (PSA), which enhance sperm motility and survival.",
+                        "wrongAnswer_1": "Production of a viscous, fructose-rich fluid that comprises the majority of seminal volume and provides primary nourishment for spermatozoa in the ejaculate.",
+                        "wrongAnswer_2": "Secretion of a lubricating mucus that precedes ejaculation, neutralizing residual acidity in the urethra and vagina, and containing high concentrations of potassium and bicarbonate.",
+                        "wrongAnswer_3": "Synthesis of prostaglandins that stimulate smooth muscle contractions in the female reproductive tract, secretion of clotting factors that coagulate semen after ejaculation, and production of antibodies to protect sperm from female immune responses.",
+                        "wrongAnswer_4": "Storage of mature spermatozoa until ejaculation, secretion of hormones like testosterone and inhibin that regulate spermatogenesis, and production of androgen-binding protein (ABP) to concentrate testosterone in the seminal fluid."
+                    }
+                ]
+            },
+            {
+                "title": "Spermeogenesis, hormonal control of spermeogenesis, sperm physiology",
+                "quizzes": [
+                    {
+                        "question": "During spermiogenesis, the final stage of spermatogenesis, which series of morphological transformations accurately describes the development of a spermatid into a spermatozoon?",
+                        "goodAnswer": "Golgi phase -> Cap phase -> Acrosome phase -> Maturation phase, involving acrosome formation, nuclear condensation, flagellum development, and cytoplasm reduction.",
+                        "wrongAnswer_1": "Cap phase -> Golgi phase -> Maturation phase -> Acrosome phase, characterized by flagellum assembly, mitochondrial migration, nuclear decondensation, and acrosome enzyme synthesis.",
+                        "wrongAnswer_2": "Acrosome phase -> Maturation phase -> Golgi phase -> Cap phase, including cytoplasm expansion, Golgi apparatus dispersion, nuclear enlargement, and flagellum disassembly.",
+                        "wrongAnswer_3": "Maturation phase -> Acrosome phase -> Cap phase -> Golgi phase, defined by cytoplasm retention, nuclear fragmentation, acrosome enzyme degradation, and flagellum elongation.",
+                        "wrongAnswer_4": "Golgi phase -> Maturation phase -> Acrosome phase -> Cap phase, encompassing nuclear vacuolization, acrosome vesicle fusion, flagellum shortening, and cytoplasm increase."
+                    },
+                    {
+                        "question": "The hormonal control of spermatogenesis primarily involves the interplay of which hormones and feedback loops?",
+                        "goodAnswer": "GnRH from hypothalamus stimulates pituitary to release FSH and LH; FSH acts on Sertoli cells, LH on Leydig cells; Testosterone and Inhibin from testes feedback negatively on hypothalamus and pituitary.",
+                        "wrongAnswer_1": "CRH from hypothalamus stimulates pituitary to release ACTH and TSH; ACTH acts on Leydig cells, TSH on Sertoli cells; Cortisol and Thyroxine from testes feedback negatively on hypothalamus and pituitary.",
+                        "wrongAnswer_2": "TRH from hypothalamus stimulates pituitary to release Prolactin and GH; Prolactin acts on Sertoli cells, GH on Leydig cells; Prolactin and Growth hormone from testes feedback negatively on hypothalamus and pituitary.",
+                        "wrongAnswer_3": "GHRH from hypothalamus stimulates pituitary to release LH and FSH; LH acts on Sertoli cells, FSH on Leydig cells; Estrogen and Progesterone from testes feedback negatively on hypothalamus and pituitary.",
+                        "wrongAnswer_4": "Oxytocin from hypothalamus stimulates pituitary to release ADH and Oxytocin; ADH acts on Leydig cells, Oxytocin on Sertoli cells; ADH and Oxytocin from testes feedback negatively on hypothalamus and pituitary."
+                    },
+                    {
+                        "question": "Which of the following best describes the physiological adaptations of mature spermatozoa that enable fertilization?",
+                        "goodAnswer": "Acrosome containing hydrolytic enzymes for zona pellucida penetration, highly condensed nucleus with haploid DNA, midpiece packed with mitochondria for energy, and flagellum for motility.",
+                        "wrongAnswer_1": "Large cytoplasm containing ribosomes for protein synthesis, multiple nuclei with diploid DNA for genetic redundancy, Golgi apparatus for enzyme secretion, and cilia for movement within the female tract.",
+                        "wrongAnswer_2": "Extensive endoplasmic reticulum for calcium storage, lysosomes for waste disposal, large nucleus with tetraploid DNA for increased genetic information, and pseudopodia for amoeboid movement.",
+                        "wrongAnswer_3": "Thick cell membrane rich in cholesterol for rigidity, numerous vacuoles for nutrient storage, fragmented nucleus with aneuploid DNA for genetic variability, and pili for attachment to the egg.",
+                        "wrongAnswer_4": "Prominent nucleolus for ribosome production, abundant peroxisomes for detoxification, nucleus with polyploid DNA for enhanced gene expression, and fimbriae for adhesion to Sertoli cells."
+                    },
+                    {
+                        "question": "The process of capacitation, crucial for sperm fertilization, primarily involves:",
+                        "goodAnswer": "Removal of cholesterol and glycoproteins from the sperm plasma membrane in the female reproductive tract, leading to increased membrane fluidity and calcium permeability, preparing for acrosome reaction.",
+                        "wrongAnswer_1": "Addition of cholesterol and glycoproteins to the sperm plasma membrane in the male reproductive tract, stabilizing the membrane and preventing premature acrosome reaction during epididymal transit.",
+                        "wrongAnswer_2": "Degradation of the acrosome cap within the epididymis, releasing hydrolytic enzymes that will later digest the corona radiata and zona pellucida of the oocyte.",
+                        "wrongAnswer_3": "Condensation of the sperm nucleus in the female reproductive tract, ensuring that only haploid genetic material is delivered to the oocyte during fertilization.",
+                        "wrongAnswer_4": "Activation of mitochondrial ATP production within the testis, providing the necessary energy for sperm motility and capacitation processes before ejaculation."
+                    }
+                ]
+            },
+            {
+                "title": "Semen, ejaculate, male infertility evaluation and sperm analysis",
+                "quizzes": [
+                    {
+                        "question": "What is the typical composition of human semen, considering contributions from various male reproductive glands?",
+                        "goodAnswer": "Secretions from seminal vesicles (fructose, prostaglandins, clotting factors), prostate gland (alkaline phosphatase, citrate, PSA), bulbourethral glands (mucus), and spermatozoa from the testes and epididymis.",
+                        "wrongAnswer_1": "Primarily composed of fluid from the urinary bladder (urea, creatinine, electrolytes), secretions from adrenal glands (cortisol, aldosterone), bulbourethral glands (mucus), and spermatogonia from seminiferous tubules.",
+                        "wrongAnswer_2": "Mainly consists of fluid from the liver (bile salts, bilirubin), pancreas (amylase, lipase), seminal vesicles (glucose, amino acids), and Sertoli cells secretions (ABP, inhibin).",
+                        "wrongAnswer_3": "Composed of secretions from the spleen (lymphocytes, antibodies), bone marrow (red blood cells, white blood cells), prostate gland (acid phosphatase, zinc), and Leydig cells secretions (testosterone, estrogen).",
+                        "wrongAnswer_4": "Predominantly fluid from the kidneys (urine, uric acid), gallbladder (bile acids), epididymis (carnitine, glycerylphosphorylcholine), and spermatids from the epididymis and vas deferens."
+                    },
+                    {
+                        "question": "In a standard semen analysis, which parameters are typically evaluated to assess male fertility potential?",
+                        "goodAnswer": "Sperm concentration, motility (progressive and non-progressive), morphology (WHO criteria), volume, pH, and presence of leukocytes.",
+                        "wrongAnswer_1": "Sperm DNA fragmentation index, acrosome reaction rate, capacitation status, seminal fluid viscosity, glucose concentration, and presence of bacteria.",
+                        "wrongAnswer_2": "Seminal fluid osmolality, fructose level, prostaglandin concentration, sperm capacitation time, mitochondrial membrane potential, and presence of antibodies against sperm.",
+                        "wrongAnswer_3": "Sperm nuclear maturity index, Sertoli cell count in ejaculate, Leydig cell hormone production, seminal fluid color, odor, and presence of red blood cells.",
+                        "wrongAnswer_4": "Testicular volume, epididymal fluid analysis, prostate gland size, vas deferens patency, seminal fluid protein content, and presence of yeast."
+                    },
+                    {
+                        "question": "What constitutes a normal ejaculate volume and sperm concentration according to WHO guidelines for semen analysis?",
+                        "goodAnswer": "Ejaculate volume \u2265 1.5 mL and sperm concentration \u2265 15 million spermatozoa per mL.",
+                        "wrongAnswer_1": "Ejaculate volume \u2265 3.0 mL and sperm concentration \u2265 20 million spermatozoa per mL.",
+                        "wrongAnswer_2": "Ejaculate volume \u2265 0.5 mL and sperm concentration \u2265 10 million spermatozoa per mL.",
+                        "wrongAnswer_3": "Ejaculate volume \u2265 5.0 mL and sperm concentration \u2265 30 million spermatozoa per mL.",
+                        "wrongAnswer_4": "Ejaculate volume \u2265 2.0 mL and sperm concentration \u2265 25 million spermatozoa per mL."
+                    },
+                    {
+                        "question": "Which of the following factors is LEAST likely to contribute to male infertility?",
+                        "goodAnswer": "Moderate daily exercise and a balanced diet rich in antioxidants.",
+                        "wrongAnswer_1": "Exposure to environmental toxins like pesticides and heavy metals.",
+                        "wrongAnswer_2": "Smoking, excessive alcohol consumption, and recreational drug use.",
+                        "wrongAnswer_3": "Varicocele causing testicular hyperthermia and impaired spermatogenesis.",
+                        "wrongAnswer_4": "Hormonal imbalances such as hypogonadotropic hypogonadism."
+                    }
+                ]
+            },
+            {
+                "title": "Erection, ejaculation, Viagra and similar drugs",
+                "quizzes": [
+                    {
+                        "question": "The physiological process of penile erection is primarily mediated by:",
+                        "goodAnswer": "Parasympathetic nervous system activation, leading to nitric oxide (NO) release, increased cGMP levels, smooth muscle relaxation in corpora cavernosa, and increased blood flow.",
+                        "wrongAnswer_1": "Sympathetic nervous system activation, leading to norepinephrine release, decreased cAMP levels, smooth muscle contraction in corpora spongiosa, and decreased blood flow.",
+                        "wrongAnswer_2": "Somatic nervous system activation, leading to acetylcholine release, increased potassium ion influx, skeletal muscle contraction in ischiocavernosus and bulbospongiosus muscles, and restricted blood flow.",
+                        "wrongAnswer_3": "Endocrine system activation, leading to testosterone release, increased estrogen levels, smooth muscle relaxation in tunica albuginea, and venous outflow restriction.",
+                        "wrongAnswer_4": "Central nervous system inhibition, leading to dopamine release, decreased serotonin levels, smooth muscle contraction in corpora cavernosa, and reduced arterial inflow."
+                    },
+                    {
+                        "question": "Ejaculation, the expulsion of semen, is primarily controlled by which branch of the nervous system and involves what sequence of events?",
+                        "goodAnswer": "Sympathetic nervous system; Emission (movement of sperm and seminal fluids into urethra) -> Expulsion (rhythmic contractions of pelvic muscles and urethra).",
+                        "wrongAnswer_1": "Parasympathetic nervous system; Expulsion (movement of sperm and seminal fluids into urethra) -> Emission (rhythmic contractions of pelvic muscles and urethra).",
+                        "wrongAnswer_2": "Somatic nervous system; Emission (movement of urine and seminal fluids into urethra) -> Expulsion (voluntary contractions of abdominal muscles and urethra).",
+                        "wrongAnswer_3": "Enteric nervous system; Expulsion (movement of sperm and prostatic fluids into urethra) -> Emission (involuntary contractions of pelvic muscles and vas deferens).",
+                        "wrongAnswer_4": "Central nervous system; Emission (movement of blood and seminal fluids into urethra) -> Expulsion (reflex contractions of penile muscles and urethra)."
+                    },
+                    {
+                        "question": "Viagra (sildenafil) and similar drugs enhance penile erection by:",
+                        "goodAnswer": "Inhibiting phosphodiesterase type 5 (PDE5), which breaks down cGMP, thus prolonging cGMP's vasodilatory effect in the corpora cavernosa and increasing blood flow.",
+                        "wrongAnswer_1": "Stimulating nitric oxide synthase (NOS) activity, increasing NO production in the endothelium of penile arteries and directly causing smooth muscle contraction.",
+                        "wrongAnswer_2": "Blocking alpha-adrenergic receptors in the corpora cavernosa, preventing norepinephrine-induced vasoconstriction and promoting arterial vasodilation.",
+                        "wrongAnswer_3": "Increasing testosterone levels in the bloodstream, enhancing libido and directly stimulating smooth muscle relaxation in the corpora spongiosa.",
+                        "wrongAnswer_4": "Activating guanylate cyclase, directly converting GTP to cGMP in the smooth muscle cells of the penis, independent of nitric oxide signaling."
+                    },
+                    {
+                        "question": "Which phase of the sexual response cycle immediately precedes ejaculation in males?",
+                        "goodAnswer": "Orgasm phase, characterized by intense pleasure and physiological release, culminating in ejaculation.",
+                        "wrongAnswer_1": "Excitement phase, marked by initial vasocongestion and increased heart rate, leading directly to ejaculation.",
+                        "wrongAnswer_2": "Plateau phase, a period of heightened arousal and sustained physiological changes, immediately followed by ejaculation.",
+                        "wrongAnswer_3": "Resolution phase, characterized by return to baseline physiological state, occurring right before ejaculation.",
+                        "wrongAnswer_4": "Refractory phase, a period of sexual unresponsiveness, typically occurring just prior to ejaculation."
+                    }
+                ]
+            }
+        ]
+    }
+}

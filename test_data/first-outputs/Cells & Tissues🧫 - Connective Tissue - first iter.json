@@ -1,0 +1,238 @@
+{
+    "mainTopic": {
+        "title": "Connective Tissue",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "General properties of connective tissues",
+                "quizzes": [
+                    {
+                        "question": "Which of the following statements accurately describes a fundamental characteristic that distinguishes connective tissue from other primary tissue types?",
+                        "goodAnswer": "Connective tissue is characterized by an abundant extracellular matrix composed of ground substance and fibers, with cells scattered within it, providing structural and metabolic support.",
+                        "wrongAnswer_1": "Connective tissue is primarily defined by closely packed cells with minimal extracellular matrix, functioning mainly in lining surfaces and forming glands for secretion and absorption.",
+                        "wrongAnswer_2": "Connective tissue is uniquely identified by its excitable nature, facilitating rapid communication and movement through specialized cellular extensions and synaptic junctions.",
+                        "wrongAnswer_3": "Connective tissue is distinguished by its ability to contract and generate force, composed of elongated cells that are tightly organized into bundles or sheets for movement and posture.",
+                        "wrongAnswer_4": "Connective tissue is mainly recognized by its avascular nature and dependence on diffusion for nutrient supply, focusing on protection and insulation rather than structural support."
+                    },
+                    {
+                        "question": "Among the diverse functions attributed to connective tissue, which of the following options accurately represents a comprehensive set of its primary roles within the body?",
+                        "goodAnswer": "Connective tissues primarily function to enclose organs as capsules, separate tissues into structural and functional units, provide metabolic and structural support, and facilitate transport of substances.",
+                        "wrongAnswer_1": "Connective tissues mainly serve to generate electrical impulses, conduct signals throughout the body, regulate hormonal secretions, and facilitate nutrient absorption in the digestive tract.",
+                        "wrongAnswer_2": "Connective tissues are fundamentally responsible for muscle contraction, voluntary and involuntary movement, maintaining body temperature, and producing blood cells within bone marrow.",
+                        "wrongAnswer_3": "Connective tissues primarily act as protective barriers against pathogens, facilitate gas exchange in the lungs, filter waste products in the kidneys, and coordinate complex behaviors.",
+                        "wrongAnswer_4": "Connective tissues are primarily involved in enzymatic digestion of food, synthesis of vitamins, detoxification of harmful substances in the liver, and maintaining electrolyte balance in the body fluids."
+                    },
+                    {
+                        "question": "What are the two main components that constitute the extracellular matrix (ECM) in all types of connective tissues, providing them with their diverse properties and functionalities?",
+                        "goodAnswer": "The extracellular matrix of connective tissues is principally composed of ground substance, a hydrated gel-like material, and fibers, including collagen, reticular, and elastic fibers, providing structural integrity and support.",
+                        "wrongAnswer_1": "The extracellular matrix is mainly formed by tightly packed cells and a dense network of capillaries, ensuring rapid nutrient and waste exchange, and facilitating cell-to-cell communication through gap junctions.",
+                        "wrongAnswer_2": "The extracellular matrix is primarily composed of a rigid mineralized component, mainly calcium phosphate, and a protein framework, providing hardness and structural rigidity characteristic of bone tissue.",
+                        "wrongAnswer_3": "The extracellular matrix is predominantly made up of a fluid matrix, similar to plasma, and specialized contractile proteins, enabling tissues to stretch, recoil, and generate force for movement and support.",
+                        "wrongAnswer_4": "The extracellular matrix is mainly constituted of a waterproof barrier of lipids and a network of keratin filaments, providing protection against dehydration and mechanical stress, typical of epithelial surfaces."
+                    }
+                ]
+            },
+            {
+                "title": "Fibers in Connective Tissue",
+                "quizzes": [
+                    {
+                        "question": "Which of the following sets accurately lists the three principal types of fibers found within the extracellular matrix of connective tissue, each contributing uniquely to tissue properties?",
+                        "goodAnswer": "The three main types of fibers in connective tissue are collagen fibers, known for their high tensile strength; reticular fibers, providing delicate support; and elastic fibers, imparting elasticity.",
+                        "wrongAnswer_1": "The three fiber types are myofibers, responsible for contraction; neurofibers, for signal transmission; and glial fibers, for support within the nervous system, collectively enabling tissue function.",
+                        "wrongAnswer_2": "The fiber categories include keratin fibers, providing waterproofing and structural rigidity; fibrin fibers, involved in blood clotting; and actin fibers, essential for cellular movement and muscle contraction.",
+                        "wrongAnswer_3": "The primary fiber types are mineralized fibers, providing hardness and rigidity; basal lamina fibers, anchoring epithelial tissues; and ground substance fibers, contributing to matrix hydration and viscosity.",
+                        "wrongAnswer_4": "The fiber types consist of chondrin fibers, providing flexibility in cartilage; osteoid fibers, forming the organic matrix of bone; and enamel fibers, contributing to the hardness of teeth and skeletal structures."
+                    },
+                    {
+                        "question": "What is the fundamental role of collagen fibers in connective tissues, and what structural characteristic primarily contributes to this function?",
+                        "goodAnswer": "Collagen fibers primarily provide high tensile strength to connective tissues, a property mainly attributed to their robust, ropelike structure formed by the assembly of tropocollagen molecules.",
+                        "wrongAnswer_1": "Collagen fibers primarily facilitate elasticity and recoil in connective tissues, a function arising from their branched network and the presence of elastin cross-links within their structure.",
+                        "wrongAnswer_2": "Collagen fibers are mainly responsible for providing a delicate, branching framework for cellular support, a characteristic due to their composition of type III collagen and association with glycoproteins.",
+                        "wrongAnswer_3": "Collagen fibers primarily function in nutrient diffusion and waste removal within connective tissues, a role facilitated by their highly hydrated nature and porous, gel-like consistency.",
+                        "wrongAnswer_4": "Collagen fibers are mainly involved in cellular adhesion and migration within connective tissues, a function enabled by their interaction with integrin receptors and adhesive glycoproteins in the ECM."
+                    },
+                    {
+                        "question": "Elastic fibers in connective tissue are crucial for providing elasticity and recoil. Which protein is the primary component of elastic fibers, and what structural feature allows for their elastic properties?",
+                        "goodAnswer": "Elastin is the primary protein component of elastic fibers, and their elastic properties are derived from the random coil conformation of elastin molecules, cross-linked by desmosine and isodesmosine.",
+                        "wrongAnswer_1": "Collagen is the main protein of elastic fibers, and their elasticity is due to the triple helical structure of collagen fibrils, which can stretch and recoil under tension and compression forces.",
+                        "wrongAnswer_2": "Reticulin is the primary protein of elastic fibers, and their elasticity comes from the high glycosylation of reticulin molecules, allowing for water retention and flexible movement within the matrix.",
+                        "wrongAnswer_3": "Fibronectin is the main protein component of elastic fibers, and their elastic properties are conferred by the disulfide bonds within fibronectin domains, enabling reversible unfolding and refolding.",
+                        "wrongAnswer_4": "Laminin is the primary protein of elastic fibers, and their elasticity is attributed to the calcium-binding domains in laminin, which allow for conformational changes in response to mechanical stress and strain."
+                    },
+                    {
+                        "question": "Reticular fibers, while present in connective tissue, have a distinct composition and function. What type of collagen primarily constitutes reticular fibers, and what is their main functional role?",
+                        "goodAnswer": "Reticular fibers are primarily composed of type III collagen, and their main function is to provide a delicate supporting framework for cells in hematopoietic and lymphatic tissues, as well as around blood vessels and nerves.",
+                        "wrongAnswer_1": "Reticular fibers are mainly made of type I collagen, and their primary role is to provide high tensile strength and resist stretching forces in tendons, ligaments, and the dermis of the skin.",
+                        "wrongAnswer_2": "Reticular fibers are primarily composed of type IV collagen, and their main function is to form the basal lamina of epithelial tissues, acting as a barrier and providing structural support at the interface.",
+                        "wrongAnswer_3": "Reticular fibers are predominantly made of type II collagen, and their primary role is to provide compressive strength and resilience in cartilage, resisting deformation under mechanical load.",
+                        "wrongAnswer_4": "Reticular fibers are mainly constituted of type VII collagen, and their main function is to anchor the epidermis to the dermis in the skin, providing stability and preventing separation of tissue layers."
+                    }
+                ]
+            },
+            {
+                "title": "Non Collagen Components of the Extracellular Matrix",
+                "quizzes": [
+                    {
+                        "question": "Besides fibrous proteins, the extracellular matrix of connective tissue includes non-collagenous components. Which of the following accurately lists the major categories of these non-collagenous ECM constituents?",
+                        "goodAnswer": "The major non-collagen components of the ECM are glycosaminoglycans (GAGs), proteoglycans (PGs), and multiadhesive glycoproteins, contributing to hydration, matrix organization, and cell adhesion.",
+                        "wrongAnswer_1": "The primary non-collagen components are nucleic acids, lipids, and carbohydrates, forming the basic building blocks for cellular metabolism and energy storage within the connective tissue matrix.",
+                        "wrongAnswer_2": "The main non-collagen components are inorganic salts, water, and trace minerals, providing the necessary electrolytes and hydration for cellular function and matrix homeostasis in connective tissues.",
+                        "wrongAnswer_3": "The non-collagenous components are mainly enzymes, hormones, and growth factors, regulating cellular activities, signaling pathways, and tissue development within the connective tissue environment.",
+                        "wrongAnswer_4": "The major non-collagen components are vitamins, antioxidants, and pigments, supporting cellular health, protecting against oxidative stress, and contributing to tissue coloration in connective tissues."
+                    },
+                    {
+                        "question": "Glycosaminoglycans (GAGs) are a crucial part of the ground substance in ECM. What is the primary characteristic of GAGs that contributes to their function in the extracellular matrix?",
+                        "goodAnswer": "GAGs are highly negatively charged polysaccharides, which attract water and cations, thus hydrating the matrix and providing turgor pressure, as well as facilitating diffusion of nutrients and wastes.",
+                        "wrongAnswer_1": "GAGs are hydrophobic lipids that repel water, creating a waterproof barrier within the matrix and preventing excessive hydration, thus maintaining tissue dryness and structural integrity.",
+                        "wrongAnswer_2": "GAGs are positively charged proteins that attract anions, leading to a net positive charge in the matrix, which promotes cell adhesion and aggregation through electrostatic interactions.",
+                        "wrongAnswer_3": "GAGs are neutral polysaccharides that do not interact with water or ions, serving primarily as structural scaffolds within the matrix and providing mechanical support without hydration effects.",
+                        "wrongAnswer_4": "GAGs are branched monosaccharides that bind to growth factors and hormones, regulating their bioavailability and signaling activity within the extracellular matrix, independent of hydration properties."
+                    },
+                    {
+                        "question": "Proteoglycans (PGs) are another key component of the ECM's ground substance. How are proteoglycans structurally defined, and what is their general role in the extracellular matrix?",
+                        "goodAnswer": "Proteoglycans consist of a core protein to which one or more glycosaminoglycan (GAG) chains are covalently attached, and they function to organize the ECM, regulate cell signaling, and influence matrix hydration.",
+                        "wrongAnswer_1": "Proteoglycans are composed of multiple polypeptide chains intertwined to form a fibrous network, serving primarily as structural support and providing tensile strength to the extracellular matrix.",
+                        "wrongAnswer_2": "Proteoglycans are made of lipid bilayers interspersed with protein channels, creating a selective barrier for molecule transport and maintaining membrane fluidity within the extracellular matrix.",
+                        "wrongAnswer_3": "Proteoglycans are formed by nucleic acid sequences that encode for ECM proteins, regulating gene expression and protein synthesis necessary for matrix maintenance and remodeling.",
+                        "wrongAnswer_4": "Proteoglycans are aggregates of inorganic minerals and organic compounds, providing rigidity and hardness to the ECM in mineralized tissues like bone and teeth, but not in other connective tissues."
+                    },
+                    {
+                        "question": "Multiadhesive glycoproteins, such as fibronectin and laminin, are important non-collagenous components of the ECM. What is their primary functional role in the extracellular matrix?",
+                        "goodAnswer": "Multiadhesive glycoproteins primarily function to stabilize the ECM and link it to cells by binding to both ECM components, like collagen and proteoglycans, and cell surface receptors like integrins, mediating cell adhesion and migration.",
+                        "wrongAnswer_1": "Multiadhesive glycoproteins mainly serve as enzymes within the ECM, catalyzing the synthesis and degradation of ECM components, thus regulating matrix turnover and remodeling processes.",
+                        "wrongAnswer_2": "Multiadhesive glycoproteins primarily act as signaling molecules within the ECM, binding to growth factors and cytokines and modulating cellular responses and tissue development pathways.",
+                        "wrongAnswer_3": "Multiadhesive glycoproteins mainly function as transporters within the ECM, facilitating the diffusion of nutrients, gases, and waste products through the matrix and ensuring efficient intercellular exchange.",
+                        "wrongAnswer_4": "Multiadhesive glycoproteins primarily serve as antioxidants within the ECM, protecting matrix components and cells from oxidative damage caused by free radicals and reactive oxygen species."
+                    }
+                ]
+            },
+            {
+                "title": "Basement membrane",
+                "quizzes": [
+                    {
+                        "question": "Where is the basement membrane typically located within tissues, and what is its primary structural relationship to the adjacent tissue types?",
+                        "goodAnswer": "The basement membrane is located at the interface between epithelium and underlying connective tissue, serving as a specialized ECM layer that supports and anchors the epithelium to the connective tissue.",
+                        "wrongAnswer_1": "The basement membrane is situated within the cytoplasm of epithelial cells, acting as a cytoskeletal element that provides internal support and maintains cell shape and polarity in epithelial tissues.",
+                        "wrongAnswer_2": "The basement membrane is located on the apical surface of epithelial cells, forming a protective barrier against the external environment and regulating the passage of substances into the epithelium.",
+                        "wrongAnswer_3": "The basement membrane is found within the lumen of blood vessels, forming the tunica intima and regulating blood flow and permeability, while also preventing blood clotting and platelet adhesion.",
+                        "wrongAnswer_4": "The basement membrane is located in the intercellular spaces between connective tissue cells, providing structural support and facilitating cell-to-cell communication within the connective tissue matrix."
+                    },
+                    {
+                        "question": "What are the main structural layers that constitute the basement membrane, and in what order are they typically arranged from the epithelial side to the connective tissue side?",
+                        "goodAnswer": "The basement membrane consists of three layers: lamina lucida (closest to epithelium), lamina densa (middle layer), and lamina reticularis (adjacent to connective tissue), in that order.",
+                        "wrongAnswer_1": "The basement membrane has two primary layers: the basal lamina (epithelial side) and the fibrous lamina (connective tissue side), with no further subdivisions or intermediate layers.",
+                        "wrongAnswer_2": "The basement membrane is composed of a single homogeneous layer, the basal lamina, which directly interfaces with both epithelial and connective tissues without distinct sub-layers.",
+                        "wrongAnswer_3": "The basement membrane is structured into four layers: lamina epithelialis, lamina intermedia, lamina fibrosa, and lamina connectiva, each with distinct compositions and functions, sequentially arranged.",
+                        "wrongAnswer_4": "The basement membrane comprises five layers: zona occludens, zona adherens, macula adherens, lamina propria, and lamina muscularis mucosae, forming a complex barrier and structural support system."
+                    },
+                    {
+                        "question": "Which of the following options accurately describes the primary molecular components of the lamina densa, a prominent layer of the basement membrane, and their functional significance?",
+                        "goodAnswer": "The lamina densa is primarily composed of type IV collagen and laminin, which form a dense meshwork providing structural support, filtration, and influencing cell behavior and tissue organization.",
+                        "wrongAnswer_1": "The lamina densa is mainly composed of type I collagen and fibronectin, providing tensile strength and anchoring the basement membrane to the underlying connective tissue, resisting mechanical forces and stress.",
+                        "wrongAnswer_2": "The lamina densa is primarily composed of type III collagen and reticulin, forming a delicate network that supports cells and allows for diffusion of nutrients and wastes, particularly in lymphatic tissues.",
+                        "wrongAnswer_3": "The lamina densa is mainly composed of elastin and fibrillin, providing elasticity and recoil to the basement membrane, allowing it to stretch and return to its original shape after deformation.",
+                        "wrongAnswer_4": "The lamina densa is primarily composed of proteoglycans and glycosaminoglycans, contributing to hydration and turgor pressure within the basement membrane, influencing matrix viscosity and permeability."
+                    },
+                    {
+                        "question": "What are the key functional roles attributed to the basement membrane in tissues, beyond just providing structural support at the epithelium-connective tissue interface?",
+                        "goodAnswer": "Key functions of the basement membrane include providing structural support and attachment for epithelium, acting as a filtration barrier, influencing cell migration and differentiation, and organizing tissue architecture.",
+                        "wrongAnswer_1": "Primary functions of the basement membrane are to generate action potentials in excitable cells, transmit nerve impulses across synapses, regulate muscle contraction, and coordinate complex reflexes and behaviors.",
+                        "wrongAnswer_2": "Major functions of the basement membrane are to synthesize hormones and enzymes, regulate metabolic processes, detoxify harmful substances, and store nutrients for later use within the body.",
+                        "wrongAnswer_3": "Essential functions of the basement membrane are to facilitate gas exchange in the lungs, transport oxygen and carbon dioxide in the blood, regulate blood pressure, and maintain cardiovascular homeostasis.",
+                        "wrongAnswer_4": "Crucial functions of the basement membrane are to digest food in the gastrointestinal tract, absorb nutrients from digested food, eliminate waste products through excretion, and maintain fluid and electrolyte balance."
+                    }
+                ]
+            },
+            {
+                "title": "Cells in connective tissue : fixed and free",
+                "quizzes": [
+                    {
+                        "question": "Connective tissue cells are broadly classified into fixed and free (wandering) types. Which of the following options correctly categorizes the given cell types into these two classifications?",
+                        "goodAnswer": "Fixed cells typically include fibroblasts, adipocytes, pericytes, mast cells, and macrophages (though macrophages can also be free); free cells include plasma cells, lymphocytes, neutrophils, eosinophils, basophils, and monocytes.",
+                        "wrongAnswer_1": "Fixed cells are primarily lymphocytes, plasma cells, neutrophils, eosinophils, and basophils; free cells are fibroblasts, adipocytes, pericytes, mast cells, and macrophages, representing their typical mobility.",
+                        "wrongAnswer_2": "Fixed cells consist of epithelial cells, muscle cells, nerve cells, and glial cells; free cells are exclusively blood cells like erythrocytes, platelets, and megakaryocytes, characterized by their circulating nature.",
+                        "wrongAnswer_3": "Fixed cells include osteoblasts, chondrocytes, odontoblasts, and ameloblasts; free cells are melanocytes, keratinocytes, Langerhans cells, and Merkel cells, based on their tissue of origin and function.",
+                        "wrongAnswer_4": "Fixed cells are solely macrophages and mast cells, involved in immune surveillance; free cells are all other connective tissue cells, moving freely throughout the matrix to perform diverse functions and responses."
+                    },
+                    {
+                        "question": "Fibroblasts are the most abundant fixed cells in connective tissue. What is the primary function of fibroblasts, and what substances are they principally responsible for producing?",
+                        "goodAnswer": "Fibroblasts are primarily responsible for synthesizing and maintaining the extracellular matrix of connective tissues, producing collagen, elastic and reticular fibers, and ground substance components like GAGs and proteoglycans.",
+                        "wrongAnswer_1": "Fibroblasts mainly function in phagocytosis and immune defense within connective tissues, engulfing pathogens, cellular debris, and foreign materials, and presenting antigens to immune cells for response initiation.",
+                        "wrongAnswer_2": "Fibroblasts primarily store energy in the form of triglycerides within connective tissues, accumulating lipid droplets in their cytoplasm and releasing fatty acids for energy production during metabolic demand.",
+                        "wrongAnswer_3": "Fibroblasts mainly differentiate into other connective tissue cell types, such as chondrocytes, osteoblasts, and adipocytes, acting as progenitor cells and contributing to tissue regeneration and repair processes.",
+                        "wrongAnswer_4": "Fibroblasts primarily regulate blood flow and vascular permeability within connective tissues, releasing vasoactive substances and controlling the constriction and dilation of blood vessels, influencing tissue perfusion."
+                    },
+                    {
+                        "question": "Macrophages are versatile cells in connective tissue, classified as fixed but also capable of being free. What are the major functions of macrophages in connective tissues?",
+                        "goodAnswer": "Macrophages perform phagocytosis of pathogens, cellular debris, and aged cells; present antigens to lymphocytes to initiate immune responses; secrete cytokines and growth factors; and participate in tissue repair and remodeling.",
+                        "wrongAnswer_1": "Macrophages primarily synthesize and secrete hormones that regulate metabolic processes throughout the body, including insulin, glucagon, thyroid hormones, and adrenal hormones, influencing glucose homeostasis and energy balance.",
+                        "wrongAnswer_2": "Macrophages mainly transport oxygen and carbon dioxide in the blood, binding to hemoglobin and facilitating gas exchange in the lungs and tissues, ensuring efficient respiration and cellular oxygen supply.",
+                        "wrongAnswer_3": "Macrophages primarily contract and generate force, enabling tissue movement and structural support, similar to muscle cells, and contributing to posture maintenance and locomotion within connective tissues.",
+                        "wrongAnswer_4": "Macrophages mainly conduct electrical signals and transmit information throughout the body, forming neural networks and coordinating sensory perception, motor control, and higher cognitive functions within connective tissues."
+                    },
+                    {
+                        "question": "Plasma cells are free (wandering) cells in connective tissue, derived from B lymphocytes. What is the primary function of plasma cells, and what specific molecules are they specialized to produce?",
+                        "goodAnswer": "Plasma cells are specialized to produce and secrete large quantities of antibodies (immunoglobulins), which are crucial for humoral immunity, targeting and neutralizing pathogens and foreign substances in the body.",
+                        "wrongAnswer_1": "Plasma cells primarily function in cell-mediated immunity, directly attacking and destroying infected or cancerous cells through cytotoxic mechanisms, releasing perforins and granzymes to induce apoptosis.",
+                        "wrongAnswer_2": "Plasma cells mainly regulate inflammation and allergic reactions, releasing histamine, heparin, and other mediators that increase vascular permeability and attract immune cells to sites of tissue injury or infection.",
+                        "wrongAnswer_3": "Plasma cells primarily store and release histamine and serotonin, neurotransmitters that modulate mood, appetite, sleep, and pain perception, influencing neurological and behavioral functions within connective tissues.",
+                        "wrongAnswer_4": "Plasma cells primarily synthesize and secrete growth factors and cytokines that stimulate cell proliferation, differentiation, and tissue repair, promoting wound healing and tissue regeneration in connective tissues."
+                    },
+                    {
+                        "question": "Mast cells are fixed cells in connective tissue that play a significant role in inflammation and allergy. What are the primary mediators released by mast cells, and what are their immediate effects?",
+                        "goodAnswer": "Mast cells release histamine and heparin, among other mediators. Histamine increases vascular permeability and vasodilation, while heparin acts as an anticoagulant, both contributing to the inflammatory response and allergic reactions.",
+                        "wrongAnswer_1": "Mast cells primarily release digestive enzymes like amylase, lipase, and protease, which break down macromolecules into smaller units for absorption in the digestive tract, facilitating nutrient digestion and assimilation.",
+                        "wrongAnswer_2": "Mast cells mainly secrete hormones such as insulin and glucagon, which regulate blood glucose levels and energy metabolism, maintaining glucose homeostasis and preventing hyperglycemia or hypoglycemia.",
+                        "wrongAnswer_3": "Mast cells primarily release neurotransmitters like acetylcholine and norepinephrine, which transmit nerve impulses across synapses and regulate muscle contraction, influencing neuronal communication and motor control.",
+                        "wrongAnswer_4": "Mast cells primarily synthesize and secrete mucus, a viscous fluid that lubricates and protects epithelial surfaces, trapping pathogens and debris and facilitating their removal from the body, especially in respiratory and digestive tracts."
+                    }
+                ]
+            },
+            {
+                "title": "Types of Connective Tissue Proper",
+                "quizzes": [
+                    {
+                        "question": "Connective tissue proper is classified into several types based on the composition and organization of their extracellular matrix and cell types. Which of the following options correctly lists the major types of connective tissue proper?",
+                        "goodAnswer": "The major types of connective tissue proper include loose connective tissue (areolar), dense connective tissue (regular and irregular), adipose tissue, reticular tissue, and mucous connective tissue.",
+                        "wrongAnswer_1": "The main types are epithelial tissue, muscle tissue, nervous tissue, and connective tissue, representing the four fundamental tissue categories in the body, with connective tissue proper being a broad classification.",
+                        "wrongAnswer_2": "The primary types are bone tissue, cartilage tissue, blood tissue, and lymph tissue, representing specialized connective tissues with distinct matrices and functions, excluding connective tissue proper.",
+                        "wrongAnswer_3": "The major types are stratified squamous epithelium, simple cuboidal epithelium, pseudostratified columnar epithelium, and transitional epithelium, representing variations in epithelial tissue structure and function.",
+                        "wrongAnswer_4": "The main types are skeletal muscle, smooth muscle, and cardiac muscle, representing the three categories of muscle tissue based on morphology, location, and control mechanisms, distinct from connective tissues."
+                    },
+                    {
+                        "question": "Loose connective tissue (areolar) is a common type of connective tissue proper. What are the key characteristics of loose connective tissue that distinguish it from other types?",
+                        "goodAnswer": "Loose connective tissue is characterized by abundant ground substance, loosely arranged collagen and elastic fibers, and various cell types, providing flexibility, support, and diffusion pathways for nutrients and wastes.",
+                        "wrongAnswer_1": "Loose connective tissue is defined by densely packed, parallel collagen fibers with minimal ground substance and few fibroblasts, providing high tensile strength in one direction, typical of tendons and ligaments.",
+                        "wrongAnswer_2": "Loose connective tissue is characterized by specialized cells called chondrocytes embedded in a firm, gel-like matrix rich in chondroitin sulfate, providing flexible support and resisting compression, characteristic of cartilage.",
+                        "wrongAnswer_3": "Loose connective tissue is defined by a fluid extracellular matrix called plasma, containing erythrocytes, leukocytes, and platelets, facilitating transport of gases, nutrients, hormones, and waste products throughout the body, typical of blood.",
+                        "wrongAnswer_4": "Loose connective tissue is characterized by a mineralized extracellular matrix composed of calcium phosphate and collagen fibers, providing rigidity and structural support, characteristic of bone tissue and skeletal framework."
+                    },
+                    {
+                        "question": "Dense regular connective tissue is specialized for resisting tension in a specific direction. What is the primary structural feature of dense regular connective tissue that enables this function, and where is it typically found?",
+                        "goodAnswer": "Dense regular connective tissue is characterized by densely packed, parallel collagen fibers oriented in the direction of force, providing high tensile strength in one direction. It is typically found in tendons and ligaments.",
+                        "wrongAnswer_1": "Dense regular connective tissue is defined by randomly arranged collagen fibers and abundant ground substance, providing resistance to tension in multiple directions. It is typically found in the dermis of the skin and organ capsules.",
+                        "wrongAnswer_2": "Dense regular connective tissue is characterized by elastic fibers arranged in parallel sheets, providing elasticity and recoil. It is typically found in the walls of large arteries and elastic ligaments of the vertebral column.",
+                        "wrongAnswer_3": "Dense regular connective tissue is defined by reticular fibers forming a delicate, branching network supporting cells in lymphoid organs. It is typically found in the spleen, lymph nodes, and bone marrow.",
+                        "wrongAnswer_4": "Dense regular connective tissue is characterized by adipocytes filled with lipid droplets, specialized for energy storage and insulation. It is typically found in subcutaneous tissue and around organs, forming adipose tissue."
+                    },
+                    {
+                        "question": "Adipose tissue is a specialized type of connective tissue proper. What is the primary function of adipose tissue, and what are the two main types of adipose tissue recognized in the body?",
+                        "goodAnswer": "Adipose tissue primarily functions in energy storage as triglycerides, insulation, and cushioning of organs. The two main types are white adipose tissue (energy storage) and brown adipose tissue (thermogenesis).",
+                        "wrongAnswer_1": "Adipose tissue mainly functions in structural support and movement, forming tendons, ligaments, and skeletal muscles. The two types are skeletal adipose tissue (attached to bones) and visceral adipose tissue (surrounding organs).",
+                        "wrongAnswer_2": "Adipose tissue primarily functions in blood cell formation and immune response. The two types are red adipose tissue (bone marrow) and yellow adipose tissue (lymphoid organs).",
+                        "wrongAnswer_3": "Adipose tissue mainly functions in nerve impulse transmission and sensory perception. The two types are neuronal adipose tissue (brain) and sensory adipose tissue (skin).",
+                        "wrongAnswer_4": "Adipose tissue primarily functions in gas exchange and nutrient absorption. The two types are pulmonary adipose tissue (lungs) and intestinal adipose tissue (intestines)."
+                    },
+                    {
+                        "question": "Reticular connective tissue forms a delicate framework in certain organs. Where is reticular connective tissue primarily found, and what is its main functional role in these locations?",
+                        "goodAnswer": "Reticular connective tissue is primarily found in hematopoietic and lymphoid organs such as bone marrow, spleen, and lymph nodes. Its main function is to provide a supportive framework for cells in these organs.",
+                        "wrongAnswer_1": "Reticular connective tissue is mainly found in tendons and ligaments, providing tensile strength and resisting stretching forces. Its main function is to connect muscles to bones and bones to bones.",
+                        "wrongAnswer_2": "Reticular connective tissue is primarily found in the walls of large arteries and elastic ligaments, providing elasticity and recoil. Its main function is to allow tissues to stretch and return to their original shape.",
+                        "wrongAnswer_3": "Reticular connective tissue is mainly found in the dermis of the skin and organ capsules, providing resistance to tension in multiple directions. Its main function is to protect and enclose organs and tissues.",
+                        "wrongAnswer_4": "Reticular connective tissue is primarily found in cartilage and intervertebral discs, providing compressive strength and resilience. Its main function is to cushion joints and resist deformation under pressure."
+                    }
+                ]
+            }
+        ]
+    }
+}

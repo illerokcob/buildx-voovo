@@ -1,0 +1,119 @@
+{
+    "mainTopic": {
+        "title": "Nitric Oxide",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of nitric oxide",
+                "quizzes": [
+                    {
+                        "question": "What is the primary enzymatic precursor and the key enzyme responsible for the endogenous production of nitric oxide (NO) in mammalian cells?",
+                        "goodAnswer": "L-arginine is the primary precursor, and nitric oxide synthase (NOS) enzymes, specifically isoforms like eNOS, nNOS, and iNOS, catalyze the conversion of L-arginine to NO and L-citrulline.",
+                        "wrongAnswer_1": "L-glutamine is the primary precursor, and nitric oxide reductase (NOR) enzymes, specifically isoforms like nNOR, cNOR, and mNOR, catalyze the conversion of L-glutamine to NO and alpha-ketoglutarate.",
+                        "wrongAnswer_2": "L-ornithine is the primary precursor, and nitric oxide oxidase (NOX) enzymes, specifically isoforms like NOX1, NOX2, and NOX4, catalyze the conversion of L-ornithine to NO and urea.",
+                        "wrongAnswer_3": "L-lysine is the primary precursor, and nitric oxide dehydrogenase (NOD) enzymes, specifically isoforms like NOD1, NOD2, and NOD3, catalyze the conversion of L-lysine to NO and cadaverine.",
+                        "wrongAnswer_4": "L-alanine is the primary precursor, and nitric oxide synthetase (NOS) enzymes, specifically isoforms like aNOS, bNOS, and cNOS, catalyze the conversion of L-alanine to NO and pyruvate."
+                    },
+                    {
+                        "question": "Which of the following signaling mechanisms best describes the immediate intracellular action of nitric oxide (NO) leading to vasorelaxation in vascular smooth muscle cells?",
+                        "goodAnswer": "NO diffuses into smooth muscle cells and activates soluble guanylate cyclase (sGC), increasing intracellular levels of cyclic GMP (cGMP), which subsequently activates protein kinase G (PKG) and reduces intracellular calcium, leading to relaxation.",
+                        "wrongAnswer_1": "NO diffuses into smooth muscle cells and activates adenylyl cyclase (AC), increasing intracellular levels of cyclic AMP (cAMP), which subsequently activates protein kinase A (PKA) and increases intracellular calcium, leading to relaxation.",
+                        "wrongAnswer_2": "NO diffuses into smooth muscle cells and inhibits phosphodiesterase type 5 (PDE5), decreasing the breakdown of cyclic GMP (cGMP), which consequently inhibits protein phosphatase 1 (PP1) and reduces intracellular calcium, leading to contraction.",
+                        "wrongAnswer_3": "NO diffuses into smooth muscle cells and directly binds to and activates myosin light chain kinase (MLCK), increasing phosphorylation of myosin light chain, which subsequently increases intracellular calcium and leads to contraction.",
+                        "wrongAnswer_4": "NO diffuses into smooth muscle cells and directly binds to and inhibits rho-associated protein kinase (ROCK), decreasing phosphorylation of myosin phosphatase targeting subunit (MYPT1), which consequently increases intracellular calcium and leads to vasoconstriction."
+                    },
+                    {
+                        "question": "Nitric oxide (NO) is known to have a short half-life in vivo. What is the primary reason for this rapid degradation and inactivation of NO in biological systems?",
+                        "goodAnswer": "NO readily reacts with oxygen and superoxide radicals, leading to its rapid oxidation and formation of nitrite and nitrate, as well as peroxynitrite in the presence of superoxide, effectively reducing its bioavailability and signaling duration.",
+                        "wrongAnswer_1": "NO is efficiently metabolized by cytochrome P450 enzymes in the liver, undergoing hydroxylation and subsequent conjugation reactions that facilitate its excretion via the kidneys and bile, thus limiting its systemic lifespan.",
+                        "wrongAnswer_2": "NO is rapidly taken up by erythrocytes and binds with high affinity to hemoglobin, forming nitrosylhemoglobin, which prevents its diffusion to target tissues and effectively sequesters it from biological activity.",
+                        "wrongAnswer_3": "NO is actively transported out of cells by ATP-binding cassette (ABC) transporters, such as multidrug resistance protein 1 (MRP1), which reduces its intracellular concentration and limits its paracrine signaling range.",
+                        "wrongAnswer_4": "NO undergoes spontaneous isomerization into a more stable, inactive isomer known as iso-nitric oxide (iso-NO), which lacks the biological activity of the cis-isomer and is slowly eliminated from the body."
+                    },
+                    {
+                        "question": "Besides vasodilation, nitric oxide (NO) plays diverse roles in various physiological processes. Which of the following accurately describes another significant physiological function of NO?",
+                        "goodAnswer": "Neurotransmission in the central and peripheral nervous systems, where NO acts as a non-conventional neurotransmitter involved in synaptic plasticity, long-term potentiation, and regulation of neuronal excitability.",
+                        "wrongAnswer_1": "Regulation of erythropoiesis in the bone marrow, where NO stimulates the production of red blood cells by directly activating erythropoietin receptors on hematopoietic stem cells, thus increasing oxygen-carrying capacity.",
+                        "wrongAnswer_2": "Modulation of glucose metabolism in pancreatic beta cells, where NO enhances insulin secretion in response to glucose stimulation by increasing intracellular calcium influx and exocytosis of insulin granules.",
+                        "wrongAnswer_3": "Control of gastric acid secretion in the stomach, where NO stimulates parietal cells to release hydrochloric acid (HCl) by activating histamine-2 receptors and increasing intracellular cAMP levels.",
+                        "wrongAnswer_4": "Regulation of body temperature in the hypothalamus, where NO acts as a pyretic agent, increasing the body's set point temperature in response to inflammatory stimuli and infection."
+                    }
+                ]
+            },
+            {
+                "title": "Nitric Oxide inhalation in ARDS",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which inhaled nitric oxide (iNO) improves oxygenation in patients with Acute Respiratory Distress Syndrome (ARDS)?",
+                        "goodAnswer": "iNO selectively dilates pulmonary vessels in well-ventilated lung regions, redirecting blood flow from poorly ventilated areas to better-ventilated alveoli, thereby improving ventilation-perfusion (V/Q) matching and reducing intrapulmonary shunting.",
+                        "wrongAnswer_1": "iNO directly increases the diffusion capacity of oxygen across the alveolar-capillary membrane by enhancing the permeability of the endothelial and epithelial barriers, thus facilitating gas exchange regardless of ventilation distribution.",
+                        "wrongAnswer_2": "iNO systemically dilates both pulmonary and systemic vasculature, reducing afterload on the right and left ventricles, which indirectly improves cardiac output and oxygen delivery to the lungs, enhancing oxygenation.",
+                        "wrongAnswer_3": "iNO acts as a potent bronchodilator, relaxing airway smooth muscle and reducing airway resistance, which leads to improved alveolar ventilation and increased oxygen uptake, particularly in patients with bronchospasm.",
+                        "wrongAnswer_4": "iNO stimulates the production of surfactant by type II alveolar cells, reducing alveolar surface tension and preventing alveolar collapse, thereby increasing the functional residual capacity and improving oxygenation in ARDS."
+                    },
+                    {
+                        "question": "In the context of ARDS management, what is a key limitation of inhaled nitric oxide (iNO) therapy regarding its impact on patient mortality?",
+                        "goodAnswer": "While iNO can improve oxygenation and reduce pulmonary artery pressure, clinical trials have not consistently demonstrated a significant reduction in overall mortality in adult patients with ARDS, suggesting it primarily serves as a temporizing measure.",
+                        "wrongAnswer_1": "iNO significantly reduces mortality in all subtypes of ARDS regardless of etiology or severity, as it directly addresses the underlying inflammatory processes and prevents progression to multi-organ failure, making it a definitive treatment.",
+                        "wrongAnswer_2": "iNO paradoxically increases mortality in patients with severe ARDS due to its potent vasodilatory effects leading to systemic hypotension and decreased cerebral perfusion, particularly in hemodynamically unstable individuals.",
+                        "wrongAnswer_3": "iNO is contraindicated in ARDS patients with concomitant left ventricular dysfunction because it increases pulmonary blood flow, exacerbating pulmonary edema and leading to increased mortality in this specific subgroup.",
+                        "wrongAnswer_4": "iNO therapy is associated with a significant increase in mortality due to the development of methemoglobinemia and subsequent tissue hypoxia, especially when administered at high doses for prolonged durations in ARDS patients."
+                    },
+                    {
+                        "question": "What is the recommended initial dose range for inhaled nitric oxide (iNO) in adult patients with ARDS, as typically used in clinical practice?",
+                        "goodAnswer": "The initial dose of iNO for ARDS in adults is typically started between 2 to 20 parts per million (ppm), titrated based on the patient's oxygenation response and hemodynamic stability, aiming for the lowest effective dose.",
+                        "wrongAnswer_1": "The initial dose of iNO for ARDS in adults is typically started at 40 to 80 parts per million (ppm), with rapid escalation to 100 ppm if there is no immediate improvement in oxygenation within the first hour of treatment.",
+                        "wrongAnswer_2": "The initial dose of iNO for ARDS in adults is typically started at 0.5 to 1 part per million (ppm), gradually increasing by 0.5 ppm every 2 hours until a maximum dose of 5 ppm is reached or oxygenation improves.",
+                        "wrongAnswer_3": "The initial dose of iNO for ARDS in adults is weight-based, typically 5 mcg/kg/min, administered via continuous intravenous infusion alongside inhaled nitrogen gas to facilitate pulmonary delivery.",
+                        "wrongAnswer_4": "The initial dose of iNO for ARDS in adults is a single bolus of 500 mcg administered via nebulization, followed by intermittent boluses of 250 mcg every 4 hours as needed to maintain oxygenation targets."
+                    },
+                    {
+                        "question": "Discontinuation of inhaled nitric oxide (iNO) in ARDS patients requires a careful weaning process. What is the primary risk associated with abrupt cessation of iNO therapy?",
+                        "goodAnswer": "Abrupt withdrawal of iNO can lead to rebound pulmonary vasoconstriction and hypoxemia, potentially worsening oxygenation and requiring re-escalation of ventilatory support or re-initiation of iNO therapy, necessitating a gradual weaning strategy.",
+                        "wrongAnswer_1": "Sudden cessation of iNO can cause systemic hypotension due to the loss of systemic vasodilation previously maintained by iNO, potentially leading to hemodynamic instability and requiring vasopressor support.",
+                        "wrongAnswer_2": "Rapid discontinuation of iNO can trigger acute bronchospasm due to increased airway reactivity, necessitating bronchodilator therapy and potentially leading to respiratory distress and increased work of breathing.",
+                        "wrongAnswer_3": "Immediate withdrawal of iNO can result in a surge of methemoglobin levels, as the body's compensatory mechanisms for methemoglobin reduction are overwhelmed, leading to methemoglobinemia and tissue hypoxia.",
+                        "wrongAnswer_4": "Abrupt cessation of iNO can induce a hyperinflammatory response in the lungs, exacerbating lung injury and increasing the risk of ventilator-associated pneumonia and other infectious complications in ARDS patients."
+                    }
+                ]
+            },
+            {
+                "title": "Nitric Oxide inhalation in neonatal respiratory failure",
+                "quizzes": [
+                    {
+                        "question": "In neonates with respiratory failure, particularly Persistent Pulmonary Hypertension of the Newborn (PPHN), what is the main therapeutic goal of inhaled nitric oxide (iNO) therapy?",
+                        "goodAnswer": "To selectively dilate the pulmonary vasculature, reduce pulmonary artery pressure, and reverse right-to-left shunting through the foramen ovale and ductus arteriosus, thereby improving pulmonary blood flow and systemic oxygenation in PPHN.",
+                        "wrongAnswer_1": "To systemically dilate both pulmonary and systemic vessels, decrease systemic vascular resistance, and increase cardiac output, ultimately enhancing oxygen delivery to peripheral tissues and improving overall hemodynamic stability in neonatal respiratory failure.",
+                        "wrongAnswer_2": "To induce bronchodilation and reduce airway resistance, thereby improving alveolar ventilation and gas exchange, particularly in neonates with bronchopulmonary dysplasia or meconium aspiration syndrome causing airway obstruction.",
+                        "wrongAnswer_3": "To stimulate surfactant production and reduce alveolar surface tension, preventing alveolar collapse and improving lung compliance, primarily in premature neonates with respiratory distress syndrome due to surfactant deficiency.",
+                        "wrongAnswer_4": "To enhance mucociliary clearance and reduce airway secretions, thereby improving airway patency and decreasing the work of breathing in neonates with respiratory failure secondary to pneumonia or bronchiolitis."
+                    },
+                    {
+                        "question": "Which neonatal condition is a primary indication for inhaled nitric oxide (iNO) therapy due to its established efficacy in improving outcomes?",
+                        "goodAnswer": "Persistent Pulmonary Hypertension of the Newborn (PPHN) is a primary indication, where iNO is used to reduce pulmonary vascular resistance and improve oxygenation in neonates with this condition.",
+                        "wrongAnswer_1": "Respiratory Distress Syndrome (RDS) in premature infants is the primary indication, as iNO directly addresses the surfactant deficiency and improves lung compliance in these neonates.",
+                        "wrongAnswer_2": "Bronchiolitis obliterans in term infants is a primary indication, where iNO helps to reverse the fixed airway obstruction and improve ventilation in these patients.",
+                        "wrongAnswer_3": "Congenital Diaphragmatic Hernia (CDH) is the primary indication, as iNO reduces pulmonary hypertension associated with lung hypoplasia in neonates with CDH before surgical repair.",
+                        "wrongAnswer_4": "Necrotizing Enterocolitis (NEC) in preterm infants is the primary indication, as iNO improves mesenteric blood flow and reduces intestinal inflammation associated with NEC."
+                    },
+                    {
+                        "question": "What is a common starting dose range for inhaled nitric oxide (iNO) in neonates with PPHN?",
+                        "goodAnswer": "A typical starting dose of iNO in neonates with PPHN is between 10 to 20 parts per million (ppm), which can be titrated based on clinical response and arterial blood gas analysis.",
+                        "wrongAnswer_1": "A typical starting dose of iNO in neonates with PPHN is between 40 to 60 parts per million (ppm), aiming for a rapid reduction in pulmonary artery pressure and immediate improvement in oxygenation.",
+                        "wrongAnswer_2": "A typical starting dose of iNO in neonates with PPHN is between 2 to 5 parts per million (ppm), gradually increasing to a maximum of 10 ppm if the initial response is inadequate.",
+                        "wrongAnswer_3": "A typical starting dose of iNO in neonates with PPHN is weight-based, approximately 1 mcg/kg/min via continuous intravenous infusion, adjusted based on pulmonary hemodynamic monitoring.",
+                        "wrongAnswer_4": "A typical starting dose of iNO in neonates with PPHN is a single bolus of 100 mcg via endotracheal instillation, followed by intermittent boluses of 50 mcg every 6 hours as needed."
+                    },
+                    {
+                        "question": "During inhaled nitric oxide (iNO) therapy in neonates, what is a crucial monitoring parameter to assess for potential adverse effects, specifically methemoglobinemia?",
+                        "goodAnswer": "Monitoring methemoglobin levels in arterial or capillary blood is crucial, as prolonged iNO exposure, especially at higher doses, can lead to methemoglobinemia, reducing oxygen-carrying capacity and potentially causing tissue hypoxia.",
+                        "wrongAnswer_1": "Monitoring serum creatinine levels is crucial, as iNO can cause nephrotoxicity in neonates, particularly those with pre-existing renal dysfunction, necessitating dose adjustments or discontinuation.",
+                        "wrongAnswer_2": "Monitoring platelet counts is crucial, as iNO can induce thrombocytopenia in neonates, increasing the risk of bleeding complications, especially in preterm infants with coagulopathies.",
+                        "wrongAnswer_3": "Monitoring liver function tests (LFTs) is crucial, as iNO can cause hepatotoxicity in neonates, particularly those with underlying liver disease, requiring careful liver function surveillance.",
+                        "wrongAnswer_4": "Monitoring blood glucose levels is crucial, as iNO can induce hyperglycemia in neonates, especially in preterm infants with insulin resistance, necessitating close glucose control during therapy."
+                    }
+                ]
+            }
+        ]
+    }
+}

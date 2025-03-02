@@ -1,0 +1,119 @@
+{
+    "mainTopic": {
+        "title": "Antibodies",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Structure of antibodies",
+                "quizzes": [
+                    {
+                        "question": "Which structural feature of an antibody molecule is primarily responsible for its antigen-binding specificity?",
+                        "goodAnswer": "The variability in the amino acid sequences of the variable regions (VH and VL) located at the N-terminal ends of the heavy and light chains.",
+                        "wrongAnswer_1": "The conserved amino acid sequences within the constant regions (CH and CL) that dictate the isotype and effector functions of the antibody.",
+                        "wrongAnswer_2": "The glycosylation patterns present on the Fc region of the heavy chains, which influence antibody interaction with complement proteins.",
+                        "wrongAnswer_3": "The presence of disulfide bonds linking the heavy and light chains, which provide structural stability but do not directly determine antigen specificity.",
+                        "wrongAnswer_4": "The hinge region flexibility, which allows for increased reach to antigens but is not directly involved in the antigen recognition site itself."
+                    },
+                    {
+                        "question": "What is the correct description of the Fab region of an antibody molecule in relation to its functional domains?",
+                        "goodAnswer": "The Fab region comprises the variable (VL, VH) and first constant domains (CL, CH1) of both light and heavy chains, responsible for antigen binding.",
+                        "wrongAnswer_1": "The Fab region is formed by the constant domains (CH2 and CH3) of the heavy chains and is primarily involved in effector functions like complement activation.",
+                        "wrongAnswer_2": "The Fab region includes the hinge region and the variable domains, providing flexibility for antigen binding and isotype switching.",
+                        "wrongAnswer_3": "The Fab region consists solely of the variable domains (VL and VH) and is responsible for determining the antibody isotype.",
+                        "wrongAnswer_4": "The Fab region is composed of the Fc region and the light chains, facilitating antibody dimerization and avidity enhancement."
+                    },
+                    {
+                        "question": "How do the heavy and light chains of an IgG antibody interact to form a functional antigen-binding site?",
+                        "goodAnswer": "Each heavy chain pairs with one light chain through non-covalent interactions and disulfide bonds, with the variable domains of both chains (VH and VL) combining to create two identical antigen-binding sites per antibody.",
+                        "wrongAnswer_1": "Two heavy chains associate to form the antigen-binding site, while light chains stabilize the Fc region and are not directly involved in antigen recognition.",
+                        "wrongAnswer_2": "Heavy and light chains interact only through the constant regions, with the variable regions independently binding to different epitopes on the same antigen.",
+                        "wrongAnswer_3": "Heavy chains provide the primary antigen-binding site, and light chains enhance the avidity by interacting with complement proteins near the antigen.",
+                        "wrongAnswer_4": "Heavy and light chains are covalently linked at the hinge region, creating a single antigen-binding site formed by the constant domains."
+                    },
+                    {
+                        "question": "Which statement accurately describes the role of the 'hinge region' in the structure and function of IgG antibodies?",
+                        "goodAnswer": "The hinge region provides flexibility between the Fab and Fc regions, enabling the antibody to bind to epitopes at varying distances and facilitate effector functions through Fc region accessibility.",
+                        "wrongAnswer_1": "The hinge region is responsible for antigen-binding specificity by directly interacting with the antigen epitope and determining the antibody's affinity.",
+                        "wrongAnswer_2": "The hinge region stabilizes the quaternary structure of the antibody by forming covalent bonds between heavy and light chains in the Fc region.",
+                        "wrongAnswer_3": "The hinge region is glycosylated and this glycosylation is essential for antigen recognition and the initial binding event.",
+                        "wrongAnswer_4": "The hinge region is only present in IgM antibodies and is responsible for their pentameric structure and high avidity binding to antigens."
+                    }
+                ]
+            },
+            {
+                "title": "Function of antibodies",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which neutralizing antibodies protect host cells from viral infection?",
+                        "goodAnswer": "Neutralizing antibodies bind to viral surface proteins, preventing the virus from attaching to and entering host cells, thus blocking the initiation of infection.",
+                        "wrongAnswer_1": "Neutralizing antibodies activate the complement system to lyse virus-infected cells, thereby eliminating the viral reservoir and preventing spread.",
+                        "wrongAnswer_2": "Neutralizing antibodies opsonize viral particles, marking them for phagocytosis by macrophages and neutrophils, clearing the virus from the extracellular space.",
+                        "wrongAnswer_3": "Neutralizing antibodies induce antibody-dependent cellular cytotoxicity (ADCC), recruiting NK cells to kill virus-infected cells displaying viral antigens on their surface.",
+                        "wrongAnswer_4": "Neutralizing antibodies directly degrade viral genetic material upon binding to viral particles, leading to inactivation of the virus and termination of infection."
+                    },
+                    {
+                        "question": "How does antibody-dependent cellular cytotoxicity (ADCC) function to eliminate infected or cancerous cells?",
+                        "goodAnswer": "ADCC involves antibodies binding to target cells, then the Fc region of these antibodies is recognized by Fc receptors on effector cells like NK cells, leading to target cell lysis.",
+                        "wrongAnswer_1": "ADCC is a process where antibodies directly induce apoptosis in target cells upon binding to cell surface antigens, without the involvement of effector immune cells.",
+                        "wrongAnswer_2": "ADCC relies on the complement system to deposit complement proteins on antibody-coated target cells, leading to formation of the membrane attack complex and cell lysis.",
+                        "wrongAnswer_3": "ADCC is mediated by antibodies that neutralize toxins released by target cells, thereby preventing further damage to surrounding tissues and promoting cell survival.",
+                        "wrongAnswer_4": "ADCC functions by antibodies agglutinating target cells, making them easier to phagocytose by macrophages without direct cell lysis by effector cells."
+                    },
+                    {
+                        "question": "Which sequence of events accurately describes the classical pathway of complement activation initiated by antibodies?",
+                        "goodAnswer": "Antibody binding to antigen -> C1q recognition and binding to Fc region -> C1r and C1s activation -> C4 and C2 cleavage -> C3 convertase (C4b2a) formation -> downstream complement cascade.",
+                        "wrongAnswer_1": "Antibody binding to antigen -> Factor B and Factor D recruitment -> Properdin stabilization -> C3 convertase (C3bBbP) formation -> C5 convertase assembly -> membrane attack complex formation.",
+                        "wrongAnswer_2": "Mannose-binding lectin (MBL) binding to pathogen surface -> MASP activation -> C4 and C2 cleavage -> C3 convertase (C4b2a) formation -> downstream complement cascade initiated by antibodies.",
+                        "wrongAnswer_3": "Spontaneous C3 hydrolysis (C3(H2O)) -> Factor B binding -> Factor D cleavage of Factor B -> C3 convertase (C3bBb) formation -> antibody binding to C3b for amplification of the pathway.",
+                        "wrongAnswer_4": "Antibody binding to antigen -> C3b opsonization -> CR1 receptor engagement on phagocytes -> phagocytosis of antibody-antigen complexes and complement components."
+                    },
+                    {
+                        "question": "What role do antibodies play in opsonization, and how does this enhance phagocytosis?",
+                        "goodAnswer": "Antibodies coat pathogens (opsonization), and phagocytes possess Fc receptors that bind to the antibody Fc region, enhancing pathogen recognition and engulfment by phagocytosis.",
+                        "wrongAnswer_1": "Antibodies directly lyse pathogens through the formation of pores in the pathogen membrane, and phagocytes then clear the cellular debris but are not directly involved in opsonization.",
+                        "wrongAnswer_2": "Antibodies neutralize pathogens by preventing them from binding to host cells, and opsonization is a separate process mediated by complement proteins alone to enhance phagocytosis.",
+                        "wrongAnswer_3": "Antibodies agglutinate pathogens, forming large clumps that are too large for phagocytes to engulf, thus inhibiting rather than enhancing phagocytosis through opsonization.",
+                        "wrongAnswer_4": "Antibodies activate the inflammatory response, recruiting neutrophils to the site of infection, but they do not directly participate in the opsonization process to enhance phagocytosis."
+                    }
+                ]
+            },
+            {
+                "title": "Antibody-Based Clinical Tests",
+                "quizzes": [
+                    {
+                        "question": "In an ELISA (Enzyme-Linked Immunosorbent Assay), what is the purpose of the enzyme-conjugated antibody?",
+                        "goodAnswer": "The enzyme-conjugated antibody is used to detect the presence of the target antigen or primary antibody by catalyzing a reaction that produces a detectable signal, indicating a positive result.",
+                        "wrongAnswer_1": "The enzyme-conjugated antibody is used to capture the target antigen onto the microplate well, ensuring that the antigen remains immobilized throughout the assay.",
+                        "wrongAnswer_2": "The enzyme-conjugated antibody serves as the primary antibody that directly binds to the target antigen, initiating the immunological reaction in the assay.",
+                        "wrongAnswer_3": "The enzyme-conjugated antibody is used to block non-specific binding sites on the microplate well, preventing false positive results due to background noise.",
+                        "wrongAnswer_4": "The enzyme-conjugated antibody is used to wash away unbound reagents after each incubation step, ensuring only specific antibody-antigen complexes are detected."
+                    },
+                    {
+                        "question": "How does Western blotting utilize antibodies to detect specific proteins in a sample?",
+                        "goodAnswer": "Western blotting separates proteins by size using gel electrophoresis, transfers them to a membrane, and then uses specific antibodies to probe for and visualize the protein of interest.",
+                        "wrongAnswer_1": "Western blotting uses antibodies to directly precipitate proteins from a sample, and the precipitated proteins are then analyzed using mass spectrometry for identification.",
+                        "wrongAnswer_2": "Western blotting employs fluorescently labeled antibodies to directly stain proteins in cells, and the stained cells are then visualized using fluorescence microscopy.",
+                        "wrongAnswer_3": "Western blotting uses antibodies to amplify DNA sequences encoding specific proteins, and the amplified DNA is then analyzed using PCR techniques.",
+                        "wrongAnswer_4": "Western blotting separates proteins based on their isoelectric point using isoelectric focusing, and antibodies are used to detect changes in protein charge."
+                    },
+                    {
+                        "question": "What is the fundamental principle behind immunofluorescence microscopy for detecting cellular antigens?",
+                        "goodAnswer": "Immunofluorescence uses antibodies conjugated to fluorescent dyes to bind to specific antigens in cells or tissues, allowing visualization of antigen location and distribution under a fluorescence microscope.",
+                        "wrongAnswer_1": "Immunofluorescence uses enzyme-conjugated antibodies to catalyze a colorimetric reaction at the site of antigen localization in cells, visualized under a light microscope.",
+                        "wrongAnswer_2": "Immunofluorescence employs radiolabeled antibodies to detect antigens in cells, and the radioactive signal is detected using autoradiography.",
+                        "wrongAnswer_3": "Immunofluorescence utilizes antibodies to block the function of specific cellular antigens, and the resulting phenotypic changes are observed under a standard microscope.",
+                        "wrongAnswer_4": "Immunofluorescence involves the use of antibodies to precipitate cellular antigens, and the precipitated antigen-antibody complexes are quantified using spectrophotometry."
+                    },
+                    {
+                        "question": "In the context of rapid diagnostic tests like lateral flow assays, how do antibodies facilitate the detection of an analyte?",
+                        "goodAnswer": "Antibodies immobilized on the test strip capture the analyte, and labeled antibodies then bind to the captured analyte, creating a visible signal at the test line if the analyte is present.",
+                        "wrongAnswer_1": "Antibodies in lateral flow assays directly react with the analyte to produce a color change, and the intensity of the color is proportional to the analyte concentration without capture.",
+                        "wrongAnswer_2": "Antibodies in lateral flow assays amplify the analyte signal through enzymatic reactions, and the amplified signal is then detected by a sensor at the control line.",
+                        "wrongAnswer_3": "Antibodies in lateral flow assays separate the analyte from the sample matrix, and the purified analyte is then detected using mass spectrometry integrated into the device.",
+                        "wrongAnswer_4": "Antibodies in lateral flow assays induce agglutination of the analyte, and the agglutinated particles are then visualized as a precipitate at the test line indicating a positive result."
+                    }
+                ]
+            }
+        ]
+    }
+}

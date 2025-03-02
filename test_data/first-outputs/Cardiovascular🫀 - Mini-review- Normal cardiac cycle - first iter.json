@@ -1,0 +1,164 @@
+{
+    "mainTopic": {
+        "title": "Mini-review: Normal cardiac cycle",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Pressure, Flow, Circulation",
+                "quizzes": [
+                    {
+                        "question": "What is the primary determinant of blood flow through a vessel, according to the fundamental principles governing fluid dynamics in the cardiovascular system?",
+                        "goodAnswer": "The pressure gradient across the vessel, which is the difference in pressure between the two ends of the vessel, directly influencing the rate of flow.",
+                        "wrongAnswer_1": "The absolute pressure within the vessel, as higher absolute pressure directly translates to a proportional increase in blood flow rate, independent of pressure differences.",
+                        "wrongAnswer_2": "The viscosity of the blood, where increased viscosity linearly accelerates blood flow due to reduced internal friction and enhanced laminar flow.",
+                        "wrongAnswer_3": "The external temperature surrounding the vessel, where higher temperatures significantly increase blood flow by reducing the density of the blood.",
+                        "wrongAnswer_4": "The total volume of blood in the circulatory system, with larger volumes directly causing a proportional increase in flow rate throughout all vessels."
+                    },
+                    {
+                        "question": "In the context of systemic circulation, where does the largest pressure drop normally occur, reflecting the highest resistance to blood flow?",
+                        "goodAnswer": "Across the arterioles, due to their significant contribution to peripheral resistance through vasoconstriction and vasodilation mechanisms.",
+                        "wrongAnswer_1": "Across the aorta, immediately after ejection from the left ventricle, because of the high velocity and volume of blood passing through this large vessel.",
+                        "wrongAnswer_2": "Across the capillaries, because of the extensive branching and large total cross-sectional area, leading to frictional losses.",
+                        "wrongAnswer_3": "Across the venules, as blood returns to the heart and encounters increasing vessel diameter, leading to flow impedance.",
+                        "wrongAnswer_4": "Across the veins, especially the vena cava, due to the gravitational effects and the pooling of blood in the lower extremities, increasing flow resistance."
+                    },
+                    {
+                        "question": "Which of the following factors has the most substantial impact on vascular resistance, considering Poiseuille's Law and its implications for blood flow regulation?",
+                        "goodAnswer": "The radius of blood vessels, because resistance is inversely proportional to the fourth power of the radius, making small changes in radius have a large effect.",
+                        "wrongAnswer_1": "The length of blood vessels, as resistance is exponentially proportional to the length, making it the most sensitive factor in physiological conditions.",
+                        "wrongAnswer_2": "The viscosity of blood, because resistance is inversely proportional to viscosity, thus even slight decreases in viscosity dramatically increase resistance.",
+                        "wrongAnswer_3": "The pressure gradient across the vessels, as resistance is directly proportional to the pressure difference, making it the primary regulator of resistance.",
+                        "wrongAnswer_4": "The pulsatility of blood flow, as higher pulsatility directly increases vascular resistance due to inertial forces and turbulent flow."
+                    },
+                    {
+                        "question": "How does the arrangement of blood vessels in parallel circuits, such as in systemic circulation to different organs, affect total peripheral resistance?",
+                        "goodAnswer": "Parallel arrangement significantly reduces total resistance, as the reciprocal of the total resistance is the sum of the reciprocals of individual resistances, allowing for independent flow regulation to organs.",
+                        "wrongAnswer_1": "Parallel arrangement significantly increases total resistance, because the resistances of individual vessels are directly additive, similar to resistors in series, impeding overall flow.",
+                        "wrongAnswer_2": "Parallel arrangement does not affect total resistance, as the overall resistance remains constant regardless of whether vessels are arranged in parallel or series within the systemic circuit.",
+                        "wrongAnswer_3": "Parallel arrangement initially increases resistance but then decreases it over time due to adaptive vasodilation in response to increased flow demand in organs.",
+                        "wrongAnswer_4": "Parallel arrangement doubles the total resistance compared to a series arrangement, because each vessel in parallel adds its resistance directly to the total system resistance."
+                    }
+                ]
+            },
+            {
+                "title": "Systole vs. Diastole",
+                "quizzes": [
+                    {
+                        "question": "During which phase of the cardiac cycle does ventricular ejection primarily occur, characterized by the expulsion of blood into the aorta and pulmonary artery?",
+                        "goodAnswer": "Systole, specifically during the ventricular systole phase, when ventricular contraction increases pressure to exceed arterial pressure, opening the semilunar valves.",
+                        "wrongAnswer_1": "Diastole, specifically during the atrial diastole phase, as the atria relax and blood passively flows into the ventricles, initiating the ejection process.",
+                        "wrongAnswer_2": "Late diastole, immediately preceding atrial contraction, when ventricles are maximally filled and ready to eject blood upon subsequent contraction.",
+                        "wrongAnswer_3": "Isovolumetric relaxation, which follows ventricular ejection and allows the ventricles to relax and prepare for the filling phase of the cardiac cycle.",
+                        "wrongAnswer_4": "Early diastole, coinciding with ventricular relaxation and a rapid drop in ventricular pressure, facilitating the opening of the AV valves and ventricular filling."
+                    },
+                    {
+                        "question": "What is the defining characteristic of diastole in the cardiac cycle, differentiating it from systole in terms of cardiac muscle activity and chamber pressures?",
+                        "goodAnswer": "Ventricular relaxation and filling, characterized by decreased ventricular pressure allowing blood to flow from the atria into the ventricles through open atrioventricular valves.",
+                        "wrongAnswer_1": "Ventricular contraction and ejection, defined by increased ventricular pressure exceeding arterial pressure, forcing open the semilunar valves and expelling blood.",
+                        "wrongAnswer_2": "Atrial contraction and ventricular filling, where atrial systole actively pushes blood into the ventricles that are already in a contracted state.",
+                        "wrongAnswer_3": "Isovolumetric contraction, which precedes ventricular ejection and is defined by a period of increasing ventricular pressure without a change in ventricular volume.",
+                        "wrongAnswer_4": "Isovolumetric relaxation, occurring after ventricular ejection, where ventricular pressure decreases while volume remains constant before ventricular filling begins."
+                    },
+                    {
+                        "question": "Which valves are predominantly open during ventricular diastole, facilitating the flow of blood from the atria into the ventricles?",
+                        "goodAnswer": "Atrioventricular valves (mitral and tricuspid), allowing blood to move from the atria into the relaxing ventricles as ventricular pressure falls below atrial pressure.",
+                        "wrongAnswer_1": "Semilunar valves (aortic and pulmonic), permitting blood to flow from the ventricles into the aorta and pulmonary artery during ventricular relaxation.",
+                        "wrongAnswer_2": "Both atrioventricular and semilunar valves are open simultaneously, allowing for continuous flow of blood through the heart during diastole.",
+                        "wrongAnswer_3": "Neither atrioventricular nor semilunar valves are open during diastole, as this phase is characterized by complete cardiac muscle relaxation and valve closure.",
+                        "wrongAnswer_4": "Only the aortic valve is open during diastole, allowing backflow of blood from the aorta into the left ventricle to ensure adequate ventricular filling."
+                    },
+                    {
+                        "question": "What physiological event marks the beginning of systole in the cardiac cycle, initiating the contractile phase of the heart?",
+                        "goodAnswer": "The closure of the atrioventricular valves (mitral and tricuspid), which produces the first heart sound (S1) and signals the onset of ventricular contraction.",
+                        "wrongAnswer_1": "The opening of the atrioventricular valves (mitral and tricuspid), allowing blood to flow from the atria into the ventricles and triggering ventricular contraction.",
+                        "wrongAnswer_2": "The closure of the semilunar valves (aortic and pulmonic), producing the second heart sound (S2) and initiating ventricular relaxation and diastole.",
+                        "wrongAnswer_3": "The opening of the semilunar valves (aortic and pulmonic), allowing blood ejection into the systemic and pulmonary circulations and starting the systolic phase.",
+                        "wrongAnswer_4": "Atrial contraction, which precedes ventricular systole and directly triggers the ventricular muscle to contract, initiating the systolic phase of the cycle."
+                    }
+                ]
+            },
+            {
+                "title": "Cardiac cycle, Pressure gradients",
+                "quizzes": [
+                    {
+                        "question": "During isovolumetric ventricular contraction, what is the crucial pressure relationship between the ventricles and the atria and arteries?",
+                        "goodAnswer": "Ventricular pressure is higher than atrial pressure, causing AV valves to close, and lower than arterial pressure, preventing semilunar valves from opening, hence 'isovolumetric'.",
+                        "wrongAnswer_1": "Ventricular pressure is lower than both atrial and arterial pressure, allowing blood to passively flow into the ventricles while semilunar valves remain closed.",
+                        "wrongAnswer_2": "Ventricular pressure is higher than both atrial and arterial pressure, causing both AV and semilunar valves to open simultaneously for ejection and filling.",
+                        "wrongAnswer_3": "Ventricular pressure is equal to arterial pressure but higher than atrial pressure, maintaining a steady state without volume change during this phase.",
+                        "wrongAnswer_4": "Ventricular pressure is lower than atrial pressure but higher than arterial pressure, resulting in backflow of blood from the arteries into the ventricles."
+                    },
+                    {
+                        "question": "What pressure gradient is primarily responsible for the opening of the aortic valve and subsequent ventricular ejection during systole?",
+                        "goodAnswer": "The pressure gradient where left ventricular pressure exceeds aortic pressure, forcing the aortic valve open and allowing blood to flow into the aorta.",
+                        "wrongAnswer_1": "The pressure gradient where aortic pressure exceeds left ventricular pressure, creating a suction effect that pulls the aortic valve open for ejection.",
+                        "wrongAnswer_2": "The pressure gradient where atrial pressure exceeds ventricular pressure, indirectly causing the aortic valve to open due to ventricular filling.",
+                        "wrongAnswer_3": "The pressure gradient where pulmonary artery pressure exceeds left ventricular pressure, triggering the aortic valve opening as a compensatory mechanism.",
+                        "wrongAnswer_4": "The pressure gradient where right ventricular pressure exceeds left ventricular pressure, causing a pressure wave that opens the aortic valve."
+                    },
+                    {
+                        "question": "During which phase of the cardiac cycle is the pressure gradient between the atria and ventricles at its maximum, facilitating rapid ventricular filling?",
+                        "goodAnswer": "Early diastole (rapid filling phase), when ventricular relaxation causes a significant drop in ventricular pressure below atrial pressure, maximizing the pressure gradient.",
+                        "wrongAnswer_1": "Late diastole (atrial systole), when atrial contraction increases atrial pressure, creating the maximal gradient for the final phase of ventricular filling.",
+                        "wrongAnswer_2": "Isovolumetric relaxation, where ventricular pressure rapidly decreases but the pressure gradient between atria and ventricles is minimal due to valve closure.",
+                        "wrongAnswer_3": "Isovolumetric contraction, where ventricular pressure increases but the pressure gradient between atria and ventricles is reversed, causing valve closure.",
+                        "wrongAnswer_4": "Ventricular ejection, where ventricular pressure is high, and the pressure gradient is directed towards the arteries, not between atria and ventricles."
+                    },
+                    {
+                        "question": "What is the role of pressure gradients in ensuring unidirectional blood flow through the heart during the cardiac cycle?",
+                        "goodAnswer": "Pressure gradients dictate valve opening and closing, ensuring blood flows from areas of higher pressure to lower pressure and preventing backflow by closing valves when pressure reverses.",
+                        "wrongAnswer_1": "Pressure gradients primarily regulate the speed of blood flow but do not directly control valve function or direction of blood flow in the heart.",
+                        "wrongAnswer_2": "Pressure gradients maintain a constant pressure throughout the cardiac cycle, ensuring a steady flow of blood without fluctuations or valve involvement.",
+                        "wrongAnswer_3": "Pressure gradients only influence blood flow during systole, while unidirectional flow during diastole is maintained by gravitational forces and vessel elasticity.",
+                        "wrongAnswer_4": "Pressure gradients create turbulence in blood flow, which is essential for proper mixing of oxygenated and deoxygenated blood within the heart chambers."
+                    }
+                ]
+            },
+            {
+                "title": "Heart rate (normal, fast, slow, origins & pathway through the heart)",
+                "quizzes": [
+                    {
+                        "question": "What is considered the normal resting heart rate range for a healthy adult, reflecting typical physiological function?",
+                        "goodAnswer": "Between 60 and 100 beats per minute (bpm), representing the generally accepted range for normal sinus rhythm at rest.",
+                        "wrongAnswer_1": "Between 40 and 60 bpm, indicative of a slower than normal heart rate, often associated with bradycardia or highly trained athletes.",
+                        "wrongAnswer_2": "Between 100 and 120 bpm, representing a slightly elevated heart rate, often considered the upper limit of normal during light activity.",
+                        "wrongAnswer_3": "Between 120 and 140 bpm, typically indicating tachycardia, a pathologically fast heart rate requiring medical evaluation.",
+                        "wrongAnswer_4": "Between 50 and 90 bpm, a narrower range that excludes individuals at the lower and higher ends of the typical normal range."
+                    },
+                    {
+                        "question": "Which anatomical structure within the heart is designated as the primary pacemaker, initiating the electrical impulses that determine heart rate?",
+                        "goodAnswer": "The sinoatrial (SA) node, located in the right atrium, which spontaneously depolarizes at the fastest rate, setting the pace for the entire heart.",
+                        "wrongAnswer_1": "The atrioventricular (AV) node, positioned between the atria and ventricles, which delays the impulse to allow for atrial contraction before ventricular systole.",
+                        "wrongAnswer_2": "The bundle of His, a collection of heart muscle cells that transmit electrical signals from the AV node to the Purkinje fibers in the ventricles.",
+                        "wrongAnswer_3": "The Purkinje fibers, a network of fibers that rapidly conduct electrical impulses throughout the ventricles, ensuring coordinated ventricular contraction.",
+                        "wrongAnswer_4": "The mitral valve, located between the left atrium and left ventricle, which mechanically initiates the heartbeat through valve closure and opening."
+                    },
+                    {
+                        "question": "What is the sequential pathway of electrical impulse conduction through the heart, starting from the sinoatrial node?",
+                        "goodAnswer": "SA node -> Atrial pathways -> AV node -> Bundle of His -> Bundle branches -> Purkinje fibers, ensuring coordinated atrial and ventricular contraction.",
+                        "wrongAnswer_1": "SA node -> AV node -> Atrial pathways -> Bundle of His -> Purkinje fibers -> Bundle branches, representing a disorganized and physiologically incorrect conduction sequence.",
+                        "wrongAnswer_2": "SA node -> Bundle of His -> AV node -> Atrial pathways -> Bundle branches -> Purkinje fibers, indicating an inefficient and reversed conduction pathway.",
+                        "wrongAnswer_3": "SA node -> Purkinje fibers -> Bundle branches -> Bundle of His -> AV node -> Atrial pathways, suggesting a direct and physiologically impossible ventricular initiation.",
+                        "wrongAnswer_4": "SA node -> Atrial pathways -> Bundle branches -> Bundle of His -> AV node -> Purkinje fibers, showing a misordered sequence that bypasses key conduction structures."
+                    },
+                    {
+                        "question": "What physiological condition is characterized by a heart rate that is abnormally fast, typically exceeding 100 beats per minute at rest?",
+                        "goodAnswer": "Tachycardia, which is defined as a resting heart rate above 100 bpm and can be caused by various factors including stress, exercise, or underlying medical conditions.",
+                        "wrongAnswer_1": "Bradycardia, defined by a resting heart rate below 60 bpm, often seen in well-trained athletes or individuals with certain heart conditions.",
+                        "wrongAnswer_2": "Arrhythmia, referring to any irregularity in the heart rhythm, which may include both fast and slow heart rates as well as irregular patterns.",
+                        "wrongAnswer_3": "Fibrillation, a chaotic and rapid heart rhythm characterized by uncoordinated contractions of the heart muscle, significantly impairing cardiac output.",
+                        "wrongAnswer_4": "Asystole, representing the absence of electrical activity and contraction of the heart muscle, clinically defined as cardiac arrest or 'flatline'."
+                    },
+                    {
+                        "question": "What term describes an abnormally slow heart rate, generally defined as below 60 beats per minute in adults?",
+                        "goodAnswer": "Bradycardia, indicating a heart rate slower than the normal resting range, which can be physiological in athletes or pathological in certain conditions.",
+                        "wrongAnswer_1": "Tachycardia, which refers to a heart rate that is excessively fast, typically above 100 beats per minute at rest.",
+                        "wrongAnswer_2": "Palpitation, a subjective sensation of feeling one's own heartbeat, which can be associated with both normal and abnormal heart rates.",
+                        "wrongAnswer_3": "Flutter, a rapid but regular atrial or ventricular rhythm, faster than normal but more organized than fibrillation, often felt as palpitations.",
+                        "wrongAnswer_4": "Heart block, a condition where electrical signals are delayed or blocked as they travel through the heart, potentially leading to slower heart rates but not solely defining bradycardia."
+                    }
+                ]
+            }
+        ]
+    }
+}

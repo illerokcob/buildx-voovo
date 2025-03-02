@@ -1,0 +1,23 @@
+Your task is to correct the quiz from the provided PDFs and previous test. Separate the questions based on the given subtopics. Each question should have 1 good and 4 wrong options.
+Make sure to use the reference materials and make the questions as technical as possible, so no obvious answers, also no short answers, make them complicated. The answers should be somewhat similar, they should mostly differ only in one or two pieces of information to avoid finding out the correct answer quickly.
+Don't make the right answers look out of place, the good answer's length should match the wrong answers' length. If possible don't give one word answers.
+Each subtopic should have 3 to 14 questions based on the length and contents of the topic, try creating as many answers as possible without repeating topics.
+Be creative, yet factual with the question, for example use " -> "-s with sorting type questions to indicate process chains.
+
+Only write questions on the provided subtopics and make sure to keep their titles!
+Output the quiz in json format like this:
+    "subTopics": [
+    {
+        "title": "The Nose and its Adjacent Structures",
+        "quizzes": [
+        {
+            "question": "What are the primary functions of the respiratory system?",
+            "goodAnswer": "To provide oxygen to body tissues for cellular respiration, remove carbon dioxide as a waste product, and help maintain acid-base balance.",
+            "wrongAnswer_1": "To regulate blood circulation, store excess oxygen in the lungs, and break down carbon dioxide into nitrogen and water.",
+            "wrongAnswer_2": "To filter toxins from the bloodstream, transport oxygen directly to muscles, and stabilize body temperature.",
+            "wrongAnswer_3": "To produce enzymes for digestion, absorb nutrients from inhaled air, and control the pH of stomach fluids.",
+            "wrongAnswer_4": "To generate red blood cells and to store carbon dioxide for later use."
+        },
+        ...]
+    },
+    ...]

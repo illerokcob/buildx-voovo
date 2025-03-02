@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Mitral stenosis",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the primary pathophysiological mechanism underlying emphysema?",
+                        "goodAnswer": "Destruction of alveolar walls and pulmonary capillaries by protease-antiprotease imbalance, leading to decreased elastic recoil and expiratory airflow limitation.",
+                        "wrongAnswer_1": "Bronchial smooth muscle hypertrophy and mucus hypersecretion due to chronic inflammation, causing airway obstruction and increased lung compliance.",
+                        "wrongAnswer_2": "Inflammation and fibrosis of the bronchial walls resulting in irreversible airway narrowing and reduced gas exchange surface area, primarily in small airways.",
+                        "wrongAnswer_3": "Accumulation of fluid in the pleural space compressing the lung parenchyma and impairing ventilation and perfusion, leading to restrictive lung physiology.",
+                        "wrongAnswer_4": "Thickening of the alveolar-capillary membrane due to chronic interstitial inflammation, increasing the diffusion distance for gases and causing restrictive physiology."
+                    },
+                    {
+                        "question": "What is the principal etiological factor implicated in the development of chronic bronchitis?",
+                        "goodAnswer": "Prolonged and significant exposure to inhaled irritants, most commonly cigarette smoke, initiating chronic inflammation and structural changes in the bronchi.",
+                        "wrongAnswer_1": "Genetic predisposition to excessive mucus production in the airways, independent of environmental exposures, leading to airway plugging and chronic cough.",
+                        "wrongAnswer_2": "Bacterial infections causing recurrent acute bronchitis episodes that progressively damage the bronchial mucosa and evolve into chronic bronchitis.",
+                        "wrongAnswer_3": "Autoimmune reactions targeting the bronchial epithelium and inducing chronic inflammatory changes and fibrosis, resulting in persistent bronchial irritation.",
+                        "wrongAnswer_4": "Occupational exposure to asbestos fibers leading to diffuse lung fibrosis and secondary bronchial irritation, ultimately causing chronic bronchitis symptoms."
+                    },
+                    {
+                        "question": "In the context of asthma pathophysiology, what is the role of Th2 lymphocytes and their associated cytokines?",
+                        "goodAnswer": "Th2 lymphocytes release cytokines such as IL-4, IL-5, and IL-13, which promote IgE production, eosinophil activation, mast cell degranulation, and mucus hypersecretion in the airways, driving allergic inflammation.",
+                        "wrongAnswer_1": "Th2 lymphocytes suppress the inflammatory response in the airways by releasing anti-inflammatory cytokines like IL-10 and TGF-\u03b2, preventing excessive bronchoconstriction and airway remodeling in asthma.",
+                        "wrongAnswer_2": "Th2 lymphocytes directly induce smooth muscle contraction in the bronchioles through the release of histamine and leukotrienes, leading to immediate bronchospasm upon allergen exposure in sensitized individuals.",
+                        "wrongAnswer_3": "Th2 lymphocytes activate cytotoxic T cells to destroy bronchial epithelial cells, resulting in airway remodeling, goblet cell hyperplasia, and chronic inflammation characteristic of asthma.",
+                        "wrongAnswer_4": "Th2 lymphocytes stimulate the production of surfactant by type II alveolar cells, thereby reducing surface tension and improving lung compliance, which paradoxically worsens airway hyperresponsiveness in asthma."
+                    },
+                    {
+                        "question": "Which cellular component undergoes hyperplasia and hypertrophy as the primary cause of excessive mucus production in chronic bronchitis?",
+                        "goodAnswer": "Goblet cells within the bronchial epithelium undergo significant hyperplasia and hypertrophy, leading to a marked increase in mucus secretion and contributing to airway obstruction.",
+                        "wrongAnswer_1": "Type II pneumocytes in the bronchioles transform into mucus-secreting cells under chronic inflammatory conditions, augmenting mucus production and altering airway surface tension.",
+                        "wrongAnswer_2": "Ciliated epithelial cells lose their cilia and transform into mucus-producing cells in response to chronic irritant exposure, directly increasing mucus volume and impairing mucociliary clearance.",
+                        "wrongAnswer_3": "Macrophages in the bronchial submucosa differentiate into mucus-secreting cells during chronic inflammation, contributing to mucus hypersecretion and exacerbating airway inflammation.",
+                        "wrongAnswer_4": "Plasma cells in the bronchial lamina propria secrete excessive mucus as part of the humoral immune response to chronic irritants, increasing airway secretions and viscosity."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "A patient presents with a chronic cough productive of sputum, dyspnea, and wheezing, with a history of smoking. Which constellation of clinical features is MOST suggestive of chronic bronchitis rather than emphysema?",
+                        "goodAnswer": "Predominant chronic cough and copious sputum production, often purulent, with dyspnea being a later and less prominent symptom in the early disease course.",
+                        "wrongAnswer_1": "Severe and early onset dyspnea disproportionate to cough, with minimal sputum production, accompanied by a 'pink puffer' appearance and hyperinflation on examination.",
+                        "wrongAnswer_2": "Marked hyperinflation of the chest and diffusely decreased breath sounds on auscultation, with a barrel-shaped chest configuration evident from the early stages.",
+                        "wrongAnswer_3": "Significant weight loss and muscle wasting, presenting with a cachectic appearance and increased resting respiratory rate with minimal cough or sputum.",
+                        "wrongAnswer_4": "Pursed-lip breathing and noticeable use of accessory respiratory muscles even at rest, with a markedly prolonged expiratory phase and reduced sputum production."
+                    },
+                    {
+                        "question": "In a patient with advanced emphysema, which physical examination finding would be LEAST likely to be auscultated or observed?",
+                        "goodAnswer": "Increased tactile fremitus and localized coarse crackles in the lung fields, particularly at the lung bases, indicating consolidation or fluid.",
+                        "wrongAnswer_1": "Hyper-resonant percussion note throughout the chest and globally decreased breath sounds bilaterally, reflecting air trapping and lung hyperinflation.",
+                        "wrongAnswer_2": "Barrel-shaped chest deformity and flattened diaphragms observable on chest X-ray, indicative of chronic air trapping and increased lung volumes.",
+                        "wrongAnswer_3": "Pursed-lip breathing pattern and visible use of accessory muscles of respiration even at rest, demonstrating increased work of breathing and air flow obstruction.",
+                        "wrongAnswer_4": "Distant heart sounds and a narrow mediastinum on chest X-ray, suggesting lung hyperinflation and compression of mediastinal structures."
+                    },
+                    {
+                        "question": "Which of the following symptom clusters is MOST pathognomonic for an acute asthma exacerbation requiring immediate attention?",
+                        "goodAnswer": "Sudden or rapidly worsening onset of wheezing, chest tightness, shortness of breath, and non-productive cough, frequently triggered by identifiable allergens or respiratory irritants.",
+                        "wrongAnswer_1": "Gradual onset of productive cough with mucopurulent sputum, fever, and pleuritic chest pain, progressing over several days and associated with signs of systemic infection.",
+                        "wrongAnswer_2": "Chronic progressive dyspnea on exertion, persistent productive cough with mucoid sputum, and unintentional weight loss developing insidiously over several months in a smoker.",
+                        "wrongAnswer_3": "Intermittent episodes of hemoptysis, night sweats, and unexplained weight loss accompanied by persistent fatigue and low-grade fever in an immunocompromised individual.",
+                        "wrongAnswer_4": "Abrupt onset of sharp, localized pleuritic chest pain, sudden shortness of breath, and unilateral decreased or absent breath sounds following a traumatic injury or spontaneously."
+                    },
+                    {
+                        "question": "A patient with chronic bronchitis, often termed a 'blue bloater', manifests cyanosis. What pathophysiological mechanism MOST directly contributes to the 'blue' component of this clinical description?",
+                        "goodAnswer": "Central and peripheral cyanosis due to chronic hypoxemia and secondary polycythemia, resulting from significant ventilation-perfusion mismatch and reduced alveolar ventilation.",
+                        "wrongAnswer_1": "Plethora and facial flushing due to chronic carbon dioxide retention and resultant peripheral vasodilation, leading to a reddish-blue discoloration of the skin.",
+                        "wrongAnswer_2": "Peripheral edema and jugular venous distension secondary to right-sided heart failure (cor pulmonale), indirectly causing bluish discoloration due to venous congestion.",
+                        "wrongAnswer_3": "Excessive mucus production leading to severe airway obstruction and significantly reduced arterial oxygen saturation, causing a bluish tinge to the skin and mucous membranes.",
+                        "wrongAnswer_4": "Pulmonary hypertension causing increased pulmonary vascular resistance and reduced oxygen delivery, resulting in a generalized bluish discoloration of the skin and nail beds."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "What is the established GOLD standard diagnostic test for confirming the presence of airflow limitation and assessing the severity staging of COPD?",
+                        "goodAnswer": "Post-bronchodilator spirometry demonstrating a fixed airflow obstruction, defined by a FEV1/FVC ratio persistently less than 0.70, irrespective of bronchodilator response.",
+                        "wrongAnswer_1": "Arterial blood gas analysis evaluating for chronic hypercapnia and hypoxemia, which is crucial for assessing disease severity and guiding oxygen therapy in advanced COPD.",
+                        "wrongAnswer_2": "Chest X-ray radiography revealing findings such as hyperinflation and flattened diaphragms in emphysema or bronchial wall thickening in chronic bronchitis, supporting the diagnosis.",
+                        "wrongAnswer_3": "High-resolution computed tomography (HRCT) of the chest identifying characteristic emphysematous changes and bronchial wall thickening, helpful in phenotyping COPD and excluding other diagnoses.",
+                        "wrongAnswer_4": "Bronchoscopy with bronchoalveolar lavage (BAL) performed to rule out alternative or co-existing conditions such as infections or malignancy, particularly in atypical presentations of chronic airflow obstruction."
+                    },
+                    {
+                        "question": "Which of the following spirometric patterns is MOST characteristic of, and essential for, establishing a diagnosis of asthma?",
+                        "goodAnswer": "Demonstration of reversible airflow obstruction, indicated by a clinically significant increase in FEV1 of \u226512% and \u2265200 mL from baseline following bronchodilator administration.",
+                        "wrongAnswer_1": "Documentation of fixed airflow obstruction, characterized by a consistently low FEV1/FVC ratio below 0.70 on spirometry, with minimal or no response to inhaled bronchodilators.",
+                        "wrongAnswer_2": "Identification of a restrictive spirometric pattern, showing a reduction in both FEV1 and FVC with a normal or increased FEV1/FVC ratio, suggestive of interstitial lung disease or chest wall disorders.",
+                        "wrongAnswer_3": "Observation of normal spirometry findings in between acute exacerbations, with airflow obstruction becoming evident only during episodes of symptomatic bronchospasm and wheezing.",
+                        "wrongAnswer_4": "Detection of decreased FEV1 and FVC with a proportionally decreased FEV1/FVC ratio, implying a mixed obstructive-restrictive pattern, often seen in combined pulmonary diseases."
+                    },
+                    {
+                        "question": "In the differential diagnosis of COPD, which respiratory condition is LEAST likely to be initially considered when evaluating a patient presenting with chronic cough and dyspnea, particularly in a non-smoker?",
+                        "goodAnswer": "Acute bacterial pneumonia presenting with abrupt onset of high fever, productive cough with purulent sputum, and localized lobar consolidation evident on chest X-ray.",
+                        "wrongAnswer_1": "Bronchiectasis characterized by chronic daily cough, copious mucopurulent sputum production, and recurrent lower respiratory tract infections, often with a history of childhood infections.",
+                        "wrongAnswer_2": "Congestive heart failure presenting with progressive dyspnea, orthopnea, paroxysmal nocturnal dyspnea, and bilateral basilar rales on auscultation, associated with cardiovascular risk factors.",
+                        "wrongAnswer_3": "Pulmonary tuberculosis manifesting with chronic cough, hemoptysis, night sweats, unexplained weight loss, and apical infiltrates or cavitary lesions on chest radiography, especially in endemic areas.",
+                        "wrongAnswer_4": "Alpha-1 antitrypsin deficiency-related emphysema occurring in younger individuals with early-onset COPD symptoms and a family history of liver disease or early-onset emphysema, irrespective of smoking history."
+                    },
+                    {
+                        "question": "What is the primary clinical utility of measuring the diffusing capacity of the lungs for carbon monoxide (DLCO) during the diagnostic evaluation of COPD?",
+                        "goodAnswer": "To specifically assess the functional integrity of the alveolar-capillary membrane and the effective gas exchange surface area, which is characteristically reduced in patients with emphysematous COPD.",
+                        "wrongAnswer_1": "To accurately evaluate the degree of reversible airway obstruction and bronchodilator responsiveness in patients with COPD, aiding in differentiating asthma-COPD overlap syndrome.",
+                        "wrongAnswer_2": "To reliably determine the presence and severity of pulmonary hypertension secondary to chronic hypoxemia in COPD, guiding the need for pulmonary vasodilator therapy.",
+                        "wrongAnswer_3": "To precisely measure the total lung capacity and residual volume, assisting in differentiating between obstructive lung diseases like COPD and restrictive lung diseases such as pulmonary fibrosis.",
+                        "wrongAnswer_4": "To effectively assess the strength and endurance of respiratory muscles and the overall efficiency of ventilation in patients with COPD, informing pulmonary rehabilitation strategies."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "According to current GOLD guidelines, what is the single MOST impactful first-line management intervention recommended for all patients diagnosed with COPD, irrespective of their disease severity or GOLD group?",
+                        "goodAnswer": "Complete smoking cessation for all current smokers, as it is unequivocally the most effective intervention to slow the progressive decline in lung function and improve long-term outcomes.",
+                        "wrongAnswer_1": "Routine initiation of long-acting beta2-agonists (LABAs) as monotherapy to achieve optimal bronchodilation and significantly reduce the frequency and severity of symptomatic exacerbations.",
+                        "wrongAnswer_2": "Regular prescription of inhaled corticosteroids (ICS) as first-line therapy to aggressively reduce airway inflammation and improve baseline lung function in all COPD patients.",
+                        "wrongAnswer_3": "Mandatory enrollment in comprehensive pulmonary rehabilitation programs at the time of diagnosis to enhance exercise tolerance and improve overall health-related quality of life in all patients.",
+                        "wrongAnswer_4": "Prophylactic oxygen therapy prescribed for all patients with COPD, regardless of their resting arterial oxygen saturation levels, to prevent disease progression and improve survival rates."
+                    },
+                    {
+                        "question": "In the long-term pharmacological management of stable COPD, which class of medications, or combination thereof, is primarily indicated to reduce the frequency and severity of future exacerbations, particularly in patients with GOLD Group C and D?",
+                        "goodAnswer": "Long-acting muscarinic antagonists (LAMAs) as monotherapy or LABA/LAMA combination therapy, especially for patients in GOLD groups C and D who are at higher risk of exacerbations.",
+                        "wrongAnswer_1": "Short-acting beta2-agonists (SABAs) used regularly on a scheduled basis for long-term maintenance bronchodilation, rather than solely as rescue medication for acute symptom relief.",
+                        "wrongAnswer_2": "Inhaled corticosteroids (ICS) as monotherapy for long-term maintenance, particularly in patients with infrequent exacerbations and minimal evidence of eosinophilic airway inflammation.",
+                        "wrongAnswer_3": "Systemic corticosteroids administered chronically for long-term maintenance therapy to broadly control chronic airway inflammation and prevent future COPD exacerbations.",
+                        "wrongAnswer_4": "Leukotriene modifiers added as routine add-on therapy to reduce airway inflammation and mucus production in all patients with stable COPD to prevent exacerbations."
+                    },
+                    {
+                        "question": "For patients experiencing acute exacerbations of COPD, what constitutes the recommended first-line treatment strategy in the initial management phase?",
+                        "goodAnswer": "Optimized doses of short-acting bronchodilators (SABAs and/or SAMAs), systemic corticosteroids (oral or intravenous), and antibiotics selectively indicated for evidence of bacterial infection.",
+                        "wrongAnswer_1": "Immediate initiation of non-invasive positive pressure ventilation (NIPPV) as a standard first-line intervention for all patients with acute COPD exacerbations to improve oxygenation and reduce respiratory muscle fatigue.",
+                        "wrongAnswer_2": "Intravenous aminophylline infusion administered to provide sustained bronchodilation and reduce airway inflammation as a primary treatment modality during acute exacerbations of COPD.",
+                        "wrongAnswer_3": "Nebulized hypertonic saline administered frequently to promote effective mucus clearance and improve airway hydration in all patients experiencing acute COPD exacerbations.",
+                        "wrongAnswer_4": "Routine intubation and mechanical ventilation implemented as a first-line approach in all patients presenting with acute COPD exacerbations to ensure adequate respiratory support and prevent respiratory failure."
+                    },
+                    {
+                        "question": "Which non-pharmacological intervention has demonstrated consistent and significant benefits in improving exercise tolerance, reducing perceived dyspnea, and enhancing health-related quality of life in patients with clinically stable COPD?",
+                        "goodAnswer": "Structured pulmonary rehabilitation programs encompassing supervised exercise training, comprehensive patient education, and psychosocial support tailored to individual patient needs and goals.",
+                        "wrongAnswer_1": "Implementation of specific dietary modifications, such as a high-protein, low-carbohydrate diet, to directly improve respiratory muscle strength and enhance ventilatory efficiency in COPD patients.",
+                        "wrongAnswer_2": "Regular chest physiotherapy techniques, including postural drainage and chest percussion, performed routinely to promote mucus clearance and improve overall lung function in stable COPD.",
+                        "wrongAnswer_3": "Continuous supplemental oxygen therapy prescribed for all COPD patients, irrespective of their resting hypoxemia status, to universally improve overall well-being and reduce dyspnea perception.",
+                        "wrongAnswer_4": "Surgical lung volume reduction surgery offered as a standard intervention for all patients with severe generalized emphysema to improve lung mechanics and enhance respiratory function."
+                    }
+                ]
+            }
+        ]
+    }
+}

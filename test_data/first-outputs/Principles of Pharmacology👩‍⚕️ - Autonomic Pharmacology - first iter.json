@@ -1,0 +1,161 @@
+{
+    "mainTopic": {
+        "title": "Autonomic Pharmacology",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Anatomy of the Autonomic System",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the anatomical arrangement of the autonomic nervous system?",
+                        "goodAnswer": "It is characterized by a two-neuron chain, involving preganglionic neurons originating in the CNS and postganglionic neurons located in peripheral ganglia, with the enteric nervous system functioning largely independently within the gastrointestinal tract.",
+                        "wrongAnswer_1": "It consists of a single neuron pathway directly connecting the central nervous system to effector organs, with ganglia located exclusively within the brainstem and spinal cord, and the enteric system acting as a direct extension of the somatic motor system.",
+                        "wrongAnswer_2": "It utilizes a three-neuron chain, with interneurons in the spinal cord mediating signals between sensory and motor neurons, and ganglia situated only in paravertebral locations, while the enteric system is integrated with the somatic sensory pathways.",
+                        "wrongAnswer_3": "It is defined by a network of unipolar neurons directly innervating skeletal muscles and glands, with ganglia absent and neurotransmission relying solely on electrical synapses, excluding the enteric nervous system which is part of the central nervous system.",
+                        "wrongAnswer_4": "It involves multipolar neurons forming a syncytium-like network throughout the body, with ganglia acting as relay stations for somatic reflexes, and the enteric system controlling only the respiratory and cardiovascular functions."
+                    },
+                    {
+                        "question": "What is the primary distinction in the location of ganglia between the sympathetic and parasympathetic divisions of the autonomic nervous system?",
+                        "goodAnswer": "Sympathetic ganglia are predominantly located in paravertebral and prevertebral chains close to the spinal cord, whereas parasympathetic ganglia are typically situated closer to or within the walls of the effector organs they innervate.",
+                        "wrongAnswer_1": "Both sympathetic and parasympathetic ganglia are located exclusively within the brainstem and spinal cord, differing only in the neurotransmitters they utilize and the type of target organs they control.",
+                        "wrongAnswer_2": "Sympathetic ganglia are found dispersed throughout the body without any specific pattern, while parasympathetic ganglia are concentrated in the dorsal root ganglia alongside somatic sensory neurons.",
+                        "wrongAnswer_3": "Parasympathetic ganglia are organized in paravertebral and prevertebral chains similar to the sympathetic system, but they exclusively innervate glands and smooth muscles of the head and neck regions.",
+                        "wrongAnswer_4": "The location of ganglia is not a distinguishing factor; both systems utilize ganglia distributed randomly throughout the periphery, differing mainly in the types of receptors present on postganglionic neurons."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the origin of preganglionic fibers in the autonomic nervous system?",
+                        "goodAnswer": "Preganglionic fibers of the sympathetic division originate from the thoracolumbar regions (T1-L2/L3) of the spinal cord, while parasympathetic preganglionic fibers originate from the brainstem (cranial nerves III, VII, IX, X) and sacral spinal cord (S2-S4).",
+                        "wrongAnswer_1": "Both sympathetic and parasympathetic preganglionic fibers originate exclusively from the brainstem, with sympathetic fibers emerging from cranial nerves I, II, and VIII, and parasympathetic fibers from cranial nerves III, VII, IX, and X.",
+                        "wrongAnswer_2": "Preganglionic fibers of the parasympathetic division arise from the thoracolumbar regions of the spinal cord, whereas sympathetic preganglionic fibers originate from the cervical and sacral segments of the spinal cord.",
+                        "wrongAnswer_3": "Preganglionic fibers for both divisions originate from the entire length of the spinal cord (cervical to sacral), with the distinction lying in the neurotransmitters released at the ganglia and target organs.",
+                        "wrongAnswer_4": "Preganglionic fibers of the sympathetic division originate from the cervical spinal cord and brainstem, while parasympathetic preganglionic fibers originate from the lumbar and sacral spinal cord segments."
+                    }
+                ]
+            },
+            {
+                "title": "Cholinergic neurotransmission and signal transduction",
+                "quizzes": [
+                    {
+                        "question": "What is the crucial enzyme responsible for the synthesis of acetylcholine (ACh), and where within the neuron is ACh primarily synthesized?",
+                        "goodAnswer": "Choline acetyltransferase (ChAT) is the enzyme that catalyzes the synthesis of ACh, which occurs predominantly in the cytoplasm of the presynaptic nerve terminal, before being transported into vesicles.",
+                        "wrongAnswer_1": "Acetylcholinesterase (AChE) is the enzyme responsible for ACh synthesis, occurring primarily within the synaptic cleft immediately after neuronal depolarization, utilizing choline and acetate released from glial cells.",
+                        "wrongAnswer_2": "Acetyl-CoA synthetase is the key enzyme for ACh synthesis, which takes place in the mitochondria of the presynaptic neuron, utilizing acetyl-CoA and choline derived from neuronal metabolism.",
+                        "wrongAnswer_3": "Choline kinase is responsible for ACh synthesis, occurring in the endoplasmic reticulum of the presynaptic neuron, where choline is phosphorylated and then combined with acetyl groups.",
+                        "wrongAnswer_4": "Acetylcholine synthase is the enzyme that synthesizes ACh, primarily within the vesicles of the presynaptic terminal, utilizing precursors transported directly from the postsynaptic neuron."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the mechanism of acetylcholine (ACh) release into the synaptic cleft?",
+                        "goodAnswer": "Depolarization of the presynaptic nerve terminal leads to an influx of calcium ions (Ca2+) through voltage-gated calcium channels, triggering the fusion of ACh-containing vesicles with the presynaptic membrane and subsequent exocytosis.",
+                        "wrongAnswer_1": "Presynaptic depolarization causes an efflux of sodium ions (Na+) through voltage-gated sodium channels, which directly forces ACh molecules out of the nerve terminal into the synaptic cleft via diffusion.",
+                        "wrongAnswer_2": "Hyperpolarization of the presynaptic terminal induces an influx of chloride ions (Cl-), leading to the breakdown of vesicle membranes and the release of ACh into the synapse through passive leakage.",
+                        "wrongAnswer_3": "Depolarization activates ligand-gated potassium channels, causing an efflux of potassium ions (K+) and a subsequent osmotic pressure change that ruptures ACh vesicles and releases ACh into the synaptic cleft.",
+                        "wrongAnswer_4": "Presynaptic action potentials trigger the activation of ATP-dependent pumps that actively transport ACh molecules from the cytoplasm directly into the synaptic cleft, bypassing vesicular release mechanisms."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which the action of acetylcholine (ACh) is terminated in the synapse after neurotransmission?",
+                        "goodAnswer": "Acetylcholinesterase (AChE), located in the synaptic cleft and on the postsynaptic membrane, rapidly hydrolyzes ACh into choline and acetate, effectively terminating its signaling and allowing for choline reuptake into the presynaptic terminal.",
+                        "wrongAnswer_1": "ACh action is terminated by diffusion of ACh molecules away from the synaptic cleft and into the bloodstream, where it is metabolized by circulating enzymes in the plasma and liver.",
+                        "wrongAnswer_2": "Termination of ACh signaling occurs through active reuptake of intact ACh molecules into the presynaptic terminal via specific ACh transporters, similar to the reuptake of norepinephrine.",
+                        "wrongAnswer_3": "ACh action is primarily terminated by glial cells in the vicinity of the synapse, which engulf and degrade ACh molecules through endocytosis and intracellular enzymatic degradation.",
+                        "wrongAnswer_4": "Termination is achieved by the postsynaptic receptor itself, which undergoes rapid desensitization and internalizes ACh molecules, leading to a cessation of signal transduction and receptor downregulation."
+                    },
+                    {
+                        "question": "Which of the following signal transduction mechanisms is primarily associated with muscarinic acetylcholine receptors (mAChRs)?",
+                        "goodAnswer": "mAChRs are G protein-coupled receptors (GPCRs) that activate various intracellular signaling pathways, including the activation of phospholipase C (PLC) leading to IP3 and DAG production, and the inhibition of adenylyl cyclase, reducing cAMP levels.",
+                        "wrongAnswer_1": "mAChRs are ligand-gated ion channels that directly mediate ion flux across the postsynaptic membrane, specifically allowing for the influx of sodium ions (Na+) and subsequent membrane depolarization, similar to nicotinic receptors.",
+                        "wrongAnswer_2": "mAChRs are receptor tyrosine kinases (RTKs) that, upon ACh binding, initiate autophosphorylation and activate downstream signaling cascades involving MAP kinase and PI3K pathways, leading to cell growth and differentiation.",
+                        "wrongAnswer_3": "mAChRs are intracellular receptors located in the cytoplasm that, upon ACh diffusion into the cell, directly bind to DNA and regulate gene transcription, altering protein synthesis and cellular function over a longer time scale.",
+                        "wrongAnswer_4": "mAChRs are cytokine receptors that activate JAK-STAT signaling pathways, leading to the phosphorylation of STAT proteins and their translocation to the nucleus to modulate gene expression related to immune responses."
+                    }
+                ]
+            },
+            {
+                "title": "Adrenergic Neurotransmission",
+                "quizzes": [
+                    {
+                        "question": "What is the correct sequence of enzymatic steps in the synthesis of norepinephrine (NE) and epinephrine from the precursor amino acid tyrosine?",
+                        "goodAnswer": "Tyrosine -> Tyrosine Hydroxylase -> DOPA -> DOPA Decarboxylase -> Dopamine -> Dopamine \u03b2-Hydroxylase -> Norepinephrine -> Phenylethanolamine N-methyltransferase -> Epinephrine.",
+                        "wrongAnswer_1": "Tyrosine -> DOPA Decarboxylase -> DOPA -> Tyrosine Hydroxylase -> Dopamine -> Phenylethanolamine N-methyltransferase -> Norepinephrine -> Dopamine \u03b2-Hydroxylase -> Epinephrine.",
+                        "wrongAnswer_2": "Tyrosine -> Dopamine \u03b2-Hydroxylase -> DOPA -> Tyrosine Hydroxylase -> Dopamine -> DOPA Decarboxylase -> Norepinephrine -> Phenylethanolamine N-methyltransferase -> Epinephrine.",
+                        "wrongAnswer_3": "Tyrosine -> Phenylethanolamine N-methyltransferase -> DOPA -> Dopamine \u03b2-Hydroxylase -> Dopamine -> Tyrosine Hydroxylase -> Norepinephrine -> DOPA Decarboxylase -> Epinephrine.",
+                        "wrongAnswer_4": "Tyrosine -> DOPA -> Dopamine -> Phenylethanolamine N-methyltransferase -> Dopamine \u03b2-Hydroxylase -> Norepinephrine -> Tyrosine Hydroxylase -> DOPA Decarboxylase -> Epinephrine."
+                    },
+                    {
+                        "question": "Which of the following mechanisms is primarily responsible for terminating the synaptic action of norepinephrine (NE) after its release?",
+                        "goodAnswer": "Reuptake of norepinephrine back into the presynaptic nerve terminal via norepinephrine transporters (NET), followed by either vesicular storage for reuse or enzymatic degradation by monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT).",
+                        "wrongAnswer_1": "Hydrolysis of norepinephrine in the synaptic cleft by acetylcholinesterase (AChE), similar to the termination of acetylcholine action, producing inactive metabolites that are then cleared from the synapse.",
+                        "wrongAnswer_2": "Diffusion of norepinephrine away from the synapse and into the bloodstream, where it is rapidly metabolized by circulating enzymes and excreted by the kidneys without significant presynaptic reuptake.",
+                        "wrongAnswer_3": "Active transport of norepinephrine into postsynaptic neurons via specific norepinephrine transporters located on the postsynaptic membrane, effectively removing NE from the synaptic cleft and internalizing it into the target cell.",
+                        "wrongAnswer_4": "Enzymatic degradation of norepinephrine in the synaptic cleft by dopamine \u03b2-hydroxylase (DBH), which converts NE into inactive metabolites that are then removed by glial cells in the vicinity of the synapse."
+                    },
+                    {
+                        "question": "What are the major types of adrenergic receptors and their primary G protein coupling and downstream signaling pathways?",
+                        "goodAnswer": "Alpha-1 receptors are typically coupled to Gq proteins, activating phospholipase C (PLC) and increasing IP3 and DAG; Alpha-2 receptors are coupled to Gi proteins, inhibiting adenylyl cyclase and decreasing cAMP; Beta-1, Beta-2, and Beta-3 receptors are coupled to Gs proteins, stimulating adenylyl cyclase and increasing cAMP.",
+                        "wrongAnswer_1": "Alpha receptors (both Alpha-1 and Alpha-2) are coupled to Gs proteins, leading to activation of adenylyl cyclase and increased cAMP levels, while Beta receptors (Beta-1, Beta-2, Beta-3) are coupled to Gi proteins, inhibiting adenylyl cyclase and decreasing cAMP.",
+                        "wrongAnswer_2": "Alpha-1 receptors are coupled to Gi proteins, inhibiting adenylyl cyclase; Alpha-2 receptors are coupled to Gq proteins, activating PLC; Beta receptors (Beta-1, Beta-2, Beta-3) are coupled to Go proteins, modulating ion channel activity directly.",
+                        "wrongAnswer_3": "All adrenergic receptors (Alpha-1, Alpha-2, Beta-1, Beta-2, Beta-3) are primarily coupled to Gq proteins, universally activating phospholipase C (PLC) and leading to increased intracellular calcium levels.",
+                        "wrongAnswer_4": "Alpha receptors are ligand-gated ion channels mediating direct ion flux, while Beta receptors are receptor tyrosine kinases activating intracellular kinase cascades upon norepinephrine binding, independent of G protein signaling."
+                    }
+                ]
+            },
+            {
+                "title": "Cholinergic agonists and antagonists",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the mechanism of action for indirect-acting cholinergic agonists, such as neostigmine and physostigmine?",
+                        "goodAnswer": "Indirect-acting cholinergic agonists inhibit acetylcholinesterase (AChE), the enzyme responsible for hydrolyzing acetylcholine, thereby increasing the concentration and duration of action of endogenous ACh in the synaptic cleft.",
+                        "wrongAnswer_1": "Indirect-acting cholinergic agonists directly bind to and activate muscarinic and nicotinic acetylcholine receptors, mimicking the effects of acetylcholine itself at postsynaptic sites and bypassing endogenous ACh.",
+                        "wrongAnswer_2": "These agonists enhance the synthesis of acetylcholine in the presynaptic neuron by activating choline acetyltransferase (ChAT), leading to increased vesicular loading and subsequent release of ACh into the synapse.",
+                        "wrongAnswer_3": "Indirect-acting cholinergic agonists block the reuptake of choline into the presynaptic terminal, thus increasing the availability of choline for ACh synthesis and enhancing cholinergic neurotransmission indirectly.",
+                        "wrongAnswer_4": "These drugs stimulate the release of acetylcholine from presynaptic vesicles by increasing intracellular calcium levels in the nerve terminal, leading to a greater amount of ACh available to activate postsynaptic receptors."
+                    },
+                    {
+                        "question": "Atropine is a prototypical muscarinic antagonist. What are its primary pharmacological effects and therapeutic applications?",
+                        "goodAnswer": "Atropine blocks muscarinic acetylcholine receptors, leading to effects such as increased heart rate, reduced secretions (salivary, bronchial, sweat), pupil dilation (mydriasis), and bronchodilation; therapeutically used to treat bradycardia, reduce airway secretions during surgery, and as an antidote for organophosphate poisoning.",
+                        "wrongAnswer_1": "Atropine activates muscarinic acetylcholine receptors, resulting in decreased heart rate, increased glandular secretions, pupil constriction (miosis), and bronchoconstriction; therapeutically used to treat hypertension, glaucoma, and asthma.",
+                        "wrongAnswer_2": "Atropine selectively blocks nicotinic acetylcholine receptors at neuromuscular junctions, causing skeletal muscle relaxation and paralysis; therapeutically used as a muscle relaxant during surgical procedures and to manage muscle spasticity.",
+                        "wrongAnswer_3": "Atropine inhibits acetylcholinesterase (AChE), leading to increased levels of acetylcholine in the synapse and potentiation of cholinergic effects; therapeutically used to treat myasthenia gravis and Alzheimer's disease.",
+                        "wrongAnswer_4": "Atropine acts as an adrenergic agonist, stimulating alpha and beta adrenergic receptors, resulting in vasoconstriction, bronchodilation, and increased alertness; therapeutically used to treat nasal congestion and hypotensive shock."
+                    },
+                    {
+                        "question": "Which of the following distinguishes between the actions of muscarinic and nicotinic antagonists?",
+                        "goodAnswer": "Muscarinic antagonists, like atropine, primarily block muscarinic receptors at neuroeffector junctions and in the CNS, affecting smooth muscle, glands, and heart; nicotinic antagonists, like curare and hexamethonium, block nicotinic receptors at autonomic ganglia (ganglionic blockers) or neuromuscular junctions (neuromuscular blockers), affecting autonomic neurotransmission and skeletal muscle function respectively.",
+                        "wrongAnswer_1": "Muscarinic antagonists block nicotinic receptors at neuromuscular junctions, causing muscle paralysis, while nicotinic antagonists block muscarinic receptors in the brain, leading to central nervous system depression and sedation.",
+                        "wrongAnswer_2": "Muscarinic antagonists primarily act on nicotinic receptors in autonomic ganglia, blocking transmission in both sympathetic and parasympathetic pathways, whereas nicotinic antagonists specifically target muscarinic receptors at cardiac muscle, reducing heart rate and contractility.",
+                        "wrongAnswer_3": "The distinction is that muscarinic antagonists are irreversible blockers of all cholinergic receptors, while nicotinic antagonists are reversible blockers, with both types affecting both muscarinic and nicotinic receptor subtypes equally.",
+                        "wrongAnswer_4": "Muscarinic antagonists are selective for nicotinic receptors in the CNS, enhancing cognitive function and memory, while nicotinic antagonists are selective for muscarinic receptors in the periphery, increasing glandular secretions and gastrointestinal motility."
+                    }
+                ]
+            },
+            {
+                "title": "Adrenergic agonists and antagonists",
+                "quizzes": [
+                    {
+                        "question": "What are the primary pharmacological effects and therapeutic uses of selective beta-2 adrenergic agonists like albuterol and salmeterol?",
+                        "goodAnswer": "Selective beta-2 agonists primarily cause bronchodilation in the respiratory tract by relaxing bronchial smooth muscle, with therapeutic applications mainly in the treatment of asthma and chronic obstructive pulmonary disease (COPD).",
+                        "wrongAnswer_1": "Beta-2 agonists primarily cause vasoconstriction in peripheral blood vessels, increasing blood pressure and reducing nasal congestion, with therapeutic uses in treating hypotension and nasal congestion.",
+                        "wrongAnswer_2": "These agonists selectively stimulate beta-2 receptors in the heart, increasing heart rate and contractility, with therapeutic applications in treating bradycardia and heart failure.",
+                        "wrongAnswer_3": "Beta-2 agonists primarily induce skeletal muscle relaxation and are used as muscle relaxants during surgical procedures and for managing conditions like muscle spasticity and tetanus.",
+                        "wrongAnswer_4": "Selective beta-2 agonists mainly act on alpha-adrenergic receptors, causing pupil dilation (mydriasis) and reduced intraocular pressure, with therapeutic applications in treating glaucoma and eye conditions."
+                    },
+                    {
+                        "question": "Propranolol is a non-selective beta-adrenergic antagonist. What are its major pharmacological actions and therapeutic indications, and why is non-selectivity clinically relevant?",
+                        "goodAnswer": "Propranolol blocks both beta-1 and beta-2 adrenergic receptors, leading to decreased heart rate and contractility (beta-1 blockade), and potential bronchoconstriction (beta-2 blockade); therapeutically used for hypertension, angina, arrhythmias, and migraine prophylaxis; non-selectivity can be problematic in patients with asthma or COPD due to beta-2 blockade.",
+                        "wrongAnswer_1": "Propranolol selectively blocks beta-1 adrenergic receptors, primarily causing bronchodilation and increased heart rate; therapeutically used to treat asthma and bradycardia; its beta-1 selectivity makes it safe for patients with respiratory conditions.",
+                        "wrongAnswer_2": "Propranolol is an alpha-adrenergic agonist, causing vasoconstriction and increased blood pressure; therapeutically used to treat hypotension and nasal congestion; its alpha-agonist activity is beneficial in managing anaphylactic shock.",
+                        "wrongAnswer_3": "Propranolol is a muscarinic antagonist, blocking muscarinic acetylcholine receptors and causing increased heart rate and reduced secretions; therapeutically used to treat bradycardia and reduce airway secretions during surgery.",
+                        "wrongAnswer_4": "Propranolol selectively blocks beta-2 adrenergic receptors, leading to bronchodilation and decreased blood pressure; therapeutically used to treat asthma and hypertension; its beta-2 selectivity minimizes cardiac effects."
+                    },
+                    {
+                        "question": "How do alpha-1 adrenergic agonists, such as phenylephrine, primarily exert their effects, and what are their common clinical applications?",
+                        "goodAnswer": "Alpha-1 agonists primarily cause vasoconstriction by activating alpha-1 receptors on vascular smooth muscle, leading to increased peripheral resistance and blood pressure; clinically used as nasal decongestants (topical application) and to raise blood pressure in hypotensive states (systemic administration).",
+                        "wrongAnswer_1": "Alpha-1 agonists primarily cause vasodilation by blocking alpha-1 receptors on vascular smooth muscle, leading to decreased peripheral resistance and blood pressure; clinically used to treat hypertension and angina pectoris.",
+                        "wrongAnswer_2": "These agonists selectively stimulate beta-1 adrenergic receptors in the heart, increasing heart rate and contractility, with clinical applications in treating bradycardia and heart failure, similar to dobutamine.",
+                        "wrongAnswer_3": "Alpha-1 agonists primarily induce bronchodilation by activating beta-2 receptors in bronchial smooth muscle, with clinical applications in the treatment of asthma and COPD, similar to albuterol.",
+                        "wrongAnswer_4": "Alpha-1 agonists act as muscarinic antagonists, blocking muscarinic acetylcholine receptors and causing pupil dilation and reduced glandular secretions; clinically used as mydriatics for eye examinations and to reduce salivary secretions."
+                    }
+                ]
+            }
+        ]
+    }
+}

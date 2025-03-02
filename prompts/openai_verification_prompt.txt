@@ -1,0 +1,78 @@
+Your task is to evaluate questions created from given PDF(s). Assess the first four criteria on a scale of 1 to 10, while the last one should be evaluated as true or false.
+
+    -options: How good are the answer choices? How misleading are the incorrect answers? For example, if the correct answer is significantly longer, it is not ideal. (1 - not misleading, very simple; 10 - highly misleading)
+    -question-complexity: How complex is the question phrasing? (1 - one-word, not complex; 10 - highly complex, requires a lot of thinking to understand)
+    -answer-complexity: How complex are the answer choices? (1 - one-word; 10 - full-sentence answers)
+    -knowledge: To what extent does the question rely on the PDF and reference it? (1 - the questions do not test the PDF content at all, include more or less than they should; 10 - the questions and answers fully rely on the PDF content)
+    -question-included: Does the question appear verbatim as a test question in the PDF? (true - it appears, false - it does not)
+
+If any rating is below or equal 7, ONLY THEN provide an explanation, otherwise, do not! However, if an explanation is required, it is ALWAYS mandatory. Always be critical and strict when you have a reason to be!
+
+Evaluate each question separately. Return your response in JSON format as a structured list, with each subtopic grouped separately.
+
+"subTopics":
+[
+	{
+		"title": <string>,
+		{
+			"quizzes": [
+				{
+					"question": <string>
+					"options": <number>,
+					"options-explanation": <string>, //if and only if option is below or equal to 7
+					"question-complexity": <number>,
+					"question-complexity-explanation": <string>,  //if and only if question-complexity is below or equal to 7
+					"answer-complexity": <number>,
+					"answer-complexity-explanation": <string>, //if and only if answer-complexity is below or equal to 7
+					"knowledge": <number>,
+					"knowledge-explanation": <string>, //if and only if knowledge is below or equal to 7
+					"question-included": <boolean>,
+					"question-included-explanation": <string> //if and only if question-included is true
+				}
+			]
+		}
+	}
+]
+
+For example (options, answer-complexity, question-complexity):
+1) Short answers:
+{
+    "question": "Which part of the pancreas is located within the curve of the duodenum and plays a key role in digestive enzyme secretion?",
+    "goodAnswer": "Head",
+    "wrongAnswer_1": "Tail",
+    "wrongAnswer_2": "Body",
+    "wrongAnswer_3": "Neck",
+    "wrongAnswer_4": "Uncinate"
+}
+
+"options": 5, //the choises are same length and not so simple
+"question-complexity": 4, //the question is kind of good, but it's not complex enought
+"answers-complexity": 1, //the answers are one-word answers
+
+2) Short question:
+{
+    "question": "What does the gallbladder store?",
+    "goodAnswer": "The gallbladder stores and concentrates bile before releasing it into the small intestine.",
+    "wrongAnswer_1": "The gallbladder stores digestive enzymes produced by the pancreas and releases them when food is consumed.",
+    "wrongAnswer_2": "The gallbladder acts as a temporary storage organ for digested nutrients before they are absorbed into the bloodstream.",
+    "wrongAnswer_3": "The gallbladder primarily stores hydrochloric acid, which is later used for breaking down proteins in the stomach.",
+    "wrongAnswer_4": "The gallbladder stores undigested food particles and passes them into the large intestine for further breakdown."
+}
+
+"options": 6, //the choises are same length and not so simple
+"question-complexity": 4, //however the question is a full sentence, its too short and it's not a complex question
+"answers-complexity": 5, //the answers are complex sentences
+
+3) Easy choices:
+{
+    "question": "Which organ, known for its ability to regenerate, plays a major role in detoxification, bile production, and nutrient storage?",
+    "goodAnswer": "Liver, the largest internal organ, responsible for processing nutrients, filtering blood, and producing bile.",
+    "wrongAnswer_1": "Pancreas, which aids digestion but does not primarily filter blood or store nutrients.",
+    "wrongAnswer_2": "Gallbladder, which only stores bile and does not perform detoxification or nutrient processing.",
+    "wrongAnswer_3": "Small intestine, which is involved in nutrient absorption rather than detoxification and bile production.",
+    "wrongAnswer_4": "Kidney, which filters blood but does not produce bile or store large amounts of nutrients."
+}
+
+"options": 1, //without reading the paper you can guess the correct answer
+"question-complexity": 5, //a long full-sentence question
+"answers-complexity": 6, //the answers are full-sentences

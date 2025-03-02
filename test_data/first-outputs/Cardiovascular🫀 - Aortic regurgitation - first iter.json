@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Aortic regurgitation",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the primary pathophysiological mechanism underlying the development of nasal polyps?",
+                        "goodAnswer": "Chronic inflammation of the nasal mucosa, often associated with conditions like allergic rhinitis or chronic rhinosinusitis, leading to submucosal edema and the formation of polypoid masses.",
+                        "wrongAnswer_1": "Acute bacterial infection causing rapid tissue necrosis and subsequent polyp formation as a reparative response within the nasal cavity.",
+                        "wrongAnswer_2": "Genetic predisposition leading to abnormal cell proliferation in the nasal lining, independent of inflammatory triggers, resulting in benign polyp growth.",
+                        "wrongAnswer_3": "Traumatic injury to the nasal septum causing mucosal folding and the development of polypoid structures due to scar tissue contraction and remodeling.",
+                        "wrongAnswer_4": "Viral-induced hyperplasia of goblet cells in the nasal epithelium, producing excessive mucus that accumulates and forms polyp-like projections."
+                    },
+                    {
+                        "question": "In the context of nasal vestibulitis, what is the most common etiological agent responsible for initiating the inflammatory process?",
+                        "goodAnswer": "Staphylococcus aureus, commonly colonizing the nasal vestibule, gains entry through minor skin breaks, leading to bacterial infection and inflammation.",
+                        "wrongAnswer_1": "Rhinoviruses, typically causing upper respiratory infections, directly invade the nasal vestibular skin, triggering a robust inflammatory response and vestibulitis.",
+                        "wrongAnswer_2": "Candida albicans, an opportunistic fungal pathogen, proliferates in the warm, moist environment of the nasal vestibule, resulting in fungal vestibulitis.",
+                        "wrongAnswer_3": "Pseudomonas aeruginosa, often associated with chronic infections, colonizes the nasal vestibule in immunocompromised individuals, causing recalcitrant vestibulitis.",
+                        "wrongAnswer_4": "Haemophilus influenzae, a common respiratory bacterium, ascends from the nasopharynx into the nasal vestibule, initiating an inflammatory reaction and vestibulitis."
+                    },
+                    {
+                        "question": "What is the underlying pathophysiological process that primarily contributes to the nasal obstruction experienced in cases of nasal septal deviation?",
+                        "goodAnswer": "Mechanical narrowing of one nasal passage due to the displacement of the nasal septum, creating asymmetrical airflow and increased resistance on the deviated side.",
+                        "wrongAnswer_1": "Inflammatory edema of the nasal turbinates secondary to septal deviation, causing mucosal swelling that further obstructs the already narrowed nasal passage.",
+                        "wrongAnswer_2": "Hypertrophy of the inferior turbinate on the concave side of the septal deviation as a compensatory mechanism, reducing airflow in the contralateral nasal cavity.",
+                        "wrongAnswer_3": "Neurological dysregulation of nasal airflow, triggered by septal deviation, leading to paradoxical nasal congestion and a subjective sensation of obstruction.",
+                        "wrongAnswer_4": "Muscular spasm of the nasal alae and septum in response to airflow asymmetry, causing dynamic nasal valve collapse and intermittent nasal obstruction."
+                    },
+                    {
+                        "question": "Which of the following best describes the etiology and pathophysiology of rhinitis medicamentosa?",
+                        "goodAnswer": "Prolonged use of topical nasal decongestants leading to downregulation of alpha-adrenergic receptors and rebound nasal congestion due to vasodilation and mucosal edema.",
+                        "wrongAnswer_1": "Systemic absorption of nasal steroid sprays causing adrenal suppression and subsequent nasal congestion as a manifestation of glucocorticoid withdrawal.",
+                        "wrongAnswer_2": "Allergic sensitization to preservatives in nasal sprays triggering an IgE-mediated hypersensitivity reaction and chronic nasal inflammation and congestion.",
+                        "wrongAnswer_3": "Bacterial colonization of nasal spray bottles leading to recurrent nasal infections and chronic inflammation, resulting in persistent nasal congestion.",
+                        "wrongAnswer_4": "Paradoxical reaction to nasal antihistamine sprays causing histamine release in the nasal mucosa and exacerbation of nasal congestion and rhinorrhea."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which clinical feature is most suggestive of allergic rhinitis as opposed to non-allergic rhinitis?",
+                        "goodAnswer": "Presence of prominent nasal itching, sneezing paroxysms, and clear rhinorrhea, often accompanied by conjunctival itching and tearing.",
+                        "wrongAnswer_1": "Predominance of nasal congestion and postnasal drip, with less pronounced sneezing and itching, and a thicker, mucopurulent nasal discharge.",
+                        "wrongAnswer_2": "Unilateral nasal obstruction with intermittent epistaxis and a history of nasal trauma or surgery, suggesting a structural abnormality.",
+                        "wrongAnswer_3": "Anosmia or hyposmia with minimal nasal discharge or sneezing, often associated with upper respiratory infections or neurological conditions.",
+                        "wrongAnswer_4": "Facial pain and pressure, purulent nasal discharge, and reduced sense of smell, indicating acute or chronic rhinosinusitis rather than rhinitis."
+                    },
+                    {
+                        "question": "What is a distinguishing clinical feature of nasal vestibulitis that differentiates it from simple nasal furunculosis?",
+                        "goodAnswer": "Diffuse erythema, edema, and tenderness of the nasal vestibule, often with crusting and fissuring, but typically without a discrete, deep-seated abscess.",
+                        "wrongAnswer_1": "Localized, painful, and fluctuant nodule within the nasal vestibule, indicating a deep follicular infection with pus accumulation and potential for systemic spread.",
+                        "wrongAnswer_2": "Vesicular lesions and ulcerations in the nasal vestibule, suggestive of viral infection, such as herpes simplex, rather than bacterial vestibulitis.",
+                        "wrongAnswer_3": "Chronic, non-tender induration and thickening of the nasal vestibular skin, often associated with prolonged topical steroid use or chronic dermatitis.",
+                        "wrongAnswer_4": "Bilateral nasal obstruction due to vestibular swelling, accompanied by systemic symptoms like fever and malaise, indicating severe systemic infection."
+                    },
+                    {
+                        "question": "In a patient presenting with nasal polyps, which associated clinical finding would raise the highest suspicion for Cystic Fibrosis?",
+                        "goodAnswer": "Presence of bilateral nasal polyps in a child or young adult, accompanied by history of chronic respiratory infections, pancreatic insufficiency, and failure to thrive.",
+                        "wrongAnswer_1": "Unilateral nasal polyp in an adult with a history of aspirin sensitivity and asthma, suggesting Samter's triad or aspirin-exacerbated respiratory disease.",
+                        "wrongAnswer_2": "Recurrent nasal polyps in an elderly patient with chronic rhinosinusitis and eosinophilia, indicating eosinophilic chronic rhinosinusitis.",
+                        "wrongAnswer_3": "Nasal polyps associated with anosmia and hyposmia but without other systemic symptoms, suggestive of idiopathic chronic rhinosinusitis with polyps.",
+                        "wrongAnswer_4": "Nasal polyps presenting after a recent upper respiratory infection and resolving spontaneously within a few weeks, indicating inflammatory pseudopolyps."
+                    },
+                    {
+                        "question": "What is the typical presenting symptom of a nasal septal hematoma following nasal trauma?",
+                        "goodAnswer": "Bilateral nasal obstruction with pain and pressure, and a visible bluish or reddish swelling of the nasal septum, often described as a 'boggy' septum.",
+                        "wrongAnswer_1": "Unilateral nasal obstruction with profuse, clear rhinorrhea and sneezing, immediately following nasal trauma, suggesting cerebrospinal fluid leak.",
+                        "wrongAnswer_2": "Severe epistaxis from both nostrils, with difficulty in controlling the bleeding despite pressure, and no visible septal swelling or discoloration.",
+                        "wrongAnswer_3": "Persistent nasal crusting and dryness, with minimal nasal obstruction, developing several days after nasal trauma, indicating mucosal injury.",
+                        "wrongAnswer_4": "External nasal deformity with deviation of the nasal pyramid and crepitus on palpation, but with normal nasal airflow and no septal swelling."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which diagnostic test is considered the gold standard for confirming the diagnosis of allergic rhinitis and identifying specific allergens?",
+                        "goodAnswer": "Skin prick testing (SPT) or intradermal skin testing to detect immediate hypersensitivity reactions to various aeroallergens.",
+                        "wrongAnswer_1": "Nasal endoscopy with biopsy to rule out structural abnormalities and assess mucosal inflammation in the nasal cavity.",
+                        "wrongAnswer_2": "Sinus CT scan to evaluate for sinusitis and identify any anatomical variations contributing to nasal symptoms.",
+                        "wrongAnswer_3": "Complete blood count (CBC) with differential to assess for eosinophilia, suggesting allergic inflammation.",
+                        "wrongAnswer_4": "Pulmonary function tests (PFTs) to evaluate for asthma and assess the overall respiratory status in patients with nasal symptoms."
+                    },
+                    {
+                        "question": "In the differential diagnosis of nasal vestibulitis, which condition should be primarily excluded due to its potentially serious complications?",
+                        "goodAnswer": "Nasal furunculosis, particularly if located in the 'danger triangle' of the face, due to the risk of cavernous sinus thrombosis and intracranial infection.",
+                        "wrongAnswer_1": "Impetigo, a superficial bacterial skin infection, as it is generally less severe and does not typically involve deep tissue structures.",
+                        "wrongAnswer_2": "Herpes simplex virus infection of the nasal vestibule, while painful, is usually self-limiting and less likely to cause serious complications.",
+                        "wrongAnswer_3": "Eczematous dermatitis of the nasal vestibule, a chronic inflammatory skin condition, which is typically not associated with systemic spread.",
+                        "wrongAnswer_4": "Contact dermatitis from topical nasal medications, as it is localized to the skin and resolves with discontinuation of the offending agent."
+                    },
+                    {
+                        "question": "When differentiating nasal polyps from inferior turbinate hypertrophy, which endoscopic finding is most helpful in distinguishing between these two conditions?",
+                        "goodAnswer": "Nasal polyps are typically pale, glistening, and mobile masses originating from the middle meatus, while turbinate hypertrophy involves fleshy, vascular tissue in the lateral nasal wall.",
+                        "wrongAnswer_1": "Both nasal polyps and hypertrophied turbinates appear as reddish, congested masses obstructing the nasal airway and are indistinguishable endoscopically.",
+                        "wrongAnswer_2": "Nasal polyps are firm and fixed to the lateral nasal wall, while hypertrophied turbinates are soft and mobile, easily displaced with a probe.",
+                        "wrongAnswer_3": "Nasal polyps are located in the inferior meatus, near the nasal floor, while hypertrophied turbinates are found in the superior meatus, near the cribriform plate.",
+                        "wrongAnswer_4": "Both nasal polyps and hypertrophied turbinates are covered with normal nasal mucosa and cannot be differentiated based on their endoscopic appearance alone."
+                    },
+                    {
+                        "question": "Which imaging modality is most appropriate for evaluating a suspected nasal septal hematoma in the acute setting?",
+                        "goodAnswer": "Clinical examination with anterior rhinoscopy is usually sufficient to diagnose a septal hematoma, and imaging is generally not required unless complications are suspected.",
+                        "wrongAnswer_1": "Computed tomography (CT) scan of the nasal bones and sinuses is essential to confirm the diagnosis and assess the extent of the hematoma and associated fractures.",
+                        "wrongAnswer_2": "Magnetic resonance imaging (MRI) of the nasal cavity and paranasal sinuses is the preferred imaging modality for detailed visualization of soft tissues and hematoma extent.",
+                        "wrongAnswer_3": "Ultrasound of the nasal septum is a quick and non-invasive method to identify fluid collection within the septum, confirming the presence of a hematoma.",
+                        "wrongAnswer_4": "Plain radiographs of the nasal bones are adequate to detect septal hematoma and rule out associated nasal bone fractures in most cases."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "What is the first-line management strategy for mild to moderate allergic rhinitis according to current guidelines?",
+                        "goodAnswer": "Intranasal corticosteroids (INS) are the most effective first-line treatment for controlling symptoms of allergic rhinitis, including nasal congestion, rhinorrhea, and sneezing.",
+                        "wrongAnswer_1": "Oral antihistamines are the preferred initial therapy due to their systemic action and effectiveness in relieving sneezing and itching, although less effective for congestion.",
+                        "wrongAnswer_2": "Leukotriene receptor antagonists are recommended as first-line monotherapy for allergic rhinitis, particularly in patients with concomitant asthma.",
+                        "wrongAnswer_3": "Nasal saline irrigation is the primary treatment modality for allergic rhinitis, providing symptomatic relief and reducing nasal allergen load.",
+                        "wrongAnswer_4": "Oral decongestants are the first-line agents for allergic rhinitis, rapidly relieving nasal congestion, but their long-term use is limited by side effects."
+                    },
+                    {
+                        "question": "In the management of nasal vestibulitis, what is the most appropriate initial treatment for a mild, localized infection without signs of systemic involvement?",
+                        "goodAnswer": "Topical application of mupirocin or bacitracin ointment to the affected nasal vestibule to eradicate Staphylococcus aureus and resolve the local infection.",
+                        "wrongAnswer_1": "Oral antibiotics, such as cephalexin or dicloxacillin, should be initiated immediately to prevent progression to more serious complications like cellulitis.",
+                        "wrongAnswer_2": "Incision and drainage of the nasal vestibule lesion is necessary to relieve pressure and promote drainage of purulent material, regardless of severity.",
+                        "wrongAnswer_3": "Topical corticosteroids applied to the nasal vestibule to reduce inflammation and swelling, and to facilitate drainage of the infection.",
+                        "wrongAnswer_4": "Systemic antifungal medications are indicated to treat potential fungal superinfection, which is a common complication of bacterial vestibulitis."
+                    },
+                    {
+                        "question": "What is the recommended management approach for a nasal septal hematoma?",
+                        "goodAnswer": "Prompt incision and drainage of the hematoma to prevent septal necrosis and abscess formation, followed by nasal packing to prevent re-accumulation and septal perforation.",
+                        "wrongAnswer_1": "Observation and conservative management with analgesics and close monitoring for spontaneous resolution, as most septal hematomas resolve without intervention.",
+                        "wrongAnswer_2": "Needle aspiration of the hematoma to evacuate the blood collection, followed by pressure dressing to prevent recurrence and promote healing.",
+                        "wrongAnswer_3": "Systemic corticosteroids to reduce inflammation and promote reabsorption of the hematoma, avoiding surgical intervention unless complications arise.",
+                        "wrongAnswer_4": "Topical thrombolytic agents applied to the nasal septum to dissolve the hematoma and facilitate drainage through the nasal passages."
+                    },
+                    {
+                        "question": "For patients with nasal polyps who are refractory to medical management with intranasal corticosteroids, what is a commonly considered next step in treatment?",
+                        "goodAnswer": "Endoscopic sinus surgery (ESS) to remove nasal polyps and improve sinus drainage, often followed by continued medical management to prevent recurrence.",
+                        "wrongAnswer_1": "Systemic corticosteroids are the next line of treatment for refractory nasal polyps, providing potent anti-inflammatory effects to shrink polyp size.",
+                        "wrongAnswer_2": "Allergy immunotherapy (allergy shots) is the primary treatment for persistent nasal polyps, particularly in patients with underlying allergic rhinitis.",
+                        "wrongAnswer_3": "Radiation therapy to the nasal polyps to shrink their size and prevent recurrence, especially in cases of aggressive or recurrent polyposis.",
+                        "wrongAnswer_4": "Oral antihistamines are escalated to higher doses to control symptoms and reduce polyp size in patients with persistent nasal polyps."
+                    }
+                ]
+            }
+        ]
+    }
+}

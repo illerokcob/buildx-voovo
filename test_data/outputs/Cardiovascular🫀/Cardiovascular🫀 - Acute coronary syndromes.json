@@ -1,0 +1,201 @@
+{
+    "mainTopic": {
+        "title": "Acute coronary syndromes",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Pathogenesis of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the initiating event in the pathogenesis of Acute Coronary Syndrome (ACS) stemming from atherosclerotic plaque?",
+                        "goodAnswer": "Rupture or erosion of a vulnerable atherosclerotic plaque, characterized by a thin fibrous cap and lipid-rich core, leading to thrombus formation and subsequent abrupt reduction of coronary blood flow.",
+                        "wrongAnswer_1": "Progressive, gradual deposition of calcium within the arterial media and intima, causing vessel stiffening and chronic luminal narrowing that culminates in acute thrombotic occlusion.",
+                        "wrongAnswer_2": "Spontaneous, sustained vasospasm of an epicardial coronary artery, independent of atherosclerotic plaque presence, triggering endothelial dysfunction, platelet aggregation and distal microembolization.",
+                        "wrongAnswer_3": "Systemic inflammatory response syndrome (SIRS) inducing diffuse endothelial activation and dysfunction, predisposing to widespread microvascular thrombi formation throughout the coronary circulation.",
+                        "wrongAnswer_4": "Myocardial infarction subsequent to hypertrophic cardiomyopathy, resulting in increased left ventricular outflow tract obstruction, elevated myocardial oxygen demand, and secondary coronary ischemia."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which 'vulnerable plaques' in coronary arteries become prone to rupture, initiating the thrombotic cascade in ACS?",
+                        "goodAnswer": "Presence of a thin fibrous cap with reduced smooth muscle cell content and collagen, overlying a large lipid-rich necrotic core infiltrated by macrophages and T-lymphocytes secreting matrix metalloproteinases.",
+                        "wrongAnswer_1": "Development of a thick, highly collagenized fibrous cap with abundant smooth muscle cells, encapsulating a small, stable lipid pool, leading to plaque rigidity and susceptibility to fissuring under high shear stress.",
+                        "wrongAnswer_2": "Extensive calcification within the fibrous cap and lipid core, diminishing plaque compliance and elasticity, resulting in fracture and rupture upon sudden hemodynamic stress or vasospasm.",
+                        "wrongAnswer_3": "Endothelial cell hyperplasia and neoangiogenesis within the plaque, leading to intraplaque hemorrhage and expansion, acutely increasing plaque volume and causing luminal obstruction without rupture.",
+                        "wrongAnswer_4": "Depletion of extracellular matrix components and smooth muscle cell apoptosis within the plaque, resulting in plaque regression and thinning of the media, paradoxically increasing rupture risk due to vessel wall weakness."
+                    },
+                    {
+                        "question": "In the context of ACS pathogenesis, what is the crucial role of tissue factor (TF) released from ruptured atherosclerotic plaques within the coronary artery lumen?",
+                        "goodAnswer": "Tissue factor, a transmembrane glycoprotein, initiates the extrinsic coagulation pathway by binding to factor VIIa, leading to activation of factor X and subsequent thrombin generation, culminating in fibrin deposition and thrombus formation.",
+                        "wrongAnswer_1": "Tissue factor, a potent fibrinolytic agent, directly activates plasminogen to plasmin, resulting in rapid degradation of fibrin and dissolution of any thrombus formation at the site of plaque rupture, preventing vessel occlusion.",
+                        "wrongAnswer_2": "Tissue factor acts as a competitive inhibitor of platelet aggregation by binding to platelet glycoprotein IIb/IIIa receptors, thereby preventing platelet adhesion and thrombus propagation following plaque rupture.",
+                        "wrongAnswer_3": "Tissue factor enhances endothelial nitric oxide synthase (eNOS) activity in the vicinity of the ruptured plaque, leading to localized vasodilation and improved coronary blood flow, counteracting thrombotic occlusion.",
+                        "wrongAnswer_4": "Tissue factor stimulates the release of prostacyclin (PGI2) from adjacent endothelial cells, which in turn inhibits platelet activation and aggregation, thereby preventing thrombus formation and promoting vessel patency in ACS."
+                    },
+                    {
+                        "question": "Which cellular component is predominantly responsible for the inflammatory processes within vulnerable atherosclerotic plaques that contribute to fibrous cap degradation and ACS pathogenesis?",
+                        "goodAnswer": "Macrophages, through the uptake of oxidized LDL cholesterol and subsequent transformation into foam cells, release matrix metalloproteinases (MMPs) like collagenases and gelatinases, and pro-inflammatory cytokines such as TNF-alpha and IL-6, promoting extracellular matrix breakdown.",
+                        "wrongAnswer_1": "Neutrophils, by releasing myeloperoxidase and neutrophil elastase, primarily contribute to plaque calcification and stabilization through oxidative modification of lipoproteins and cross-linking of collagen fibers, reducing plaque vulnerability.",
+                        "wrongAnswer_2": "Eosinophils, through the secretion of major basic protein and eosinophil peroxidase, induce endothelial regeneration and promote smooth muscle cell proliferation, leading to fibrous cap thickening and plaque stabilization in atherosclerotic lesions.",
+                        "wrongAnswer_3": "Basophils, by releasing histamine and heparin, primarily mediate vasodilation and anticoagulation within the plaque microenvironment, thereby counteracting thrombotic events but not directly influencing fibrous cap stability.",
+                        "wrongAnswer_4": "Lymphocytes, specifically B-lymphocytes, through the production of anti-inflammatory cytokines such as IL-10 and TGF-beta, directly suppress macrophage activation and promote collagen synthesis by smooth muscle cells, stabilizing the atherosclerotic plaque."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best characterizes the typical chest pain associated with Acute Coronary Syndrome (ACS), differentiating it from stable angina pectoris?",
+                        "goodAnswer": "Chest pain occurring at rest or with minimal exertion, often described as a crushing, squeezing, or pressure sensation, lasting longer than 20 minutes, and not predictably or completely relieved by rest or sublingual nitroglycerin.",
+                        "wrongAnswer_1": "Brief, lancinating, pleuritic chest pain, lasting seconds to minutes, exacerbated by deep inspiration or chest wall palpation, and consistently relieved by positional changes or non-steroidal anti-inflammatory drugs (NSAIDs).",
+                        "wrongAnswer_2": "Episodic chest discomfort predictably provoked by physical exertion or emotional stress, relieved within 5-10 minutes by rest or sublingual nitroglycerin, characterized as a burning or aching sensation in the mid-sternal area.",
+                        "wrongAnswer_3": "Migratory chest pain, varying in location and intensity, frequently associated with fever, malaise, and a pericardial friction rub on auscultation, responsive to colchicine or high-dose aspirin therapy.",
+                        "wrongAnswer_4": "Intermittent chest tightness, described as palpitations or fluttering sensations, lasting for variable durations, often associated with anxiety, hyperventilation, and relieved by anxiolytic medications or vagal maneuvers."
+                    },
+                    {
+                        "question": "What electrocardiographic (ECG) finding is most indicative of ST-segment elevation myocardial infarction (STEMI) in the acute phase of Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "New ST-segment elevation at the J-point in two contiguous leads, with or without reciprocal ST-segment depression in opposing leads, signifying acute transmural myocardial ischemia and potential for myocardial necrosis.",
+                        "wrongAnswer_1": "Diffuse ST-segment depression with widespread T-wave inversions across multiple ECG leads, particularly in the anterior precordial leads, indicating subendocardial ischemia without acute coronary artery occlusion or transmural injury.",
+                        "wrongAnswer_2": "Presence of prominent U waves immediately following T waves in precordial leads, especially in the setting of hypokalemia or bradycardia, but not directly related to acute coronary artery occlusion or myocardial ischemia.",
+                        "wrongAnswer_3": "Prolonged PR interval with a consistently widened QRS duration, indicating first-degree atrioventricular block and bundle branch block, suggestive of conduction system disease but not necessarily acute myocardial ischemia.",
+                        "wrongAnswer_4": "Alternating QRS amplitude (electrical alternans) in limb leads, often associated with sinus tachycardia and low voltage QRS complexes, suggestive of pericardial effusion or cardiac tamponade but not directly indicative of acute coronary occlusion."
+                    },
+                    {
+                        "question": "Which cardiac biomarker is considered most sensitive and specific for detecting myocardial necrosis in the early hours following the onset of Acute Coronary Syndrome (ACS) symptoms?",
+                        "goodAnswer": "High-sensitivity cardiac troponins (hs-cTnI or hs-cTnT), which exhibit exceptional myocardial tissue specificity and demonstrate prolonged elevation in serum even after minor degrees of myocardial injury, allowing for early ACS diagnosis.",
+                        "wrongAnswer_1": "Creatine kinase-MB (CK-MB) isoenzyme, while elevated in myocardial infarction, lacks the prolonged sensitivity and cardiac specificity of troponins, and can also be elevated in skeletal muscle injury or rhabdomyolysis.",
+                        "wrongAnswer_2": "Myoglobin, a heme-containing protein, which is rapidly released from damaged myocardium but lacks cardiac specificity and is also elevated in various non-cardiac conditions such as skeletal muscle trauma or renal failure.",
+                        "wrongAnswer_3": "Lactate dehydrogenase (LDH) isoenzymes, while historically used in myocardial infarction diagnosis, are less specific for myocardial injury and exhibit delayed elevation in serum, making them less useful in acute ACS diagnosis compared to troponins.",
+                        "wrongAnswer_4": "Aspartate aminotransferase (AST), primarily a liver enzyme, which lacks cardiac specificity and is also elevated in hepatic disorders and skeletal muscle injury, rendering it unsuitable for specific detection of myocardial necrosis in ACS."
+                    },
+                    {
+                        "question": "In a patient presenting with suspected NSTE-ACS (Non-ST-segment elevation Acute Coronary Syndrome), which clinical feature, in conjunction with ECG findings, would most strongly suggest a higher immediate risk of adverse cardiovascular outcomes?",
+                        "goodAnswer": "Recurrent or ongoing anginal chest pain at rest despite administration of nitrates and analgesics, accompanied by dynamic electrocardiographic changes such as transient ST-segment depression or T-wave inversions in multiple ECG leads.",
+                        "wrongAnswer_1": "Isolated, brief episode of chest discomfort resolving spontaneously at home prior to hospital presentation, associated with a completely normal initial ECG and no recurrence of symptoms during observation in the emergency department.",
+                        "wrongAnswer_2": "Chest pain consistently provoked only by vigorous physical exertion and completely relieved within minutes of rest or cessation of activity, with a normal baseline ECG and no associated symptoms or biomarker elevation.",
+                        "wrongAnswer_3": "Atypical chest pain described as sharp and pleuritic, localized to the left lateral chest wall, and directly reproducible on palpation of the costochondral junctions, accompanied by a normal ECG and unremarkable cardiac biomarkers.",
+                        "wrongAnswer_4": "Palpitations and lightheadedness as primary presenting symptoms, reported in the absence of chest pain, and associated with a normal ECG and stable vital signs upon initial clinical assessment and cardiac monitoring."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of ACS",
+                "quizzes": [
+                    {
+                        "question": "In the emergent management of a patient presenting with ST-segment elevation myocardial infarction (STEMI), what is the guideline-recommended timeframe for achieving coronary reperfusion therapy from first medical contact (FMC) to intervention?",
+                        "goodAnswer": "Within 120 minutes for primary percutaneous coronary intervention (PCI) in a PCI-capable center, or within 30 minutes for fibrinolytic therapy administration if PCI cannot be performed within the recommended timeframe, aiming for 'door-to-balloon' time under 90 minutes.",
+                        "wrongAnswer_1": "Within 24 hours for either primary PCI or fibrinolytic therapy, allowing for comprehensive risk stratification, logistical planning, and optimization of patient condition prior to initiating reperfusion strategies in all STEMI patients.",
+                        "wrongAnswer_2": "Within 6 hours for primary PCI, prioritizing patient transfer to a PCI-capable center even if it significantly exceeds the recommended timeframe for fibrinolytic therapy, as PCI is considered superior irrespective of time delay.",
+                        "wrongAnswer_3": "Within 180 minutes for fibrinolytic therapy administration, permitting initial patient stabilization, detailed assessment, and exclusion of contraindications before proceeding with less time-sensitive reperfusion strategies such as PCI.",
+                        "wrongAnswer_4": "Reperfusion therapy initiation is not strictly time-dependent and can be considered at any point within the first 48 hours of symptom onset, primarily guided by ongoing clinical symptoms, hemodynamic stability, and availability of interventional resources."
+                    },
+                    {
+                        "question": "Which antiplatelet therapy regimen is typically recommended as dual antiplatelet therapy (DAPT) in patients undergoing percutaneous coronary intervention (PCI) for Acute Coronary Syndrome (ACS), considering both efficacy and bleeding risk?",
+                        "goodAnswer": "Aspirin in combination with a P2Y12 receptor inhibitor such as clopidogrel, ticagrelor, or prasugrel, with selection of P2Y12 inhibitor and DAPT duration tailored to individual patient's ischemic and bleeding risk profiles, clinical presentation (STEMI/NSTE-ACS), and stent type.",
+                        "wrongAnswer_1": "Aspirin monotherapy alone, immediately post-PCI, as it provides adequate platelet inhibition for preventing stent thrombosis and minimizes the risk of bleeding complications compared to dual antiplatelet regimens in the majority of ACS patients.",
+                        "wrongAnswer_2": "Warfarin in combination with aspirin, targeting both platelet activation and the coagulation cascade for comprehensive thromboprotection in ACS patients undergoing PCI, especially those with high thrombotic burden or complex lesion morphology.",
+                        "wrongAnswer_3": "Unfractionated heparin (UFH) in combination with a P2Y12 inhibitor, primarily focusing on acute anticoagulation and synergistic antiplatelet effect for immediate thrombotic risk reduction during and shortly after PCI in ACS patients.",
+                        "wrongAnswer_4": "Glycoprotein IIb/IIIa inhibitors as standard dual antiplatelet therapy in all ACS patients undergoing PCI, irrespective of bleeding risk or clinical presentation, to achieve maximal platelet inhibition and prevent periprocedural ischemic events and stent thrombosis."
+                    },
+                    {
+                        "question": "What is the primary role of beta-adrenergic receptor blockers (beta-blockers) in the acute and long-term management of Acute Coronary Syndrome (ACS), particularly in the post-myocardial infarction phase?",
+                        "goodAnswer": "To reduce myocardial oxygen demand by decreasing heart rate and contractility, prolong diastolic filling time to improve coronary perfusion, prevent adverse ventricular remodeling, and reduce the risk of recurrent ischemic events, arrhythmias, and sudden cardiac death post-infarction.",
+                        "wrongAnswer_1": "To augment myocardial contractility and enhance cardiac output, directly counteracting the effects of myocardial damage and improving overall hemodynamic function in the acute phase of ACS, especially in patients with cardiogenic shock or heart failure.",
+                        "wrongAnswer_2": "To promote systemic vasodilation and reduce peripheral vascular resistance, thereby lowering blood pressure and alleviating afterload on the damaged myocardium in ACS, primarily beneficial in hypertensive ACS patients without significant hypotension.",
+                        "wrongAnswer_3": "To induce significant bradycardia acutely to improve diastolic filling time and enhance coronary perfusion specifically in the acute phase of STEMI, aiming to limit infarct size and improve early myocardial salvage in patients undergoing reperfusion therapy.",
+                        "wrongAnswer_4": "To directly inhibit platelet aggregation and thrombus formation within the coronary arteries, serving as a primary antiplatelet therapy or adjunct to aspirin and P2Y12 inhibitors in patients with contraindications to conventional antiplatelet agents or high bleeding risk."
+                    },
+                    {
+                        "question": "Which of the following conditions is considered an absolute contraindication for the administration of fibrinolytic therapy in a patient presenting with ST-segment elevation myocardial infarction (STEMI)?",
+                        "goodAnswer": "History of any prior intracranial hemorrhage, active internal bleeding (excluding menses), known structural cerebral vascular lesion (e.g., arteriovenous malformation), or significant closed head or facial trauma within the preceding 3 months, due to markedly increased risk of major bleeding complications.",
+                        "wrongAnswer_1": "Advanced age greater than 75 years, as chronological age alone is not an absolute contraindication, and fibrinolysis can be cautiously considered in elderly patients with STEMI after careful assessment of individual risk-benefit profile and comorbidities.",
+                        "wrongAnswer_2": "Systolic blood pressure consistently exceeding 180 mmHg or diastolic blood pressure above 110 mmHg despite initial antihypertensive therapy, as severe hypertension is a relative contraindication that may be mitigated with blood pressure control prior to fibrinolysis.",
+                        "wrongAnswer_3": "Prior coronary artery bypass grafting (CABG) surgery, as previous CABG is not a contraindication to fibrinolytic therapy in acute STEMI management, although primary PCI is generally preferred in patients with prior CABG if feasible and timely.",
+                        "wrongAnswer_4": "Pre-existing diagnosis of diabetes mellitus, irrespective of glycemic control or presence of diabetic retinopathy, as diabetes is a cardiovascular risk factor but not a contraindication to fibrinolytic therapy in the setting of acute STEMI."
+                    },
+                    {
+                        "question": "In the management of Non-ST-segment elevation Acute Coronary Syndrome (NSTE-ACS), under which clinical circumstances is an early invasive strategy (coronary angiography with intent to perform PCI or CABG if indicated) generally preferred over an initial conservative (ischemia-guided) strategy?",
+                        "goodAnswer": "In patients exhibiting high-risk features such as refractory angina or recurrent ischemic symptoms at rest, hemodynamic instability, new or worsening heart failure, significant ST-segment depression on ECG, elevated cardiac troponins, or high-risk scores (e.g., GRACE, TIMI) indicating increased likelihood of adverse events.",
+                        "wrongAnswer_1": "In all patients diagnosed with NSTE-ACS regardless of risk stratification, as an early invasive approach is universally superior to a conservative strategy in improving long-term clinical outcomes and reducing the risk of recurrent myocardial infarction and death across all NSTE-ACS risk categories.",
+                        "wrongAnswer_2": "In low-risk patients with NSTE-ACS who present with minimal or resolving symptoms and normal initial troponin levels, as early invasive intervention may prevent potential progression to higher-risk states or development of future cardiovascular events in this initially stable cohort.",
+                        "wrongAnswer_3": "In patients initially diagnosed with stable angina pectoris who are subsequently reclassified as NSTE-ACS based solely on minor elevations in cardiac troponin levels but without any other high-risk clinical or electrocardiographic features.",
+                        "wrongAnswer_4": "In patients with absolute contraindications to antiplatelet or anticoagulant therapy, as invasive strategies such as PCI or CABG may be necessary to directly address coronary artery stenosis and manage myocardial ischemia in the absence of pharmacologic thromboprotection."
+                    }
+                ]
+            },
+            {
+                "title": "Complications",
+                "quizzes": [
+                    {
+                        "question": "What is the most common early mechanical complication following acute myocardial infarction (AMI), particularly in patients presenting with ST-segment elevation myocardial infarction (STEMI) and undergoing reperfusion therapy?",
+                        "goodAnswer": "Left ventricular systolic dysfunction leading to acute heart failure, resulting from myocardial necrosis and subsequent reduction in contractile function within the infarcted region, often manifesting as pulmonary congestion and reduced cardiac output.",
+                        "wrongAnswer_1": "Ventricular septal rupture, characterized by an acute shunt between the left and right ventricles and severe hemodynamic compromise, typically occurring within the first 24-48 hours post-MI and presenting with a new, loud holosystolic murmur and cardiogenic shock.",
+                        "wrongAnswer_2": "Papillary muscle rupture, most frequently affecting the posteromedial papillary muscle in inferior myocardial infarction, leading to acute severe mitral regurgitation and acute pulmonary edema, often requiring urgent surgical mitral valve repair or replacement.",
+                        "wrongAnswer_3": "Free wall rupture of the left ventricle, resulting in hemopericardium and cardiac tamponade with rapid hemodynamic collapse and sudden cardiac death, typically occurring within the first week post-MI, especially in patients with anterior STEMI and delayed reperfusion.",
+                        "wrongAnswer_4": "Aortic root dissection extending into the coronary arteries, leading to acute myocardial ischemia secondary to coronary ostial obstruction, mimicking symptoms of acute MI but resulting from aortic pathology rather than primary myocardial necrosis."
+                    },
+                    {
+                        "question": "Which cardiac arrhythmia is recognized as a frequent and acutely life-threatening complication in the early hours immediately following acute myocardial infarction (AMI), particularly in the setting of ST-segment elevation myocardial infarction (STEMI)?",
+                        "goodAnswer": "Ventricular fibrillation (VF), a chaotic and disorganized electrical activity in the ventricles leading to complete loss of effective cardiac output and cardiac arrest if not promptly terminated by electrical defibrillation within minutes of onset.",
+                        "wrongAnswer_1": "Atrial fibrillation (AF), while a common arrhythmia in the context of cardiovascular disease and post-MI, is generally less acutely life-threatening in the immediate post-MI period compared to ventricular arrhythmias, and is typically managed with rate or rhythm control strategies.",
+                        "wrongAnswer_2": "Sinus bradycardia, a slow heart rate often resulting from increased vagal tone, medication effects (e.g., beta-blockers, morphine), or inferior MI involving the sinoatrial node, generally not immediately life-threatening unless associated with significant hemodynamic compromise or symptomatic hypotension.",
+                        "wrongAnswer_3": "First-degree atrioventricular block, a mild conduction delay characterized by a prolonged PR interval on ECG, usually asymptomatic and not requiring acute intervention in the context of AMI, although may indicate underlying conduction system ischemia.",
+                        "wrongAnswer_4": "Premature atrial contractions (PACs), common benign supraventricular ectopy, generally not indicative of serious immediate complications or significantly increased risk of sudden cardiac death in the acute post-MI period, unless excessively frequent or triggering more malignant arrhythmias."
+                    },
+                    {
+                        "question": "What is the proposed pathophysiological mechanism underlying post-myocardial infarction pericarditis, also known as Dressler's syndrome, a recognized late complication of acute myocardial infarction (AMI)?",
+                        "goodAnswer": "An autoimmune inflammatory response triggered by myocardial antigens released into the circulation following myocardial necrosis, typically occurring weeks to months post-MI, leading to pericardial inflammation characterized by fibrinous pericarditis and potential pericardial effusion.",
+                        "wrongAnswer_1": "Direct viral infection of the pericardium occurring concurrently with or shortly after the acute phase of myocardial infarction, causing superimposed myocarditis and pericarditis with overlapping clinical symptomatology and diagnostic challenges.",
+                        "wrongAnswer_2": "Bacterial superinfection of the infarcted myocardium extending into the pericardial sac, resulting in purulent pericarditis characterized by pericardial effusion containing bacteria and inflammatory cells, accompanied by systemic inflammatory signs and sepsis.",
+                        "wrongAnswer_3": "Thrombotic occlusion of the pericardial arteries, leading to ischemic pericarditis and pericardial effusion, occurring as a direct extension of coronary artery thrombosis and manifesting acutely or subacutely following myocardial infarction.",
+                        "wrongAnswer_4": "Metastatic spread of tumor cells from the infarcted myocardium to the pericardium, inducing malignant pericarditis and pericardial effusion, a rare but potential late complication in patients with underlying malignancy or predisposition to neoplastic processes."
+                    },
+                    {
+                        "question": "Which of the following conditions represents a major long-term complication following acute myocardial infarction (AMI) that significantly contributes to increased morbidity, reduced quality of life, and elevated long-term mortality rates in post-MI patients?",
+                        "goodAnswer": "Chronic heart failure, resulting from irreversible myocardial damage, left ventricular remodeling, and progressive cardiac dysfunction, leading to persistent symptoms of dyspnea, fatigue, exercise intolerance, and fluid retention, requiring ongoing medical management and lifestyle modifications.",
+                        "wrongAnswer_1": "Transient ischemic attacks (TIAs), which are brief episodes of neurological deficits due to temporary cerebral ischemia, representing cerebrovascular disease but not primarily a direct long-term cardiac complication arising specifically from myocardial infarction.",
+                        "wrongAnswer_2": "Pulmonary embolism, a sudden blockage of pulmonary arteries by thrombus, although a thromboembolic risk associated with cardiovascular disease, is not primarily considered a direct long-term consequence of myocardial damage or ventricular remodeling post-AMI.",
+                        "wrongAnswer_3": "Chronic kidney disease (CKD), while frequently coexisting with cardiovascular disease and sharing common risk factors with AMI (e.g., hypertension, diabetes), is not a direct complication of myocardial infarction itself but rather a related comorbidity.",
+                        "wrongAnswer_4": "Peripheral artery disease (PAD), although sharing atherosclerotic etiology and risk factors with coronary artery disease leading to AMI, is a separate manifestation of systemic atherosclerosis in the peripheral arterial circulation, not a direct complication arising from myocardial infarction itself."
+                    }
+                ]
+            },
+            {
+                "title": "Post ACS risk stratification",
+                "quizzes": [
+                    {
+                        "question": "Which clinical parameter, assessed typically during the index hospitalization or early post-discharge period, is a crucial and independently predictive component of established post-ACS risk stratification scores such as GRACE, TIMI, and HEART score, used to predict future cardiovascular events?",
+                        "goodAnswer": "Left ventricular ejection fraction (LVEF), measured by echocardiography or cardiac MRI, as reduced LVEF indicates impaired systolic function, reflecting the extent of myocardial damage and predicting higher risk of heart failure, recurrent ischemic events, and cardiovascular mortality post-ACS.",
+                        "wrongAnswer_1": "Resting heart rate variability (HRV), although reflecting autonomic nervous system function and potentially prognostic in cardiovascular disease, is not a standard or routinely incorporated component of widely used clinical post-ACS risk stratification scores for predicting future events.",
+                        "wrongAnswer_2": "Serum C-reactive protein (CRP) levels, while indicative of systemic inflammation and associated with increased cardiovascular risk, are not routinely integrated into standard clinical risk scores for post-ACS prognosis prediction in current clinical practice guidelines.",
+                        "wrongAnswer_3": "Carotid intima-media thickness (CIMT), a marker of subclinical atherosclerosis burden and future cardiovascular risk, is primarily used in population-based risk assessment and not typically incorporated into acute or post-ACS risk stratification algorithms in clinical management.",
+                        "wrongAnswer_4": "Brachial artery flow-mediated dilation (FMD), a measure of endothelial function and vascular reactivity, is predominantly utilized in research settings for assessing vascular health and not routinely employed in clinical post-ACS risk assessment scores or prognostic models."
+                    },
+                    {
+                        "question": "In the context of post-Acute Coronary Syndrome (ACS) risk stratification using the Global Registry of Acute Coronary Events (GRACE) risk score, what does a 'high' GRACE risk score, typically defined as >140 points, generally indicate regarding a patient's prognosis?",
+                        "goodAnswer": "Significantly increased risk of both in-hospital and long-term mortality, as well as a higher likelihood of major adverse cardiovascular events (MACE) including recurrent myocardial infarction, stroke, and urgent revascularization, necessitating more aggressive secondary prevention and intensive management strategies.",
+                        "wrongAnswer_1": "Lower risk of adverse cardiovascular events and a generally favorable prognosis, suggesting that less intensive secondary prevention measures and a more conservative management approach may be sufficient for these patients in the post-ACS period.",
+                        "wrongAnswer_2": "Increased risk of bleeding complications but paradoxically a lower risk of subsequent ischemic events, requiring careful balancing of antithrombotic therapy and bleeding risk mitigation strategies in the long-term post-ACS management.",
+                        "wrongAnswer_3": "Primarily prediction of recurrent angina pectoris symptoms and reduced exercise tolerance in the long-term, but not necessarily associated with a significantly increased risk of mortality or recurrent myocardial infarction, focusing management on symptomatic relief and quality of life improvement.",
+                        "wrongAnswer_4": "Higher likelihood of developing non-cardiovascular comorbidities such as chronic kidney disease or diabetes mellitus in the future, but not directly impacting cardiovascular prognosis or risk of recurrent cardiac events specifically in the post-ACS follow-up period."
+                    },
+                    {
+                        "question": "Which non-invasive diagnostic test is commonly utilized in post-Acute Coronary Syndrome (ACS) risk stratification to assess for evidence of residual myocardial ischemia and guide decisions regarding further management strategies, such as revascularization?",
+                        "goodAnswer": "Stress testing, encompassing exercise or pharmacological stress protocols, combined with ECG monitoring or myocardial perfusion imaging (echocardiography or nuclear), to detect inducible ischemia and determine the need for coronary angiography and potential revascularization procedures in patients with persistent symptoms or high-risk features.",
+                        "wrongAnswer_1": "Ambulatory blood pressure monitoring, primarily employed for the diagnosis and management of hypertension, and not directly indicated for assessing myocardial ischemia or guiding risk stratification and management decisions in the post-ACS setting.",
+                        "wrongAnswer_2": "Pulmonary function tests (PFTs), used for evaluating respiratory function and diagnosing pulmonary diseases, unrelated to the assessment of myocardial ischemia or cardiovascular risk stratification following Acute Coronary Syndrome.",
+                        "wrongAnswer_3": "Electroencephalography (EEG), a neurophysiological test used to assess brain electrical activity and diagnose neurological conditions, not relevant for cardiac ischemia evaluation or cardiovascular risk stratification in post-ACS patients.",
+                        "wrongAnswer_4": "Renal function tests, including serum creatinine and estimated glomerular filtration rate (eGFR), while important for overall health assessment and medication dosing, are not the primary non-invasive test for assessing residual myocardial ischemia in post-ACS risk stratification and management."
+                    },
+                    {
+                        "question": "According to current clinical practice guidelines for secondary prevention following Acute Coronary Syndrome (ACS), which pharmacotherapeutic agent is recommended for essentially all patients post-ACS, irrespective of their calculated risk score, unless a specific contraindication is present?",
+                        "goodAnswer": "Aspirin, as lifelong low-dose aspirin therapy (typically 75-100mg daily) is a cornerstone of secondary prevention to reduce the long-term risk of recurrent thrombotic cardiovascular events, including myocardial infarction, stroke, and cardiovascular death, in patients following ACS.",
+                        "wrongAnswer_1": "Warfarin, an oral vitamin K antagonist anticoagulant, as it is generally reserved for specific indications such as atrial fibrillation, mechanical heart valves, or venous thromboembolism, and not as a universal secondary prevention medication for all post-ACS patients in the absence of these specific indications.",
+                        "wrongAnswer_2": "Clopidogrel monotherapy, while a P2Y12 receptor inhibitor is crucial component of dual antiplatelet therapy (DAPT) post-ACS, clopidogrel alone is not recommended as universal lifelong secondary prevention unless aspirin is absolutely contraindicated or not tolerated.",
+                        "wrongAnswer_3": "High-intensity statin therapy, while strongly recommended for lipid management and cardiovascular risk reduction in most post-ACS patients regardless of baseline LDL-C levels, is not universally recommended for all post-ACS patients irrespective of risk factors or lipid profiles, but rather targeted based on individual lipid goals and risk categories.",
+                        "wrongAnswer_4": "Angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs), recommended particularly for post-ACS patients with left ventricular systolic dysfunction, heart failure, hypertension, or diabetes, but not universally indicated for all patients post-ACS irrespective of these specific comorbidities or risk factors."
+                    }
+                ]
+            }
+        ]
+    }
+}

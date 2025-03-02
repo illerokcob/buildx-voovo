@@ -1,0 +1,193 @@
+{
+    "mainTopic": {
+        "title": "Chronic coronary artery disease",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Development of CAD",
+                "quizzes": [
+                    {
+                        "question": "What is the initiating event in the pathogenesis of coronary artery disease (CAD) that sets the stage for subsequent atherosclerotic plaque development?",
+                        "goodAnswer": "Endothelial dysfunction, characterized by reduced nitric oxide bioavailability and increased permeability, is considered the initial step in CAD pathogenesis.",
+                        "wrongAnswer_1": "Smooth muscle cell proliferation in the tunica media, leading to vessel wall thickening and subsequent luminal narrowing, is the primary initiating event.",
+                        "wrongAnswer_2": "Adventitial inflammation, triggered by circulating cytokines and chemokines, is the earliest detectable pathological change in the development of coronary artery disease.",
+                        "wrongAnswer_3": "Calcification of the internal elastic lamina, causing rigidity and reduced compliance of the arterial wall, is the primary initiating event in CAD.",
+                        "wrongAnswer_4": "Thrombogenesis within the vessel lumen, initiated by circulating procoagulant factors, is the primary event that starts the cascade of CAD development."
+                    },
+                    {
+                        "question": "Which of the following cellular processes is most directly responsible for the formation of the fibrous cap that stabilizes atherosclerotic plaques in coronary arteries?",
+                        "goodAnswer": "Migration and proliferation of smooth muscle cells from the media to the intima, accompanied by extracellular matrix deposition, are crucial for fibrous cap formation.",
+                        "wrongAnswer_1": "Apoptosis of macrophages within the lipid core, leading to reduced inflammation and stabilization of the plaque structure.",
+                        "wrongAnswer_2": "Increased expression of endothelial nitric oxide synthase (eNOS) in endothelial cells, promoting plaque stability through vasodilation.",
+                        "wrongAnswer_3": "Recruitment and differentiation of circulating progenitor cells into endothelial cells, enhancing endothelial integrity and plaque stability.",
+                        "wrongAnswer_4": "Accumulation of foam cells derived from monocytes within the plaque, which secrete stabilizing cytokines that promote fibrous cap formation."
+                    },
+                    {
+                        "question": "What role do oxidized low-density lipoproteins (ox-LDL) play in the development of atherosclerotic lesions in coronary arteries?",
+                        "goodAnswer": "Oxidized LDL promotes endothelial dysfunction, stimulates inflammatory responses, and is taken up by macrophages to form foam cells, contributing to plaque progression.",
+                        "wrongAnswer_1": "Oxidized LDL primarily functions to enhance endothelial repair and regeneration, thus preventing the initial stages of atherosclerotic lesion formation.",
+                        "wrongAnswer_2": "Oxidized LDL directly induces smooth muscle cell contraction, leading to vasoconstriction and reduced blood flow in coronary arteries, thereby initiating atherosclerosis.",
+                        "wrongAnswer_3": "Oxidized LDL serves as a potent antioxidant within the arterial wall, neutralizing reactive oxygen species and preventing oxidative damage to endothelial cells.",
+                        "wrongAnswer_4": "Oxidized LDL facilitates the removal of cholesterol from macrophages, promoting reverse cholesterol transport and reducing lipid accumulation in atherosclerotic plaques."
+                    },
+                    {
+                        "question": "Which of the following molecular events is most closely associated with the progression from early fatty streak to a more advanced atherosclerotic plaque in coronary arteries?",
+                        "goodAnswer": "Increased expression of matrix metalloproteinases (MMPs) by macrophages, leading to extracellular matrix degradation and plaque instability, is a key event in progression.",
+                        "wrongAnswer_1": "Enhanced synthesis of tissue inhibitors of metalloproteinases (TIMPs) by smooth muscle cells, resulting in excessive extracellular matrix accumulation and plaque regression.",
+                        "wrongAnswer_2": "Decreased activity of lysosomal acid lipase in macrophages, impairing intracellular cholesterol ester hydrolysis and reducing foam cell formation.",
+                        "wrongAnswer_3": "Upregulation of ATP-binding cassette transporter A1 (ABCA1) in endothelial cells, promoting cholesterol efflux and preventing lipid accumulation in the intima.",
+                        "wrongAnswer_4": "Increased production of nitric oxide (NO) by endothelial cells, leading to vasodilation and inhibition of smooth muscle cell proliferation within the plaque."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical presentations/definitions",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the typical characteristics of stable angina pectoris?",
+                        "goodAnswer": "Chest discomfort that is predictable, reproducible, and relieved by rest or nitroglycerin, typically occurring with exertion or emotional stress.",
+                        "wrongAnswer_1": "Chest pain that is prolonged, severe, and occurs at rest, often associated with ST-segment elevation on electrocardiogram (ECG).",
+                        "wrongAnswer_2": "Chest discomfort that is new in onset, increasing in frequency or severity, and not reliably relieved by rest or nitroglycerin.",
+                        "wrongAnswer_3": "Sharp, stabbing chest pain that is worsened by breathing or body position and not related to exertion or cardiac ischemia.",
+                        "wrongAnswer_4": "Episodic chest tightness associated with palpitations and lightheadedness, primarily related to cardiac arrhythmias rather than myocardial ischemia."
+                    },
+                    {
+                        "question": "What is the key differentiating factor between unstable angina (UA) and non-ST-segment elevation myocardial infarction (NSTEMI) in terms of clinical presentation and diagnostic markers?",
+                        "goodAnswer": "NSTEMI is characterized by myocardial necrosis evidenced by elevated cardiac biomarkers (e.g., troponin), while UA does not show such biomarker elevation despite similar ischemic symptoms.",
+                        "wrongAnswer_1": "UA is associated with ST-segment elevation on ECG, while NSTEMI typically presents with ST-segment depression or T-wave inversion, reflecting different levels of coronary artery occlusion.",
+                        "wrongAnswer_2": "UA presents with more severe and prolonged chest pain compared to NSTEMI, which is generally characterized by milder and shorter episodes of chest discomfort.",
+                        "wrongAnswer_3": "UA is primarily diagnosed using coronary angiography to visualize the degree of stenosis, whereas NSTEMI is diagnosed based on clinical symptoms alone without requiring invasive procedures.",
+                        "wrongAnswer_4": "UA is treated with thrombolytic therapy to dissolve blood clots, while NSTEMI is managed with antiplatelet and anticoagulant medications to prevent further thrombus formation."
+                    },
+                    {
+                        "question": "What is the phenomenon of 'silent ischemia' in the context of coronary artery disease?",
+                        "goodAnswer": "Myocardial ischemia that occurs without typical anginal chest pain symptoms, often detected by ECG changes during stress testing or Holter monitoring.",
+                        "wrongAnswer_1": "Myocardial ischemia that is characterized by very mild and easily tolerable chest discomfort, often mistaken for indigestion or muscle strain.",
+                        "wrongAnswer_2": "Myocardial ischemia that occurs only during sleep and is associated with nocturnal angina and sleep disturbances.",
+                        "wrongAnswer_3": "Myocardial ischemia that is rapidly reversible and does not cause any lasting damage to the heart muscle, thus remaining clinically insignificant.",
+                        "wrongAnswer_4": "Myocardial ischemia that affects only the right ventricle and does not produce typical left ventricular angina symptoms."
+                    },
+                    {
+                        "question": "Which of the following clinical presentations is most suggestive of Prinzmetal angina (variant angina)?",
+                        "goodAnswer": "Recurrent episodes of chest pain at rest, particularly at night or early morning, often associated with transient ST-segment elevation on ECG.",
+                        "wrongAnswer_1": "Chest pain that is consistently provoked by physical exertion and relieved by rest, with ST-segment depression on exercise ECG testing.",
+                        "wrongAnswer_2": "Sudden onset of severe, crushing chest pain radiating to the left arm, accompanied by diaphoresis and persistent ST-segment elevation.",
+                        "wrongAnswer_3": "Intermittent chest discomfort described as a burning sensation, often occurring after meals and relieved by antacids.",
+                        "wrongAnswer_4": "Sharp, pleuritic chest pain that is exacerbated by deep inspiration and coughing, and is not related to cardiac ischemia."
+                    }
+                ]
+            },
+            {
+                "title": "Concept of myocardioal oxygen supply and demand",
+                "quizzes": [
+                    {
+                        "question": "Which of the following factors is the most significant determinant of myocardial oxygen demand in a patient with coronary artery disease during physical exertion?",
+                        "goodAnswer": "Increased heart rate and myocardial contractility are the primary drivers of increased myocardial oxygen demand during exercise.",
+                        "wrongAnswer_1": "Reduced diastolic blood pressure, leading to decreased coronary perfusion pressure, is the main factor increasing myocardial oxygen demand.",
+                        "wrongAnswer_2": "Increased systemic vascular resistance, causing increased afterload on the left ventricle, is the most critical determinant of myocardial oxygen demand.",
+                        "wrongAnswer_3": "Elevated preload, resulting in increased ventricular volume and wall tension, is the primary factor responsible for increased myocardial oxygen demand.",
+                        "wrongAnswer_4": "Decreased hemoglobin concentration in the blood, reducing oxygen carrying capacity, is the most significant factor in myocardial oxygen demand."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which coronary arteries regulate blood flow to meet the metabolic demands of the myocardium under normal physiological conditions?",
+                        "goodAnswer": "Autoregulation, primarily through metabolic vasodilation mediated by adenosine and nitric oxide, adjusts coronary vessel diameter to maintain constant flow despite changes in perfusion pressure.",
+                        "wrongAnswer_1": "Neurogenic control via sympathetic vasoconstriction and parasympathetic vasodilation is the dominant mechanism regulating coronary blood flow in response to myocardial demand.",
+                        "wrongAnswer_2": "Extrinsic compression of coronary vessels during ventricular systole is the primary factor determining coronary blood flow and oxygen supply.",
+                        "wrongAnswer_3": "Changes in blood viscosity due to variations in hematocrit are the major regulators of coronary blood flow to match myocardial oxygen requirements.",
+                        "wrongAnswer_4": "Hormonal regulation by circulating catecholamines, primarily epinephrine, which directly dilates coronary arteries, is the principal mechanism of flow control."
+                    },
+                    {
+                        "question": "Which of the following conditions would most significantly impair myocardial oxygen supply, potentially leading to ischemia?",
+                        "goodAnswer": "Severe coronary artery stenosis, causing a critical reduction in coronary blood flow reserve and limiting oxygen delivery to the myocardium.",
+                        "wrongAnswer_1": "Mild anemia with a hemoglobin level of 12 g/dL, causing a slight reduction in blood oxygen carrying capacity but not significantly impacting myocardial oxygen delivery.",
+                        "wrongAnswer_2": "Moderate hypertension with systolic blood pressure around 150 mmHg, leading to increased afterload but potentially enhancing coronary perfusion pressure.",
+                        "wrongAnswer_3": "Sinus bradycardia with a heart rate of 50 bpm, reducing myocardial oxygen demand and potentially improving diastolic coronary perfusion time.",
+                        "wrongAnswer_4": "Mild aortic regurgitation, causing a slight reduction in diastolic blood pressure but not directly affecting coronary artery blood flow."
+                    },
+                    {
+                        "question": "During which phase of the cardiac cycle does the majority of coronary blood flow occur, and why?",
+                        "goodAnswer": "Diastole, because during systole, increased intramyocardial pressure compresses coronary vessels, reducing blood flow, whereas during diastole, relaxation allows for better perfusion.",
+                        "wrongAnswer_1": "Systole, because the increased aortic pressure during ventricular contraction enhances coronary perfusion pressure, driving more blood flow into the coronary arteries.",
+                        "wrongAnswer_2": "Isovolumic contraction, as the rapid increase in ventricular pressure facilitates coronary artery filling due to the pressure gradient.",
+                        "wrongAnswer_3": "Atrial systole, because atrial contraction enhances blood flow into the ventricles, indirectly improving coronary artery filling.",
+                        "wrongAnswer_4": "Both systole and diastole equally contribute to coronary blood flow, as the coronary arteries receive blood throughout the entire cardiac cycle."
+                    }
+                ]
+            },
+            {
+                "title": "Pathophysiology of chronic ischemia syndromes",
+                "quizzes": [
+                    {
+                        "question": "What is the phenomenon of 'myocardial hibernation' in chronic ischemic heart disease?",
+                        "goodAnswer": "A state of reversible contractile dysfunction in chronically ischemic myocardium, where reduced blood flow leads to decreased function but preserved viability, potentially recoverable with revascularization.",
+                        "wrongAnswer_1": "Irreversible myocardial damage due to prolonged ischemia, leading to permanent loss of contractile function and scar tissue formation.",
+                        "wrongAnswer_2": "A transient period of myocardial dysfunction immediately following an acute ischemic episode, characterized by delayed recovery of contractile function despite reperfusion.",
+                        "wrongAnswer_3": "A compensatory mechanism where non-ischemic myocardial segments hypertrophy to maintain overall cardiac output in the presence of ischemic regions.",
+                        "wrongAnswer_4": "A state of increased myocardial oxygen demand in chronically ischemic regions, leading to worsening angina symptoms and progressive heart failure."
+                    },
+                    {
+                        "question": "Which of the following clinical manifestations is considered an 'angina equivalent' in patients with chronic ischemic heart disease?",
+                        "goodAnswer": "Exertional dyspnea, or shortness of breath during physical activity, can be a common angina equivalent, particularly in elderly patients or women.",
+                        "wrongAnswer_1": "Palpitations, or awareness of rapid or irregular heartbeat, are a typical angina equivalent, indicating underlying myocardial ischemia.",
+                        "wrongAnswer_2": "Dizziness or lightheadedness during exertion is a classic angina equivalent, suggesting reduced cerebral blood flow secondary to myocardial ischemia.",
+                        "wrongAnswer_3": "Gastrointestinal discomfort or nausea during physical activity is a frequent angina equivalent, reflecting referred pain from the ischemic myocardium.",
+                        "wrongAnswer_4": "Peripheral edema, or swelling in the legs and ankles, is a well-established angina equivalent, indicating systemic fluid retention due to myocardial ischemia."
+                    },
+                    {
+                        "question": "How does chronic myocardial ischemia contribute to the development of ischemic cardiomyopathy?",
+                        "goodAnswer": "Repetitive or prolonged ischemic episodes lead to cardiomyocyte loss, ventricular remodeling, and progressive heart failure due to impaired contractile function.",
+                        "wrongAnswer_1": "Chronic ischemia primarily triggers myocardial hypertrophy, which initially compensates for reduced contractility but eventually leads to diastolic dysfunction and heart failure.",
+                        "wrongAnswer_2": "Chronic ischemia induces a state of myocardial stunning, causing persistent contractile dysfunction that progresses to irreversible cardiomyopathy over time.",
+                        "wrongAnswer_3": "Chronic ischemia primarily affects the right ventricle, leading to right-sided heart failure and pulmonary hypertension, rather than ischemic cardiomyopathy.",
+                        "wrongAnswer_4": "Chronic ischemia causes inflammation of the pericardium, leading to constrictive pericarditis and impaired cardiac filling, mimicking ischemic cardiomyopathy."
+                    },
+                    {
+                        "question": "What is the underlying mechanism of 'myocardial stunning' following reperfusion after an acute ischemic event?",
+                        "goodAnswer": "Oxidative stress and calcium overload in cardiomyocytes during reperfusion lead to temporary contractile dysfunction despite restoration of blood flow.",
+                        "wrongAnswer_1": "Persistent microvascular obstruction after reperfusion prevents adequate nutrient delivery and waste removal, causing prolonged contractile dysfunction.",
+                        "wrongAnswer_2": "Inflammatory cytokine release during reperfusion triggers an autoimmune response, leading to myocardial damage and impaired contractility.",
+                        "wrongAnswer_3": "Chronic downregulation of beta-adrenergic receptors in cardiomyocytes due to prolonged ischemia reduces responsiveness to catecholamines.",
+                        "wrongAnswer_4": "Permanent structural damage to sarcomeres and myofibrils during ischemia leads to irreversible contractile dysfunction despite reperfusion."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis, Treatment strategies, Prognosis",
+                "quizzes": [
+                    {
+                        "question": "Which of the following non-invasive diagnostic modalities is most effective for detecting myocardial ischemia during exercise in patients with suspected coronary artery disease?",
+                        "goodAnswer": "Exercise electrocardiography (ECG) stress testing, which monitors ST-segment changes and other ECG abnormalities during graded exercise, is a widely used initial test.",
+                        "wrongAnswer_1": "Resting echocardiography, which assesses left ventricular function and wall motion abnormalities at rest, is highly sensitive for detecting exercise-induced ischemia.",
+                        "wrongAnswer_2": "Coronary computed tomography angiography (CCTA), which provides detailed anatomical images of coronary arteries, is the primary non-invasive test for functional ischemia assessment.",
+                        "wrongAnswer_3": "Ambulatory Holter monitoring, which continuously records ECG for 24-48 hours, is the most effective method for detecting ischemia induced by physical exertion.",
+                        "wrongAnswer_4": "Chest X-ray, which provides information about cardiac size and pulmonary congestion, is the initial diagnostic test for assessing myocardial ischemia during exercise."
+                    },
+                    {
+                        "question": "What is the primary therapeutic goal of percutaneous coronary intervention (PCI) in patients with symptomatic coronary artery disease?",
+                        "goodAnswer": "To restore adequate blood flow to the ischemic myocardium by dilating stenotic coronary arteries and implanting stents to maintain vessel patency.",
+                        "wrongAnswer_1": "To reduce myocardial oxygen demand by decreasing heart rate and contractility through the use of beta-blockers and calcium channel blockers.",
+                        "wrongAnswer_2": "To prevent the progression of atherosclerosis by aggressively lowering LDL cholesterol levels with high-intensity statin therapy.",
+                        "wrongAnswer_3": "To improve myocardial contractility and reverse ventricular remodeling through the use of ACE inhibitors and angiotensin receptor blockers.",
+                        "wrongAnswer_4": "To dissolve acute thrombus formation in coronary arteries using thrombolytic agents and prevent further thrombotic events."
+                    },
+                    {
+                        "question": "Which of the following is considered a major prognostic factor in patients with chronic coronary artery disease, influencing long-term outcomes and risk of cardiovascular events?",
+                        "goodAnswer": "Left ventricular ejection fraction (LVEF), reflecting the degree of systolic dysfunction, is a strong predictor of prognosis in patients with CAD.",
+                        "wrongAnswer_1": "Serum creatinine levels, indicating renal function, are the most critical prognostic factor in determining long-term outcomes in CAD patients.",
+                        "wrongAnswer_2": "Fasting blood glucose levels, reflecting glycemic control, are the primary predictors of cardiovascular events in patients with chronic CAD.",
+                        "wrongAnswer_3": "Body mass index (BMI), indicating obesity status, is the strongest prognostic indicator for long-term survival in patients with coronary artery disease.",
+                        "wrongAnswer_4": "White blood cell count, reflecting systemic inflammation, is the most significant prognostic factor in predicting cardiovascular mortality in CAD patients."
+                    },
+                    {
+                        "question": "In the management of chronic stable angina, which of the following drug classes primarily aims to reduce myocardial oxygen demand by decreasing heart rate and contractility?",
+                        "goodAnswer": "Beta-adrenergic blockers, such as metoprolol or bisoprolol, are first-line agents to reduce myocardial oxygen demand by slowing heart rate and reducing contractility.",
+                        "wrongAnswer_1": "Nitrates, such as nitroglycerin or isosorbide mononitrate, primarily reduce myocardial oxygen demand by decreasing preload and afterload through vasodilation.",
+                        "wrongAnswer_2": "Calcium channel blockers, such as amlodipine or diltiazem, mainly reduce myocardial oxygen demand by causing coronary vasodilation and reducing afterload.",
+                        "wrongAnswer_3": "ACE inhibitors, such as lisinopril or ramipril, primarily improve long-term prognosis by preventing ventricular remodeling and reducing afterload.",
+                        "wrongAnswer_4": "Statins, such as atorvastatin or rosuvastatin, primarily reduce cardiovascular risk by lowering LDL cholesterol and stabilizing atherosclerotic plaques."
+                    }
+                ]
+            }
+        ]
+    }
+}

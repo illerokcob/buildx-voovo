@@ -1,0 +1,127 @@
+{
+    "mainTopic": {
+        "title": "Arachidonic Acid Metabolism",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Arachidonic acid cascade: Derivates, enzimes and pathways",
+                "quizzes": [
+                    {
+                        "question": "Which specific phospholipase enzyme is crucial for the initiation of the arachidonic acid cascade by hydrolyzing membrane phospholipids at the sn-2 position?",
+                        "goodAnswer": "Cytosolic phospholipase A2 alpha (cPLA2\u03b1) is selectively activated by increased intracellular calcium and phosphorylates by MAP kinases to liberate arachidonic acid.",
+                        "wrongAnswer_1": "Secretory phospholipase A2 (sPLA2) is primarily involved in the digestion of dietary phospholipids in the pancreas and is not significantly involved in intracellular arachidonic acid release.",
+                        "wrongAnswer_2": "Calcium-independent phospholipase A2 (iPLA2) is mainly responsible for phospholipid remodeling and homeostasis within the cell, rather than stimulus-induced arachidonic acid release.",
+                        "wrongAnswer_3": "Phospholipase C (PLC) indirectly contributes to arachidonic acid release by generating diacylglycerol (DAG), which can activate diacylglycerol lipase to release arachidonic acid.",
+                        "wrongAnswer_4": "Phospholipase D (PLD) is involved in the production of phosphatidic acid and does not directly hydrolyze phospholipids to release arachidonic acid, playing a minor role in the cascade."
+                    },
+                    {
+                        "question": "Following the action of cyclooxygenase (COX) enzymes on arachidonic acid, which unstable cyclic endoperoxide is initially generated, serving as a precursor for prostaglandins and thromboxanes?",
+                        "goodAnswer": "Prostaglandin G2 (PGG2) is the first cyclic endoperoxide intermediate formed by COX enzymes, possessing a 15-hydroperoxyl group which is subsequently reduced to a 15-hydroxyl group.",
+                        "wrongAnswer_1": "Prostaglandin H1 (PGH1) is the primary initial product of COX activity in inflammatory conditions, directly isomerizing from arachidonic acid and lacking the 15-hydroperoxyl modification.",
+                        "wrongAnswer_2": "Thromboxane A2 (TXA2) is the immediate cyclic product of COX enzymes, rapidly synthesized and isomerized from arachidonic acid within platelets to initiate aggregation.",
+                        "wrongAnswer_3": "Prostacyclin (PGI2) is the first cyclic endoperoxide formed by COX, immediately converted from arachidonic acid in endothelial cells and possessing potent vasodilatory properties.",
+                        "wrongAnswer_4": "Leukotriene A4 (LTA4) is an unstable epoxide intermediate produced by COX enzymes, crucial for the synthesis of prostaglandins, thromboxanes, and prostacyclins in various cell types."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the enzymatic conversion steps in the lipoxygenase (LOX) pathway leading to the formation of Leukotriene B4 (LTB4)?",
+                        "goodAnswer": "5-Lipoxygenase (5-LOX) oxygenates arachidonic acid to 5-hydroperoxyeicosatetraenoic acid (5-HPETE), which is then dehydrated by LTA4 synthase to form Leukotriene A4 (LTA4), subsequently hydrolyzed to LTB4.",
+                        "wrongAnswer_1": "12-Lipoxygenase (12-LOX) initially converts arachidonic acid to 12-hydroperoxyeicosatetraenoic acid (12-HPETE), followed by epoxidation by LTA4 synthase to form LTA4, which is then isomerized to LTB4.",
+                        "wrongAnswer_2": "15-Lipoxygenase (15-LOX) oxygenates arachidonic acid to 15-hydroperoxyeicosatetraenoic acid (15-HPETE), subsequently dehydrated by 5-LOX to form LTA4, which is then conjugated to glutathione to form LTB4.",
+                        "wrongAnswer_3": "Cyclooxygenase-1 (COX-1) first oxygenates arachidonic acid to prostaglandin G2 (PGG2), which is then converted by LTA4 synthase to form LTA4, and finally reduced to LTB4 by specific reductases.",
+                        "wrongAnswer_4": "Epoxygenase enzymes catalyze the initial step by converting arachidonic acid to epoxyeicosatrienoic acids (EETs), which are then metabolized by 5-LOX to form LTA4, and subsequently converted to LTB4 by hydrolases."
+                    },
+                    {
+                        "question": "What specific enzymatic activity associated with cyclooxygenase (COX) enzymes is responsible for the conversion of Prostaglandin G2 (PGG2) to Prostaglandin H2 (PGH2)?",
+                        "goodAnswer": "Peroxidase activity, intrinsic to both COX-1 and COX-2 isoforms, reduces the 15-hydroperoxyl group in PGG2 to a 15-hydroxyl group, yielding PGH2 and generating a water molecule.",
+                        "wrongAnswer_1": "Cyclooxygenase activity, the primary function of COX enzymes, catalyzes the cyclization and oxygenation of PGG2, adding two molecules of oxygen to form PGH2 and releasing carbon dioxide.",
+                        "wrongAnswer_2": "Isomerase activity, uniquely present in COX-2, rearranges the molecular structure of PGG2, converting it into PGH2 through intramolecular isomerization and bond rearrangement.",
+                        "wrongAnswer_3": "Reductase activity, specifically associated with COX-1, utilizes NADPH to reduce PGG2 to PGH2, while simultaneously oxidizing NADPH to NADP+ in a redox reaction.",
+                        "wrongAnswer_4": "Synthase activity, common to both COX isoforms, directly synthesizes PGH2 from PGG2 by adding a hydroxyl group at the 15th carbon position and eliminating a peroxide group."
+                    }
+                ]
+            },
+            {
+                "title": "Biological Functions of Arachidonic Acid Products",
+                "quizzes": [
+                    {
+                        "question": "Which eicosanoid, derived from the cyclooxygenase pathway, is predominantly synthesized by platelets and acts as a potent inducer of platelet aggregation and vasoconstriction, critical for primary hemostasis?",
+                        "goodAnswer": "Thromboxane A2 (TXA2), produced mainly by activated platelets, binds to TP receptors on platelets, amplifying platelet activation and causing vasoconstriction at injury sites.",
+                        "wrongAnswer_1": "Prostacyclin (PGI2), synthesized by endothelial cells, interacts with IP receptors on platelets to stimulate aggregation and promote vasoconstriction, crucial for vascular tone regulation.",
+                        "wrongAnswer_2": "Prostaglandin E2 (PGE2), widely produced during inflammation, binds to EP receptors on platelets, inducing aggregation and vasoconstriction in the context of inflammatory responses.",
+                        "wrongAnswer_3": "Leukotriene B4 (LTB4), primarily generated by leukocytes, interacts with BLT receptors on platelets, leading to platelet aggregation and vasoconstriction, contributing to leukocyte recruitment.",
+                        "wrongAnswer_4": "Lipoxin A4 (LXA4), produced during inflammation resolution, binds to ALX/FPR2 receptors on platelets, indirectly promoting platelet aggregation and vasoconstriction to facilitate tissue repair."
+                    },
+                    {
+                        "question": "What is the principal biological role of Leukotriene B4 (LTB4) concerning leukocyte behavior during inflammatory responses, particularly in the context of neutrophil recruitment?",
+                        "goodAnswer": "Leukotriene B4 (LTB4) acts as a potent chemoattractant by binding to BLT1 and BLT2 receptors on neutrophils, guiding their migration towards inflammatory foci and stimulating their activation and degranulation.",
+                        "wrongAnswer_1": "Leukotriene B4 (LTB4) primarily functions as a leukocyte deactivator, binding to BLT receptors to inhibit neutrophil migration and reduce the release of pro-inflammatory mediators at inflammatory sites.",
+                        "wrongAnswer_2": "Leukotriene B4 (LTB4) is a potent vasodilator, increasing blood flow to inflamed tissues and reducing leukocyte adhesion by binding to BLT receptors on endothelial cells, thereby limiting neutrophil infiltration.",
+                        "wrongAnswer_3": "Leukotriene B4 (LTB4) mainly acts as an analgesic, reducing pain sensation at inflammatory sites by inhibiting the production of pro-inflammatory cytokines and chemokines from activated leukocytes.",
+                        "wrongAnswer_4": "Leukotriene B4 (LTB4)'s principal role is to promote the resolution of inflammation by enhancing the phagocytosis of apoptotic neutrophils by macrophages and suppressing further leukocyte recruitment."
+                    },
+                    {
+                        "question": "How does Prostaglandin E2 (PGE2) mediate the physiological response of fever during systemic inflammation or infection, focusing on its central mechanism of action in the hypothalamus?",
+                        "goodAnswer": "Prostaglandin E2 (PGE2) crosses the blood-brain barrier and acts on EP3 receptors in the preoptic area of the hypothalamus, elevating the thermoregulatory set point via increased cAMP levels and altered neuronal firing.",
+                        "wrongAnswer_1": "Prostaglandin E2 (PGE2) inhibits the anterior hypothalamus, causing a decrease in body temperature by reducing metabolic heat production and promoting vasodilation in peripheral tissues to dissipate heat.",
+                        "wrongAnswer_2": "Prostaglandin E2 (PGE2) directly stimulates the release of norepinephrine in the hypothalamus, which subsequently activates brown adipose tissue to generate heat through non-shivering thermogenesis and induce fever.",
+                        "wrongAnswer_3": "Prostaglandin E2 (PGE2) acts on the posterior hypothalamus to increase sensitivity to cold, leading to shivering thermogenesis and a subjective perception of coldness, ultimately resulting in fever development.",
+                        "wrongAnswer_4": "Prostaglandin E2 (PGE2) promotes the release of vasopressin from the hypothalamus, which in turn causes peripheral vasoconstriction and reduces heat loss, leading to an elevation in core body temperature and fever."
+                    },
+                    {
+                        "question": "What is the primary function of Prostacyclin (PGI2) in maintaining vascular homeostasis, especially in counteracting the pro-thrombotic and vasoconstrictive effects of Thromboxane A2 (TXA2) within the vasculature?",
+                        "goodAnswer": "Prostacyclin (PGI2), synthesized by endothelial cells, binds to IP receptors on platelets and vascular smooth muscle cells, inhibiting platelet activation and inducing vasodilation through increased intracellular cAMP.",
+                        "wrongAnswer_1": "Prostacyclin (PGI2) enhances vascular tone and promotes platelet adhesion to the endothelium by activating IP receptors, synergizing with TXA2 to facilitate thrombus formation at sites of vascular injury and inflammation.",
+                        "wrongAnswer_2": "Prostacyclin (PGI2) primarily functions as a potent platelet agonist, stimulating platelet aggregation and activation via IP receptor signaling to initiate thrombus formation in response to endothelial damage.",
+                        "wrongAnswer_3": "Prostacyclin (PGI2) is a potent bronchoconstrictor and promotes leukocyte infiltration into the vascular wall by activating IP receptors on leukocytes, contributing to inflammatory responses in the cardiovascular system.",
+                        "wrongAnswer_4": "Prostacyclin (PGI2) mainly regulates systemic blood pressure by stimulating renin release from the kidneys, leading to angiotensin II production and subsequent vasoconstriction via IP receptor activation on renal cells."
+                    }
+                ]
+            },
+            {
+                "title": "NSAIDS",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental biochemical mechanism by which Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) achieve their therapeutic effects, particularly in reducing inflammation and pain?",
+                        "goodAnswer": "NSAIDs competitively inhibit the active site of cyclooxygenase (COX) enzymes, both COX-1 and COX-2 isoforms, thereby reducing the enzymatic conversion of arachidonic acid to prostaglandins and thromboxanes.",
+                        "wrongAnswer_1": "NSAIDs directly antagonize prostaglandin receptors (EP receptors), preventing prostaglandins from binding and activating these receptors on target cells, thus blocking downstream signaling pathways of inflammation.",
+                        "wrongAnswer_2": "NSAIDs activate lipocortin-1 synthesis, which subsequently inhibits phospholipase A2 (PLA2), reducing the release of arachidonic acid from membrane phospholipids and indirectly suppressing eicosanoid production.",
+                        "wrongAnswer_3": "NSAIDs stimulate the production of endogenous corticosteroids, mimicking their anti-inflammatory actions by enhancing glucocorticoid receptor activation and downstream gene expression changes.",
+                        "wrongAnswer_4": "NSAIDs irreversibly bind to and inactivate leukotriene receptors (BLT receptors), preventing leukotrienes from mediating leukocyte chemotaxis and activation, thus reducing inflammatory cell infiltration."
+                    },
+                    {
+                        "question": "How do selective COX-2 inhibitors, such as celecoxib, differ from traditional non-selective NSAIDs like ibuprofen in terms of their enzyme target specificity and potential adverse effects?",
+                        "goodAnswer": "Selective COX-2 inhibitors preferentially inhibit COX-2 over COX-1, aiming to reduce prostaglandin production at inflammatory sites while minimizing COX-1 related gastroprotective prostaglandin inhibition, but may increase cardiovascular risks.",
+                        "wrongAnswer_1": "Selective COX-2 inhibitors equally inhibit both COX-1 and COX-2, but they exhibit faster metabolism and clearance, resulting in a shorter duration of action and a reduced overall risk of adverse effects compared to non-selective NSAIDs.",
+                        "wrongAnswer_2": "Selective COX-2 inhibitors enhance COX-1 activity while simultaneously inhibiting COX-2, leading to a balanced anti-inflammatory effect without significant gastrointestinal or cardiovascular side effects due to this dual modulation.",
+                        "wrongAnswer_3": "Selective COX-2 inhibitors do not directly inhibit COX enzymes; instead, they selectively block the synthesis of thromboxanes, leading to anti-inflammatory effects without affecting prostaglandin synthesis or related side effects.",
+                        "wrongAnswer_4": "Selective COX-2 inhibitors are prodrugs that are converted into non-selective COX inhibitors in vivo, ultimately having the same enzyme target specificity and side effect profile as traditional non-selective NSAIDs after metabolic activation."
+                    },
+                    {
+                        "question": "Considering their pharmacological actions and therapeutic mechanisms, what are the primary clinical applications for which NSAIDs are commonly prescribed in medical practice?",
+                        "goodAnswer": "NSAIDs are primarily indicated for the symptomatic relief of mild to moderate pain, fever reduction (antipyresis), and management of inflammation in conditions such as osteoarthritis, rheumatoid arthritis, and acute musculoskeletal injuries.",
+                        "wrongAnswer_1": "NSAIDs are predominantly used as first-line agents for the treatment of severe bacterial infections due to their potent antibacterial properties and their ability to enhance the efficacy of antibiotic medications against resistant bacteria.",
+                        "wrongAnswer_2": "NSAIDs are the primary therapeutic choice for managing chronic asthma and acute allergic reactions because of their bronchodilatory effects and their capacity to inhibit leukotriene production in the respiratory system.",
+                        "wrongAnswer_3": "NSAIDs are commonly employed to treat hypertension and congestive heart failure due to their vasodilatory properties and their ability to reduce systemic vascular resistance and improve cardiac output in affected patients.",
+                        "wrongAnswer_4": "NSAIDs are mainly indicated for the long-term treatment of peptic ulcers and gastroesophageal reflux disease because of their cytoprotective effects on the gastric mucosa and their ability to reduce gastric acid secretion."
+                    },
+                    {
+                        "question": "Which specific gastrointestinal adverse effect is most frequently associated with the use of non-selective NSAIDs, and what is the underlying pathophysiological mechanism contributing to this complication?",
+                        "goodAnswer": "Gastric and duodenal ulceration, along with associated bleeding, are major concerns due to non-selective NSAIDs' inhibition of COX-1, which reduces the production of gastroprotective prostaglandins like PGE2 and PGI2 in the gastric mucosa.",
+                        "wrongAnswer_1": "Chronic constipation and colonic strictures are prevalent gastrointestinal side effects because NSAIDs directly inhibit intestinal smooth muscle contractility and reduce fluid secretion in the large intestine, leading to fecal impaction.",
+                        "wrongAnswer_2": "Acute liver failure and drug-induced hepatitis are frequently observed because NSAIDs are inherently hepatotoxic and directly damage hepatocytes through oxidative stress and mitochondrial dysfunction, leading to liver inflammation.",
+                        "wrongAnswer_3": "Acute pancreatitis and pancreatic enzyme insufficiency are common complications because NSAIDs stimulate excessive pancreatic enzyme secretion and induce inflammation of the pancreatic parenchyma, impairing digestive function.",
+                        "wrongAnswer_4": "Esophageal varices and severe gastroesophageal reflux disease (GERD) are typical side effects because NSAIDs weaken the lower esophageal sphincter tone and significantly increase gastric acid production, promoting reflux and esophageal damage."
+                    },
+                    {
+                        "question": "How do non-selective NSAIDs impact platelet function, and what is the clinical relevance of this effect, especially when considering the antiplatelet action of aspirin?",
+                        "goodAnswer": "Non-selective NSAIDs reversibly inhibit COX-1 in platelets, reducing thromboxane A2 synthesis and thus impairing platelet aggregation, increasing bleeding risk, though less potently and durably than aspirin's irreversible COX-1 inhibition.",
+                        "wrongAnswer_1": "Non-selective NSAIDs enhance platelet aggregation and increase the risk of arterial thrombosis by stimulating thromboxane A2 production in platelets, effectively counteracting the antiplatelet effects of low-dose aspirin therapy.",
+                        "wrongAnswer_2": "Non-selective NSAIDs have no clinically significant effect on platelet function because they primarily target COX-2 in platelets, which is the major isoform responsible for thromboxane A2 synthesis and platelet activation.",
+                        "wrongAnswer_3": "Non-selective NSAIDs induce irreversible inhibition of COX-2 in platelets, leading to a prolonged antiplatelet effect that is more potent and longer-lasting than aspirin's irreversible inhibition of COX-1 in platelets.",
+                        "wrongAnswer_4": "Non-selective NSAIDs promote platelet activation and adhesion to the vascular endothelium, increasing the risk of both bleeding and thrombotic events depending on the specific NSAID, dosage, and individual patient risk factors."
+                    }
+                ]
+            }
+        ]
+    }
+}

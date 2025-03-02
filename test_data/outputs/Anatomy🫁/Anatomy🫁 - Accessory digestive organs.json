@@ -1,0 +1,193 @@
+{
+    "mainTopic": {
+        "title": "Accessory digestive organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The salivary glands",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the anatomical location of the parotid gland?",
+                        "goodAnswer": "Superficial and posterior to the mandibular ramus, anterior and inferior to the ear, extending from the zygomatic arch superiorly to the mandible inferiorly.",
+                        "wrongAnswer_1": "Deep and medial to the mandibular body, inferior to the tongue, extending from the hyoid bone superiorly to the thyroid cartilage inferiorly.",
+                        "wrongAnswer_2": "Superior and lateral to the maxilla, anterior to the nasal cavity, extending from the frontal bone superiorly to the zygomatic bone inferiorly.",
+                        "wrongAnswer_3": "Inferior and posterior to the occipital bone, deep to the trapezius muscle, extending from the cervical vertebrae superiorly to the thoracic vertebrae inferiorly.",
+                        "wrongAnswer_4": "Anterior and superior to the sternum, superficial to the pectoralis major muscle, extending from the clavicle superiorly to the xiphoid process inferiorly."
+                    },
+                    {
+                        "question": "What is the primary duct associated with the parotid gland and where does it typically open into the oral cavity?",
+                        "goodAnswer": "Stensen's duct, which pierces the buccinator muscle and opens into the oral vestibule opposite the maxillary second molar tooth.",
+                        "wrongAnswer_1": "Wharton's duct, which runs along the floor of the mouth and opens into the oral cavity lateral to the frenulum of the tongue.",
+                        "wrongAnswer_2": "Rivinus' ducts, which are multiple small ducts opening along the sublingual fold in the floor of the mouth.",
+                        "wrongAnswer_3": "Bartholin's duct, which merges with Wharton's duct and opens at the sublingual caruncle in the midline of the floor of the mouth.",
+                        "wrongAnswer_4": "Santorini's duct, which is a small duct that drains the inferior portion of the parotid gland and opens near the parotid papilla."
+                    },
+                    {
+                        "question": "The submandibular gland is located in which anatomical triangle of the neck and what is its duct called?",
+                        "goodAnswer": "Digastric triangle, and its duct is known as Wharton's duct, which traverses anteriorly to open into the floor of the mouth.",
+                        "wrongAnswer_1": "Carotid triangle, and its duct is known as Stensen's duct, which traverses posteriorly to open near the parotid gland.",
+                        "wrongAnswer_2": "Submental triangle, and its duct is known as Bartholin's duct, which traverses medially to open near the sublingual gland.",
+                        "wrongAnswer_3": "Occipital triangle, and its duct is known as Rivinus' ducts, which traverses laterally to open near the mandibular condyle.",
+                        "wrongAnswer_4": "Muscular triangle, and its duct is known as Santorini's duct, which traverses inferiorly to open near the hyoid bone."
+                    },
+                    {
+                        "question": "What structural characteristic primarily differentiates the sublingual gland from the parotid and submandibular glands at a microscopic level?",
+                        "goodAnswer": "Predominantly mucous acini with serous demilunes, in contrast to the serous acini of the parotid and mixed acini of the submandibular gland.",
+                        "wrongAnswer_1": "Exclusively serous acini, similar to the parotid gland, but lacking the striated ducts found in the submandibular gland.",
+                        "wrongAnswer_2": "A higher proportion of intercalated ducts compared to acini, unlike the other major salivary glands which have more acinar tissue.",
+                        "wrongAnswer_3": "Presence of intralobular ducts lined by pseudostratified columnar epithelium, a feature absent in parotid and submandibular glands.",
+                        "wrongAnswer_4": "Absence of myoepithelial cells surrounding the acini, which are prominent in both parotid and submandibular glands to facilitate secretion."
+                    }
+                ]
+            },
+            {
+                "title": "The liver",
+                "quizzes": [
+                    {
+                        "question": "Which ligament is a remnant of the umbilical vein in adults and anatomically divides the liver's left and right lobes on its visceral surface?",
+                        "goodAnswer": "Ligamentum teres hepatis, located in the free edge of the falciform ligament and visible in the fissure for ligamentum teres.",
+                        "wrongAnswer_1": "Ligamentum venosum, a remnant of the ductus venosus, located in the fissure for ligamentum venosum and continuous with the lesser omentum.",
+                        "wrongAnswer_2": "Falciform ligament, which attaches the liver to the anterior abdominal wall and diaphragm but does not directly divide the lobes.",
+                        "wrongAnswer_3": "Coronary ligament, which reflects onto the diaphragm forming the bare area and does not extend to the visceral surface to divide lobes.",
+                        "wrongAnswer_4": "Hepatoduodenal ligament, part of the lesser omentum, containing the portal triad but not related to lobar division on the visceral surface."
+                    },
+                    {
+                        "question": "The porta hepatis serves as the entry and exit point for crucial structures of the liver. Which of the following correctly lists the primary structures found within the porta hepatis?",
+                        "goodAnswer": "Hepatic portal vein, hepatic artery proper, and common hepatic duct (or right and left hepatic ducts).",
+                        "wrongAnswer_1": "Hepatic veins, cystic duct, and hepatic artery proper.",
+                        "wrongAnswer_2": "Inferior vena cava, common bile duct, and hepatic portal vein.",
+                        "wrongAnswer_3": "Hepatic artery proper, lymphatic vessels, and hepatic veins.",
+                        "wrongAnswer_4": "Cystic artery, hepatic nerve plexus, and inferior phrenic artery."
+                    },
+                    {
+                        "question": "What are the functional units of the liver, and what is their basic structural organization regarding blood flow?",
+                        "goodAnswer": "Liver lobules, hexagonal structures with hepatocytes radiating outwards from a central vein, with portal triads at the periphery and sinusoids facilitating blood flow from periphery to central vein.",
+                        "wrongAnswer_1": "Liver acini, triangular structures with hepatocytes arranged in concentric circles around a portal triad, with blood flowing from the central vein to the portal triads.",
+                        "wrongAnswer_2": "Hepatic segments, octagonal structures with hepatocytes organized randomly around bile canaliculi, with blood flow directly from hepatic arteries to hepatic veins.",
+                        "wrongAnswer_3": "Bile canaliculi networks, irregular structures with hepatocytes clustered around sinusoids, with blood flow independent of lobular organization and directed by bile ducts.",
+                        "wrongAnswer_4": "Portal triads, pentagonal structures with hepatocytes arranged in linear fashion, with blood flow restricted to sinusoidal spaces within the triads themselves."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the hepatic sinusoids and their unique cellular lining within the liver?",
+                        "goodAnswer": "Capillary-like vessels lined by fenestrated endothelial cells and Kupffer cells, facilitating direct contact of hepatocytes with blood and enabling immune surveillance.",
+                        "wrongAnswer_1": "Venule-like vessels lined by continuous endothelium and stellate cells, regulating blood flow through the liver and secreting extracellular matrix components.",
+                        "wrongAnswer_2": "Arteriole-like vessels lined by smooth muscle cells and pit cells, controlling blood pressure within the liver and initiating inflammatory responses.",
+                        "wrongAnswer_3": "Lymphatic-like vessels lined by lymphatic endothelium and Ito cells, draining lymph from the liver parenchyma and storing vitamin A.",
+                        "wrongAnswer_4": "Specialized arterioles lined by hepatocytes and sinusoidal lining cells, directly involved in bile production and transport into bile canaliculi."
+                    }
+                ]
+            },
+            {
+                "title": "The pancreas",
+                "quizzes": [
+                    {
+                        "question": "Anatomically, where is the pancreas primarily located within the abdomen and in relation to the peritoneum?",
+                        "goodAnswer": "Primarily retroperitoneal, lying posterior to the stomach and extending transversely across the posterior abdominal wall from the duodenum to the spleen.",
+                        "wrongAnswer_1": "Intraperitoneal, suspended by mesentery and freely mobile within the peritoneal cavity, anterior to the stomach and liver.",
+                        "wrongAnswer_2": "Primarily intraperitoneal, but with its tail retroperitoneal, located anterior to the kidneys and adrenal glands in the upper abdomen.",
+                        "wrongAnswer_3": "Entirely retroperitoneal, located in the lesser sac, posterior to the lesser omentum and anterior to the abdominal aorta and inferior vena cava.",
+                        "wrongAnswer_4": "Primarily in the pelvic cavity, anterior to the rectum and posterior to the bladder, with its head extending into the lower abdomen."
+                    },
+                    {
+                        "question": "What is the primary duct responsible for draining the majority of pancreatic exocrine secretions into the duodenum, and where does it typically enter?",
+                        "goodAnswer": "Main pancreatic duct (Wirsung's duct), usually joining the common bile duct to form the hepatopancreatic ampulla (of Vater) and opening into the major duodenal papilla.",
+                        "wrongAnswer_1": "Accessory pancreatic duct (Santorini's duct), directly entering the minor duodenal papilla superior to the major duodenal papilla and draining the entire pancreas.",
+                        "wrongAnswer_2": "Cystic duct, connecting the gallbladder to the common hepatic duct and indirectly draining pancreatic secretions via the bile duct into the duodenum.",
+                        "wrongAnswer_3": "Common bile duct, primarily draining bile from the liver and gallbladder, with a minor contribution from the pancreas via small ductules.",
+                        "wrongAnswer_4": "Hepatic duct, draining bile from the liver and directly entering the duodenum proximal to the pancreatic duct opening, without pancreatic contribution."
+                    },
+                    {
+                        "question": "Which part of the pancreas is typically located within the C-loop of the duodenum?",
+                        "goodAnswer": "Head of the pancreas, nestled within the concavity of the duodenal C-loop and closely associated with the superior mesenteric vessels.",
+                        "wrongAnswer_1": "Tail of the pancreas, extending towards the hilum of the spleen and positioned within the splenorenal ligament, distant from the duodenum.",
+                        "wrongAnswer_2": "Body of the pancreas, lying anterior to the vertebral column and posterior to the stomach, crossing the midline and superior to the duodenum.",
+                        "wrongAnswer_3": "Neck of the pancreas, a short segment connecting the head and body, positioned posterior to the pylorus of the stomach and inferior to the duodenum.",
+                        "wrongAnswer_4": "Uncinate process, extending posteriorly from the head and wrapping around the superior mesenteric artery, inferior and posterior to the duodenum."
+                    },
+                    {
+                        "question": "Microscopically, what are the two main functional components of the pancreas and how are they spatially arranged?",
+                        "goodAnswer": "Exocrine acini, forming the bulk of the pancreas and arranged in lobules, and endocrine islets of Langerhans, scattered throughout the acinar tissue.",
+                        "wrongAnswer_1": "Exocrine ducts, constituting the majority of the pancreatic mass and arranged in parallel rows, and endocrine acini, clustered around the ducts.",
+                        "wrongAnswer_2": "Serous acini and mucous acini, intermixed throughout the pancreas with serous acini predominating in the head and mucous in the tail.",
+                        "wrongAnswer_3": "Alpha cells and beta cells, forming distinct lobules within the pancreas, with alpha cells primarily in the head and beta cells in the tail regions.",
+                        "wrongAnswer_4": "Connective tissue septa and pancreatic parenchyma, with septa forming the functional units and parenchyma consisting solely of ductal epithelium."
+                    }
+                ]
+            },
+            {
+                "title": "The gallbladder",
+                "quizzes": [
+                    {
+                        "question": "Where is the gallbladder anatomically located in relation to the liver and the peritoneum?",
+                        "goodAnswer": "Inferior surface of the liver, typically in a fossa between the quadrate and right lobes, and intraperitoneal, covered by visceral peritoneum.",
+                        "wrongAnswer_1": "Superior surface of the liver, attached to the falciform ligament, and retroperitoneal, located behind the parietal peritoneum.",
+                        "wrongAnswer_2": "Posterior surface of the liver, within the bare area, and extraperitoneal, completely outside the peritoneal cavity.",
+                        "wrongAnswer_3": "Anterior surface of the liver, near the free edge, and subperitoneal, partially covered by peritoneum but mainly beneath it.",
+                        "wrongAnswer_4": "Medial surface of the liver, adjacent to the lesser omentum, and mesoperitoneal, suspended by a short mesentery within the peritoneum."
+                    },
+                    {
+                        "question": "What are the three main anatomical parts of the gallbladder, and how are they oriented?",
+                        "goodAnswer": "Fundus (rounded, distal end), body (main portion), and neck (tapered, proximal end), oriented from distal to proximal towards the cystic duct and common bile duct.",
+                        "wrongAnswer_1": "Apex (pointed, superior end), corpus (middle segment), and base (broad, inferior end), oriented from superior to inferior along the longitudinal axis of the liver.",
+                        "wrongAnswer_2": "Head (widest, anterior part), trunk (intermediate section), and tail (narrowest, posterior part), oriented from anterior to posterior relative to the abdominal wall.",
+                        "wrongAnswer_3": "Superior segment, middle segment, and inferior segment, oriented vertically along the liver surface from cephalic to caudal direction.",
+                        "wrongAnswer_4": "Right lobe, central lobe, and left lobe, mirroring the liver lobes and oriented transversely across the liver surface from right to left."
+                    },
+                    {
+                        "question": "The cystic duct connects the gallbladder to which duct to form the common bile duct?",
+                        "goodAnswer": "Common hepatic duct, which drains bile from the liver's right and left hepatic ducts, forming the common bile duct upon union with the cystic duct.",
+                        "wrongAnswer_1": "Accessory hepatic duct, which drains bile from the caudate lobe of the liver, forming the common bile duct after merging with the cystic duct.",
+                        "wrongAnswer_2": "Pancreatic duct, which carries pancreatic enzymes, forming the common bile duct as a shared pathway for bile and pancreatic secretions.",
+                        "wrongAnswer_3": "Duodenal duct, which drains directly into the duodenum, forming the common bile duct as a distal extension of the gallbladder.",
+                        "wrongAnswer_4": "Gastric duct, which drains gastric juices from the stomach, forming the common bile duct as a conduit for both bile and gastric contents."
+                    },
+                    {
+                        "question": "What is the primary histological characteristic of the gallbladder mucosa that is indicative of its function?",
+                        "goodAnswer": "Highly folded mucosa with simple columnar epithelium containing microvilli, but lacking submucosal glands, adapted for absorption and concentration of bile.",
+                        "wrongAnswer_1": "Stratified squamous epithelium with numerous goblet cells and submucosal glands, designed for protection and mucus secretion to lubricate bile flow.",
+                        "wrongAnswer_2": "Transitional epithelium with deep crypts and villi-like projections, specialized for distension and storage of large volumes of bile.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium with abundant cilia and seromucous glands in the submucosa, facilitating bile movement and modification.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium with prominent basement membrane and numerous lymphatic nodules in the lamina propria, involved in bile filtration and immune surveillance."
+                    }
+                ]
+            },
+            {
+                "title": "The peritoneum",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental distinction between the parietal and visceral peritoneum?",
+                        "goodAnswer": "Parietal peritoneum lines the abdominal and pelvic walls, while visceral peritoneum covers the organs within these cavities.",
+                        "wrongAnswer_1": "Parietal peritoneum is the outer layer containing nerve endings, while visceral peritoneum is the inner layer responsible for fluid secretion.",
+                        "wrongAnswer_2": "Parietal peritoneum is derived from mesoderm, while visceral peritoneum originates from endoderm during embryonic development.",
+                        "wrongAnswer_3": "Parietal peritoneum is vascularized and innervated, whereas visceral peritoneum is avascular and lacks nerve supply.",
+                        "wrongAnswer_4": "Parietal peritoneum is fixed and immobile, while visceral peritoneum is mobile and allows for organ movement within the cavity."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the peritoneal cavity?",
+                        "goodAnswer": "A potential space between the parietal and visceral peritoneum, containing a thin film of serous fluid to reduce friction and facilitate organ movement.",
+                        "wrongAnswer_1": "A large, air-filled space within the abdomen, separating the abdominal organs from the abdominal wall and allowing for free expansion.",
+                        "wrongAnswer_2": "A fluid-filled sac surrounding each abdominal organ individually, providing cushioning and protection from external forces.",
+                        "wrongAnswer_3": "A network of lymphatic channels and vessels, draining lymph from the abdominal organs and transporting it to regional lymph nodes.",
+                        "wrongAnswer_4": "A complex system of connective tissue ligaments and membranes, suspending and anchoring the abdominal organs to the posterior abdominal wall."
+                    },
+                    {
+                        "question": "What is the greater omentum and from which structure does it primarily originate?",
+                        "goodAnswer": "A large, apron-like fold of peritoneum, primarily originating from the greater curvature of the stomach and hanging down over the intestines.",
+                        "wrongAnswer_1": "A small, triangular fold of peritoneum, originating from the lesser curvature of the stomach and extending to the liver.",
+                        "wrongAnswer_2": "A double layer of peritoneum attaching the jejunum and ileum to the posterior abdominal wall, allowing for vascular and nerve supply.",
+                        "wrongAnswer_3": "A retroperitoneal structure located posterior to the pancreas and duodenum, anchoring these organs to the posterior abdominal wall.",
+                        "wrongAnswer_4": "A fibrous band of tissue extending from the umbilicus to the liver, representing the remnant of the umbilical vein in adults."
+                    },
+                    {
+                        "question": "Mesenteries are double layers of peritoneum that serve a crucial anatomical function. What is their primary role?",
+                        "goodAnswer": "To suspend intraperitoneal organs from the posterior abdominal wall, providing pathways for blood vessels, nerves, and lymphatics to reach the organs.",
+                        "wrongAnswer_1": "To separate the abdominal cavity into distinct compartments, preventing the spread of infection and compartmentalizing organ systems.",
+                        "wrongAnswer_2": "To provide structural support to the abdominal wall, reinforcing weak areas and preventing hernias and organ prolapse.",
+                        "wrongAnswer_3": "To secrete serous fluid into the peritoneal cavity, maintaining lubrication and preventing adhesions between abdominal organs.",
+                        "wrongAnswer_4": "To anchor retroperitoneal organs directly to the posterior abdominal wall, preventing excessive movement and maintaining their fixed positions."
+                    }
+                ]
+            }
+        ]
+    }
+}

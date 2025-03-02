@@ -1,0 +1,14 @@
+{
+    "original": {
+        "options": 56.0,
+        "question-complexity": 6.666666666666667,
+        "answer-complexity": 7.0,
+        "knowledge": 9.0
+    },
+    "revised": {
+        "options": 3.9047619047619047,
+        "question-complexity": 5.904761904761905,
+        "answer-complexity": 6.714285714285714,
+        "knowledge": 8.761904761904763
+    }
+}

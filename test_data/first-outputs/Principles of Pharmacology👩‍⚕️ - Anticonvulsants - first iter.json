@@ -1,0 +1,193 @@
+{
+    "mainTopic": {
+        "title": "Anticonvulsants",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Seizures and their classification",
+                "quizzes": [
+                    {
+                        "question": "According to the 2017 ILAE classification, which of the following best describes a focal seizure with impaired awareness?",
+                        "goodAnswer": "A seizure originating in one hemisphere, associated with altered consciousness and responsiveness, and may or may not include motor or non-motor symptoms.",
+                        "wrongAnswer_1": "A seizure originating bilaterally, characterized by a brief lapse of awareness without loss of posture, typically lasting a few seconds and associated with 3Hz spike-and-wave discharges.",
+                        "wrongAnswer_2": "A seizure involving the entire brain from onset, always resulting in loss of consciousness and tonic-clonic motor activity, and typically associated with postictal confusion.",
+                        "wrongAnswer_3": "A seizure of unknown onset that rapidly evolves into bilateral tonic-clonic activity without any preceding focal features, often seen in genetic generalized epilepsies.",
+                        "wrongAnswer_4": "A seizure originating in the brainstem, causing sudden loss of muscle tone and postural control, frequently triggered by emotional stimuli and not typically associated with EEG changes."
+                    },
+                    {
+                        "question": "What is the primary differentiating factor between a focal aware seizure and a focal impaired awareness seizure, based on the current ILAE classification?",
+                        "goodAnswer": "The level of consciousness during the seizure, where focal aware seizures maintain consciousness and focal impaired awareness seizures involve altered or lost consciousness.",
+                        "wrongAnswer_1": "The duration of the seizure, with focal aware seizures lasting less than one minute and focal impaired awareness seizures lasting longer than one minute.",
+                        "wrongAnswer_2": "The presence of motor symptoms, where focal aware seizures are always non-motor and focal impaired awareness seizures always involve motor manifestations.",
+                        "wrongAnswer_3": "The location of seizure onset in the brain, with focal aware seizures originating in cortical areas and focal impaired awareness seizures originating in subcortical structures.",
+                        "wrongAnswer_4": "The response to anticonvulsant medication, where focal aware seizures are more responsive to first-line drugs and focal impaired awareness seizures require combination therapy."
+                    },
+                    {
+                        "question": "In the context of generalized seizures, absence seizures are characterized by which of the following electroencephalographic (EEG) patterns?",
+                        "goodAnswer": "Generalized 3-Hz spike-and-wave discharges, typically correlating with the clinical presentation of sudden onset and abrupt cessation of impaired consciousness.",
+                        "wrongAnswer_1": "Focal epileptiform discharges localized to the temporal lobe, usually associated with complex partial seizures and automatisms.",
+                        "wrongAnswer_2": "Periodic lateralized epileptiform discharges (PLEDs), commonly seen in acute cerebral insults and focal neurological deficits.",
+                        "wrongAnswer_3": "Generalized slow-wave activity with superimposed fast ripples, characteristic of Lennox-Gastaut syndrome and associated with multiple seizure types.",
+                        "wrongAnswer_4": "Multifocal independent spikes and waves, often observed in West syndrome (infantile spasms) and associated with developmental delay."
+                    },
+                    {
+                        "question": "Which seizure type is characterized by sudden, brief muscle contractions that can be single or repetitive, and may affect one limb, several limbs, or the trunk, without loss of consciousness?",
+                        "goodAnswer": "Myoclonic seizures, often occurring in the morning after awakening and potentially associated with genetic generalized epilepsies.",
+                        "wrongAnswer_1": "Atonic seizures, resulting in a sudden loss of muscle tone leading to falls, frequently seen in Lennox-Gastaut syndrome and characterized by 'drop attacks'.",
+                        "wrongAnswer_2": "Tonic seizures, characterized by sustained muscle stiffening, typically lasting 20-30 seconds, and often occurring during sleep.",
+                        "wrongAnswer_3": "Clonic seizures, involving rhythmic jerking movements of the limbs, face, and trunk, usually following a tonic phase in generalized tonic-clonic seizures.",
+                        "wrongAnswer_4": "Simple partial seizures with motor symptoms, limited to a specific area of the body and progressing to secondary generalization in some cases."
+                    }
+                ]
+            },
+            {
+                "title": "Drugs for treatment of partial seizures, generalized tonic clonic seizures and primary generalized epilepsy",
+                "quizzes": [
+                    {
+                        "question": "For the treatment of focal seizures, which of the following mechanisms of action is primarily associated with carbamazepine and phenytoin?",
+                        "goodAnswer": "Blockade of voltage-gated sodium channels, prolonging the inactivated state and reducing neuronal excitability and high-frequency repetitive firing.",
+                        "wrongAnswer_1": "Enhancement of GABAergic neurotransmission by increasing the frequency of chloride channel opening, leading to neuronal hyperpolarization and reduced excitability.",
+                        "wrongAnswer_2": "Blockade of voltage-gated calcium channels of the T-type, reducing thalamocortical oscillations and suppressing absence seizures.",
+                        "wrongAnswer_3": "Inhibition of GABA transaminase, increasing synaptic GABA concentrations and enhancing inhibitory neurotransmission in the brain.",
+                        "wrongAnswer_4": "Binding to synaptic vesicle protein 2A (SV2A), modulating neurotransmitter release and reducing excessive neuronal synchronization."
+                    },
+                    {
+                        "question": "Valproic acid is considered a broad-spectrum anticonvulsant effective for various seizure types. Which of the following mechanisms contributes to its broad efficacy?",
+                        "goodAnswer": "Multiple mechanisms including blockade of voltage-gated sodium channels, enhancement of GABAergic neurotransmission, and blockade of T-type calcium channels.",
+                        "wrongAnswer_1": "Selective blockade of NMDA receptors, reducing excitatory glutamatergic neurotransmission and preventing seizure propagation primarily in focal seizures.",
+                        "wrongAnswer_2": "Activation of potassium channels, promoting neuronal hyperpolarization and reducing neuronal excitability specifically effective in absence seizures.",
+                        "wrongAnswer_3": "Inhibition of carbonic anhydrase, leading to reduced brain excitability and primarily used as adjunctive therapy for focal seizures.",
+                        "wrongAnswer_4": "Modulation of presynaptic calcium channels, reducing glutamate release and specifically targeting generalized tonic-clonic seizures."
+                    },
+                    {
+                        "question": "Ethosuximide is a first-line medication specifically indicated for the treatment of which type of seizure?",
+                        "goodAnswer": "Absence seizures, due to its selective blockade of T-type calcium channels in thalamic neurons, disrupting the thalamocortical circuitry involved in absence seizures.",
+                        "wrongAnswer_1": "Focal seizures with or without secondary generalization, primarily through blockade of voltage-gated sodium channels in cortical neurons.",
+                        "wrongAnswer_2": "Generalized tonic-clonic seizures, by enhancing GABAergic inhibition throughout the brainstem and cortex.",
+                        "wrongAnswer_3": "Myoclonic seizures, potentially through modulation of synaptic vesicle protein 2A (SV2A) in cortical and subcortical networks.",
+                        "wrongAnswer_4": "Atonic seizures, by reducing glutamate release and stabilizing neuronal membranes in diffuse brain regions."
+                    },
+                    {
+                        "question": "For primary generalized epilepsies, which of the following is generally considered a first-line treatment option for generalized tonic-clonic seizures?",
+                        "goodAnswer": "Valproic acid, due to its broad spectrum efficacy and effectiveness against generalized tonic-clonic, absence, and myoclonic seizures.",
+                        "wrongAnswer_1": "Carbamazepine, primarily indicated for focal seizures and may exacerbate absence and myoclonic seizures in generalized epilepsies.",
+                        "wrongAnswer_2": "Phenytoin, effective for focal and generalized tonic-clonic seizures but with significant pharmacokinetic variability and potential drug interactions.",
+                        "wrongAnswer_3": "Gabapentin, mainly used as adjunctive therapy for focal seizures and neuropathic pain, with limited efficacy in primary generalized epilepsies.",
+                        "wrongAnswer_4": "Pregabalin, similar to gabapentin in its mechanism and indications, primarily for focal seizures and neuropathic pain, not first-line for generalized epilepsies."
+                    }
+                ]
+            },
+            {
+                "title": "New anticonvulsants",
+                "quizzes": [
+                    {
+                        "question": "Levetiracetam is a newer generation anticonvulsant known for its broad spectrum of activity and favorable pharmacokinetic profile. What is its primary mechanism of action?",
+                        "goodAnswer": "Binding to synaptic vesicle protein 2A (SV2A), modulating neurotransmitter release by reducing excessive neuronal synchronization without directly affecting ion channels or GABA receptors.",
+                        "wrongAnswer_1": "Enhancement of GABAergic neurotransmission by increasing GABA levels through inhibition of GABA transaminase, leading to widespread neuronal inhibition.",
+                        "wrongAnswer_2": "Blockade of voltage-gated sodium channels in a use-dependent manner, reducing neuronal excitability and high-frequency firing in focal seizure onset zones.",
+                        "wrongAnswer_3": "Blockade of T-type calcium channels in thalamic relay neurons, specifically targeting absence seizures by disrupting thalamocortical oscillations.",
+                        "wrongAnswer_4": "Activation of neuronal potassium channels, promoting membrane hyperpolarization and reducing neuronal firing threshold across various brain regions."
+                    },
+                    {
+                        "question": "Lacosamide is a newer anticonvulsant with a distinct mechanism of action compared to traditional agents. How does lacosamide exert its anticonvulsant effect?",
+                        "goodAnswer": "Selective enhancement of slow inactivation of voltage-gated sodium channels, stabilizing hyperexcitable neuronal membranes without affecting normal neuronal function significantly.",
+                        "wrongAnswer_1": "Non-competitive antagonism of AMPA receptors, reducing fast excitatory glutamatergic neurotransmission and preventing seizure spread.",
+                        "wrongAnswer_2": "Positive allosteric modulation of GABA-A receptors, enhancing inhibitory chloride currents and reducing neuronal excitability across the brain.",
+                        "wrongAnswer_3": "Inhibition of neuronal calcium influx through N-type calcium channels, reducing neurotransmitter release and neuronal synchronization.",
+                        "wrongAnswer_4": "Activation of cannabinoid receptors in the brain, modulating neurotransmitter release and reducing neuronal excitability through retrograde signaling."
+                    },
+                    {
+                        "question": "Which of the following newer anticonvulsants is known for its dual mechanism of action involving both blockade of voltage-gated sodium channels and enhancement of GABAergic neurotransmission?",
+                        "goodAnswer": "Retigabine (Ezogabine), acting as a KCNQ channel opener (enhancing potassium currents) and also potentiating GABAergic inhibition.",
+                        "wrongAnswer_1": "Eslicarbazepine acetate, primarily acting as a voltage-gated sodium channel blocker, similar to carbamazepine but with a different metabolic profile.",
+                        "wrongAnswer_2": "Rufinamide, prolonging the inactivated state of voltage-gated sodium channels and effective in Lennox-Gastaut syndrome.",
+                        "wrongAnswer_3": "Vigabatrin, irreversibly inhibiting GABA transaminase, increasing synaptic GABA concentrations and specifically indicated for infantile spasms.",
+                        "wrongAnswer_4": "Perampanel, a selective non-competitive AMPA receptor antagonist, reducing excitatory neurotransmission and effective in focal seizures."
+                    },
+                    {
+                        "question": "Brivaracetam is a newer analogue of levetiracetam. What is a key pharmacological difference between brivaracetam and levetiracetam?",
+                        "goodAnswer": "Brivaracetam has a higher affinity for synaptic vesicle protein 2A (SV2A) and potentially faster brain penetration, leading to potentially quicker onset of action and higher potency.",
+                        "wrongAnswer_1": "Brivaracetam primarily enhances GABAergic neurotransmission, while levetiracetam primarily blocks voltage-gated sodium channels, resulting in distinct therapeutic profiles.",
+                        "wrongAnswer_2": "Brivaracetam selectively blocks T-type calcium channels, whereas levetiracetam targets N-type calcium channels, leading to differences in seizure type specificity.",
+                        "wrongAnswer_3": "Brivaracetam is metabolized via renal excretion, while levetiracetam is primarily metabolized hepatically, affecting their drug interaction profiles and suitability in renal impairment.",
+                        "wrongAnswer_4": "Brivaracetam is only effective for generalized seizures, while levetiracetam is primarily indicated for focal seizures, reflecting their different mechanisms of action."
+                    }
+                ]
+            },
+            {
+                "title": "Principles for the management of epilepsy and management during pregnancy",
+                "quizzes": [
+                    {
+                        "question": "When initiating antiepileptic drug (AED) therapy, what is generally considered the most appropriate approach in newly diagnosed epilepsy?",
+                        "goodAnswer": "Monotherapy with a first-line AED appropriate for the seizure type, starting at a low dose and gradually titrating up to seizure control or maximum tolerated dose.",
+                        "wrongAnswer_1": "Combination therapy with two or more AEDs from the outset, to achieve rapid seizure control and minimize the risk of breakthrough seizures.",
+                        "wrongAnswer_2": "Initiating with a high dose of a broad-spectrum AED to quickly suppress seizure activity, followed by gradual dose reduction to maintenance levels.",
+                        "wrongAnswer_3": "Prophylactic use of benzodiazepines in addition to a maintenance AED, to prevent breakthrough seizures and anxiety associated with epilepsy.",
+                        "wrongAnswer_4": "Starting with older generation AEDs due to their well-established efficacy and safety profiles, before considering newer agents for better tolerability."
+                    },
+                    {
+                        "question": "Which of the following is a critical consideration when managing epilepsy in women of childbearing potential?",
+                        "goodAnswer": "The potential teratogenic effects of AEDs, necessitating careful selection of AEDs with lower teratogenic risk and folic acid supplementation preconception and during pregnancy.",
+                        "wrongAnswer_1": "The increased risk of status epilepticus during pregnancy, requiring prophylactic use of intravenous benzodiazepines throughout gestation.",
+                        "wrongAnswer_2": "The need to discontinue all AEDs prior to conception to minimize fetal exposure, and only resume treatment after the first trimester.",
+                        "wrongAnswer_3": "The recommendation to switch to ketogenic diet during pregnancy as a safer alternative to AEDs for seizure control in pregnant women.",
+                        "wrongAnswer_4": "The routine use of high-dose vitamin K supplementation throughout pregnancy to counteract the pro-coagulant effects of AEDs."
+                    },
+                    {
+                        "question": "During pregnancy, which of the following AEDs is generally considered to have a relatively lower teratogenic risk compared to others, particularly in terms of major congenital malformations?",
+                        "goodAnswer": "Lamotrigine and levetiracetam, often preferred due to their relatively lower teratogenic potential and favorable pharmacokinetic profiles during pregnancy.",
+                        "wrongAnswer_1": "Valproic acid and topiramate, considered first-line options due to their broad spectrum efficacy and minimal impact on fetal development.",
+                        "wrongAnswer_2": "Phenytoin and carbamazepine, routinely used throughout pregnancy due to their long-established safety and efficacy in seizure control.",
+                        "wrongAnswer_3": "Phenobarbital and primidone, preferred during pregnancy for their minimal placental transfer and reduced fetal exposure.",
+                        "wrongAnswer_4": "Ethosuximide and clonazepam, considered safe alternatives with no known teratogenic effects and effective in various seizure types during pregnancy."
+                    },
+                    {
+                        "question": "What is the recommended approach for folic acid supplementation in women with epilepsy planning pregnancy or who are pregnant and taking AEDs?",
+                        "goodAnswer": "High-dose folic acid supplementation (e.g., 4-5 mg daily) is recommended preconception and throughout the first trimester, and potentially continued throughout pregnancy, to reduce the risk of neural tube defects.",
+                        "wrongAnswer_1": "Standard low-dose folic acid supplementation (e.g., 0.4 mg daily) is sufficient for women with epilepsy, similar to the general recommendation for all pregnant women.",
+                        "wrongAnswer_2": "Folic acid supplementation is contraindicated in women taking certain AEDs, as it may reduce the efficacy of these medications and increase seizure frequency.",
+                        "wrongAnswer_3": "Folic acid supplementation should only be initiated in the third trimester of pregnancy to minimize potential interactions with AED metabolism.",
+                        "wrongAnswer_4": "Folic acid supplementation is not necessary if women are taking newer generation AEDs, as these drugs have minimal impact on folate metabolism and fetal development."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of status epilepticus in emergency medicine",
+                "quizzes": [
+                    {
+                        "question": "In the initial management of status epilepticus (SE) in the emergency setting, what is the recommended first-line pharmacological treatment?",
+                        "goodAnswer": "Benzodiazepines (e.g., lorazepam, diazepam, midazolam) administered intravenously or intramuscularly, to rapidly terminate seizure activity through GABA-A receptor potentiation.",
+                        "wrongAnswer_1": "Phenytoin or fosphenytoin administered intravenously as the immediate first-line agent, to block voltage-gated sodium channels and quickly suppress seizure propagation.",
+                        "wrongAnswer_2": "Valproic acid administered intravenously as the initial treatment, to enhance GABAergic neurotransmission and control various seizure types in SE.",
+                        "wrongAnswer_3": "Levetiracetam administered intravenously or intramuscularly as the primary first-line agent, due to its rapid onset and broad-spectrum efficacy in SE.",
+                        "wrongAnswer_4": "Lidocaine administered intravenously as the immediate first-line treatment, to stabilize neuronal membranes and suppress seizure activity in refractory SE."
+                    },
+                    {
+                        "question": "If benzodiazepines fail to control status epilepticus within a reasonable timeframe (e.g., 5-10 minutes), what is typically considered the next step in pharmacological management?",
+                        "goodAnswer": "Administration of a second-line AED, such as phenytoin/fosphenytoin, valproic acid, or levetiracetam intravenously, to achieve sustained seizure control.",
+                        "wrongAnswer_1": "Repeat administration of a higher dose of benzodiazepines, as escalating doses are often effective in overcoming benzodiazepine resistance in SE.",
+                        "wrongAnswer_2": "Initiation of general anesthesia with propofol or thiopental, as the immediate next step after benzodiazepine failure to rapidly suppress seizure activity.",
+                        "wrongAnswer_3": "Intramuscular administration of magnesium sulfate, to reduce neuronal excitability and control refractory seizures in SE.",
+                        "wrongAnswer_4": "Oral administration of maintenance AEDs, as a faster route to achieve therapeutic levels and control ongoing seizure activity in SE."
+                    },
+                    {
+                        "question": "Which of the following is a crucial consideration in the management of refractory status epilepticus (RSE), defined as SE that persists despite first- and second-line AEDs?",
+                        "goodAnswer": "Initiation of continuous intravenous anesthetic infusions (e.g., midazolam, propofol, pentobarbital) to induce burst suppression on EEG and break the cycle of seizure activity.",
+                        "wrongAnswer_1": "Aggressive fluid resuscitation with hypertonic saline, to reduce cerebral edema and improve AED delivery to the brain in RSE.",
+                        "wrongAnswer_2": "High-dose corticosteroid therapy, to reduce neuroinflammation and improve responsiveness to AEDs in refractory SE.",
+                        "wrongAnswer_3": "Therapeutic hypothermia, to reduce cerebral metabolic demand and protect against neuronal injury in prolonged RSE.",
+                        "wrongAnswer_4": "Plasmapheresis, to remove circulating epileptogenic substances and improve seizure control in autoimmune-related refractory SE."
+                    },
+                    {
+                        "question": "In the treatment algorithm for status epilepticus, at what point is it recommended to consider non-pharmacological interventions such as rapid sequence intubation and airway management?",
+                        "goodAnswer": "Early in the management, particularly if there is concern for airway compromise, aspiration risk, or prolonged seizure activity impairing ventilation and oxygenation.",
+                        "wrongAnswer_1": "Only after failure of multiple lines of pharmacological therapy and development of refractory status epilepticus, as airway management is a late-stage intervention.",
+                        "wrongAnswer_2": "Routinely in all patients with status epilepticus upon arrival to the emergency department, irrespective of their respiratory status or seizure severity.",
+                        "wrongAnswer_3": "Only in patients with convulsive status epilepticus, as non-convulsive status epilepticus does not typically require airway management.",
+                        "wrongAnswer_4": "When EEG monitoring confirms electrographic status epilepticus, irrespective of clinical seizure manifestations or respiratory status."
+                    }
+                ]
+            }
+        ]
+    }
+}

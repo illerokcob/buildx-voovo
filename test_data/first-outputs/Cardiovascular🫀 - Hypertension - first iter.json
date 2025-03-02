@@ -1,0 +1,222 @@
+{
+    "mainTopic": {
+        "title": "Hypertension",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Blood pressure classificatinon",
+                "quizzes": [
+                    {
+                        "question": "According to the 2017 ACC/AHA guidelines, which of the following blood pressure readings is classified as Stage 1 hypertension for adults?",
+                        "goodAnswer": "Systolic blood pressure consistently between 130-139 mm Hg or diastolic blood pressure consistently between 80-89 mm Hg.",
+                        "wrongAnswer_1": "Systolic blood pressure consistently between 120-129 mm Hg or diastolic blood pressure consistently below 80 mm Hg.",
+                        "wrongAnswer_2": "Systolic blood pressure consistently below 120 mm Hg and diastolic blood pressure consistently below 80 mm Hg.",
+                        "wrongAnswer_3": "Systolic blood pressure consistently at or above 140 mm Hg or diastolic blood pressure consistently at or above 90 mm Hg.",
+                        "wrongAnswer_4": "Systolic blood pressure consistently between 140-159 mm Hg or diastolic blood pressure consistently between 90-99 mm Hg."
+                    },
+                    {
+                        "question": "What blood pressure range is defined as 'Elevated Blood Pressure' according to the American Heart Association/American College of Cardiology (ACC/AHA) 2017 guidelines?",
+                        "goodAnswer": "Systolic blood pressure between 120-129 mm Hg and diastolic blood pressure less than 80 mm Hg.",
+                        "wrongAnswer_1": "Systolic blood pressure less than 120 mm Hg and diastolic blood pressure less than 80 mm Hg.",
+                        "wrongAnswer_2": "Systolic blood pressure between 130-139 mm Hg or diastolic blood pressure between 80-89 mm Hg.",
+                        "wrongAnswer_3": "Systolic blood pressure of 140 mm Hg or higher or diastolic blood pressure of 90 mm Hg or higher.",
+                        "wrongAnswer_4": "Systolic blood pressure between 120-139 mm Hg and diastolic blood pressure between 80-89 mm Hg."
+                    },
+                    {
+                        "question": "In the context of blood pressure classification, what constitutes a Hypertensive Crisis requiring prompt medical attention?",
+                        "goodAnswer": "Systolic blood pressure exceeding 180 mm Hg and/or diastolic blood pressure exceeding 120 mm Hg, potentially with target organ damage.",
+                        "wrongAnswer_1": "Systolic blood pressure consistently between 160-179 mm Hg or diastolic blood pressure consistently between 100-119 mm Hg without target organ damage.",
+                        "wrongAnswer_2": "Systolic blood pressure consistently between 140-159 mm Hg and diastolic blood pressure consistently between 90-99 mm Hg with minimal symptoms.",
+                        "wrongAnswer_3": "Systolic blood pressure consistently between 130-139 mm Hg or diastolic blood pressure consistently between 80-89 mm Hg with moderate symptoms.",
+                        "wrongAnswer_4": "Systolic blood pressure exceeding 200 mm Hg and/or diastolic blood pressure exceeding 130 mm Hg, only requiring attention if symptoms are present."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure regulation",
+                "quizzes": [
+                    {
+                        "question": "Which of the following mechanisms is primarily responsible for the long-term regulation of blood pressure?",
+                        "goodAnswer": "The renin-angiotensin-aldosterone system (RAAS) through its influence on blood volume and vascular resistance.",
+                        "wrongAnswer_1": "The baroreceptor reflex, which provides immediate, short-term adjustments to blood pressure via neural pathways.",
+                        "wrongAnswer_2": "The chemoreceptor reflex, which primarily regulates respiration and has a minimal direct impact on long-term blood pressure control.",
+                        "wrongAnswer_3": "The atrial natriuretic peptide (ANP) system, which predominantly regulates sodium excretion in response to decreased blood volume.",
+                        "wrongAnswer_4": "The sympathetic nervous system's acute response to stress, causing sustained elevations in blood pressure over extended periods."
+                    },
+                    {
+                        "question": "The baroreceptor reflex plays a crucial role in short-term blood pressure regulation. How does it respond to an acute decrease in blood pressure?",
+                        "goodAnswer": "By increasing sympathetic nervous system activity, leading to vasoconstriction and increased heart rate to raise blood pressure.",
+                        "wrongAnswer_1": "By activating the parasympathetic nervous system, causing vasodilation and decreased heart rate to lower blood pressure.",
+                        "wrongAnswer_2": "By inhibiting the renin-angiotensin-aldosterone system (RAAS) to reduce blood volume and subsequently blood pressure.",
+                        "wrongAnswer_3": "By releasing atrial natriuretic peptide (ANP) to promote sodium and water excretion, thus decreasing blood pressure.",
+                        "wrongAnswer_4": "By directly stimulating the release of nitric oxide (NO) from endothelial cells to induce vasodilation and lower blood pressure."
+                    },
+                    {
+                        "question": "How does the Renin-Angiotensin-Aldosterone System (RAAS) contribute to the regulation of blood pressure?",
+                        "goodAnswer": "Angiotensin II, a product of RAAS, causes vasoconstriction and stimulates aldosterone release, leading to sodium and water retention, thus increasing blood pressure.",
+                        "wrongAnswer_1": "Renin directly causes vasodilation and inhibits aldosterone release, leading to sodium and water excretion, thus decreasing blood pressure.",
+                        "wrongAnswer_2": "Aldosterone causes vasodilation and stimulates renin release, leading to sodium and water retention, thus decreasing blood pressure.",
+                        "wrongAnswer_3": "Angiotensin-converting enzyme (ACE) directly causes vasodilation and inhibits aldosterone release, leading to sodium excretion, thus decreasing blood pressure.",
+                        "wrongAnswer_4": "Angiotensin I, a product of RAAS, causes vasodilation and reduces aldosterone release, leading to decreased blood volume and blood pressure."
+                    },
+                    {
+                        "question": "What is the role of antidiuretic hormone (ADH), also known as vasopressin, in blood pressure regulation?",
+                        "goodAnswer": "ADH promotes water reabsorption in the kidneys, increasing blood volume and consequently blood pressure, especially in response to dehydration or low blood volume.",
+                        "wrongAnswer_1": "ADH promotes water excretion in the kidneys, decreasing blood volume and consequently blood pressure, particularly in cases of fluid overload.",
+                        "wrongAnswer_2": "ADH directly causes vasodilation of blood vessels, reducing peripheral resistance and lowering blood pressure in hypertensive states.",
+                        "wrongAnswer_3": "ADH stimulates aldosterone release from the adrenal cortex, leading to sodium retention and a decrease in blood volume and blood pressure.",
+                        "wrongAnswer_4": "ADH inhibits the release of renin from the kidneys, reducing angiotensin II and aldosterone production, ultimately lowering blood pressure."
+                    }
+                ]
+            },
+            {
+                "title": "Sequelae of Essential hypertension",
+                "quizzes": [
+                    {
+                        "question": "Which of the following cardiovascular complications is a direct long-term sequela of uncontrolled essential hypertension?",
+                        "goodAnswer": "Left ventricular hypertrophy (LVH) due to increased afterload and chronic pressure overload on the heart.",
+                        "wrongAnswer_1": "Right ventricular hypertrophy (RVH) primarily caused by pulmonary hypertension secondary to lung diseases.",
+                        "wrongAnswer_2": "Atrial fibrillation (AFib) mainly resulting from valvular heart disease or congenital heart defects.",
+                        "wrongAnswer_3": "Mitral valve prolapse (MVP) predominantly associated with connective tissue disorders and not directly with hypertension.",
+                        "wrongAnswer_4": "Ventricular septal defect (VSD) which is a congenital heart defect, unrelated to the progression of hypertension."
+                    },
+                    {
+                        "question": "Chronic uncontrolled hypertension is a significant risk factor for stroke. Which type of stroke is most directly linked to hypertensive sequelae?",
+                        "goodAnswer": "Hemorrhagic stroke, particularly intracerebral hemorrhage, due to rupture of small blood vessels weakened by chronic hypertension.",
+                        "wrongAnswer_1": "Ischemic stroke caused by large artery atherosclerosis, primarily related to hyperlipidemia and not directly to hypertension.",
+                        "wrongAnswer_2": "Cardioembolic stroke originating from atrial fibrillation, mainly associated with cardiac arrhythmias and not hypertension.",
+                        "wrongAnswer_3": "Lacunar stroke, although related to hypertension, is less directly and immediately linked compared to hemorrhagic stroke in acute hypertensive crises.",
+                        "wrongAnswer_4": "Transient ischemic attack (TIA), often a precursor to other stroke types but not a direct sequela of chronic hypertension in the same way as hemorrhagic stroke."
+                    },
+                    {
+                        "question": "Hypertensive nephropathy is a serious renal complication of essential hypertension. What is the primary pathological mechanism in hypertensive nephropathy?",
+                        "goodAnswer": "Glomerulosclerosis and tubulointerstitial fibrosis resulting from chronic glomerular hypertension and microvascular damage within the kidneys.",
+                        "wrongAnswer_1": "Acute tubular necrosis (ATN) typically caused by ischemia or nephrotoxic agents, not directly by chronic hypertension.",
+                        "wrongAnswer_2": "Pyelonephritis, an infection of the kidney, usually bacterial in origin and not a direct result of hypertension.",
+                        "wrongAnswer_3": "Nephrotic syndrome characterized by proteinuria, often due to primary glomerular diseases unrelated to hypertension.",
+                        "wrongAnswer_4": "Renal cell carcinoma, a malignancy of the kidney, which is not a sequela of chronic hypertension but a separate pathological entity."
+                    },
+                    {
+                        "question": "Retinopathy is a common microvascular complication of chronic hypertension. What is the earliest detectable sign of hypertensive retinopathy on fundoscopic examination?",
+                        "goodAnswer": "Arteriolar narrowing, characterized by a decreased arteriolar-to-venular diameter ratio, reflecting generalized vasoconstriction.",
+                        "wrongAnswer_1": "Flame-shaped hemorrhages, which are a later finding indicating more severe retinal damage and capillary rupture.",
+                        "wrongAnswer_2": "Cotton wool spots, representing retinal nerve fiber layer infarcts, also a later sign of more advanced hypertensive retinopathy.",
+                        "wrongAnswer_3": "Papilledema, optic disc swelling, typically associated with malignant hypertension or increased intracranial pressure, not early retinopathy.",
+                        "wrongAnswer_4": "Hard exudates, lipid deposits in the retina, usually seen in later stages and associated with chronic retinal vascular leakage, not the earliest sign."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure measurement",
+                "quizzes": [
+                    {
+                        "question": "When performing auscultatory blood pressure measurement, which Korotkoff sound phase indicates the diastolic blood pressure?",
+                        "goodAnswer": "Phase V: Disappearance of sound, representing the pressure at which the arterial vessel is no longer compressed and blood flow becomes laminar.",
+                        "wrongAnswer_1": "Phase I: First appearance of clear tapping sounds, indicating systolic blood pressure when cuff pressure equals systolic arterial pressure.",
+                        "wrongAnswer_2": "Phase II: Softer, longer murmurs, representing turbulent blood flow as cuff pressure is further reduced.",
+                        "wrongAnswer_3": "Phase III: Crisper, louder sounds, indicating increased blood flow as cuff pressure approaches diastolic pressure.",
+                        "wrongAnswer_4": "Phase IV: Muffled, less distinct sounds, sometimes used to define diastolic pressure but less consistently than Phase V, especially in children and pregnant women."
+                    },
+                    {
+                        "question": "What is the recommended cuff bladder width for accurate auscultatory blood pressure measurement in adults?",
+                        "goodAnswer": "Approximately 40% of the arm circumference, ensuring proper compression of the brachial artery.",
+                        "wrongAnswer_1": "Approximately 20% of the arm circumference, leading to underestimation of blood pressure due to insufficient artery compression.",
+                        "wrongAnswer_2": "Approximately 60% of the arm circumference, potentially overestimating blood pressure due to excessive artery compression.",
+                        "wrongAnswer_3": "Approximately 80% of the arm circumference, significantly overestimating blood pressure and causing discomfort.",
+                        "wrongAnswer_4": "Approximately 10% of the arm circumference, resulting in inaccurate measurements and potential arterial damage."
+                    },
+                    {
+                        "question": "In the context of blood pressure measurement, what is 'white coat hypertension'?",
+                        "goodAnswer": "A condition where blood pressure readings are elevated in a clinical setting but are normal when measured in a non-clinical environment.",
+                        "wrongAnswer_1": "A condition where blood pressure readings are consistently low in a clinical setting but elevated when measured at home.",
+                        "wrongAnswer_2": "A condition where blood pressure readings are elevated both in clinical and non-clinical settings due to generalized anxiety.",
+                        "wrongAnswer_3": "A condition characterized by persistently high blood pressure specifically during nighttime and normal blood pressure during daytime.",
+                        "wrongAnswer_4": "A condition of fluctuating blood pressure readings that vary widely regardless of the setting or time of day."
+                    },
+                    {
+                        "question": "For accurate blood pressure measurement, in which position should the patient's arm be ideally placed?",
+                        "goodAnswer": "Supported at heart level, typically with the midpoint of the upper arm at the level of the sternum or the fourth intercostal space.",
+                        "wrongAnswer_1": "Dependent position, hanging freely at the patient's side, which can lead to falsely elevated blood pressure readings.",
+                        "wrongAnswer_2": "Elevated above heart level, potentially resulting in falsely low blood pressure readings due to reduced hydrostatic pressure.",
+                        "wrongAnswer_3": "Extended straight out in front of the body, regardless of heart level, as long as the arm is relaxed and supported.",
+                        "wrongAnswer_4": "Flexed at the elbow and resting on the chest, ensuring patient comfort but potentially affecting measurement accuracy due to muscle contraction."
+                    }
+                ]
+            },
+            {
+                "title": "Evaluation and causes of hypertension",
+                "quizzes": [
+                    {
+                        "question": "During the initial evaluation of a patient with newly diagnosed hypertension, which of the following laboratory tests is most crucial to assess for target organ damage and secondary causes?",
+                        "goodAnswer": "Urinalysis to detect proteinuria, hematuria, and assess renal function, which are indicators of hypertensive nephropathy or underlying renal disease.",
+                        "wrongAnswer_1": "Liver function tests (LFTs) to evaluate liver enzymes, primarily relevant for hepatic disorders and less directly for initial hypertension assessment.",
+                        "wrongAnswer_2": "Thyroid stimulating hormone (TSH) levels to screen for thyroid dysfunction, which is a less common secondary cause of hypertension compared to renal issues.",
+                        "wrongAnswer_3": "Complete blood count (CBC) to assess for general hematological conditions, which is not a primary diagnostic test for hypertension evaluation.",
+                        "wrongAnswer_4": "Fasting blood glucose to screen for diabetes mellitus, important for overall cardiovascular risk but not directly for initial hypertension cause evaluation."
+                    },
+                    {
+                        "question": "Which of the following is a common endocrine cause of secondary hypertension that should be considered during evaluation?",
+                        "goodAnswer": "Primary aldosteronism (Conn's syndrome), characterized by excessive aldosterone production leading to sodium retention and hypertension.",
+                        "wrongAnswer_1": "Hypothyroidism, which is more commonly associated with diastolic hypertension and is a less frequent cause of secondary hypertension overall.",
+                        "wrongAnswer_2": "Type 2 diabetes mellitus, a significant risk factor for hypertension but not a direct endocrine cause of secondary hypertension itself.",
+                        "wrongAnswer_3": "Cushing's syndrome, while it can cause hypertension, is a rarer endocrine disorder compared to primary aldosteronism.",
+                        "wrongAnswer_4": "Hyperparathyroidism, primarily affecting calcium metabolism, is less directly and commonly associated with secondary hypertension compared to aldosteronism."
+                    },
+                    {
+                        "question": "Renovascular hypertension, a form of secondary hypertension, is most commonly caused by which of the following conditions?",
+                        "goodAnswer": "Renal artery stenosis, often due to atherosclerosis or fibromuscular dysplasia, leading to reduced renal blood flow and RAAS activation.",
+                        "wrongAnswer_1": "Glomerulonephritis, a primary renal disease that can lead to hypertension but is not the typical cause of renovascular hypertension.",
+                        "wrongAnswer_2": "Polycystic kidney disease, a genetic disorder causing kidney cysts, which can lead to hypertension but is distinct from renovascular mechanisms.",
+                        "wrongAnswer_3": "Urinary tract obstruction, which can cause hydronephrosis and renal dysfunction but is not the typical etiology of renovascular hypertension.",
+                        "wrongAnswer_4": "Acute pyelonephritis, a kidney infection, that can temporarily elevate blood pressure but is not a chronic cause of renovascular hypertension."
+                    },
+                    {
+                        "question": "Certain medications can induce or exacerbate hypertension. Which class of drugs is known to commonly elevate blood pressure as a side effect?",
+                        "goodAnswer": "Nonsteroidal anti-inflammatory drugs (NSAIDs), which can cause sodium and water retention and interfere with antihypertensive medications.",
+                        "wrongAnswer_1": "Proton pump inhibitors (PPIs), primarily affecting gastric acid production and not directly associated with significant blood pressure elevation.",
+                        "wrongAnswer_2": "HMG-CoA reductase inhibitors (statins), used for cholesterol lowering, which generally have a neutral or even slightly beneficial effect on blood pressure.",
+                        "wrongAnswer_3": "Selective serotonin reuptake inhibitors (SSRIs), antidepressants that typically have minimal or unpredictable effects on blood pressure.",
+                        "wrongAnswer_4": "Biguanides (e.g., metformin), used for diabetes management, generally not associated with causing or exacerbating hypertension, and may even have slight BP lowering effects."
+                    }
+                ]
+            },
+            {
+                "title": "Goal of hypertension prevention and management",
+                "quizzes": [
+                    {
+                        "question": "What is the primary goal of hypertension management?",
+                        "goodAnswer": "To reduce cardiovascular and cerebrovascular morbidity and mortality by achieving and maintaining target blood pressure levels.",
+                        "wrongAnswer_1": "To completely eliminate hypertension and restore blood pressure to pre-hypertensive levels regardless of patient age or comorbidities.",
+                        "wrongAnswer_2": "To primarily alleviate symptoms associated with hypertension, such as headaches and dizziness, even if blood pressure remains elevated.",
+                        "wrongAnswer_3": "To primarily focus on lowering systolic blood pressure to below 120 mm Hg for all patients, irrespective of their individual risk profiles.",
+                        "wrongAnswer_4": "To manage hypertension solely through pharmacological interventions, minimizing the need for lifestyle modifications in most patients."
+                    },
+                    {
+                        "question": "Lifestyle modifications are crucial in the prevention and management of hypertension. Which of the following dietary approaches is most recommended for lowering blood pressure?",
+                        "goodAnswer": "The DASH (Dietary Approaches to Stop Hypertension) diet, rich in fruits, vegetables, and low-fat dairy, and low in sodium, saturated and total fat.",
+                        "wrongAnswer_1": "A high-protein, low-carbohydrate diet, which is primarily focused on weight loss and may not directly target blood pressure reduction.",
+                        "wrongAnswer_2": "A ketogenic diet, very low in carbohydrates and high in fats, which is not generally recommended for routine hypertension management.",
+                        "wrongAnswer_3": "A vegan diet, while healthy, requires careful planning to ensure all nutrient needs are met and is not specifically designed for hypertension.",
+                        "wrongAnswer_4": "A high-sodium diet, to increase fluid retention and improve blood volume, which is directly contraindicated in hypertension management."
+                    },
+                    {
+                        "question": "According to current guidelines, what is generally considered the target blood pressure for most adults with hypertension without compelling indications such as diabetes or chronic kidney disease?",
+                        "goodAnswer": "Below 130/80 mm Hg for most adults, as recommended by the American College of Cardiology/American Heart Association (ACC/AHA) guidelines.",
+                        "wrongAnswer_1": "Below 140/90 mm Hg, a less stringent target that was previously recommended but is now considered less optimal for most patients.",
+                        "wrongAnswer_2": "Below 120/70 mm Hg, which might be too low for some individuals, especially older adults, and could increase the risk of adverse events.",
+                        "wrongAnswer_3": "Below 150/90 mm Hg, a target only considered acceptable for elderly patients over 80 years old according to some older guidelines.",
+                        "wrongAnswer_4": "Below 110/60 mm Hg, an excessively low target blood pressure that is generally not recommended and could be harmful for many individuals."
+                    },
+                    {
+                        "question": "Which class of antihypertensive medications is often recommended as first-line therapy for hypertension, particularly in patients without specific compelling indications?",
+                        "goodAnswer": "Thiazide diuretics, such as hydrochlorothiazide, due to their effectiveness, low cost, and proven cardiovascular outcome benefits.",
+                        "wrongAnswer_1": "Beta-blockers, which are effective but may be less preferred as first-line agents in uncomplicated hypertension compared to diuretics or ACE inhibitors in current guidelines.",
+                        "wrongAnswer_2": "Calcium channel blockers, effective antihypertensives but not universally recommended as first-line unless there are specific indications or contraindications to other agents.",
+                        "wrongAnswer_3": "Alpha-blockers, typically used for resistant hypertension or specific conditions like benign prostatic hyperplasia, not as first-line for general hypertension.",
+                        "wrongAnswer_4": "Vasodilators such as hydralazine, generally reserved for resistant hypertension or hypertensive emergencies, not for initial management of uncomplicated hypertension."
+                    }
+                ]
+            }
+        ]
+    }
+}

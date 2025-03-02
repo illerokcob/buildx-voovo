@@ -1,0 +1,188 @@
+{
+    "mainTopic": {
+        "title": "Infertility",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Definition, Female infertility, male infertility",
+                "quizzes": [
+                    {
+                        "question": "According to the generally accepted medical definition, infertility in a couple is typically diagnosed after how long of regular, unprotected sexual intercourse without achieving pregnancy?",
+                        "goodAnswer": "12 months",
+                        "wrongAnswer_1": "6 months",
+                        "wrongAnswer_2": "18 months",
+                        "wrongAnswer_3": "24 months",
+                        "wrongAnswer_4": "3 months"
+                    },
+                    {
+                        "question": "Primary infertility is best described as:",
+                        "goodAnswer": "The inability to conceive in a couple who has never achieved a pregnancy before.",
+                        "wrongAnswer_1": "The inability to carry a pregnancy to term after one or more successful pregnancies.",
+                        "wrongAnswer_2": "The reduced ability to conceive due to advanced maternal age.",
+                        "wrongAnswer_3": "Infertility caused exclusively by factors originating from the male partner.",
+                        "wrongAnswer_4": "Infertility that is resolved without medical intervention within six months."
+                    },
+                    {
+                        "question": "Secondary infertility is best described as:",
+                        "goodAnswer": "The inability to conceive in a couple who has previously achieved one or more pregnancies.",
+                        "wrongAnswer_1": "The inability to conceive in a couple attempting pregnancy for the first time.",
+                        "wrongAnswer_2": "Infertility resulting from genetic abnormalities passed down from parents.",
+                        "wrongAnswer_3": "Infertility that can only be treated with surgical interventions.",
+                        "wrongAnswer_4": "Infertility that is directly caused by environmental toxins."
+                    },
+                    {
+                        "question": "Which of the following factors is considered a primary cause of female infertility related to ovulatory dysfunction?",
+                        "goodAnswer": "Polycystic Ovary Syndrome (PCOS), characterized by hormonal imbalances and irregular ovulation.",
+                        "wrongAnswer_1": "Endometriosis, which primarily affects the uterine lining and pelvic structures.",
+                        "wrongAnswer_2": "Uterine fibroids, benign tumors that distort the uterine cavity.",
+                        "wrongAnswer_3": "Fallopian tube blockage due to sexually transmitted infections like Chlamydia.",
+                        "wrongAnswer_4": "Cervical stenosis, a narrowing of the cervical canal preventing sperm entry."
+                    },
+                    {
+                        "question": "Which of the following conditions is a significant contributor to male infertility by affecting sperm production?",
+                        "goodAnswer": "Varicocele, characterized by enlarged veins in the scrotum that can elevate testicular temperature.",
+                        "wrongAnswer_1": "Benign Prostatic Hyperplasia (BPH), a non-cancerous enlargement of the prostate gland.",
+                        "wrongAnswer_2": "Erectile dysfunction, the inability to achieve or maintain an erection sufficient for intercourse.",
+                        "wrongAnswer_3": "Hypospadias, a condition where the opening of the urethra is on the underside of the penis.",
+                        "wrongAnswer_4": "Phimosis, a condition where the foreskin cannot be retracted over the glans penis."
+                    }
+                ]
+            },
+            {
+                "title": "Initial assessment, female partner, male partner",
+                "quizzes": [
+                    {
+                        "question": "During the initial assessment of a couple presenting with infertility, which aspect of the female partner's medical history is of paramount importance to evaluate?",
+                        "goodAnswer": "Menstrual cycle history, including regularity, duration, and any associated symptoms like dysmenorrhea or menorrhagia.",
+                        "wrongAnswer_1": "History of childhood illnesses, such as measles or chickenpox, and their potential long-term effects.",
+                        "wrongAnswer_2": "Detailed family history of cardiovascular diseases, focusing on early onset myocardial infarction.",
+                        "wrongAnswer_3": "Occupational history, specifically exposure to heavy metals or respiratory irritants in the workplace.",
+                        "wrongAnswer_4": "Dietary habits and nutritional intake, with an emphasis on vitamin and mineral deficiencies."
+                    },
+                    {
+                        "question": "In the initial assessment of the female partner, which physical examination finding would be most suggestive of polycystic ovary syndrome (PCOS)?",
+                        "goodAnswer": "Hirsutism and acne, indicating potential hyperandrogenism associated with PCOS.",
+                        "wrongAnswer_1": "Thyroid gland enlargement, suggesting possible thyroid dysfunction unrelated to PCOS.",
+                        "wrongAnswer_2": "Presence of varicose veins in the lower extremities, indicating venous insufficiency.",
+                        "wrongAnswer_3": "Mild scoliosis observed during spinal examination, suggesting skeletal abnormalities.",
+                        "wrongAnswer_4": "Signs of carpal tunnel syndrome, such as positive Tinel's test, indicating nerve compression."
+                    },
+                    {
+                        "question": "During the initial male partner assessment for infertility, what is the most crucial component of the physical examination?",
+                        "goodAnswer": "Examination of the testes and epididymis to assess size, consistency, and presence of varicoceles.",
+                        "wrongAnswer_1": "Comprehensive neurological examination, including cranial nerve assessment and reflexes.",
+                        "wrongAnswer_2": "Detailed cardiovascular examination, including auscultation for heart murmurs and blood pressure measurement.",
+                        "wrongAnswer_3": "Abdominal examination to assess for organomegaly and tenderness in the abdomen.",
+                        "wrongAnswer_4": "Dermatological examination for skin lesions or signs of systemic diseases."
+                    },
+                    {
+                        "question": "Which of the following initial investigations is considered the cornerstone for evaluating the male partner in an infertility workup?",
+                        "goodAnswer": "Semen analysis, to assess sperm count, motility, morphology, and other semen parameters.",
+                        "wrongAnswer_1": "Serum testosterone level, to evaluate overall androgen status and libido.",
+                        "wrongAnswer_2": "Prostate-specific antigen (PSA) test, to screen for prostate cancer and related conditions.",
+                        "wrongAnswer_3": "Urine analysis, to detect urinary tract infections and other renal abnormalities.",
+                        "wrongAnswer_4": "Complete blood count (CBC), to assess general health and rule out systemic infections."
+                    },
+                    {
+                        "question": "In the initial assessment of a female patient, what is the primary purpose of obtaining a basal body temperature (BBT) chart?",
+                        "goodAnswer": "To detect ovulation by identifying the characteristic biphasic temperature shift during the menstrual cycle.",
+                        "wrongAnswer_1": "To measure the luteinizing hormone (LH) surge, which directly predicts ovulation timing.",
+                        "wrongAnswer_2": "To assess the levels of follicle-stimulating hormone (FSH) throughout the menstrual cycle.",
+                        "wrongAnswer_3": "To evaluate the thickness of the endometrial lining using temperature variations.",
+                        "wrongAnswer_4": "To diagnose potential uterine fibroids based on temperature fluctuations."
+                    }
+                ]
+            },
+            {
+                "title": "Male evaluation, female evaluation",
+                "quizzes": [
+                    {
+                        "question": "In a comprehensive male evaluation for infertility, what is the clinical significance of assessing sperm morphology using Kruger strict criteria?",
+                        "goodAnswer": "Kruger strict criteria provide a more stringent assessment of sperm shape, correlating with fertilization potential and IVF success.",
+                        "wrongAnswer_1": "Kruger strict criteria are primarily used to assess sperm motility and velocity in a semen sample.",
+                        "wrongAnswer_2": "Kruger strict criteria are utilized to measure the DNA fragmentation index in spermatozoa.",
+                        "wrongAnswer_3": "Kruger strict criteria are used to determine the presence of antisperm antibodies in semen.",
+                        "wrongAnswer_4": "Kruger strict criteria are applied to assess the pH and viscosity of the seminal fluid."
+                    },
+                    {
+                        "question": "Which hormonal assay is most indicative of ovarian reserve in a female infertility evaluation?",
+                        "goodAnswer": "Anti-M\u00fcllerian Hormone (AMH) level, which reflects the quantity of remaining ovarian follicles.",
+                        "wrongAnswer_1": "Luteinizing Hormone (LH) level measured at mid-cycle, indicating imminent ovulation.",
+                        "wrongAnswer_2": "Follicle-Stimulating Hormone (FSH) level measured during the luteal phase, assessing pituitary function.",
+                        "wrongAnswer_3": "Estradiol (E2) level measured during the follicular phase, assessing follicle maturity.",
+                        "wrongAnswer_4": "Progesterone level measured in the mid-luteal phase, confirming ovulation has occurred."
+                    },
+                    {
+                        "question": "What is the primary purpose of performing a hysterosalpingography (HSG) in the female infertility evaluation?",
+                        "goodAnswer": "To assess the patency of the fallopian tubes and identify any uterine cavity abnormalities such as polyps or fibroids.",
+                        "wrongAnswer_1": "To evaluate ovarian volume and follicle count using transvaginal ultrasound.",
+                        "wrongAnswer_2": "To measure endometrial thickness and receptivity for embryo implantation.",
+                        "wrongAnswer_3": "To visualize the ovaries and detect ovarian cysts or tumors laparoscopically.",
+                        "wrongAnswer_4": "To collect endometrial tissue for histological examination and assessment of endometrial hyperplasia."
+                    },
+                    {
+                        "question": "In male infertility evaluation, what does the term 'asthenozoospermia' specifically refer to?",
+                        "goodAnswer": "Reduced sperm motility, indicating a lower proportion of sperm exhibiting progressive movement.",
+                        "wrongAnswer_1": "Reduced sperm concentration, indicating a lower number of sperm per milliliter of semen.",
+                        "wrongAnswer_2": "Abnormal sperm morphology, indicating a higher proportion of sperm with abnormal shapes.",
+                        "wrongAnswer_3": "Absence of sperm in the ejaculate, indicating a complete lack of sperm production or obstruction.",
+                        "wrongAnswer_4": "Presence of white blood cells in semen, indicating potential infection or inflammation."
+                    },
+                    {
+                        "question": "Which of the following is a key indication for performing a diagnostic laparoscopy in the evaluation of female infertility?",
+                        "goodAnswer": "Suspected endometriosis or pelvic adhesions that are not clearly visualized by imaging techniques.",
+                        "wrongAnswer_1": "Routine screening for ovarian cancer in women with a family history of the disease.",
+                        "wrongAnswer_2": "Confirmation of ovulation based on basal body temperature charting.",
+                        "wrongAnswer_3": "Evaluation of ovarian reserve using anti-M\u00fcllerian hormone (AMH) levels.",
+                        "wrongAnswer_4": "Assessment of endometrial receptivity prior to embryo transfer in IVF."
+                    }
+                ]
+            },
+            {
+                "title": "Tubal and pelvic pathology, Ovulatory disfunctions, Unexplained infertility",
+                "quizzes": [
+                    {
+                        "question": "Hydrosalpinx, a tubal pathology contributing to female infertility, is best characterized by:",
+                        "goodAnswer": "Fluid-filled dilation of the fallopian tube, often resulting from prior pelvic infection or endometriosis.",
+                        "wrongAnswer_1": "Complete blockage of the fallopian tube at the fimbrial end due to congenital malformation.",
+                        "wrongAnswer_2": "Presence of endometrial tissue within the fallopian tube causing inflammation and obstruction.",
+                        "wrongAnswer_3": "Twisting of the fallopian tube around its pedicle, leading to vascular compromise and ischemia.",
+                        "wrongAnswer_4": "Formation of benign tumors within the fallopian tube lumen, obstructing sperm and egg transport."
+                    },
+                    {
+                        "question": "Which of the following conditions is a primary cause of tubal factor infertility due to pelvic pathology?",
+                        "goodAnswer": "Pelvic Inflammatory Disease (PID), often caused by sexually transmitted infections leading to tubal scarring and blockage.",
+                        "wrongAnswer_1": "Uterine fibroids located submucosally, distorting the uterine cavity and hindering implantation.",
+                        "wrongAnswer_2": "Ovarian cysts, particularly functional cysts, disrupting normal ovarian function and ovulation.",
+                        "wrongAnswer_3": "Adenomyosis, the presence of endometrial glands and stroma within the myometrium.",
+                        "wrongAnswer_4": "Cervical polyps, benign growths in the cervical canal that may impede sperm transport."
+                    },
+                    {
+                        "question": "In the context of ovulatory dysfunction, what is the underlying mechanism of infertility in women with hyperprolactinemia?",
+                        "goodAnswer": "Elevated prolactin levels suppress Gonadotropin-Releasing Hormone (GnRH) pulsatility, disrupting LH and FSH secretion and ovulation.",
+                        "wrongAnswer_1": "Excess prolactin directly damages ovarian follicles, preventing their maturation and ovulation.",
+                        "wrongAnswer_2": "High prolactin levels increase endometrial thickness, creating an unfavorable environment for implantation.",
+                        "wrongAnswer_3": "Prolactin directly inhibits sperm motility and capacitation in the female reproductive tract.",
+                        "wrongAnswer_4": "Elevated prolactin levels cause premature ovarian failure, leading to depletion of ovarian follicles."
+                    },
+                    {
+                        "question": "Which of the following hormonal profiles is most characteristic of hypothalamic amenorrhea, a type of ovulatory dysfunction?",
+                        "goodAnswer": "Low levels of Gonadotropin-Releasing Hormone (GnRH), Follicle-Stimulating Hormone (FSH), Luteinizing Hormone (LH), and estradiol.",
+                        "wrongAnswer_1": "Elevated levels of Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH) with low estradiol.",
+                        "wrongAnswer_2": "Normal levels of Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH) with elevated estradiol.",
+                        "wrongAnswer_3": "Elevated levels of Prolactin and normal levels of Gonadotropin-Releasing Hormone (GnRH).",
+                        "wrongAnswer_4": "Elevated levels of Testosterone and low levels of Follicle-Stimulating Hormone (FSH)."
+                    },
+                    {
+                        "question": "Unexplained infertility, diagnosed in approximately 10-15% of infertile couples, is characterized by:",
+                        "goodAnswer": "Normal findings on standard infertility evaluations in both partners, despite failure to conceive.",
+                        "wrongAnswer_1": "Presence of subtle abnormalities in sperm function detectable only by advanced sperm function tests.",
+                        "wrongAnswer_2": "Mild endometriosis not visible on standard imaging but confirmed by laparoscopy.",
+                        "wrongAnswer_3": "Subclinical ovulatory dysfunction detectable only by serial hormonal assays.",
+                        "wrongAnswer_4": "Presence of genetic mutations in either partner affecting reproductive potential."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "B Cell Differentiation",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Isotypes of B cells",
+                "quizzes": [
+                    {
+                        "question": "Which immunoglobulin isotype is typically the first antibody produced during a primary immune response and is particularly effective at activating the classical complement pathway?",
+                        "goodAnswer": "IgM, characterized by its pentameric structure, exhibits high avidity for antigens and efficiently triggers complement activation due to its multiple binding sites for C1q.",
+                        "wrongAnswer_1": "IgG, due to its dimeric structure and high affinity for Fc receptors, is the primary isotype responsible for initial complement activation and opsonization in primary responses.",
+                        "wrongAnswer_2": "IgA, known for its monomeric form and presence in mucosal secretions, is the first line of defense and the most potent activator of the complement cascade in initial encounters.",
+                        "wrongAnswer_3": "IgE, despite its monomeric structure and role in allergic reactions, is the initial antibody produced and activates complement through the alternative pathway during primary responses.",
+                        "wrongAnswer_4": "IgD, while its exact function is not fully understood, is the first isotype secreted and primarily activates the lectin pathway of complement, initiating the immune response."
+                    },
+                    {
+                        "question": "What is the primary function and characteristic feature of the IgA isotype that distinguishes it from other immunoglobulin classes?",
+                        "goodAnswer": "IgA primarily mediates mucosal immunity, existing as a dimer in secretions and a monomer in serum, and is transported across epithelial cells by the polymeric immunoglobulin receptor (pIgR).",
+                        "wrongAnswer_1": "IgA's main role is systemic immunity, circulating predominantly as a pentamer in the bloodstream, and it crosses the placenta to provide passive immunity to newborns.",
+                        "wrongAnswer_2": "IgA functions mainly in opsonization, existing as a monomer in both serum and secretions, and it activates the classical complement pathway very efficiently.",
+                        "wrongAnswer_3": "IgA is primarily involved in allergic reactions, found as a monomer bound to mast cells, and its degranulation releases histamine and other inflammatory mediators in mucosal tissues.",
+                        "wrongAnswer_4": "IgA is involved in the neutralization of toxins in the bloodstream, circulating as a dimer, and it is actively transported into tissues via Fc receptors on endothelial cells."
+                    },
+                    {
+                        "question": "Which immunoglobulin isotype is most prominently involved in mediating type I hypersensitivity reactions and defense against helminth parasites?",
+                        "goodAnswer": "IgE, primarily associated with allergic responses, binds to Fc\u03b5RI receptors on mast cells and basophils, triggering degranulation upon antigen cross-linking and is crucial in expelling helminths.",
+                        "wrongAnswer_1": "IgG, while involved in some hypersensitivity reactions, is the main isotype responsible for type I hypersensitivity by activating complement and attracting neutrophils to the site of parasitic infection.",
+                        "wrongAnswer_2": "IgM, known for its role in early immune responses, is the primary mediator of type I hypersensitivity through its pentameric structure which allows strong crosslinking of allergens on mast cells.",
+                        "wrongAnswer_3": "IgA, although present in mucosal tissues, is the main driver of type I hypersensitivity reactions in the gut by binding to mast cells in the lamina propria and inducing inflammation.",
+                        "wrongAnswer_4": "IgD, while its function is not fully defined, is the main immunoglobulin responsible for initiating type I hypersensitivity by directly activating mast cells and eosinophils during parasitic infections."
+                    },
+                    {
+                        "question": "What is the key characteristic of IgG that makes it the most versatile and abundant antibody isotype in serum, contributing to long-term humoral immunity?",
+                        "goodAnswer": "IgG is a monomer capable of crossing the placenta to provide passive immunity, opsonizing pathogens, neutralizing toxins, and activating complement through the classical pathway.",
+                        "wrongAnswer_1": "IgG is a pentamer, allowing for high avidity binding to antigens and efficient agglutination, and it is the primary antibody isotype secreted in mucosal linings for defense.",
+                        "wrongAnswer_2": "IgG is a dimer found mainly in secretions, providing mucosal immunity and preventing pathogen attachment to epithelial surfaces, and also efficiently activating the alternative complement pathway.",
+                        "wrongAnswer_3": "IgG is a monomer that primarily functions in activating mast cells and basophils in allergic reactions, and it is not involved in placental transfer or complement activation.",
+                        "wrongAnswer_4": "IgG is a unique antibody isotype that exists only as cell-surface receptor on naive B cells and does not circulate in serum or contribute to effector functions like opsonization."
+                    }
+                ]
+            },
+            {
+                "title": "Antigen-Dependent B Cell Differentiation",
+                "quizzes": [
+                    {
+                        "question": "During antigen-dependent B cell differentiation in germinal centers, what is the primary role of somatic hypermutation (SHM) and affinity maturation?",
+                        "goodAnswer": "SHM introduces point mutations in the variable regions of immunoglobulin genes, and affinity maturation is the process of selecting B cells with higher affinity BCRs through competition for antigen and T cell help.",
+                        "wrongAnswer_1": "SHM involves class switching to different Ig isotypes, and affinity maturation is the process of increasing the overall number of B cells regardless of their BCR affinity for the antigen.",
+                        "wrongAnswer_2": "SHM is responsible for V(D)J recombination to generate initial BCR diversity, and affinity maturation is the process of eliminating self-reactive B cells in the bone marrow.",
+                        "wrongAnswer_3": "SHM introduces mutations in the constant regions of immunoglobulin genes to change isotype function, and affinity maturation is the process of B cell differentiation into plasma cells and memory cells outside germinal centers.",
+                        "wrongAnswer_4": "SHM is a process to ensure tolerance to self-antigens, and affinity maturation is the selection of B cells with lower affinity BCRs to prevent autoimmunity in germinal centers."
+                    },
+                    {
+                        "question": "What is the function of class switch recombination (CSR) during antigen-dependent B cell differentiation, and which enzyme is essential for this process?",
+                        "goodAnswer": "CSR replaces the heavy chain constant region gene, changing the antibody isotype (e.g., from IgM to IgG) while preserving antigen specificity, and Activation-Induced Cytidine Deaminase (AID) is crucial for CSR.",
+                        "wrongAnswer_1": "CSR alters the variable region genes to increase antibody affinity, and Recombination Activating Genes (RAG1/2) are essential enzymes that mediate this recombination event.",
+                        "wrongAnswer_2": "CSR rearranges the light chain genes to enhance antibody diversity, and Terminal deoxynucleotidyl transferase (TdT) is the key enzyme required for light chain rearrangement.",
+                        "wrongAnswer_3": "CSR is responsible for somatic hypermutation in the variable regions, and DNA-dependent protein kinase (DNA-PK) is the enzyme that facilitates these mutations.",
+                        "wrongAnswer_4": "CSR is a process to delete self-reactive B cell clones, and Cas9 nuclease is the enzyme used to edit and eliminate B cells with autoreactive BCRs."
+                    },
+                    {
+                        "question": "What are the key differences between plasma cells and memory B cells, the two main outcomes of antigen-dependent B cell differentiation?",
+                        "goodAnswer": "Plasma cells are short-lived, terminally differentiated antibody factories that secrete large amounts of antibodies, while memory B cells are long-lived, quiescent cells that provide immunological memory and rapid response upon re-exposure to antigen.",
+                        "wrongAnswer_1": "Plasma cells are long-lived, self-renewing cells responsible for maintaining immunological memory, while memory B cells are short-lived, antibody-secreting cells that eliminate the immediate infection.",
+                        "wrongAnswer_2": "Plasma cells circulate in the blood and lymph nodes to patrol for antigens, while memory B cells reside in the bone marrow and continuously produce low levels of antibodies for baseline immunity.",
+                        "wrongAnswer_3": "Plasma cells are involved in somatic hypermutation and affinity maturation in germinal centers, while memory B cells are responsible for class switch recombination and isotype diversification.",
+                        "wrongAnswer_4": "Plasma cells express surface IgM and IgD and can be activated by T-independent antigens, while memory B cells express surface IgG, IgA or IgE and require T cell help for activation."
+                    },
+                    {
+                        "question": "Which cellular interactions within the germinal center are critical for the process of affinity maturation of B cells?",
+                        "goodAnswer": "B cells interact with Follicular Dendritic Cells (FDCs) to sample and compete for antigen, and with T follicular helper (Tfh) cells to receive survival and differentiation signals based on BCR affinity.",
+                        "wrongAnswer_1": "B cells interact with macrophages to present processed antigen in MHC class II, and with cytotoxic T cells to eliminate B cells with low affinity BCRs through apoptosis.",
+                        "wrongAnswer_2": "B cells interact with stromal cells in the bone marrow for survival signals, and with natural killer (NK) cells to eliminate B cells that are infected with intracellular pathogens.",
+                        "wrongAnswer_3": "B cells interact with dendritic cells in the T cell zone to initiate primary activation, and with regulatory T cells to suppress B cell responses and prevent autoimmunity.",
+                        "wrongAnswer_4": "B cells interact with neutrophils to phagocytose and clear antigens, and with eosinophils to mediate class switch recombination and isotype diversification in the germinal center."
+                    }
+                ]
+            },
+            {
+                "title": "B cell diversity",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism that generates the vast diversity of B cell receptors (BCRs) before encountering an antigen?",
+                        "goodAnswer": "V(D)J recombination, a somatic recombination process that randomly assembles variable (V), diversity (D), and joining (J) gene segments in heavy chains and V and J segments in light chains, creating diverse antigen-binding sites.",
+                        "wrongAnswer_1": "Somatic hypermutation, a process of introducing point mutations in the variable regions of immunoglobulin genes after antigen encounter to increase affinity, is the major mechanism of BCR diversity generation.",
+                        "wrongAnswer_2": "Class switch recombination, which changes the constant region of the heavy chain to produce different isotypes with the same antigen specificity, is the primary source of BCR diversity.",
+                        "wrongAnswer_3": "Allelic exclusion, ensuring that each B cell expresses only one heavy and one light chain allele, is the primary mechanism for generating BCR diversity by selecting specific alleles.",
+                        "wrongAnswer_4": "Transcriptional regulation, where different combinations of promoters and enhancers are used to express various immunoglobulin genes, is the main mechanism for BCR diversity."
+                    },
+                    {
+                        "question": "How does junctional diversity contribute to the overall diversity of B cell receptors during V(D)J recombination?",
+                        "goodAnswer": "Junctional diversity arises from the addition or deletion of nucleotides at the junctions between V, D, and J gene segments by Terminal deoxynucleotidyl transferase (TdT) and exonucleases, creating frameshifts and novel codons in the CDR3 region.",
+                        "wrongAnswer_1": "Junctional diversity is generated by the random selection of V, D, and J gene segments during recombination, ensuring that each B cell clone expresses a unique combination of gene segments.",
+                        "wrongAnswer_2": "Junctional diversity results from somatic hypermutation in the complementarity-determining regions (CDRs) of the variable regions, leading to changes in amino acid sequences within the antigen-binding site.",
+                        "wrongAnswer_3": "Junctional diversity is due to the use of different constant region genes in heavy chains, allowing for the expression of different isotypes (IgM, IgD, IgG, IgA, IgE) with varying effector functions.",
+                        "wrongAnswer_4": "Junctional diversity is a consequence of allelic exclusion, where only one allele of each heavy and light chain locus is expressed, ensuring that each B cell has a unique antigen specificity."
+                    },
+                    {
+                        "question": "What is the role of RAG1 and RAG2 proteins in generating B cell receptor diversity through V(D)J recombination?",
+                        "goodAnswer": "RAG1 and RAG2 are recombinase enzymes that initiate V(D)J recombination by recognizing recombination signal sequences (RSS) flanking V, D, and J gene segments and catalyzing DNA cleavage and hairpin formation.",
+                        "wrongAnswer_1": "RAG1 and RAG2 are involved in somatic hypermutation by introducing point mutations in the variable regions of immunoglobulin genes after B cell activation in germinal centers.",
+                        "wrongAnswer_2": "RAG1 and RAG2 mediate class switch recombination by facilitating the deletion of intervening constant region genes and joining of downstream constant region genes to the rearranged VDJ region.",
+                        "wrongAnswer_3": "RAG1 and RAG2 are chaperone proteins that assist in the proper folding and assembly of immunoglobulin heavy and light chains in the endoplasmic reticulum of B cells.",
+                        "wrongAnswer_4": "RAG1 and RAG2 are transcription factors that regulate the expression of immunoglobulin genes and control the timing and specificity of V(D)J recombination during B cell development."
+                    },
+                    {
+                        "question": "How does combinatorial diversity, in conjunction with junctional diversity, contribute to the overall repertoire of B cell receptors?",
+                        "goodAnswer": "Combinatorial diversity arises from the random combination of different V, D, and J gene segments, while junctional diversity is generated by nucleotide addition and deletion at the junctions, together creating a vast repertoire of BCR specificities.",
+                        "wrongAnswer_1": "Combinatorial diversity is generated by somatic hypermutation after antigen encounter, while junctional diversity is the result of class switch recombination during B cell differentiation.",
+                        "wrongAnswer_2": "Combinatorial diversity refers to the pairing of different heavy and light chain isotypes, while junctional diversity is due to the expression of different constant region genes.",
+                        "wrongAnswer_3": "Combinatorial diversity is the process of affinity maturation in germinal centers, while junctional diversity is the mechanism of allelic exclusion in developing B cells.",
+                        "wrongAnswer_4": "Combinatorial diversity is achieved through T-independent B cell activation, while junctional diversity is specific to T-dependent B cell responses in germinal centers."
+                    }
+                ]
+            },
+            {
+                "title": "Diseases associated with B-cells",
+                "quizzes": [
+                    {
+                        "question": "Which autoimmune disease is characterized by the production of autoantibodies targeting DNA, histones, and other nuclear antigens, often associated with B cell hyperactivity and impaired tolerance?",
+                        "goodAnswer": "Systemic Lupus Erythematosus (SLE), a chronic autoimmune disorder, is marked by the production of various autoantibodies, immune complex deposition, and inflammation affecting multiple organs due to B cell dysregulation.",
+                        "wrongAnswer_1": "Rheumatoid Arthritis (RA), primarily characterized by inflammation of the joints, is mainly driven by T cell-mediated autoimmunity and cytokine production, with B cells playing a minor role in disease pathogenesis.",
+                        "wrongAnswer_2": "Type 1 Diabetes Mellitus (T1DM), an autoimmune disease targeting pancreatic beta cells, is predominantly mediated by cytotoxic T cells, with B cells contributing to disease progression through autoantibody production against insulin.",
+                        "wrongAnswer_3": "Multiple Sclerosis (MS), a demyelinating disease of the central nervous system, is largely attributed to T cell responses against myelin antigens, with B cells mainly involved in the formation of oligoclonal bands in cerebrospinal fluid.",
+                        "wrongAnswer_4": "Crohn's Disease, an inflammatory bowel disease, is primarily caused by dysregulated innate immune responses in the gut mucosa, with B cells playing a protective role in maintaining intestinal homeostasis."
+                    },
+                    {
+                        "question": "What is the hallmark of B cell lymphomas, a type of hematological malignancy, in terms of B cell development and function?",
+                        "goodAnswer": "B cell lymphomas are characterized by the uncontrolled proliferation of clonal B cells at various stages of differentiation, often resulting from genetic mutations that disrupt normal B cell development and apoptosis.",
+                        "wrongAnswer_1": "B cell lymphomas are defined by a deficiency in mature B cells, leading to impaired humoral immunity and increased susceptibility to infections, due to defects in B cell maturation in the bone marrow.",
+                        "wrongAnswer_2": "B cell lymphomas are characterized by the overproduction of polyclonal antibodies by plasma cells, leading to hyperviscosity syndrome and deposition of antibodies in tissues, due to chronic B cell stimulation.",
+                        "wrongAnswer_3": "B cell lymphomas are caused by the suppression of B cell function by regulatory T cells, resulting in reduced antibody production and impaired clearance of pathogens, due to immune dysregulation.",
+                        "wrongAnswer_4": "B cell lymphomas are defined by the differentiation of B cells into myeloid lineage cells, leading to myeloproliferative disorders and bone marrow failure, due to lineage infidelity during hematopoiesis."
+                    },
+                    {
+                        "question": "In the context of primary immunodeficiencies affecting B cells, what is the typical consequence of X-linked agammaglobulinemia (XLA)?",
+                        "goodAnswer": "XLA is caused by mutations in the Bruton's tyrosine kinase (BTK) gene, leading to a block in B cell development at the pre-B cell stage, resulting in a near absence of mature B cells and immunoglobulins.",
+                        "wrongAnswer_1": "XLA results from defects in class switch recombination, leading to the production of only IgM antibodies and a deficiency in IgG, IgA, and IgE isotypes, causing susceptibility to encapsulated bacteria.",
+                        "wrongAnswer_2": "XLA is characterized by impaired somatic hypermutation in germinal centers, resulting in low affinity antibodies and increased susceptibility to viral infections, due to defects in AID enzyme.",
+                        "wrongAnswer_3": "XLA is caused by defects in RAG1/2 genes, leading to a complete absence of B and T cells, resulting in severe combined immunodeficiency (SCID) and profound vulnerability to all types of infections.",
+                        "wrongAnswer_4": "XLA is due to mutations in the complement pathway genes, leading to impaired complement activation and opsonization, causing increased susceptibility to pyogenic bacterial infections but normal B cell numbers."
+                    },
+                    {
+                        "question": "What is the pathogenic mechanism of B cells in rheumatoid arthritis (RA), particularly concerning the production of rheumatoid factor (RF) and citrullinated peptide antibodies (ACPAs)?",
+                        "goodAnswer": "In RA, B cells produce RF (antibodies against the Fc portion of IgG) and ACPAs (antibodies against citrullinated proteins), forming immune complexes that deposit in joints, activate complement, and drive chronic inflammation and joint destruction.",
+                        "wrongAnswer_1": "In RA, B cells directly attack and destroy chondrocytes in the joints, leading to cartilage degradation and bone erosion through cytotoxic mechanisms independent of antibody production.",
+                        "wrongAnswer_2": "In RA, B cells primarily function as antigen-presenting cells to activate autoreactive T cells, which then mediate joint inflammation and damage without significant contribution from B cell-derived antibodies.",
+                        "wrongAnswer_3": "In RA, B cells produce antibodies that block the function of TNF-alpha and IL-1, leading to paradoxical inflammation and joint damage due to dysregulation of cytokine networks.",
+                        "wrongAnswer_4": "In RA, B cells secrete cytokines that directly stimulate osteoclast activity, resulting in bone resorption and joint destruction, independent of immune complex formation or antibody specificity."
+                    }
+                ]
+            }
+        ]
+    }
+}

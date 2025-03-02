@@ -1,0 +1,222 @@
+{
+    "mainTopic": {
+        "title": "Transplantation",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "ABO Matching",
+                "quizzes": [
+                    {
+                        "question": "In the context of solid organ transplantation, what is the primary immunological risk associated with ABO incompatibility?",
+                        "goodAnswer": "Hyperacute rejection mediated by pre-existing recipient antibodies against donor ABO antigens, leading to immediate graft destruction primarily due to vascular endothelial damage.",
+                        "wrongAnswer_1": "Acute cellular rejection occurring within the first few weeks post-transplant, primarily involving T-cell infiltration and subsequent graft dysfunction irrespective of ABO status.",
+                        "wrongAnswer_2": "Chronic antibody-mediated rejection developing months to years post-transplant, characterized by gradual graft fibrosis and vascular lesions not directly related to ABO antigens.",
+                        "wrongAnswer_3": "Delayed graft function due to ischemic injury during organ procurement and preservation, exacerbated by ABO incompatibility causing secondary antibody production.",
+                        "wrongAnswer_4": "Graft-versus-host disease (GVHD) in solid organ transplantation, triggered by donor lymphocytes reacting against recipient tissues, especially in ABO mismatched cases."
+                    },
+                    {
+                        "question": "Which of the following ABO blood group pairings is generally considered a 'compatible minor mismatch' in kidney transplantation, often manageable with standard immunosuppression?",
+                        "goodAnswer": "A recipient with blood group O receiving a kidney from a blood group A donor, where the kidney expresses relatively low levels of ABO antigens compared to highly vascularized organs.",
+                        "wrongAnswer_1": "A recipient with blood group A receiving a kidney from a blood group O donor, representing a major mismatch and carrying a high risk of hyperacute rejection in all organ types.",
+                        "wrongAnswer_2": "A recipient with blood group B receiving a kidney from a blood group AB donor, which is considered a fully compatible match due to the absence of recipient anti-A antibodies.",
+                        "wrongAnswer_3": "A recipient with blood group AB receiving a kidney from a blood group O donor, constituting a major mismatch as AB recipients possess both anti-A and anti-B antibodies.",
+                        "wrongAnswer_4": "A recipient with blood group O receiving a kidney from a blood group B donor, where the mismatch is considered major due to high expression of B antigens in renal parenchyma."
+                    },
+                    {
+                        "question": "In ABO incompatible transplantation, what is the primary mechanism by which pre-transplant antibody depletion or desensitization protocols aim to reduce the risk of hyperacute rejection?",
+                        "goodAnswer": "Reducing the titer of pre-existing recipient antibodies (e.g., anti-A or anti-B) to levels below a critical threshold, preventing antibody-mediated complement activation and endothelial injury in the graft vasculature.",
+                        "wrongAnswer_1": "Inducing T-cell tolerance to donor ABO antigens through thymic education, thereby preventing cellular rejection but having minimal impact on pre-existing antibody responses.",
+                        "wrongAnswer_2": "Blocking the interaction between recipient antibodies and donor ABO antigens by administering competitive inhibitors that neutralize antibody binding sites on endothelial cells.",
+                        "wrongAnswer_3": "Enhancing the activity of regulatory T cells to suppress the inflammatory cascade initiated by ABO antibody-antigen complexes, mitigating downstream effector mechanisms.",
+                        "wrongAnswer_4": "Promoting rapid clearance of donor ABO antigens from the transplanted organ via enhanced phagocytic activity of recipient macrophages prior to vascular reperfusion."
+                    }
+                ]
+            },
+            {
+                "title": "Histocompatibility",
+                "quizzes": [
+                    {
+                        "question": "What is the primary role of Human Leukocyte Antigens (HLA) in the context of organ transplantation and allorecognition?",
+                        "goodAnswer": "HLA molecules, particularly MHC class I and II, present processed peptides to T lymphocytes, initiating alloimmune responses when donor and recipient HLA are mismatched, leading to graft rejection.",
+                        "wrongAnswer_1": "HLA molecules function as co-stimulatory signals for B cell activation, directly inducing antibody production against donor antigens independently of T cell involvement in allograft rejection.",
+                        "wrongAnswer_2": "HLA molecules primarily regulate natural killer (NK) cell activity in transplantation, where mismatched HLA inhibits NK cell cytotoxicity and promotes graft acceptance, preventing rejection.",
+                        "wrongAnswer_3": "HLA molecules serve as receptors for immunosuppressive drugs, mediating their therapeutic effects by directly binding to these molecules on immune cells and modulating their function.",
+                        "wrongAnswer_4": "HLA molecules are exclusively expressed on hematopoietic cells and do not play a significant role in solid organ transplantation, where non-HLA antigens are the primary targets of rejection."
+                    },
+                    {
+                        "question": "Which HLA loci are considered most critical for matching in solid organ transplantation due to their high degree of polymorphism and significant impact on graft survival?",
+                        "goodAnswer": "HLA-A, HLA-B, and HLA-DR, as these loci encode for highly polymorphic MHC class I and II molecules that are major targets for both cellular and humoral alloimmune responses.",
+                        "wrongAnswer_1": "HLA-C, HLA-E, and HLA-G, due to their role in NK cell inhibition and maternal-fetal tolerance, which are paramount in preventing chronic allograft rejection.",
+                        "wrongAnswer_2": "HLA-DP and HLA-DQ, because of their exclusive expression on antigen-presenting cells and their potent ability to stimulate direct allorecognition pathways in transplantation.",
+                        "wrongAnswer_3": "HLA-DM and HLA-DO, as they are intracellular MHC class II molecules involved in peptide loading and are the primary determinants of antigen presentation efficiency in grafts.",
+                        "wrongAnswer_4": "HLA-F and HLA-H, owing to their function as soluble HLA molecules that directly activate complement pathways and induce hyperacute rejection upon transplantation mismatch."
+                    },
+                    {
+                        "question": "What is the concept of 'acceptable mismatch' in HLA matching for transplantation, and under what circumstances might it be considered?",
+                        "goodAnswer": "Allowing for mismatches at certain HLA loci (e.g., HLA-DQ) or alleles with lower immunogenicity, particularly in deceased donor transplants when perfectly matched organs are unavailable and prolonged cold ischemia time is a concern.",
+                        "wrongAnswer_1": "Permitting mismatches at HLA-A, -B, and -DR loci as long as the recipient has pre-existing antibodies against these mismatched antigens, thereby inducing tolerance through antibody-mediated depletion.",
+                        "wrongAnswer_2": "Accepting mismatches only in living donor transplantation to leverage donor-recipient specific immunosuppression protocols that are not feasible in deceased donor settings.",
+                        "wrongAnswer_3": "Considering mismatches acceptable only for HLA class I loci (HLA-A, -B, -C), while strict matching is always required for HLA class II loci (HLA-DR, -DQ, -DP) to prevent chronic rejection.",
+                        "wrongAnswer_4": "Defining acceptable mismatch as complete HLA mismatch between donor and recipient to induce a state of mixed chimerism, promoting long-term graft acceptance without chronic immunosuppression."
+                    },
+                    {
+                        "question": "How does the indirect pathway of allorecognition contribute to chronic rejection in transplantation, in contrast to the direct pathway's role in acute rejection?",
+                        "goodAnswer": "The indirect pathway involves recipient antigen-presenting cells processing and presenting donor HLA peptides as foreign antigens, leading to a chronic, less intense but persistent T-cell response and gradual graft damage, distinct from the direct pathway's acute, potent response to intact donor HLA.",
+                        "wrongAnswer_1": "The indirect pathway is responsible for hyperacute rejection, where pre-existing recipient antibodies against donor HLA antigens rapidly activate complement and cause immediate graft thrombosis, unlike the direct pathway which mediates delayed cellular rejection.",
+                        "wrongAnswer_2": "The indirect pathway primarily activates B cells to produce donor-specific antibodies, leading to antibody-mediated rejection (AMR) early post-transplant, whereas the direct pathway causes chronic T-cell mediated rejection.",
+                        "wrongAnswer_3": "The indirect pathway induces graft-versus-host disease (GVHD) in solid organ transplantation by recipient T cells attacking donor HLA, while the direct pathway causes rejection by donor T cells attacking recipient HLA.",
+                        "wrongAnswer_4": "The indirect pathway is not involved in allograft rejection but rather in graft tolerance, where recipient T cells recognize processed donor HLA peptides as self, promoting long-term graft survival, unlike the direct pathway which triggers rejection."
+                    }
+                ]
+            },
+            {
+                "title": "Immunosuppression",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of calcineurin inhibitors (CNIs) like cyclosporine and tacrolimus in preventing transplant rejection?",
+                        "goodAnswer": "CNIs inhibit calcineurin phosphatase, preventing the dephosphorylation and nuclear translocation of NFAT, thereby blocking IL-2 gene transcription and T-cell activation, crucial for both cellular and antibody-mediated rejection prevention.",
+                        "wrongAnswer_1": "CNIs directly inhibit mTOR kinase, suppressing T-cell proliferation and cytokine production by interfering with downstream signaling pathways essential for T-cell activation and clonal expansion.",
+                        "wrongAnswer_2": "CNIs deplete T cells through antibody-dependent cellular cytotoxicity, selectively eliminating activated T lymphocytes responsible for allorecognition and graft destruction in the early post-transplant period.",
+                        "wrongAnswer_3": "CNIs induce T regulatory cells (Tregs), enhancing their suppressive function and promoting immune tolerance to the allograft by modulating the balance between effector and regulatory T-cell responses.",
+                        "wrongAnswer_4": "CNIs block co-stimulatory signals between antigen-presenting cells and T cells by interfering with the CD28-B7 interaction, preventing T-cell activation but not directly affecting IL-2 production."
+                    },
+                    {
+                        "question": "How do mTOR inhibitors, such as sirolimus and everolimus, differ from calcineurin inhibitors in their mechanism of immunosuppression and their typical use in transplantation?",
+                        "goodAnswer": "mTOR inhibitors primarily block the mammalian target of rapamycin (mTOR), inhibiting cell cycle progression and proliferation, particularly of T cells and B cells, often used in steroid-sparing regimens or to manage CNI-related nephrotoxicity, whereas CNIs primarily inhibit T-cell activation.",
+                        "wrongAnswer_1": "mTOR inhibitors, like CNIs, directly inhibit calcineurin phosphatase activity, but they selectively target different isoforms of calcineurin, leading to a distinct profile of immunosuppressive effects and reduced nephrotoxicity compared to CNIs.",
+                        "wrongAnswer_2": "mTOR inhibitors induce apoptosis of activated T cells and B cells through the intrinsic apoptotic pathway, providing potent immunosuppression especially in acute rejection episodes, unlike CNIs which mainly prevent T-cell activation.",
+                        "wrongAnswer_3": "mTOR inhibitors enhance the expression of PD-1 and CTLA-4 on T cells, promoting T-cell exhaustion and anergy, which leads to long-term graft acceptance and reduced risk of chronic rejection, while CNIs mainly target early T-cell activation events.",
+                        "wrongAnswer_4": "mTOR inhibitors function as co-stimulatory blockers, preventing the interaction between CD40 and CD40L on T cells and antigen-presenting cells, thus inhibiting T-cell activation and cytokine production similarly to CNIs, but with different side effects."
+                    },
+                    {
+                        "question": "What is the rationale behind using antibody induction therapy, such as with anti-thymocyte globulin (ATG) or basiliximab, in the early post-transplant period?",
+                        "goodAnswer": "Induction therapy aims to provide intense immunosuppression in the immediate post-transplant period to prevent acute rejection by depleting or inactivating recipient T cells, allowing maintenance immunosuppression to be initiated at lower doses, particularly in high-risk recipients.",
+                        "wrongAnswer_1": "Induction therapy is primarily used to treat established acute rejection episodes by rapidly reversing ongoing immune responses and restoring graft function, rather than for prophylactic prevention in the early post-transplant phase.",
+                        "wrongAnswer_2": "Induction therapy targets B cells to prevent antibody-mediated rejection (AMR) by depleting pre-existing donor-specific antibodies (DSAs) and inhibiting de novo DSA production in sensitized recipients.",
+                        "wrongAnswer_3": "Induction therapy enhances the function of regulatory T cells (Tregs) to promote long-term graft tolerance and minimize the need for chronic maintenance immunosuppression, particularly in low-immunologic risk recipients.",
+                        "wrongAnswer_4": "Induction therapy is used to specifically block the indirect pathway of allorecognition by preventing antigen processing and presentation of donor HLA peptides, thus preventing chronic rejection but not acute rejection."
+                    },
+                    {
+                        "question": "How do corticosteroids, such as prednisone, exert their immunosuppressive effects in transplantation, and what are their typical applications and limitations?",
+                        "goodAnswer": "Corticosteroids have broad immunosuppressive effects, including reducing cytokine production, inhibiting leukocyte migration and activation, and inducing lymphocyte apoptosis; used for induction, maintenance, and rejection treatment, but limited by significant long-term side effects.",
+                        "wrongAnswer_1": "Corticosteroids selectively inhibit calcineurin phosphatase activity, similar to CNIs, but with a more rapid onset of action, making them ideal for acute rejection rescue therapy but not for long-term maintenance immunosuppression.",
+                        "wrongAnswer_2": "Corticosteroids primarily target B cells to suppress antibody production and are therefore mainly used in the treatment of antibody-mediated rejection (AMR) and desensitization protocols, not for cellular rejection.",
+                        "wrongAnswer_3": "Corticosteroids enhance the function of regulatory T cells (Tregs) and promote immune tolerance to the allograft, making them suitable for long-term monotherapy but less effective in treating acute rejection episodes.",
+                        "wrongAnswer_4": "Corticosteroids block co-stimulatory signals between antigen-presenting cells and T cells by interfering with the CD28-B7 interaction, providing targeted T-cell immunosuppression with minimal systemic side effects, unlike CNIs and mTOR inhibitors."
+                    }
+                ]
+            },
+            {
+                "title": "Bone Marrow Transplantation",
+                "quizzes": [
+                    {
+                        "question": "What is the primary goal of bone marrow transplantation (BMT) or hematopoietic stem cell transplantation (HSCT) in the treatment of hematologic malignancies and other disorders?",
+                        "goodAnswer": "To replace a diseased or dysfunctional hematopoietic system with healthy hematopoietic stem cells (HSCs) from a donor or the patient themselves (autologous), restoring normal blood cell production and immune function.",
+                        "wrongAnswer_1": "To directly target and destroy malignant cells in the bone marrow and peripheral blood using high-dose chemotherapy and radiation, without the need for HSC engraftment or immune reconstitution.",
+                        "wrongAnswer_2": "To induce graft-versus-host disease (GVHD) in patients with hematologic malignancies, leveraging the donor immune cells to eliminate residual cancer cells through a graft-versus-tumor effect.",
+                        "wrongAnswer_3": "To stimulate endogenous bone marrow regeneration and repair damaged hematopoietic tissues using growth factors and cytokines, without the need for HSC infusion or donor cell engraftment.",
+                        "wrongAnswer_4": "To provide temporary immune support to patients with severe infections or immunodeficiencies by infusing mature immune cells from a healthy donor, without aiming for long-term hematopoietic reconstitution."
+                    },
+                    {
+                        "question": "What is the key difference between autologous and allogeneic bone marrow transplantation or hematopoietic stem cell transplantation?",
+                        "goodAnswer": "Autologous HSCT uses the patient's own HSCs collected and reinfused after high-dose therapy, primarily for non-malignant conditions or to rescue from chemotherapy toxicity; allogeneic HSCT uses donor HSCs, aiming for graft-versus-tumor effect and immune reconstitution but with GVHD risk.",
+                        "wrongAnswer_1": "Autologous HSCT is exclusively used for treating graft-versus-host disease (GVHD) in allogeneic transplant recipients, while allogeneic HSCT is the standard approach for all hematologic malignancies and bone marrow failure syndromes.",
+                        "wrongAnswer_2": "Autologous HSCT involves transplantation of mature bone marrow cells, whereas allogeneic HSCT utilizes purified hematopoietic stem cells isolated from peripheral blood or umbilical cord blood, resulting in different engraftment kinetics.",
+                        "wrongAnswer_3": "Autologous HSCT requires complete HLA matching between donor and recipient to prevent rejection, while allogeneic HSCT can tolerate HLA mismatches due to the immunosuppressive regimen used to prevent graft rejection.",
+                        "wrongAnswer_4": "Autologous HSCT is performed only in pediatric patients, while allogeneic HSCT is reserved for adult patients with advanced hematologic malignancies and refractory bone marrow failure."
+                    },
+                    {
+                        "question": "What are the major sources of hematopoietic stem cells (HSCs) used for transplantation, and what are their relative advantages and disadvantages?",
+                        "goodAnswer": "Bone marrow, peripheral blood stem cells (PBSCs), and umbilical cord blood (UCB) are major sources; bone marrow requires surgical harvest, PBSCs are collected via apheresis after mobilization, UCB is readily available but has lower cell dose and slower engraftment.",
+                        "wrongAnswer_1": "Liver, spleen, and thymus are the primary sources of HSCs for transplantation; liver HSCs provide rapid engraftment, spleen HSCs offer superior graft-versus-tumor effect, thymus HSCs are ideal for pediatric transplants due to higher immune tolerance.",
+                        "wrongAnswer_2": "Lymph nodes, tonsils, and adenoids are rich sources of HSCs used for transplantation in immunocompromised patients; lymph node HSCs enhance immune reconstitution, tonsillar HSCs reduce GVHD risk, adenoidal HSCs promote long-term graft survival.",
+                        "wrongAnswer_3": "Skin, muscle, and adipose tissue are emerging sources of HSCs for transplantation; skin HSCs are easily accessible, muscle HSCs have high proliferative capacity, adipose tissue HSCs are abundant and readily expandable in vitro.",
+                        "wrongAnswer_4": "Brain, kidney, and lung tissues contain significant numbers of HSCs that can be harvested for transplantation; brain HSCs offer neuroprotective benefits, kidney HSCs improve renal function, lung HSCs enhance respiratory recovery post-transplant."
+                    },
+                    {
+                        "question": "What is graft-versus-host disease (GVHD) in the context of allogeneic hematopoietic stem cell transplantation, and what are its primary target organs and clinical manifestations?",
+                        "goodAnswer": "GVHD is an immune complication where donor T cells recognize recipient tissues as foreign and mount an immune attack, primarily targeting skin, liver, and gastrointestinal tract, manifesting as rash, jaundice, diarrhea, and other organ dysfunction.",
+                        "wrongAnswer_1": "GVHD is a form of graft rejection where recipient immune cells attack donor hematopoietic stem cells, preventing engraftment and leading to bone marrow failure, primarily affecting the bone marrow and peripheral blood cell counts.",
+                        "wrongAnswer_2": "GVHD is an infection caused by opportunistic pathogens in immunocompromised transplant recipients, mimicking symptoms of organ rejection and primarily affecting the lungs, kidneys, and central nervous system.",
+                        "wrongAnswer_3": "GVHD is a metabolic disorder resulting from bone marrow ablation and chemotherapy conditioning, leading to electrolyte imbalances and organ dysfunction, primarily affecting the heart, pancreas, and endocrine glands.",
+                        "wrongAnswer_4": "GVHD is an autoimmune disease induced by transplantation, where recipient autoantibodies react against donor hematopoietic cells and tissues, primarily targeting joints, muscles, and connective tissues, causing inflammation and pain."
+                    }
+                ]
+            },
+            {
+                "title": "Hematopoietic Stem Cell Transplantation",
+                "quizzes": [
+                    {
+                        "question": "What are the key steps involved in the process of allogeneic hematopoietic stem cell transplantation (allo-HSCT), from donor selection to post-transplant follow-up?",
+                        "goodAnswer": "Donor selection -> conditioning regimen -> HSC infusion -> engraftment monitoring -> GVHD prophylaxis and management -> infection prevention -> long-term follow-up for relapse and late complications, representing a complex multi-stage process.",
+                        "wrongAnswer_1": "Patient diagnosis -> chemotherapy induction -> remission consolidation -> HSC mobilization -> peripheral blood stem cell collection -> cryopreservation -> HSC reinfusion -> post-transplant recovery and supportive care, outlining an autologous HSCT procedure.",
+                        "wrongAnswer_2": "HLA typing -> crossmatching -> immunosuppression induction -> organ procurement -> transplantation surgery -> acute rejection monitoring -> chronic rejection surveillance -> lifelong immunosuppressive therapy, describing solid organ transplantation process.",
+                        "wrongAnswer_3": "Genetic screening -> gene editing -> in vitro HSC expansion -> pre-transplant conditioning -> gene-corrected HSC infusion -> gene expression monitoring -> long-term gene therapy efficacy and safety assessment, depicting gene therapy for hematologic disorders.",
+                        "wrongAnswer_4": "Disease staging -> radiation therapy -> surgical resection -> chemotherapy consolidation -> bone marrow aspiration -> cytogenetic analysis -> minimal residual disease monitoring -> palliative care and end-of-life support, illustrating cancer treatment pathway without HSCT."
+                    },
+                    {
+                        "question": "What is the purpose of the 'conditioning regimen' in hematopoietic stem cell transplantation, and what are the two main types of conditioning?",
+                        "goodAnswer": "Conditioning aims to eradicate recipient hematopoietic cells, create space for donor HSC engraftment, and induce immunosuppression to prevent graft rejection; myeloablative conditioning uses high-dose chemotherapy/radiation, reduced-intensity conditioning uses lower doses, tailored to patient risk and disease.",
+                        "wrongAnswer_1": "Conditioning is used to stimulate endogenous bone marrow regeneration and enhance HSC proliferation in situ, promoting rapid hematopoietic recovery without the need for donor HSC infusion or immunosuppression.",
+                        "wrongAnswer_2": "Conditioning targets and eliminates malignant cells in the bone marrow and extramedullary sites, achieving disease remission before HSC transplantation, and is primarily used in autologous HSCT for cancer treatment.",
+                        "wrongAnswer_3": "Conditioning is designed to induce graft-versus-host disease (GVHD) in allogeneic HSCT recipients, enhancing the graft-versus-tumor effect and eliminating residual cancer cells, while minimizing the risk of graft rejection.",
+                        "wrongAnswer_4": "Conditioning is exclusively used in umbilical cord blood transplantation (UCBT) to overcome the low cell dose in UCB grafts and promote more efficient engraftment, regardless of recipient age or disease status."
+                    },
+                    {
+                        "question": "How is donor selection performed for allogeneic hematopoietic stem cell transplantation, and what factors are considered in matching donors and recipients?",
+                        "goodAnswer": "HLA matching is crucial, prioritizing HLA-identical siblings, matched unrelated donors (MUDs), or haploidentical family members; ABO compatibility, CMV status, donor age, and health are also considered to optimize graft outcome and minimize complications.",
+                        "wrongAnswer_1": "ABO blood group matching is the primary factor in donor selection for HSCT, with HLA matching being secondary and less critical for successful engraftment and GVHD prevention in allogeneic transplantation.",
+                        "wrongAnswer_2": "Recipient age and disease stage are the most important factors in donor selection, with younger donors and patients in early disease stages having better outcomes regardless of HLA matching or donor source.",
+                        "wrongAnswer_3": "Geographic proximity and logistical feasibility are the main determinants of donor selection for HSCT, with local or regional donors preferred to minimize transportation time and costs, irrespective of HLA compatibility or donor characteristics.",
+                        "wrongAnswer_4": "Donor gender and ethnicity are the primary criteria for donor selection, with gender-matched donors and ethnically similar donors having superior engraftment rates and lower GVHD incidence in allogeneic HSCT."
+                    },
+                    {
+                        "question": "What are the different phases of engraftment following hematopoietic stem cell transplantation, and what are the key milestones and potential complications in each phase?",
+                        "goodAnswer": "Neutrophil engraftment (ANC > 500), platelet engraftment (plt > 20K), and immune reconstitution are phases; neutropenia and infection risk in early phase, bleeding risk in platelet recovery phase, opportunistic infections and GVHD risk during immune reconstitution are complications.",
+                        "wrongAnswer_1": "Pre-engraftment phase (0-7 days), early engraftment phase (7-21 days), and late engraftment phase (>21 days) are phases; hyperacute rejection in pre-engraftment, acute GVHD in early engraftment, chronic GVHD in late engraftment are complications.",
+                        "wrongAnswer_2": "Stem cell mobilization phase, collection phase, cryopreservation phase, and infusion phase are phases; mobilization failure, collection inadequacy, cryopreservation damage, infusion reactions are complications in each phase respectively.",
+                        "wrongAnswer_3": "Induction phase, consolidation phase, maintenance phase, and relapse phase are phases; induction failure, consolidation toxicity, maintenance non-compliance, relapse of underlying disease are complications unrelated to engraftment.",
+                        "wrongAnswer_4": "Pre-conditioning phase, conditioning phase, transplantation phase, and post-transplant phase are phases; conditioning regimen toxicity, transplant-related mortality, post-transplant lymphoproliferative disorder, and secondary malignancies are complications in each phase."
+                    }
+                ]
+            },
+            {
+                "title": "Transplant Complications",
+                "quizzes": [
+                    {
+                        "question": "What are the major categories of complications following solid organ transplantation, and can you provide examples for each category?",
+                        "goodAnswer": "Rejection (acute cellular, antibody-mediated, chronic), infection (bacterial, viral, fungal, opportunistic), drug toxicities (nephrotoxicity, neurotoxicity, metabolic), malignancy (PTLD, skin cancer), cardiovascular disease are major categories.",
+                        "wrongAnswer_1": "Surgical complications (bleeding, thrombosis, anastomotic leak), anesthetic complications (respiratory depression, cardiac arrest), pre-transplant complications (donor organ failure, recipient co-morbidities), and psychological complications (anxiety, depression) are primary categories.",
+                        "wrongAnswer_2": "Technical complications (graft ischemia, vascular thrombosis, ureteric obstruction), immunological complications (hyperacute rejection, delayed graft function), metabolic complications (diabetes, hyperlipidemia), and nutritional complications (malnutrition, obesity) are key categories.",
+                        "wrongAnswer_3": "Early complications (within 1 month post-transplant), intermediate complications (1-6 months), late complications (>6 months), and very late complications (>5 years) are time-based categories; acute rejection, CMV infection, chronic rejection, malignancy are examples.",
+                        "wrongAnswer_4": "Graft-related complications (primary non-function, delayed graft function, graft thrombosis), recipient-related complications (pre-existing conditions, post-transplant infections), donor-related complications (disease transmission, organ quality), and medication-related complications (side effects, interactions) are source-based categories."
+                    },
+                    {
+                        "question": "What is antibody-mediated rejection (AMR) in solid organ transplantation, and how does it differ from acute cellular rejection in terms of pathophysiology and management?",
+                        "goodAnswer": "AMR is caused by donor-specific antibodies (DSAs) targeting graft endothelium, leading to complement activation and microvascular injury, requiring antibody-depleting therapies (plasmapheresis, IVIG) and B-cell suppression, unlike cellular rejection mediated by T cells and treated with T-cell depleting agents.",
+                        "wrongAnswer_1": "AMR is a delayed form of cellular rejection occurring months to years post-transplant, characterized by chronic inflammation and fibrosis, managed by intensifying maintenance immunosuppression with mTOR inhibitors and corticosteroids, unlike acute cellular rejection which occurs early.",
+                        "wrongAnswer_2": "AMR is a type of hyperacute rejection occurring within minutes to hours post-transplant due to pre-existing recipient antibodies against donor ABO antigens, requiring immediate graft removal and re-transplantation, unlike acute cellular rejection which develops over days to weeks.",
+                        "wrongAnswer_3": "AMR is a complication specific to bone marrow transplantation (BMT) or hematopoietic stem cell transplantation (HSCT), also known as graft-versus-host disease (GVHD), mediated by donor T cells attacking recipient tissues, not related to solid organ transplantation rejection.",
+                        "wrongAnswer_4": "AMR is a non-immunological complication caused by ischemic injury during organ procurement and preservation, leading to delayed graft function and requiring supportive care and dialysis, unlike acute cellular rejection which is immune-mediated."
+                    },
+                    {
+                        "question": "What are the common viral infections in solid organ transplant recipients, and what are the strategies for prevention and management of these infections?",
+                        "goodAnswer": "CMV, EBV, BK virus, and polyomavirus are common; prophylaxis (valganciclovir for CMV), pre-emptive therapy (monitoring viral load, treating at threshold), and therapeutic strategies (antivirals, reducing immunosuppression) are used for prevention and management.",
+                        "wrongAnswer_1": "HIV, hepatitis B virus (HBV), and hepatitis C virus (HCV) are the most frequent viral infections post-transplant; routine screening, vaccination, and antiviral therapy pre-transplant are the primary prevention strategies, post-transplant management focuses on supportive care.",
+                        "wrongAnswer_2": "Influenza virus, respiratory syncytial virus (RSV), and adenovirus are the major viral pathogens in transplant recipients; vaccination, isolation, and symptomatic treatment are the main prevention and management approaches, antiviral drugs are not effective.",
+                        "wrongAnswer_3": "Herpes simplex virus (HSV), varicella-zoster virus (VZV), and human papillomavirus (HPV) are the prevalent viral infections post-transplant; acyclovir prophylaxis, vaccination for VZV, and HPV screening are the preventive measures, topical treatment for localized infections.",
+                        "wrongAnswer_4": "Norovirus, rotavirus, and adenovirus are the most common viral gastrointestinal pathogens in transplant recipients; hygiene measures, oral rehydration, and symptomatic treatment are the mainstay of management, antiviral therapy is not indicated."
+                    },
+                    {
+                        "question": "What is post-transplant lymphoproliferative disorder (PTLD), and what are the risk factors, clinical presentations, and management strategies for this complication?",
+                        "goodAnswer": "PTLD is a spectrum of lymphoid proliferations associated with EBV infection and immunosuppression post-transplant; risk factors: EBV seronegativity pre-transplant, intense immunosuppression; presentations: lymphadenopathy, fever, organ involvement; management: reduce immunosuppression, antiviral therapy, rituximab, chemotherapy.",
+                        "wrongAnswer_1": "PTLD is a form of chronic rejection characterized by lymphoid infiltration of the graft and progressive graft dysfunction; risk factors: HLA mismatch, recurrent acute rejection episodes; presentations: proteinuria, hypertension, graft fibrosis; management: intensify immunosuppression, mTOR inhibitors, anti-fibrotic agents.",
+                        "wrongAnswer_2": "PTLD is a type of opportunistic bacterial infection caused by gram-negative bacteria, commonly presenting as pneumonia or sepsis post-transplant; risk factors: neutropenia, central venous catheters; presentations: fever, cough, septic shock; management: broad-spectrum antibiotics, supportive care, infection control measures.",
+                        "wrongAnswer_3": "PTLD is a metabolic complication of transplantation characterized by abnormal lipid metabolism and hyperlipidemia; risk factors: calcineurin inhibitor use, corticosteroids; presentations: elevated cholesterol, triglycerides, cardiovascular events; management: lipid-lowering agents, dietary modifications, lifestyle changes.",
+                        "wrongAnswer_4": "PTLD is a surgical complication of transplantation resulting from lymphatic disruption and fluid accumulation; risk factors: extensive lymphadenectomy, surgical technique; presentations: lymphocele, lymphedema, wound infection; management: drainage, compression therapy, surgical revision."
+                    }
+                ]
+            }
+        ]
+    }
+}

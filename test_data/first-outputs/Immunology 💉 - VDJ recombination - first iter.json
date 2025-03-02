@@ -1,0 +1,151 @@
+{
+    "mainTopic": {
+        "title": "VDJ recombination",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Genes and cells involved in VDJ recombionation",
+                "quizzes": [
+                    {
+                        "question": "Which of the following gene segments are rearranged during VDJ recombination to form the variable region of the heavy chain of an immunoglobulin molecule?",
+                        "goodAnswer": "Variable (V), Diversity (D), and Joining (J) gene segments are rearranged to create the heavy chain variable region.",
+                        "wrongAnswer_1": "Constant (C), Diversity (D), and Joining (J) gene segments are rearranged to create the heavy chain variable region.",
+                        "wrongAnswer_2": "Variable (V), Framework (F), and Joining (J) gene segments are rearranged to create the heavy chain variable region.",
+                        "wrongAnswer_3": "Variable (V), Diversity (D), and Constant (C) gene segments are rearranged to create the heavy chain variable region.",
+                        "wrongAnswer_4": "Variable (V), Duplication (Dp), and Junctional (Jn) gene segments are rearranged to create the heavy chain variable region."
+                    },
+                    {
+                        "question": "What are the roles of Recombination Activating Genes (RAG1 and RAG2) enzymes in VDJ recombination?",
+                        "goodAnswer": "RAG1/2 enzymes initiate VDJ recombination by recognizing Recombination Signal Sequences (RSSs) and creating double-strand breaks in DNA.",
+                        "wrongAnswer_1": "RAG1/2 enzymes repair double-strand breaks in DNA after VDJ recombination and ensure the accurate joining of gene segments.",
+                        "wrongAnswer_2": "RAG1/2 enzymes are responsible for isotype switching in B cells, altering the constant region of the heavy chain.",
+                        "wrongAnswer_3": "RAG1/2 enzymes are involved in somatic hypermutation, introducing point mutations in the variable regions of immunoglobulin genes.",
+                        "wrongAnswer_4": "RAG1/2 enzymes transcribe the variable, diversity, and joining gene segments into mRNA before recombination occurs."
+                    },
+                    {
+                        "question": "In which cell types does VDJ recombination primarily occur to generate antigen receptor diversity?",
+                        "goodAnswer": "VDJ recombination is primarily restricted to developing B lymphocytes in the bone marrow and T lymphocytes in the thymus.",
+                        "wrongAnswer_1": "VDJ recombination occurs in all somatic cells to increase genetic diversity and allow for adaptation to environmental changes.",
+                        "wrongAnswer_2": "VDJ recombination is primarily restricted to mature plasma cells in the lymph nodes and memory T cells in the spleen.",
+                        "wrongAnswer_3": "VDJ recombination occurs in epithelial cells of the skin and mucosal surfaces to enhance barrier immunity.",
+                        "wrongAnswer_4": "VDJ recombination is found in erythrocytes and megakaryocytes to diversify blood cell populations and improve oxygen transport."
+                    },
+                    {
+                        "question": "What are Recombination Signal Sequences (RSSs) and their function in VDJ recombination?",
+                        "goodAnswer": "RSSs are conserved DNA sequences flanking V, D, and J gene segments that are recognized by RAG enzymes to direct recombination.",
+                        "wrongAnswer_1": "RSSs are variable DNA sequences located within V, D, and J gene segments that code for the antigen-binding site of receptors.",
+                        "wrongAnswer_2": "RSSs are RNA sequences that guide the splicing of V, D, and J gene transcripts after DNA recombination has occurred.",
+                        "wrongAnswer_3": "RSSs are protein sequences that bind to V, D, and J gene segments and facilitate their physical rearrangement during recombination.",
+                        "wrongAnswer_4": "RSSs are regulatory sequences that control the transcription rate of genes involved in VDJ recombination but are not directly involved in the process."
+                    },
+                    {
+                        "question": "What is the '12/23 rule' in VDJ recombination and why is it important?",
+                        "goodAnswer": "The 12/23 rule dictates that a gene segment flanked by a 12 bp RSS can only be joined to a segment flanked by a 23 bp RSS, ensuring correct gene segment joining order.",
+                        "wrongAnswer_1": "The 12/23 rule refers to the number of V, D, and J gene segments that can be recombined in a single lymphocyte, limiting receptor diversity.",
+                        "wrongAnswer_2": "The 12/23 rule describes the ratio of RAG1 to RAG2 enzymes required for efficient VDJ recombination at different developmental stages.",
+                        "wrongAnswer_3": "The 12/23 rule indicates the minimum and maximum lengths of the CDR3 region that can be generated during VDJ recombination.",
+                        "wrongAnswer_4": "The 12/23 rule specifies the chromosome locations of the immunoglobulin heavy and light chain loci to prevent chromosomal translocations."
+                    }
+                ]
+            },
+            {
+                "title": "Isotype switching in B cells",
+                "quizzes": [
+                    {
+                        "question": "What is the primary outcome of isotype switching in B cells, and when does this process typically occur?",
+                        "goodAnswer": "Isotype switching results in a change in the constant region of the immunoglobulin heavy chain, altering the effector function of the antibody, and occurs after B cell activation.",
+                        "wrongAnswer_1": "Isotype switching leads to a change in the variable region of the immunoglobulin heavy chain, modifying the antigen-binding specificity of the antibody, and occurs before B cell activation.",
+                        "wrongAnswer_2": "Isotype switching causes a shift in the light chain isotype (from kappa to lambda), influencing the structural stability of the antibody, and occurs during B cell development in the bone marrow.",
+                        "wrongAnswer_3": "Isotype switching results in the production of antibodies with multiple antigen-binding sites, increasing the avidity of antigen recognition, and occurs in germinal centers independently of T cell help.",
+                        "wrongAnswer_4": "Isotype switching primarily affects the glycosylation patterns of antibodies, influencing their half-life and tissue distribution, and occurs constitutively in all B cell subsets."
+                    },
+                    {
+                        "question": "Which region of the immunoglobulin heavy chain locus is targeted and modified during isotype switching?",
+                        "goodAnswer": "The constant region (C region) gene segments downstream of the rearranged VDJ region are targeted for replacement during isotype switching.",
+                        "wrongAnswer_1": "The variable region (V region) gene segments are targeted for modification during isotype switching to enhance antigen affinity.",
+                        "wrongAnswer_2": "The joining region (J region) gene segments are targeted to alter the flexibility of the antibody hinge region during isotype switching.",
+                        "wrongAnswer_3": "The diversity region (D region) gene segments are targeted to broaden the range of antigens that can be recognized after isotype switching.",
+                        "wrongAnswer_4": "The leader region (L region) gene segments, responsible for protein secretion, are modified during isotype switching to improve antibody transport."
+                    },
+                    {
+                        "question": "What are switch (S) regions and what is their role in isotype switching?",
+                        "goodAnswer": "Switch (S) regions are repetitive DNA sequences located upstream of each constant region gene (except C\u03b4) that mediate recombination during isotype switching.",
+                        "wrongAnswer_1": "Switch (S) regions are short coding sequences within each constant region gene that determine the isotype-specific effector functions of antibodies.",
+                        "wrongAnswer_2": "Switch (S) regions are enhancer sequences that regulate the transcription of different constant region genes during B cell differentiation.",
+                        "wrongAnswer_3": "Switch (S) regions are RNA sequences that guide the splicing of different constant region exons to generate various antibody isotypes.",
+                        "wrongAnswer_4": "Switch (S) regions are protein domains that interact with recombination machinery to initiate VDJ recombination in developing B cells."
+                    },
+                    {
+                        "question": "Which enzyme is critical for mediating the DNA double-strand breaks and recombination events during isotype switching?",
+                        "goodAnswer": "Activation-Induced Cytidine Deaminase (AID) is essential for initiating isotype switching by deaminating cytosines in switch regions, leading to DNA breaks.",
+                        "wrongAnswer_1": "Terminal deoxynucleotidyl transferase (TdT) is crucial for introducing junctional diversity during isotype switching by adding nucleotides at DNA breaks.",
+                        "wrongAnswer_2": "DNA ligase IV is the primary enzyme responsible for creating double-strand breaks in switch regions to initiate isotype switching.",
+                        "wrongAnswer_3": "RAG1/2 enzymes are required for recognizing switch regions and mediating the recombination events during isotype switching.",
+                        "wrongAnswer_4": "DNA polymerase delta is responsible for repairing DNA damage in switch regions and ensuring the fidelity of isotype switching."
+                    },
+                    {
+                        "question": "How do cytokines influence isotype switching, and what are some examples of cytokine-isotype pairs?",
+                        "goodAnswer": "Cytokines produced by T helper cells direct isotype switching by influencing germline transcription of specific constant region genes and targeting switch region recombination; for example, IL-4 promotes switching to IgG1 and IgE, while IFN-\u03b3 promotes switching to IgG2a and IgG3.",
+                        "wrongAnswer_1": "Cytokines directly modify the amino acid sequence of antibody constant regions, leading to isotype switching, with TNF-\u03b1 promoting switching to IgA and IL-10 promoting switching to IgM.",
+                        "wrongAnswer_2": "Cytokines regulate the expression of RAG enzymes, which then control the frequency of isotype switching events, where TGF-\u03b2 promotes switching to IgD and IL-2 promotes switching to IgG4.",
+                        "wrongAnswer_3": "Cytokines alter the glycosylation patterns of antibodies, indirectly influencing their isotype classification, with IL-5 promoting switching to secretory IgA and IL-6 promoting switching to complement-fixing IgM.",
+                        "wrongAnswer_4": "Cytokines induce somatic hypermutation in constant regions, leading to changes in antibody isotype, with IL-12 promoting switching to IgG2b and IL-13 promoting switching to IgE."
+                    }
+                ]
+            },
+            {
+                "title": "The MHC complex",
+                "quizzes": [
+                    {
+                        "question": "What are the two main classes of Major Histocompatibility Complex (MHC) molecules, and on which cell types are they primarily expressed?",
+                        "goodAnswer": "MHC class I molecules are expressed on all nucleated cells, and MHC class II molecules are primarily expressed on antigen-presenting cells (APCs) such as dendritic cells, macrophages, and B cells.",
+                        "wrongAnswer_1": "MHC class I molecules are expressed exclusively on immune cells, and MHC class II molecules are expressed on all non-immune cells.",
+                        "wrongAnswer_2": "MHC class I molecules are expressed on erythrocytes and platelets, and MHC class II molecules are expressed on endothelial cells and fibroblasts.",
+                        "wrongAnswer_3": "MHC class I molecules are expressed on cells of the nervous system, and MHC class II molecules are expressed on cells of the digestive system.",
+                        "wrongAnswer_4": "MHC class I molecules are expressed on cells in the bone marrow, and MHC class II molecules are expressed on cells in the thymus."
+                    },
+                    {
+                        "question": "What is the primary function of MHC class I molecules in the immune response?",
+                        "goodAnswer": "MHC class I molecules present processed peptides derived from intracellular proteins (e.g., viral antigens) to cytotoxic T lymphocytes (CTLs or CD8+ T cells).",
+                        "wrongAnswer_1": "MHC class I molecules present processed peptides derived from extracellular pathogens to helper T lymphocytes (Th cells or CD4+ T cells).",
+                        "wrongAnswer_2": "MHC class I molecules directly bind to and neutralize extracellular pathogens without the involvement of T cells.",
+                        "wrongAnswer_3": "MHC class I molecules facilitate the uptake of antigens by antigen-presenting cells (APCs) for processing and presentation via MHC class II.",
+                        "wrongAnswer_4": "MHC class I molecules are involved in the activation of complement pathways and the opsonization of pathogens for phagocytosis."
+                    },
+                    {
+                        "question": "What is the primary function of MHC class II molecules in the immune response?",
+                        "goodAnswer": "MHC class II molecules present processed peptides derived from extracellular pathogens (e.g., bacterial antigens) to helper T lymphocytes (Th cells or CD4+ T cells).",
+                        "wrongAnswer_1": "MHC class II molecules present processed peptides derived from intracellular proteins to cytotoxic T lymphocytes (CTLs or CD8+ T cells).",
+                        "wrongAnswer_2": "MHC class II molecules directly induce apoptosis in virus-infected cells without T cell involvement.",
+                        "wrongAnswer_3": "MHC class II molecules are responsible for the development of immunological tolerance to self-antigens in the thymus.",
+                        "wrongAnswer_4": "MHC class II molecules activate natural killer (NK) cells to eliminate tumor cells and virus-infected cells."
+                    },
+                    {
+                        "question": "Which cells are primarily responsible for recognizing antigens presented by MHC class I molecules, and what is the consequence of this interaction?",
+                        "goodAnswer": "Cytotoxic T lymphocytes (CTLs or CD8+ T cells) recognize antigens presented by MHC class I molecules, leading to the destruction of infected or abnormal cells.",
+                        "wrongAnswer_1": "Helper T lymphocytes (Th cells or CD4+ T cells) recognize antigens presented by MHC class I molecules, leading to the activation of B cells and antibody production.",
+                        "wrongAnswer_2": "Natural killer (NK) cells recognize antigens presented by MHC class I molecules, leading to the secretion of cytokines and chemokines.",
+                        "wrongAnswer_3": "B lymphocytes recognize antigens presented by MHC class I molecules, leading to their differentiation into plasma cells and memory B cells.",
+                        "wrongAnswer_4": "Macrophages recognize antigens presented by MHC class I molecules, leading to phagocytosis and antigen clearance."
+                    },
+                    {
+                        "question": "Which cells are primarily responsible for recognizing antigens presented by MHC class II molecules, and what is the consequence of this interaction?",
+                        "goodAnswer": "Helper T lymphocytes (Th cells or CD4+ T cells) recognize antigens presented by MHC class II molecules on APCs, leading to T cell activation and cytokine production, which further activates other immune cells.",
+                        "wrongAnswer_1": "Cytotoxic T lymphocytes (CTLs or CD8+ T cells) recognize antigens presented by MHC class II molecules, leading to direct killing of APCs.",
+                        "wrongAnswer_2": "Mast cells recognize antigens presented by MHC class II molecules, leading to degranulation and the release of histamine and other inflammatory mediators.",
+                        "wrongAnswer_3": "Neutrophils recognize antigens presented by MHC class II molecules, leading to phagocytosis and the release of reactive oxygen species.",
+                        "wrongAnswer_4": "Regulatory T cells (Tregs) recognize antigens presented by MHC class II molecules, leading to suppression of immune responses and maintenance of tolerance."
+                    },
+                    {
+                        "question": "What is the genetic organization of the MHC complex in humans (HLA region), and what is its significance for transplantation?",
+                        "goodAnswer": "The HLA region in humans is highly polymorphic and polygenic, containing genes for MHC class I, MHC class II, and other immune-related molecules; HLA matching is critical for transplantation to minimize graft rejection.",
+                        "wrongAnswer_1": "The HLA region is relatively conserved across individuals, containing genes for MHC class I and MHC class II molecules, and HLA matching is not relevant for transplantation outcomes.",
+                        "wrongAnswer_2": "The HLA region contains genes only for MHC class I molecules, and its variability is primarily due to somatic hypermutation, which is important for antibody diversity but not transplantation.",
+                        "wrongAnswer_3": "The HLA region is located on the Y chromosome in humans, and its inheritance pattern is sex-linked, which influences immune responses differently in males and females.",
+                        "wrongAnswer_4": "The HLA region is composed of non-coding RNA genes that regulate immune responses, and its variability is mainly due to epigenetic modifications, which are not relevant to transplantation."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "mainTopic": {
+        "title": "Cervical neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "What is the primary origin of Placental Site Trophoblastic Tumor (PSTT)?",
+                        "goodAnswer": "Intermediate trophoblasts of the placental implantation site.",
+                        "wrongAnswer_1": "Syncytiotrophoblasts derived from chorionic villi.",
+                        "wrongAnswer_2": "Cytotrophoblasts from the cytotrophoblastic shell.",
+                        "wrongAnswer_3": "Decidual cells of the endometrial stroma.",
+                        "wrongAnswer_4": "Extravillous trophoblasts invading the myometrium from a previous molar pregnancy."
+                    },
+                    {
+                        "question": "Which of the following immunohistochemical markers is most characteristically strongly positive in Placental Site Trophoblastic Tumor (PSTT)?",
+                        "goodAnswer": "Human Placental Lactogen (hPL).",
+                        "wrongAnswer_1": "Beta-human Chorionic Gonadotropin (\u03b2-hCG).",
+                        "wrongAnswer_2": "Cytokeratin 7 (CK7).",
+                        "wrongAnswer_3": "Melan-A.",
+                        "wrongAnswer_4": "p53."
+                    },
+                    {
+                        "question": "In contrast to Choriocarcinoma, Placental Site Trophoblastic Tumor (PSTT) typically exhibits which hormonal characteristic?",
+                        "goodAnswer": "Lower serum \u03b2-hCG levels relative to tumor bulk and clinical presentation.",
+                        "wrongAnswer_1": "Elevated serum \u03b2-hCG levels directly proportional to tumor volume and aggressiveness.",
+                        "wrongAnswer_2": "Significantly higher serum \u03b2-hCG levels than observed in complete hydatidiform mole.",
+                        "wrongAnswer_3": "A complete absence of \u03b2-hCG production, relying solely on hPL for hormonal activity.",
+                        "wrongAnswer_4": "Unpredictable fluctuations in \u03b2-hCG levels, making it an unreliable marker for monitoring disease progression."
+                    },
+                    {
+                        "question": "What is considered the primary treatment modality for localized Placental Site Trophoblastic Tumor (PSTT)?",
+                        "goodAnswer": "Surgical resection, typically hysterectomy, is the mainstay treatment for localized PSTT.",
+                        "wrongAnswer_1": "Chemotherapy regimens, such as EMA/CO, are the first-line treatment even for localized PSTT.",
+                        "wrongAnswer_2": "Radiation therapy directed at the pelvic region is the preferred initial treatment approach.",
+                        "wrongAnswer_3": "Hormonal therapy using methotrexate to suppress trophoblastic proliferation is the primary treatment.",
+                        "wrongAnswer_4": "Expectant management with close monitoring of \u03b2-hCG levels is recommended for initial management of localized PSTT."
+                    },
+                    {
+                        "question": "Compared to other gestational trophoblastic neoplasms, what is a distinctive clinical feature often associated with Placental Site Trophoblastic Tumor (PSTT)?",
+                        "goodAnswer": "A longer interval from the antecedent pregnancy to presentation, often years.",
+                        "wrongAnswer_1": "A rapid onset of symptoms immediately following a molar pregnancy or abortion.",
+                        "wrongAnswer_2": "An association with very high levels of hyperemesis gravidarum during the preceding pregnancy.",
+                        "wrongAnswer_3": "Presentation primarily during the first trimester of a subsequent pregnancy.",
+                        "wrongAnswer_4": "A strong correlation with pre-eclampsia developing in the pregnancy preceding the tumor."
+                    }
+                ]
+            },
+            {
+                "title": "Pap Smear, Infections Detected by Pap Smear",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is a recognized infectious agent that can be detected via a Pap smear?",
+                        "goodAnswer": "Trichomonas vaginalis.",
+                        "wrongAnswer_1": "Neisseria gonorrhoeae, reliably identified through cytological features.",
+                        "wrongAnswer_2": "Chlamydia trachomatis, consistently diagnosed by Pap smear morphology.",
+                        "wrongAnswer_3": "Mycoplasma genitalium, routinely screened using Pap smear techniques.",
+                        "wrongAnswer_4": "Bacterial vaginosis, definitively diagnosed based on Pap smear findings alone."
+                    },
+                    {
+                        "question": "Regarding the Bethesda System for reporting Pap smear results, what is the classification 'ASC-US' indicative of?",
+                        "goodAnswer": "Atypical Squamous Cells of Undetermined Significance, suggesting possible but unclear pre-cancerous changes.",
+                        "wrongAnswer_1": "Atypical Squamous Cells - cannot exclude High-grade Squamous Intraepithelial Lesion, strongly indicating high-risk precancer.",
+                        "wrongAnswer_2": "Adenocarcinoma in situ, definitively diagnosing invasive glandular neoplasia.",
+                        "wrongAnswer_3": "Benign cellular changes due to inflammation, ruling out any pre-cancerous potential.",
+                        "wrongAnswer_4": "Satisfactory for evaluation but limited by obscuring blood, indicating a need for immediate repeat smear."
+                    },
+                    {
+                        "question": "In the context of Pap smear interpretation, what cytological feature is most suggestive of Trichomonas vaginalis infection?",
+                        "goodAnswer": "Pear-shaped organisms with a visible nucleus and flagella, often accompanied by inflammation.",
+                        "wrongAnswer_1": "Clue cells with numerous bacteria obscuring cellular borders, indicating bacterial vaginosis.",
+                        "wrongAnswer_2": "Multinucleated giant cells with nuclear molding, pathognomonic for Herpes simplex virus infection.",
+                        "wrongAnswer_3": "Hyphae and pseudohyphae with budding yeast, characteristic of Candida species infection.",
+                        "wrongAnswer_4": "Intracytoplasmic vacuoles with perinuclear halos in squamous cells, indicative of Chlamydia trachomatis."
+                    },
+                    {
+                        "question": "What is the recommended follow-up management for a Pap smear result showing 'Low-grade Squamous Intraepithelial Lesion (LSIL)' in a woman aged 25-29 years, according to ASCCP guidelines?",
+                        "goodAnswer": "Repeat cytology in 1 year is preferred, with reflex HPV testing if available, or immediate colposcopy.",
+                        "wrongAnswer_1": "Immediate colposcopy with directed biopsy is mandatory for all LSIL results irrespective of age.",
+                        "wrongAnswer_2": "Ablative therapy such as cryotherapy or LEEP is recommended as the primary management strategy.",
+                        "wrongAnswer_3": "Hysterectomy is indicated to prevent progression to invasive cervical cancer.",
+                        "wrongAnswer_4": "No follow-up is needed as LSIL in this age group typically represents transient HPV infection."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical Intraepithelial Neoplasia (CIN) \u2013 Risk factors, Role of HPV, HPV infection risk factors,",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is considered the most significant risk factor for developing Cervical Intraepithelial Neoplasia (CIN)?",
+                        "goodAnswer": "Persistent infection with high-risk types of Human Papillomavirus (HPV).",
+                        "wrongAnswer_1": "History of multiple pregnancies and high parity.",
+                        "wrongAnswer_2": "Long-term use of oral contraceptives for over 10 years.",
+                        "wrongAnswer_3": "Early menarche (onset of menstruation before age 12).",
+                        "wrongAnswer_4": "Diet high in saturated fats and low in fruits and vegetables."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which Human Papillomavirus (HPV) contributes to the development of Cervical Intraepithelial Neoplasia (CIN)?",
+                        "goodAnswer": "Integration of HPV DNA into the host cell genome, leading to overexpression of viral oncogenes E6 and E7 which inactivate tumor suppressor genes like p53 and Rb.",
+                        "wrongAnswer_1": "HPV-induced chronic inflammation leading to metaplasia of the cervical epithelium and subsequent dysplasia.",
+                        "wrongAnswer_2": "Direct cytotoxic effect of HPV on cervical cells causing cellular necrosis and uncontrolled proliferation.",
+                        "wrongAnswer_3": "HPV stimulating angiogenesis in the cervical stroma, promoting rapid tumor growth and invasion.",
+                        "wrongAnswer_4": "HPV causing epigenetic modifications in cervical cells that silence DNA repair mechanisms and promote genomic instability."
+                    },
+                    {
+                        "question": "Which of the following factors is associated with an increased risk of persistent Human Papillomavirus (HPV) infection?",
+                        "goodAnswer": "Smoking, which impairs local cervical immunity and HPV clearance.",
+                        "wrongAnswer_1": "Regular consumption of probiotics, which disrupts the vaginal microbiome and increases HPV susceptibility.",
+                        "wrongAnswer_2": "High socioeconomic status, associated with increased exposure to HPV through international travel.",
+                        "wrongAnswer_3": "Early menopause, leading to hormonal changes that promote HPV persistence.",
+                        "wrongAnswer_4": "Frequent douching, which alters the vaginal pH and enhances HPV replication."
+                    },
+                    {
+                        "question": "In the context of HPV infection risk factors, what role does the immune system play in preventing Cervical Intraepithelial Neoplasia (CIN)?",
+                        "goodAnswer": "Effective cell-mediated immunity, particularly CD4+ and CD8+ T-cell responses, are crucial for clearing HPV infections and preventing progression to CIN.",
+                        "wrongAnswer_1": "Antibody-mediated immunity is the primary mechanism for clearing HPV infections and preventing CIN, with IgG antibodies neutralizing viral particles.",
+                        "wrongAnswer_2": "Innate immunity, particularly natural killer (NK) cells, is solely responsible for controlling HPV infections and preventing CIN development.",
+                        "wrongAnswer_3": "Humoral immunity, specifically IgA antibodies in cervical mucus, provides long-term protection against HPV and CIN.",
+                        "wrongAnswer_4": "Immune system plays a negligible role, with viral clearance primarily dependent on cervical epithelial cell turnover."
+                    },
+                    {
+                        "question": "Which of the following co-infections is known to increase the risk of HPV persistence and progression to Cervical Intraepithelial Neoplasia (CIN)?",
+                        "goodAnswer": "Human Immunodeficiency Virus (HIV) infection, due to immunosuppression.",
+                        "wrongAnswer_1": "Hepatitis B Virus (HBV) infection, through shared transmission routes.",
+                        "wrongAnswer_2": "Helicobacter pylori infection, indirectly affecting cervical health.",
+                        "wrongAnswer_3": "Candida albicans infection, causing chronic inflammation and immune dysregulation.",
+                        "wrongAnswer_4": "Escherichia coli infection, leading to bacterial vaginosis and increased HPV susceptibility."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical cancer signs, Staging of Cervical Cancer, Type of Cancers,",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is a common early sign or symptom of cervical cancer?",
+                        "goodAnswer": "Abnormal vaginal bleeding, especially after intercourse, between periods, or after menopause.",
+                        "wrongAnswer_1": "Severe pelvic pain radiating down the legs, indicative of early-stage disease.",
+                        "wrongAnswer_2": "Significant weight loss and loss of appetite, typically seen in early cervical cancer.",
+                        "wrongAnswer_3": "Persistent fever and night sweats, characteristic of initial cervical carcinoma.",
+                        "wrongAnswer_4": "Noticeable abdominal distension and bloating, the first sign of cervical cancer spread."
+                    },
+                    {
+                        "question": "According to the FIGO staging system for cervical cancer, what does Stage IIA1 indicate?",
+                        "goodAnswer": "Invasion of the cervix beyond the uterus, but not to the pelvic wall or lower vagina, with tumor size \u2264 4 cm.",
+                        "wrongAnswer_1": "Carcinoma confined to the cervix uteri only, limited to the epithelium or stroma.",
+                        "wrongAnswer_2": "Involvement of the upper two-thirds of the vagina but not the parametrium.",
+                        "wrongAnswer_3": "Extension of the carcinoma to the pelvic wall or lower vagina.",
+                        "wrongAnswer_4": "Distant metastasis beyond the pelvis, including para-aortic lymph nodes."
+                    },
+                    {
+                        "question": "What is the most common histological type of cervical cancer?",
+                        "goodAnswer": "Squamous cell carcinoma, arising from the squamous epithelium of the cervix.",
+                        "wrongAnswer_1": "Adenocarcinoma, originating from the glandular cells of the endocervix.",
+                        "wrongAnswer_2": "Adenosquamous carcinoma, a mixed type with both squamous and glandular features.",
+                        "wrongAnswer_3": "Small cell carcinoma, a neuroendocrine tumor of the cervix.",
+                        "wrongAnswer_4": "Clear cell carcinoma, associated with diethylstilbestrol (DES) exposure."
+                    },
+                    {
+                        "question": "In FIGO staging of cervical cancer, Stage IVB is defined by which criterion?",
+                        "goodAnswer": "Distant metastasis, including spread to organs beyond the pelvis such as lungs or liver.",
+                        "wrongAnswer_1": "Extension of the tumor to the pelvic wall or lower third of the vagina.",
+                        "wrongAnswer_2": "Involvement of pelvic lymph nodes but no distant spread.",
+                        "wrongAnswer_3": "Tumor size greater than 4 cm in diameter but confined to the cervix.",
+                        "wrongAnswer_4": "Spread to the parametria but not reaching the pelvic sidewall."
+                    },
+                    {
+                        "question": "Which of the following diagnostic procedures is crucial for staging cervical cancer beyond clinical examination?",
+                        "goodAnswer": "Pelvic MRI or CT scan to assess parametrial involvement and lymph node status.",
+                        "wrongAnswer_1": "Colposcopy and directed biopsy to determine the depth of stromal invasion.",
+                        "wrongAnswer_2": "Pap smear to identify abnormal cervical cells and confirm malignancy.",
+                        "wrongAnswer_3": "Hysteroscopy to visualize the endocervical canal and tumor extent.",
+                        "wrongAnswer_4": "Ultrasound of the pelvis to assess for ovarian metastases."
+                    }
+                ]
+            },
+            {
+                "title": "Treatments, Cervical Cancer Therapy",
+                "quizzes": [
+                    {
+                        "question": "What is the primary treatment modality for early-stage cervical cancer (FIGO Stage IA1-IB1)?",
+                        "goodAnswer": "Surgery, including radical hysterectomy or cone biopsy for fertility-sparing options.",
+                        "wrongAnswer_1": "Chemotherapy alone, using platinum-based regimens as first-line treatment.",
+                        "wrongAnswer_2": "External beam radiation therapy as the sole definitive treatment.",
+                        "wrongAnswer_3": "Hormonal therapy using anti-estrogens to control tumor growth.",
+                        "wrongAnswer_4": "Immunotherapy with checkpoint inhibitors as primary initial management."
+                    },
+                    {
+                        "question": "For locally advanced cervical cancer (FIGO Stage IB2-IVA), what is the standard of care treatment?",
+                        "goodAnswer": "Concurrent chemoradiation, combining external beam radiation therapy with cisplatin-based chemotherapy.",
+                        "wrongAnswer_1": "Neoadjuvant chemotherapy followed by radical hysterectomy.",
+                        "wrongAnswer_2": "Radical surgery followed by adjuvant chemotherapy.",
+                        "wrongAnswer_3": "High-dose brachytherapy as monotherapy for tumor control.",
+                        "wrongAnswer_4": "Palliative chemotherapy alone to manage symptoms and prolong survival."
+                    },
+                    {
+                        "question": "What is a potential fertility-sparing surgical option for women with early-stage cervical cancer (FIGO Stage IA1-IB1) who desire to preserve their reproductive capacity?",
+                        "goodAnswer": "Radical trachelectomy, involving removal of the cervix and upper vagina while preserving the uterine corpus.",
+                        "wrongAnswer_1": "Total hysterectomy with bilateral salpingo-oophorectomy, preserving ovarian function but removing the uterus.",
+                        "wrongAnswer_2": "Pelvic exenteration, removing all pelvic organs to ensure complete tumor eradication.",
+                        "wrongAnswer_3": "Conization alone, sufficient for all early-stage cervical cancers desiring fertility preservation.",
+                        "wrongAnswer_4": "Simple hysterectomy, removing only the uterus and cervix without parametrial resection."
+                    },
+                    {
+                        "question": "In the treatment of recurrent or metastatic cervical cancer, which class of systemic therapy is commonly used?",
+                        "goodAnswer": "Chemotherapy, often platinum-based combinations, with or without targeted agents like bevacizumab or immunotherapy.",
+                        "wrongAnswer_1": "Hormonal therapy, primarily using aromatase inhibitors to target estrogen-sensitive tumors.",
+                        "wrongAnswer_2": "Radiation therapy, as the primary systemic treatment for distant metastases.",
+                        "wrongAnswer_3": "Ablative therapies like cryotherapy or laser ablation for systemic disease control.",
+                        "wrongAnswer_4": "Surgical resection of all metastatic sites as the standard approach for recurrent disease."
+                    },
+                    {
+                        "question": "Which targeted therapy agent is approved for use in combination with chemotherapy for persistent, recurrent, or metastatic cervical cancer?",
+                        "goodAnswer": "Bevacizumab, a monoclonal antibody targeting VEGF, inhibiting angiogenesis.",
+                        "wrongAnswer_1": "Trastuzumab, a monoclonal antibody targeting HER2, commonly used in breast cancer.",
+                        "wrongAnswer_2": "Cetuximab, a monoclonal antibody targeting EGFR, often used in colorectal cancer.",
+                        "wrongAnswer_3": "Imatinib, a tyrosine kinase inhibitor targeting BCR-ABL, used in chronic myeloid leukemia.",
+                        "wrongAnswer_4": "Tamoxifen, a selective estrogen receptor modulator, used in hormone-sensitive breast cancer."
+                    }
+                ]
+            }
+        ]
+    }
+}

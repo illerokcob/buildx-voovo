@@ -1,0 +1,222 @@
+{
+    "mainTopic": {
+        "title": "Chemotherapy",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "General principles of cancer chemotherapy and drug resistance",
+                "quizzes": [
+                    {
+                        "question": "What is the primary objective of cancer chemotherapy in the context of antineoplastic agents?",
+                        "goodAnswer": "To selectively eradicate neoplastic cells while minimizing damage to normal host cells, aiming for a therapeutic index that favors tumor cell destruction over host toxicity.",
+                        "wrongAnswer_1": "To completely eliminate all rapidly dividing cells in the body, including both cancerous and normal cells, irrespective of the therapeutic index.",
+                        "wrongAnswer_2": "To stimulate the immune system to target and destroy cancer cells, while concurrently enhancing the proliferation of normal cells to compensate for damage.",
+                        "wrongAnswer_3": "To induce a state of chronic inflammation within the tumor microenvironment, thereby preventing further tumor growth and metastasis, regardless of host cell toxicity.",
+                        "wrongAnswer_4": "To convert malignant cells back into benign cells through targeted genetic manipulation, avoiding any cytotoxic effects on normal tissues."
+                    },
+                    {
+                        "question": "Which of the following mechanisms is a significant contributor to the development of multidrug resistance (MDR) in cancer cells?",
+                        "goodAnswer": "Increased expression of transmembrane efflux pumps like P-glycoprotein (P-gp/MDR1), which actively transport chemotherapeutic drugs out of the cancer cell, reducing intracellular drug concentration.",
+                        "wrongAnswer_1": "Decreased activity of DNA repair enzymes, leading to enhanced accumulation of DNA damage and subsequent cell death in the presence of chemotherapeutic agents.",
+                        "wrongAnswer_2": "Upregulation of drug metabolizing enzymes in the cytoplasm, which leads to increased activation of chemotherapeutic prodrugs within the cancer cell.",
+                        "wrongAnswer_3": "Mutation in drug target proteins that increases drug binding affinity, leading to enhanced drug efficacy and reduced resistance development.",
+                        "wrongAnswer_4": "Downregulation of apoptotic pathways, causing cancer cells to become more sensitive to chemotherapeutic drug-induced cell death."
+                    },
+                    {
+                        "question": "What is the 'therapeutic index' in cancer chemotherapy, and how is it typically defined?",
+                        "goodAnswer": "The ratio of the dose that produces toxicity in 50% of the population (TD50) to the dose that produces a therapeutic effect in 50% of the population (ED50), reflecting drug safety.",
+                        "wrongAnswer_1": "The sum of the maximum tolerated dose (MTD) and the minimum effective dose (MED), indicating the range of effective drug concentrations.",
+                        "wrongAnswer_2": "The product of the drug concentration in plasma and the duration of drug exposure, representing the total drug exposure in the body.",
+                        "wrongAnswer_3": "The difference between the dose required to kill all cancer cells and the dose that causes no observable adverse effects in normal cells, signifying absolute safety.",
+                        "wrongAnswer_4": "The percentage of patients who achieve complete remission after chemotherapy treatment, representing the overall treatment success rate."
+                    },
+                    {
+                        "question": "In the context of cancer chemotherapy, what does the concept of 'fractional cell kill' hypothesize?",
+                        "goodAnswer": "A constant proportion of cancer cells, rather than a fixed number, is killed with each dose of chemotherapy, regardless of the total tumor burden, leading to log-kill kinetics.",
+                        "wrongAnswer_1": "A fixed number of cancer cells is killed with each dose of chemotherapy, and this number increases proportionally with increasing tumor size, resulting in linear cell kill kinetics.",
+                        "wrongAnswer_2": "The fraction of cells killed by chemotherapy decreases with each subsequent dose due to the development of resistance mechanisms and reduced drug efficacy.",
+                        "wrongAnswer_3": "Chemotherapy only kills cells in a specific phase of the cell cycle, and the fraction of cells killed depends on the percentage of cells in that phase at the time of drug administration.",
+                        "wrongAnswer_4": "The fraction of cells killed is directly proportional to the concentration of the chemotherapeutic agent in the tumor microenvironment and is independent of the tumor cell population."
+                    }
+                ]
+            },
+            {
+                "title": "Cell Cycle Active agents: S / G2 / M phase specific and phase nonspecific chemotherapeutic agents",
+                "quizzes": [
+                    {
+                        "question": "Which category of chemotherapeutic agents primarily targets the S-phase of the cell cycle and what is their main mechanism of action?",
+                        "goodAnswer": "Antimetabolites like methotrexate and 5-fluorouracil, which interfere with DNA synthesis by inhibiting enzymes required for nucleotide production or by incorporating themselves into DNA.",
+                        "wrongAnswer_1": "Alkylating agents like cyclophosphamide and cisplatin, which induce DNA crosslinks and strand breaks, primarily during the G1 phase of the cell cycle.",
+                        "wrongAnswer_2": "Topoisomerase inhibitors like etoposide and irinotecan, which prevent DNA religation during replication, mainly acting in the G2 phase of the cell cycle.",
+                        "wrongAnswer_3": "Microtubule inhibitors like paclitaxel and vincristine, which disrupt mitotic spindle formation and function, primarily affecting the M phase of the cell cycle.",
+                        "wrongAnswer_4": "Anthracyclines like doxorubicin and daunorubicin, which intercalate into DNA and inhibit topoisomerase II, exerting their effects predominantly in the G0 phase."
+                    },
+                    {
+                        "question": "Vincristine and vinblastine are examples of M-phase specific chemotherapeutic agents. What is their principal mechanism of action?",
+                        "goodAnswer": "They bind to tubulin, preventing microtubule polymerization and thus disrupting mitotic spindle formation, leading to cell cycle arrest in metaphase and subsequent apoptosis.",
+                        "wrongAnswer_1": "They inhibit DNA topoisomerase II, preventing DNA unwinding and replication, causing DNA damage and cell cycle arrest in the S phase.",
+                        "wrongAnswer_2": "They act as alkylating agents, crosslinking DNA strands and interfering with DNA replication and transcription throughout all phases of the cell cycle.",
+                        "wrongAnswer_3": "They are antimetabolites that block the synthesis of purines and pyrimidines, inhibiting DNA and RNA synthesis specifically during the S phase.",
+                        "wrongAnswer_4": "They intercalate into DNA, blocking DNA and RNA synthesis and causing strand breaks, primarily affecting cells in the G2 phase of the cell cycle."
+                    },
+                    {
+                        "question": "Etoposide and teniposide are classified as G2-phase specific chemotherapeutic agents. How do these drugs exert their cytotoxic effects?",
+                        "goodAnswer": "By inhibiting topoisomerase II, preventing the religation of DNA strands after topoisomerase-mediated cleavage, leading to double-strand DNA breaks and cell cycle arrest in G2.",
+                        "wrongAnswer_1": "By alkylating DNA bases, forming DNA adducts and crosslinks, which interfere with DNA replication and transcription throughout all phases of the cell cycle.",
+                        "wrongAnswer_2": "By inhibiting ribonucleotide reductase, thereby reducing the supply of deoxyribonucleotides needed for DNA synthesis, primarily affecting the S phase.",
+                        "wrongAnswer_3": "By binding to tubulin and stabilizing microtubules, preventing microtubule depolymerization and disrupting mitotic spindle function in the M phase.",
+                        "wrongAnswer_4": "By mimicking natural purines and pyrimidines, getting incorporated into DNA and RNA, and disrupting nucleic acid synthesis specifically in the S phase."
+                    },
+                    {
+                        "question": "Which of the following chemotherapeutic agents is considered phase-nonspecific, meaning it can exert its cytotoxic effects across multiple phases of the cell cycle?",
+                        "goodAnswer": "Cyclophosphamide, an alkylating agent that forms DNA crosslinks and adducts, damaging DNA regardless of the cell cycle phase and affecting both dividing and non-dividing cells.",
+                        "wrongAnswer_1": "Methotrexate, an antimetabolite that inhibits dihydrofolate reductase, primarily affecting cells in the S phase due to its interference with DNA synthesis.",
+                        "wrongAnswer_2": "Paclitaxel, a taxane that stabilizes microtubules, primarily affecting cells in the M phase by disrupting mitotic spindle function.",
+                        "wrongAnswer_3": "Topotecan, a topoisomerase I inhibitor that causes DNA strand breaks, mainly effective in the S phase when DNA replication is most active.",
+                        "wrongAnswer_4": "Cytarabine, a pyrimidine analog that inhibits DNA polymerase, primarily affecting cells in the S phase by interfering with DNA synthesis."
+                    }
+                ]
+            },
+            {
+                "title": "Non Cell Cycle Active chemotherapeutic agents",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is a key characteristic of non-cell cycle active chemotherapeutic agents in contrast to cell cycle-specific agents?",
+                        "goodAnswer": "Non-cell cycle active agents are effective against both proliferating and non-proliferating cancer cells, exhibiting cytotoxicity regardless of the cell cycle phase distribution.",
+                        "wrongAnswer_1": "Non-cell cycle active agents primarily target cells in the G0 phase of the cell cycle, specifically eliminating quiescent cancer cells that are not actively dividing.",
+                        "wrongAnswer_2": "Non-cell cycle active agents are only effective against rapidly proliferating cells and have no significant cytotoxic effect on cells in G0 or other non-dividing phases.",
+                        "wrongAnswer_3": "Non-cell cycle active agents have a very short half-life and need to be administered continuously to maintain therapeutic drug concentrations throughout the cell cycle.",
+                        "wrongAnswer_4": "Non-cell cycle active agents are typically less toxic to normal tissues because they preferentially target cancer cells regardless of their proliferative status."
+                    },
+                    {
+                        "question": "Alkylating agents are often categorized as non-cell cycle active chemotherapeutic drugs. What is the fundamental mechanism by which they exert their cytotoxic effects?",
+                        "goodAnswer": "They form covalent adducts with DNA bases, leading to DNA crosslinking, strand breaks, and miscoding, thus disrupting DNA replication and transcription irrespective of the cell cycle phase.",
+                        "wrongAnswer_1": "They inhibit topoisomerases, preventing DNA unwinding and religation, thereby causing DNA damage predominantly during the S and G2 phases of the cell cycle.",
+                        "wrongAnswer_2": "They interfere with microtubule dynamics, either by stabilizing or destabilizing microtubules, primarily disrupting mitosis in the M phase of the cell cycle.",
+                        "wrongAnswer_3": "They act as antimetabolites, blocking the synthesis of essential nucleotides and inhibiting DNA and RNA synthesis specifically during the S phase of the cell cycle.",
+                        "wrongAnswer_4": "They directly inhibit protein synthesis by binding to ribosomes and interfering with mRNA translation, primarily affecting rapidly proliferating cells in all phases of the cell cycle."
+                    },
+                    {
+                        "question": "Platinum-based drugs like cisplatin and carboplatin are examples of non-cell cycle active agents. What is their primary molecular target and cytotoxic mechanism?",
+                        "goodAnswer": "They form platinum adducts with DNA, particularly at guanine bases, leading to intrastrand and interstrand DNA crosslinks that disrupt DNA replication and transcription.",
+                        "wrongAnswer_1": "They intercalate into DNA, causing distortion of the DNA helix and inhibition of topoisomerase II, primarily affecting cells in the S and G2 phases of the cell cycle.",
+                        "wrongAnswer_2": "They inhibit dihydrofolate reductase, reducing folate levels and disrupting nucleotide biosynthesis, mainly affecting cells in the S phase of the cell cycle.",
+                        "wrongAnswer_3": "They bind to tubulin and prevent microtubule polymerization, disrupting mitotic spindle formation and arresting cells in the M phase of the cell cycle.",
+                        "wrongAnswer_4": "They inhibit proteasomes, leading to accumulation of misfolded proteins and cellular stress, predominantly affecting rapidly dividing cells in all phases of the cell cycle."
+                    }
+                ]
+            },
+            {
+                "title": "Toxicities of chemotherapeutic agents",
+                "quizzes": [
+                    {
+                        "question": "Myelosuppression is a common dose-limiting toxicity associated with many chemotherapeutic agents. Which of the following best describes the underlying mechanism?",
+                        "goodAnswer": "Chemotherapeutic agents target rapidly dividing cells, including hematopoietic stem cells in the bone marrow, leading to reduced production of erythrocytes, leukocytes, and platelets.",
+                        "wrongAnswer_1": "Chemotherapeutic agents directly damage the liver, impairing its ability to produce clotting factors and erythropoietin, resulting in anemia and thrombocytopenia.",
+                        "wrongAnswer_2": "Chemotherapeutic agents induce inflammation in the bone marrow, leading to immune-mediated destruction of hematopoietic stem cells and subsequent cytopenias.",
+                        "wrongAnswer_3": "Chemotherapeutic agents increase the rate of apoptosis in mature blood cells circulating in the peripheral blood, leading to rapid depletion of red blood cells, white blood cells, and platelets.",
+                        "wrongAnswer_4": "Chemotherapeutic agents selectively target and destroy bone marrow stromal cells, which are essential for supporting hematopoiesis, leading to bone marrow failure."
+                    },
+                    {
+                        "question": "Alopecia, or hair loss, is a frequent side effect of chemotherapy. What is the primary reason for this toxicity?",
+                        "goodAnswer": "Chemotherapeutic drugs target rapidly dividing cells, including hair follicle cells, leading to disruption of hair growth and subsequent hair loss.",
+                        "wrongAnswer_1": "Chemotherapeutic agents cause vasoconstriction in the scalp, reducing blood supply to hair follicles and leading to hair follicle atrophy and hair loss.",
+                        "wrongAnswer_2": "Chemotherapeutic drugs accumulate in hair follicles and directly damage the hair shaft, causing hair breakage and subsequent hair loss.",
+                        "wrongAnswer_3": "Chemotherapeutic agents induce an autoimmune reaction against hair follicle cells, leading to immune-mediated destruction of hair follicles and alopecia.",
+                        "wrongAnswer_4": "Chemotherapeutic agents alter hormone levels, specifically increasing dihydrotestosterone (DHT), which leads to miniaturization of hair follicles and hair loss, similar to male pattern baldness."
+                    },
+                    {
+                        "question": "Nephrotoxicity is a significant concern with certain chemotherapeutic agents, particularly cisplatin. What is the major mechanism contributing to cisplatin-induced kidney damage?",
+                        "goodAnswer": "Cisplatin accumulates in renal tubular cells, causing direct tubular damage, oxidative stress, and inflammation, leading to acute kidney injury and decreased renal function.",
+                        "wrongAnswer_1": "Cisplatin induces glomerular damage by directly targeting glomerular endothelial cells and podocytes, leading to proteinuria and nephrotic syndrome.",
+                        "wrongAnswer_2": "Cisplatin causes renal vasoconstriction, reducing renal blood flow and leading to ischemic kidney injury and acute tubular necrosis.",
+                        "wrongAnswer_3": "Cisplatin promotes the formation of kidney stones by increasing urinary excretion of calcium and oxalate, leading to obstructive nephropathy and renal dysfunction.",
+                        "wrongAnswer_4": "Cisplatin triggers an autoimmune reaction against renal tubular antigens, leading to immune-mediated tubulointerstitial nephritis and chronic kidney disease."
+                    },
+                    {
+                        "question": "Cardiotoxicity is a well-documented adverse effect associated with anthracycline chemotherapeutic agents like doxorubicin. What is the primary mechanism of anthracycline-induced cardiac damage?",
+                        "goodAnswer": "Anthracyclines generate reactive oxygen species (ROS) and intercalate into cardiac myocyte DNA, causing oxidative stress, DNA damage, and mitochondrial dysfunction, leading to cardiomyopathy.",
+                        "wrongAnswer_1": "Anthracyclines directly inhibit cardiac sodium channels, disrupting cardiac electrical conduction and leading to arrhythmias and heart failure.",
+                        "wrongAnswer_2": "Anthracyclines induce coronary artery vasoconstriction, reducing blood supply to the heart muscle and leading to ischemic cardiomyopathy and myocardial infarction.",
+                        "wrongAnswer_3": "Anthracyclines cause inflammation of the pericardium and myocardium, leading to pericarditis and myocarditis, which can progress to dilated cardiomyopathy.",
+                        "wrongAnswer_4": "Anthracyclines promote the deposition of amyloid protein in the heart muscle, leading to restrictive cardiomyopathy and impaired cardiac function."
+                    }
+                ]
+            },
+            {
+                "title": "Combination Chemotherapy",
+                "quizzes": [
+                    {
+                        "question": "What is the primary rationale for using combination chemotherapy regimens in cancer treatment?",
+                        "goodAnswer": "To achieve synergistic or additive antitumor effects, overcome drug resistance, broaden the spectrum of activity against heterogeneous tumor cell populations, and reduce the likelihood of resistance development.",
+                        "wrongAnswer_1": "To reduce the overall cost of cancer treatment by using lower doses of multiple drugs instead of high doses of a single agent, thereby minimizing manufacturing and administration expenses.",
+                        "wrongAnswer_2": "To simplify the chemotherapy administration schedule and improve patient compliance by reducing the number of drugs and treatment cycles required for effective therapy.",
+                        "wrongAnswer_3": "To specifically target cancer cells while completely sparing normal tissues, thus eliminating systemic toxicities and improving the patient's quality of life during treatment.",
+                        "wrongAnswer_4": "To enhance the accuracy of drug delivery to the tumor site by using multiple drugs with different pharmacokinetic properties, ensuring that each drug reaches the tumor in sufficient concentration."
+                    },
+                    {
+                        "question": "In combination chemotherapy, what does the term 'synergism' typically imply?",
+                        "goodAnswer": "The combined effect of two or more drugs is greater than the sum of their individual effects, leading to enhanced tumor cell kill at lower doses and potentially reduced toxicity.",
+                        "wrongAnswer_1": "The combined effect of two or more drugs is equal to the sum of their individual effects, resulting in an additive antitumor response without any enhanced efficacy.",
+                        "wrongAnswer_2": "The combined effect of two or more drugs is less than the sum of their individual effects, indicating antagonism and reduced overall therapeutic benefit.",
+                        "wrongAnswer_3": "The drugs in combination compete with each other for binding sites on cancer cells, resulting in diminished efficacy compared to using the drugs alone.",
+                        "wrongAnswer_4": "One drug in the combination enhances the toxicity of the other drug, leading to increased side effects without a corresponding increase in antitumor activity."
+                    },
+                    {
+                        "question": "When designing combination chemotherapy regimens, what is a crucial strategy to minimize overlapping toxicities and improve tolerability?",
+                        "goodAnswer": "Selecting drugs with non-overlapping or minimally overlapping toxicities, ensuring that each drug targets different organs or systems to avoid cumulative damage and severe adverse effects.",
+                        "wrongAnswer_1": "Using the maximum tolerated dose (MTD) for each drug in the combination to maximize antitumor efficacy, regardless of the potential for increased overlapping toxicities.",
+                        "wrongAnswer_2": "Administering all drugs in the combination simultaneously to achieve peak plasma concentrations at the same time, thereby maximizing synergistic interactions and antitumor effects.",
+                        "wrongAnswer_3": "Choosing drugs with similar mechanisms of action to enhance the cytotoxic effect on cancer cells, even if it leads to increased overlapping toxicities due to targeting the same pathways.",
+                        "wrongAnswer_4": "Rotating the drugs in the combination regimen frequently to prevent the development of resistance and minimize cumulative toxicities by allowing for recovery periods."
+                    },
+                    {
+                        "question": "The acronym 'CHOP' (Cyclophosphamide, Hydroxydaunorubicin (Doxorubicin), Vincristine (Oncovin), Prednisone) represents a common combination chemotherapy regimen used for Non-Hodgkin Lymphoma. What is the rationale behind this specific drug combination?",
+                        "goodAnswer": "CHOP combines drugs with different mechanisms of action (alkylating agent, anthracycline, microtubule inhibitor, corticosteroid) and non-overlapping toxicities to maximize efficacy and minimize side effects in lymphoma treatment.",
+                        "wrongAnswer_1": "CHOP is designed to target only rapidly proliferating cells, specifically lymphoma cells, while completely sparing normal hematopoietic cells and other non-dividing tissues, leading to minimal myelosuppression.",
+                        "wrongAnswer_2": "CHOP drugs are all cell cycle specific agents that synergistically target lymphoma cells in the S and M phases of the cell cycle, leading to rapid tumor shrinkage and complete remission.",
+                        "wrongAnswer_3": "CHOP regimen utilizes drugs with similar toxicities to achieve a cumulative effect on lymphoma cells, even if it results in significant overlapping toxicities and requires intensive supportive care.",
+                        "wrongAnswer_4": "CHOP combination was chosen primarily for its cost-effectiveness and ease of administration, rather than for specific pharmacological rationale or synergistic antitumor activity against lymphoma."
+                    }
+                ]
+            },
+            {
+                "title": "Tumor Host and cellular resistance",
+                "quizzes": [
+                    {
+                        "question": "What is the role of tumor heterogeneity in the development of cellular resistance to chemotherapy?",
+                        "goodAnswer": "Pre-existing genetic and epigenetic diversity within the tumor cell population allows for selection of resistant clones upon chemotherapy exposure, leading to treatment failure and relapse.",
+                        "wrongAnswer_1": "Tumor heterogeneity actually reduces the likelihood of resistance because diverse cell populations are more susceptible to a broader range of chemotherapeutic agents, preventing resistance selection.",
+                        "wrongAnswer_2": "Tumor heterogeneity promotes cellular differentiation and maturation, making cancer cells less proliferative and more sensitive to chemotherapy-induced cell death.",
+                        "wrongAnswer_3": "Tumor heterogeneity leads to increased immune surveillance and elimination of resistant clones by the host immune system, preventing the emergence of drug resistance.",
+                        "wrongAnswer_4": "Tumor heterogeneity results in uniform drug distribution throughout the tumor mass, ensuring that all cancer cells are exposed to therapeutic drug concentrations and preventing resistance development."
+                    },
+                    {
+                        "question": "Which of the following cellular mechanisms is most directly associated with the development of acquired resistance to alkylating agents like cyclophosphamide?",
+                        "goodAnswer": "Increased expression of DNA repair enzymes, such as alkylguanine-DNA alkyltransferase (AGAT) and O6-methylguanine-DNA methyltransferase (MGMT), which can remove alkyl adducts from DNA and reverse drug-induced damage.",
+                        "wrongAnswer_1": "Decreased expression of drug influx transporters, which reduces the intracellular concentration of alkylating agents and limits their access to DNA targets within the cancer cell.",
+                        "wrongAnswer_2": "Upregulation of drug-metabolizing enzymes, such as cytochrome P450 enzymes, which leads to increased inactivation of alkylating agents and reduced intracellular drug levels.",
+                        "wrongAnswer_3": "Mutation in the drug target proteins, such as tubulin or topoisomerases, that reduces the binding affinity of alkylating agents and diminishes their cytotoxic efficacy.",
+                        "wrongAnswer_4": "Increased activity of pro-apoptotic signaling pathways, which makes cancer cells more susceptible to alkylating agent-induced apoptosis and prevents resistance development."
+                    },
+                    {
+                        "question": "How does the tumor microenvironment contribute to chemotherapy resistance?",
+                        "goodAnswer": "Components of the tumor microenvironment, such as stromal cells, extracellular matrix, and hypoxia, can secrete factors that protect cancer cells from chemotherapy and promote drug resistance through various mechanisms.",
+                        "wrongAnswer_1": "The tumor microenvironment enhances drug delivery to cancer cells by increasing blood vessel permeability and improving drug penetration into the tumor mass, thus overcoming resistance.",
+                        "wrongAnswer_2": "The tumor microenvironment stimulates the host immune system to eliminate chemotherapy-resistant cancer cells, thereby preventing the development of acquired resistance.",
+                        "wrongAnswer_3": "The tumor microenvironment provides essential nutrients and growth factors that make cancer cells more sensitive to chemotherapy-induced cell death and reduce resistance.",
+                        "wrongAnswer_4": "The tumor microenvironment promotes cellular differentiation and maturation of cancer cells, making them less proliferative and more susceptible to chemotherapy."
+                    },
+                    {
+                        "question": "What is the role of 'Cancer Stem Cells (CSCs)' in the context of chemotherapy resistance and tumor recurrence?",
+                        "goodAnswer": "CSCs, a subpopulation of cancer cells with stem-like properties, are often intrinsically resistant to chemotherapy and can survive treatment, leading to tumor recurrence and metastasis after initial therapy.",
+                        "wrongAnswer_1": "CSCs are highly sensitive to chemotherapy and are preferentially eliminated by treatment, leading to complete tumor eradication and prevention of recurrence.",
+                        "wrongAnswer_2": "CSCs are responsible for tumor initiation but do not play a significant role in chemotherapy resistance or tumor recurrence, as they are effectively targeted by conventional chemotherapy.",
+                        "wrongAnswer_3": "CSCs differentiate into more mature cancer cells upon chemotherapy exposure, making them more susceptible to subsequent treatments and preventing tumor recurrence.",
+                        "wrongAnswer_4": "CSCs enhance the immune response against the tumor, leading to immune-mediated elimination of both CSCs and bulk tumor cells and preventing chemotherapy resistance."
+                    }
+                ]
+            }
+        ]
+    }
+}

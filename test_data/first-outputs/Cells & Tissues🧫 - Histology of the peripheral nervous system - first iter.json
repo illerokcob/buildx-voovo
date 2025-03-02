@@ -1,0 +1,206 @@
+{
+    "mainTopic": {
+        "title": "Histology of the peripheral nervous system",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Structural and functional organization of the nervous system",
+                "quizzes": [
+                    {
+                        "question": "What are the primary divisions of the nervous system based on anatomical structure?",
+                        "goodAnswer": "The nervous system is structurally divided into the Central Nervous System (CNS), comprising the brain and spinal cord, and the Peripheral Nervous System (PNS), encompassing all neural tissue outside the CNS.",
+                        "wrongAnswer_1": "The nervous system is structurally divided into the Cranial Nervous System (CrNS), including the brain and cranial nerves, and the Spinal Nervous System (SpNS), consisting of the spinal cord and spinal nerves.",
+                        "wrongAnswer_2": "The nervous system is structurally divided into the Voluntary Nervous System (VNS), controlling conscious actions, and the Involuntary Nervous System (INS), regulating unconscious processes.",
+                        "wrongAnswer_3": "The nervous system is structurally divided into the Upper Nervous System (UNS), located above the neck, and the Lower Nervous System (LNS), situated below the neck, including limbs and torso.",
+                        "wrongAnswer_4": "The nervous system is structurally divided into the Anterior Nervous System (ANS), located in the front of the body, and the Posterior Nervous System (PNS), situated in the back of the body."
+                    },
+                    {
+                        "question": "Functionally, how is the nervous system organized to process and respond to stimuli?",
+                        "goodAnswer": "Functionally, the nervous system is organized into the Sensory (afferent) division, which transmits impulses from receptors to the CNS, and the Motor (efferent) division, which transmits impulses from the CNS to effectors.",
+                        "wrongAnswer_1": "Functionally, the nervous system is organized into the Input division, which receives signals from the external environment, and the Output division, which sends signals to the internal organs.",
+                        "wrongAnswer_2": "Functionally, the nervous system is organized into the Cognitive division, responsible for thought and reasoning, and the Reflexive division, responsible for automatic responses.",
+                        "wrongAnswer_3": "Functionally, the nervous system is organized into the Electrical division, which handles fast signal transmission, and the Chemical division, which manages slower, hormonal communication.",
+                        "wrongAnswer_4": "Functionally, the nervous system is organized into the Conscious division, dealing with voluntary actions, and the Subconscious division, managing involuntary actions and habits."
+                    },
+                    {
+                        "question": "What are the major components of the Motor division of the nervous system, and what are their respective roles?",
+                        "goodAnswer": "The Motor division is composed of the Somatic Nervous System (SNS), controlling voluntary skeletal muscle movements, and the Autonomic Nervous System (ANS), regulating involuntary functions of smooth muscle, cardiac muscle, and glands.",
+                        "wrongAnswer_1": "The Motor division is composed of the Skeletal Nervous System (SkNS), controlling all muscle types, and the Visceral Nervous System (VNS), controlling only internal organ functions and excluding glands.",
+                        "wrongAnswer_2": "The Motor division is composed of the Voluntary Nervous System (VNS), controlling all conscious movements, and the Reflex Nervous System (RNS), managing unconscious reflex actions only.",
+                        "wrongAnswer_3": "The Motor division is composed of the Central Motor System (CMS), originating from the brain, and the Peripheral Motor System (PMS), originating from the spinal cord and peripheral nerves.",
+                        "wrongAnswer_4": "The Motor division is composed of the Action Nervous System (AcNS), responsible for initiating movements, and the Regulatory Nervous System (ReNS), responsible for fine-tuning movements."
+                    }
+                ]
+            },
+            {
+                "title": "Cellular components of the nervous system",
+                "quizzes": [
+                    {
+                        "question": "What are the two main types of cells comprising the nervous tissue, and what are their primary functions?",
+                        "goodAnswer": "Nervous tissue consists of neurons, which are excitable cells that transmit electrical signals, and neuroglia (glial cells), which are supporting cells that protect, nourish, and maintain neurons.",
+                        "wrongAnswer_1": "Nervous tissue consists of nerve cells, which conduct all nervous system functions, and blood cells, which provide oxygen and nutrients to the nervous tissue.",
+                        "wrongAnswer_2": "Nervous tissue consists of neurons, responsible for rapid communication, and muscle cells, responsible for structural support and protection of neurons.",
+                        "wrongAnswer_3": "Nervous tissue consists of glial cells, which transmit signals, and neurons, which provide structural framework and immune defense.",
+                        "wrongAnswer_4": "Nervous tissue consists of excitable cells, which generate action potentials, and connective tissue cells, which bind and support nervous tissue components."
+                    },
+                    {
+                        "question": "Identify the key structural components of a neuron and their respective functions in neuronal communication.",
+                        "goodAnswer": "A neuron consists of dendrites, which receive signals; a cell body (soma), which integrates signals; an axon, which transmits signals; and axon terminals (synaptic knobs), which release neurotransmitters to communicate with other cells.",
+                        "wrongAnswer_1": "A neuron consists of dendrites, which transmit signals away from the cell; a cell body, which generates action potentials; an axon, which receives signals; and axon terminals, which synthesize proteins for neuronal function.",
+                        "wrongAnswer_2": "A neuron consists of neurofibrils, which provide structural support; a nucleus, which conducts electrical impulses; cytoplasm, which insulates the axon; and myelin sheath, which receives incoming signals.",
+                        "wrongAnswer_3": "A neuron consists of synapses, which generate electrical signals; nodes of Ranvier, which integrate chemical signals; Schwann cells, which release neurotransmitters; and Nissl bodies, which receive and process signals.",
+                        "wrongAnswer_4": "A neuron consists of cilia, which detect chemical stimuli; flagella, which facilitate movement of neurotransmitters; ribosomes, which conduct electrical signals; and Golgi apparatus, which stores action potentials."
+                    },
+                    {
+                        "question": "Describe the diverse functions of neuroglia (glial cells) in the central nervous system.",
+                        "goodAnswer": "In the CNS, astrocytes support and regulate the neuronal environment, oligodendrocytes form myelin sheaths, microglia act as immune cells, and ependymal cells line ventricles and produce cerebrospinal fluid.",
+                        "wrongAnswer_1": "In the CNS, Schwann cells form myelin sheaths, astrocytes conduct action potentials, microglia produce neurotransmitters, and ependymal cells provide structural support to neurons.",
+                        "wrongAnswer_2": "In the CNS, satellite cells regulate ion concentration around neurons, oligodendrocytes remove cellular debris, astrocytes generate nerve impulses, and ependymal cells form the blood-brain barrier.",
+                        "wrongAnswer_3": "In the CNS, microglia transport nutrients to neurons, astrocytes insulate axons, oligodendrocytes regulate neurotransmitter reuptake, and ependymal cells participate in synaptic transmission.",
+                        "wrongAnswer_4": "In the CNS, neurons provide structural support, astrocytes transmit signals, oligodendrocytes maintain the blood-brain barrier, and ependymal cells act as phagocytes."
+                    },
+                    {
+                        "question": "How do glial cells contribute to the formation and maintenance of the blood-brain barrier?",
+                        "goodAnswer": "Astrocytes, through their perivascular feet, surround blood capillaries in the CNS and induce tight junctions between endothelial cells, thus forming the blood-brain barrier which restricts passage of substances into the brain tissue.",
+                        "wrongAnswer_1": "Microglia, by phagocytizing pathogens near blood vessels, create a physical barrier that prevents harmful substances from entering the brain tissue, thus forming the blood-brain barrier.",
+                        "wrongAnswer_2": "Oligodendrocytes, by myelinating axons around blood vessels, provide an insulating layer that selectively allows passage of nutrients while blocking toxins, forming the blood-brain barrier.",
+                        "wrongAnswer_3": "Ependymal cells, which line the ventricles, secrete a fluid that coats the brain capillaries and prevents large molecules from crossing into the brain tissue, forming the blood-brain barrier.",
+                        "wrongAnswer_4": "Schwann cells, by surrounding peripheral nerves and extending processes to brain capillaries, filter blood and prevent entry of large molecules, thus contributing to the blood-brain barrier."
+                    }
+                ]
+            },
+            {
+                "title": "Synaptic connections and neuromuscular junction",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental process of synaptic transmission at a chemical synapse?",
+                        "goodAnswer": "Chemical synaptic transmission involves the release of neurotransmitters from the presynaptic neuron upon arrival of an action potential, diffusion of neurotransmitters across the synaptic cleft, and binding to receptors on the postsynaptic neuron, leading to a postsynaptic potential.",
+                        "wrongAnswer_1": "Chemical synaptic transmission involves the direct flow of ions from the presynaptic neuron to the postsynaptic neuron through gap junctions, causing immediate depolarization or hyperpolarization of the postsynaptic membrane.",
+                        "wrongAnswer_2": "Chemical synaptic transmission involves the electrical conduction of action potentials across the synaptic cleft, directly stimulating the postsynaptic neuron without the need for neurotransmitters.",
+                        "wrongAnswer_3": "Chemical synaptic transmission involves the release of hormones from the presynaptic neuron, which travel through the bloodstream to reach and activate receptors on the postsynaptic neuron.",
+                        "wrongAnswer_4": "Chemical synaptic transmission involves the physical contact between the presynaptic and postsynaptic membranes, allowing for direct transfer of membrane proteins and lipids to induce a response."
+                    },
+                    {
+                        "question": "Describe the sequence of events at a chemical synapse leading to neurotransmitter release.",
+                        "goodAnswer": "Action potential arrives at axon terminal -> Voltage-gated Ca2+ channels open -> Ca2+ influx into axon terminal -> Vesicles containing neurotransmitter fuse with presynaptic membrane -> Neurotransmitter is released into synaptic cleft.",
+                        "wrongAnswer_1": "Action potential arrives at dendrites -> Voltage-gated Na+ channels open -> Na+ influx into dendrites -> Neurotransmitter is synthesized in dendrites -> Neurotransmitter is released into synaptic cleft.",
+                        "wrongAnswer_2": "Graded potential arrives at axon hillock -> Ligand-gated Cl- channels open -> Cl- influx into axon hillock -> Vesicles migrate to postsynaptic membrane -> Neurotransmitter binds to presynaptic receptors.",
+                        "wrongAnswer_3": "Resting membrane potential is reached at axon terminal -> Voltage-gated K+ channels open -> K+ efflux from axon terminal -> Neurotransmitter is reuptaken into presynaptic neuron -> Synaptic transmission is terminated.",
+                        "wrongAnswer_4": "Action potential arrives at cell body -> Voltage-gated Mg2+ channels open -> Mg2+ influx into cell body -> Neurotransmitter is transported through microtubules -> Neurotransmitter is released into bloodstream."
+                    },
+                    {
+                        "question": "What is the role of the neuromuscular junction (NMJ) and how does it differ from typical neuronal synapses?",
+                        "goodAnswer": "The NMJ is a specialized synapse between a motor neuron and a skeletal muscle fiber; it ensures reliable and rapid transmission to elicit muscle contraction, using acetylcholine as the primary neurotransmitter and having a highly folded postsynaptic membrane (motor end plate).",
+                        "wrongAnswer_1": "The NMJ is a synapse between sensory neurons and muscle fibers; it modulates muscle sensitivity to stimuli, using GABA as the primary neurotransmitter and lacking a specialized postsynaptic structure.",
+                        "wrongAnswer_2": "The NMJ is a synapse between interneurons and motor neurons; it integrates signals to control muscle tone, using dopamine as the primary neurotransmitter and having a simple, flat postsynaptic membrane.",
+                        "wrongAnswer_3": "The NMJ is a synapse between autonomic neurons and smooth muscle; it regulates involuntary muscle movements, using norepinephrine as the primary neurotransmitter and having a widely dispersed neurotransmitter release.",
+                        "wrongAnswer_4": "The NMJ is a type of electrical synapse found in muscle tissue; it allows direct ion flow between neurons and muscle cells, using electrical current as the primary signal and having gap junctions for communication."
+                    },
+                    {
+                        "question": "Describe the process of signal termination at a cholinergic synapse like the neuromuscular junction.",
+                        "goodAnswer": "Acetylcholine esterase (AChE) in the synaptic cleft hydrolyzes acetylcholine (ACh) into acetate and choline, effectively removing ACh from the synapse and terminating the signal; choline is then reuptaken by the presynaptic terminal for ACh resynthesis.",
+                        "wrongAnswer_1": "Acetylcholine (ACh) is actively transported back into the presynaptic neuron by transporter proteins, directly removing ACh from the synapse and terminating the signal; AChE plays no role in this process.",
+                        "wrongAnswer_2": "Acetylcholine (ACh) diffuses away from the synaptic cleft and is metabolized by enzymes in the extracellular fluid, indirectly reducing ACh concentration and terminating the signal; reuptake is not involved.",
+                        "wrongAnswer_3": "Acetylcholine (ACh) binds to presynaptic autoreceptors, which trigger a negative feedback loop to inhibit further ACh release, thus terminating the signal; AChE degrades ACh inside the presynaptic terminal.",
+                        "wrongAnswer_4": "Acetylcholine (ACh) is neutralized by antagonist molecules released from glial cells in the synaptic cleft, which bind to ACh and render it inactive, thus terminating the signal; AChE is involved in ACh synthesis."
+                    }
+                ]
+            },
+            {
+                "title": "Nerve fibers and myelination",
+                "quizzes": [
+                    {
+                        "question": "What is the role of myelination in nerve fibers, and which cells are responsible for myelination in the central and peripheral nervous systems?",
+                        "goodAnswer": "Myelination increases the speed of action potential conduction by providing insulation and enabling saltatory conduction. Oligodendrocytes myelinate CNS axons, while Schwann cells myelinate PNS axons.",
+                        "wrongAnswer_1": "Myelination decreases the speed of action potential conduction by increasing membrane resistance. Astrocytes myelinate CNS axons, while microglia myelinate PNS axons.",
+                        "wrongAnswer_2": "Myelination enhances neurotransmitter release at synapses by increasing axon diameter. Ependymal cells myelinate CNS axons, while satellite cells myelinate PNS axons.",
+                        "wrongAnswer_3": "Myelination protects nerve fibers from physical damage and provides structural support. Neurons myelinate their own axons in both the CNS and PNS.",
+                        "wrongAnswer_4": "Myelination facilitates nutrient transport to nerve fibers and removes metabolic waste. Fibroblasts myelinate CNS axons, while chondrocytes myelinate PNS axons."
+                    },
+                    {
+                        "question": "Describe the process of saltatory conduction in myelinated nerve fibers and its advantage over continuous conduction.",
+                        "goodAnswer": "Saltatory conduction involves action potentials 'jumping' between Nodes of Ranvier in myelinated axons, resulting in faster propagation speed and energy efficiency compared to continuous conduction, which involves sequential depolarization along the entire unmyelinated axon.",
+                        "wrongAnswer_1": "Saltatory conduction involves action potentials traveling continuously along the myelin sheath, which provides a low-resistance pathway, resulting in slower propagation speed but higher signal fidelity compared to continuous conduction.",
+                        "wrongAnswer_2": "Saltatory conduction involves action potentials being generated only at the axon hillock and then passively spreading to axon terminals in myelinated fibers, resulting in minimal energy expenditure but limited signal strength compared to continuous conduction.",
+                        "wrongAnswer_3": "Saltatory conduction involves action potentials moving in a retrograde direction along myelinated axons, allowing for faster feedback signaling to the cell body compared to continuous conduction, which is exclusively anterograde.",
+                        "wrongAnswer_4": "Saltatory conduction involves action potentials being confined to the internodes between Nodes of Ranvier in myelinated axons, causing slower but more localized signal transmission compared to continuous conduction, which is more widespread."
+                    },
+                    {
+                        "question": "What are Nodes of Ranvier, and what is their functional significance in myelinated nerve fibers?",
+                        "goodAnswer": "Nodes of Ranvier are gaps in the myelin sheath along a myelinated axon where the axon membrane is exposed. They are sites of high concentration of voltage-gated Na+ and K+ channels, crucial for regeneration of action potentials during saltatory conduction.",
+                        "wrongAnswer_1": "Nodes of Ranvier are regions where myelin sheath is thickest, providing maximum insulation to the axon. They contain high concentrations of ligand-gated channels, facilitating neurotransmitter binding and signal integration.",
+                        "wrongAnswer_2": "Nodes of Ranvier are segments of the axon where myelin is absent due to damage or degeneration. They are sites of passive ion leakage, leading to signal attenuation in myelinated fibers.",
+                        "wrongAnswer_3": "Nodes of Ranvier are specialized structures for nutrient exchange between Schwann cells and the axon. They contain mitochondria and ribosomes to support myelin synthesis and axon metabolism.",
+                        "wrongAnswer_4": "Nodes of Ranvier are points of attachment for glial cells to the axon, providing structural support and preventing axon stretching. They are composed of extracellular matrix proteins and anchoring filaments."
+                    }
+                ]
+            },
+            {
+                "title": "Types of ganglia - autonomic and sensory",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between autonomic and sensory ganglia based on their location, function, and type of neurons they contain.",
+                        "goodAnswer": "Autonomic ganglia are located in the PNS and contain cell bodies of autonomic motor neurons, relaying signals to visceral effectors. Sensory ganglia, also in the PNS, contain cell bodies of sensory neurons, relaying sensory information to the CNS.",
+                        "wrongAnswer_1": "Autonomic ganglia are located in the CNS and contain cell bodies of autonomic sensory neurons, receiving information from visceral organs. Sensory ganglia are located in the CNS and contain cell bodies of sensory motor neurons, sending signals to skeletal muscles.",
+                        "wrongAnswer_2": "Autonomic ganglia are located in both CNS and PNS and contain cell bodies of both sensory and motor neurons, integrating autonomic reflexes. Sensory ganglia are exclusively in the CNS and contain cell bodies of interneurons, processing sensory inputs.",
+                        "wrongAnswer_3": "Autonomic ganglia are part of the somatic nervous system and contain cell bodies of somatic motor neurons, controlling voluntary muscle movements. Sensory ganglia are part of the autonomic nervous system and contain cell bodies of autonomic neurons, regulating involuntary functions.",
+                        "wrongAnswer_4": "Autonomic ganglia are only found in the cranial cavity and contain cell bodies of cranial nerve neurons, controlling head and neck functions. Sensory ganglia are only found in the spinal cord and contain cell bodies of spinal nerve neurons, processing spinal reflexes."
+                    },
+                    {
+                        "question": "What are the subdivisions of autonomic ganglia, and where are they typically located in relation to the spinal cord and effector organs?",
+                        "goodAnswer": "Autonomic ganglia are subdivided into sympathetic ganglia (paravertebral and prevertebral), typically located near the spinal cord or abdominal aorta, and parasympathetic ganglia (terminal or intramural), located close to or within effector organs.",
+                        "wrongAnswer_1": "Autonomic ganglia are subdivided into cranial ganglia, located within the skull, and spinal ganglia, located along the spinal column, both controlling somatic motor functions.",
+                        "wrongAnswer_2": "Autonomic ganglia are subdivided into dorsal root ganglia, located posteriorly to the spinal cord, and ventral root ganglia, located anteriorly, both involved in sensory processing.",
+                        "wrongAnswer_3": "Autonomic ganglia are subdivided into central ganglia, located within the brainstem, and peripheral ganglia, located in the limbs, both regulating higher cognitive functions.",
+                        "wrongAnswer_4": "Autonomic ganglia are subdivided into afferent ganglia, carrying sensory information, and efferent ganglia, carrying motor commands, both located along peripheral nerve pathways."
+                    },
+                    {
+                        "question": "Describe the structure and function of dorsal root ganglia (DRG) as a primary type of sensory ganglia.",
+                        "goodAnswer": "Dorsal root ganglia are sensory ganglia located adjacent to the spinal cord's dorsal roots. They contain pseudounipolar sensory neuron cell bodies that transmit sensory information from peripheral receptors to the spinal cord, lacking synapses within the ganglia.",
+                        "wrongAnswer_1": "Dorsal root ganglia are autonomic ganglia located within the spinal cord's dorsal horns. They contain multipolar autonomic neuron cell bodies that control visceral reflexes and have synapses for preganglionic and postganglionic neurons.",
+                        "wrongAnswer_2": "Dorsal root ganglia are motor ganglia located near skeletal muscles. They contain bipolar motor neuron cell bodies that initiate voluntary muscle contractions and form neuromuscular junctions within the ganglia.",
+                        "wrongAnswer_3": "Dorsal root ganglia are glial cell clusters located within the brain ventricles. They contain ependymal cells and astrocytes that produce cerebrospinal fluid and regulate the brain's internal environment.",
+                        "wrongAnswer_4": "Dorsal root ganglia are interneuron ganglia located within the cerebral cortex. They contain pyramidal neuron cell bodies that process complex sensory information and integrate cognitive functions within the ganglia."
+                    }
+                ]
+            },
+            {
+                "title": "Mechanosensory receptors and neuromuscular spindles",
+                "quizzes": [
+                    {
+                        "question": "What are mechanosensory receptors, and how do they transduce mechanical stimuli into electrical signals?",
+                        "goodAnswer": "Mechanosensory receptors are specialized nerve endings that respond to mechanical stimuli like pressure, touch, vibration, and stretch. They transduce these stimuli into electrical signals by opening mechanically gated ion channels, leading to depolarization or receptor potentials.",
+                        "wrongAnswer_1": "Mechanosensory receptors are specialized glial cells that respond to chemical stimuli like neurotransmitters and hormones. They transduce these stimuli into electrical signals by activating ligand-gated ion channels, leading to hyperpolarization or inhibitory potentials.",
+                        "wrongAnswer_2": "Mechanosensory receptors are specialized muscle fibers that respond to thermal stimuli like heat and cold. They transduce these stimuli into electrical signals by activating voltage-gated ion channels, leading to action potentials or muscle contractions.",
+                        "wrongAnswer_3": "Mechanosensory receptors are specialized epithelial cells that respond to light stimuli like photons and wavelengths. They transduce these stimuli into electrical signals by activating photopigment cascades, leading to graded potentials or visual signals.",
+                        "wrongAnswer_4": "Mechanosensory receptors are specialized immune cells that respond to inflammatory stimuli like cytokines and antigens. They transduce these stimuli into electrical signals by activating intracellular signaling pathways, leading to immune responses or pain sensations."
+                    },
+                    {
+                        "question": "Describe the structure and function of neuromuscular spindles in skeletal muscles.",
+                        "goodAnswer": "Neuromuscular spindles are stretch receptors within skeletal muscles that monitor muscle length and rate of change in length. They consist of intrafusal muscle fibers innervated by sensory (Ia and II) and motor (gamma) neurons, providing proprioceptive feedback and regulating muscle tone.",
+                        "wrongAnswer_1": "Neuromuscular spindles are tension receptors within tendons that monitor muscle force and rate of change in force. They consist of extrafusal muscle fibers innervated by Golgi tendon organs and alpha motor neurons, providing feedback for muscle contraction strength.",
+                        "wrongAnswer_2": "Neuromuscular spindles are pain receptors within muscle fascia that detect muscle damage and inflammation. They consist of nociceptive nerve endings innervated by C fibers and substance P, initiating pain reflexes and protective responses.",
+                        "wrongAnswer_3": "Neuromuscular spindles are chemoreceptors within muscle blood vessels that monitor muscle oxygen and CO2 levels. They consist of carotid bodies and aortic bodies innervated by autonomic nerves, regulating muscle blood flow and respiration.",
+                        "wrongAnswer_4": "Neuromuscular spindles are thermoreceptors within muscle skin that detect muscle temperature and heat dissipation. They consist of free nerve endings and sweat glands innervated by sympathetic nerves, controlling muscle thermoregulation and sweating."
+                    },
+                    {
+                        "question": "What are the roles of intrafusal and extrafusal muscle fibers within a neuromuscular spindle, and how do they contribute to muscle proprioception?",
+                        "goodAnswer": "Intrafusal fibers within the spindle detect muscle stretch, and their sensory neurons (Ia and II) transmit proprioceptive information to the CNS. Extrafusal fibers are the main force-generating muscle fibers outside the spindle, and their contraction is adjusted based on spindle feedback to maintain muscle tone and posture.",
+                        "wrongAnswer_1": "Intrafusal fibers are contractile fibers within the spindle that generate muscle force, and their motor neurons (alpha) initiate muscle contraction. Extrafusal fibers are sensory fibers outside the spindle that detect muscle tension, and their sensory neurons (Ib) transmit force information to the CNS.",
+                        "wrongAnswer_2": "Intrafusal fibers are inhibitory fibers within the spindle that reduce muscle excitability, and their interneurons modulate muscle reflexes. Extrafusal fibers are excitatory fibers outside the spindle that increase muscle excitability, and their neurotransmitters enhance muscle activation.",
+                        "wrongAnswer_3": "Intrafusal fibers are structural fibers within the spindle that provide support to muscle tissue, and their connective tissue elements maintain muscle integrity. Extrafusal fibers are metabolic fibers outside the spindle that regulate muscle energy production, and their enzymes control muscle metabolism.",
+                        "wrongAnswer_4": "Intrafusal fibers are immune cells within the spindle that protect muscle fibers from infection, and their lymphocytes initiate muscle inflammation. Extrafusal fibers are repair cells outside the spindle that regenerate damaged muscle tissue, and their stem cells promote muscle healing."
+                    },
+                    {
+                        "question": "Explain the function of gamma motor neurons in regulating the sensitivity of neuromuscular spindles.",
+                        "goodAnswer": "Gamma motor neurons innervate the contractile ends of intrafusal fibers, causing them to contract and increasing tension on the spindle's sensory region. This 'resets' the spindle sensitivity, allowing it to remain sensitive to stretch even when the whole muscle shortens during contraction, maintaining proprioceptive feedback across different muscle lengths.",
+                        "wrongAnswer_1": "Gamma motor neurons innervate extrafusal muscle fibers, causing them to contract and increasing muscle force. This enhances overall muscle strength and power, allowing for greater force generation during voluntary movements, independent of spindle sensitivity.",
+                        "wrongAnswer_2": "Gamma motor neurons innervate Golgi tendon organs, causing them to increase tension on tendons and inhibiting muscle contraction. This protects muscles from excessive force and prevents muscle damage, reducing spindle sensitivity during strong contractions.",
+                        "wrongAnswer_3": "Gamma motor neurons innervate sensory neurons within the spindle, causing them to decrease their firing rate and reducing proprioceptive feedback. This dampens muscle reflexes and reduces muscle tone, limiting spindle sensitivity to rapid stretches only.",
+                        "wrongAnswer_4": "Gamma motor neurons innervate blood vessels within the muscle, causing them to dilate and increasing blood flow to muscle tissue. This enhances muscle oxygen supply and nutrient delivery, improving muscle endurance but not directly affecting spindle sensitivity."
+                    }
+                ]
+            }
+        ]
+    }
+}

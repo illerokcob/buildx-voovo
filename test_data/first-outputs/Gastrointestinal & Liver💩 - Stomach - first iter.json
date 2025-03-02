@@ -1,0 +1,172 @@
+{
+    "mainTopic": {
+        "title": "Stomach",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Functions of stomach",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the primary functions of the stomach within the digestive system?",
+                        "goodAnswer": "To store ingested food, initiate protein digestion through enzymatic action, and regulate the release of chyme into the duodenum.",
+                        "wrongAnswer_1": "To absorb the majority of nutrients from ingested food, neutralize acidic chyme with bicarbonate secretions, and synthesize bile acids for fat emulsification.",
+                        "wrongAnswer_2": "To primarily focus on carbohydrate digestion through amylase secretion, absorb water and electrolytes, and eliminate undigested food residues.",
+                        "wrongAnswer_3": "To ferment dietary fibers through bacterial action, absorb vitamins produced by gut microbiota, and propel feces towards the rectum for excretion.",
+                        "wrongAnswer_4": "To secrete digestive enzymes for all macronutrients, absorb monosaccharides and amino acids directly into the bloodstream, and synthesize clotting factors."
+                    },
+                    {
+                        "question": "Beyond digestion, what other significant physiological role does the stomach fulfill in the human body?",
+                        "goodAnswer": "It provides a crucial barrier against ingested pathogens through its highly acidic environment and secretion of antimicrobial compounds.",
+                        "wrongAnswer_1": "It serves as the primary site for detoxification of bloodborne toxins and metabolic waste products through specialized filtration mechanisms.",
+                        "wrongAnswer_2": "It plays a key role in regulating blood glucose levels by secreting insulin and glucagon in response to nutrient intake.",
+                        "wrongAnswer_3": "It is essential for the synthesis and storage of fat-soluble vitamins (A, D, E, K) and their subsequent distribution throughout the body.",
+                        "wrongAnswer_4": "It is involved in the production of red blood cells and the breakdown of aged erythrocytes, contributing to iron recycling and hemoglobin synthesis."
+                    },
+                    {
+                        "question": "How does the stomach contribute to the mechanical breakdown of food, complementing its chemical digestion functions?",
+                        "goodAnswer": "Through muscular contractions of its wall, it churns and mixes food with gastric secretions, reducing particle size and forming chyme.",
+                        "wrongAnswer_1": "By utilizing peristaltic waves in the small intestine to retro-propel food back into the stomach for more effective physical breakdown.",
+                        "wrongAnswer_2": "Via the secretion of bile from the gallbladder, which emulsifies fats and indirectly aids in the mechanical disruption of food boluses.",
+                        "wrongAnswer_3": "Through a process of reverse osmosis, drawing water out of food boluses to concentrate solids and facilitate mechanical fragmentation.",
+                        "wrongAnswer_4": "By employing cilia lining the gastric mucosa to physically beat against food particles, breaking them down into smaller, more manageable pieces."
+                    }
+                ]
+            },
+            {
+                "title": "Structure of gastric gland",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the spatial arrangement of cell types within a typical gastric gland from the surface to the deeper layers?",
+                        "goodAnswer": "Mucous neck cells -> Parietal cells -> Chief cells -> Enteroendocrine cells, positioned along the gland's length.",
+                        "wrongAnswer_1": "Chief cells -> Parietal cells -> Mucous neck cells -> Enteroendocrine cells, with chief cells located closest to the gland's lumen.",
+                        "wrongAnswer_2": "Enteroendocrine cells -> Mucous neck cells -> Chief cells -> Parietal cells, forming concentric layers within the gland's basal region.",
+                        "wrongAnswer_3": "Parietal cells -> Chief cells -> Enteroendocrine cells -> Mucous neck cells, arranged in alternating columns within the gland structure.",
+                        "wrongAnswer_4": "Mucous neck cells -> Enteroendocrine cells -> Chief cells -> Parietal cells, uniformly distributed throughout the gastric gland epithelium."
+                    },
+                    {
+                        "question": "What is the primary structural adaptation of parietal cells that directly supports their function of hydrochloric acid (HCl) secretion?",
+                        "goodAnswer": "Extensive invaginations of the apical membrane forming canaliculi, which greatly increase the surface area for acid secretion into the gland lumen.",
+                        "wrongAnswer_1": "A highly developed network of rough endoplasmic reticulum (RER) and Golgi apparatus, dedicated to the synthesis of large quantities of digestive enzymes.",
+                        "wrongAnswer_2": "Numerous mitochondria concentrated at the basal membrane, providing ATP for active transport of bicarbonate ions into the bloodstream.",
+                        "wrongAnswer_3": "Specialized tight junctions between adjacent parietal cells, preventing backflow of secreted HCl into the lamina propria and underlying tissues.",
+                        "wrongAnswer_4": "Large storage vesicles containing pre-synthesized hydrochloric acid, which are released into the gastric lumen upon appropriate stimulation."
+                    },
+                    {
+                        "question": "How do mucous neck cells, located within the gastric glands, structurally and functionally differ from surface mucous cells of the stomach lining?",
+                        "goodAnswer": "Mucous neck cells secrete a less alkaline, more soluble mucus and are found in the gland necks, while surface mucous cells secrete a viscous, alkaline mucus covering the surface.",
+                        "wrongAnswer_1": "Surface mucous cells secrete a mucus rich in digestive enzymes, while mucous neck cells produce a bicarbonate-rich mucus for neutralizing gastric acid in the glands.",
+                        "wrongAnswer_2": "Mucous neck cells are characterized by abundant microvilli to increase surface area for nutrient absorption, whereas surface mucous cells are primarily secretory.",
+                        "wrongAnswer_3": "Surface mucous cells are stem cells responsible for regenerating the gastric epithelium, while mucous neck cells provide structural support to the gland architecture.",
+                        "wrongAnswer_4": "Mucous neck cells are innervated by parasympathetic nerve fibers to regulate mucus secretion, whereas surface mucous cells are hormonally controlled by gastrin."
+                    },
+                    {
+                        "question": "Which cellular component is predominantly found in chief cells and directly reflects their role in synthesizing and secreting pepsinogen?",
+                        "goodAnswer": "Abundant rough endoplasmic reticulum and Golgi apparatus, indicative of high protein synthesis and packaging for secretion.",
+                        "wrongAnswer_1": "Numerous lysosomes filled with hydrolytic enzymes, facilitating intracellular digestion and breakdown of cellular components.",
+                        "wrongAnswer_2": "A well-developed smooth endoplasmic reticulum, specialized for lipid synthesis and detoxification of hydrophobic substances.",
+                        "wrongAnswer_3": "Extensive networks of intermediate filaments providing structural support and mechanical resilience to withstand acidic conditions.",
+                        "wrongAnswer_4": "Large quantities of glycogen granules serving as energy reserves to fuel the active transport of pepsinogen across the cell membrane."
+                    }
+                ]
+            },
+            {
+                "title": "Secretion",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which parietal cells secrete hydrochloric acid (HCl) into the stomach lumen?",
+                        "goodAnswer": "Active transport of H+ ions via the H+/K+ ATPase proton pump, coupled with the movement of Cl- ions through chloride channels.",
+                        "wrongAnswer_1": "Facilitated diffusion of HCl molecules down a concentration gradient, driven by the high acidity of the gastric gland lumen.",
+                        "wrongAnswer_2": "Secretion of carbonic acid (H2CO3) which spontaneously dissociates into H+ and HCO3- ions within the gastric lumen.",
+                        "wrongAnswer_3": "Endocytosis of chloride ions from the blood, followed by exocytosis of HCl into the gastric juice by parietal cells.",
+                        "wrongAnswer_4": "Passive diffusion of both H+ and Cl- ions across the apical membrane of parietal cells, driven by electrochemical gradients."
+                    },
+                    {
+                        "question": "How is pepsinogen, secreted by chief cells, converted into its active form, pepsin, within the gastric environment?",
+                        "goodAnswer": "Exposure to the highly acidic pH of gastric juice, which causes autocatalytic cleavage and conformational change in the pepsinogen molecule.",
+                        "wrongAnswer_1": "Through enzymatic activation by trypsin, secreted by the pancreas and refluxed into the stomach via the pyloric sphincter.",
+                        "wrongAnswer_2": "By binding to intrinsic factor, secreted by parietal cells, which induces a structural modification leading to pepsin activation.",
+                        "wrongAnswer_3": "Via phosphorylation by protein kinases present in gastric juice, triggering a cascade of enzymatic reactions culminating in pepsin formation.",
+                        "wrongAnswer_4": "Through interaction with bicarbonate ions, secreted by mucous neck cells, which removes an inhibitory peptide from the pepsinogen molecule."
+                    },
+                    {
+                        "question": "Which of the following best describes the composition and primary function of gastric mucus?",
+                        "goodAnswer": "A viscous gel composed of mucin glycoproteins, water, electrolytes, and bicarbonate, forming a protective layer against acid and mechanical damage.",
+                        "wrongAnswer_1": "A watery solution primarily consisting of digestive enzymes like pepsin and gastric lipase, facilitating chemical breakdown of food boluses.",
+                        "wrongAnswer_2": "A lipid-rich emulsion containing bile salts and phospholipids, crucial for emulsifying dietary fats and enhancing lipid digestion in the stomach.",
+                        "wrongAnswer_3": "A concentrated solution of hydrochloric acid and potassium chloride, creating a highly acidic environment for protein denaturation and pathogen destruction.",
+                        "wrongAnswer_4": "A cellular secretion containing antimicrobial peptides and immunoglobulins, providing immunological defense against ingested microorganisms and toxins."
+                    },
+                    {
+                        "question": "What is the role of intrinsic factor secreted by parietal cells in gastric juice?",
+                        "goodAnswer": "Binding to vitamin B12 in the stomach and facilitating its absorption in the ileum, preventing pernicious anemia.",
+                        "wrongAnswer_1": "Neutralizing gastric acid in the stomach lumen, maintaining an optimal pH for pepsin activity and preventing mucosal damage.",
+                        "wrongAnswer_2": "Stimulating the secretion of pancreatic enzymes and bile into the duodenum in response to chyme entering the small intestine.",
+                        "wrongAnswer_3": "Emulsifying dietary fats in the stomach, increasing their surface area for digestion by gastric lipase and pancreatic lipases.",
+                        "wrongAnswer_4": "Promoting the absorption of iron and calcium in the stomach, essential for erythropoiesis and bone mineralization respectively."
+                    },
+                    {
+                        "question": "Besides HCl, pepsinogen, and mucus, what other significant secretions are produced by the stomach?",
+                        "goodAnswer": "Gastric lipase, histamine, and various hormones like gastrin and somatostatin, each playing distinct roles in digestion and regulation.",
+                        "wrongAnswer_1": "Trypsin, chymotrypsin, and amylase, which are the primary enzymes responsible for carbohydrate, protein, and lipid digestion in the stomach.",
+                        "wrongAnswer_2": "Bile acids, bilirubin, and cholesterol, which are synthesized and secreted by the stomach to aid in fat emulsification and waste excretion.",
+                        "wrongAnswer_3": "Insulin, glucagon, and somatostatin, hormones primarily involved in regulating blood glucose levels and metabolic homeostasis.",
+                        "wrongAnswer_4": "Lysozyme, defensins, and IgA antibodies, which constitute the stomach's primary immunological barrier against bacterial and viral pathogens."
+                    }
+                ]
+            },
+            {
+                "title": "Regulation and motility",
+                "quizzes": [
+                    {
+                        "question": "Which of the following sequences accurately represents the cephalic phase of gastric secretion regulation?",
+                        "goodAnswer": "Sight, smell, taste, or thought of food -> Vagus nerve stimulation -> Increased gastric secretion (HCl, pepsinogen, mucus).",
+                        "wrongAnswer_1": "Presence of chyme in the duodenum -> Secretin and CCK release -> Inhibition of gastric motility and secretion -> Reduced gastric emptying.",
+                        "wrongAnswer_2": "Distension of the stomach by food -> Local enteric reflexes -> Increased gastrin release -> Stimulation of pancreatic enzyme secretion.",
+                        "wrongAnswer_3": "Absorption of nutrients in the small intestine -> Release of GIP and GLP-1 -> Stimulation of insulin secretion -> Decreased gastric acid production.",
+                        "wrongAnswer_4": "Drop in gastric pH -> Somatostatin release -> Inhibition of gastrin secretion -> Reduced gastric acid and pepsinogen output."
+                    },
+                    {
+                        "question": "What is the primary role of gastrin in the regulation of gastric function?",
+                        "goodAnswer": "Stimulates gastric acid secretion by parietal cells, pepsinogen secretion by chief cells, and gastric motility.",
+                        "wrongAnswer_1": "Inhibits gastric acid secretion and motility, promoting bicarbonate secretion and protecting the duodenal mucosa from acidic chyme.",
+                        "wrongAnswer_2": "Stimulates bile secretion from the gallbladder and pancreatic enzyme secretion, facilitating digestion of fats and proteins in the duodenum.",
+                        "wrongAnswer_3": "Promotes gastric emptying and intestinal motility, accelerating the movement of chyme through the digestive tract.",
+                        "wrongAnswer_4": "Reduces gastric blood flow and mucus secretion, decreasing the protective barrier and increasing susceptibility to ulcer formation."
+                    },
+                    {
+                        "question": "How does the intestinal phase of gastric regulation primarily function to modulate gastric activity?",
+                        "goodAnswer": "It generally inhibits gastric secretion and motility when chyme enters the duodenum, slowing gastric emptying to optimize intestinal digestion and absorption.",
+                        "wrongAnswer_1": "It stimulates gastric acid and pepsinogen secretion in response to nutrient absorption in the small intestine, enhancing overall digestive efficiency.",
+                        "wrongAnswer_2": "It primarily regulates the secretion of bile and pancreatic enzymes in response to the fat content of chyme entering the duodenum, independent of gastric activity.",
+                        "wrongAnswer_3": "It increases gastric motility and emptying to quickly move chyme into the small intestine, regardless of duodenal digestive capacity or nutrient absorption status.",
+                        "wrongAnswer_4": "It has no significant impact on gastric function, primarily focusing on regulating intestinal motility, secretion, and absorption processes within the small intestine."
+                    },
+                    {
+                        "question": "Which of the following hormones primarily mediates the inhibitory effects of the intestinal phase on gastric secretion and motility?",
+                        "goodAnswer": "Cholecystokinin (CCK) and secretin, released in response to fat and acid in the duodenum, respectively.",
+                        "wrongAnswer_1": "Gastrin, released from G cells in the stomach antrum in response to protein and distension.",
+                        "wrongAnswer_2": "Histamine, released from enterochromaffin-like (ECL) cells in the gastric mucosa, potentiating gastrin's effect on acid secretion.",
+                        "wrongAnswer_3": "Motilin, released periodically during fasting states, stimulating gastric and intestinal motility.",
+                        "wrongAnswer_4": "Insulin, released from pancreatic beta cells in response to elevated blood glucose levels, indirectly influencing gastric function."
+                    },
+                    {
+                        "question": "What are the predominant types of gastric motility patterns observed in the stomach?",
+                        "goodAnswer": "Peristaltic contractions for mixing and propulsion, and receptive relaxation of the proximal stomach to accommodate food volume.",
+                        "wrongAnswer_1": "Segmentation contractions for nutrient absorption, and mass movements for rapid emptying of gastric contents into the duodenum.",
+                        "wrongAnswer_2": "Tonic contractions for maintaining constant pressure and preventing reflux, and migrating motor complexes for cleansing the stomach during fasting.",
+                        "wrongAnswer_3": "Reverse peristalsis for regurgitation of undigested food, and pendular movements for mechanical breakdown of large food particles.",
+                        "wrongAnswer_4": "Haustral contractions for water absorption, and propulsive movements for unidirectional flow of chyme through the stomach."
+                    },
+                    {
+                        "question": "How is gastric emptying primarily regulated to coordinate with digestion and absorption in the small intestine?",
+                        "goodAnswer": "Neural and hormonal reflexes from the duodenum, sensing factors like acidity, distension, and nutrient content, slow gastric emptying when needed.",
+                        "wrongAnswer_1": "Intrinsic pacemaker cells in the stomach wall rhythmically trigger gastric emptying at a constant rate, independent of duodenal feedback mechanisms.",
+                        "wrongAnswer_2": "The rate of gastric emptying is solely determined by the volume of chyme in the stomach, with larger volumes leading to faster emptying rates.",
+                        "wrongAnswer_3": "Gastric emptying is primarily controlled by the central nervous system based on overall energy balance and hunger signals, overriding local duodenal cues.",
+                        "wrongAnswer_4": "The pyloric sphincter remains tonically contracted, regulating gastric emptying by periodically relaxing to allow small boluses of chyme to pass into the duodenum."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "mainTopic": {
+        "title": "Prenatal genetic diagnosis",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Indications, AFP",
+                "quizzes": [
+                    {
+                        "question": "In the context of prenatal screening, which of the following is NOT considered a primary clinical indication for maternal serum Alpha-Fetoprotein (AFP) measurement?",
+                        "goodAnswer": "Routine screening for advanced maternal age as an independent risk factor for chromosomal aneuploidies without suspicion of neural tube or abdominal wall defects.",
+                        "wrongAnswer_1": "Evaluating pregnancies with a prior history of neural tube defects to assess the recurrence risk and guide further diagnostic testing like targeted ultrasound or amniocentesis.",
+                        "wrongAnswer_2": "Screening in the second trimester (typically 15-20 weeks gestation) to detect open neural tube defects such as spina bifida and anencephaly in the fetus.",
+                        "wrongAnswer_3": "Assessment of pregnancies with suspected ventral wall defects, including omphalocele and gastroschisis, to evaluate the extent of the defect and plan postnatal care.",
+                        "wrongAnswer_4": "As part of multiple marker screening to estimate the risk of chromosomal abnormalities like Down syndrome and trisomy 18, alongside hCG and estriol."
+                    },
+                    {
+                        "question": "Significantly elevated levels of maternal serum AFP, beyond the expected gestational age range in the second trimester, are most suggestive of which category of fetal conditions?",
+                        "goodAnswer": "Open fetal defects such as neural tube defects (myelomeningocele, anencephaly), abdominal wall defects (gastroschisis, omphalocele), and fetal skin defects like congenital nephrosis.",
+                        "wrongAnswer_1": "Closed fetal defects including posterior urethral valves, congenital diaphragmatic hernia, and congenital cystic adenomatoid malformation of the lung which do not typically elevate AFP.",
+                        "wrongAnswer_2": "Chromosomal aneuploidies such as trisomy 21 and trisomy 18, which are more commonly associated with decreased or normal AFP levels in the second trimester screening.",
+                        "wrongAnswer_3": "Maternal conditions like gestational diabetes and pre-eclampsia, which can influence overall pregnancy risk but are not directly indicated by markedly elevated AFP levels.",
+                        "wrongAnswer_4": "Fetal growth restriction and placental insufficiency, conditions that may alter various pregnancy markers but are not the primary cause of significantly increased AFP."
+                    },
+                    {
+                        "question": "In the interpretation of maternal serum AFP results, particularly in the second trimester, what factor is crucial to consider to ensure accurate risk assessment and avoid misinterpretation?",
+                        "goodAnswer": "Accurate gestational age dating, as AFP levels vary significantly with gestational age, necessitating precise dating typically based on first-trimester ultrasound measurements.",
+                        "wrongAnswer_1": "Maternal ethnicity, as AFP levels are known to have significant variations across different ethnic populations requiring ethnicity-specific reference ranges for interpretation.",
+                        "wrongAnswer_2": "Maternal weight and BMI, as maternal body mass index directly influences AFP production rates, requiring weight-adjusted AFP levels for accurate risk calculations.",
+                        "wrongAnswer_3": "Maternal dietary intake of folic acid, as folic acid supplementation directly impacts fetal AFP production, requiring dietary history for result interpretation.",
+                        "wrongAnswer_4": "Maternal parity, as AFP levels are significantly different in nulliparous versus multiparous women, necessitating parity-specific reference intervals for result analysis."
+                    }
+                ]
+            },
+            {
+                "title": "Sonography, Triple Screen, First Trimester Screening,",
+                "quizzes": [
+                    {
+                        "question": "Which set of biochemical markers constitutes the 'triple screen' panel, typically assessed in the maternal serum during the second trimester of pregnancy for aneuploidy risk assessment?",
+                        "goodAnswer": "Maternal serum Alpha-Fetoprotein (AFP), unconjugated Estriol (uE3), and human Chorionic Gonadotropin (hCG), measured between 15 and 20 weeks of gestation.",
+                        "wrongAnswer_1": "Maternal serum Pregnancy-Associated Plasma Protein-A (PAPP-A), free beta-human Chorionic Gonadotropin (\u03b2-hCG), and inhibin A, evaluated in the first trimester.",
+                        "wrongAnswer_2": "Maternal serum Alpha-Fetoprotein (AFP), inhibin A, and placental growth factor (PlGF), typically analyzed in the late second or third trimester for pre-eclampsia risk.",
+                        "wrongAnswer_3": "Maternal serum unconjugated Estriol (uE3), luteinizing hormone (LH), and follicle-stimulating hormone (FSH), assessed in the first trimester for ovarian reserve screening.",
+                        "wrongAnswer_4": "Maternal serum human Chorionic Gonadotropin (hCG), progesterone, and prolactin, measured in the first trimester to evaluate early pregnancy viability and placental function."
+                    },
+                    {
+                        "question": "In first-trimester screening for Down syndrome and other aneuploidies, which sonographic marker is of primary importance, measured between 11 weeks and 13 weeks 6 days of gestation?",
+                        "goodAnswer": "Nuchal translucency (NT), defined as the maximum thickness of the subcutaneous translucent space between the skin and soft tissue overlying the cervical spine in the fetal neck.",
+                        "wrongAnswer_1": "Nasal bone length, measured in millimeters, as the ossification and length of the fetal nasal bone are directly correlated with the risk of trisomy 21 in the first trimester.",
+                        "wrongAnswer_2": "Frontal-maxillary facial angle, a measurement of the angle between the frontal and maxillary bones, used to assess facial dysmorphism associated with aneuploidies.",
+                        "wrongAnswer_3": "Intracranial translucency (IT), referring to the fluid-filled space in the fetal brain, which when increased, is a specific marker for neural tube defects in the first trimester.",
+                        "wrongAnswer_4": "Umbilical artery Doppler pulsatility index, a measure of placental vascular resistance, used to assess placental function and fetal well-being in the first trimester."
+                    },
+                    {
+                        "question": "Beyond aneuploidy risk assessment, what additional crucial information does first-trimester sonography provide in routine prenatal care, contributing to overall pregnancy management?",
+                        "goodAnswer": "Confirmation of gestational age by crown-rump length (CRL) measurement, determination of fetal viability by cardiac activity, and detection of major fetal structural anomalies visible at this stage.",
+                        "wrongAnswer_1": "Assessment of fetal lung maturity by measuring amniotic fluid volume and fetal breathing movements, critical for predicting preterm delivery risk in the first trimester.",
+                        "wrongAnswer_2": "Detailed evaluation of fetal cardiac function using pulsed-wave Doppler and tissue Doppler imaging to screen for congenital heart defects in early pregnancy.",
+                        "wrongAnswer_3": "Assessment of placental function and localization, particularly to rule out placenta previa and placental abruption in the first trimester of pregnancy.",
+                        "wrongAnswer_4": "Evaluation of fetal neurological development by assessing fetal movements and tone, and detailed neurosonography to detect early signs of neurological disorders."
+                    },
+                    {
+                        "question": "Distinguish between 'triple screen' and 'first-trimester combined screening' in prenatal aneuploidy screening concerning their gestational timing, analytes measured, and detection rates for Down syndrome.",
+                        "goodAnswer": "Triple screen is performed in the second trimester (15-20 weeks) measuring AFP, uE3, and hCG, with a Down syndrome detection rate of ~70%; first-trimester combined screening (11-13 weeks 6 days) uses NT, PAPP-A, and free \u03b2-hCG, achieving ~85% detection.",
+                        "wrongAnswer_1": "Triple screen is a first-trimester test (11-13 weeks 6 days) measuring AFP, uE3, and hCG, with a Down syndrome detection rate of ~85%; first-trimester combined screening is in the second trimester (15-20 weeks) using NT, PAPP-A, and free \u03b2-hCG, achieving ~70% detection.",
+                        "wrongAnswer_2": "Both triple screen and first-trimester combined screening are performed in the first trimester (11-13 weeks 6 days); triple screen measures NT and PAPP-A, while combined screening uses AFP, uE3, and hCG, both with ~80% Down syndrome detection.",
+                        "wrongAnswer_3": "Both triple screen and first-trimester combined screening are second-trimester tests (15-20 weeks); triple screen measures NT, PAPP-A, and free \u03b2-hCG, whereas combined screening uses AFP, uE3, and hCG, both with ~75% Down syndrome detection.",
+                        "wrongAnswer_4": "Triple screen is an outdated method not used anymore due to its low detection rate of ~50%, while first-trimester combined screening is the current standard with a detection rate exceeding 95% for Down syndrome."
+                    }
+                ]
+            },
+            {
+                "title": "Inhibin, Nuchal Translucency, PAPP",
+                "quizzes": [
+                    {
+                        "question": "What is the diagnostic significance of Pregnancy-Associated Plasma Protein-A (PAPP-A) levels in the context of first-trimester screening for fetal chromosomal abnormalities?",
+                        "goodAnswer": "Reduced maternal serum PAPP-A levels in the first trimester, when combined with increased nuchal translucency and elevated free \u03b2-hCG, enhance the detection of Down syndrome and trisomy 18.",
+                        "wrongAnswer_1": "Elevated maternal serum PAPP-A levels in the first trimester are a strong indicator of an increased risk for open neural tube defects and ventral wall defects in the developing fetus.",
+                        "wrongAnswer_2": "PAPP-A levels are primarily utilized in the second trimester as part of the quad screen to refine the risk assessment for Down syndrome and trisomy 18, replacing AFP in the first trimester.",
+                        "wrongAnswer_3": "PAPP-A levels are not directly associated with chromosomal abnormalities but are primarily used to predict the risk of pre-eclampsia and intrauterine growth restriction in the third trimester.",
+                        "wrongAnswer_4": "PAPP-A levels are measured in amniotic fluid rather than maternal serum and are used to assess fetal lung maturity and predict the risk of respiratory distress syndrome."
+                    },
+                    {
+                        "question": "How is inhibin-A incorporated into prenatal screening protocols, and in which specific screening test is it typically utilized to improve aneuploidy detection rates?",
+                        "goodAnswer": "Inhibin-A is integrated into the 'quadruple screen' or 'quad screen', performed in the second trimester (15-20 weeks), to enhance the detection of Down syndrome, especially in younger women.",
+                        "wrongAnswer_1": "Inhibin-A is a key marker in the first-trimester combined screening, replacing free \u03b2-hCG to improve the detection of trisomy 21 and trisomy 18 in early pregnancy.",
+                        "wrongAnswer_2": "Inhibin-A is primarily used in non-invasive prenatal testing (NIPT) as a cell-free DNA marker to screen for sex chromosome aneuploidies like Turner and Klinefelter syndromes.",
+                        "wrongAnswer_3": "Inhibin-A is measured in conjunction with maternal serum AFP in the first trimester to screen for open neural tube defects, improving the specificity of AFP screening.",
+                        "wrongAnswer_4": "Inhibin-A levels are assessed in amniotic fluid to evaluate fetal ovarian reserve and predict premature ovarian insufficiency in female offspring later in life."
+                    },
+                    {
+                        "question": "What is the underlying pathophysiology linking increased nuchal translucency (NT) in the first trimester to a higher risk of fetal chromosomal abnormalities and other structural defects?",
+                        "goodAnswer": "Increased NT is thought to reflect generalized lymphatic congestion or delayed maturation of the fetal lymphatic system, often associated with cardiac defects, chromosomal aneuploidies, and syndromes.",
+                        "wrongAnswer_1": "Increased NT is primarily caused by maternal hyperglycemia in gestational diabetes, leading to fetal hyperinsulinemia and increased subcutaneous fat deposition in the nuchal region.",
+                        "wrongAnswer_2": "Increased NT is a direct result of fetal anemia due to Rh incompatibility, causing fluid accumulation in the nuchal region and necessitating immediate intrauterine transfusion.",
+                        "wrongAnswer_3": "Increased NT is due to maternal hypertension and placental insufficiency, leading to fetal growth restriction and fluid shift into the nuchal space as a compensatory mechanism.",
+                        "wrongAnswer_4": "Increased NT is a normal physiological variant in fetuses of older mothers, reflecting age-related changes in fetal skin elasticity and subcutaneous tissue composition."
+                    },
+                    {
+                        "question": "Which combination of markers, including both biochemical analytes and sonographic measurements, is recognized as the most effective first-trimester screening strategy for Down syndrome?",
+                        "goodAnswer": "The combination of nuchal translucency (NT) measurement with maternal serum Pregnancy-Associated Plasma Protein-A (PAPP-A) and free beta-human Chorionic Gonadotropin (\u03b2-hCG), performed between 11 and 13 weeks 6 days gestation.",
+                        "wrongAnswer_1": "The triple screen, which includes maternal serum Alpha-Fetoprotein (AFP), unconjugated estriol (uE3), and human Chorionic Gonadotropin (hCG), combined with femur length measurement in the first trimester.",
+                        "wrongAnswer_2": "The quad screen, consisting of maternal serum AFP, unconjugated estriol (uE3), hCG, and inhibin-A, integrated with nasal bone assessment on ultrasound in the first trimester.",
+                        "wrongAnswer_3": "Integrated screening strategy starting with nuchal translucency and PAPP-A in the first trimester, followed by AFP, uE3, hCG, and inhibin-A in the second trimester, but excluding free \u03b2-hCG in the first trimester.",
+                        "wrongAnswer_4": "Sequential screening approach beginning with the second-trimester triple screen and contingent upon risk assessment, proceeding to first-trimester nuchal translucency and PAPP-A only for high-risk cases."
+                    }
+                ]
+            },
+            {
+                "title": "Screening Strategies, Chorionic Villus Sampling",
+                "quizzes": [
+                    {
+                        "question": "What is the principal clinical advantage of chorionic villus sampling (CVS) over amniocentesis in the context of prenatal diagnostic testing for genetic disorders?",
+                        "goodAnswer": "CVS can be performed significantly earlier in gestation, typically between 10 and 13 weeks, allowing for earlier diagnosis and potentially earlier decisions regarding pregnancy management compared to amniocentesis.",
+                        "wrongAnswer_1": "CVS is associated with a substantially lower risk of procedure-related miscarriage compared to amniocentesis, making it a safer invasive diagnostic option for early prenatal testing.",
+                        "wrongAnswer_2": "CVS provides a broader spectrum of genetic information, including detection of single-gene mutations and metabolic disorders, which are not readily detectable by amniocentesis.",
+                        "wrongAnswer_3": "CVS offers significantly faster turnaround time for results, typically within 24-48 hours for preliminary results, facilitating quicker clinical decision-making than amniocentesis.",
+                        "wrongAnswer_4": "CVS is a non-invasive procedure performed transabdominally under ultrasound guidance, eliminating the risks of uterine puncture and Rh sensitization associated with amniocentesis."
+                    },
+                    {
+                        "question": "Which of the following methodologies is NOT currently recognized as a standard or recommended screening strategy for fetal aneuploidy in routine prenatal care?",
+                        "goodAnswer": "Universal fetal electrocardiography (ECG) performed at 12 weeks gestation to identify cardiac electrical axis abnormalities as a primary screening tool for chromosomal aneuploidies.",
+                        "wrongAnswer_1": "First-trimester combined screening utilizing nuchal translucency measurement in conjunction with maternal serum PAPP-A and free \u03b2-hCG levels.",
+                        "wrongAnswer_2": "Non-invasive prenatal testing (NIPT) based on cell-free fetal DNA analysis in maternal blood for the detection of trisomies 21, 18, and 13.",
+                        "wrongAnswer_3": "Second-trimester quadruple screen measuring maternal serum AFP, unconjugated estriol (uE3), human Chorionic Gonadotropin (hCG), and inhibin-A.",
+                        "wrongAnswer_4": "Integrated screening strategy combining results from first-trimester nuchal translucency and PAPP-A with second-trimester quad screen markers for enhanced detection rates."
+                    },
+                    {
+                        "question": "In the context of prenatal aneuploidy screening, what is the defining characteristic of a 'contingent screening' strategy compared to other screening approaches?",
+                        "goodAnswer": "Contingent screening involves a tiered approach where further testing, potentially more invasive or costly, is offered only to women who exceed a pre-defined risk threshold from an initial, less invasive screening test.",
+                        "wrongAnswer_1": "Contingent screening mandates that all pregnant women undergo both first-trimester combined screening and second-trimester quadruple screening regardless of their individual risk profiles.",
+                        "wrongAnswer_2": "Contingent screening is solely based on maternal age and family history, without incorporating biochemical markers or sonographic measurements into the risk assessment process.",
+                        "wrongAnswer_3": "Contingent screening exclusively utilizes invasive diagnostic procedures like chorionic villus sampling (CVS) and amniocentesis as the primary screening tools for all pregnant women.",
+                        "wrongAnswer_4": "Contingent screening relies solely on serial ultrasound examinations throughout pregnancy, without any biochemical marker testing for aneuploidy risk assessment at any stage."
+                    },
+                    {
+                        "question": "What is a recognized potential limitation or procedure-related risk associated with chorionic villus sampling (CVS) that is important for patient counseling prior to the procedure?",
+                        "goodAnswer": "A slightly elevated risk of pregnancy loss (miscarriage) compared to background risk and the possibility of confined placental mosaicism (CPM), which may lead to discordant fetal and placental genetic results.",
+                        "wrongAnswer_1": "A significant risk of inducing neural tube defects in the fetus following CVS, necessitating prophylactic folic acid supplementation post-procedure to mitigate this risk.",
+                        "wrongAnswer_2": "Inability of CVS to detect single-gene mutations or metabolic disorders, limiting its diagnostic utility for comprehensive genetic screening beyond chromosomal abnormalities.",
+                        "wrongAnswer_3": "A high false-positive rate for chromosomal abnormalities with CVS, leading to unnecessary anxiety and subsequent invasive testing like amniocentesis for confirmation.",
+                        "wrongAnswer_4": "Temporal restriction of CVS performance strictly to before 10 weeks of gestation, limiting its applicability to a very narrow window in the early first trimester of pregnancy."
+                    }
+                ]
+            }
+        ]
+    }
+}

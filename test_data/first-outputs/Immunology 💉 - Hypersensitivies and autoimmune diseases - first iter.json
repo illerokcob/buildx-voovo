@@ -1,0 +1,211 @@
+{
+    "mainTopic": {
+        "title": "Hypersensitivies and autoimmune diseases",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Type I",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the primary immunological mechanism underlying Type I hypersensitivity reactions?",
+                        "goodAnswer": "IgE antibodies cross-linking mast cell receptors, leading to degranulation and release of inflammatory mediators like histamine and leukotrienes.",
+                        "wrongAnswer_1": "IgG and IgM antibody-mediated complement activation and antibody-dependent cellular cytotoxicity targeting host cells.",
+                        "wrongAnswer_2": "T cell mediated delayed-type hypersensitivity involving the release of cytokines and activation of macrophages, causing tissue damage over days.",
+                        "wrongAnswer_3": "Formation of immune complexes composed of IgG and IgM antibodies with soluble antigens, leading to complement activation and neutrophil infiltration.",
+                        "wrongAnswer_4": "Direct cytotoxic T lymphocyte (CTL) killing of target cells displaying non-self antigens on MHC class I molecules, inducing apoptosis."
+                    },
+                    {
+                        "question": "What is the immediate consequence of mast cell degranulation in a Type I hypersensitivity reaction?",
+                        "goodAnswer": "Release of preformed mediators such as histamine and tryptase, and synthesis of newly formed mediators like leukotrienes and prostaglandins.",
+                        "wrongAnswer_1": "Activation of the complement cascade leading to membrane attack complex formation and direct lysis of target cells.",
+                        "wrongAnswer_2": "Secretion of large quantities of IgG antibodies that opsonize pathogens for phagocytosis by macrophages and neutrophils.",
+                        "wrongAnswer_3": "Stimulation of Th1 cells to release interferon-gamma, which activates macrophages and promotes cell-mediated immunity.",
+                        "wrongAnswer_4": "Inhibition of prostaglandin and leukotriene synthesis, reducing inflammation and alleviating hypersensitivity symptoms."
+                    },
+                    {
+                        "question": "Which of the following is a characteristic feature that distinguishes Type I hypersensitivity from other types of hypersensitivity reactions?",
+                        "goodAnswer": "The involvement of IgE antibodies and mast cells as the primary effector components in mediating the immediate inflammatory response.",
+                        "wrongAnswer_1": "The requirement for prior sensitization to an antigen, but subsequent exposure leads to a delayed reaction peaking at 48-72 hours.",
+                        "wrongAnswer_2": "The deposition of immune complexes in tissues, leading to complement activation and tissue damage within several days.",
+                        "wrongAnswer_3": "The direct antibody-mediated cytotoxicity against host cells expressing specific antigens on their surface, causing cellular destruction.",
+                        "wrongAnswer_4": "The predominant role of cytotoxic T lymphocytes in directly killing target cells, without the involvement of antibodies or complement."
+                    }
+                ]
+            },
+            {
+                "title": "Type II",
+                "quizzes": [
+                    {
+                        "question": "In Type II hypersensitivity reactions, which antibody isotypes are primarily involved in mediating cellular damage?",
+                        "goodAnswer": "IgG and IgM antibodies, which can activate complement or mediate antibody-dependent cellular cytotoxicity (ADCC).",
+                        "wrongAnswer_1": "IgE antibodies, which cross-link mast cell receptors, leading to immediate degranulation and histamine release.",
+                        "wrongAnswer_2": "IgA antibodies, primarily involved in mucosal immunity and neutralization of pathogens in mucosal surfaces.",
+                        "wrongAnswer_3": "IgD antibodies, which function mainly as antigen receptors on mature B cells but do not typically mediate effector functions.",
+                        "wrongAnswer_4": "Only IgG antibodies, as IgM antibodies are too large to efficiently penetrate tissues and cause cellular damage."
+                    },
+                    {
+                        "question": "Which mechanism is a key component of Type II hypersensitivity, leading to cellular destruction or dysfunction?",
+                        "goodAnswer": "Complement activation via the classical pathway, resulting in the formation of the membrane attack complex (MAC) and cell lysis, or opsonization.",
+                        "wrongAnswer_1": "Delayed-type hypersensitivity mediated by Th1 cells releasing cytokines and activating macrophages to engulf target cells.",
+                        "wrongAnswer_2": "Immune complex formation and deposition in blood vessel walls, leading to inflammation and tissue damage due to neutrophil infiltration.",
+                        "wrongAnswer_3": "Direct cytotoxicity by CD8+ T cells recognizing and killing virally infected cells or tumor cells presenting specific antigens.",
+                        "wrongAnswer_4": "Neutralization of toxins or pathogens by antibodies without causing direct cellular damage or inflammation."
+                    },
+                    {
+                        "question": "Hemolytic disease of the newborn, caused by Rh incompatibility, is a classic example of which type of hypersensitivity reaction?",
+                        "goodAnswer": "Type II hypersensitivity, where maternal IgG antibodies against fetal Rh antigens cross the placenta and destroy fetal red blood cells.",
+                        "wrongAnswer_1": "Type I hypersensitivity, where maternal IgE antibodies react with fetal red blood cell antigens, causing mast cell degranulation.",
+                        "wrongAnswer_2": "Type III hypersensitivity, where immune complexes form between maternal antibodies and fetal red blood cell antigens, depositing in fetal tissues.",
+                        "wrongAnswer_3": "Type IV hypersensitivity, where maternal T cells attack fetal red blood cells, leading to delayed-type hemolytic anemia.",
+                        "wrongAnswer_4": "A non-immunological reaction caused by direct chemical toxicity of maternal antibodies on fetal red blood cells."
+                    }
+                ]
+            },
+            {
+                "title": "Type III",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental immunological process that characterizes Type III hypersensitivity reactions?",
+                        "goodAnswer": "Formation of immune complexes composed of antigen and antibodies, leading to their deposition in tissues and subsequent inflammation.",
+                        "wrongAnswer_1": "Activation of mast cells by IgE antibodies, causing immediate release of histamine and other inflammatory mediators.",
+                        "wrongAnswer_2": "T cell-mediated cytotoxicity directed against host cells displaying specific antigens on their surface.",
+                        "wrongAnswer_3": "Antibody-dependent cellular cytotoxicity (ADCC) mediated by IgG and NK cells against antibody-coated target cells.",
+                        "wrongAnswer_4": "Delayed-type hypersensitivity reactions mediated by Th1 cells and macrophages, causing granuloma formation."
+                    },
+                    {
+                        "question": "Which component of the immune system is primarily responsible for tissue damage in Type III hypersensitivity reactions following immune complex deposition?",
+                        "goodAnswer": "Neutrophils, which are recruited to sites of immune complex deposition, release lysosomal enzymes and reactive oxygen species, causing tissue injury.",
+                        "wrongAnswer_1": "Mast cells, which degranulate and release histamine, leading to vasodilation and increased vascular permeability at the site of inflammation.",
+                        "wrongAnswer_2": "Eosinophils, which release major basic protein and other cytotoxic mediators, primarily involved in parasitic infections and allergic reactions.",
+                        "wrongAnswer_3": "Basophils, which release histamine and heparin, contributing to inflammation and anticoagulation but not the primary cause of tissue damage.",
+                        "wrongAnswer_4": "Plasma cells, which produce large amounts of antibodies that directly cause tissue destruction through antibody-dependent cytotoxicity."
+                    },
+                    {
+                        "question": "Serum sickness, historically associated with administration of heterologous serum, is a classic example of which hypersensitivity type?",
+                        "goodAnswer": "Type III hypersensitivity, resulting from the deposition of immune complexes formed between host antibodies and foreign serum proteins.",
+                        "wrongAnswer_1": "Type I hypersensitivity, triggered by IgE antibodies against serum proteins, leading to immediate allergic reactions.",
+                        "wrongAnswer_2": "Type II hypersensitivity, where antibodies in the serum directly target and destroy host cells, such as red blood cells or platelets.",
+                        "wrongAnswer_3": "Type IV hypersensitivity, mediated by T cells responding to serum proteins, causing delayed inflammatory reactions.",
+                        "wrongAnswer_4": "A non-immunological reaction due to direct toxicity of foreign serum components on host tissues."
+                    }
+                ]
+            },
+            {
+                "title": "Type IV",
+                "quizzes": [
+                    {
+                        "question": "What is the principal effector cell type mediating tissue damage in Type IV hypersensitivity reactions?",
+                        "goodAnswer": "T lymphocytes, particularly Th1 cells, which release cytokines like IFN-\u03b3 to activate macrophages and induce inflammation.",
+                        "wrongAnswer_1": "Mast cells, which degranulate upon IgE cross-linking, releasing histamine and other mediators of immediate hypersensitivity.",
+                        "wrongAnswer_2": "Neutrophils, which are recruited to sites of immune complex deposition and release lysosomal enzymes, causing tissue injury.",
+                        "wrongAnswer_3": "B lymphocytes, which differentiate into plasma cells and produce antibodies that directly attack host cells or form immune complexes.",
+                        "wrongAnswer_4": "Natural killer (NK) cells, which mediate antibody-dependent cellular cytotoxicity (ADCC) in Type II hypersensitivity reactions."
+                    },
+                    {
+                        "question": "Contact dermatitis, such as poison ivy rash, is a typical example of which type of hypersensitivity reaction?",
+                        "goodAnswer": "Type IV hypersensitivity, a delayed-type reaction where skin contact with haptens triggers T cell activation and inflammatory responses.",
+                        "wrongAnswer_1": "Type I hypersensitivity, an immediate reaction caused by IgE antibodies against plant allergens, leading to mast cell degranulation.",
+                        "wrongAnswer_2": "Type II hypersensitivity, where antibodies against skin cells cause antibody-dependent cellular cytotoxicity and tissue destruction.",
+                        "wrongAnswer_3": "Type III hypersensitivity, resulting from immune complex deposition in the skin following exposure to plant antigens.",
+                        "wrongAnswer_4": "A non-immunological reaction due to direct chemical irritation of the skin by plant toxins, independent of immune mechanisms."
+                    },
+                    {
+                        "question": "Which cytokine, primarily produced by Th1 cells, plays a crucial role in activating macrophages in Type IV hypersensitivity reactions?",
+                        "goodAnswer": "Interferon-gamma (IFN-\u03b3), which enhances macrophage activation, phagocytosis, and antigen presentation, contributing to inflammation.",
+                        "wrongAnswer_1": "Interleukin-4 (IL-4), which promotes Th2 differentiation and IgE production, primarily involved in Type I hypersensitivity.",
+                        "wrongAnswer_2": "Interleukin-5 (IL-5), which stimulates eosinophil development and activation, important in allergic inflammation and parasitic infections.",
+                        "wrongAnswer_3": "Tumor necrosis factor-alpha (TNF-\u03b1), which primarily mediates systemic inflammation and is less specifically linked to macrophage activation in Type IV reactions.",
+                        "wrongAnswer_4": "Transforming growth factor-beta (TGF-\u03b2), which is mainly involved in immune suppression and tissue repair, counteracting inflammation."
+                    }
+                ]
+            },
+            {
+                "title": "Allergy and atopy",
+                "quizzes": [
+                    {
+                        "question": "What is the key immunological distinction between allergy and atopy?",
+                        "goodAnswer": "Atopy is a genetic predisposition to produce IgE antibodies in response to common environmental antigens, whereas allergy is the clinical manifestation of hypersensitivity reactions to these or other antigens.",
+                        "wrongAnswer_1": "Allergy is a genetic predisposition to develop Type IV hypersensitivity, while atopy is a broader term encompassing all types of hypersensitivity reactions.",
+                        "wrongAnswer_2": "Atopy refers to immediate hypersensitivity reactions (Type I), while allergy includes both immediate and delayed hypersensitivity reactions (Type I and Type IV).",
+                        "wrongAnswer_3": "Allergy is defined by positive skin prick tests to common allergens, while atopy is diagnosed based on elevated serum IgE levels regardless of allergen specificity.",
+                        "wrongAnswer_4": "There is no immunological distinction; allergy and atopy are interchangeable terms describing any adverse reaction to environmental substances."
+                    },
+                    {
+                        "question": "Which of the following best describes the role of genetic factors in atopy?",
+                        "goodAnswer": "Atopy has a strong genetic component, influencing the predisposition to produce high levels of IgE antibodies against common environmental allergens due to inherited variations in genes related to immune regulation and barrier function.",
+                        "wrongAnswer_1": "Genetic factors play a minimal role in atopy; environmental exposures are the primary determinants of developing allergic sensitization and clinical allergy.",
+                        "wrongAnswer_2": "Atopy is solely determined by genetic mutations in genes encoding for IgE receptors on mast cells, making them hyper-responsive to allergen binding.",
+                        "wrongAnswer_3": "Genetic factors in atopy primarily influence the severity of allergic reactions once sensitization has occurred, but not the initial development of IgE responses.",
+                        "wrongAnswer_4": "Atopy is an acquired condition resulting from epigenetic modifications due to early life exposures, with no significant genetic contribution."
+                    },
+                    {
+                        "question": "Which diagnostic method is commonly used to identify specific allergens responsible for atopic conditions?",
+                        "goodAnswer": "Skin prick testing, which introduces small amounts of suspected allergens into the skin and observes for immediate wheal and flare reactions indicative of IgE-mediated mast cell activation.",
+                        "wrongAnswer_1": "ELISA assays to detect circulating IgG antibodies against specific allergens, indicating prior exposure but not necessarily atopic sensitization.",
+                        "wrongAnswer_2": "Lymphocyte proliferation assays to measure T cell responses to allergens, primarily used for diagnosing Type IV hypersensitivity reactions.",
+                        "wrongAnswer_3": "Complement activation assays to detect immune complex formation, relevant for diagnosing Type III hypersensitivity reactions but not atopy.",
+                        "wrongAnswer_4": "Complete blood count (CBC) to assess total white blood cell counts, which is a general inflammatory marker but not specific for allergen identification in atopy."
+                    }
+                ]
+            },
+            {
+                "title": "Asthma",
+                "quizzes": [
+                    {
+                        "question": "What is the primary pathophysiological mechanism underlying the development of asthma?",
+                        "goodAnswer": "Chronic airway inflammation leading to bronchial hyperresponsiveness, reversible airflow obstruction, and airway remodeling.",
+                        "wrongAnswer_1": "Acute bacterial infection of the bronchioles causing direct tissue damage and subsequent airway obstruction.",
+                        "wrongAnswer_2": "Autoimmune destruction of bronchial epithelial cells, resulting in irreversible airway collapse and reduced lung function.",
+                        "wrongAnswer_3": "Pulmonary embolism causing blockage of major airways and acute respiratory distress, mimicking asthma symptoms.",
+                        "wrongAnswer_4": "Progressive fibrosis of the lung parenchyma, leading to restrictive lung disease and decreased airflow capacity."
+                    },
+                    {
+                        "question": "Which cell type plays a central role in the inflammatory process of allergic asthma?",
+                        "goodAnswer": "Eosinophils, which are recruited to the airways and release inflammatory mediators like major basic protein and eosinophil cationic protein, contributing to airway damage and hyperresponsiveness.",
+                        "wrongAnswer_1": "Neutrophils, which are primarily involved in bacterial infections and release lysosomal enzymes, causing acute airway inflammation in asthma.",
+                        "wrongAnswer_2": "Macrophages, which phagocytose debris and pathogens in the lungs but do not significantly contribute to the inflammatory pathology of allergic asthma.",
+                        "wrongAnswer_3": "Natural killer (NK) cells, which mediate antiviral immunity and are not directly implicated in the chronic inflammatory process of asthma.",
+                        "wrongAnswer_4": "Platelets, which are involved in blood clotting and wound healing, but not in the primary inflammatory mechanisms of allergic asthma."
+                    },
+                    {
+                        "question": "What is the role of Th2 lymphocytes in the pathogenesis of allergic asthma?",
+                        "goodAnswer": "Th2 lymphocytes release cytokines such as IL-4, IL-5, and IL-13, which promote IgE production, eosinophil activation, and mucus hypersecretion, contributing to airway inflammation and hyperresponsiveness.",
+                        "wrongAnswer_1": "Th1 lymphocytes release IFN-\u03b3, activating macrophages and promoting cell-mediated immunity, which reduces airway inflammation in asthma.",
+                        "wrongAnswer_2": "Th17 lymphocytes release IL-17, primarily involved in neutrophil recruitment and bacterial infections, not the typical inflammatory pathway in allergic asthma.",
+                        "wrongAnswer_3": "Regulatory T cells (Tregs) suppress immune responses and prevent airway inflammation, thus their deficiency contributes to asthma pathogenesis.",
+                        "wrongAnswer_4": "Cytotoxic T lymphocytes (CTLs) directly kill bronchial epithelial cells, causing airway damage and obstruction in severe asthma, but are not the primary driver of allergic asthma."
+                    }
+                ]
+            },
+            {
+                "title": "Autoimmune diseases - Type I diabetes",
+                "quizzes": [
+                    {
+                        "question": "What is the primary immunological mechanism underlying the pathogenesis of Type 1 Diabetes Mellitus (T1DM)?",
+                        "goodAnswer": "Autoimmune destruction of insulin-producing pancreatic beta cells mediated primarily by T lymphocytes, leading to insulin deficiency.",
+                        "wrongAnswer_1": "Insulin resistance in peripheral tissues due to chronic exposure to high glucose levels, causing impaired glucose uptake and hyperglycemia.",
+                        "wrongAnswer_2": "Deposition of amyloid plaques in the pancreas, disrupting beta cell function and insulin secretion, leading to hyperglycemia.",
+                        "wrongAnswer_3": "Antibody-mediated blockade of insulin receptors on target cells, preventing insulin signaling and causing glucose intolerance.",
+                        "wrongAnswer_4": "Viral infection of pancreatic alpha cells, leading to excessive glucagon production and subsequent hyperglycemia."
+                    },
+                    {
+                        "question": "Which immune cell type is predominantly responsible for the autoimmune destruction of beta cells in Type 1 Diabetes?",
+                        "goodAnswer": "Cytotoxic CD8+ T lymphocytes (CTLs), which directly recognize and kill beta cells presenting autoantigens on MHC class I molecules.",
+                        "wrongAnswer_1": "B lymphocytes, which produce autoantibodies against beta cell antigens, leading to antibody-dependent cellular cytotoxicity and complement activation.",
+                        "wrongAnswer_2": "Natural killer (NK) cells, which mediate antibody-dependent cellular cytotoxicity (ADCC) and are the primary effectors in beta cell destruction.",
+                        "wrongAnswer_3": "Neutrophils, which infiltrate the pancreas and release lysosomal enzymes, causing non-specific tissue damage including beta cell destruction.",
+                        "wrongAnswer_4": "Macrophages, which phagocytose beta cells after opsonization by autoantibodies, leading to gradual beta cell loss in T1DM."
+                    },
+                    {
+                        "question": "What is the role of autoantibodies in the pathogenesis of Type 1 Diabetes?",
+                        "goodAnswer": "While autoantibodies against beta cell antigens are present in T1DM, they are primarily considered markers of autoimmunity and their pathogenic role in beta cell destruction is less direct compared to T cells.",
+                        "wrongAnswer_1": "Autoantibodies are the primary mediators of beta cell destruction in T1DM, directly causing cell lysis and complement-mediated damage.",
+                        "wrongAnswer_2": "Autoantibodies block insulin receptors on beta cells, preventing insulin secretion and leading to insulin deficiency and hyperglycemia.",
+                        "wrongAnswer_3": "Autoantibodies form immune complexes in the pancreas, causing inflammation and tissue damage that indirectly leads to beta cell dysfunction.",
+                        "wrongAnswer_4": "Autoantibodies neutralize insulin in the circulation, reducing its effectiveness and causing hyperglycemia in T1DM."
+                    }
+                ]
+            }
+        ]
+    }
+}

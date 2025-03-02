@@ -1,0 +1,95 @@
+{
+    "mainTopic": {
+        "title": "Pancreas",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Anatomy & Blood Supply",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary arterial supply to the pancreas, detailing the origin and course of the arteries involved.",
+                        "goodAnswer": "The pancreas receives its arterial supply primarily from branches of the celiac trunk and the superior mesenteric artery, specifically via the splenic artery, the superior pancreaticoduodenal artery (from the gastroduodenal artery), and the inferior pancreaticoduodenal artery (from the superior mesenteric artery).",
+                        "wrongAnswer_1": "The pancreas is supplied mainly by branches of the inferior mesenteric artery and the common hepatic artery, including the cystic artery, the inferior pancreatic artery, and the middle colic artery.",
+                        "wrongAnswer_2": "The pancreas is vascularized by branches from the renal artery and the gonadal artery, specifically the suprarenal artery, the pancreatic magna artery, and the testicular or ovarian artery.",
+                        "wrongAnswer_3": "The pancreas derives its arterial blood solely from the aorta via direct pancreatic branches and the esophageal arteries, bypassing the celiac and mesenteric systems.",
+                        "wrongAnswer_4": "The pancreatic arterial supply is predominantly from the internal iliac artery and the external iliac artery, providing blood through the obturator artery, the pancreatic minor artery, and the femoral artery."
+                    },
+                    {
+                        "question": "Elaborate on the venous drainage of the pancreas, specifying the veins involved and their pathways to the portal venous system.",
+                        "goodAnswer": "Venous drainage of the pancreas parallels the arterial supply, with blood flowing into the splenic vein, superior mesenteric vein, and portal vein directly, draining from smaller pancreatic veins into these larger vessels.",
+                        "wrongAnswer_1": "Pancreatic venous blood drains exclusively into the inferior vena cava via the hepatic veins and renal veins, completely bypassing the portal venous system and splenic vein.",
+                        "wrongAnswer_2": "Venous drainage from the pancreas is directed towards the azygos and hemiazygos veins, which subsequently drain into the superior vena cava, avoiding the portal circulation.",
+                        "wrongAnswer_3": "The pancreas drains its venous blood into the pulmonary veins and the coronary sinus, ultimately returning to the left atrium of the heart, independent of the portal system.",
+                        "wrongAnswer_4": "Pancreatic venous drainage is primarily through the external iliac vein and internal iliac vein, leading to the common iliac vein and inferior vena cava, with no contribution to the portal system."
+                    },
+                    {
+                        "question": "Describe the anatomical location of the pancreas in relation to the peritoneal cavity and surrounding organs.",
+                        "goodAnswer": "The pancreas is predominantly a retroperitoneal organ, situated in the posterior abdomen, lying behind the stomach and extending transversely across the posterior abdominal wall, anterior to the great vessels and kidneys, with only a small portion of its head being intraperitoneal.",
+                        "wrongAnswer_1": "The pancreas is entirely an intraperitoneal organ, freely mobile within the peritoneal cavity, located anterior to the stomach and liver, suspended by mesenteries connected to the anterior abdominal wall.",
+                        "wrongAnswer_2": "The pancreas is located in the pelvic cavity, inferior to the urinary bladder and rectum, completely surrounded by pelvic peritoneum and supported by ligaments attached to pelvic bones.",
+                        "wrongAnswer_3": "The pancreas is situated in the thoracic cavity, posterior to the lungs and heart, within the mediastinum, and is primarily a mediastinal organ, closely associated with the esophagus and trachea.",
+                        "wrongAnswer_4": "The pancreas is located in the anterior abdominal wall, superficial to the rectus abdominis muscle, within the subcutaneous fat layer, and is considered a superficial abdominal organ."
+                    }
+                ]
+            },
+            {
+                "title": "Pancreatic secretion",
+                "quizzes": [
+                    {
+                        "question": "What are the key enzymatic components of pancreatic juice responsible for carbohydrate digestion, and in what form are carbohydrates primarily broken down by these enzymes?",
+                        "goodAnswer": "Pancreatic alpha-amylase is the primary enzyme for carbohydrate digestion in pancreatic juice, hydrolyzing complex carbohydrates like starch and glycogen into oligosaccharides and disaccharides such as maltose and isomaltose.",
+                        "wrongAnswer_1": "Pancreatic sucrase is the main enzyme for carbohydrate digestion, breaking down sucrose into glucose and fructose, and it is highly active against polysaccharides and complex sugars.",
+                        "wrongAnswer_2": "Pancreatic lactase is the key enzyme for carbohydrate digestion, specifically targeting lactose and breaking it down into glucose and galactose, with minimal effect on starch or glycogen.",
+                        "wrongAnswer_3": "Pancreatic cellulase is the primary enzyme for carbohydrate digestion, effectively hydrolyzing cellulose and other plant fibers into simple sugars like glucose and xylose.",
+                        "wrongAnswer_4": "Pancreatic beta-galactosidase is the main enzyme for carbohydrate digestion, responsible for breaking down galactans and complex galactose-containing carbohydrates into monosaccharides."
+                    },
+                    {
+                        "question": "Describe the major proteolytic enzymes secreted by the pancreas and the specific forms in which they are initially released and subsequently activated.",
+                        "goodAnswer": "The pancreas secretes trypsinogen, chymotrypsinogen, procarboxypeptidases (A and B), and proelastase as zymogens. Trypsinogen is activated to trypsin by enteropeptidase in the duodenum, and trypsin then activates the other zymogens.",
+                        "wrongAnswer_1": "The pancreas secretes pepsinogen, chymotrypsinogen, proaminopeptidases, and procollagenase as active enzymes. Pepsinogen is activated to pepsin by bicarbonate in the pancreatic duct, and pepsin activates the other enzymes.",
+                        "wrongAnswer_2": "The pancreas releases trypsin, chymotrypsin, carboxypeptidases, and elastase in their active forms directly into the duodenum, where they immediately begin protein digestion without prior activation.",
+                        "wrongAnswer_3": "The pancreas secretes pepsinogen, trypsinogen, prodipeptidases, and pronuclease as zymogens. Pepsinogen is activated to pepsin by hydrochloric acid in the stomach, and pepsin then activates the other zymogens in the pancreas before secretion.",
+                        "wrongAnswer_4": "The pancreas produces amylase, lipase, nuclease, and protease in zymogen forms. Amylase zymogen is activated to amylase by bile salts in the gallbladder, and amylase then activates the other zymogens in the pancreatic juice."
+                    },
+                    {
+                        "question": "Outline the role of bicarbonate ions in pancreatic juice and explain the mechanism by which pancreatic ductal cells secrete bicarbonate into the pancreatic duct.",
+                        "goodAnswer": "Bicarbonate ions in pancreatic juice neutralize the acidic chyme entering the duodenum from the stomach, creating an optimal pH for pancreatic enzyme activity. Ductal cells secrete bicarbonate via a Cl\u2212/HCO3\u2212 exchanger on the apical membrane, coupled with basolateral Na+/K+ ATPase and Na+/HCO3\u2212 cotransporters.",
+                        "wrongAnswer_1": "Bicarbonate ions in pancreatic juice acidify the intestinal contents to facilitate protein denaturation and enzyme activity. Ductal cells secrete bicarbonate using a H+/HCO3\u2212 symporter on the apical membrane, powered by ATP hydrolysis and intracellular carbonic anhydrase activity.",
+                        "wrongAnswer_2": "Bicarbonate ions in pancreatic juice act as cofactors for pancreatic enzyme activity but do not directly affect the pH of the intestinal lumen. Ductal cells secrete bicarbonate through simple diffusion across the apical membrane, driven by the concentration gradient.",
+                        "wrongAnswer_3": "Bicarbonate ions in pancreatic juice primarily serve to inhibit bacterial growth in the duodenum and have a minimal role in pH regulation. Ductal cells secrete bicarbonate via a K+/HCO3\u2212 antiporter on the apical membrane, coupled with intracellular potassium channels and carbonic anhydrase.",
+                        "wrongAnswer_4": "Bicarbonate ions in pancreatic juice enhance the emulsification of fats and do not play a significant role in neutralizing gastric acid. Ductal cells secrete bicarbonate through a Ca2+/HCO3\u2212 exchanger on the apical membrane, regulated by intracellular calcium levels and calmodulin."
+                    }
+                ]
+            },
+            {
+                "title": "Regulation and activation of enzymes",
+                "quizzes": [
+                    {
+                        "question": "Describe the mechanism of activation for trypsinogen, including the enzyme responsible and the location where this activation primarily occurs.",
+                        "goodAnswer": "Trypsinogen, secreted by the pancreas, is activated to trypsin by enteropeptidase (also known as enterokinase), an enzyme located on the brush border membrane of duodenal enterocytes. This activation primarily takes place in the duodenum upon entry of pancreatic juice.",
+                        "wrongAnswer_1": "Trypsinogen is activated to trypsin by pepsin, an enzyme secreted by the gastric glands in the stomach. This activation process mainly occurs in the stomach before the chyme enters the duodenum.",
+                        "wrongAnswer_2": "Trypsinogen is activated to trypsin by cholecystokinin (CCK), a hormone released from the duodenal mucosa. This activation happens within the pancreatic acinar cells prior to secretion into the pancreatic duct.",
+                        "wrongAnswer_3": "Trypsinogen is activated to trypsin by bicarbonate ions present in the pancreatic juice itself. This auto-activation process occurs within the pancreatic duct as the juice is being transported to the duodenum.",
+                        "wrongAnswer_4": "Trypsinogen is activated to trypsin by hydrochloric acid (HCl) secreted by parietal cells in the stomach. The activation process initiates in the stomach and continues as the chyme moves into the duodenum."
+                    },
+                    {
+                        "question": "Explain the role of trypsin in the activation cascade of pancreatic zymogens, detailing which specific zymogens are activated by trypsin and to what active enzymes they are converted.",
+                        "goodAnswer": "Trypsin, once activated, plays a crucial role in the activation cascade by converting other pancreatic zymogens into their active forms. Specifically, trypsin activates chymotrypsinogen to chymotrypsin, procarboxypeptidases (A and B) to carboxypeptidases (A and B), and proelastase to elastase.",
+                        "wrongAnswer_1": "Trypsin primarily activates lipases and amylases from their zymogen forms, converting pro-lipase to lipase and pro-amylase to amylase, thus initiating the digestion of fats and carbohydrates in the duodenum.",
+                        "wrongAnswer_2": "Trypsin's main function is to activate nucleases, such as deoxyribonuclease and ribonuclease, from their inactive precursors, thereby starting the digestion of nucleic acids in the small intestine.",
+                        "wrongAnswer_3": "Trypsin directly activates pepsinogen to pepsin, continuing the process of protein digestion initiated in the stomach and ensuring complete protein breakdown in the duodenum.",
+                        "wrongAnswer_4": "Trypsin is responsible for activating hormones like insulin and glucagon from their prohormone forms, thus regulating glucose metabolism and blood sugar levels in response to nutrient absorption."
+                    },
+                    {
+                        "question": "Describe the mechanisms that protect the pancreas from self-digestion by its own enzymes, including both intracellular and extracellular protective strategies.",
+                        "goodAnswer": "The pancreas is protected from self-digestion by several mechanisms: packaging enzymes as inactive zymogens, synthesizing trypsin inhibitor within acinar cells, and separating enzymes from cellular components by compartmentalization within organelles, alongside ductal modification of secreted juice.",
+                        "wrongAnswer_1": "Pancreatic self-digestion is prevented primarily by secreting enzymes in fully active forms, which are only activated upon reaching the target substrates in the intestinal lumen, and by the presence of mucus lining the pancreatic ducts.",
+                        "wrongAnswer_2": "The pancreas is protected from self-digestion solely by the rapid transport of enzymes out of the pancreas into the duodenum, preventing prolonged contact with pancreatic tissues, and by the dilution of enzymes in intestinal contents.",
+                        "wrongAnswer_3": "Pancreatic self-digestion is avoided by storing enzymes in lysosomes within acinar cells until secretion is stimulated and by the presence of bile salts which inhibit pancreatic enzyme activity within the pancreas.",
+                        "wrongAnswer_4": "The primary protection against pancreatic self-digestion is the high concentration of bicarbonate in pancreatic juice which neutralizes any prematurely activated enzymes within the pancreas, and by the presence of antioxidants."
+                    }
+                ]
+            }
+        ]
+    }
+}

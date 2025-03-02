@@ -1,0 +1,132 @@
+{
+    "mainTopic": {
+        "title": "Phagocytic Cells",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Types and functions of phagocytic cells",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the process of phagocytosis in professional phagocytes?",
+                        "goodAnswer": "A multi-step process initiated by receptor recognition of pathogen-associated molecular patterns (PAMPs) or opsonins, leading to engulfment, phagosome formation, and degradation within the phagolysosome.",
+                        "wrongAnswer_1": "A singular step process involving direct pathogen lysis by secreted enzymes, bypassing internalization and phagosome formation, and culminating in extracellular degradation of pathogens.",
+                        "wrongAnswer_2": "A two-step mechanism starting with antigen presentation on MHC class II molecules, followed by T cell activation, which then signals phagocytes to engulf and degrade the targeted pathogens.",
+                        "wrongAnswer_3": "A process primarily mediated by the release of reactive nitrogen species (RNS) into the extracellular space, which directly neutralize pathogens before they can be internalized by phagocytes.",
+                        "wrongAnswer_4": "A process driven by the selective uptake of only viral pathogens, while bacterial and fungal pathogens are neutralized through antibody-dependent cellular cytotoxicity (ADCC) mechanisms."
+                    },
+                    {
+                        "question": "What distinguishes professional phagocytes from non-professional phagocytic cells in terms of their immunological role?",
+                        "goodAnswer": "Professional phagocytes, such as neutrophils and macrophages, express a broader range of pattern recognition receptors (PRRs) and exhibit enhanced phagocytic efficiency and microbicidal activity compared to non-professional phagocytes.",
+                        "wrongAnswer_1": "Non-professional phagocytes are characterized by their exclusive ability to present antigens via MHC class I molecules, whereas professional phagocytes are limited to MHC class II presentation to T helper cells.",
+                        "wrongAnswer_2": "Professional phagocytes are uniquely capable of producing antibodies and complement proteins, while non-professional phagocytes are restricted to cellular mechanisms of pathogen elimination.",
+                        "wrongAnswer_3": "Non-professional phagocytes are primarily involved in the clearance of apoptotic cells and tissue debris, whereas professional phagocytes are exclusively dedicated to pathogen destruction and immune surveillance.",
+                        "wrongAnswer_4": "Professional phagocytes operate only in adaptive immunity, being activated by T cell signals, while non-professional phagocytes are the main effectors of innate immunity, responding to general danger signals."
+                    },
+                    {
+                        "question": "Beyond pathogen engulfment and destruction, what is another critical function of macrophages that significantly contributes to adaptive immune responses?",
+                        "goodAnswer": "Antigen presentation to T lymphocytes via MHC class II molecules, which is essential for initiating and modulating T helper cell responses and subsequent activation of B cells and cytotoxic T lymphocytes.",
+                        "wrongAnswer_1": "Direct activation of the complement cascade through the classical pathway, leading to opsonization and lysis of pathogens independently of T and B cell involvement in adaptive immunity.",
+                        "wrongAnswer_2": "Secretion of high concentrations of antibodies, particularly IgA and IgM, into mucosal surfaces, providing immediate humoral immunity against extracellular pathogens in mucosal tissues.",
+                        "wrongAnswer_3": "Regulation of hematopoiesis in the bone marrow by producing erythropoietin and thrombopoietin, thereby indirectly supporting adaptive immune responses through enhanced leukocyte production.",
+                        "wrongAnswer_4": "Induction of fever and acute phase responses by releasing pyrogens and acute phase proteins, which are critical for systemic inflammatory reactions but not directly for adaptive immunity."
+                    }
+                ]
+            },
+            {
+                "title": "Neutrophils and Macrophages",
+                "quizzes": [
+                    {
+                        "question": "In the context of inflammatory chemokine receptors, which receptor is predominantly expressed on neutrophils and facilitates their early migration to sites of acute inflammation?",
+                        "goodAnswer": "CXCR2, which binds to chemokines like CXCL8 (IL-8) produced by tissue-resident cells and macrophages, guiding neutrophil chemotaxis from the bloodstream into inflamed tissues.",
+                        "wrongAnswer_1": "CCR7, which is primarily expressed on dendritic cells and macrophages in lymphoid tissues, mediating their migration towards lymph nodes for T cell activation during adaptive immune responses.",
+                        "wrongAnswer_2": "CX3CR1, predominantly found on monocytes and tissue macrophages, facilitating their adhesion and crawling along endothelial cells in chronic inflammatory conditions and tissue repair.",
+                        "wrongAnswer_3": "CCR5, mainly expressed on T lymphocytes and macrophages, involved in the recruitment of these cells to sites of viral infection and granuloma formation in chronic infections like tuberculosis.",
+                        "wrongAnswer_4": "CXCR4, which is broadly expressed on various immune cells including lymphocytes and hematopoietic stem cells, primarily regulating cell trafficking to the bone marrow and secondary lymphoid organs."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which macrophages contribute to the resolution of inflammation and tissue repair following neutrophil-dominated acute inflammatory responses?",
+                        "goodAnswer": "Through the efferocytosis of apoptotic neutrophils and the release of anti-inflammatory mediators like TGF-\u03b2 and IL-10, promoting tissue remodeling and suppressing pro-inflammatory cytokine production.",
+                        "wrongAnswer_1": "By releasing large quantities of pro-inflammatory cytokines such as TNF-\u03b1 and IL-1\u03b2, which amplify the inflammatory response and recruit additional neutrophils to ensure complete pathogen eradication.",
+                        "wrongAnswer_2": "Via the secretion of reactive oxygen species (ROS) and nitric oxide (NO) into the extracellular space, directly neutralizing residual pathogens and stimulating fibroblast proliferation for tissue regeneration.",
+                        "wrongAnswer_3": "Through the activation of the complement system via the alternative pathway, leading to the opsonization of tissue debris and promoting its clearance by resident tissue cells independently of phagocytes.",
+                        "wrongAnswer_4": "By inducing the formation of neutrophil extracellular traps (NETs) in the late phase of inflammation, which further immobilize pathogens and create a structural scaffold for tissue repair and regeneration."
+                    },
+                    {
+                        "question": "Considering the intracellular signaling pathways activated in neutrophils and macrophages upon pathogen recognition, which pathway is predominantly associated with the respiratory burst in neutrophils?",
+                        "goodAnswer": "The NADPH oxidase pathway, which is rapidly activated upon stimulation of pattern recognition receptors, leading to the generation of superoxide radicals and other reactive oxygen species crucial for pathogen killing.",
+                        "wrongAnswer_1": "The NF-\u03baB pathway, primarily activated in macrophages and dendritic cells, resulting in the transcriptional upregulation of pro-inflammatory cytokines, chemokines, and co-stimulatory molecules for adaptive immunity.",
+                        "wrongAnswer_2": "The JAK-STAT pathway, typically activated by cytokine receptors in both neutrophils and macrophages, mediating signaling for cell differentiation, proliferation, and activation of various effector functions.",
+                        "wrongAnswer_3": "The MAPK pathway, which is broadly activated in immune cells including neutrophils and macrophages, involved in signal transduction for cell proliferation, differentiation, and inflammatory responses but not specifically respiratory burst.",
+                        "wrongAnswer_4": "The PI3K-Akt pathway, mainly associated with cell survival and metabolism in macrophages, promoting anti-apoptotic signals and metabolic adaptation during prolonged inflammatory responses and tissue repair."
+                    },
+                    {
+                        "question": "How do tissue-resident macrophages, such as Kupffer cells in the liver and alveolar macrophages in the lungs, differ functionally from monocyte-derived macrophages recruited during inflammation?",
+                        "goodAnswer": "Tissue-resident macrophages often exhibit specialized functions tailored to their tissue environment, including tissue homeostasis maintenance and immune surveillance, whereas monocyte-derived macrophages are primarily recruited for acute inflammatory responses and pathogen clearance.",
+                        "wrongAnswer_1": "Monocyte-derived macrophages possess superior antigen presentation capabilities and are more efficient in activating T lymphocytes compared to tissue-resident macrophages, which mainly function in innate immunity.",
+                        "wrongAnswer_2": "Tissue-resident macrophages are characterized by a pro-inflammatory phenotype and are the primary drivers of tissue damage in chronic inflammatory diseases, while monocyte-derived macrophages are predominantly involved in tissue repair.",
+                        "wrongAnswer_3": "Monocyte-derived macrophages are long-lived cells capable of self-renewal within tissues, whereas tissue-resident macrophages are short-lived and must be continuously replenished from circulating monocytes under homeostatic conditions.",
+                        "wrongAnswer_4": "Tissue-resident macrophages exclusively produce reactive oxygen species (ROS) for pathogen killing, while monocyte-derived macrophages rely primarily on lysosomal enzymes and antimicrobial peptides for intracellular pathogen degradation."
+                    }
+                ]
+            },
+            {
+                "title": "Targets of Neutrophil Products",
+                "quizzes": [
+                    {
+                        "question": "Besides direct pathogen killing, what is another significant consequence of myeloperoxidase (MPO)-generated hypochlorous acid (HOCl) in the context of host tissue?",
+                        "goodAnswer": "HOCl-mediated oxidation and modification of host proteins, lipids, and DNA, contributing to tissue damage, inflammation, and potentially chronic inflammatory diseases if not properly regulated.",
+                        "wrongAnswer_1": "Selective activation of host cell antioxidant enzymes like catalase and superoxide dismutase, leading to enhanced protection of host tissues from oxidative stress induced by other inflammatory mediators.",
+                        "wrongAnswer_2": "Preferential degradation of bacterial toxins and virulence factors in the extracellular environment, limiting pathogen dissemination and reducing the severity of systemic infections without host tissue impact.",
+                        "wrongAnswer_3": "Specific targeting and destruction of virus-infected host cells, mimicking cytotoxic T lymphocyte activity and preventing viral replication and spread within tissues independently of adaptive immunity.",
+                        "wrongAnswer_4": "Induction of angiogenesis and vascular remodeling in inflamed tissues, promoting nutrient and oxygen supply to support tissue repair and resolution of inflammation, counteracting tissue damage."
+                    },
+                    {
+                        "question": "How do neutrophil extracellular traps (NETs) contribute to immunopathology in certain inflammatory conditions, despite their role in pathogen trapping and killing?",
+                        "goodAnswer": "NET components, such as DNA and histones, can activate the complement system and stimulate autoantibody production, potentially exacerbating autoimmune diseases and causing tissue damage in sterile inflammation.",
+                        "wrongAnswer_1": "NETs primarily function to dampen excessive inflammation by sequestering pro-inflammatory cytokines and chemokines, thereby preventing cytokine storm and limiting collateral tissue damage during infection.",
+                        "wrongAnswer_2": "NETs selectively target and eliminate senescent host cells in inflamed tissues, promoting tissue regeneration and preventing the accumulation of dysfunctional cells that could contribute to chronic inflammation.",
+                        "wrongAnswer_3": "NET-associated proteases exclusively degrade bacterial biofilms, preventing chronic bacterial infections and limiting the persistence of inflammatory stimuli in tissues affected by biofilm formation.",
+                        "wrongAnswer_4": "NETs enhance the presentation of pathogen-derived antigens to T lymphocytes, amplifying adaptive immune responses and promoting long-term immunological memory against recurrent infections without immunopathology."
+                    },
+                    {
+                        "question": "What is a key mechanism by which neutrophil-derived elastase contributes to the pathogenesis of emphysema in chronic obstructive pulmonary disease (COPD)?",
+                        "goodAnswer": "Elastase-mediated degradation of elastin fibers in the lung parenchyma, leading to alveolar wall destruction and irreversible loss of lung elasticity, characteristic of emphysematous changes in COPD.",
+                        "wrongAnswer_1": "Elastase-induced activation of airway smooth muscle contraction, resulting in bronchoconstriction and airflow limitation, the primary pathophysiological mechanism underlying asthma but not emphysema.",
+                        "wrongAnswer_2": "Elastase-mediated disruption of the epithelial barrier in the airways, increasing permeability to inhaled allergens and pollutants, primarily contributing to allergic airway inflammation and asthma development.",
+                        "wrongAnswer_3": "Elastase-driven stimulation of mucus hypersecretion in the bronchioles, leading to airway obstruction and chronic bronchitis, a distinct but related component of COPD pathophysiology, not emphysema specifically.",
+                        "wrongAnswer_4": "Elastase-dependent inhibition of surfactant production by alveolar type II cells, increasing alveolar surface tension and causing lung collapse, a condition more typical of acute respiratory distress syndrome (ARDS) than COPD."
+                    }
+                ]
+            },
+            {
+                "title": "Protective mechansims",
+                "quizzes": [
+                    {
+                        "question": "Which enzymatic system within phagocytes is crucial for neutralizing hydrogen peroxide (H2O2), a reactive oxygen species generated during the respiratory burst, thereby preventing oxidative damage?",
+                        "goodAnswer": "Catalase, which catalyzes the decomposition of hydrogen peroxide into water and oxygen, effectively reducing the intracellular concentration of this cytotoxic ROS and protecting phagocytes from self-injury.",
+                        "wrongAnswer_1": "Superoxide dismutase (SOD), which converts superoxide radicals (O2\u2022\u2212) into hydrogen peroxide and oxygen, representing an initial step in ROS detoxification but not directly neutralizing H2O2 itself.",
+                        "wrongAnswer_2": "Myeloperoxidase (MPO), which utilizes hydrogen peroxide to generate hypochlorous acid (HOCl), a potent antimicrobial oxidant, but does not function in directly neutralizing H2O2 within phagocytes.",
+                        "wrongAnswer_3": "Glutathione peroxidase, which reduces hydrogen peroxide and lipid peroxides using glutathione as a cofactor, primarily functioning in broader cellular antioxidant defense mechanisms but not the primary enzyme for H2O2 neutralization in phagocytes.",
+                        "wrongAnswer_4": "NADPH oxidase, which generates superoxide radicals from oxygen and NADPH, being the primary source of ROS production during respiratory burst, not involved in ROS detoxification or neutralization."
+                    },
+                    {
+                        "question": "How does the process of efferocytosis, mediated by phagocytes, contribute to the resolution of inflammation and prevent chronic inflammatory conditions?",
+                        "goodAnswer": "Efferocytosis of apoptotic cells prevents secondary necrosis and the release of damage-associated molecular patterns (DAMPs), which could perpetuate inflammation, and promotes the release of anti-inflammatory mediators like TGF-\u03b2.",
+                        "wrongAnswer_1": "Efferocytosis primarily enhances the production of pro-inflammatory cytokines such as TNF-\u03b1 and IL-6 by phagocytes, thereby amplifying the inflammatory response and accelerating pathogen clearance during acute infections.",
+                        "wrongAnswer_2": "Efferocytosis promotes the differentiation of monocytes into pro-inflammatory M1 macrophages, which are essential for sustained antimicrobial activity but do not directly contribute to inflammation resolution.",
+                        "wrongAnswer_3": "Efferocytosis induces the formation of neutrophil extracellular traps (NETs) as a secondary mechanism to further immobilize pathogens and tissue debris, but NET formation is generally associated with pro-inflammatory responses.",
+                        "wrongAnswer_4": "Efferocytosis stimulates the complement cascade via the classical pathway, leading to enhanced opsonization and phagocytosis of pathogens and apoptotic cells, primarily amplifying immune clearance rather than resolving inflammation."
+                    },
+                    {
+                        "question": "What is a critical mechanism employed by phagocytes to limit collateral tissue damage during inflammation, specifically concerning the release and activity of proteolytic enzymes?",
+                        "goodAnswer": "Secretion of protease inhibitors, such as \u03b11-antitrypsin, which counteract the activity of neutrophil-derived proteases like elastase and proteinase 3 in the extracellular space, preventing excessive tissue degradation.",
+                        "wrongAnswer_1": "Intracellular sequestration of proteolytic enzymes within azurophilic granules, preventing their release into the extracellular environment and limiting their access to host tissues during inflammatory responses.",
+                        "wrongAnswer_2": "Activation of the coagulation cascade to form fibrin clots that physically barrier off inflamed tissue regions, preventing the diffusion of proteolytic enzymes and confining their activity to the immediate infection site.",
+                        "wrongAnswer_3": "Induction of apoptosis in activated phagocytes following pathogen clearance, eliminating the source of proteolytic enzymes and resolving the inflammatory response through programmed cell death.",
+                        "wrongAnswer_4": "Upregulation of antioxidant enzymes to neutralize reactive oxygen species (ROS) that could indirectly activate and amplify the activity of proteolytic enzymes, thus limiting oxidative stress-mediated tissue damage."
+                    }
+                ]
+            }
+        ]
+    }
+}

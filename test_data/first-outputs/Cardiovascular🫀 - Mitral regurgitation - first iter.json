@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Mitral regurgitation",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "Which of the following mechanisms is considered the primary pathophysiological event in the development of acute rhinosinusitis?",
+                        "goodAnswer": "Obstruction of the osteomeatal complex, leading to impaired mucociliary clearance and mucus stasis within the paranasal sinuses, fostering a pro-inflammatory environment.",
+                        "wrongAnswer_1": "Progressive destruction of the sinus epithelium by viral pathogens, directly causing irreversible damage and chronic inflammation independent of drainage.",
+                        "wrongAnswer_2": "Systemic dissemination of bacterial toxins from the nasal cavity, inducing a generalized inflammatory response that secondarily affects the paranasal sinuses through hematogenous spread.",
+                        "wrongAnswer_3": "Autoimmune-mediated destruction of the sinus mucosa, characterized by the infiltration of lymphocytes and granulomas, resulting in fibrosis and obliteration of sinus cavities.",
+                        "wrongAnswer_4": "Neurogenic inflammation triggered by environmental irritants, causing excessive vasodilation and plasma exudation into the sinus cavities without significant mucosal edema."
+                    },
+                    {
+                        "question": "What is the role of viral upper respiratory infections (URIs) in the etiology of acute rhinosinusitis?",
+                        "goodAnswer": "URIs frequently precede acute rhinosinusitis by causing mucosal inflammation and edema, which obstruct sinus ostia and impair drainage, predisposing to secondary bacterial infection.",
+                        "wrongAnswer_1": "URIs directly invade the paranasal sinuses, causing viral replication within the sinus mucosa and subsequent purulent discharge without significant impact on sinus drainage pathways.",
+                        "wrongAnswer_2": "URIs induce a systemic immunosuppression, allowing opportunistic bacterial pathogens to directly colonize the paranasal sinuses and initiate a primary bacterial sinusitis.",
+                        "wrongAnswer_3": "URIs trigger a hypersensitivity reaction in the sinus mucosa, leading to eosinophilic infiltration and polyp formation, which are the primary drivers of acute sinus obstruction.",
+                        "wrongAnswer_4": "URIs primarily affect the lower respiratory tract and only indirectly contribute to rhinosinusitis through reflex bronchoconstriction and increased nasal airflow resistance."
+                    },
+                    {
+                        "question": "In the context of chronic rhinosinusitis (CRS), which of the following factors is most significantly implicated in the perpetuation of mucosal inflammation and disease chronicity?",
+                        "goodAnswer": "Persistent biofilm formation by bacteria and fungi within the sinuses, leading to chronic low-grade inflammation, immune dysregulation, and resistance to antimicrobial therapy.",
+                        "wrongAnswer_1": "Ongoing exposure to high levels of airborne pollutants, directly damaging the sinus epithelium and inducing a continuous cycle of cellular injury and repair with minimal microbial involvement.",
+                        "wrongAnswer_2": "Genetic predisposition to mucociliary dysfunction, causing a lifelong impairment of sinus drainage and an accumulation of stagnant mucus that becomes secondarily infected.",
+                        "wrongAnswer_3": "Systemic autoimmune diseases that primarily target the sinus mucosa, causing relentless inflammation and structural damage irrespective of local microbial colonization.",
+                        "wrongAnswer_4": "Psychological stress and anxiety, leading to neuroendocrine imbalances that exacerbate mucosal inflammation and impair the body's natural ability to resolve sinus infections."
+                    },
+                    {
+                        "question": "Which of the following best describes the 'two-hit hypothesis' in the pathogenesis of chronic rhinosinusitis with nasal polyps (CRSwNP)?",
+                        "goodAnswer": "A combination of genetic predisposition (first hit) leading to altered mucosal immunity and environmental exposures (second hit) such as allergens or infections triggering chronic eosinophilic inflammation and polyp formation.",
+                        "wrongAnswer_1": "Initial viral infection (first hit) causing acute rhinosinusitis followed by bacterial superinfection (second hit) leading to irreversible mucosal damage and polyp development due to persistent microbial presence.",
+                        "wrongAnswer_2": "Early childhood exposure to antibiotics (first hit) disrupting the nasal microbiome, followed by later exposure to fungal spores (second hit) inducing a chronic fungal rhinosinusitis and polypogenesis.",
+                        "wrongAnswer_3": "Genetic defect in mucociliary transport (first hit) causing mucus stasis, which is then complicated by recurrent acute rhinosinusitis episodes (second hit) leading to polyp formation from repeated inflammation.",
+                        "wrongAnswer_4": "Psychological trauma in early life (first hit) altering immune system development, followed by chronic stress in adulthood (second hit) exacerbating inflammatory responses in the nasal mucosa and promoting polyp growth."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which of the following symptom clusters is most indicative of acute bacterial rhinosinusitis rather than a viral upper respiratory infection?",
+                        "goodAnswer": "Persistent facial pain or pressure, purulent nasal discharge, nasal obstruction, and hyposmia lasting for more than 10 days or worsening after initial improvement ('double sickening').",
+                        "wrongAnswer_1": "Mild nasal congestion, clear rhinorrhea, sneezing, and sore throat, with symptoms typically resolving within 3 to 5 days without significant facial pain or purulent discharge.",
+                        "wrongAnswer_2": "Severe headache, high fever, stiff neck, and photophobia, suggesting a more serious intracranial infection rather than uncomplicated acute rhinosinusitis.",
+                        "wrongAnswer_3": "Sudden onset of anosmia, ageusia, and generalized fatigue, primarily indicating a viral infection with prominent olfactory and gustatory dysfunction but minimal nasal symptoms.",
+                        "wrongAnswer_4": "Intermittent nasal itching, watery rhinorrhea, and conjunctivitis, predominantly suggesting allergic rhinitis rather than an infectious rhinosinusitis, acute or chronic."
+                    },
+                    {
+                        "question": "What clinical feature is most suggestive of chronic rhinosinusitis (CRS) compared to acute rhinosinusitis?",
+                        "goodAnswer": "Symptom duration of at least 12 weeks, encompassing nasal obstruction, facial pain/pressure, nasal discharge, and reduced sense of smell, despite medical management.",
+                        "wrongAnswer_1": "Abrupt onset of severe facial pain localized to one sinus, accompanied by high fever and unilateral purulent nasal discharge, resolving within 7-10 days with antibiotics.",
+                        "wrongAnswer_2": "Recurrent episodes of acute rhinosinusitis occurring more than 4 times per year, each episode lasting less than 4 weeks and resolving completely between episodes.",
+                        "wrongAnswer_3": "Predominant symptom of postnasal drip and chronic cough, without significant nasal congestion or facial pain, indicating primarily lower airway involvement rather than CRS.",
+                        "wrongAnswer_4": "Episodic nasal congestion and sneezing triggered by seasonal allergens, with symptom-free periods during other times of the year, suggesting allergic rhinitis rather than CRS."
+                    },
+                    {
+                        "question": "In patients with chronic rhinosinusitis with nasal polyps (CRSwNP), which of the following symptom presentations is most commonly observed?",
+                        "goodAnswer": "Significant nasal obstruction, anosmia or hyposmia, and profuse clear nasal discharge, often with reduced facial pain compared to CRS without polyps.",
+                        "wrongAnswer_1": "Intense facial pain and pressure, purulent nasal discharge, and persistent fever, mimicking acute bacterial rhinosinusitis but with prolonged duration and poor response to antibiotics.",
+                        "wrongAnswer_2": "Severe epistaxis, crusting in the nasal vestibule, and septal perforation, suggesting a more localized nasal mucosal pathology like granulomatosis with polyangiitis rather than typical CRSwNP.",
+                        "wrongAnswer_3": "Unilateral nasal obstruction and foul-smelling purulent discharge, raising suspicion for a sinonasal malignancy or fungal ball rather than bilateral CRSwNP.",
+                        "wrongAnswer_4": "Predominant symptoms of headache and visual disturbances, suggesting sphenoid sinusitis or intracranial complications rather than typical presentation of CRSwNP."
+                    },
+                    {
+                        "question": "Which clinical sign, observed during anterior rhinoscopy, is most indicative of acute bacterial rhinosinusitis?",
+                        "goodAnswer": "Purulent discharge emanating from the middle meatus, suggesting drainage from the maxillary or anterior ethmoid sinuses, often associated with bacterial infection.",
+                        "wrongAnswer_1": "Pale, edematous nasal mucosa with clear, watery discharge, typically observed in allergic rhinitis rather than acute bacterial rhinosinusitis.",
+                        "wrongAnswer_2": "Presence of nasal polyps in the middle meatus, indicating chronic rhinosinusitis with polyps, not necessarily acute bacterial infection.",
+                        "wrongAnswer_3": "Crusting and dryness of the nasal mucosa, suggesting atrophic rhinitis or rhinitis sicca, not typical of acute bacterial rhinosinusitis.",
+                        "wrongAnswer_4": "Septal deviation obstructing one nasal passage, which is a structural anomaly and not directly indicative of acute bacterial rhinosinusitis, although it can contribute to sinus issues."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "What is the recommended initial diagnostic imaging modality for evaluating chronic rhinosinusitis in adults, especially when surgical intervention is being considered?",
+                        "goodAnswer": "Computed Tomography (CT) scan of the paranasal sinuses, providing detailed anatomical information of bony structures and sinus opacification, crucial for surgical planning.",
+                        "wrongAnswer_1": "Magnetic Resonance Imaging (MRI) of the paranasal sinuses, primarily indicated for soft tissue detail and intracranial extension but less optimal for bony anatomy assessment in routine CRS.",
+                        "wrongAnswer_2": "Plain radiography (Waters view) of the sinuses, offering limited detail and sensitivity for mucosal disease and bony changes compared to CT, less useful for comprehensive CRS evaluation.",
+                        "wrongAnswer_3": "Ultrasound of the paranasal sinuses, non-invasive and radiation-free but limited by air interference and inability to visualize posterior sinuses or bony structures effectively.",
+                        "wrongAnswer_4": "Positron Emission Tomography (PET) scan of the sinuses, mainly used for metabolic activity assessment in malignancy or infection but not a standard imaging modality for routine CRS diagnosis."
+                    },
+                    {
+                        "question": "In the differential diagnosis of chronic rhinosinusitis, which condition is most important to exclude, particularly in cases of unilateral symptoms or unusual presentations?",
+                        "goodAnswer": "Sinonasal malignancy, such as squamous cell carcinoma or adenocarcinoma, which can mimic CRS but often presents with unilateral nasal obstruction, epistaxis, or cranial nerve involvement.",
+                        "wrongAnswer_1": "Allergic rhinitis, although it shares symptoms like nasal congestion and discharge, allergic rhinitis typically presents with bilateral symptoms, sneezing, and itching, and lacks focal findings.",
+                        "wrongAnswer_2": "Common cold (viral upper respiratory infection), which is usually self-limiting and resolves within 10 days, unlike chronic rhinosinusitis with persistent symptoms beyond 12 weeks.",
+                        "wrongAnswer_3": "Migraine headaches, while they can cause facial pain, migraine lacks nasal symptoms like discharge and obstruction, differentiating it from rhinosinusitis based on symptom profile.",
+                        "wrongAnswer_4": "Temporomandibular joint (TMJ) disorders, which can cause facial pain, but TMJ pain is typically related to jaw movement and mastication, without nasal symptom association."
+                    },
+                    {
+                        "question": "What is the clinical utility of nasal endoscopy in the diagnosis and management of rhinosinusitis?",
+                        "goodAnswer": "Direct visualization of the nasal cavity and middle meatus, allowing for assessment of mucosal inflammation, drainage patterns, polyp presence, and targeted tissue biopsy or culture collection.",
+                        "wrongAnswer_1": "Non-invasive assessment of sinus ventilation and drainage using acoustic rhinometry, providing indirect information but not direct visualization of mucosal pathology or discharge characteristics.",
+                        "wrongAnswer_2": "Objective measurement of olfactory function using standardized smell tests, primarily useful for assessing hyposmia or anosmia but not for visualizing sinus anatomy or mucosal changes.",
+                        "wrongAnswer_3": "Evaluation of mucociliary clearance using saccharin transit time, providing functional information but not direct visualization of nasal and sinus mucosa or structural abnormalities.",
+                        "wrongAnswer_4": "Assessment of nasal airflow resistance using rhinomanometry, useful for quantifying nasal obstruction but not for visualizing the cause of obstruction or mucosal inflammation."
+                    },
+                    {
+                        "question": "Which of the following laboratory tests is most useful in differentiating allergic rhinitis from non-allergic rhinitis as a contributing factor to chronic rhinosinusitis?",
+                        "goodAnswer": "Skin prick testing or serum-specific IgE testing for common aeroallergens, identifying potential allergic triggers that can exacerbate rhinosinusitis symptoms and guide management.",
+                        "wrongAnswer_1": "Complete blood count (CBC) with differential, which may show eosinophilia in allergic conditions but is not specific for allergic rhinitis and can be elevated in other inflammatory conditions.",
+                        "wrongAnswer_2": "Nasal cytology for eosinophils, which can indicate eosinophilic inflammation but does not identify specific allergens and can be present in both allergic and non-allergic rhinitis.",
+                        "wrongAnswer_3": "Sputum culture and sensitivity, primarily used for lower respiratory tract infections and not directly relevant for differentiating allergic from non-allergic rhinitis in the nasal cavity.",
+                        "wrongAnswer_4": "Pulmonary function tests, assessing lung volumes and airflow, mainly used for asthma and COPD diagnosis and not directly helpful in distinguishing allergic from non-allergic rhinitis."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "What is considered the first-line medical management for acute bacterial rhinosinusitis in adults with mild to moderate symptoms?",
+                        "goodAnswer": "Intranasal corticosteroids for reducing mucosal inflammation and improving sinus drainage, often combined with saline nasal irrigations for symptomatic relief.",
+                        "wrongAnswer_1": "Systemic antibiotics, such as amoxicillin or doxycycline, routinely prescribed for all cases of acute rhinosinusitis regardless of symptom severity or duration.",
+                        "wrongAnswer_2": "Oral decongestants, like pseudoephedrine or phenylephrine, used as monotherapy to immediately relieve nasal congestion and sinus pressure in acute rhinosinusitis.",
+                        "wrongAnswer_3": "Antihistamines, such as cetirizine or loratadine, primarily indicated for allergic rhinitis and routinely used as first-line treatment for acute bacterial rhinosinusitis.",
+                        "wrongAnswer_4": "Systemic corticosteroids, like prednisone, prescribed as initial therapy for acute bacterial rhinosinusitis to rapidly resolve inflammation and prevent chronic complications."
+                    },
+                    {
+                        "question": "In the management of chronic rhinosinusitis (CRS), what is the primary role of nasal saline irrigations?",
+                        "goodAnswer": "To mechanically clear nasal secretions, crusts, and debris, reduce mucosal edema, and improve mucociliary clearance, enhancing the efficacy of topical medications.",
+                        "wrongAnswer_1": "To directly deliver antibiotics to the sinus mucosa, effectively treating underlying bacterial infections in CRS without the need for systemic antibiotic therapy.",
+                        "wrongAnswer_2": "To systemically hydrate the patient, reducing mucus viscosity and promoting drainage from all sinuses, particularly effective in severe cases of CRS with thick secretions.",
+                        "wrongAnswer_3": "To induce vasoconstriction of nasal blood vessels, reducing nasal congestion and improving airflow, providing immediate relief of symptoms in acute exacerbations of CRS.",
+                        "wrongAnswer_4": "To neutralize viral pathogens in the nasal cavity, preventing viral replication and reducing the frequency of viral-induced exacerbations in patients with chronic rhinosinusitis."
+                    },
+                    {
+                        "question": "Which of the following pharmacological agents is most commonly used as a topical therapy in the long-term management of chronic rhinosinusitis, particularly for reducing mucosal inflammation?",
+                        "goodAnswer": "Intranasal corticosteroids, such as fluticasone or mometasone, delivering targeted anti-inflammatory effects to the sinus mucosa with minimal systemic absorption.",
+                        "wrongAnswer_1": "Topical nasal decongestants, like oxymetazoline or xylometazoline, used for long-term management of CRS to maintain nasal patency and prevent mucosal hypertrophy.",
+                        "wrongAnswer_2": "Topical antihistamines, such as azelastine or olopatadine nasal sprays, used for chronic control of inflammation in CRS by blocking histamine receptors in the nasal mucosa.",
+                        "wrongAnswer_3": "Topical antibiotics, such as mupirocin nasal ointment, routinely used for long-term suppression of bacterial colonization in the sinuses of patients with chronic rhinosinusitis.",
+                        "wrongAnswer_4": "Topical antifungal agents, such as amphotericin B nasal spray, used as first-line maintenance therapy for all patients with CRS to prevent fungal overgrowth and chronic inflammation."
+                    },
+                    {
+                        "question": "When is endoscopic sinus surgery (ESS) typically considered in the management algorithm for chronic rhinosinusitis?",
+                        "goodAnswer": "After failure of maximal medical therapy, including intranasal corticosteroids, saline irrigations, and potentially systemic corticosteroids or antibiotics, in patients with persistent symptoms and objective evidence of disease.",
+                        "wrongAnswer_1": "As the initial treatment modality for all patients diagnosed with chronic rhinosinusitis to immediately restore sinus drainage and prevent disease progression.",
+                        "wrongAnswer_2": "Before initiating any medical therapy, particularly in patients with mild to moderate symptoms of chronic rhinosinusitis, to avoid long-term medication use.",
+                        "wrongAnswer_3": "Only in cases of acute bacterial rhinosinusitis complicated by periorbital cellulitis or intracranial extension, to surgically drain abscesses and prevent further spread of infection.",
+                        "wrongAnswer_4": "Routinely performed annually in all patients with chronic rhinosinusitis to maintain sinus patency and prevent recurrence of mucosal inflammation and polyp formation regardless of symptom control."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "mainTopic": {
+        "title": "Small intestines",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Histology of small intestines",
+                "quizzes": [
+                    {
+                        "question": "Which specialized cell type, found within the crypts of Lieberk\u00fchn in the small intestine, is responsible for secreting antimicrobial substances such as lysozyme and defensins, contributing to the regulation of the intestinal microbiota?",
+                        "goodAnswer": "Paneth cells, located at the base of the crypts, play a crucial role in maintaining the intestinal barrier and microbial balance by releasing antimicrobial peptides and enzymes.",
+                        "wrongAnswer_1": "Goblet cells, primarily located on the villi, secrete a thick mucus layer that protects the epithelium from mechanical damage and facilitates nutrient absorption.",
+                        "wrongAnswer_2": "Enteroendocrine cells, dispersed throughout the epithelium, produce various hormones like secretin and cholecystokinin that regulate digestive processes but not antimicrobial defense.",
+                        "wrongAnswer_3": "M cells, found in the Peyer's patches, are specialized for antigen sampling and initiating mucosal immune responses, rather than direct antimicrobial secretion.",
+                        "wrongAnswer_4": "Enterocytes, the most abundant epithelial cells, are primarily involved in nutrient absorption and transport, with minimal contribution to antimicrobial defense mechanisms."
+                    },
+                    {
+                        "question": "What is the primary function of the plicae circulares, also known as valves of Kerckring, within the small intestine's architecture?",
+                        "goodAnswer": "To substantially increase the surface area of the small intestine, thereby enhancing the efficiency of nutrient absorption by creating large folds in the mucosal and submucosal layers.",
+                        "wrongAnswer_1": "To facilitate the peristaltic movements of the intestinal contents by providing structural support for the muscularis externa layer and directing the flow of chyme.",
+                        "wrongAnswer_2": "To regulate the secretion of digestive enzymes from the pancreas and bile from the gallbladder by housing the major and minor duodenal papillae within their folds.",
+                        "wrongAnswer_3": "To protect the delicate villi from mechanical damage caused by the passage of food bolus by acting as shock absorbers and distributing pressure evenly across the intestinal wall.",
+                        "wrongAnswer_4": "To compartmentalize the small intestine into distinct segments, allowing for specialized digestive and absorptive processes to occur in different regions with minimal mixing."
+                    },
+                    {
+                        "question": "Which layer of the small intestinal wall is characterized by the presence of Brunner's glands in the duodenum and Peyer's patches in the ileum, and what is the main functional significance of these structures?",
+                        "goodAnswer": "The submucosa layer houses Brunner's glands, which secrete alkaline mucus to neutralize gastric acid in the duodenum, and Peyer's patches, lymphoid aggregates crucial for mucosal immunity in the ileum.",
+                        "wrongAnswer_1": "The mucosa layer contains Brunner's glands within the villi for enzyme secretion and Peyer's patches within the lamina propria for nutrient transport, playing roles in digestion and absorption.",
+                        "wrongAnswer_2": "The muscularis externa layer includes Brunner's glands in the circular muscle layer to aid in segmentation and Peyer's patches in the longitudinal muscle layer for peristalsis control.",
+                        "wrongAnswer_3": "The serosa layer is associated with Brunner's glands secreting serous fluid for lubrication and Peyer's patches forming the outer protective barrier against bacterial invasion.",
+                        "wrongAnswer_4": "The muscularis mucosae contains Brunner's glands for local muscular contractions and Peyer's patches to facilitate movement of villi, primarily affecting mucosal folding and motility."
+                    }
+                ]
+            },
+            {
+                "title": "Carbohydrate digestion",
+                "quizzes": [
+                    {
+                        "question": "What is the specific role of pancreatic alpha-amylase in carbohydrate digestion, and where does its primary action take place within the digestive system?",
+                        "goodAnswer": "Pancreatic alpha-amylase hydrolyzes \u03b1-1,4-glycosidic bonds in starch and glycogen within the small intestine, producing oligosaccharides and disaccharides as primary breakdown products.",
+                        "wrongAnswer_1": "Pancreatic alpha-amylase initiates the breakdown of cellulose and other dietary fibers in the stomach, creating monosaccharides that are readily absorbed in the gastric mucosa.",
+                        "wrongAnswer_2": "Pancreatic alpha-amylase targets \u03b1-1,6-glycosidic bonds in branched polysaccharides within the large intestine, generating short-chain fatty acids as fermentative end-products.",
+                        "wrongAnswer_3": "Pancreatic alpha-amylase catalyzes the hydrolysis of sucrose and lactose in the duodenum, yielding glucose and fructose/galactose for immediate absorption across the brush border.",
+                        "wrongAnswer_4": "Pancreatic alpha-amylase functions in the oral cavity to initiate the digestion of all types of carbohydrates, including monosaccharides, disaccharides, and polysaccharides, before swallowing."
+                    },
+                    {
+                        "question": "Which enzyme, located on the brush border membrane of enterocytes, is responsible for the final hydrolysis of lactose into its constituent monosaccharides, and what are these monosaccharides?",
+                        "goodAnswer": "Lactase, a brush border enzyme, specifically hydrolyzes lactose into glucose and galactose, which are then absorbed across the intestinal epithelium via specific transporters.",
+                        "wrongAnswer_1": "Sucrase-isomaltase, a brush border enzyme, breaks down lactose into fructose and glucose, subsequently transported into enterocytes using sodium-dependent glucose transporters.",
+                        "wrongAnswer_2": "Maltase-glucoamylase, a brush border enzyme, digests lactose into glucose and fructose, which are then absorbed via facilitated diffusion across the apical membrane of enterocytes.",
+                        "wrongAnswer_3": "Trehalase, a brush border enzyme, hydrolyzes lactose into galactose and mannose, which are actively transported into enterocytes using ATP-dependent pumps.",
+                        "wrongAnswer_4": "Alpha-dextrinase, a brush border enzyme, is responsible for breaking down lactose into glucose and ribose, which are absorbed through paracellular pathways between enterocytes."
+                    },
+                    {
+                        "question": "Describe the mechanism of glucose and galactose absorption across the apical membrane of enterocytes in the small intestine, including the specific transporter involved and the driving force for transport.",
+                        "goodAnswer": "Glucose and galactose are absorbed via secondary active transport using the SGLT1 transporter, driven by the electrochemical sodium gradient established by the Na+/K+ ATPase pump on the basolateral membrane.",
+                        "wrongAnswer_1": "Glucose and galactose are absorbed through facilitated diffusion using the GLUT2 transporter, driven by the concentration gradient of monosaccharides between the intestinal lumen and the enterocyte cytoplasm.",
+                        "wrongAnswer_2": "Glucose and galactose are absorbed via primary active transport using the GLUT4 transporter, directly powered by ATP hydrolysis to move monosaccharides against their concentration gradient.",
+                        "wrongAnswer_3": "Glucose and galactose are absorbed through simple diffusion across the lipid bilayer of the apical membrane, driven by the osmotic pressure difference between the intestinal lumen and the enterocyte cytoplasm.",
+                        "wrongAnswer_4": "Glucose and galactose are absorbed via vesicular transport, involving endocytosis of monosaccharides into vesicles that then fuse with the basolateral membrane to release them into the bloodstream."
+                    }
+                ]
+            },
+            {
+                "title": "Protein digestion",
+                "quizzes": [
+                    {
+                        "question": "What is the role of enteropeptidase (enterokinase) in protein digestion, and where is it primarily located within the digestive system?",
+                        "goodAnswer": "Enteropeptidase, located on the brush border of duodenal enterocytes, activates trypsinogen to trypsin, initiating a cascade of zymogen activation for pancreatic proteases involved in protein digestion.",
+                        "wrongAnswer_1": "Enteropeptidase, secreted by gastric chief cells, directly hydrolyzes peptide bonds in proteins within the stomach lumen, producing smaller peptides and free amino acids.",
+                        "wrongAnswer_2": "Enteropeptidase, found in pancreatic acinar cells, is responsible for the initial activation of chymotrypsinogen to chymotrypsin, crucial for breaking down aromatic amino acid residues.",
+                        "wrongAnswer_3": "Enteropeptidase, located within the lysosomes of hepatocytes, degrades intracellular proteins and peptides, playing a role in cellular protein turnover and amino acid recycling.",
+                        "wrongAnswer_4": "Enteropeptidase, present in the salivary glands, initiates protein digestion in the oral cavity by cleaving peptide bonds adjacent to lysine and arginine residues."
+                    },
+                    {
+                        "question": "Describe the mechanism of action of pepsin in protein digestion, including its optimal pH environment and the types of peptide bonds it preferentially hydrolyzes.",
+                        "goodAnswer": "Pepsin, active in the highly acidic environment of the stomach (pH 1.5-2.0), hydrolyzes peptide bonds preferentially at the carboxyl side of aromatic amino acids like phenylalanine, tyrosine, and tryptophan.",
+                        "wrongAnswer_1": "Pepsin, functioning optimally at neutral pH (pH 7.0), cleaves peptide bonds specifically at the amino side of basic amino acids such as lysine and arginine in the duodenum.",
+                        "wrongAnswer_2": "Pepsin, active in the alkaline environment of the small intestine (pH 8.0-9.0), hydrolyzes peptide bonds at the carboxyl side of acidic amino acids like aspartic acid and glutamic acid.",
+                        "wrongAnswer_3": "Pepsin, operating in the slightly acidic environment of the pancreas (pH 6.0-6.5), cleaves peptide bonds randomly throughout the protein chain, resulting in a mixture of di- and tripeptides.",
+                        "wrongAnswer_4": "Pepsin, functioning across a broad pH range (pH 3.0-8.0), hydrolyzes peptide bonds specifically within alpha-helical regions of proteins, leading to the denaturation and unfolding of protein structure."
+                    },
+                    {
+                        "question": "What are the primary mechanisms of amino acid absorption across the apical membrane of enterocytes, and which transporters are involved in the uptake of different classes of amino acids?",
+                        "goodAnswer": "Amino acid absorption primarily occurs via Na+-dependent cotransport for most amino acids, using various transporters like B0AT1, and facilitated diffusion for some, like those using LAT1 for large neutral amino acids.",
+                        "wrongAnswer_1": "Amino acid absorption is mainly facilitated by ATP-dependent active transport for all amino acids, utilizing ABC transporters located on the apical membrane to pump amino acids against their concentration gradient.",
+                        "wrongAnswer_2": "Amino acid absorption predominantly occurs through simple diffusion across the lipid bilayer, driven by the concentration gradient of amino acids between the intestinal lumen and the enterocyte cytoplasm.",
+                        "wrongAnswer_3": "Amino acid absorption is primarily mediated by vesicular transport, involving endocytosis of amino acids into vesicles that then fuse with the basolateral membrane for release into circulation.",
+                        "wrongAnswer_4": "Amino acid absorption mainly relies on paracellular transport through tight junctions between enterocytes, driven by the hydrostatic pressure difference between the intestinal lumen and the interstitial fluid."
+                    }
+                ]
+            },
+            {
+                "title": "Lipid digestion",
+                "quizzes": [
+                    {
+                        "question": "What is the critical role of bile salts in lipid digestion and absorption, and where are bile salts synthesized and subsequently act within the digestive system?",
+                        "goodAnswer": "Bile salts, synthesized in the liver and released into the small intestine, emulsify dietary fats, increasing the surface area for pancreatic lipase action and facilitating micelle formation for lipid absorption.",
+                        "wrongAnswer_1": "Bile salts, produced in the gallbladder and secreted into the stomach, hydrolyze triglycerides into fatty acids and glycerol, initiating lipid digestion and absorption in the gastric mucosa.",
+                        "wrongAnswer_2": "Bile salts, synthesized in the pancreas and released into the duodenum, activate pancreatic lipase and colipase, enhancing their enzymatic activity in the breakdown of phospholipids and cholesterol esters.",
+                        "wrongAnswer_3": "Bile salts, formed in the intestinal brush border membrane, facilitate the transport of fatty acids and monoglycerides across the apical membrane of enterocytes via specific carrier proteins.",
+                        "wrongAnswer_4": "Bile salts, generated in the kidneys and excreted into the large intestine, promote the fermentation of undigested fats by colonic bacteria, producing short-chain fatty acids and gases as byproducts."
+                    },
+                    {
+                        "question": "Describe the mechanism of action of pancreatic lipase and colipase in triglyceride digestion, including the specific bonds they hydrolyze and the products generated.",
+                        "goodAnswer": "Pancreatic lipase, with the aid of colipase, hydrolyzes triglycerides at the sn-1 and sn-3 positions, releasing 2-monoacylglycerols and free fatty acids as the primary products of triglyceride digestion.",
+                        "wrongAnswer_1": "Pancreatic lipase directly hydrolyzes triglycerides into glycerol and three free fatty acids in a single step, without the need for colipase or emulsification by bile salts.",
+                        "wrongAnswer_2": "Pancreatic lipase and colipase work synergistically to hydrolyze phospholipids into lysophospholipids and free fatty acids, which are then incorporated into chylomicrons for transport.",
+                        "wrongAnswer_3": "Pancreatic lipase specifically targets cholesterol esters, hydrolyzing them into free cholesterol and fatty acids, essential for cholesterol absorption and subsequent esterification in enterocytes.",
+                        "wrongAnswer_4": "Pancreatic lipase and colipase together catalyze the complete hydrolysis of triglycerides into carbon dioxide and water, releasing energy that is utilized by the intestinal epithelial cells."
+                    },
+                    {
+                        "question": "What is the fate of short-chain fatty acids (SCFAs) produced by bacterial fermentation of undigested carbohydrates in the colon, and how do they differ in absorption and transport compared to long-chain fatty acids?",
+                        "goodAnswer": "SCFAs, such as acetate, propionate, and butyrate, are absorbed directly into colonic epithelial cells and transported via the portal vein to the liver, unlike long-chain fatty acids which are incorporated into chylomicrons and enter the lymphatic system.",
+                        "wrongAnswer_1": "SCFAs are absorbed into lymphatic capillaries in the colon and transported via the thoracic duct to systemic circulation, similar to the absorption and transport pathway of long-chain fatty acids.",
+                        "wrongAnswer_2": "SCFAs are primarily excreted in feces as waste products of bacterial fermentation, with minimal absorption or metabolic utilization by the host, unlike long-chain fatty acids which are efficiently absorbed.",
+                        "wrongAnswer_3": "SCFAs are absorbed into intestinal lacteals and transported via the lymphatic system to adipose tissue for storage, representing a major pathway for energy storage from dietary carbohydrates, similar to long-chain fatty acids.",
+                        "wrongAnswer_4": "SCFAs are absorbed by simple diffusion across the colonic epithelium and transported via the hepatic artery directly to liver hepatocytes for immediate energy production, bypassing portal circulation."
+                    }
+                ]
+            },
+            {
+                "title": "Cholesterol absorption",
+                "quizzes": [
+                    {
+                        "question": "Describe the role of the Niemann-Pick C1-Like 1 (NPC1L1) protein in cholesterol absorption, and specify its location and mechanism of action within enterocytes.",
+                        "goodAnswer": "NPC1L1, located on the brush border membrane of enterocytes, facilitates cholesterol uptake from micelles into the enterocyte by binding cholesterol and mediating its internalization via endocytosis.",
+                        "wrongAnswer_1": "NPC1L1, located on the basolateral membrane of enterocytes, mediates cholesterol efflux from enterocytes into the bloodstream by transporting cholesterol across the basolateral membrane into HDL particles.",
+                        "wrongAnswer_2": "NPC1L1, found within the endoplasmic reticulum of enterocytes, is responsible for cholesterol esterification by catalyzing the reaction of free cholesterol with fatty acids to form cholesterol esters.",
+                        "wrongAnswer_3": "NPC1L1, present in the Golgi apparatus of enterocytes, is involved in the packaging of cholesterol and other lipids into chylomicrons for secretion into the lymphatic system.",
+                        "wrongAnswer_4": "NPC1L1, located in the lysosomes of enterocytes, degrades excess cholesterol by hydrolyzing cholesterol esters into free cholesterol and fatty acids, preventing cholesterol accumulation."
+                    },
+                    {
+                        "question": "What is the function of ATP-binding cassette transporters (ABC transporters), specifically ABCA1 and ABCG5/G8, in cholesterol homeostasis within enterocytes and systemic circulation?",
+                        "goodAnswer": "ABCA1 mediates cholesterol efflux to lipid-poor apolipoproteins like apoA-I, and ABCG5/G8 promote cholesterol efflux back into the intestinal lumen, both contributing to cholesterol homeostasis.",
+                        "wrongAnswer_1": "ABCA1 and ABCG5/G8 facilitate cholesterol uptake into enterocytes from the intestinal lumen, enhancing cholesterol absorption and contributing to increased systemic cholesterol levels.",
+                        "wrongAnswer_2": "ABCA1 and ABCG5/G8 are involved in intracellular cholesterol transport within enterocytes, moving cholesterol from the plasma membrane to the endoplasmic reticulum for esterification.",
+                        "wrongAnswer_3": "ABCA1 and ABCG5/G8 are responsible for cholesterol synthesis within enterocytes, catalyzing the rate-limiting step in cholesterol biosynthesis from acetyl-CoA in the cytoplasm.",
+                        "wrongAnswer_4": "ABCA1 and ABCG5/G8 mediate the degradation of cholesterol within lysosomes of enterocytes, reducing intracellular cholesterol levels and preventing cholesterol overload."
+                    },
+                    {
+                        "question": "Describe the process of cholesterol esterification within enterocytes, including the enzyme involved and the purpose of esterifying cholesterol prior to lipoprotein assembly.",
+                        "goodAnswer": "Cholesterol esterification is catalyzed by acyl-CoA:cholesterol acyltransferase (ACAT) in the ER, converting free cholesterol into cholesterol esters, which are more hydrophobic and efficiently packaged into chylomicrons.",
+                        "wrongAnswer_1": "Cholesterol esterification is catalyzed by lipoprotein lipase (LPL) on the endothelial surface of capillaries, hydrolyzing cholesterol esters in circulating lipoproteins to release free cholesterol for tissue uptake.",
+                        "wrongAnswer_2": "Cholesterol esterification is catalyzed by lecithin-cholesterol acyltransferase (LCAT) in the plasma, converting free cholesterol and phosphatidylcholine into cholesterol esters and lysolecithin within HDL particles.",
+                        "wrongAnswer_3": "Cholesterol esterification is catalyzed by cholesterol ester hydrolase (CEH) in pancreatic juice, hydrolyzing dietary cholesterol esters into free cholesterol and fatty acids in the intestinal lumen.",
+                        "wrongAnswer_4": "Cholesterol esterification is catalyzed by HMG-CoA reductase in the cytoplasm, converting HMG-CoA into mevalonate, a precursor in cholesterol biosynthesis and esterification pathway."
+                    }
+                ]
+            },
+            {
+                "title": "Calcium absorption, Vitamin D production",
+                "quizzes": [
+                    {
+                        "question": "What are the two main pathways of calcium absorption in the small intestine, and under what conditions does each pathway primarily operate?",
+                        "goodAnswer": "Transcellular absorption, vitamin D-dependent and active, predominates at low calcium intake, while paracellular absorption, vitamin D-independent and passive, increases at high calcium intake.",
+                        "wrongAnswer_1": "Active absorption, paracellular and ATP-dependent, occurs primarily in the duodenum, while passive absorption, transcellular and concentration-gradient driven, is dominant in the ileum.",
+                        "wrongAnswer_2": "Facilitated diffusion, vitamin D-dependent and carrier-mediated, is the main pathway in the jejunum, whereas simple diffusion, vitamin D-independent and lipid-soluble, operates in the duodenum.",
+                        "wrongAnswer_3": "Vesicular transport, ATP-dependent and endocytotic, is the primary mechanism for calcium absorption in the colon, while receptor-mediated endocytosis, vitamin D-sensitive, occurs in the ileum.",
+                        "wrongAnswer_4": "Secondary active transport, sodium-dependent and cotransport, is used for calcium absorption in the duodenum, while primary active transport, calcium-ATPase driven, is used in the jejunum."
+                    },
+                    {
+                        "question": "Describe the role of vitamin D in transcellular calcium absorption, including the key proteins involved and their functions in this process.",
+                        "goodAnswer": "Vitamin D, as calcitriol, induces the synthesis of TRPV6 calcium channels on the apical membrane, calbindin-D9k in the cytoplasm, and PMCA and NCX1 calcium pumps on the basolateral membrane, facilitating calcium transport.",
+                        "wrongAnswer_1": "Vitamin D directly activates the Na+/Ca2+ exchanger (NCX1) on the apical membrane, promoting calcium influx into enterocytes and subsequent transport across the basolateral membrane via TRPV5 channels.",
+                        "wrongAnswer_2": "Vitamin D inhibits the expression of calbindin-D9k, reducing intracellular calcium buffering capacity and enhancing the concentration gradient for passive calcium diffusion across the apical membrane.",
+                        "wrongAnswer_3": "Vitamin D stimulates the activity of the paracellular tight junctions, increasing intestinal permeability to calcium ions and enhancing passive calcium absorption between enterocytes.",
+                        "wrongAnswer_4": "Vitamin D promotes the vesicular sequestration of calcium within enterocytes, reducing cytosolic calcium concentration and driving further calcium uptake from the intestinal lumen via endocytosis."
+                    },
+                    {
+                        "question": "What are the initial steps in vitamin D production in the skin, and what are the subsequent metabolic conversions required to generate the active form of vitamin D (calcitriol)?",
+                        "goodAnswer": "7-Dehydrocholesterol in the skin absorbs UVB radiation to form previtamin D3, which isomerizes to vitamin D3. Vitamin D3 is then hydroxylated in the liver to 25-hydroxyvitamin D3 and in the kidney to 1,25-dihydroxyvitamin D3 (calcitriol).",
+                        "wrongAnswer_1": "Cholesterol in the skin is converted to vitamin D3 by UVA radiation, followed by hydroxylation in the kidney to 25-hydroxyvitamin D3 and in the liver to 1,25-dihydroxyvitamin D3 (calcitriol).",
+                        "wrongAnswer_2": "Ergosterol in the skin absorbs UVB radiation to form vitamin D2, which is then hydroxylated in the liver to 25-hydroxyvitamin D2 and in the intestine to 1,25-dihydroxyvitamin D2 (calcitriol).",
+                        "wrongAnswer_3": "Squalene in the skin is converted to 7-dehydrocholesterol by sunlight, which is then hydroxylated in the intestine to 25-hydroxyvitamin D3 and in the pancreas to 1,25-dihydroxyvitamin D3 (calcitriol).",
+                        "wrongAnswer_4": "Lanosterol in the skin is converted to previtamin D3 by infrared radiation, followed by hydroxylation in the kidney to 25-hydroxyvitamin D3 and in the bone marrow to 1,25-dihydroxyvitamin D3 (calcitriol)."
+                    }
+                ]
+            },
+            {
+                "title": "Intestinal motility",
+                "quizzes": [
+                    {
+                        "question": "What are the primary patterns of intestinal motility in the small intestine during the digestive period (fed state), and what is the main purpose of each pattern?",
+                        "goodAnswer": "Segmentation contractions mix chyme with digestive juices and promote absorption, while peristaltic contractions propel chyme towards the large intestine during digestion.",
+                        "wrongAnswer_1": "Migrating motor complexes (MMCs) propel residual chyme and clear debris during digestion, while tonic contractions maintain basal muscle tone and prevent backflow of intestinal contents.",
+                        "wrongAnswer_2": "Mass movements rapidly transport large segments of chyme through the small intestine during digestion, while reverse peristalsis moves chyme proximally for more efficient nutrient absorption.",
+                        "wrongAnswer_3": "Haustral contractions mix and churn chyme within the small intestine during digestion, while propulsive peristalsis moves chyme slowly towards the rectum for water absorption.",
+                        "wrongAnswer_4": "Sphincteric contractions regulate the flow of chyme between different segments of the small intestine during digestion, while rhythmic contractions generate electrical slow waves and initiate muscle contraction."
+                    },
+                    {
+                        "question": "Describe the Migrating Motor Complex (MMC) pattern of intestinal motility, including when it occurs and its physiological function.",
+                        "goodAnswer": "MMCs are cyclical patterns of peristaltic contractions occurring during the interdigestive period (fasted state) to sweep undigested material and bacteria towards the colon, maintaining intestinal hygiene.",
+                        "wrongAnswer_1": "MMCs are continuous segmentation contractions occurring during the digestive period to maximize nutrient absorption and mixing of chyme with digestive enzymes in the small intestine.",
+                        "wrongAnswer_2": "MMCs are rapid mass movements occurring during the postprandial period to quickly propel digested food residues into the large intestine for elimination.",
+                        "wrongAnswer_3": "MMCs are tonic contractions occurring during periods of stress to reduce intestinal motility and prevent excessive movement of bowel contents, ensuring nutrient conservation.",
+                        "wrongAnswer_4": "MMCs are reverse peristaltic waves occurring during vomiting to expel stomach contents and prevent further ingestion of potentially harmful substances into the small intestine."
+                    },
+                    {
+                        "question": "What are the roles of interstitial cells of Cajal (ICCs) in regulating intestinal motility, and how do they contribute to the generation of slow waves and muscle contractions?",
+                        "goodAnswer": "ICCs act as pacemaker cells, generating slow waves, which are rhythmic depolarizations that set the frequency of intestinal contractions. They mediate neurotransmitter inputs and initiate muscle contraction.",
+                        "wrongAnswer_1": "ICCs function as sensory neurons, detecting mechanical stretch and chemical stimuli in the intestinal lumen and initiating reflex contractions to regulate intestinal motility.",
+                        "wrongAnswer_2": "ICCs act as smooth muscle cells, directly contracting and relaxing to generate peristaltic and segmentation movements, controlling the force and velocity of intestinal propulsion.",
+                        "wrongAnswer_3": "ICCs serve as endocrine cells, secreting hormones like motilin and ghrelin that stimulate intestinal motility and regulate the migrating motor complex during fasting and feeding cycles.",
+                        "wrongAnswer_4": "ICCs function as immune cells, releasing inflammatory mediators that modulate intestinal smooth muscle excitability and contraction in response to bacterial or viral infections."
+                    }
+                ]
+            },
+            {
+                "title": "Fluid dynamics",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary mechanisms of fluid absorption in the small intestine, including the driving forces and key transporters involved in water and electrolyte transport.",
+                        "goodAnswer": "Fluid absorption is primarily driven by osmotic gradients created by solute absorption (mainly Na+ and glucose), with water following passively through aquaporins and tight junctions.",
+                        "wrongAnswer_1": "Fluid absorption is mainly driven by hydrostatic pressure gradients generated by intestinal contractions, forcing water and electrolytes across the intestinal epithelium into the bloodstream.",
+                        "wrongAnswer_2": "Fluid absorption is primarily mediated by active transport of water molecules across the apical membrane of enterocytes, utilizing ATP-dependent water pumps and aquaporin channels.",
+                        "wrongAnswer_3": "Fluid absorption is primarily driven by electrochemical gradients of chloride ions, with water and sodium ions following passively through paracellular and transcellular pathways.",
+                        "wrongAnswer_4": "Fluid absorption is mainly facilitated by vesicular transport of water and electrolytes, involving endocytosis of luminal fluid into vesicles that then fuse with the basolateral membrane for release."
+                    },
+                    {
+                        "question": "What is the role of the sodium-potassium ATPase (Na+/K+ ATPase) pump in intestinal fluid absorption, and where is it located within enterocytes?",
+                        "goodAnswer": "The Na+/K+ ATPase pump, located on the basolateral membrane of enterocytes, actively pumps Na+ out of the cell, creating a low intracellular Na+ concentration that drives Na+ and thus fluid absorption across the apical membrane.",
+                        "wrongAnswer_1": "The Na+/K+ ATPase pump, located on the apical membrane of enterocytes, actively pumps Na+ into the cell, increasing intracellular Na+ concentration that promotes Na+ secretion and fluid secretion into the lumen.",
+                        "wrongAnswer_2": "The Na+/K+ ATPase pump, located within the tight junctions between enterocytes, regulates paracellular permeability to sodium and water, controlling the rate of fluid absorption through intercellular spaces.",
+                        "wrongAnswer_3": "The Na+/K+ ATPase pump, located in the endoplasmic reticulum of enterocytes, maintains intracellular calcium homeostasis, which indirectly affects fluid absorption by regulating aquaporin channel activity.",
+                        "wrongAnswer_4": "The Na+/K+ ATPase pump, located in the mitochondria of enterocytes, generates ATP required for active transport of glucose and amino acids, but it does not directly contribute to fluid absorption mechanisms."
+                    },
+                    {
+                        "question": "How does the colon contribute to overall fluid balance in the body, and what are the primary mechanisms of fluid absorption in the large intestine?",
+                        "goodAnswer": "The colon absorbs a significant volume of water and electrolytes, recovering fluid not absorbed in the small intestine, primarily via Na+ absorption driven by ENaC channels and Na+/K+ ATPase, with water following osmotically.",
+                        "wrongAnswer_1": "The colon primarily secretes fluid into the intestinal lumen to lubricate fecal matter and facilitate its passage, with minimal contribution to overall fluid absorption or electrolyte balance in the body.",
+                        "wrongAnswer_2": "The colon absorbs fluid mainly through active transport of chloride ions, creating an electrochemical gradient that drives water and sodium absorption via paracellular pathways and aquaporin channels.",
+                        "wrongAnswer_3": "The colon contributes to fluid balance primarily by absorbing short-chain fatty acids produced by bacterial fermentation, which then draw water osmotically into the colonic epithelium.",
+                        "wrongAnswer_4": "The colon absorbs fluid mainly through vesicular transport, involving endocytosis of luminal fluid into vesicles that are then transported across the colonic epithelium into the bloodstream."
+                    }
+                ]
+            },
+            {
+                "title": "Micronutrients",
+                "quizzes": [
+                    {
+                        "question": "Describe the absorption of vitamin B12 (cobalamin), including the roles of intrinsic factor (IF), R-protein, and specific transporters involved in its uptake.",
+                        "goodAnswer": "Vitamin B12 binds R-protein in the stomach, IF in the duodenum, and the IF-B12 complex is absorbed in the ileum via receptor-mediated endocytosis mediated by cubilin and amnionless.",
+                        "wrongAnswer_1": "Vitamin B12 is directly absorbed in the stomach via passive diffusion, then binds to intrinsic factor in the duodenum, and is transported into enterocytes in the jejunum by active transport.",
+                        "wrongAnswer_2": "Vitamin B12 is absorbed in the jejunum via facilitated diffusion, binds to R-protein in the ileum, and is transported into the bloodstream in the colon through vesicular transport.",
+                        "wrongAnswer_3": "Vitamin B12 binds to intrinsic factor in the stomach, is hydrolyzed by pancreatic enzymes in the duodenum, and is absorbed in the ileum via sodium-dependent cotransport.",
+                        "wrongAnswer_4": "Vitamin B12 is absorbed in the colon via bacterial fermentation, binds to R-protein in the jejunum, and is transported into enterocytes in the duodenum by receptor-mediated endocytosis."
+                    },
+                    {
+                        "question": "What are the key factors that enhance iron absorption in the small intestine, and how do they influence the uptake of dietary iron by enterocytes?",
+                        "goodAnswer": "Acidic gastric pH, reducing agents like vitamin C, and heme iron enhance iron absorption by increasing iron solubility, reducing ferric to ferrous iron, and providing a readily absorbable form of iron.",
+                        "wrongAnswer_1": "Alkaline intestinal pH, oxidizing agents like tannins, and non-heme iron enhance iron absorption by increasing iron complexation, oxidizing ferrous to ferric iron, and facilitating iron transport across the brush border.",
+                        "wrongAnswer_2": "High dietary calcium intake, chelating agents like phytates, and ferritin enhance iron absorption by increasing iron bioavailability, chelating iron in the lumen, and promoting iron storage in enterocytes.",
+                        "wrongAnswer_3": "Low gastric acid secretion, proton pump inhibitors, and transferrin enhance iron absorption by decreasing iron solubility, inhibiting iron reduction, and increasing iron binding capacity in the blood.",
+                        "wrongAnswer_4": "Increased intestinal motility, bile acids, and hepcidin enhance iron absorption by accelerating iron transit time, emulsifying dietary fats, and reducing iron efflux from enterocytes into circulation."
+                    },
+                    {
+                        "question": "Describe the absorption of fat-soluble vitamins (A, D, E, K), and how does it differ from the absorption of water-soluble vitamins?",
+                        "goodAnswer": "Fat-soluble vitamins are absorbed along with dietary fats, incorporated into micelles, and transported into enterocytes via passive diffusion, then packaged into chylomicrons for lymphatic transport, unlike water-soluble vitamins which are mostly absorbed directly into the blood.",
+                        "wrongAnswer_1": "Fat-soluble vitamins are actively transported across the apical membrane of enterocytes using specific carrier proteins, then directly enter the bloodstream via the portal vein, similar to the absorption of water-soluble vitamins.",
+                        "wrongAnswer_2": "Fat-soluble vitamins are absorbed in the colon via bacterial fermentation, converted into water-soluble forms, and then transported into the bloodstream through facilitated diffusion, unlike water-soluble vitamins which are absorbed in the small intestine.",
+                        "wrongAnswer_3": "Fat-soluble vitamins are absorbed through paracellular pathways between enterocytes, driven by hydrostatic pressure gradients, and then directly enter the lymphatic system, unlike water-soluble vitamins which are absorbed transcellularly.",
+                        "wrongAnswer_4": "Fat-soluble vitamins are absorbed via receptor-mediated endocytosis in the duodenum, transported into vesicles, and then released into the bloodstream via exocytosis, similar to the absorption mechanism of water-soluble vitamins."
+                    }
+                ]
+            },
+            {
+                "title": "Drug metabolism",
+                "quizzes": [
+                    {
+                        "question": "What is the primary role of cytochrome P450 (CYP) enzymes in drug metabolism, and where are these enzymes predominantly located within cells?",
+                        "goodAnswer": "CYP enzymes primarily catalyze phase I reactions of drug metabolism, such as oxidation, reduction, and hydrolysis, mainly located in the endoplasmic reticulum of hepatocytes and enterocytes.",
+                        "wrongAnswer_1": "CYP enzymes primarily catalyze phase II reactions of drug metabolism, such as conjugation, glucuronidation, and sulfation, mainly located in the Golgi apparatus of renal tubular cells and neurons.",
+                        "wrongAnswer_2": "CYP enzymes primarily function in drug transport across cell membranes, mediating drug uptake and efflux, mainly located in the plasma membrane of endothelial cells and astrocytes.",
+                        "wrongAnswer_3": "CYP enzymes primarily function in drug storage and sequestration within cellular organelles, such as lysosomes and peroxisomes, mainly located in macrophages and adipocytes.",
+                        "wrongAnswer_4": "CYP enzymes primarily function in drug excretion from the body, facilitating renal and biliary elimination, mainly located in the mitochondria of epithelial cells and fibroblasts."
+                    },
+                    {
+                        "question": "Describe the phase II reactions of drug metabolism, including the major types of reactions and the enzymes involved in these processes.",
+                        "goodAnswer": "Phase II reactions involve conjugation reactions, such as glucuronidation (UGTs), sulfation (SULTs), glutathione conjugation (GSTs), and acetylation (NATs), increasing drug water solubility for excretion.",
+                        "wrongAnswer_1": "Phase II reactions involve hydrolysis reactions, such as ester hydrolysis (esterases), amide hydrolysis (amidases), and epoxide hydrolysis (epoxide hydrolases), reducing drug toxicity and bioactivity.",
+                        "wrongAnswer_2": "Phase II reactions involve oxidation reactions, such as hydroxylation (CYPs), dehydrogenation (alcohol dehydrogenases), and monoamine oxidation (MAOs), modifying drug structure and pharmacological properties.",
+                        "wrongAnswer_3": "Phase II reactions involve reduction reactions, such as nitro reduction (nitroreductases), carbonyl reduction (carbonyl reductases), and quinone reduction (quinone reductases), altering drug redox potential and reactivity.",
+                        "wrongAnswer_4": "Phase II reactions involve transport reactions, such as drug uptake (OATPs) and efflux (ABCB1/MDR1), facilitating drug distribution and elimination across biological membranes."
+                    },
+                    {
+                        "question": "What is the significance of first-pass metabolism in drug bioavailability, and which organs are primarily involved in this process?",
+                        "goodAnswer": "First-pass metabolism refers to drug metabolism occurring in the liver and intestine before systemic circulation, reducing drug bioavailability, with the liver being the primary organ.",
+                        "wrongAnswer_1": "First-pass metabolism refers to drug metabolism occurring in the kidneys and bladder after systemic circulation, enhancing drug elimination and reducing drug half-life in the body.",
+                        "wrongAnswer_2": "First-pass metabolism refers to drug metabolism occurring in the lungs and heart during systemic circulation, modifying drug distribution and targeting to specific tissues and organs.",
+                        "wrongAnswer_3": "First-pass metabolism refers to drug metabolism occurring in the brain and spinal cord before reaching peripheral tissues, altering drug penetration and efficacy in the central nervous system.",
+                        "wrongAnswer_4": "First-pass metabolism refers to drug metabolism occurring in the skin and mucous membranes upon topical application, affecting drug absorption and local therapeutic effects."
+                    }
+                ]
+            }
+        ]
+    }
+}

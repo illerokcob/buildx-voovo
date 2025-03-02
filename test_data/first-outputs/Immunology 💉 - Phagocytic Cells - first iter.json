@@ -1,0 +1,132 @@
+{
+    "mainTopic": {
+        "title": "Phagocytic Cells",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Types and functions of phagocytic cells",
+                "quizzes": [
+                    {
+                        "question": "What is the primary function of phagocytic cells within the immune system?",
+                        "goodAnswer": "To recognize, engulf, and destroy pathogens and cellular debris, playing a crucial role in innate immunity and tissue homeostasis.",
+                        "wrongAnswer_1": "To produce antibodies that neutralize pathogens, and to activate T lymphocytes for adaptive immune responses against specific antigens.",
+                        "wrongAnswer_2": "To regulate inflammatory responses by selectively releasing cytokines and chemokines, and to present processed antigens exclusively to B lymphocytes.",
+                        "wrongAnswer_3": "To transport oxygen and nutrients to tissues, and to selectively remove carbon dioxide and metabolic wastes from the interstitial fluid.",
+                        "wrongAnswer_4": "To synthesize complement proteins and to stimulate the production of erythrocytes within the bone marrow microenvironment."
+                    },
+                    {
+                        "question": "Which of the following cell types is NOT typically classified as a professional phagocyte?",
+                        "goodAnswer": "Natural Killer (NK) cells, which primarily function in recognizing and eliminating virus-infected cells and tumor cells through cytotoxic mechanisms, not phagocytosis.",
+                        "wrongAnswer_1": "Macrophages, which are versatile phagocytes involved in tissue repair, antigen presentation, and the production of cytokines that modulate immune responses.",
+                        "wrongAnswer_2": "Neutrophils, the most abundant leukocytes, known for their rapid and efficient phagocytosis of bacteria and fungi during acute inflammatory responses.",
+                        "wrongAnswer_3": "Dendritic cells, which are phagocytic cells that also play a crucial role in antigen presentation to T lymphocytes, bridging innate and adaptive immunity.",
+                        "wrongAnswer_4": "Monocytes, which circulate in the blood and subsequently differentiate into macrophages or dendritic cells upon migration into tissues under inflammatory conditions."
+                    },
+                    {
+                        "question": "Considering the broader roles of phagocytic cells beyond pathogen removal, which function is also significantly attributed to these cells in tissue maintenance?",
+                        "goodAnswer": "Clearance of apoptotic cells and tissue debris, which is essential for preventing secondary necrosis and promoting tissue remodeling and resolution of inflammation.",
+                        "wrongAnswer_1": "Production of acute phase proteins in the liver, which are released into circulation to opsonize pathogens and activate the complement cascade systemically.",
+                        "wrongAnswer_2": "Regulation of body temperature through the release of pyrogens, which act on the hypothalamus to induce fever during systemic infections.",
+                        "wrongAnswer_3": "Secretion of hormones such as cortisol and adrenaline, which modulate stress responses and influence the distribution of lymphocytes in lymphoid tissues.",
+                        "wrongAnswer_4": "Synthesis of extracellular matrix components like collagen and fibronectin, which provide structural support and regulate cell adhesion in connective tissues."
+                    }
+                ]
+            },
+            {
+                "title": "Neutrophils and Macrophages",
+                "quizzes": [
+                    {
+                        "question": "What is a key distinguishing factor in the temporal recruitment of neutrophils and macrophages to inflammatory sites following tissue injury or infection?",
+                        "goodAnswer": "Neutrophils are typically the first responders, rapidly recruited from the blood within hours, whereas macrophages arrive later, often differentiating from monocytes over days.",
+                        "wrongAnswer_1": "Macrophages are the primary first responders, immediately recruited from tissue-resident pools, while neutrophils require several days to be generated in the bone marrow and mobilized.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages are recruited simultaneously and in equal proportions to the inflammatory site, guided by identical chemotactic signals and adhesion molecules.",
+                        "wrongAnswer_3": "Neutrophils are preferentially recruited to sites of chronic inflammation, while macrophages dominate in the acute phase of inflammation to initiate tissue repair processes.",
+                        "wrongAnswer_4": "The recruitment timing is primarily determined by the pathogen type, with neutrophils responding to viral infections and macrophages to bacterial and fungal infections exclusively."
+                    },
+                    {
+                        "question": "Which of the following mechanisms is predominantly utilized by neutrophils to eliminate internalized pathogens within phagosomes?",
+                        "goodAnswer": "The generation of reactive oxygen species (ROS) through the respiratory burst and the release of enzymes from azurophilic granules into the phagolysosome, creating a highly toxic environment.",
+                        "wrongAnswer_1": "The secretion of antibodies into the phagolysosome to neutralize pathogens and prevent their replication, followed by antigen presentation on MHC class II molecules.",
+                        "wrongAnswer_2": "The activation of the complement system within the phagolysosome to opsonize pathogens and enhance their degradation through membrane attack complex formation.",
+                        "wrongAnswer_3": "The induction of apoptosis within the phagocytosed pathogen, leading to programmed cell death and subsequent degradation by lysosomal enzymes in the macrophage.",
+                        "wrongAnswer_4": "The release of antimicrobial peptides into the extracellular space surrounding the phagocyte to directly kill pathogens before internalization via phagocytosis occurs."
+                    },
+                    {
+                        "question": "Comparing the functional longevity and lifespan of neutrophils and macrophages in vivo, which statement accurately reflects their characteristic differences?",
+                        "goodAnswer": "Neutrophils are short-lived, typically surviving for a few hours to days in tissues, whereas macrophages are longer-lived, capable of persisting for weeks to months in tissues.",
+                        "wrongAnswer_1": "Macrophages are extremely short-lived, undergoing rapid apoptosis within hours of activation, while neutrophils are long-lived and can survive for several weeks in tissues.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages have comparable lifespans, typically surviving for several days in tissues before undergoing programmed cell death or efferocytosis.",
+                        "wrongAnswer_3": "The lifespan of neutrophils and macrophages is primarily determined by the presence of pathogens, with both cell types exhibiting prolonged survival during chronic infections.",
+                        "wrongAnswer_4": "Neutrophils lifespan is dependent on the type of inflammatory stimulus, varying from days in acute inflammation to weeks in chronic inflammatory conditions, similar to macrophages."
+                    },
+                    {
+                        "question": "In terms of antigen presentation, how do macrophages and neutrophils differ in their capacity to bridge innate and adaptive immunity?",
+                        "goodAnswer": "Macrophages are efficient antigen-presenting cells (APCs), expressing MHC class II molecules and co-stimulatory signals to activate CD4+ T helper cells, whereas neutrophils are poor APCs with limited MHC II expression.",
+                        "wrongAnswer_1": "Neutrophils are highly efficient APCs, expressing high levels of MHC class II and co-stimulatory molecules, while macrophages primarily function as effector cells without significant antigen presentation capacity.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages are equally efficient APCs, expressing similar levels of MHC class II and co-stimulatory molecules, contributing equally to T cell activation.",
+                        "wrongAnswer_3": "Neither neutrophils nor macrophages are capable of antigen presentation, as this function is exclusively performed by dendritic cells and B lymphocytes in lymphoid organs.",
+                        "wrongAnswer_4": "Macrophages present antigens to CD8+ T cytotoxic cells, while neutrophils present antigens to CD4+ T helper cells, representing distinct pathways of adaptive immune activation."
+                    }
+                ]
+            },
+            {
+                "title": "Targets of Neutrophil Products",
+                "quizzes": [
+                    {
+                        "question": "What is a significant extracellular target of neutrophil-derived myeloperoxidase (MPO) during inflammatory responses, and what is the consequence of its action?",
+                        "goodAnswer": "Extracellular matrix components and pathogens, leading to the generation of hypochlorous acid (HOCl), a potent oxidant that damages tissues and microbial structures.",
+                        "wrongAnswer_1": "Intracellular proteins within neutrophils themselves, resulting in the regulation of neutrophil apoptosis and resolution of inflammation via self-destruction.",
+                        "wrongAnswer_2": "Circulating antibodies in the bloodstream, causing the degradation of immunoglobulins and suppression of humoral immune responses during acute infections.",
+                        "wrongAnswer_3": "Bacterial cell walls specifically, leading to the direct lysis of bacterial pathogens in the extracellular environment independently of phagocytosis mechanisms.",
+                        "wrongAnswer_4": "Viral glycoproteins on the surface of infected host cells, preventing viral entry into uninfected cells and limiting the spread of viral infections systemically."
+                    },
+                    {
+                        "question": "How do neutrophil extracellular traps (NETs) primarily target and neutralize pathogens in the extracellular space during infection?",
+                        "goodAnswer": "By ensnaring and immobilizing pathogens within a web-like structure composed of DNA, histones, and granular enzymes, preventing dissemination and promoting localized pathogen clearance.",
+                        "wrongAnswer_1": "By directly injecting cytotoxic enzymes into pathogens, inducing immediate lysis and degradation without physical entrapment or structural barriers to dissemination.",
+                        "wrongAnswer_2": "By releasing chemotactic signals that selectively attract more macrophages to the infection site, indirectly enhancing phagocytosis through increased macrophage recruitment and activation.",
+                        "wrongAnswer_3": "By coating pathogens with opsonins derived from NET components to enhance recognition and uptake specifically by dendritic cells and subsequent antigen presentation.",
+                        "wrongAnswer_4": "By disrupting the pathogen's cell membrane integrity through the insertion of pore-forming proteins derived from NETs, leading to osmotic lysis and pathogen inactivation."
+                    },
+                    {
+                        "question": "Considering neutrophil-derived proteases like elastase and proteinase 3, what is a prominent host tissue target that contributes to tissue damage in chronic inflammatory conditions?",
+                        "goodAnswer": "Extracellular matrix proteins, including elastin and collagen, leading to degradation of structural components and contributing to tissue destruction in diseases like COPD and rheumatoid arthritis.",
+                        "wrongAnswer_1": "Intracellular signaling molecules within endothelial cells lining blood vessels, causing disruption of vascular permeability and promoting edema formation in inflamed tissues.",
+                        "wrongAnswer_2": "Circulating complement components in the plasma, leading to unregulated activation of the complement cascade and systemic inflammatory responses in autoimmune disorders.",
+                        "wrongAnswer_3": "Bacterial biofilms formed on implanted medical devices, promoting bacterial dissemination and persistent infection due to protease-mediated biofilm degradation.",
+                        "wrongAnswer_4": "Viral capsid proteins of enveloped viruses, preventing viral uncoating and replication within host cells and limiting the progression of viral pathogenesis."
+                    }
+                ]
+            },
+            {
+                "title": "Protective mechansims",
+                "quizzes": [
+                    {
+                        "question": "What is a critical protective mechanism employed by phagocytes to mitigate self-inflicted damage from reactive oxygen species (ROS) generated during pathogen destruction?",
+                        "goodAnswer": "The enzymatic detoxification of ROS through enzymes like superoxide dismutase (SOD) and catalase, which convert superoxide radicals and hydrogen peroxide into less harmful molecules.",
+                        "wrongAnswer_1": "The indiscriminate release of ROS into the extracellular space to ensure complete pathogen eradication, overriding mechanisms that would typically limit collateral tissue damage during inflammation.",
+                        "wrongAnswer_2": "The activation of the coagulation cascade to form fibrin clots and physically isolate the infection site, preventing pathogen spread while simultaneously protecting surrounding host tissues.",
+                        "wrongAnswer_3": "The suppression of inflammatory cytokine production to minimize immune cell recruitment and prevent excessive inflammation, thereby indirectly reducing ROS generation and tissue injury.",
+                        "wrongAnswer_4": "The induction of autophagy within phagocytes to selectively degrade damaged organelles and proteins, promoting cellular survival under conditions of oxidative stress and inflammatory challenge."
+                    },
+                    {
+                        "question": "How does the process of 'respiratory burst' contribute to the protective mechanisms of phagocytes against invading pathogens?",
+                        "goodAnswer": "By generating a rapid and transient increase in oxygen consumption, leading to the production of reactive oxygen species (ROS) within the phagolysosome, which are highly toxic to ingested microbes.",
+                        "wrongAnswer_1": "By increasing oxygen delivery to infected tissues, promoting tissue repair and regeneration following pathogen clearance and resolution of inflammatory responses in the microenvironment.",
+                        "wrongAnswer_2": "By releasing antimicrobial peptides into the extracellular space, directly killing pathogens without requiring phagocytosis or the involvement of reactive oxygen species within phagosomes.",
+                        "wrongAnswer_3": "By enhancing the production of antibodies and complement proteins, amplifying the adaptive immune response and facilitating long-term immunological memory against specific pathogens.",
+                        "wrongAnswer_4": "By regulating the inflammatory response through the production of anti-inflammatory cytokines and chemokines, resolving tissue inflammation and preventing chronic immune activation."
+                    },
+                    {
+                        "question": "Considering the resolution of inflammation and prevention of chronic tissue damage, what is the role of efferocytosis as a protective mechanism mediated by phagocytes?",
+                        "goodAnswer": "Efferocytosis, the phagocytic clearance of apoptotic cells, prevents secondary necrosis and release of intracellular contents that can perpetuate inflammation and tissue injury, promoting tissue homeostasis.",
+                        "wrongAnswer_1": "Efferocytosis primarily functions to recycle nutrients from apoptotic cells to support the metabolic demands of activated phagocytes during periods of intense inflammatory responses and pathogen clearance.",
+                        "wrongAnswer_2": "Efferocytosis induces the differentiation of monocytes into pro-inflammatory macrophages, amplifying the immune response and enhancing pathogen clearance in persistently infected tissues.",
+                        "wrongAnswer_3": "Efferocytosis suppresses the production of reactive oxygen species (ROS) by phagocytes, directly limiting oxidative stress and protecting host tissues from collateral damage during inflammation.",
+                        "wrongAnswer_4": "Efferocytosis promotes the formation of neutrophil extracellular traps (NETs), enhancing pathogen entrapment and clearance while simultaneously limiting the spread of infection systemically."
+                    }
+                ]
+            }
+        ]
+    }
+}

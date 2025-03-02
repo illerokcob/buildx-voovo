@@ -1,0 +1,135 @@
+{
+    "mainTopic": {
+        "title": "Gross anatomy of urine transport",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Ureters",
+                "quizzes": [
+                    {
+                        "question": "Which layers constitute the wall of the ureter, starting from the innermost to the outermost?",
+                        "goodAnswer": "Mucosa, muscularis (inner longitudinal and outer circular layers), and adventitia.",
+                        "wrongAnswer_1": "Serosa, muscularis (inner circular and outer longitudinal layers), and mucosa.",
+                        "wrongAnswer_2": "Adventitia, submucosa, and muscularis (single layer of smooth muscle).",
+                        "wrongAnswer_3": "Mucosa, submucosa, and serosa (with stratified squamous epithelium).",
+                        "wrongAnswer_4": "Transitional epithelium, muscularis (only longitudinal layer), and serosa."
+                    },
+                    {
+                        "question": "What type of epithelium lines the lumen of the ureter, facilitating its function?",
+                        "goodAnswer": "Transitional epithelium, allowing for distension and recoil as urine passes.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, providing protection against abrasion from urine crystals.",
+                        "wrongAnswer_2": "Simple columnar epithelium, specialized for secretion of lubricating mucus.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium, aiding in the movement of urine via cilia.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, involved in active transport and reabsorption of solutes from urine."
+                    },
+                    {
+                        "question": "Which anatomical feature is responsible for preventing the backflow of urine from the bladder into the ureters?",
+                        "goodAnswer": "The oblique entry of the ureters into the bladder wall, creating a valve-like mechanism.",
+                        "wrongAnswer_1": "A sphincter located at the ureterovesical junction, actively contracting to block reflux.",
+                        "wrongAnswer_2": "The presence of valves within the ureteral lumen, similar to those in veins.",
+                        "wrongAnswer_3": "The peristaltic contractions of the ureteral muscularis, exclusively pushing urine downwards.",
+                        "wrongAnswer_4": "The higher pressure within the ureters compared to the bladder, naturally preventing backflow."
+                    },
+                    {
+                        "question": "Describe the path of the ureters in relation to the peritoneum within the abdominal and pelvic cavities.",
+                        "goodAnswer": "Retroperitoneal throughout their course, lying behind the parietal peritoneum.",
+                        "wrongAnswer_1": "Intraperitoneal in the abdomen and retroperitoneal in the pelvis, transitioning near the iliac vessels.",
+                        "wrongAnswer_2": "Primarily intraperitoneal, suspended by mesentery within the abdominal cavity.",
+                        "wrongAnswer_3": "Retroperitoneal in the abdomen and intraperitoneal in the pelvis, entering the bladder from the anterior aspect.",
+                        "wrongAnswer_4": "Completely within the peritoneal cavity, attached to the anterior abdominal wall."
+                    }
+                ]
+            },
+            {
+                "title": "Bladder",
+                "quizzes": [
+                    {
+                        "question": "What is the detrusor muscle, and what is its primary anatomical arrangement in the bladder wall?",
+                        "goodAnswer": "The muscular layer of the bladder wall, composed of interlacing smooth muscle bundles in longitudinal, circular, and oblique orientations.",
+                        "wrongAnswer_1": "A sphincter muscle located at the bladder neck, composed of striated muscle fibers under voluntary control.",
+                        "wrongAnswer_2": "The submucosal layer of the bladder, containing elastic fibers arranged in a circular pattern to facilitate expansion.",
+                        "wrongAnswer_3": "The outer serosal layer of the bladder, providing structural support with collagen fibers arranged in a single longitudinal layer.",
+                        "wrongAnswer_4": "A specialized layer of transitional epithelium within the mucosa, capable of muscular contraction upon distension."
+                    },
+                    {
+                        "question": "Describe the trigone of the bladder and identify its key anatomical boundaries.",
+                        "goodAnswer": "A triangular region on the internal posterior bladder wall, defined by the openings of the two ureters and the internal urethral orifice.",
+                        "wrongAnswer_1": "The superior dome of the bladder, characterized by rugae and bounded by the peritoneal folds.",
+                        "wrongAnswer_2": "The anterior wall of the bladder, marked by the attachment of the urachus in adults.",
+                        "wrongAnswer_3": "The inferior portion of the bladder neck, containing the internal urethral sphincter and surrounded by the prostate in males.",
+                        "wrongAnswer_4": "The external surface of the bladder, delineated by the attachment of the pelvic diaphragm muscles."
+                    },
+                    {
+                        "question": "Which type of epithelium lines the urinary bladder, and how does its structure contribute to bladder function?",
+                        "goodAnswer": "Transitional epithelium (urothelium), allowing for significant stretching and thinning of the bladder wall as it fills with urine.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, providing a thick protective barrier against the acidic nature of urine.",
+                        "wrongAnswer_2": "Simple columnar epithelium, facilitating active secretion of mucus to protect the bladder lining from irritation.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium, aiding in the movement of urine through the bladder via ciliary action.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, specialized for reabsorption of water and solutes from the urine within the bladder."
+                    },
+                    {
+                        "question": "What are the anatomical relationships of the bladder in the pelvic cavity in females?",
+                        "goodAnswer": "Anterior and inferior to the uterus, anterior to the rectum, and superior to the pelvic diaphragm.",
+                        "wrongAnswer_1": "Posterior to the uterus, superior to the vagina, and inferior to the ovaries.",
+                        "wrongAnswer_2": "Lateral to the rectum, anterior to the sacrum, and posterior to the pubic symphysis.",
+                        "wrongAnswer_3": "Superior to the uterus, posterior to the vagina, and anterior to the rectum.",
+                        "wrongAnswer_4": "Inferior to the rectum, posterior to the pubic symphysis, and superior to the ovaries."
+                    },
+                    {
+                        "question": "Describe the blood supply and venous drainage of the urinary bladder.",
+                        "goodAnswer": "Arterial supply primarily from branches of the internal iliac arteries (superior and inferior vesical arteries), venous drainage into the internal iliac veins.",
+                        "wrongAnswer_1": "Arterial supply from the external iliac arteries, venous drainage into the external iliac veins and then the femoral vein.",
+                        "wrongAnswer_2": "Arterial supply from the renal arteries, venous drainage directly into the inferior vena cava.",
+                        "wrongAnswer_3": "Arterial supply from the common iliac arteries, venous drainage into the superior mesenteric vein.",
+                        "wrongAnswer_4": "Arterial supply from the abdominal aorta directly, venous drainage into the portal venous system."
+                    }
+                ]
+            },
+            {
+                "title": "Urethra",
+                "quizzes": [
+                    {
+                        "question": "What is the primary anatomical difference in the male urethra compared to the female urethra?",
+                        "goodAnswer": "The male urethra is significantly longer and serves as a common passage for both urine and semen, whereas the female urethra is shorter and solely for urine.",
+                        "wrongAnswer_1": "The female urethra is longer and more convoluted than the male urethra, providing greater protection against urinary tract infections.",
+                        "wrongAnswer_2": "The male urethra is lined with stratified squamous epithelium throughout its length, while the female urethra is lined with transitional epithelium.",
+                        "wrongAnswer_3": "The male urethra lacks a muscular layer, relying on gravity for urine transport, while the female urethra possesses a thick muscularis.",
+                        "wrongAnswer_4": "The female urethra is composed of three distinct parts (prostatic, membranous, spongy), while the male urethra is a single continuous tube."
+                    },
+                    {
+                        "question": "Identify the three main parts of the male urethra in their correct anatomical sequence from proximal to distal.",
+                        "goodAnswer": "Prostatic urethra -> Membranous urethra -> Spongy (penile) urethra.",
+                        "wrongAnswer_1": "Spongy urethra -> Membranous urethra -> Prostatic urethra.",
+                        "wrongAnswer_2": "Penile urethra -> Bulbourethral urethra -> Prostatic urethra.",
+                        "wrongAnswer_3": "Membranous urethra -> Prostatic urethra -> Spongy urethra.",
+                        "wrongAnswer_4": "Cavernous urethra -> Membranous urethra -> Prostatic urethra."
+                    },
+                    {
+                        "question": "Which type of epithelium primarily lines the female urethra?",
+                        "goodAnswer": "Stratified squamous epithelium distally, transitioning to pseudostratified columnar or transitional epithelium proximally.",
+                        "wrongAnswer_1": "Transitional epithelium throughout its entire length, similar to the bladder lining.",
+                        "wrongAnswer_2": "Simple columnar epithelium, specialized for mucus secretion to lubricate the urethral passage.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium, aiding in the movement of urine via ciliary action.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, involved in active transport and reabsorption of solutes within the urethra."
+                    },
+                    {
+                        "question": "What anatomical structure surrounds the prostatic urethra in males and contributes to its function?",
+                        "goodAnswer": "The prostate gland, which secretes prostatic fluid into the prostatic urethra.",
+                        "wrongAnswer_1": "The bulbourethral glands (Cowper's glands), located within the prostatic urethra itself.",
+                        "wrongAnswer_2": "The seminal vesicles, which empty their secretions into the prostatic urethra.",
+                        "wrongAnswer_3": "The urethral glands (glands of Littre), primarily located in the prostatic urethra.",
+                        "wrongAnswer_4": "The external urethral sphincter, which encircles the prostatic urethra and controls urine flow."
+                    },
+                    {
+                        "question": "Describe the location and function of the external urethral sphincter in both males and females.",
+                        "goodAnswer": "Located inferior to the bladder neck, surrounding the urethra, providing voluntary control over urination.",
+                        "wrongAnswer_1": "Located within the bladder wall, near the trigone, controlling involuntary bladder contractions.",
+                        "wrongAnswer_2": "Located superior to the bladder neck, within the abdominal cavity, regulating urine flow from the kidneys.",
+                        "wrongAnswer_3": "Located along the length of the urethra, providing peristaltic contractions to propel urine outwards.",
+                        "wrongAnswer_4": "Located at the distal end of the urethra, controlling the release of semen in males and urine in females."
+                    }
+                ]
+            }
+        ]
+    }
+}

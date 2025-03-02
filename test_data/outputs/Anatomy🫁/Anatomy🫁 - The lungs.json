@@ -1,0 +1,140 @@
+{
+    "mainTopic": {
+        "title": "The lungs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Gross anatomy of the lungs",
+                "quizzes": [
+                    {
+                        "question": "Which anatomical feature is primarily responsible for dividing the right lung into its distinct lobes, and how many lobes are formed as a result of this division?",
+                        "goodAnswer": "The right lung is divided into three lobes \u2013 superior, middle, and inferior \u2013 by two fissures: the oblique fissure and the horizontal fissure.",
+                        "wrongAnswer_1": "The right lung is divided into two lobes \u2013 superior and inferior \u2013 by one fissure: the oblique fissure and a secondary sagittal fissure.",
+                        "wrongAnswer_2": "The right lung is divided into four lobes \u2013 apical, medial, basal, and posterior \u2013 by three fissures: horizontal, sagittal and coronal fissures.",
+                        "wrongAnswer_3": "The right lung is divided into three lobes \u2013 anterior, posterior, and lateral \u2013 by two fissures: the transverse fissure and the coronal fissure.",
+                        "wrongAnswer_4": "The right lung is undivided, presenting as a single lobar structure without any fissures, unlike the left lung which is lobulated."
+                    },
+                    {
+                        "question": "Describing the surfaces of the lungs, which surface is in direct contact with the ribs and intercostal spaces, and what is its general shape?",
+                        "goodAnswer": "The costal surface of the lung is smooth, convex, and in contact with the ribs and intercostal spaces, reflecting the curvature of the thoracic wall.",
+                        "wrongAnswer_1": "The mediastinal surface of the lung is rough, concave, and in contact with the ribs and intercostal spaces, representing the impression of the vertebral column.",
+                        "wrongAnswer_2": "The diaphragmatic surface of the lung is flat, convex, and in contact with the ribs and intercostal spaces, forming the apical region of the lung.",
+                        "wrongAnswer_3": "The cervical surface of the lung is smooth, concave, and in contact with the ribs and intercostal spaces, representing the area adjacent to the neck.",
+                        "wrongAnswer_4": "The basal surface of the lung is irregular, convex, and in contact with the ribs and intercostal spaces, forming the base where major vessels enter."
+                    },
+                    {
+                        "question": "What anatomical structure constitutes the 'root of the lung', and which key components are typically found within this structure?",
+                        "goodAnswer": "The root of the lung is a short tubular collection of structures that attach the lung to the mediastinum, composed of the pulmonary artery, pulmonary veins, main bronchus, bronchial vessels, nerves, and lymphatics.",
+                        "wrongAnswer_1": "The root of the lung is an elongated, cord-like structure extending from the apex to the base, primarily composed of the trachea, esophagus, vagus nerve, and phrenic nerve.",
+                        "wrongAnswer_2": "The root of the lung is a flattened, sheet-like structure located at the diaphragmatic surface, mainly consisting of the aorta, vena cava, azygos vein, and hemiazygos vein.",
+                        "wrongAnswer_3": "The root of the lung is a complex network of alveolar ducts and sacs, forming the primary site of gas exchange and including capillaries, macrophages and surfactant cells.",
+                        "wrongAnswer_4": "The root of the lung is a cartilaginous framework supporting the lung parenchyma, made up of costal cartilages, sternum, and vertebral bodies, providing structural integrity."
+                    },
+                    {
+                        "question": "Describe the hilum of the lung in terms of its anatomical location and its functional significance within the respiratory system.",
+                        "goodAnswer": "The hilum of the lung is a wedge-shaped depression on the mediastinal surface of each lung, serving as the entry and exit point for structures forming the root of the lung, facilitating vascular and bronchial connections.",
+                        "wrongAnswer_1": "The hilum of the lung is a dome-shaped projection at the apex of each lung, serving as the primary site for gas exchange and direct interface with the pleural cavity, maximizing oxygen uptake.",
+                        "wrongAnswer_2": "The hilum of the lung is a circular opening at the diaphragmatic surface of each lung, acting as a drainage point for lymphatic fluid and removal of particulate matter from the lungs.",
+                        "wrongAnswer_3": "The hilum of the lung is a linear groove along the costal surface of each lung, providing structural support to the ribs and attachment for intercostal muscles, ensuring thoracic stability.",
+                        "wrongAnswer_4": "The hilum of the lung is a superficial marking on the visceral pleura, indicating the boundaries of bronchopulmonary segments and guiding surgical resections, minimizing tissue damage."
+                    }
+                ]
+            },
+            {
+                "title": "Blood supply",
+                "quizzes": [
+                    {
+                        "question": "What is the principal source of oxygenated blood supply to the lung tissue itself, excluding the pulmonary circulation for gas exchange?",
+                        "goodAnswer": "The bronchial arteries, typically branching directly from the thoracic aorta or intercostal arteries, provide oxygenated blood to the lung parenchyma and visceral pleura, supporting lung tissue metabolism.",
+                        "wrongAnswer_1": "The pulmonary arteries, originating from the right ventricle, supply oxygenated blood to the lung parenchyma and visceral pleura, essential for alveolar oxygenation and carbon dioxide removal.",
+                        "wrongAnswer_2": "The pulmonary veins, draining into the left atrium, provide oxygenated blood to the lung parenchyma and visceral pleura, ensuring systemic oxygen distribution from the lungs.",
+                        "wrongAnswer_3": "The intercostal arteries, arising from the subclavian artery, supply oxygenated blood to the lung parenchyma and visceral pleura, specifically targeting the costal surface and pleura.",
+                        "wrongAnswer_4": "The esophageal arteries, branching from the descending aorta, provide oxygenated blood to the lung parenchyma and visceral pleura, supplying the posterior aspect of the lung and adjacent structures."
+                    },
+                    {
+                        "question": "Describe the pathway of deoxygenated blood as it enters the lungs for gas exchange, starting from the heart and specifying the vessels involved.",
+                        "goodAnswer": "Deoxygenated blood enters the lungs via the pulmonary trunk from the right ventricle, which bifurcates into the right and left pulmonary arteries, delivering blood to each lung for oxygenation.",
+                        "wrongAnswer_1": "Deoxygenated blood enters the lungs via the aorta from the left ventricle, which branches into the bronchial arteries and pulmonary arteries, distributing blood for tissue oxygenation and gas exchange.",
+                        "wrongAnswer_2": "Deoxygenated blood enters the lungs via the superior vena cava into the right atrium, then flows through the tricuspid valve into the right ventricle and finally into the pulmonary veins for lung perfusion.",
+                        "wrongAnswer_3": "Deoxygenated blood enters the lungs via the pulmonary veins from the right atrium, which converge into the pulmonary trunk and distribute blood to the alveolar capillaries for gas exchange.",
+                        "wrongAnswer_4": "Deoxygenated blood enters the lungs directly from the systemic circulation through the bronchial veins, which carry deoxygenated blood from the bronchi and lung tissue into the pulmonary circulation."
+                    },
+                    {
+                        "question": "How does the venous drainage of the lungs differ in terms of oxygenation status and destination, comparing pulmonary veins and bronchial veins?",
+                        "goodAnswer": "Pulmonary veins carry oxygenated blood from the lungs back to the left atrium for systemic circulation, while bronchial veins primarily drain deoxygenated blood from the bronchi and lung root into the azygos/hemiazygos system or pulmonary veins.",
+                        "wrongAnswer_1": "Pulmonary veins carry deoxygenated blood from the lungs to the right atrium for recirculation, while bronchial veins drain oxygenated blood from the bronchi and lung parenchyma directly into the left ventricle.",
+                        "wrongAnswer_2": "Both pulmonary and bronchial veins carry oxygenated blood; pulmonary veins drain into the left atrium, while bronchial veins drain into the right atrium, both contributing to systemic oxygen supply.",
+                        "wrongAnswer_3": "Pulmonary veins drain deoxygenated blood into the right ventricle for re-oxygenation, and bronchial veins drain deoxygenated blood from the bronchi into the pulmonary arteries for gas exchange.",
+                        "wrongAnswer_4": "Pulmonary veins carry a mix of oxygenated and deoxygenated blood to the left atrium, while bronchial veins transport only lymphatic fluid from the lung tissue to the mediastinal lymph nodes."
+                    }
+                ]
+            },
+            {
+                "title": "Nervous innervation",
+                "quizzes": [
+                    {
+                        "question": "Which nerve provides the primary parasympathetic innervation to the lungs, and what is the general effect of parasympathetic stimulation on the bronchioles and bronchial secretions?",
+                        "goodAnswer": "The vagus nerve (CN X) provides parasympathetic innervation to the lungs, causing bronchoconstriction and increased bronchial gland secretion, thus narrowing airways and increasing mucus production.",
+                        "wrongAnswer_1": "The phrenic nerve (C3-C5) provides parasympathetic innervation to the lungs, causing bronchodilation and decreased bronchial gland secretion, widening airways and reducing mucus production.",
+                        "wrongAnswer_2": "The sympathetic trunk ganglia provide parasympathetic innervation to the lungs, causing bronchodilation and increased bronchial gland secretion, widening airways while increasing mucus production.",
+                        "wrongAnswer_3": "The glossopharyngeal nerve (CN IX) provides parasympathetic innervation to the lungs, causing bronchoconstriction and decreased bronchial gland secretion, narrowing airways and reducing mucus production.",
+                        "wrongAnswer_4": "The spinal accessory nerve (CN XI) provides parasympathetic innervation to the lungs, having no significant effect on bronchiole diameter but increasing bronchial gland secretion only during inflammation."
+                    },
+                    {
+                        "question": "What is the origin of sympathetic innervation to the lungs, and what is the typical physiological response of the bronchioles and bronchial glands to sympathetic activation?",
+                        "goodAnswer": "Sympathetic innervation to the lungs originates from the sympathetic trunk (T1-T4/5), leading to bronchodilation and decreased bronchial gland secretion, widening airways and reducing mucus production.",
+                        "wrongAnswer_1": "Sympathetic innervation to the lungs originates from the cervical plexus (C1-C4), leading to bronchoconstriction and increased bronchial gland secretion, narrowing airways and increasing mucus production.",
+                        "wrongAnswer_2": "Sympathetic innervation to the lungs originates from the vagus nerve (CN X), leading to bronchodilation and increased bronchial gland secretion, widening airways while increasing mucus production.",
+                        "wrongAnswer_3": "Sympathetic innervation to the lungs originates from the phrenic nerve (C3-C5), leading to bronchoconstriction and decreased bronchial gland secretion, narrowing airways and reducing mucus production.",
+                        "wrongAnswer_4": "Sympathetic innervation to the lungs originates from the parasympathetic ganglia within the lung parenchyma, causing no significant change in bronchiole diameter but increasing surfactant production."
+                    },
+                    {
+                        "question": "Describe the pulmonary plexus and its role in the nervous control of the lungs, specifying the types of nerve fibers it contains and their general functions.",
+                        "goodAnswer": "The pulmonary plexus, located at the root of the lung, contains both parasympathetic (vagal) and sympathetic fibers, along with visceral afferent fibers, mediating bronchomotor tone, glandular secretion, and sensory feedback from the lungs.",
+                        "wrongAnswer_1": "The pulmonary plexus, located within the lung parenchyma, contains only somatic motor and sensory fibers, controlling voluntary breathing muscles and pain sensation from lung injury.",
+                        "wrongAnswer_2": "The pulmonary plexus, located in the mediastinum anterior to the trachea, contains primarily somatic efferent fibers for diaphragm control and sympathetic fibers for cardiac regulation, indirectly affecting lung function.",
+                        "wrongAnswer_3": "The pulmonary plexus, located superficially on the costal pleura, contains only visceral afferent fibers for sensing pleural irritation and somatic efferent fibers for intercostal muscle control.",
+                        "wrongAnswer_4": "The pulmonary plexus, located within the cerebral cortex, integrates respiratory signals and sends efferent commands via somatic and autonomic fibers to control breathing rate and depth, bypassing direct lung innervation."
+                    }
+                ]
+            },
+            {
+                "title": "Pleura of the lungs",
+                "quizzes": [
+                    {
+                        "question": "What are the two main layers of the pleura, and how do they differ in terms of their anatomical location and relationship to the lung tissue?",
+                        "goodAnswer": "The pleura consists of the visceral pleura, which directly covers the lung surface, and the parietal pleura, which lines the thoracic cavity, creating a pleural cavity between them.",
+                        "wrongAnswer_1": "The pleura consists of the pulmonary pleura, which lines the bronchioles and alveoli, and the systemic pleura, which covers the pulmonary vessels and nerves entering the lung.",
+                        "wrongAnswer_2": "The pleura consists of the apical pleura, located at the apex of the lung, and the basal pleura, located at the base of the lung, separated by the mediastinal pleura.",
+                        "wrongAnswer_3": "The pleura consists of the fibrous pleura, an outer protective layer, and the serous pleura, an inner lubricating layer, both directly attached to the lung parenchyma.",
+                        "wrongAnswer_4": "The pleura consists of the superficial pleura, adjacent to the ribs, and the deep pleura, adjacent to the mediastinum, with the lung tissue situated outside these pleural layers."
+                    },
+                    {
+                        "question": "Describe the parietal pleura and its subdivisions, specifying the regions of the thoracic cavity that each part lines.",
+                        "goodAnswer": "The parietal pleura lines the thoracic cavity and is subdivided into the costal pleura (ribs and intercostal spaces), diaphragmatic pleura (superior diaphragm), mediastinal pleura (mediastinum), and cervical pleura (extending into the neck).",
+                        "wrongAnswer_1": "The parietal pleura is a single continuous layer lining the entire lung surface, subdivided into apical, middle, and basal pleura based on lung lobe location.",
+                        "wrongAnswer_2": "The parietal pleura is divided into anterior and posterior pleura, separated by the visceral pleura, with each part lining the respective halves of the thoracic cavity.",
+                        "wrongAnswer_3": "The parietal pleura is subdivided into the superior pleura (upper thorax), inferior pleura (lower thorax), and lateral pleura (sides of thorax), based on vertical divisions of the thoracic cavity.",
+                        "wrongAnswer_4": "The parietal pleura is composed of only two parts: the costal pleura lining the ribs and the mediastinal pleura lining the mediastinum, with the diaphragm being covered by the visceral pleura."
+                    },
+                    {
+                        "question": "What is the pleural cavity, and what is its functional significance in respiration and lung mechanics?",
+                        "goodAnswer": "The pleural cavity is the potential space between the visceral and parietal pleurae, containing a thin film of pleural fluid, which reduces friction during breathing and creates a negative pressure essential for lung inflation.",
+                        "wrongAnswer_1": "The pleural cavity is a large air-filled space surrounding the lungs, providing insulation and protection from external trauma and allowing free movement of the lungs within the thorax.",
+                        "wrongAnswer_2": "The pleural cavity is a fluid-filled sac within the lung parenchyma, containing surfactant and lymphatic fluid, primarily responsible for gas exchange and immune defense within the lungs.",
+                        "wrongAnswer_3": "The pleural cavity is a solid, fibrous layer surrounding the lungs, providing structural support and preventing over-expansion of the lungs during deep inspiration.",
+                        "wrongAnswer_4": "The pleural cavity is a network of lymphatic channels within the pleura, draining excess fluid and waste products from the lung tissue and preventing fluid accumulation in the thorax."
+                    },
+                    {
+                        "question": "Explain the role of pleural fluid within the pleural cavity, focusing on its composition and primary functions in lung physiology.",
+                        "goodAnswer": "Pleural fluid is a thin serous fluid within the pleural cavity, primarily composed of water, electrolytes, and hyaluronic acid, acting as a lubricant to reduce friction between pleural layers during breathing and maintaining surface tension for lung expansion.",
+                        "wrongAnswer_1": "Pleural fluid is a viscous, protein-rich fluid within the pleural cavity, primarily composed of mucus, immunoglobulins, and fibrinogen, acting as a barrier against pathogens and trapping inhaled particles within the pleural space.",
+                        "wrongAnswer_2": "Pleural fluid is a dense, cellular fluid within the pleural cavity, primarily composed of macrophages, lymphocytes, and erythrocytes, acting as an immune surveillance system and facilitating gas exchange across the pleural membranes.",
+                        "wrongAnswer_3": "Pleural fluid is a gaseous mixture within the pleural cavity, primarily composed of oxygen, nitrogen, and carbon dioxide, acting as a reservoir for respiratory gases and regulating intrapleural pressure during ventilation.",
+                        "wrongAnswer_4": "Pleural fluid is a gelatinous substance within the pleural cavity, primarily composed of collagen, elastin, and proteoglycans, acting as a structural matrix to support the pleural layers and maintain the shape of the pleural cavity."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "mainTopic": {
+        "title": "Antibodies",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Structure of antibodies",
+                "quizzes": [
+                    {
+                        "question": "Which structural domain within an antibody heavy chain is essential for mediating effector functions such as complement activation and Fc receptor binding?",
+                        "goodAnswer": "The constant region domains, particularly the CH2 and CH3 domains in IgG, are critical for binding to Fc receptors on immune cells and initiating the complement cascade.",
+                        "wrongAnswer_1": "The variable region domains, specifically the VH domain, are responsible for effector functions by directly interacting with complement proteins and Fc receptors.",
+                        "wrongAnswer_2": "The hinge region of the heavy chain is crucial for effector functions as it provides flexibility for antibody-antigen binding and subsequent complement activation.",
+                        "wrongAnswer_3": "The light chain constant region (CL) is primarily involved in mediating effector functions through its interaction with Fc gamma receptors on phagocytes.",
+                        "wrongAnswer_4": "The disulfide bonds linking heavy and light chains are essential for maintaining the structural integrity required for effector function, but do not directly mediate binding."
+                    },
+                    {
+                        "question": "Considering the different isotypes of antibodies (IgG, IgM, IgA, IgD, IgE), which structural feature primarily distinguishes them from one another?",
+                        "goodAnswer": "The primary structural difference between antibody isotypes lies in the amino acid sequence of their heavy chain constant regions (C regions), which dictates their effector functions and distribution.",
+                        "wrongAnswer_1": "Isotypes are mainly distinguished by variations in the amino acid sequence of their light chain variable regions (VL), leading to differences in antigen-binding specificity and affinity.",
+                        "wrongAnswer_2": "The number of antigen-binding sites (valency) is the key structural feature differentiating isotypes, with IgM having ten and IgG having two, for instance.",
+                        "wrongAnswer_3": "The presence or absence of a hinge region is the primary structural determinant of antibody isotype, with IgG having a hinge and IgM lacking one, affecting flexibility.",
+                        "wrongAnswer_4": "Glycosylation patterns on the Fc region are the principal structural identifiers of antibody isotypes, influencing their serum half-life and interaction with neonatal Fc receptors (FcRn)."
+                    },
+                    {
+                        "question": "What is the significance of somatic hypermutation in the context of antibody structure and function?",
+                        "goodAnswer": "Somatic hypermutation introduces point mutations in the variable regions (VH and VL) of antibody genes, leading to affinity maturation and the production of antibodies with enhanced antigen-binding affinity.",
+                        "wrongAnswer_1": "Somatic hypermutation occurs in the constant regions (CH and CL) of antibody genes, resulting in isotype switching and the expression of antibodies with different effector functions.",
+                        "wrongAnswer_2": "Somatic hypermutation is a process that increases the number of disulfide bonds within the antibody molecule, thereby enhancing its structural stability and resistance to degradation.",
+                        "wrongAnswer_3": "Somatic hypermutation primarily affects the hinge region of antibodies, providing increased flexibility for antigen binding and enabling cross-linking of multiple antigens.",
+                        "wrongAnswer_4": "Somatic hypermutation is responsible for the initial V(D)J recombination process, generating diversity in the antigen-binding repertoire before antigen exposure."
+                    },
+                    {
+                        "question": "How does the quaternary structure of IgM antibodies differ significantly from that of IgG antibodies, impacting its functional properties?",
+                        "goodAnswer": "IgM typically exists as a pentamer (or hexamer), composed of five (or six) monomeric units linked by a J chain, resulting in high avidity binding due to multiple antigen-binding sites, whereas IgG is a monomer.",
+                        "wrongAnswer_1": "IgM is a monomer like IgG, but it contains additional constant domains in its heavy chain, which increases its molecular weight and effector functions compared to IgG.",
+                        "wrongAnswer_2": "IgM is a dimer, consisting of two monomeric units linked by disulfide bonds in the hinge region, giving it intermediate avidity between monomeric IgG and pentameric IgA.",
+                        "wrongAnswer_3": "IgM is a linear polymer of multiple antibody monomers, lacking a J chain, which allows it to bind to antigens on extended surfaces more effectively than IgG.",
+                        "wrongAnswer_4": "IgM and IgG have similar quaternary structures as monomers, but IgM possesses a unique glycosylation pattern that enhances its complement activation capability relative to IgG."
+                    }
+                ]
+            },
+            {
+                "title": "Function of antibodies",
+                "quizzes": [
+                    {
+                        "question": "Besides neutralization, ADCC, and complement activation, what is another significant effector function mediated by antibodies, particularly IgE?",
+                        "goodAnswer": "Sensitization of mast cells and basophils, where IgE antibodies bind to Fc\u03b5RI receptors on these cells, leading to degranulation and release of inflammatory mediators upon antigen re-exposure.",
+                        "wrongAnswer_1": "Opsonization of pathogens to enhance phagocytosis by neutrophils and macrophages, primarily mediated by IgE binding to Fc\u03b3RI receptors and promoting pathogen engulfment.",
+                        "wrongAnswer_2": "Induction of apoptosis in virus-infected cells through direct binding of IgE antibodies to viral antigens on the cell surface, triggering programmed cell death pathways.",
+                        "wrongAnswer_3": "Antibody-dependent cellular phagocytosis (ADCP), where IgE antibodies facilitate the uptake of antibody-coated target cells by macrophages and dendritic cells via Fc\u03b5 receptors.",
+                        "wrongAnswer_4": "Agglutination of particulate antigens, such as bacteria or erythrocytes, mediated by the multivalent binding capacity of IgE antibodies, enhancing clearance by filtration organs."
+                    },
+                    {
+                        "question": "How do antibodies contribute to immunological memory in adaptive immunity?",
+                        "goodAnswer": "Long-lived plasma cells, generated during the primary antibody response, continue to secrete antibodies for extended periods, providing humoral immunological memory and rapid protection upon re-infection.",
+                        "wrongAnswer_1": "Antibodies directly induce the differentiation of memory T cells, which then mediate long-term immunological memory and faster cellular responses upon subsequent antigen encounters.",
+                        "wrongAnswer_2": "Antibodies opsonize antigens, leading to their storage in memory B cells, which allows for a quicker and more robust secondary antibody response upon antigen re-exposure.",
+                        "wrongAnswer_3": "Antibodies neutralize antigens in germinal centers, promoting the survival and proliferation of high-affinity memory B cells, which are responsible for long-term immunity.",
+                        "wrongAnswer_4": "Antibodies activate complement pathways, resulting in the formation of memory complement proteins that provide long-lasting protection against pathogens and contribute to immune surveillance."
+                    },
+                    {
+                        "question": "In the context of antibody feedback mechanisms, how can high levels of circulating IgG antibodies regulate further antibody production?",
+                        "goodAnswer": "High levels of IgG can bind to Fc\u03b3RIIB inhibitory receptors on B cells, suppressing B cell activation and antibody production, thus providing negative feedback to control humoral responses.",
+                        "wrongAnswer_1": "Elevated IgG levels enhance the expression of activation-induced cytidine deaminase (AID) in B cells, promoting somatic hypermutation and further increasing antibody affinity and production.",
+                        "wrongAnswer_2": "High concentrations of IgG antibodies promote the differentiation of short-lived plasma cells into long-lived plasma cells, leading to sustained high levels of antibody secretion and prolonged immunity.",
+                        "wrongAnswer_3": "Circulating IgG antibodies activate the classical complement pathway, generating C3a and C5a anaphylatoxins, which stimulate B cell proliferation and antibody synthesis, creating positive feedback.",
+                        "wrongAnswer_4": "Increased IgG levels trigger isotype switching in B cells, leading to the production of different antibody isotypes with enhanced effector functions but without regulating overall antibody quantity."
+                    },
+                    {
+                        "question": "Considering the role of antibodies in mucosal immunity, what is a key function specifically attributed to dimeric IgA?",
+                        "goodAnswer": "Dimeric IgA is transported across mucosal epithelia and neutralizes pathogens in mucosal lumens, preventing pathogen adherence and invasion of mucosal tissues, thus providing a first line of defense.",
+                        "wrongAnswer_1": "Monomeric IgA in mucosal secretions activates the alternative complement pathway, leading to localized inflammation and pathogen clearance in the mucosal environment.",
+                        "wrongAnswer_2": "Secretory IgA opsonizes pathogens in the mucosa, enhancing their uptake by M cells and dendritic cells in Peyer's patches to initiate mucosal immune responses.",
+                        "wrongAnswer_3": "Dimeric IgA induces antibody-dependent cell-mediated cytotoxicity (ADCC) by recruiting intraepithelial lymphocytes to eliminate virus-infected mucosal cells.",
+                        "wrongAnswer_4": "Polymeric IgA in mucosal tissues agglutinates pathogens, forming large complexes that are then efficiently removed by mucociliary clearance mechanisms from the mucosal surface."
+                    }
+                ]
+            },
+            {
+                "title": "Antibody-Based Clinical Tests",
+                "quizzes": [
+                    {
+                        "question": "In immunohistochemistry (IHC), what is the purpose of antigen retrieval techniques performed prior to antibody staining?",
+                        "goodAnswer": "Antigen retrieval methods, such as heat-induced or enzymatic treatment, are used to unmask epitopes that are masked by formalin fixation and tissue processing, improving antibody accessibility and staining.",
+                        "wrongAnswer_1": "Antigen retrieval is performed to remove endogenous immunoglobulins from the tissue sections, preventing non-specific antibody binding and reducing background staining in IHC.",
+                        "wrongAnswer_2": "Antigen retrieval techniques are used to permeabilize cell membranes in tissue sections, allowing antibodies to penetrate intracellular compartments and detect cytoplasmic antigens effectively.",
+                        "wrongAnswer_3": "Antigen retrieval methods are employed to denature proteins in the tissue sections, creating a uniform protein environment that enhances antibody-antigen interaction and signal amplification.",
+                        "wrongAnswer_4": "Antigen retrieval is a step to fix the tissue sections more firmly onto the microscope slides, ensuring that the tissue remains intact during subsequent antibody staining and washing steps."
+                    },
+                    {
+                        "question": "How does flow cytometry, utilizing fluorescently labeled antibodies, enable the quantitative analysis of cell populations?",
+                        "goodAnswer": "Flow cytometry measures the fluorescence intensity of individual cells labeled with antibodies, allowing for cell counting, differentiation based on surface marker expression, and quantification of subpopulations within a sample.",
+                        "wrongAnswer_1": "Flow cytometry uses antibodies to sort cells into different populations based on their size and granularity, without relying on fluorescence signals or antibody labeling for quantitative analysis.",
+                        "wrongAnswer_2": "Flow cytometry employs enzyme-conjugated antibodies to catalyze a colorimetric reaction within cells, and the intensity of the color is measured spectrophotometrically to quantify cell populations.",
+                        "wrongAnswer_3": "Flow cytometry analyzes the binding affinity of antibodies to cell surface antigens, providing information about receptor-ligand interactions but not directly quantifying cell numbers or subpopulations.",
+                        "wrongAnswer_4": "Flow cytometry utilizes radiolabeled antibodies to track cell migration and distribution in vivo, providing spatial information about cell populations but not quantitative data on cell counts."
+                    },
+                    {
+                        "question": "What is the principle of competitive ELISA, and how does it differ from a standard direct or indirect ELISA format?",
+                        "goodAnswer": "Competitive ELISA measures a decrease in signal, where the sample antigen competes with a labeled antigen for binding to a limited amount of antibody, inversely correlating signal intensity with antigen concentration.",
+                        "wrongAnswer_1": "Competitive ELISA, like direct ELISA, uses an enzyme-conjugated primary antibody to directly detect the antigen, but it includes an additional amplification step to enhance signal detection sensitivity.",
+                        "wrongAnswer_2": "Competitive ELISA, similar to indirect ELISA, employs a secondary antibody to amplify the signal, but it also incorporates a blocking step to reduce non-specific binding and improve assay specificity.",
+                        "wrongAnswer_3": "Competitive ELISA uses two different antibodies targeting distinct epitopes on the antigen to enhance specificity and sensitivity, differing from standard ELISA formats which use only one antibody.",
+                        "wrongAnswer_4": "Competitive ELISA measures an increase in signal, where the sample antigen enhances the binding of labeled antibodies to a capture antibody, directly correlating signal intensity with antigen concentration."
+                    },
+                    {
+                        "question": "In therapeutic applications, how are monoclonal antibodies (mAbs) engineered to enhance their efficacy in treating diseases like cancer?",
+                        "goodAnswer": "mAbs are engineered through humanization to reduce immunogenicity, Fc modification to enhance effector functions like ADCC or CDC, and conjugation with drugs or toxins for targeted delivery to tumor cells.",
+                        "wrongAnswer_1": "mAbs are engineered to increase their avidity by creating pentameric or hexameric forms, similar to IgM, allowing for stronger binding to tumor antigens and improved therapeutic efficacy.",
+                        "wrongAnswer_2": "mAbs are engineered to switch isotypes from IgG to IgE to stimulate mast cell degranulation within the tumor microenvironment, promoting inflammatory responses and tumor destruction.",
+                        "wrongAnswer_3": "mAbs are engineered to directly penetrate cell membranes and deliver therapeutic genes into tumor cells, modifying their genetic material and inducing cell death or growth arrest.",
+                        "wrongAnswer_4": "mAbs are engineered to block complement activation to prevent inflammation at the tumor site, reducing side effects and enhancing the tolerability of antibody-based cancer therapy."
+                    }
+                ]
+            }
+        ]
+    }
+}

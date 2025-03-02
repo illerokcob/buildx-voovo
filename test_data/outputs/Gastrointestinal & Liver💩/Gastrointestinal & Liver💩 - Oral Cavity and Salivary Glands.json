@@ -1,0 +1,161 @@
+{
+    "mainTopic": {
+        "title": "Oral Cavity and Salivary Glands",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Mucosa of the Oral Cavity",
+                "quizzes": [
+                    {
+                        "question": "Which layer of the oral mucosa, characterized by its rich vascularity and presence of nerve endings, is crucial for providing nourishment to the epithelium and mediating sensory functions?",
+                        "goodAnswer": "The lamina propria, a layer of connective tissue situated beneath the epithelium, is essential for epithelial support, vascular supply, and sensory innervation in the oral mucosa.",
+                        "wrongAnswer_1": "The submucosa, a deep layer containing adipose tissue and major salivary glands, primarily functions in cushioning and insulation within the oral cavity, with minimal sensory contribution.",
+                        "wrongAnswer_2": "The stratum basale, the deepest layer of the epithelium, is primarily involved in cell proliferation and attachment to the basement membrane, lacking significant sensory or vascular functions.",
+                        "wrongAnswer_3": "The stratum corneum, the superficial keratinized layer, serves as a protective barrier against abrasion and dehydration, but is avascular and devoid of nerve endings.",
+                        "wrongAnswer_4": "The muscularis mucosae, a thin layer of smooth muscle found in some parts of the digestive tract mucosa, plays a role in mucosal folding and gland emptying, not sensory or epithelial nutrition in the oral cavity."
+                    },
+                    {
+                        "question": "What is the primary distinction between masticatory mucosa and lining mucosa in terms of their epithelial characteristics and functional adaptations within the oral cavity?",
+                        "goodAnswer": "Masticatory mucosa, found in areas subject to high friction like the gingiva and hard palate, is characterized by a keratinized or parakeratinized stratified squamous epithelium, adapted for protection against mechanical stress, while lining mucosa, in areas like the cheeks and lips, possesses a non-keratinized stratified squamous epithelium suited for flexibility and movement.",
+                        "wrongAnswer_1": "Masticatory mucosa is defined by a non-keratinized cuboidal epithelium providing minimal protection, whereas lining mucosa features a keratinized columnar epithelium designed for secretion and absorption in the oral cavity.",
+                        "wrongAnswer_2": "Masticatory mucosa is distinguished by a pseudostratified ciliated columnar epithelium facilitating mucus transport, while lining mucosa is characterized by a simple squamous epithelium optimized for rapid diffusion and gas exchange.",
+                        "wrongAnswer_3": "Masticatory mucosa contains a transitional epithelium allowing for distension and fluid impermeability, whereas lining mucosa is composed of a stratified columnar epithelium primarily involved in structural support and rigidity.",
+                        "wrongAnswer_4": "Masticatory mucosa is uniformly composed of a parakeratinized simple squamous epithelium offering minimal barrier function, unlike lining mucosa which presents a keratinized stratified cuboidal epithelium for enhanced secretion and protection."
+                    },
+                    {
+                        "question": "Which specialized type of mucosa, characterized by its association with taste buds and lingual papillae, contributes to gustatory sensation and is predominantly found on the dorsal surface of the tongue?",
+                        "goodAnswer": "Specialized mucosa, present on the dorsal tongue surface, is distinguished by the presence of taste buds within the epithelium and is organized into lingual papillae such as filiform, fungiform, circumvallate, and foliate papillae, which collectively mediate taste perception.",
+                        "wrongAnswer_1": "Olfactory mucosa, located in the nasal cavity, is specialized for detecting airborne odorants and is characterized by olfactory receptor neurons and supporting cells, playing no role in gustatory sensation on the tongue.",
+                        "wrongAnswer_2": "Respiratory mucosa, lining the nasal passages and airways, is defined by pseudostratified columnar epithelium with goblet cells and cilia, primarily functioning in mucociliary clearance and air conditioning, not taste perception on the tongue.",
+                        "wrongAnswer_3": "Gastric mucosa, lining the stomach, is specialized for acid secretion and digestion, containing gastric pits and glands with parietal and chief cells, unrelated to taste sensation on the dorsal tongue surface.",
+                        "wrongAnswer_4": "Intestinal mucosa, lining the small and large intestines, is specialized for nutrient absorption and is characterized by villi and microvilli, playing no part in gustatory function on the tongue."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Teeth",
+                "quizzes": [
+                    {
+                        "question": "What is the primary organic component of dentin, the major structural element of teeth, and which cells are principally responsible for its synthesis and deposition during tooth development and throughout life?",
+                        "goodAnswer": "Collagen type I constitutes the main organic matrix of dentin, synthesized and secreted by odontoblasts, highly specialized cells originating from the dental papilla, which maintain dentin throughout life.",
+                        "wrongAnswer_1": "Elastin fibers form the primary organic component of dentin, produced by ameloblasts, cells derived from the enamel organ, responsible for enamel formation and dentin maintenance.",
+                        "wrongAnswer_2": "Reticular fibers are the major organic constituent of dentin, synthesized by cementoblasts, cells originating from the dental follicle, involved in cementum deposition and dentin repair.",
+                        "wrongAnswer_3": "Fibronectin is the predominant organic component of dentin, secreted by fibroblasts, ubiquitous connective tissue cells, playing a general role in extracellular matrix maintenance and dentin remodeling.",
+                        "wrongAnswer_4": "Chondroitin sulfate is the main organic component of dentin, produced by osteoblasts, bone-forming cells, responsible for alveolar bone formation and dentin mineralization."
+                    },
+                    {
+                        "question": "How does the structural arrangement of enamel rods, also known as enamel prisms, contribute to the exceptional hardness and resilience of enamel, the outermost protective layer of teeth?",
+                        "goodAnswer": "Enamel rods, tightly packed and oriented perpendicularly to the tooth surface, are composed of highly organized hydroxyapatite crystals, creating a robust, interlocking structure that resists fracture and wear, providing enamel's hardness and resilience.",
+                        "wrongAnswer_1": "Enamel rods, loosely arranged and parallel to the dentin-enamel junction, are made of amorphous calcium phosphate, forming a flexible, porous structure that allows for ion exchange and shock absorption, contributing to enamel's elasticity and permeability.",
+                        "wrongAnswer_2": "Enamel rods, spirally coiled and interwoven with collagen fibers, are composed of fluorapatite crystals, creating a ductile, resilient structure that withstands tensile forces and prevents crack propagation, providing enamel's flexibility and toughness.",
+                        "wrongAnswer_3": "Enamel rods, randomly oriented and embedded in a protein matrix, are made of calcium carbonate crystals, forming a brittle, fragile structure that is susceptible to abrasion and erosion, contributing to enamel's susceptibility to damage.",
+                        "wrongAnswer_4": "Enamel rods, arranged in concentric lamellae and separated by water channels, are composed of magnesium phosphate crystals, forming a hydrated, permeable structure that facilitates nutrient diffusion and metabolic exchange, contributing to enamel's vitality and repair capacity."
+                    },
+                    {
+                        "question": "What are the key histological characteristics of cementum, the specialized calcified tissue covering the root of the tooth, and what is its primary function in the attachment of the tooth to the alveolar bone?",
+                        "goodAnswer": "Cementum, a thin layer of calcified tissue covering the tooth root, is characterized by cementocytes within lacunae and cementoblasts on its surface, and its main function is to anchor periodontal ligament fibers, facilitating tooth attachment to the alveolar bone.",
+                        "wrongAnswer_1": "Cementum, a thick layer of highly vascularized tissue covering the crown of the tooth, is characterized by osteocytes within Haversian systems and osteoblasts on its surface, and its primary function is to provide structural support to the enamel and resist occlusal forces.",
+                        "wrongAnswer_2": "Cementum, a dense layer of acellular tissue covering the dentin of the tooth, is characterized by chondrocytes within chondrons and chondroblasts on its surface, and its main function is to cushion the tooth during mastication and absorb impact forces.",
+                        "wrongAnswer_3": "Cementum, a gelatinous layer of unmineralized tissue covering the pulp chamber of the tooth, is characterized by fibroblasts within a loose connective tissue matrix and fibrocytes on its surface, and its primary function is to nourish the dental pulp and regulate dentinogenesis.",
+                        "wrongAnswer_4": "Cementum, a layer of stratified squamous epithelium covering the gingival margin of the tooth, is characterized by keratinocytes within epidermal ridges and melanocytes within the basal layer, and its primary function is to protect the tooth from bacterial invasion and maintain gingival integrity."
+                    },
+                    {
+                        "question": "Describe the structural organization of the dental pulp, the soft connective tissue core of the tooth, and outline the distinct zones and cellular components that contribute to its vital functions, including sensation and dentinogenesis.",
+                        "goodAnswer": "The dental pulp exhibits a core of loose connective tissue containing odontoblasts at its periphery, forming the odontoblastic layer, a cell-free zone beneath it, a cell-rich zone deeper still, and the pulp core centrally, housing fibroblasts, blood vessels, nerves, and mesenchymal stem cells, collectively responsible for sensation, nourishment, and dentin repair.",
+                        "wrongAnswer_1": "The dental pulp is structured as a dense network of collagen fibers containing osteoblasts at its periphery, forming the osteoblastic layer, a calcified zone beneath it, a hematopoietic zone deeper still, and the pulp core centrally, housing osteocytes, bone marrow, and hematopoietic stem cells, primarily involved in bone regeneration and mineral homeostasis.",
+                        "wrongAnswer_2": "The dental pulp is organized into a stratified epithelial layer containing ameloblasts at its periphery, forming the ameloblastic layer, a keratinized zone beneath it, a melanocyte-rich zone deeper still, and the pulp core centrally, housing keratinocytes, melanocytes, and Langerhans cells, mainly responsible for enamel formation and immune defense.",
+                        "wrongAnswer_3": "The dental pulp presents a laminated cartilaginous structure containing chondroblasts at its periphery, forming the chondroblastic layer, a hyaline cartilage zone beneath it, a fibrocartilage zone deeper still, and the pulp core centrally, housing chondrocytes, cartilage matrix, and perichondrium, primarily involved in structural support and shock absorption.",
+                        "wrongAnswer_4": "The dental pulp is composed of a muscular layer containing myocytes at its periphery, forming the myoblastic layer, a contractile zone beneath it, a neuronal zone deeper still, and the pulp core centrally, housing muscle fibers, neurons, and glial cells, primarily involved in tooth movement and neuromuscular coordination."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Salivary Glands",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental structural unit of salivary glands, and how do acini, composed of secretory cells, and ducts, responsible for saliva transport, contribute to the overall function of these glands?",
+                        "goodAnswer": "The lobule is the basic structural unit of salivary glands, comprising acini, which are clusters of secretory cells producing saliva, and ducts, which are tubular structures that modify and transport saliva from the acini to the oral cavity.",
+                        "wrongAnswer_1": "The nephron is the fundamental unit of salivary glands, consisting of glomeruli, which filter saliva from blood, and tubules, which reabsorb and secrete substances to modify saliva composition before excretion into the oral cavity.",
+                        "wrongAnswer_2": "The alveolus is the basic structural unit of salivary glands, composed of pneumocytes, which synthesize surfactant, and bronchioles, which conduct air into the alveoli for gas exchange, playing no role in saliva production or transport.",
+                        "wrongAnswer_3": "The follicle is the fundamental unit of salivary glands, containing follicular cells, which produce thyroid hormones, and colloid, which stores hormones before release into the bloodstream, unrelated to saliva secretion or ductal transport.",
+                        "wrongAnswer_4": "The villus is the basic structural unit of salivary glands, lined by enterocytes, which absorb nutrients, and lacteals, which transport fats, primarily involved in digestion and absorption within the small intestine, not saliva production or delivery."
+                    },
+                    {
+                        "question": "Distinguish between serous acini and mucous acini in salivary glands based on their cellular morphology, secretory product characteristics, and staining properties observed under light microscopy.",
+                        "goodAnswer": "Serous acini are composed of pyramidal cells with round nuclei and apical zymogen granules, producing watery saliva rich in enzymes, and stain darkly with eosin; mucous acini consist of columnar cells with flattened basal nuclei and mucin droplets, secreting viscous saliva rich in mucins, and stain palely with eosin but intensely with PAS.",
+                        "wrongAnswer_1": "Serous acini are composed of cuboidal cells with central nuclei and lipid droplets, producing oily saliva rich in triglycerides, and stain darkly with osmium tetroxide; mucous acini consist of squamous cells with eccentric nuclei and glycogen granules, secreting sugary saliva rich in glucose, and stain intensely with hematoxylin but palely with PAS.",
+                        "wrongAnswer_2": "Serous acini are composed of ciliated columnar cells with apical nuclei and goblet cells, producing mucus-rich saliva with immunoglobulins, and stain palely with hematoxylin; mucous acini consist of stratified squamous cells with superficial nuclei and keratin filaments, secreting protein-rich saliva with antibodies, and stain darkly with silver stain but palely with eosin.",
+                        "wrongAnswer_3": "Serous acini are composed of transitional epithelial cells with pleomorphic nuclei and pigment granules, producing colored saliva rich in melanin, and stain intensely with Masson's trichrome; mucous acini consist of pseudostratified columnar cells with basal nuclei and cilia, secreting seromucous saliva with hormones, and stain darkly with Alcian blue but palely with eosin.",
+                        "wrongAnswer_4": "Serous acini are composed of simple squamous cells with flattened nuclei and pinocytotic vesicles, producing watery saliva rich in electrolytes, and stain palely with periodic acid-Schiff; mucous acini consist of simple cuboidal cells with round nuclei and secretory granules, secreting mucosanguinous saliva rich in blood cells, and stain intensely with Wright-Giemsa but palely with hematoxylin."
+                    },
+                    {
+                        "question": "What are intercalated ducts and striated ducts in the salivary gland ductal system, and how do their distinct histological features and functional roles contribute to saliva modification before it reaches the oral cavity?",
+                        "goodAnswer": "Intercalated ducts are small, initial ducts lined by simple cuboidal epithelium, adding bicarbonate to saliva; striated ducts are larger, subsequent ducts lined by simple columnar epithelium with basal striations due to mitochondria, reabsorbing sodium and chloride and secreting potassium and bicarbonate, modifying saliva ion concentration.",
+                        "wrongAnswer_1": "Intercalated ducts are large, terminal ducts lined by pseudostratified columnar epithelium, removing water from saliva; striated ducts are small, preceding ducts lined by transitional epithelium with apical microvilli, concentrating saliva by active transport of water into the duct lumen.",
+                        "wrongAnswer_2": "Intercalated ducts are medium-sized, intermediate ducts lined by stratified squamous epithelium, adding mucus to saliva; striated ducts are large, initial ducts lined by simple squamous epithelium with apical cilia, propelling saliva by ciliary action and adding enzymes for digestion.",
+                        "wrongAnswer_3": "Intercalated ducts are branched, collecting ducts lined by simple columnar epithelium with goblet cells, adding mucus and immunoglobulins to saliva; striated ducts are unbranched, secretory ducts lined by stratified cuboidal epithelium with basal folds, secreting proteins and growth factors into saliva.",
+                        "wrongAnswer_4": "Intercalated ducts are convoluted, excretory ducts lined by transitional epithelium, removing waste products from saliva; striated ducts are straight, absorptive ducts lined by pseudostratified epithelium with stereocilia, absorbing nutrients and hormones from saliva and modifying its organic composition."
+                    }
+                ]
+            },
+            {
+                "title": "Mechanism and Regulation of Saliva Secretion",
+                "quizzes": [
+                    {
+                        "question": "Describe the two-stage model of saliva secretion, outlining the processes occurring in acinar cells and ductal cells, and how these stages contribute to the final composition of saliva released into the oral cavity.",
+                        "goodAnswer": "The two-stage model involves primary saliva secretion by acinar cells, producing an isotonic fluid rich in ions and enzymes, followed by modification in ductal cells, which reabsorb sodium and chloride and secrete potassium and bicarbonate, resulting in a hypotonic final saliva.",
+                        "wrongAnswer_1": "The two-stage model involves initial saliva filtration by glomerular cells, creating a protein-rich filtrate, followed by concentration in tubular cells, which reabsorb water and glucose and secrete urea and creatinine, producing a hypertonic final saliva.",
+                        "wrongAnswer_2": "The two-stage model involves primary saliva synthesis by neuronal cells, generating a neurotransmitter-rich fluid, followed by modulation in glial cells, which regulate ion concentrations and buffer pH, resulting in a neutral final saliva.",
+                        "wrongAnswer_3": "The two-stage model involves initial saliva production by epithelial cells, forming a mucus-rich secretion, followed by enzymatic digestion in stromal cells, which break down complex carbohydrates and proteins, producing a nutrient-rich final saliva.",
+                        "wrongAnswer_4": "The two-stage model involves primary saliva absorption by endothelial cells, removing excess water and electrolytes, followed by secretion in connective tissue cells, which add proteins and lipids, resulting in a viscous final saliva."
+                    },
+                    {
+                        "question": "How do parasympathetic and sympathetic nervous system stimulations differentially regulate saliva secretion, and what are the primary neurotransmitters and receptor types involved in mediating these autonomic responses?",
+                        "goodAnswer": "Parasympathetic stimulation, primarily via acetylcholine acting on muscarinic receptors, promotes copious secretion of watery saliva rich in enzymes; sympathetic stimulation, mainly via norepinephrine acting on \u03b2-adrenergic receptors, results in smaller volumes of viscous saliva rich in proteins.",
+                        "wrongAnswer_1": "Parasympathetic stimulation, primarily via norepinephrine acting on \u03b1-adrenergic receptors, promotes scant secretion of viscous saliva rich in mucus; sympathetic stimulation, mainly via acetylcholine acting on nicotinic receptors, results in large volumes of watery saliva rich in electrolytes.",
+                        "wrongAnswer_2": "Parasympathetic stimulation, primarily via dopamine acting on D1 receptors, inhibits saliva secretion and promotes water reabsorption; sympathetic stimulation, mainly via serotonin acting on 5-HT receptors, enhances saliva secretion and increases enzyme production.",
+                        "wrongAnswer_3": "Parasympathetic stimulation, primarily via GABA acting on GABA-A receptors, promotes secretion of alkaline saliva rich in bicarbonate; sympathetic stimulation, mainly via glutamate acting on NMDA receptors, results in acidic saliva rich in hydrogen ions.",
+                        "wrongAnswer_4": "Parasympathetic stimulation, primarily via histamine acting on H1 receptors, promotes secretion of inflammatory saliva rich in prostaglandins; sympathetic stimulation, mainly via bradykinin acting on B2 receptors, results in pain-inducing saliva rich in nociceptors."
+                    },
+                    {
+                        "question": "Describe the intracellular signaling pathways activated by muscarinic cholinergic receptors in salivary acinar cells, leading to increased calcium levels and subsequent saliva secretion.",
+                        "goodAnswer": "Muscarinic receptor activation stimulates phospholipase C (PLC), which hydrolyzes PIP2 into IP3 and DAG; IP3 releases calcium from intracellular stores, triggering calcium-dependent events like ion channel activation and exocytosis of secretory granules, leading to saliva secretion.",
+                        "wrongAnswer_1": "Muscarinic receptor activation inhibits adenylyl cyclase, reducing cAMP levels and activating protein kinase A (PKA); PKA phosphorylates ion channels and secretory proteins, suppressing calcium influx and inhibiting saliva secretion.",
+                        "wrongAnswer_2": "Muscarinic receptor activation stimulates guanylyl cyclase, increasing cGMP levels and activating protein kinase G (PKG); PKG phosphorylates cytoskeletal proteins and motor proteins, promoting vesicle trafficking and enhancing saliva secretion.",
+                        "wrongAnswer_3": "Muscarinic receptor activation activates receptor tyrosine kinases (RTKs), initiating phosphorylation cascades and activating MAP kinases (MAPKs); MAPKs regulate gene expression and cell proliferation, leading to salivary gland hypertrophy but not immediate saliva secretion.",
+                        "wrongAnswer_4": "Muscarinic receptor activation inhibits phospholipase A2 (PLA2), reducing arachidonic acid levels and inhibiting prostaglandin synthesis; prostaglandins modulate inflammatory responses and pain perception, suppressing saliva secretion and promoting oral dryness."
+                    }
+                ]
+            },
+            {
+                "title": "Components of Saliva",
+                "quizzes": [
+                    {
+                        "question": "What are the major inorganic components of saliva, and how do ions like bicarbonate, calcium, phosphate, and fluoride contribute to saliva's buffering capacity, tooth remineralization, and maintenance of oral health?",
+                        "goodAnswer": "Major inorganic components include bicarbonate, phosphate, calcium, sodium, potassium, chloride, and fluoride. Bicarbonate buffers acids; calcium and phosphate promote tooth remineralization; fluoride strengthens enamel and inhibits bacterial metabolism, collectively maintaining oral pH balance and dental integrity.",
+                        "wrongAnswer_1": "Major inorganic components include glucose, amino acids, fatty acids, vitamins, minerals, and trace elements. Glucose provides energy for oral bacteria; amino acids build salivary proteins; fatty acids lubricate oral mucosa; vitamins and minerals support cellular metabolism, primarily providing nutritional support and energy for oral tissues.",
+                        "wrongAnswer_2": "Major inorganic components include collagen, elastin, fibronectin, laminin, proteoglycans, and glycosaminoglycans. Collagen provides structural support to oral tissues; elastin provides elasticity and resilience; fibronectin and laminin mediate cell adhesion; proteoglycans and glycosaminoglycans hydrate extracellular matrix, primarily maintaining tissue structure and hydration.",
+                        "wrongAnswer_3": "Major inorganic components include immunoglobulins, cytokines, chemokines, growth factors, enzymes, and hormones. Immunoglobulins provide immune defense against oral pathogens; cytokines and chemokines regulate inflammation; growth factors promote tissue repair; enzymes aid in digestion; hormones regulate physiological processes, primarily mediating immune response and tissue repair.",
+                        "wrongAnswer_4": "Major inorganic components include DNA, RNA, proteins, lipids, carbohydrates, and nucleic acids. DNA encodes genetic information; RNA mediates protein synthesis; proteins perform diverse cellular functions; lipids form cell membranes; carbohydrates provide energy; nucleic acids store and transmit genetic information, primarily involved in cellular metabolism and genetic regulation."
+                    },
+                    {
+                        "question": "Identify the key organic components of saliva, including enzymes such as amylase and lysozyme, proteins like mucins and immunoglobulins, and other organic molecules, and describe their respective roles in digestion, antimicrobial defense, lubrication, and oral tissue protection.",
+                        "goodAnswer": "Key organic components include amylase (starch digestion), lysozyme (bacterial cell wall lysis), mucins (lubrication and viscosity), immunoglobulins (IgA, antimicrobial defense), lactoferrin (iron binding, antimicrobial), and proline-rich proteins (tannin binding, enamel protection), collectively facilitating digestion, immunity, and oral health maintenance.",
+                        "wrongAnswer_1": "Key organic components include hemoglobin (oxygen transport), myoglobin (oxygen storage), fibrinogen (blood clotting), albumin (osmotic pressure maintenance), globulins (antibody transport), and lipoproteins (lipid transport), primarily involved in oxygen transport, blood coagulation, and plasma protein functions within the circulatory system.",
+                        "wrongAnswer_2": "Key organic components include collagen (structural support), elastin (elasticity), keratin (protection), actin (muscle contraction), myosin (muscle contraction), and tubulin (cytoskeleton), primarily involved in structural integrity, muscle function, and cellular architecture within connective and muscle tissues.",
+                        "wrongAnswer_3": "Key organic components include insulin (glucose regulation), glucagon (glucose elevation), growth hormone (growth promotion), thyroid hormones (metabolic regulation), cortisol (stress response), and adrenaline (fight-or-flight response), primarily involved in endocrine regulation of metabolism, growth, and stress response throughout the body.",
+                        "wrongAnswer_4": "Key organic components include DNA polymerase (DNA replication), RNA polymerase (RNA transcription), ribosomes (protein synthesis), mitochondria (ATP production), lysosomes (cellular digestion), and endoplasmic reticulum (protein folding), primarily involved in cellular metabolism, genetic processes, and organelle functions within all cells."
+                    },
+                    {
+                        "question": "What is the role of salivary mucins, specifically MG1 and MG2, in maintaining oral health, and how do their structural properties and functional characteristics contribute to saliva's viscoelasticity, lubrication, and protective barrier function against microbial adhesion and desiccation?",
+                        "goodAnswer": "MG1 and MG2 mucins are large glycoproteins that impart viscoelasticity to saliva, providing lubrication, forming a protective barrier against microbial adhesion by steric hindrance and charge repulsion, and preventing desiccation of oral tissues through water retention and gel formation.",
+                        "wrongAnswer_1": "MG1 and MG2 mucins are small lipoproteins that facilitate lipid digestion in saliva, emulsifying dietary fats, promoting absorption of fat-soluble vitamins, and enhancing nutrient uptake from food boluses within the oral cavity.",
+                        "wrongAnswer_2": "MG1 and MG2 mucins are fibrous structural proteins that provide tensile strength to saliva, maintaining its structural integrity, forming a scaffold for cell adhesion, and supporting tissue regeneration and wound healing within the oral mucosa.",
+                        "wrongAnswer_3": "MG1 and MG2 mucins are enzymatic proteins that catalyze biochemical reactions in saliva, breaking down complex carbohydrates, proteins, and lipids into simpler molecules, facilitating initial digestion and nutrient processing before swallowing.",
+                        "wrongAnswer_4": "MG1 and MG2 mucins are hormonal proteins that regulate salivary gland function, stimulating saliva secretion, modulating ion transport across ductal cells, and controlling feedback mechanisms for saliva production and composition adjustment."
+                    }
+                ]
+            }
+        ]
+    }
+}

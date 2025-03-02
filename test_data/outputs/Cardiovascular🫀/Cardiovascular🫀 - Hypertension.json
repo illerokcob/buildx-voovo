@@ -1,0 +1,222 @@
+{
+    "mainTopic": {
+        "title": "Hypertension",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Blood pressure classificatinon",
+                "quizzes": [
+                    {
+                        "question": "According to the 2017 ACC/AHA guidelines, what systolic and diastolic blood pressure criteria define Stage 2 hypertension in adults?",
+                        "goodAnswer": "Systolic blood pressure at or above 140 mm Hg or diastolic blood pressure at or above 90 mm Hg, indicative of a more severe hypertensive state.",
+                        "wrongAnswer_1": "Systolic blood pressure consistently between 130-139 mm Hg or diastolic blood pressure consistently between 80-89 mm Hg, classified as Stage 1 hypertension.",
+                        "wrongAnswer_2": "Systolic blood pressure consistently between 120-129 mm Hg and diastolic blood pressure less than 80 mm Hg, categorized as Elevated Blood Pressure.",
+                        "wrongAnswer_3": "Systolic blood pressure consistently below 120 mm Hg and diastolic blood pressure consistently below 80 mm Hg, considered within the Normal blood pressure range.",
+                        "wrongAnswer_4": "Systolic blood pressure between 160-179 mm Hg or diastolic blood pressure between 100-109 mm Hg, which actually falls under the hypertensive crisis category."
+                    },
+                    {
+                        "question": "In the context of blood pressure categories as defined by the ACC/AHA 2017 guidelines, which classification is applied to an individual with a systolic blood pressure of 125 mm Hg and a diastolic blood pressure of 75 mm Hg?",
+                        "goodAnswer": "Elevated Blood Pressure, because while the diastolic pressure is normal, the systolic pressure is in the elevated range (120-129 mm Hg).",
+                        "wrongAnswer_1": "Normal Blood Pressure, as both systolic and diastolic readings are within or below the normal range (less than 120/80 mm Hg).",
+                        "wrongAnswer_2": "Stage 1 Hypertension, because the systolic pressure slightly exceeds 120 mm Hg, indicating early-stage hypertension.",
+                        "wrongAnswer_3": "Stage 2 Hypertension, because the systolic pressure is significantly elevated above the normal range, requiring immediate medical intervention.",
+                        "wrongAnswer_4": "Hypertensive Crisis, because even though the diastolic pressure is normal, the elevated systolic reading necessitates urgent blood pressure management."
+                    },
+                    {
+                        "question": "Considering the ACC/AHA 2017 blood pressure guidelines, how would you classify a patient whose blood pressure readings are consistently around 135/85 mm Hg?",
+                        "goodAnswer": "Stage 1 Hypertension, characterized by systolic blood pressure between 130-139 mm Hg or diastolic blood pressure between 80-89 mm Hg.",
+                        "wrongAnswer_1": "Elevated Blood Pressure, defined by systolic blood pressure between 120-129 mm Hg and diastolic blood pressure less than 80 mm Hg.",
+                        "wrongAnswer_2": "Normal Blood Pressure, indicated by systolic blood pressure less than 120 mm Hg and diastolic blood pressure less than 80 mm Hg.",
+                        "wrongAnswer_3": "Stage 2 Hypertension, diagnosed when systolic blood pressure is 140 mm Hg or higher or diastolic blood pressure is 90 mm Hg or higher.",
+                        "wrongAnswer_4": "Hypertensive Urgency, reflecting a severe elevation in blood pressure, typically above 180/120 mm Hg, requiring immediate but not emergent intervention."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure regulation",
+                "quizzes": [
+                    {
+                        "question": "Which hormonal mechanism plays a critical role in the rapid adjustment of blood pressure in response to acute hypotension, such as during hemorrhage?",
+                        "goodAnswer": "The adrenergic system, releasing epinephrine and norepinephrine, which induce vasoconstriction and increase cardiac output to quickly elevate blood pressure.",
+                        "wrongAnswer_1": "The renin-angiotensin-aldosterone system (RAAS), which, while potent, is slower to activate and primarily involved in long-term blood pressure regulation rather than immediate responses.",
+                        "wrongAnswer_2": "The atrial natriuretic peptide (ANP) system, which is activated by hypertension and promotes vasodilation and sodium excretion, thus lowering blood pressure, the opposite of the needed response to hypotension.",
+                        "wrongAnswer_3": "The vasopressin (ADH) system, which primarily regulates water reabsorption in the kidneys and has a more delayed effect on blood pressure compared to the adrenergic system in acute hypotension.",
+                        "wrongAnswer_4": "The nitric oxide (NO) system, which primarily induces vasodilation and is involved in maintaining baseline vascular tone and blood pressure reduction, not elevation during acute hypotension."
+                    },
+                    {
+                        "question": "How does the atrial natriuretic peptide (ANP) contribute to blood pressure homeostasis when there is an increase in blood volume?",
+                        "goodAnswer": "ANP is released from atrial myocytes in response to atrial stretch, promoting natriuresis, diuresis, and vasodilation to reduce blood volume and pressure.",
+                        "wrongAnswer_1": "ANP is released from ventricular myocytes in response to ventricular stretch, promoting sodium and water retention to increase blood volume and pressure.",
+                        "wrongAnswer_2": "ANP is released from renal juxtaglomerular cells in response to low blood pressure, stimulating renin release to increase blood pressure.",
+                        "wrongAnswer_3": "ANP is released from adrenal cortex in response to angiotensin II, stimulating aldosterone release to increase sodium and water retention.",
+                        "wrongAnswer_4": "ANP is released from vascular endothelium in response to shear stress, promoting vasoconstriction and increased peripheral resistance to elevate blood pressure."
+                    },
+                    {
+                        "question": "What is the immediate hemodynamic effect of increased activity of the sympathetic nervous system on systemic arterioles in blood pressure regulation?",
+                        "goodAnswer": "Vasoconstriction, leading to an increase in peripheral vascular resistance and consequently an elevation in blood pressure.",
+                        "wrongAnswer_1": "Vasodilation, resulting in a decrease in peripheral vascular resistance and a subsequent reduction in blood pressure.",
+                        "wrongAnswer_2": "Increased heart rate but no significant change in arteriolar tone, primarily affecting cardiac output rather than peripheral resistance.",
+                        "wrongAnswer_3": "Decreased heart rate and vasodilation, leading to a combined effect of reduced cardiac output and peripheral resistance, lowering blood pressure.",
+                        "wrongAnswer_4": "No direct effect on arterioles; sympathetic activity primarily influences venous capacitance and cardiac contractility but not arteriolar diameter."
+                    },
+                    {
+                        "question": "Which of the following best describes the role of the kidneys in the long-term regulation of arterial blood pressure?",
+                        "goodAnswer": "By adjusting blood volume through the renin-angiotensin-aldosterone system (RAAS) and by directly regulating sodium and water excretion, influencing cardiac output and peripheral resistance.",
+                        "wrongAnswer_1": "By rapidly releasing epinephrine and norepinephrine from the adrenal medulla to acutely control vascular tone and heart rate in response to stress.",
+                        "wrongAnswer_2": "By directly controlling the baroreceptor reflex sensitivity to maintain moment-to-moment blood pressure stability through neural pathways.",
+                        "wrongAnswer_3": "By producing atrial natriuretic peptide (ANP) in response to decreased blood volume, leading to sodium and water retention to elevate blood pressure.",
+                        "wrongAnswer_4": "By regulating blood viscosity through erythropoietin production, primarily affecting peripheral resistance but not significantly influencing blood volume."
+                    }
+                ]
+            },
+            {
+                "title": "Sequelae of Essential hypertension",
+                "quizzes": [
+                    {
+                        "question": "Which cardiac arrhythmia is most commonly associated with long-standing essential hypertension and consequent left atrial enlargement?",
+                        "goodAnswer": "Atrial fibrillation, resulting from structural and electrical remodeling of the atria due to chronic pressure and volume overload from hypertension.",
+                        "wrongAnswer_1": "Ventricular fibrillation, primarily associated with acute myocardial ischemia or structural heart disease, less directly with chronic hypertension.",
+                        "wrongAnswer_2": "Sinus bradycardia, often related to increased vagal tone or medication side effects, not typically a direct sequela of hypertension.",
+                        "wrongAnswer_3": "First-degree atrioventricular block, frequently due to age-related conduction system disease or medication effects, less directly linked to hypertension.",
+                        "wrongAnswer_4": "Wolff-Parkinson-White syndrome, a congenital condition involving an accessory electrical pathway, not a complication arising from chronic hypertension."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which chronic hypertension contributes to the development of heart failure with preserved ejection fraction (HFpEF)?",
+                        "goodAnswer": "Ventricular diastolic dysfunction due to left ventricular hypertrophy and increased myocardial stiffness from chronic pressure overload.",
+                        "wrongAnswer_1": "Ventricular systolic dysfunction primarily caused by ischemic damage to the myocardium from coronary artery disease secondary to hypertension.",
+                        "wrongAnswer_2": "Right ventricular failure resulting from pulmonary hypertension directly induced by systemic hypertension over time.",
+                        "wrongAnswer_3": "Valvular heart disease, specifically aortic stenosis, developing as a direct consequence of chronically elevated systemic blood pressure.",
+                        "wrongAnswer_4": "Dilated cardiomyopathy, characterized by ventricular chamber enlargement and reduced systolic function, typically unrelated to hypertensive heart disease."
+                    },
+                    {
+                        "question": "In the context of hypertensive cerebrovascular disease, what pathological change in small cerebral arteries is most directly responsible for lacunar infarcts?",
+                        "goodAnswer": "Lipohyalinosis and microatheroma formation in penetrating arteries, leading to occlusion and small, deep infarcts in the brain parenchyma.",
+                        "wrongAnswer_1": "Large artery atherosclerosis affecting major vessels like the carotid and middle cerebral arteries, causing large cortical infarcts.",
+                        "wrongAnswer_2": "Cerebral amyloid angiopathy, deposition of amyloid protein in vessel walls, primarily leading to lobar hemorrhages, not lacunar infarcts.",
+                        "wrongAnswer_3": "Vasculitis, inflammation of cerebral blood vessels, causing multifocal neurological deficits and diffuse brain damage, distinct from lacunar infarcts.",
+                        "wrongAnswer_4": "Venous sinus thrombosis, blockage of cerebral venous drainage, resulting in venous infarction and increased intracranial pressure, not lacunar infarcts."
+                    },
+                    {
+                        "question": "Which ophthalmological finding is indicative of chronic hypertensive retinopathy and suggests long-term exposure to elevated blood pressure?",
+                        "goodAnswer": "Arteriovenous nicking, where arterioles compress and indent venules at crossings, reflecting chronic arteriolar sclerosis and vessel wall thickening.",
+                        "wrongAnswer_1": "Roth spots, retinal hemorrhages with white centers, typically associated with leukemia or bacterial endocarditis, not chronic hypertension.",
+                        "wrongAnswer_2": "Optic neuritis, inflammation of the optic nerve, causing acute vision loss and pain, not a chronic sequela of hypertension.",
+                        "wrongAnswer_3": "Retinal detachment, separation of the retina from the underlying pigment epithelium, often due to trauma or myopia, not chronic hypertension.",
+                        "wrongAnswer_4": "Macular degeneration, age-related retinal disease affecting central vision, while common in elderly, not specifically a marker of chronic hypertensive retinopathy."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure measurement",
+                "quizzes": [
+                    {
+                        "question": "When using an automated oscillometric blood pressure monitor, what physiological parameter is directly measured to estimate systolic and diastolic blood pressure?",
+                        "goodAnswer": "Oscillations in arterial wall pressure, which are detected by the cuff and analyzed algorithmically to derive systolic, diastolic, and mean arterial pressures.",
+                        "wrongAnswer_1": "Korotkoff sounds, which are auscultated using a stethoscope and not directly detected by oscillometric devices.",
+                        "wrongAnswer_2": "Pulse wave velocity, the speed at which pressure waves propagate along arteries, used in arterial stiffness assessment, not routine BP measurement.",
+                        "wrongAnswer_3": "Electrocardiographic R-wave intervals, reflecting cardiac electrical activity, not directly related to oscillometric blood pressure measurement.",
+                        "wrongAnswer_4": "Arterial oxygen saturation, measured by pulse oximetry, indicating oxygenation status, not directly used in oscillometric blood pressure estimation."
+                    },
+                    {
+                        "question": "For accurate home blood pressure monitoring, how frequently should measurements ideally be taken to provide a representative assessment of an individual's blood pressure profile?",
+                        "goodAnswer": "Twice daily, in the morning and evening, for at least one week, preferably before medication and meals, to capture diurnal variations and average blood pressure.",
+                        "wrongAnswer_1": "Only once a week, at any time of day, as infrequent measurements are sufficient to establish long-term blood pressure trends.",
+                        "wrongAnswer_2": "Continuously throughout the day and night using ambulatory blood pressure monitoring, which is necessary for all patients for accurate home readings.",
+                        "wrongAnswer_3": "Only when symptoms of hypertension are present, as blood pressure only needs to be checked during symptomatic episodes.",
+                        "wrongAnswer_4": "Once a month during a routine doctor's visit, as clinic measurements are more reliable than home readings for most individuals."
+                    },
+                    {
+                        "question": "What is the 'auscultatory gap' encountered during manual blood pressure measurement, and why is it clinically significant?",
+                        "goodAnswer": "A temporary disappearance of Korotkoff sounds between Phase I and Phase II, which if missed, can lead to underestimation of systolic blood pressure.",
+                        "wrongAnswer_1": "A period of silence after Phase V Korotkoff sounds, indicating the end of diastolic pressure and not clinically significant.",
+                        "wrongAnswer_2": "A brief increase in Korotkoff sound intensity during Phase III, which can cause overestimation of systolic blood pressure if misinterpreted.",
+                        "wrongAnswer_3": "A consistent absence of Korotkoff sounds throughout the measurement, indicating a technical error or severe hypotension, not an 'auscultatory gap'.",
+                        "wrongAnswer_4": "A gap between systolic and diastolic readings on a digital monitor, representing the pulse pressure, not related to auscultatory measurement issues."
+                    },
+                    {
+                        "question": "In ambulatory blood pressure monitoring (ABPM), what is the typical interval for blood pressure readings during daytime and nighttime periods to accurately assess 24-hour blood pressure variability?",
+                        "goodAnswer": "Every 15-30 minutes during the day and every 30-60 minutes at night, to capture representative readings during active and sleep phases.",
+                        "wrongAnswer_1": "Every hour during both day and night, providing infrequent readings that may miss significant blood pressure fluctuations.",
+                        "wrongAnswer_2": "Continuously throughout the 24 hours, which is technically challenging and unnecessary for routine ABPM assessment.",
+                        "wrongAnswer_3": "Only during waking hours, as nighttime blood pressure is not clinically relevant in ABPM interpretation.",
+                        "wrongAnswer_4": "Only during sleep hours, focusing solely on nocturnal hypertension and ignoring daytime blood pressure patterns."
+                    }
+                ]
+            },
+            {
+                "title": "Evaluation and causes of hypertension",
+                "quizzes": [
+                    {
+                        "question": "Which of the following clinical features in a patient with hypertension most strongly suggests the possibility of secondary hypertension requiring further investigation?",
+                        "goodAnswer": "Sudden onset of hypertension in a previously normotensive young adult without a family history of hypertension, indicating a potential underlying cause.",
+                        "wrongAnswer_1": "Gradual onset of hypertension in an elderly individual with a strong family history of essential hypertension, typical for primary hypertension.",
+                        "wrongAnswer_2": "Mildly elevated blood pressure (Stage 1 hypertension) in an overweight middle-aged adult with sedentary lifestyle, commonly seen in primary hypertension.",
+                        "wrongAnswer_3": "Hypertension that is well-controlled with a single antihypertensive medication, suggesting typical response to treatment for primary hypertension.",
+                        "wrongAnswer_4": "Blood pressure that is slightly higher in the clinic compared to home readings (white coat hypertension), usually not indicative of secondary causes."
+                    },
+                    {
+                        "question": "What is the most appropriate initial screening test for primary aldosteronism in a hypertensive patient suspected of having this endocrine disorder?",
+                        "goodAnswer": "Plasma aldosterone-to-renin ratio (ARR), which, if elevated, suggests autonomous aldosterone production and warrants further confirmatory testing.",
+                        "wrongAnswer_1": "24-hour urinary free cortisol, primarily used to screen for Cushing's syndrome, not directly for primary aldosteronism.",
+                        "wrongAnswer_2": "Thyroid stimulating hormone (TSH) level, used to assess thyroid function, less specific for primary aldosteronism screening.",
+                        "wrongAnswer_3": "Serum potassium level, while hypokalemia can be suggestive of aldosteronism, it is not a sensitive or specific screening test alone.",
+                        "wrongAnswer_4": "Oral glucose tolerance test (OGTT), used to diagnose diabetes mellitus, not related to the initial screening for primary aldosteronism."
+                    },
+                    {
+                        "question": "Which of the following conditions is a recognized cause of drug-induced hypertension, particularly when used chronically?",
+                        "goodAnswer": "Oral contraceptives containing estrogen and progestin, which can increase sodium retention and activate the renin-angiotensin system.",
+                        "wrongAnswer_1": "Short-term use of antibiotics like penicillin, which generally do not have a significant or sustained effect on blood pressure.",
+                        "wrongAnswer_2": "Intermittent use of antihistamines for allergic rhinitis, which typically have minimal impact on chronic blood pressure levels.",
+                        "wrongAnswer_3": "Topical corticosteroids used for skin conditions, which have localized effects and are less likely to cause systemic hypertension.",
+                        "wrongAnswer_4": "Vitamin D supplements, which, in recommended doses, do not typically induce or exacerbate hypertension; some studies suggest potential BP benefits."
+                    },
+                    {
+                        "question": "In evaluating a young female patient with hypertension and clinical suspicion for fibromuscular dysplasia, which imaging modality is considered the gold standard for diagnosing renal artery stenosis?",
+                        "goodAnswer": "Renal angiography (catheter-based), providing high resolution anatomical detail of renal arteries and allowing for intervention if needed.",
+                        "wrongAnswer_1": "Doppler ultrasound of renal arteries, useful for initial screening but less sensitive and specific compared to angiography for confirming FMD.",
+                        "wrongAnswer_2": "CT angiography of renal arteries, a less invasive alternative but may involve radiation and contrast exposure, and slightly lower resolution than catheter angiography.",
+                        "wrongAnswer_3": "MRI angiography of renal arteries, avoids radiation but may be contraindicated in some patients and can be less detailed than catheter angiography.",
+                        "wrongAnswer_4": "Intravenous pyelogram (IVP), primarily for assessing urinary tract structure and obstruction, not directly visualizing renal arteries for stenosis."
+                    }
+                ]
+            },
+            {
+                "title": "Goal of hypertension prevention and management",
+                "quizzes": [
+                    {
+                        "question": "What is the most significant modifiable risk factor for reducing the overall burden of hypertension-related cardiovascular disease in the population?",
+                        "goodAnswer": "Population-wide reduction in sodium intake, as high sodium consumption is a major driver of hypertension prevalence and severity globally.",
+                        "wrongAnswer_1": "Aggressive pharmacological treatment of all individuals with any degree of blood pressure elevation, regardless of risk profile.",
+                        "wrongAnswer_2": "Routine use of over-the-counter antihypertensive supplements for primary prevention in the general population.",
+                        "wrongAnswer_3": "Focusing solely on managing secondary hypertension, which constitutes a minority of hypertension cases compared to primary hypertension.",
+                        "wrongAnswer_4": "Promoting high-intensity exercise regimens for all individuals, which may be impractical and potentially risky for certain populations without prior screening."
+                    },
+                    {
+                        "question": "Which of the following lifestyle interventions has been shown to have the most substantial impact on lowering blood pressure in individuals with hypertension?",
+                        "goodAnswer": "Weight loss in overweight or obese individuals, as excess weight is strongly associated with increased blood pressure and cardiovascular risk.",
+                        "wrongAnswer_1": "Regular aerobic exercise alone, while beneficial, may have a less pronounced effect on blood pressure compared to weight reduction in overweight individuals.",
+                        "wrongAnswer_2": "Smoking cessation, primarily aimed at reducing overall cardiovascular risk but may have a less direct and immediate impact on blood pressure levels.",
+                        "wrongAnswer_3": "Stress reduction techniques, which can improve well-being but may have a modest and variable effect on lowering established hypertension.",
+                        "wrongAnswer_4": "Increased potassium intake alone, while recommended, typically has a smaller blood pressure-lowering effect compared to weight loss or sodium reduction."
+                    },
+                    {
+                        "question": "In the pharmacological management of hypertension, when initiating antihypertensive therapy, what is a key consideration regarding medication selection, particularly in older adults?",
+                        "goodAnswer": "Starting with a low dose and gradually titrating upwards, to minimize the risk of orthostatic hypotension and other adverse effects in older individuals.",
+                        "wrongAnswer_1": "Initiating with combination therapy using multiple antihypertensive agents at full doses to rapidly achieve target blood pressure.",
+                        "wrongAnswer_2": "Preferentially using centrally acting agents to ensure effective blood pressure control in older patients with potential cognitive impairment.",
+                        "wrongAnswer_3": "Avoiding diuretics as first-line agents due to concerns about electrolyte imbalances, particularly in frail elderly individuals.",
+                        "wrongAnswer_4": "Focusing primarily on systolic blood pressure reduction to below 120 mmHg, regardless of diastolic blood pressure levels in older adults."
+                    },
+                    {
+                        "question": "For patients with hypertension and co-existing chronic kidney disease, which class of antihypertensive medications is particularly recommended due to its renal protective effects?",
+                        "goodAnswer": "Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs), which reduce proteinuria and slow the progression of kidney disease.",
+                        "wrongAnswer_1": "Beta-blockers, primarily used for rate control and angina, less specific renal protective effects compared to ACEIs/ARBs in CKD.",
+                        "wrongAnswer_2": "Calcium channel blockers, effective for blood pressure reduction but lack the specific renal protective benefits of ACEIs/ARBs in CKD.",
+                        "wrongAnswer_3": "Thiazide diuretics, often less effective in advanced CKD and may exacerbate electrolyte imbalances in renal insufficiency.",
+                        "wrongAnswer_4": "Alpha-blockers, mainly used for benign prostatic hyperplasia and resistant hypertension, not first-line for renal protection in CKD patients."
+                    }
+                ]
+            }
+        ]
+    }
+}

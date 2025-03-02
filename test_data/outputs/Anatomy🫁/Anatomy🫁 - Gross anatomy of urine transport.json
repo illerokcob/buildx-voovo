@@ -1,0 +1,135 @@
+{
+    "mainTopic": {
+        "title": "Gross anatomy of urine transport",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Ureters",
+                "quizzes": [
+                    {
+                        "question": "Which layers constitute the wall of the ureter, starting from the innermost layer that is directly exposed to urine, to the outermost layer that provides structural support?",
+                        "goodAnswer": "The ureter wall is composed of the mucosa with transitional epithelium, followed by the muscularis with inner longitudinal and outer circular smooth muscle layers, and finally the adventitia.",
+                        "wrongAnswer_1": "The layers of the ureter wall include the serosa as the innermost layer, then the muscularis with inner circular and outer longitudinal smooth muscle layers, and the adventitia as the outermost layer.",
+                        "wrongAnswer_2": "The ureter wall consists of the adventitia innermost, followed by the submucosa, and then the muscularis which is composed of a single layer of smooth muscle for peristalsis.",
+                        "wrongAnswer_3": "The layers are arranged as follows: mucosa with stratified squamous epithelium, submucosa with dense connective tissue, and serosa as the outermost protective layer.",
+                        "wrongAnswer_4": "The ureter wall is made up of transitional epithelium directly followed by the muscularis with only a longitudinal layer of muscle and an outer serosa."
+                    },
+                    {
+                        "question": "What type of specialized epithelium lines the lumen of the ureter and what is its crucial functional adaptation for this location?",
+                        "goodAnswer": "Transitional epithelium, also known as urothelium, lines the ureter lumen, uniquely adapted to accommodate significant stretching and recoil as urine passes through.",
+                        "wrongAnswer_1": "Stratified squamous epithelium lines the ureter, providing a robust protective barrier against the abrasive action of urine crystals and preventing fluid absorption.",
+                        "wrongAnswer_2": "Simple columnar epithelium with microvilli is the lining of the ureter, specialized for secretion of mucus and active transport of solutes from the urine back into the bloodstream.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium lines the ureter, with cilia actively propelling urine towards the bladder independently of peristaltic contractions.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, rich in tight junctions, lines the ureter, primarily functioning in active reabsorption of water and essential ions from the urine as it descends."
+                    },
+                    {
+                        "question": "Which anatomical mechanism primarily prevents the reflux of urine from the bladder back into the ureters during bladder contraction and increased intravesical pressure?",
+                        "goodAnswer": "The oblique angle of ureteral entry through the bladder wall, which gets compressed as the bladder fills and contracts, acting as a passive valve mechanism preventing backflow.",
+                        "wrongAnswer_1": "A specialized sphincter muscle located at the ureterovesical junction, which actively contracts in response to bladder filling to prevent any retrograde movement of urine into the ureters.",
+                        "wrongAnswer_2": "The presence of one-way valves within the lumen of the ureters, structurally similar to venous valves, that mechanically block the upward flow of urine towards the kidneys.",
+                        "wrongAnswer_3": "The continuous and strong peristaltic contractions of the ureteral muscularis, ensuring unidirectional downward propulsion of urine and actively counteracting any potential backflow pressure.",
+                        "wrongAnswer_4": "A pressure gradient maintained by higher pressure within the ureters compared to the bladder, naturally preventing urine from flowing back into the ureters against the pressure difference."
+                    },
+                    {
+                        "question": "Describe the retroperitoneal course of the ureters, specifying their location relative to the parietal peritoneum as they descend from the kidneys to the bladder within the abdominal and pelvic cavities.",
+                        "goodAnswer": "The ureters are positioned retroperitoneally throughout their entire course, situated posterior to the parietal peritoneum lining the abdominal and pelvic walls, closely associated with the posterior abdominal wall.",
+                        "wrongAnswer_1": "Ureters are intraperitoneal in the abdominal cavity, suspended by a mesentery-like fold, and become retroperitoneal only as they enter the pelvic cavity to join the bladder at its anterior aspect.",
+                        "wrongAnswer_2": "The ureters are primarily intraperitoneal, freely mobile within the abdominal cavity, and transition to a retroperitoneal position only briefly before piercing the bladder wall on its posterior side.",
+                        "wrongAnswer_3": "Ureters are retroperitoneal in the abdomen but become secondarily intraperitoneal in the pelvis, allowing them to move freely alongside the bladder as it expands and contracts with urine volume changes.",
+                        "wrongAnswer_4": "The ureters are entirely within the peritoneal cavity, closely adhered to the anterior abdominal wall and descending directly anterior to the parietal peritoneum before reaching the bladder."
+                    }
+                ]
+            },
+            {
+                "title": "Bladder",
+                "quizzes": [
+                    {
+                        "question": "What is the detrusor muscle of the urinary bladder, and how are its smooth muscle fibers anatomically arranged to facilitate efficient bladder emptying?",
+                        "goodAnswer": "The detrusor muscle is the muscularis layer of the bladder wall, composed of interlacing bundles of smooth muscle fibers oriented in longitudinal, circular, and oblique directions, enabling comprehensive contraction for efficient voiding.",
+                        "wrongAnswer_1": "The detrusor muscle is a specialized sphincter located at the bladder neck, primarily composed of striated muscle fibers under voluntary control, responsible for initiating and controlling urination.",
+                        "wrongAnswer_2": "The detrusor muscle refers to the submucosal layer of the bladder, characterized by elastic fibers arranged in a circular pattern, which passively contracts to expel urine upon bladder distension.",
+                        "wrongAnswer_3": "The detrusor muscle is the outer serosal layer of the bladder wall, consisting of collagen fibers in a single longitudinal layer, providing structural integrity and contractile force during urination.",
+                        "wrongAnswer_4": "The detrusor muscle is a specialized layer of transitional epithelium within the mucosa, which possesses contractile properties and actively participates in bladder emptying by squeezing urine out."
+                    },
+                    {
+                        "question": "Define the anatomical boundaries of the trigone of the urinary bladder and specify its key distinguishing features on the internal posterior bladder wall.",
+                        "goodAnswer": "The trigone is a triangular region on the internal posterior bladder wall, demarcated by the two ureteric orifices superiorly and the internal urethral orifice inferiorly, characterized by its smooth mucosal lining.",
+                        "wrongAnswer_1": "The trigone is the superior dome of the bladder, recognized by the presence of rugae and bounded by the peritoneal reflections forming the false ligaments of the bladder.",
+                        "wrongAnswer_2": "The trigone is the anterior wall of the bladder, distinguished by the median umbilical ligament's attachment and a thicker muscular layer compared to other bladder regions.",
+                        "wrongAnswer_3": "The trigone is the inferior portion of the bladder neck, containing the internal urethral sphincter and surrounded by the prostate gland in males, marked by a highly folded mucosa.",
+                        "wrongAnswer_4": "The trigone refers to the external surface of the bladder, delineated by the attachment points of the pelvic diaphragm muscles and characterized by a dense fibrous connective tissue layer."
+                    },
+                    {
+                        "question": "What specific type of epithelium lines the urinary bladder, and how does its unique structural characteristic contribute to the bladder's capacity to accommodate varying volumes of urine?",
+                        "goodAnswer": "Transitional epithelium, or urothelium, lines the bladder, featuring umbrella cells at the surface and the unique ability to thin and stretch significantly as the bladder distends, accommodating large volume changes.",
+                        "wrongAnswer_1": "Stratified squamous epithelium lines the bladder, providing a robust, impermeable barrier against the osmotic pressure of urine and preventing water loss into the surrounding tissues.",
+                        "wrongAnswer_2": "Simple columnar epithelium lines the bladder, facilitating active secretion of a protective mucus layer that shields the underlying tissues from the corrosive effects of urine and its solutes.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium lines the bladder, with cilia actively propelling urine along the bladder surface and contributing to the mixing of bladder contents.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium lines the bladder, specialized for active transport of ions and molecules across the epithelial layer, playing a crucial role in urine concentration and solute balance."
+                    },
+                    {
+                        "question": "Describe the anatomical relationships of the urinary bladder within the female pelvic cavity, specifying its position relative to adjacent organs and structures.",
+                        "goodAnswer": "In females, the bladder is situated anterior and inferior to the uterus, anterior to the rectum, and superior to the pelvic diaphragm, separated from the vagina by connective tissue and fat.",
+                        "wrongAnswer_1": "In females, the bladder is located posterior to the uterus, superior to the vagina, and inferior to the ovaries, resting directly on the pelvic floor muscles without intervening structures.",
+                        "wrongAnswer_2": "In females, the bladder is positioned lateral to the rectum, anterior to the sacrum, and posterior to the pubic symphysis, closely associated with the broad ligament of the uterus.",
+                        "wrongAnswer_3": "In females, the bladder is situated superior to the uterus, posterior to the vagina, and anterior to the rectum, directly inferior to the ovaries and lateral to the uterine tubes.",
+                        "wrongAnswer_4": "In females, the bladder is inferior to the rectum, posterior to the pubic symphysis, and superior to the ovaries, positioned between the layers of the broad ligament and adjacent to the uterine cervix."
+                    },
+                    {
+                        "question": "Detail the primary arterial blood supply and venous drainage pathways of the urinary bladder, specifying the major vessels involved in both afferent and efferent circulation.",
+                        "goodAnswer": "Arterial supply to the bladder primarily originates from branches of the internal iliac arteries, specifically the superior and inferior vesical arteries, while venous drainage is primarily into the internal iliac veins via the vesical venous plexus.",
+                        "wrongAnswer_1": "Arterial supply to the bladder is mainly from the external iliac arteries, with venous drainage occurring through the external iliac veins and subsequently into the femoral vein of the lower limb.",
+                        "wrongAnswer_2": "Arterial supply to the bladder is directly from the renal arteries, reflecting its embryological origin, and venous drainage is directly into the inferior vena cava, bypassing the pelvic venous system.",
+                        "wrongAnswer_3": "Arterial supply to the bladder comes from the common iliac arteries, bifurcating to supply both sides, and venous drainage is primarily into the superior mesenteric vein, connecting to the portal venous system.",
+                        "wrongAnswer_4": "Arterial supply to the bladder originates directly from the abdominal aorta, proximal to the iliac bifurcation, and venous drainage is into the portal venous system, reflecting its visceral drainage pattern."
+                    }
+                ]
+            },
+            {
+                "title": "Urethra",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental anatomical distinction between the male and female urethra regarding length and primary physiological function within the urogenital system?",
+                        "goodAnswer": "The male urethra is significantly longer, approximately 18-20 cm, serving as a shared conduit for both urine and semen, whereas the female urethra is shorter, about 4 cm, and exclusively transports urine.",
+                        "wrongAnswer_1": "The female urethra is notably longer and more convoluted than the male urethra, providing an extended pathway that offers enhanced protection against ascending urinary tract infections.",
+                        "wrongAnswer_2": "The male urethra is uniformly lined with stratified squamous epithelium throughout its entire length, while the female urethra is characterized by a consistent lining of transitional epithelium.",
+                        "wrongAnswer_3": "The male urethra lacks a distinct muscular layer, depending solely on gravitational forces for urine transport, whereas the female urethra is equipped with a thick muscularis for active urine expulsion.",
+                        "wrongAnswer_4": "The female urethra is anatomically divided into three distinct segments \u2013 prostatic, membranous, and spongy \u2013 mirroring the complexity observed in the male urethral structure."
+                    },
+                    {
+                        "question": "In the male urethra, identify the three principal anatomical segments in their correct proximal-to-distal sequence, and specify their locations relative to surrounding structures.",
+                        "goodAnswer": "The male urethra is sequentially divided into the prostatic urethra (within the prostate gland), membranous urethra (passing through the pelvic diaphragm), and spongy (penile) urethra (within the corpus spongiosum of the penis).",
+                        "wrongAnswer_1": "The male urethra segments are arranged distally to proximally as: spongy urethra (within the penis), membranous urethra (inferior to the prostate), and prostatic urethra (superior to the bladder neck).",
+                        "wrongAnswer_2": "The male urethra consists of: penile urethra (throughout the penis), bulbourethral urethra (adjacent to bulbourethral glands), and prostatic urethra (anterior to the prostate gland).",
+                        "wrongAnswer_3": "The correct proximal-to-distal sequence in the male urethra is: membranous urethra (within the perineum), prostatic urethra (encircled by the prostate), and spongy urethra (within the penile shaft).",
+                        "wrongAnswer_4": "The male urethra is comprised of: cavernous urethra (in the corpora cavernosa), membranous urethra (superior to the pelvic floor), and prostatic urethra (posterior to the bladder)."
+                    },
+                    {
+                        "question": "What type of epithelium primarily lines the female urethra, and how does its composition vary along the urethral length from proximal to distal?",
+                        "goodAnswer": "The female urethra is lined by stratified squamous epithelium distally near the external urethral orifice, transitioning proximally to pseudostratified columnar or transitional epithelium closer to the bladder neck.",
+                        "wrongAnswer_1": "The entire length of the female urethra is consistently lined by transitional epithelium, mirroring the bladder lining and providing uniform distensibility throughout the urethral passage.",
+                        "wrongAnswer_2": "Simple columnar epithelium specialized for mucus secretion lines the female urethra throughout, ensuring continuous lubrication of the urethral passage and protection from irritation.",
+                        "wrongAnswer_3": "Pseudostratified ciliated columnar epithelium, equipped with motile cilia, lines the female urethra, actively propelling urine outwards and preventing retrograde flow into the bladder.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, involved in active transport and reabsorption, lines the female urethra, playing a significant role in modifying the final composition of urine before excretion."
+                    },
+                    {
+                        "question": "Which anatomical gland directly surrounds the prostatic urethra in males, and what is its primary secretory contribution to the seminal fluid?",
+                        "goodAnswer": "The prostate gland directly encircles the prostatic urethra and secretes prostatic fluid, a milky, slightly alkaline secretion that constitutes a significant portion of semen volume and contains enzymes and nutrients.",
+                        "wrongAnswer_1": "The bulbourethral glands (Cowper's glands) are situated within the walls of the prostatic urethra and secrete a pre-ejaculate fluid that lubricates the urethra and neutralizes acidity before semen passage.",
+                        "wrongAnswer_2": "The seminal vesicles, located posterior to the bladder, empty their fructose-rich secretions into the prostatic urethra, providing energy substrate for spermatozoa motility and viability.",
+                        "wrongAnswer_3": "The urethral glands (glands of Littre), predominantly found in the prostatic urethra, secrete mucus that lubricates the urethral lumen and protects the epithelium from urine and semen components.",
+                        "wrongAnswer_4": "The external urethral sphincter, composed of skeletal muscle, tightly encircles the prostatic urethra and regulates urine flow, but does not contribute any secretory products to the seminal fluid."
+                    },
+                    {
+                        "question": "Describe the anatomical location and primary function of the external urethral sphincter in both males and females regarding voluntary control over micturition.",
+                        "goodAnswer": "The external urethral sphincter is located inferior to the bladder neck, surrounding the urethra, and is composed of skeletal muscle, providing voluntary control over the initiation and cessation of urination.",
+                        "wrongAnswer_1": "The external urethral sphincter is situated within the bladder wall, near the trigone, and is composed of smooth muscle, controlling involuntary bladder contractions and regulating the urge to urinate.",
+                        "wrongAnswer_2": "The external urethral sphincter is located superior to the bladder neck, within the abdominal cavity, and regulates urine flow from the kidneys into the bladder, but has no direct role in voluntary micturition.",
+                        "wrongAnswer_3": "The external urethral sphincter extends along the entire length of the urethra and provides peristaltic contractions that propel urine outwards, contributing to both involuntary and voluntary aspects of urination.",
+                        "wrongAnswer_4": "The external urethral sphincter is located at the distal end of the urethra, near the external urethral orifice, primarily controlling the release of semen during ejaculation in males and urine during voiding in females."
+                    }
+                ]
+            }
+        ]
+    }
+}

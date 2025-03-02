@@ -1,0 +1,185 @@
+{
+    "mainTopic": {
+        "title": "Genital warts",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Sites of Genital Warts",
+                "quizzes": [
+                    {
+                        "question": "Identify the anatomical sites that are MOST frequently affected by genital warts in individuals infected with HPV, considering both sexes.",
+                        "goodAnswer": "Vulva, penis, perineum, perianal area, vagina, and cervix are among the most commonly observed locations for genital warts.",
+                        "wrongAnswer_1": "Axillae, antecubital fossa, popliteal fossa, inguinal ligament, and the scalp are the primary sites where genital warts predominantly manifest.",
+                        "wrongAnswer_2": "Intraocular regions, auditory canals, nasal passages, and the plantar surface of the feet are the exclusive locations for genital warts.",
+                        "wrongAnswer_3": "Hepatic tissue, renal parenchyma, splenic capsule, and bone marrow are the most susceptible sites for genital wart formation.",
+                        "wrongAnswer_4": "The conjunctiva of the eye, the inner lining of the stomach, the gallbladder, and the urinary bladder are the typical sites for genital warts."
+                    },
+                    {
+                        "question": "In women, which specific anatomical location is considered a particularly frequent site for the development of genital warts, often necessitating careful examination?",
+                        "goodAnswer": "The cervix, including the transformation zone, is a particularly frequent site in women, often requiring speculum examination and potentially colposcopy for thorough assessment.",
+                        "wrongAnswer_1": "The palmar surface of the hand, especially the thenar eminence, is the most commonly affected site in women, usually visible without special examination techniques.",
+                        "wrongAnswer_2": "The inner ear canal, specifically the tympanic membrane, is the primary site in women, requiring otoscopic examination to visualize potential genital wart lesions.",
+                        "wrongAnswer_3": "The thyroid gland, particularly the isthmus, is the most common internal site in women, detectable through thyroid function tests and ultrasound imaging.",
+                        "wrongAnswer_4": "The appendix, especially the serosal surface, is a frequent, though often overlooked, site in women, requiring surgical exploration for definitive diagnosis of genital warts."
+                    },
+                    {
+                        "question": "In men, which anatomical region is commonly affected by genital warts and can often be identified through self-examination or clinical inspection?",
+                        "goodAnswer": "The penis, particularly the glans, coronal sulcus, and shaft, is a commonly affected area in men and can be visually inspected for genital warts.",
+                        "wrongAnswer_1": "The scalp and hair follicles, especially in the occipital region, are the most frequent sites in men, requiring dermatoscopic examination for accurate diagnosis.",
+                        "wrongAnswer_2": "The nasal septum and turbinates, particularly the inferior turbinate, are the primary sites in men, usually detected during routine ENT examinations.",
+                        "wrongAnswer_3": "The liver surface and surrounding tissues, especially the porta hepatis, are the most commonly affected internal sites in men, requiring invasive procedures for detection.",
+                        "wrongAnswer_4": "The sole of the foot, especially the calcaneal region, is the most frequent location in men, often mistaken for plantar warts."
+                    },
+                    {
+                        "question": "Beyond the commonly recognized external genitalia, which less obvious anatomical site is also frequently implicated in genital wart infections in both men and women?",
+                        "goodAnswer": "The perianal area and anal canal are frequently involved, often requiring anoscopic examination for complete assessment, especially in individuals practicing receptive anal intercourse.",
+                        "wrongAnswer_1": "The oral mucosa, including the buccal mucosa and tongue, is frequently involved, often requiring oral examination and biopsy for definitive diagnosis, especially in individuals practicing oral sex.",
+                        "wrongAnswer_2": "The conjunctiva of the eye, especially the palpebral conjunctiva, is frequently involved, often requiring ophthalmological examination with slit lamp for detailed assessment.",
+                        "wrongAnswer_3": "The nasal vestibule and anterior nasal cavity are frequently involved, often requiring rhinoscopy and nasal endoscopy for thorough evaluation, particularly in individuals with nasal picking habits.",
+                        "wrongAnswer_4": "The subungual space and nail matrix of the fingers and toes are frequently involved, often requiring nail examination and nail bed biopsy for accurate diagnosis in individuals with onychophagia."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical Manifestations",
+                "quizzes": [
+                    {
+                        "question": "What are the typical clinical manifestations of genital warts caused by Human Papillomavirus (HPV) infection?",
+                        "goodAnswer": "Genital warts typically manifest as soft, fleshy, raised, or flat lesions, often described as cauliflower-like or papilliform in appearance, varying in size, number, and color from pink to hyperpigmented.",
+                        "wrongAnswer_1": "Genital warts present as hard, bony, immobile nodules, consistently uniform in size and always appearing as solitary lesions with a fixed, ossified base and overlying atrophic epidermis.",
+                        "wrongAnswer_2": "Genital warts characteristically appear as deep, ulcerated, necrotic lesions, typically accompanied by severe purulent discharge and systemic symptoms such as lymphadenopathy and fever.",
+                        "wrongAnswer_3": "Genital warts are uniquely characterized by their presentation as fluid-filled vesicles that rupture easily, leaving behind intensely pruritic, crusted erosions and exhibiting a herpetiform arrangement.",
+                        "wrongAnswer_4": "Genital warts are invariably asymptomatic, causing no visible lesions but only detectable through sophisticated immunological assays and PCR techniques performed on blood samples."
+                    },
+                    {
+                        "question": "Describe the range of appearances that genital warts can exhibit, considering variations in morphology, texture, and coloration.",
+                        "goodAnswer": "Genital warts can present in a spectrum of appearances, including small, flat papules, raised, exophytic, cauliflower-like growths, or smooth, dome-shaped, flesh-colored lesions, varying in texture from soft and velvety to slightly firm and verrucous.",
+                        "wrongAnswer_1": "Genital warts are uniformly expressed as large, pigmented, melanotic plaques with a rough, scaly surface and consistent, dark brown to black coloration, resembling melanocytic nevi.",
+                        "wrongAnswer_2": "Genital warts are exclusively characterized by their presentation as indurated, fixed, subcutaneous masses, always exhibiting a hard, cartilaginous consistency and deep dermal infiltration.",
+                        "wrongAnswer_3": "Genital warts invariably appear as intensely erythematous, edematous, and painful bullae, filled with hemorrhagic fluid and surrounded by a necrotic halo, mimicking bullous impetigo.",
+                        "wrongAnswer_4": "Genital warts are limited to a singular presentation: microscopic, intracellular inclusions, only visible through electron microscopy and specialized immunohistochemical staining techniques on tissue biopsies."
+                    },
+                    {
+                        "question": "What factors can significantly influence the clinical appearance and presentation of genital warts in an individual infected with HPV, beyond viral strain variability?",
+                        "goodAnswer": "Factors influencing clinical appearance include the individual's immune status, particularly cell-mediated immunity, the anatomical location of the infection, the duration of the infection, and co-infections.",
+                        "wrongAnswer_1": "The patient's blood type (ABO and Rh), dietary habits, geographical location, and astrological sign are the primary determinants of genital wart morphology and clinical course.",
+                        "wrongAnswer_2": "The phase of the moon, environmental humidity, atmospheric pressure, and exposure to electromagnetic fields are the sole influencers of genital wart presentation and therapeutic response.",
+                        "wrongAnswer_3": "The patient's shoe size, preferred music genre, dominant hand, and favorite color are the key factors dictating the clinical manifestation and spontaneous resolution of genital warts.",
+                        "wrongAnswer_4": "The brand of clothing worn, the type of soap used for hygiene, the ambient temperature, and the time of day are the exclusive variables impacting genital wart appearance and recurrence rate."
+                    }
+                ]
+            },
+            {
+                "title": "Signs and Symptoms",
+                "quizzes": [
+                    {
+                        "question": "Beyond the visible lesions, what are some common symptoms that individuals with genital warts might experience, impacting their quality of life?",
+                        "goodAnswer": "Symptoms beyond visible lesions can include pruritus (itching), discomfort, pain, and sometimes bleeding, particularly with larger or irritated warts, leading to psychological distress and sexual dysfunction.",
+                        "wrongAnswer_1": "Individuals with genital warts consistently experience severe systemic symptoms such as high fever, debilitating fatigue, intense muscle aches, and significant weight loss, indicative of systemic viral dissemination.",
+                        "wrongAnswer_2": "Genital warts invariably cause acute neurological symptoms including seizures, paralysis, cognitive impairment, and altered states of consciousness, suggesting neurotropic viral invasion.",
+                        "wrongAnswer_3": "The hallmark symptoms of genital warts, apart from lesions, are persistent nausea, uncontrollable vomiting, severe diarrhea, and profound dehydration, mimicking acute gastroenteritis.",
+                        "wrongAnswer_4": "Genital warts are exclusively characterized by their dermatological signs, with no associated subjective symptoms reported by affected individuals across all demographics and clinical scenarios."
+                    },
+                    {
+                        "question": "Describe the nature and intensity of pruritus (itching) that may be associated with genital warts, if present, and how it typically manifests.",
+                        "goodAnswer": "Pruritus associated with genital warts can range from mild to moderate, intermittent itching, often exacerbated by friction, tight clothing, or sexual activity in the affected area, typically described as a superficial irritation.",
+                        "wrongAnswer_1": "Pruritus associated with genital warts is always excruciatingly severe, constant, and unrelenting, leading to significant skin excoriation, secondary bacterial infections, and chronic pain syndromes.",
+                        "wrongAnswer_2": "The pruritus in genital warts is characterized by its rhythmic, pulsating nature, occurring in predictable cycles every few hours with extreme intensity and accompanied by paresthesias.",
+                        "wrongAnswer_3": "Pruritus due to genital warts is uniquely described as a burning, stinging sensation rather than a true itch, and is typically localized to deeper dermal and subcutaneous tissues.",
+                        "wrongAnswer_4": "Genital warts are universally non-pruritic; itching is never a symptom associated with HPV-induced wart formation in the genital region across all HPV subtypes and clinical presentations."
+                    },
+                    {
+                        "question": "Explain the potential for pain or discomfort in individuals with genital warts, considering factors that might influence its presence and severity beyond lesion size.",
+                        "goodAnswer": "Pain or discomfort, if present, in genital warts is often mild and related to irritation, inflammation, or secondary infection of the warts, especially in sensitive areas like the urethral meatus or perianal region, and can be influenced by lesion location and immune response.",
+                        "wrongAnswer_1": "Pain associated with genital warts is invariably described as agonizing and intractable, requiring potent opioid analgesics, nerve blocks, and surgical intervention for even partial relief.",
+                        "wrongAnswer_2": "Genital wart pain is characterized by its sharp, lancinating, neuropathic nature, radiating intensely to adjacent anatomical regions and causing referred pain patterns along dermatomal distributions.",
+                        "wrongAnswer_3": "Pain from genital warts is always associated with deep tissue invasion and bone involvement, resulting in chronic, debilitating skeletal pain and requiring long-term orthopedic management.",
+                        "wrongAnswer_4": "Genital warts are inherently painless; any report of pain is indicative of a misdiagnosis or a co-existing, unrelated painful condition such as neuralgia or musculoskeletal injury."
+                    },
+                    {
+                        "question": "In what circumstances might bleeding occur in the context of genital warts, and what is the typical nature and clinical significance of this bleeding?",
+                        "goodAnswer": "Bleeding from genital warts can occur if they are traumatized, irritated by friction or intercourse, or become ulcerated due to secondary infection, typically presenting as minor spotting or bleeding that is usually self-limiting and of minimal clinical significance.",
+                        "wrongAnswer_1": "Bleeding from genital warts is always profuse and torrential, requiring immediate medical intervention, surgical hemostasis, and blood transfusions to manage hemorrhagic shock and life-threatening anemia.",
+                        "wrongAnswer_2": "Genital wart bleeding is characterized by its pulsatile, arterial nature, indicating deep vascular erosion and posing a significant risk of exsanguination and circulatory collapse.",
+                        "wrongAnswer_3": "Bleeding associated with genital warts is uniquely internal and occult, detectable only through sophisticated endoscopic procedures, fecal occult blood tests, and radiologic imaging studies.",
+                        "wrongAnswer_4": "Genital warts never bleed; any report of bleeding in the genital area in HPV-infected individuals is attributable to other unrelated gynecological, urological, or hematological pathologies, excluding HPV infection."
+                    }
+                ]
+            },
+            {
+                "title": "Pregnancy",
+                "quizzes": [
+                    {
+                        "question": "What are the primary clinical considerations regarding genital warts in pregnant women, focusing on maternal and neonatal health?",
+                        "goodAnswer": "Considerations in pregnancy include potential vertical transmission to the neonate during vaginal delivery, increased wart growth and friability due to hormonal and immunological changes, and management strategies that prioritize fetal safety and minimize obstetric complications.",
+                        "wrongAnswer_1": "Genital warts in pregnancy invariably lead to severe fetal malformations, necessitate mandatory termination of pregnancy in the first trimester, and pose no risk of neonatal transmission via any route.",
+                        "wrongAnswer_2": "Pregnancy completely eradicates HPV infection and genital warts through hormonal and immunological mechanisms, providing permanent maternal immunity and eliminating any risk to both mother and fetus throughout gestation and postpartum.",
+                        "wrongAnswer_3": "Genital warts in pregnancy are purely a cosmetic concern with no impact on maternal or fetal health, and require no specific management, monitoring, or obstetric planning throughout the entire pregnancy.",
+                        "wrongAnswer_4": "Pregnancy renders HPV infection undetectable by standard diagnostic methods, making it impossible to assess or manage genital warts during gestation and necessitating empirical treatment postpartum."
+                    },
+                    {
+                        "question": "How might the physiological changes of pregnancy, specifically hormonal and immunological shifts, affect the size, growth rate, and clinical behavior of pre-existing genital warts?",
+                        "goodAnswer": "Hormonal changes, particularly increased estrogen and progesterone, and relative immunosuppression in pregnancy can lead to increased size, number, vascularity, and friability of pre-existing genital warts, sometimes causing them to become more symptomatic and prone to bleeding.",
+                        "wrongAnswer_1": "Pregnancy invariably causes complete regression and disappearance of pre-existing genital warts due to hormonal shifts that are intrinsically antiviral in nature and promote robust cell-mediated immunity against HPV.",
+                        "wrongAnswer_2": "Pregnancy has no effect on the size, growth, or clinical behavior of genital warts; they remain static throughout gestation and postpartum periods, unaffected by hormonal or immunological fluctuations.",
+                        "wrongAnswer_3": "Pregnancy leads to calcification and hardening of genital warts, making them less symptomatic but more resistant to topical treatments and necessitating surgical excision postpartum.",
+                        "wrongAnswer_4": "Pregnancy transforms genital warts into malignant tumors through hormonal and angiogenic stimulation, necessitating immediate and aggressive oncological interventions, including chemotherapy and radiation, to prevent maternal mortality."
+                    },
+                    {
+                        "question": "What is the estimated risk of vertical transmission of HPV from a mother with genital warts to her newborn during childbirth, and what neonatal conditions are associated with such transmission?",
+                        "goodAnswer": "Vertical transmission risk exists, though relatively low, estimated at less than 1% for most HPV types, and can lead to neonatal HPV infection, potentially manifesting as recurrent respiratory papillomatosis (laryngeal papillomatosis) or genital warts in the newborn, particularly if maternal infection is active at delivery.",
+                        "wrongAnswer_1": "Vertical transmission of HPV from mother to newborn is inevitable and universally results in severe, life-threatening congenital HPV-related diseases in all infants delivered vaginally to HPV-positive mothers.",
+                        "wrongAnswer_2": "Vertical transmission of HPV is impossible due to placental barrier protection and neonatal innate immunity, ensuring newborns are always HPV-free regardless of maternal infection status or delivery route.",
+                        "wrongAnswer_3": "Vertical transmission of HPV leads exclusively to maternal HPV eradication postpartum via a neonatal immune-mediated clearance mechanism, acting as a natural form of immunotherapy for the mother but causing severe neonatal morbidity.",
+                        "wrongAnswer_4": "Vertical transmission of HPV only occurs in cases of cesarean section deliveries due to surgical inoculation, while vaginal deliveries completely eliminate the risk of neonatal HPV infection through natural vaginal flora protection."
+                    },
+                    {
+                        "question": "What are the recommended and contraindicated approaches for managing genital warts in pregnant women to minimize risks to both mother and child, considering treatment safety and efficacy?",
+                        "goodAnswer": "Management in pregnancy focuses on safe, topical ablative treatments like trichloroacetic acid or cryotherapy, considered safe in pregnancy, avoiding podophyllin, podophyllotoxin, and imiquimod due to potential teratogenicity, with cesarean delivery reserved only for cases of obstructive warts impeding vaginal delivery.",
+                        "wrongAnswer_1": "Management of genital warts in pregnancy mandates systemic antiviral chemotherapy with high-dose acyclovir administered intravenously throughout gestation, regardless of wart size or location, to prevent vertical transmission and fetal HPV infection.",
+                        "wrongAnswer_2": "Surgical excision of all genital warts is the gold standard management in pregnancy, performed electively in the first trimester under general anesthesia to completely eliminate any risk of vertical transmission and maternal discomfort.",
+                        "wrongAnswer_3": "Management of genital warts in pregnancy is strictly contraindicated, as any intervention, including topical treatments, poses a greater risk to the fetus than leaving the warts untreated until postpartum, ensuring fetal safety above maternal symptomatic relief.",
+                        "wrongAnswer_4": "Radiation therapy, specifically brachytherapy, is the preferred treatment modality for genital warts in pregnant women, as it effectively eradicates HPV in situ without systemic fetal exposure or risk of vertical transmission, ensuring targeted treatment and fetal protection."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis, Differential Diagnosis",
+                "quizzes": [
+                    {
+                        "question": "What are the primary diagnostic methods for genital warts, emphasizing the role of clinical assessment versus ancillary tests in typical and atypical presentations?",
+                        "goodAnswer": "Diagnosis is primarily clinical, based on visual inspection of characteristic lesions with their typical morphology and location, with biopsy or HPV typing reserved for atypical cases, diagnostic uncertainty, or suspicion of malignancy or dysplasia.",
+                        "wrongAnswer_1": "Diagnosis of genital warts exclusively requires invasive procedures like deep tissue biopsy and immunohistochemical staining for definitive confirmation in all cases, regardless of clinical presentation or lesion characteristics.",
+                        "wrongAnswer_2": "Diagnosis of genital warts relies solely on serological assays detecting HPV antibodies in blood, irrespective of clinical presentation, lesion visibility, or anatomical location of suspected lesions.",
+                        "wrongAnswer_3": "Diagnosis of genital warts is based on complex genetic sequencing of viral DNA in urine samples, requiring specialized laboratory facilities, prolonged processing time, and high-throughput sequencing technology.",
+                        "wrongAnswer_4": "Diagnosis of genital warts necessitates radiological imaging techniques such as MRI and CT scans to visualize subclinical lesions and assess the extent of infection in deeper tissues and adjacent anatomical structures."
+                    },
+                    {
+                        "question": "In the differential diagnosis of genital warts, which conditions should be considered and clinically distinguished, particularly those mimicking wart-like lesions in the anogenital region?",
+                        "goodAnswer": "Differential diagnoses include pearly penile papules, molluscum contagiosum, seborrheic keratoses, skin tags, lichen planus, condyloma lata (secondary syphilis), Bowenoid papulosis, and rarely, early-stage squamous cell carcinoma or other skin cancers.",
+                        "wrongAnswer_1": "Differential diagnoses for genital warts are limited to systemic autoimmune diseases like lupus erythematosus and rheumatoid arthritis, requiring extensive rheumatological evaluation and autoantibody profiling.",
+                        "wrongAnswer_2": "Differential diagnoses of genital warts primarily involve infectious diseases of the respiratory tract, such as tuberculosis and pneumonia, necessitating pulmonary function tests, chest radiography, and sputum cultures.",
+                        "wrongAnswer_3": "Differential diagnoses for genital warts are confined to gastrointestinal disorders like Crohn's disease and ulcerative colitis, requiring colonoscopy, endoscopy, and histopathological examination of mucosal biopsies.",
+                        "wrongAnswer_4": "Differential diagnosis of genital warts includes exclusively neurological conditions such as multiple sclerosis and Parkinson's disease, demanding neurological examinations, MRI of the brain and spinal cord, and cerebrospinal fluid analysis."
+                    },
+                    {
+                        "question": "How does condyloma lata, a lesion associated with secondary syphilis, clinically differ from condyloma acuminata (genital warts) in terms of morphology, distribution, and associated clinical features?",
+                        "goodAnswer": "Condyloma lata are typically broader, flatter, moist, smooth-surfaced, and often found in intertriginous areas and mucous membranes, while condyloma acuminata are usually pedunculated, exophytic, cauliflower-like, and less frequently in intertriginous zones, with serological testing for syphilis being crucial for differentiation.",
+                        "wrongAnswer_1": "Condyloma lata and condyloma acuminata are clinically indistinguishable and can only be differentiated through advanced genetic analysis of lesion tissue samples using techniques like polymerase chain reaction and next-generation sequencing.",
+                        "wrongAnswer_2": "Condyloma lata are intensely painful, ulcerated lesions with purulent discharge and systemic inflammatory signs, whereas condyloma acuminata are invariably asymptomatic and non-inflammatory throughout their clinical course.",
+                        "wrongAnswer_3": "Condyloma lata are characterized by their rapid growth, aggressive invasion of surrounding tissues, and propensity for distant metastasis, while condyloma acuminata are always benign, slow-growing, and localized to the site of infection.",
+                        "wrongAnswer_4": "Condyloma lata are exclusively found on mucosal surfaces like the oral cavity, nasal mucosa, and conjunctiva, whereas condyloma acuminata are limited to keratinized skin areas such as palms, soles, and non-mucosal genital skin."
+                    },
+                    {
+                        "question": "What role does HPV typing play in the diagnosis and subsequent clinical management of genital warts, considering its utility and limitations in routine clinical practice?",
+                        "goodAnswer": "HPV typing is not routinely needed for typical genital warts as management is based on lesion removal, but may be used in atypical presentations, for research, in cases of persistent infection, dysplasia, or immunocompromised patients to identify high-risk types and guide further management and screening strategies.",
+                        "wrongAnswer_1": "HPV typing is mandatory for all cases of suspected genital warts and is the primary determinant of treatment modality, prognosis, and risk stratification in every patient, guiding antiviral therapy and long-term follow-up protocols.",
+                        "wrongAnswer_2": "HPV typing is clinically irrelevant in genital wart management and is only performed for epidemiological studies, public health surveillance purposes, and tracking HPV prevalence in population-based surveys.",
+                        "wrongAnswer_3": "HPV typing is exclusively used to predict the risk of developing systemic autoimmune diseases and has no bearing on the management of genital warts themselves or the risk of HPV-related malignancies.",
+                        "wrongAnswer_4": "HPV typing is essential for determining the contagiousness of genital warts and for implementing mandatory quarantine measures and contact tracing protocols to prevent further spread of HPV infection within communities and healthcare settings."
+                    }
+                ]
+            }
+        ]
+    }
+}

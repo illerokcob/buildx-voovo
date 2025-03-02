@@ -1,30 +1,61 @@
+import os
 import threading
 from google import genai
 from google.genai import types
-from utils.file_loader import getFileParts
+from ai.openai_verifier import generateVerification
+from utils.analitics import evalReview
+from utils.file_loader import getFileParts, loadPdfs, saveJSON
 from ai.generate import generate
 from utils.file_loader import saveResult
 import time
 
-
 threadFinishedEvent = threading.Event()
 runningThreads = 0
-MAX_THREADS = 20
+MAX_THREADS = 100
 
-MIN_DELAY_MS = 6000 # Minimum waiting time between starting new requests
+MIN_DELAY_MS = 10 # Minimum waiting time between starting new threads
 delayEvent = threading.Event()
 delayEvent.set()
 
+ANALYTICS_PATH = os.environ.get("ANALYTICS_PATH")
+FIRST_ITER_OUTPUT_PATH = os.environ.get("FIRST_ITER_OUTPUT_PATH")
+
 def topicWorker(client, srcPath, resPath, topic):
-    global runningThreads
+    global runningThreads, ANALYTICS_PATH, FIRST_ITER_OUTPUT_PATH
     prefix = f"Main topic: '{topic}'"
 
-
+    analitics = dict()
     try:
+        print(f"{prefix} 0/3")
         parts = getFileParts(client, srcPath)
-        result = generate(client, parts)
+        result = generate(client, parts, "default_prompt.txt")
+        try:
+            if FIRST_ITER_OUTPUT_PATH:
+                saveResult(srcPath, os.path.join(FIRST_ITER_OUTPUT_PATH,f"{topic} - first iter.json"), result)
+        except:
+            ""
+        print(f"{prefix} 1/3")
         
-        # Update line by overwriting it
+        verificationParts = loadPdfs(client, srcPath)
+        verificationParts.append(types.Part.from_text(text=str(result)))
+        review = generate(client, verificationParts, "openai_verification_prompt.txt")
+        analitics["original"] = evalReview(review)
+        print(f"{prefix} 2/3")
+
+        parts.append(types.Part.from_text(text=str(result)))
+        parts.append(types.Part.from_text(text=str(review)))
+        result = generate(client, parts, "correction_prompt.txt")
+        
+        if ANALYTICS_PATH:
+            try:
+                verificationParts = loadPdfs(client, srcPath)
+                verificationParts.append(types.Part.from_text(text=str(result)))
+                review = generate(client, verificationParts, "openai_verification_prompt.txt")
+                analitics["revised"] = evalReview(review)
+                saveJSON(os.path.join(ANALYTICS_PATH,f"{topic} - stats.json"),analitics)
+            except:
+                print(f"{prefix} - ❌ Failed to make final review")
+        
         if saveResult(srcPath, resPath, result):
             print(f"{prefix} ✅")
         else:
@@ -33,7 +64,7 @@ def topicWorker(client, srcPath, resPath, topic):
     except Exception as e:
         print(f"{prefix} ❌❌❌")
         
-        if str(e).startswith("429"):
+        if str(e).startswith("429") or str(e).startswith("503"):
             print("Out of resource, waiting 30 seconds")
             time.sleep(30)
             addRequest(client, srcPath, resPath, topic)

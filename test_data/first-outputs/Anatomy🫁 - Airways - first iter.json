@@ -1,0 +1,230 @@
+{
+    "mainTopic": {
+        "title": "Airways",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The Nose and its Adjacent Structures",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the skeletal framework of the external nose?",
+                        "goodAnswer": "Formed superiorly by the nasal bones and inferiorly by the septal, lateral, and alar cartilages.",
+                        "wrongAnswer_1": "Exclusively composed of the ethmoid and vomer bones, providing rigid support and structure.",
+                        "wrongAnswer_2": "Consisting solely of hyaline cartilage, allowing for maximum flexibility and movement of the nasal tip.",
+                        "wrongAnswer_3": "Predominantly made up of the maxilla and mandible bones, with minimal cartilaginous components.",
+                        "wrongAnswer_4": "Characterized by a single, continuous bone extending from the frontal to the nasal septum, lacking cartilaginous elements."
+                    },
+                    {
+                        "question": "What is the primary function of the nasal conchae (turbinates) within the nasal cavity?",
+                        "goodAnswer": "To increase the surface area for warming and humidifying inhaled air and to create turbulent airflow for particle deposition onto the mucosa.",
+                        "wrongAnswer_1": "To directly filter large particulate matter from the inhaled air using specialized ciliated cells and mucous glands.",
+                        "wrongAnswer_2": "To produce olfactory signals that are transmitted to the brain via the olfactory nerve, enhancing the sense of smell.",
+                        "wrongAnswer_3": "To provide structural support to the nasal septum and prevent collapse of the nasal cavity during forceful inhalation.",
+                        "wrongAnswer_4": "To secrete antimicrobial substances that neutralize pathogens entering the nasal cavity, acting as the first line of immune defense."
+                    },
+                    {
+                        "question": "Which anatomical structures primarily contribute to the formation of the nasal septum?",
+                        "goodAnswer": "The perpendicular plate of the ethmoid bone, the vomer bone, and the septal cartilage.",
+                        "wrongAnswer_1": "The palatine process of the maxilla, the horizontal plate of the palatine bone, and the inferior nasal concha.",
+                        "wrongAnswer_2": "The frontal process of the maxilla, the nasal spine of the frontal bone, and the middle nasal concha.",
+                        "wrongAnswer_3": "The cribriform plate of the ethmoid bone, the sphenoid bone, and the superior nasal concha.",
+                        "wrongAnswer_4": "The zygomatic bone, the lacrimal bone, and the alar cartilage, creating a rigid and protective barrier."
+                    },
+                    {
+                        "question": "Into which meatus does the nasolacrimal duct primarily drain?",
+                        "goodAnswer": "Inferior nasal meatus, located inferior to the inferior nasal concha.",
+                        "wrongAnswer_1": "Superior nasal meatus, positioned superior to the superior nasal concha and near the olfactory region.",
+                        "wrongAnswer_2": "Middle nasal meatus, situated between the superior and inferior nasal conchae and receiving drainage from most sinuses.",
+                        "wrongAnswer_3": "Sphenoethmoidal recess, located posterosuperior to the superior concha and receiving drainage from the sphenoid sinus.",
+                        "wrongAnswer_4": "Ethmoidal bulla, a rounded elevation in the middle meatus associated with the middle ethmoidal air cells."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "What are the anatomical boundaries that define the nasopharynx?",
+                        "goodAnswer": "Extends from the posterior nasal apertures (choanae) to the soft palate, superior to the oropharynx.",
+                        "wrongAnswer_1": "Located inferior to the oropharynx, extending from the hyoid bone to the larynx and esophagus.",
+                        "wrongAnswer_2": "Spanning from the hard palate to the epiglottis, situated between the oral cavity and the larynx.",
+                        "wrongAnswer_3": "Positioned anterior to the nasal cavity and superior to the oral cavity, leading directly into the trachea.",
+                        "wrongAnswer_4": "Defined by the cricoid cartilage inferiorly and the basilar part of the occipital bone superiorly, housing the palatine tonsils."
+                    },
+                    {
+                        "question": "Which of the following structures is typically found within the oropharynx?",
+                        "goodAnswer": "Palatine tonsils, located between the palatoglossal and palatopharyngeal arches.",
+                        "wrongAnswer_1": "Pharyngeal tonsil (adenoids), situated on the posterior wall of the nasopharynx.",
+                        "wrongAnswer_2": "Laryngeal inlet (aditus laryngis), the opening from the pharynx into the larynx.",
+                        "wrongAnswer_3": "Auditory tube (Eustachian tube) opening, connecting the nasopharynx to the middle ear.",
+                        "wrongAnswer_4": "Vocal cords, responsible for phonation and located within the larynx inferior to the pharynx."
+                    },
+                    {
+                        "question": "Describe the anatomical location of the laryngopharynx (hypopharynx).",
+                        "goodAnswer": "Extends from the superior border of the epiglottis to the inferior border of the cricoid cartilage, continuous with the esophagus.",
+                        "wrongAnswer_1": "Located superior to the nasopharynx, extending from the nasal cavity to the soft palate and uvula.",
+                        "wrongAnswer_2": "Positioned between the hard and soft palates, directly posterior to the oral cavity and anterior to the larynx.",
+                        "wrongAnswer_3": "Spanning from the cricoid cartilage to the tracheal bifurcation, leading directly into the main bronchi.",
+                        "wrongAnswer_4": "Situated anterior to the cervical vertebrae and posterior to the nasal and oral cavities, superior to the trachea."
+                    },
+                    {
+                        "question": "Which muscle is primarily responsible for elevating the pharynx and larynx during swallowing and speech?",
+                        "goodAnswer": "Stylopharyngeus muscle, innervated by the glossopharyngeal nerve (CN IX).",
+                        "wrongAnswer_1": "Palatopharyngeus muscle, innervated by the vagus nerve (CN X) and contributing to palatal elevation.",
+                        "wrongAnswer_2": "Salpingopharyngeus muscle, also innervated by the vagus nerve (CN X) and involved in auditory tube function.",
+                        "wrongAnswer_3": "Constrictor muscles of the pharynx (superior, middle, inferior), innervated by the vagus nerve (CN X) and responsible for peristalsis.",
+                        "wrongAnswer_4": "Genioglossus muscle, primarily involved in tongue protrusion and innervated by the hypoglossal nerve (CN XII)."
+                    }
+                ]
+            },
+            {
+                "title": "Larynx",
+                "quizzes": [
+                    {
+                        "question": "Which cartilage forms theAdam's apple' and the anterior and lateral walls of the larynx?",
+                        "goodAnswer": "Thyroid cartilage, the largest cartilage of the larynx, consisting of two laminae that fuse anteriorly.",
+                        "wrongAnswer_1": "Cricoid cartilage, a ring-shaped cartilage located inferior to the thyroid cartilage and superior to the trachea.",
+                        "wrongAnswer_2": "Epiglottis, a leaf-shaped cartilage that projects superiorly to cover the laryngeal inlet during swallowing.",
+                        "wrongAnswer_3": "Arytenoid cartilages, paired, pyramid-shaped cartilages that articulate with the superior border of the cricoid cartilage.",
+                        "wrongAnswer_4": "Corniculate cartilages, small, conical cartilages that articulate with the apices of the arytenoid cartilages."
+                    },
+                    {
+                        "question": "What is the primary function of the epiglottis during swallowing?",
+                        "goodAnswer": "To prevent food and liquid from entering the larynx and trachea by covering the laryngeal inlet.",
+                        "wrongAnswer_1": "To vibrate and produce sound when air passes over it during exhalation, contributing to voice production.",
+                        "wrongAnswer_2": "To regulate the tension of the vocal cords, thereby controlling the pitch of the voice during speech.",
+                        "wrongAnswer_3": "To filter inhaled air and trap particulate matter before it reaches the lower respiratory tract.",
+                        "wrongAnswer_4": "To facilitate gas exchange by increasing the surface area within the larynx for oxygen absorption."
+                    },
+                    {
+                        "question": "Which pair of laryngeal cartilages is crucial for vocal cord movement and voice production through their articulation with the cricoid cartilage?",
+                        "goodAnswer": "Arytenoid cartilages, which move to abduct and adduct the vocal folds.",
+                        "wrongAnswer_1": "Corniculate cartilages, which primarily provide structural support to the arytenoid cartilages.",
+                        "wrongAnswer_2": "Cuneiform cartilages, small, rod-shaped cartilages located within the aryepiglottic folds.",
+                        "wrongAnswer_3": "Thyroid cartilage and cricoid cartilage, which form the main framework but do not directly control vocal cord movement.",
+                        "wrongAnswer_4": "Epiglottis and hyoid bone, which are involved in airway protection but not in fine vocal cord adjustments."
+                    },
+                    {
+                        "question": "Which intrinsic laryngeal muscle is primarily responsible for vocal cord abduction, thus opening the rima glottidis?",
+                        "goodAnswer": "Posterior cricoarytenoid muscle, the only abductor muscle of the larynx, innervated by the recurrent laryngeal nerve.",
+                        "wrongAnswer_1": "Lateral cricoarytenoid muscle, which adducts the vocal cords, narrowing the rima glottidis and aiding in phonation.",
+                        "wrongAnswer_2": "Transverse arytenoid muscle, which adducts the arytenoid cartilages, closing the posterior rima glottidis.",
+                        "wrongAnswer_3": "Thyroarytenoid muscle, which relaxes the vocal cords and shortens them, lowering vocal pitch.",
+                        "wrongAnswer_4": "Cricothyroid muscle, which tenses and lengthens the vocal cords, increasing vocal pitch and innervated by the external laryngeal nerve."
+                    }
+                ]
+            },
+            {
+                "title": "Trachea",
+                "quizzes": [
+                    {
+                        "question": "What is the characteristic histological feature of the trachea's mucosa?",
+                        "goodAnswer": "Pseudostratified ciliated columnar epithelium with numerous goblet cells, resting on a lamina propria rich in elastic fibers.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, designed for protection against abrasion and found in areas subject to friction.",
+                        "wrongAnswer_2": "Simple squamous epithelium, optimized for rapid diffusion and typically found in alveolar walls and blood vessels.",
+                        "wrongAnswer_3": "Transitional epithelium, capable of stretching and found lining the urinary bladder and ureters.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium, involved in secretion and absorption, found in kidney tubules and glands."
+                    },
+                    {
+                        "question": "What is the function of the C-shaped cartilaginous rings in the tracheal wall?",
+                        "goodAnswer": "To prevent tracheal collapse during inspiration while allowing flexibility for esophageal expansion during swallowing.",
+                        "wrongAnswer_1": "To provide rigid support for the trachea and maintain a perfectly circular lumen at all times, preventing any deformation.",
+                        "wrongAnswer_2": "To facilitate peristaltic movements within the trachea to aid in the upward movement of mucus and trapped particles.",
+                        "wrongAnswer_3": "To house and protect the major blood vessels and nerves that supply the trachea and surrounding structures.",
+                        "wrongAnswer_4": "To produce and secrete lubricating fluids that reduce friction between the trachea and adjacent organs during body movements."
+                    },
+                    {
+                        "question": "What type of muscle is the trachealis muscle, and where is it located?",
+                        "goodAnswer": "Smooth muscle, located posteriorly between the open ends of the C-shaped tracheal cartilages.",
+                        "wrongAnswer_1": "Skeletal muscle, located anteriorly, providing voluntary control over tracheal diameter during forced breathing.",
+                        "wrongAnswer_2": "Cardiac muscle, forming the complete ring around the trachea to ensure rhythmic contractions for airflow regulation.",
+                        "wrongAnswer_3": "Striated muscle, located laterally, assisting in lateral movements of the trachea during head and neck rotation.",
+                        "wrongAnswer_4": "Elastic muscle, forming the inner layer of the trachea, providing recoil during exhalation and preventing over-expansion during inhalation."
+                    },
+                    {
+                        "question": "At approximately what vertebral level does the trachea typically bifurcate into the main bronchi (carina)?",
+                        "goodAnswer": "At the level of the sternal angle, approximately at the T4-T5 vertebral level.",
+                        "wrongAnswer_1": "At the level of the cricoid cartilage, approximately at the C6 vertebral level in the neck.",
+                        "wrongAnswer_2": "At the level of the xiphoid process, approximately at the T9-T10 vertebral level in the lower thorax.",
+                        "wrongAnswer_3": "At the level of the clavicles, approximately at the T1-T2 vertebral level in the upper thorax.",
+                        "wrongAnswer_4": "At the level of the diaphragm, approximately at the L1-L2 vertebral level in the lumbar region."
+                    }
+                ]
+            },
+            {
+                "title": "Bronchial tree",
+                "quizzes": [
+                    {
+                        "question": "What is the correct order of airflow through the conducting zone of the bronchial tree, starting from the primary bronchi?",
+                        "goodAnswer": "Primary bronchi -> secondary bronchi -> tertiary bronchi -> bronchioles -> terminal bronchioles.",
+                        "wrongAnswer_1": "Trachea -> primary bronchi -> bronchioles -> secondary bronchi -> tertiary bronchi -> terminal bronchioles.",
+                        "wrongAnswer_2": "Primary bronchi -> tertiary bronchi -> secondary bronchi -> bronchioles -> terminal bronchioles.",
+                        "wrongAnswer_3": "Terminal bronchioles -> bronchioles -> tertiary bronchi -> secondary bronchi -> primary bronchi.",
+                        "wrongAnswer_4": "Secondary bronchi -> primary bronchi -> tertiary bronchi -> bronchioles -> terminal bronchioles."
+                    },
+                    {
+                        "question": "How does the histological structure of bronchioles differ from that of larger bronchi?",
+                        "goodAnswer": "Bronchioles lack cartilaginous support in their walls and have a proportionally thicker layer of smooth muscle compared to bronchi.",
+                        "wrongAnswer_1": "Bronchioles contain prominent hyaline cartilage plates in their walls, similar to the C-shaped rings of the trachea and bronchi.",
+                        "wrongAnswer_2": "Bronchioles are lined with stratified squamous epithelium to withstand higher airflow velocities and turbulence.",
+                        "wrongAnswer_3": "Bronchioles have a significantly reduced amount of smooth muscle in their walls, making them less responsive to bronchoconstriction and bronchodilation.",
+                        "wrongAnswer_4": "Bronchioles are primarily composed of dense connective tissue, providing rigid structure and minimal elasticity for airflow regulation."
+                    },
+                    {
+                        "question": "What is the functional significance of the increased smooth muscle content in the walls of bronchioles?",
+                        "goodAnswer": "Allows for regulation of airflow through bronchoconstriction and bronchodilation in response to physiological stimuli.",
+                        "wrongAnswer_1": "Provides structural support to prevent collapse of the bronchioles during forceful inhalation, similar to tracheal cartilages.",
+                        "wrongAnswer_2": "Facilitates gas exchange by increasing the surface area for diffusion of oxygen and carbon dioxide across the bronchiole walls.",
+                        "wrongAnswer_3": "Aids in the secretion of mucus within the bronchioles to trap particulate matter and facilitate mucociliary clearance.",
+                        "wrongAnswer_4": "Generates peristaltic waves within the bronchioles to propel air towards the alveoli and enhance ventilation efficiency."
+                    },
+                    {
+                        "question": "How many secondary (lobar) bronchi are typically found in each lung, and to which lobes do they correspond?",
+                        "goodAnswer": "Three in the right lung (superior, middle, inferior) and two in the left lung (superior, inferior), corresponding to the lung lobes.",
+                        "wrongAnswer_1": "Two in each lung (superior and inferior), with the right lung lacking a middle lobar bronchus.",
+                        "wrongAnswer_2": "Five in each lung, corresponding to the five lobes traditionally described in lung anatomy (three right, two left).",
+                        "wrongAnswer_3": "Four in the right lung and three in the left lung, reflecting a more complex lobar division in the right lung.",
+                        "wrongAnswer_4": "One main secondary bronchus in each lung, which further subdivides into tertiary bronchi and smaller airways within each lung."
+                    }
+                ]
+            },
+            {
+                "title": "Respiratory zone",
+                "quizzes": [
+                    {
+                        "question": "What are the primary structural components of the respiratory zone in the lungs?",
+                        "goodAnswer": "Respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli.",
+                        "wrongAnswer_1": "Terminal bronchioles, respiratory bronchioles, and bronchioles, exclusively involved in air conduction.",
+                        "wrongAnswer_2": "Trachea, primary bronchi, secondary bronchi, and tertiary bronchi, forming the conducting pathway only.",
+                        "wrongAnswer_3": "Bronchioles, alveolar ducts, and alveoli, lacking the initial respiratory bronchioles in the sequence.",
+                        "wrongAnswer_4": "Alveolar sacs, alveoli, and terminal bronchioles, omitting the alveolar ducts as a distinct component."
+                    },
+                    {
+                        "question": "What is the defining histological feature of respiratory bronchioles that distinguishes them from terminal bronchioles?",
+                        "goodAnswer": "Presence of alveoli budding from their walls, indicating the start of gas exchange.",
+                        "wrongAnswer_1": "Lining of stratified squamous epithelium, adapted for protection in the initial gas exchange region.",
+                        "wrongAnswer_2": "Complete absence of smooth muscle in their walls, maximizing gas diffusion efficiency.",
+                        "wrongAnswer_3": "Presence of prominent cartilaginous rings, maintaining airway patency in the gas exchange zone.",
+                        "wrongAnswer_4": "Lining of pseudostratified ciliated columnar epithelium with abundant goblet cells, similar to larger airways."
+                    },
+                    {
+                        "question": "Which type of alveolar cell is primarily responsible for gas exchange in the alveoli?",
+                        "goodAnswer": "Type I alveolar cells (pneumocytes), forming the thin squamous epithelium of the alveolar walls.",
+                        "wrongAnswer_1": "Type II alveolar cells (septal cells), which secrete surfactant to reduce alveolar surface tension.",
+                        "wrongAnswer_2": "Alveolar macrophages (dust cells), which phagocytose particulate matter and pathogens within the alveoli.",
+                        "wrongAnswer_3": "Club cells (Clara cells), found in terminal bronchioles and involved in detoxification and surfactant component secretion.",
+                        "wrongAnswer_4": "Goblet cells, which produce mucus to trap inhaled particles in the respiratory zone for clearance."
+                    },
+                    {
+                        "question": "What are the components of the air-blood barrier (respiratory membrane) in the alveoli, through which gas exchange occurs?",
+                        "goodAnswer": "Alveolar type I cell cytoplasm, fused basement membranes of alveolar and capillary walls, and capillary endothelial cell cytoplasm.",
+                        "wrongAnswer_1": "Alveolar type II cell cytoplasm, surfactant layer, and interstitial fluid separating alveoli and capillaries.",
+                        "wrongAnswer_2": "Alveolar macrophage cytoplasm, basement membrane of alveolar wall, and smooth muscle layer of alveolar wall.",
+                        "wrongAnswer_3": "Ciliated columnar epithelium of alveoli, thick basement membrane, and endothelial cells of lymphatic vessels.",
+                        "wrongAnswer_4": "Stratified squamous epithelium of alveoli, collagen layer of alveolar wall, and smooth muscle cells of capillaries."
+                    }
+                ]
+            }
+        ]
+    }
+}

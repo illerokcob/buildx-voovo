@@ -1,0 +1,206 @@
+{
+    "mainTopic": {
+        "title": "The complement system",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Function and molecules of the complement system",
+                "quizzes": [
+                    {
+                        "question": "What is the primary role of the complement system in the immune response?",
+                        "goodAnswer": "To enhance phagocytosis, directly lyse pathogens, and promote inflammation as part of innate and adaptive immunity.",
+                        "wrongAnswer_1": "To solely produce antibodies for pathogen neutralization and to activate cytotoxic T cells for targeted killing.",
+                        "wrongAnswer_2": "To primarily regulate body temperature during infection and to transport immune cells to sites of tissue damage.",
+                        "wrongAnswer_3": "To function exclusively in adaptive immunity by generating immunological memory and producing cytokines for communication.",
+                        "wrongAnswer_4": "To break down toxins in the liver, stimulate bone marrow to produce platelets, and initiate the blood clotting cascade."
+                    },
+                    {
+                        "question": "Which of the following is NOT a major function generally attributed to the complement system?",
+                        "goodAnswer": "Antigen presentation to T helper cells for the initiation of adaptive immune responses.",
+                        "wrongAnswer_1": "Opsonization of pathogens to enhance their phagocytosis by macrophages and neutrophils.",
+                        "wrongAnswer_2": "Direct lysis of bacteria, viruses, and other pathogens through the formation of the Membrane Attack Complex (MAC).",
+                        "wrongAnswer_3": "Chemotaxis of immune cells to the site of infection and inflammation through anaphylatoxins like C5a and C3a.",
+                        "wrongAnswer_4": "Amplification of the inflammatory response by releasing inflammatory mediators and increasing vascular permeability."
+                    },
+                    {
+                        "question": "Identify the key molecular components that are crucial for the activation and effector functions of the complement system.",
+                        "goodAnswer": "A cascade of plasma proteins, many of which are zymogens, activated sequentially through proteolytic cleavage, leading to opsonization, inflammation, and lysis.",
+                        "wrongAnswer_1": "Primarily cellular components such as macrophages and dendritic cells that release cytokines to stimulate complement activation and antibody production.",
+                        "wrongAnswer_2": "Exclusively lipid-based molecules embedded in cell membranes that trigger complement activation upon pathogen recognition and signal transduction.",
+                        "wrongAnswer_3": "Mainly nucleic acid structures like DNA and RNA released by damaged cells that directly activate complement and induce interferon responses.",
+                        "wrongAnswer_4": "Predominantly carbohydrate polymers on the surface of epithelial cells that interact with complement proteins to maintain tissue homeostasis and prevent infection."
+                    }
+                ]
+            },
+            {
+                "title": "Complement pathways - classical pathway",
+                "quizzes": [
+                    {
+                        "question": "What is the primary initiating event for the classical pathway of complement activation?",
+                        "goodAnswer": "Binding of C1q, a subunit of the C1 complex, to the Fc region of IgG or IgM antibodies that are bound to antigen on a pathogen surface.",
+                        "wrongAnswer_1": "Direct recognition of pathogen-associated molecular patterns (PAMPs) on microbial surfaces by C3b, leading to spontaneous activation.",
+                        "wrongAnswer_2": "Interaction of mannose-binding lectin (MBL) with mannose residues on bacterial cell walls, initiating a lectin-dependent cascade.",
+                        "wrongAnswer_3": "Cleavage of C3 by factor D and factor B in the presence of properdin, independent of antibody or lectin recognition.",
+                        "wrongAnswer_4": "Activation of C5 convertase by C4b2a directly upon encountering viral nucleic acids in the extracellular environment."
+                    },
+                    {
+                        "question": "Which sequence accurately represents the activation steps in the classical complement pathway following the recognition of an antibody-antigen complex?",
+                        "goodAnswer": "C1qrs activation -> C4 cleavage -> C2 cleavage -> C3 convertase (C4b2a formation) -> C3 cleavage -> C5 convertase (C4b2a3b formation)",
+                        "wrongAnswer_1": "C3 activation -> C4 cleavage -> C2 cleavage -> C1qrs activation -> C3 convertase (C3bBb formation) -> C5 convertase (C3bBbC3b formation)",
+                        "wrongAnswer_2": "Mannose-binding lectin (MBL) binding -> MASP activation -> C4 cleavage -> C2 cleavage -> C3 convertase (C4b2a formation) -> C5 convertase (C4b2a3b formation)",
+                        "wrongAnswer_3": "Factor B binding to C3b -> Factor D cleavage of Factor B -> Properdin stabilization -> C3 convertase (C3bBbP formation) -> C5 convertase (C3bBbPC3b formation)",
+                        "wrongAnswer_4": "C1q binding to CRP -> C2 cleavage -> C4 cleavage -> C3 convertase (C2a4b formation) -> C3 cleavage -> C5 convertase (C2a4b3b formation)"
+                    },
+                    {
+                        "question": "What is the role of C1q, C1r, and C1s in the classical complement pathway?",
+                        "goodAnswer": "C1q recognizes the Fc region of antibodies, and upon binding, activates C1r and C1s, which are serine proteases that cleave C4 and C2.",
+                        "wrongAnswer_1": "C1q, C1r, and C1s are involved in the formation of the Membrane Attack Complex (MAC) by polymerizing C9 molecules to create pores in the cell membrane.",
+                        "wrongAnswer_2": "C1q, C1r, and C1s act as opsonins, coating pathogens to enhance phagocytosis by binding to complement receptors on immune cells.",
+                        "wrongAnswer_3": "C1q, C1r, and C1s are anaphylatoxins that stimulate mast cell degranulation and increase vascular permeability, promoting inflammation.",
+                        "wrongAnswer_4": "C1q, C1r, and C1s are regulatory proteins that inhibit the classical pathway to prevent excessive complement activation and autoimmunity."
+                    }
+                ]
+            },
+            {
+                "title": "Complement pathways - lectin pathway",
+                "quizzes": [
+                    {
+                        "question": "How does the lectin pathway of complement activation initiate the immune response?",
+                        "goodAnswer": "By mannose-binding lectin (MBL) or ficolins recognizing and binding to carbohydrate patterns, such as mannose, on pathogen surfaces.",
+                        "wrongAnswer_1": "Through direct interaction of C3b with pathogen surfaces, leading to spontaneous activation and amplification via the alternative pathway.",
+                        "wrongAnswer_2": "Via the binding of C1q to the Fc region of antibodies bound to antigens on the surface of pathogens, similar to the classical pathway.",
+                        "wrongAnswer_3": "By activation of Factor D and Factor B upon recognition of altered self-surfaces, initiating a cascade independent of recognition molecules.",
+                        "wrongAnswer_4": "Through Toll-like receptors (TLRs) on immune cells recognizing PAMPs and triggering the release of cytokines that activate complement components."
+                    },
+                    {
+                        "question": "What are the key protein components and their roles in the lectin pathway of complement activation?",
+                        "goodAnswer": "Mannose-binding lectin (MBL) or ficolins recognize carbohydrates, and associated serine proteases (MASPs) cleave C4 and C2.",
+                        "wrongAnswer_1": "Factor B and Factor D are crucial components, with Factor B binding to C3b and Factor D cleaving Factor B to form the C3 convertase.",
+                        "wrongAnswer_2": "C1q, C1r, and C1s are the initial components, with C1q recognizing antibodies and C1r and C1s cleaving C4 and C2.",
+                        "wrongAnswer_3": "Properdin stabilizes the C3 convertase of the alternative pathway, and Factor H and Factor I regulate the pathway to prevent overactivation.",
+                        "wrongAnswer_4": "C5b, C6, C7, C8, and C9 are the components that assemble to form the Membrane Attack Complex (MAC) for direct pathogen lysis."
+                    },
+                    {
+                        "question": "Which of the following correctly describes the sequence of activation in the lectin pathway leading to C3 convertase formation?",
+                        "goodAnswer": "MBL/Ficolin binding to pathogen -> MASP activation -> C4 cleavage by MASP-2 -> C2 cleavage by MASP-2 -> Formation of C4b2a (C3 convertase)",
+                        "wrongAnswer_1": "C1q binding to pathogen -> C1r and C1s activation -> C4 cleavage by C1s -> C2 cleavage by C1r -> Formation of C4b2a (C3 convertase)",
+                        "wrongAnswer_2": "C3b deposition on pathogen -> Factor B binding to C3b -> Factor D cleavage of Factor B -> Formation of C3bBb (C3 convertase)",
+                        "wrongAnswer_3": "C5 activation by C5 convertase -> C6, C7, C8, C9 sequential binding -> Membrane Attack Complex (MAC) formation -> Cell lysis",
+                        "wrongAnswer_4": "Properdin binding to pathogen -> Factor H and Factor I recruitment -> C3b inactivation -> Termination of complement activation cascade."
+                    }
+                ]
+            },
+            {
+                "title": "Complement pathways - alternative pathway",
+                "quizzes": [
+                    {
+                        "question": "What is the key initiating event in the alternative pathway of complement activation?",
+                        "goodAnswer": "Spontaneous hydrolysis of C3 in plasma to form C3(H2O), which then binds Factor B and is cleaved by Factor D to initiate the pathway.",
+                        "wrongAnswer_1": "Binding of C1q to the Fc region of antibodies bound to antigens on pathogen surfaces, similar to the classical pathway initiation.",
+                        "wrongAnswer_2": "Recognition of mannose residues on pathogen surfaces by mannose-binding lectin (MBL), initiating the lectin-dependent pathway.",
+                        "wrongAnswer_3": "Activation of C5 convertase by C4b2a upon encountering viral nucleic acids in the extracellular environment.",
+                        "wrongAnswer_4": "Direct activation of C4 and C2 by pathogen-associated molecular patterns (PAMPs) without the need for initial C3 activation."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the role of Factor B and Factor D in the alternative complement pathway?",
+                        "goodAnswer": "Factor B binds to C3b, and Factor D cleaves Factor B to generate the active C3 convertase, C3bBb.",
+                        "wrongAnswer_1": "Factor B initiates the classical pathway by binding to C1q, while Factor D stabilizes the C3 convertase of the lectin pathway.",
+                        "wrongAnswer_2": "Factor B and Factor D are regulatory proteins that inhibit complement activation by degrading C3b and C4b.",
+                        "wrongAnswer_3": "Factor B and Factor D are components of the Membrane Attack Complex (MAC) and are essential for pore formation in target cell membranes.",
+                        "wrongAnswer_4": "Factor B acts as an anaphylatoxin to promote inflammation, and Factor D opsonizes pathogens to enhance phagocytosis."
+                    },
+                    {
+                        "question": "What is the function of Properdin (Factor P) in the alternative complement pathway?",
+                        "goodAnswer": "Properdin stabilizes the C3 convertase (C3bBb) on pathogen surfaces, prolonging its half-life and enhancing complement activation.",
+                        "wrongAnswer_1": "Properdin initiates the classical pathway by binding to C1q and activating C1r and C1s serine proteases.",
+                        "wrongAnswer_2": "Properdin acts as a regulator by inhibiting the formation of the C3 convertase and preventing excessive complement activation.",
+                        "wrongAnswer_3": "Properdin is a component of the Membrane Attack Complex (MAC) and is required for the final steps of cell lysis.",
+                        "wrongAnswer_4": "Properdin opsonizes pathogens by directly binding to microbial surfaces and marking them for phagocytosis."
+                    },
+                    {
+                        "question": "How is the alternative pathway C3 convertase (C3bBb) formed and stabilized?",
+                        "goodAnswer": "Spontaneous C3 hydrolysis or initial C3b deposition -> Factor B binding to C3b -> Factor D cleavage of Factor B -> Formation of C3bBb -> Properdin stabilization of C3bBb.",
+                        "wrongAnswer_1": "C1q binding to antibody-antigen complex -> C1r and C1s activation -> C4 and C2 cleavage -> Formation of C4b2a -> C3b binding to C4b2a to form C5 convertase.",
+                        "wrongAnswer_2": "MBL binding to mannose -> MASP activation -> C4 and C2 cleavage -> Formation of C4b2a -> Factor B and Factor D recruitment to stabilize C4b2a.",
+                        "wrongAnswer_3": "C5 convertase activation -> C5b generation -> Sequential binding of C6, C7, C8, C9 -> Membrane Attack Complex (MAC) formation -> Cell lysis.",
+                        "wrongAnswer_4": "Factor H and Factor I binding to C3b -> C3b inactivation -> Termination of alternative pathway activation -> Prevention of C3 convertase formation."
+                    }
+                ]
+            },
+            {
+                "title": "Killing mechanism of the complement system",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which the complement system directly kills pathogens?",
+                        "goodAnswer": "Formation of the Membrane Attack Complex (MAC), which creates pores in the pathogen's cell membrane, leading to osmotic lysis.",
+                        "wrongAnswer_1": "Neutralization of pathogen toxins by directly binding to and inactivating them, preventing them from interacting with host cells.",
+                        "wrongAnswer_2": "Induction of apoptosis in infected host cells, thereby eliminating the cellular reservoirs of pathogens within the body.",
+                        "wrongAnswer_3": "Stimulation of antibody production by B cells to target and neutralize pathogens in the extracellular environment.",
+                        "wrongAnswer_4": "Activation of cytotoxic T lymphocytes (CTLs) to directly kill pathogen-infected cells through perforin and granzyme release."
+                    },
+                    {
+                        "question": "Which sequence accurately represents the assembly of the Membrane Attack Complex (MAC)?",
+                        "goodAnswer": "C5b -> C6 -> C7 -> C8 -> C9 polymerization and insertion into the cell membrane.",
+                        "wrongAnswer_1": "C3b -> Factor B -> Factor D -> Properdin -> MAC formation.",
+                        "wrongAnswer_2": "C1q -> C1r -> C1s -> C4 -> C2 -> MAC formation.",
+                        "wrongAnswer_3": "MBL -> MASP -> C4 -> C2 -> MAC formation.",
+                        "wrongAnswer_4": "C3a -> C5a -> C5b -> MAC formation."
+                    },
+                    {
+                        "question": "What is the role of C5b in the formation of the Membrane Attack Complex (MAC)?",
+                        "goodAnswer": "C5b initiates MAC assembly by binding sequentially to C6, C7, C8, and C9, creating a complex that inserts into the cell membrane.",
+                        "wrongAnswer_1": "C5b acts as an opsonin, coating pathogens and enhancing phagocytosis by macrophages and neutrophils.",
+                        "wrongAnswer_2": "C5b is an anaphylatoxin that promotes inflammation by stimulating mast cell degranulation and increasing vascular permeability.",
+                        "wrongAnswer_3": "C5b is a regulatory protein that inhibits the formation of the C3 convertase and prevents excessive complement activation.",
+                        "wrongAnswer_4": "C5b directly activates cytotoxic T lymphocytes (CTLs) to kill pathogen-infected cells."
+                    },
+                    {
+                        "question": "How does the Membrane Attack Complex (MAC) cause cell lysis?",
+                        "goodAnswer": "By forming a transmembrane pore in the target cell membrane, disrupting osmotic balance and leading to cell swelling and lysis.",
+                        "wrongAnswer_1": "By directly degrading the pathogen's DNA and RNA, preventing replication and leading to cell death.",
+                        "wrongAnswer_2": "By inducing apoptosis in the target cell through the activation of intracellular caspase pathways.",
+                        "wrongAnswer_3": "By neutralizing pathogen toxins and preventing them from binding to and damaging host cells.",
+                        "wrongAnswer_4": "By coating the pathogen surface with complement proteins, marking it for phagocytosis and subsequent intracellular degradation."
+                    }
+                ]
+            },
+            {
+                "title": "Complement deficiencies",
+                "quizzes": [
+                    {
+                        "question": "Deficiency in early components of the classical pathway, such as C1q, C4, and C2, is most strongly associated with which type of clinical manifestation?",
+                        "goodAnswer": "Increased susceptibility to systemic lupus erythematosus (SLE) and other autoimmune diseases due to impaired clearance of immune complexes and apoptotic debris.",
+                        "wrongAnswer_1": "Severe combined immunodeficiency (SCID) characterized by a profound defect in both T cell and B cell function, leading to opportunistic infections.",
+                        "wrongAnswer_2": "Predominantly recurrent pyogenic bacterial infections due to impaired opsonization and phagocytosis of encapsulated bacteria.",
+                        "wrongAnswer_3": "Selective IgA deficiency, the most common primary immunodeficiency, leading to mucosal infections and allergies.",
+                        "wrongAnswer_4": "Chronic granulomatous disease (CGD), characterized by defective NADPH oxidase activity in phagocytes, resulting in recurrent bacterial and fungal infections."
+                    },
+                    {
+                        "question": "Individuals with deficiencies in the Membrane Attack Complex (MAC) components (C5-C9) are particularly susceptible to infections by which type of pathogen?",
+                        "goodAnswer": "Neisseria species (e.g., Neisseria meningitidis and Neisseria gonorrhoeae) due to impaired direct lysis of these bacteria.",
+                        "wrongAnswer_1": "Encapsulated bacteria such as Streptococcus pneumoniae and Haemophilus influenzae because of defective opsonization.",
+                        "wrongAnswer_2": "Intracellular bacteria like Mycobacterium tuberculosis and Listeria monocytogenes due to impaired cell-mediated immunity.",
+                        "wrongAnswer_3": "Fungal pathogens such as Candida albicans and Aspergillus fumigatus due to impaired neutrophil function.",
+                        "wrongAnswer_4": "Viral pathogens, particularly herpesviruses, due to defects in interferon production and natural killer cell activity."
+                    },
+                    {
+                        "question": "Deficiencies in complement regulatory proteins, such as Factor H, Factor I, and DAF (CD55), can lead to which type of condition?",
+                        "goodAnswer": "Atypical hemolytic uremic syndrome (aHUS) and paroxysmal nocturnal hemoglobinuria (PNH) due to uncontrolled complement activation on host cells.",
+                        "wrongAnswer_1": "X-linked agammaglobulinemia (XLA), characterized by a defect in B cell development and absence of immunoglobulins.",
+                        "wrongAnswer_2": "DiGeorge syndrome, a T cell deficiency caused by thymic aplasia or hypoplasia, leading to various infections and autoimmune issues.",
+                        "wrongAnswer_3": "Wiskott-Aldrich syndrome (WAS), characterized by eczema, thrombocytopenia, and immunodeficiency affecting both humoral and cellular immunity.",
+                        "wrongAnswer_4": "Common variable immunodeficiency (CVID), a heterogeneous group of disorders with impaired antibody production and increased infection risk."
+                    },
+                    {
+                        "question": "Which complement deficiency is most likely to present with recurrent infections by encapsulated bacteria due to impaired opsonization?",
+                        "goodAnswer": "C3 deficiency, as C3b is a central opsonin derived from all complement pathways.",
+                        "wrongAnswer_1": "C9 deficiency, as C9 is primarily involved in the lytic phase via MAC formation against Neisseria.",
+                        "wrongAnswer_2": "C1q deficiency, as C1q deficiency is more strongly associated with autoimmune diseases.",
+                        "wrongAnswer_3": "Factor D deficiency, as Factor D is specific to the alternative pathway, not the central opsonization pathways.",
+                        "wrongAnswer_4": "MASP-2 deficiency, as MASP-2 is specific to the lectin pathway initiation, not central opsonization."
+                    }
+                ]
+            }
+        ]
+    }
+}

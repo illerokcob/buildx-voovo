@@ -1,0 +1,190 @@
+{
+    "mainTopic": {
+        "title": "Endometriosis",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General characteristics",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the cellular composition of endometriotic lesions?",
+                        "goodAnswer": "Endometriotic lesions are characterized by the presence of endometrial glands and stroma outside the uterine cavity, which are responsive to hormonal fluctuations.",
+                        "wrongAnswer_1": "Endometriotic lesions are composed of smooth muscle cells and fibroblasts, forming tumor-like masses that are insensitive to hormonal changes.",
+                        "wrongAnswer_2": "Endometriotic lesions consist of solely endometrial stromal cells without glandular components, leading to a non-cyclic bleeding pattern.",
+                        "wrongAnswer_3": "Endometriotic lesions are primarily made up of adipose tissue and nerve fibers, causing pain through direct nerve compression and inflammation.",
+                        "wrongAnswer_4": "Endometriotic lesions are defined by the exclusive presence of endometrial glands without the supporting stroma, resulting in a constant state of proliferation."
+                    },
+                    {
+                        "question": "What is the most widely accepted definition of endometriosis concerning its anatomical location?",
+                        "goodAnswer": "Endometriosis is defined as the presence of endometrial-like tissue outside the uterus, commonly found in the pelvic cavity, ovaries, and peritoneum, but can also occur in distant locations.",
+                        "wrongAnswer_1": "Endometriosis strictly refers to the presence of endometrial tissue within the myometrium, leading to uterine enlargement and altered contractile function.",
+                        "wrongAnswer_2": "Endometriosis is characterized by the growth of endometrial tissue exclusively on the surface of the ovaries, forming cysts and disrupting ovarian function.",
+                        "wrongAnswer_3": "Endometriosis is limited to the uterine serosa and broad ligament, causing adhesions and pelvic pain but not affecting other organs.",
+                        "wrongAnswer_4": "Endometriosis is defined as endometrial tissue found only in the fallopian tubes, obstructing egg transport and causing ectopic pregnancies."
+                    },
+                    {
+                        "question": "Which demographic group is statistically most affected by endometriosis, considering age and reproductive status?",
+                        "goodAnswer": "Endometriosis primarily affects women of reproductive age, with the highest prevalence observed in women between 25 and 35 years old, although it can occur from adolescence to menopause.",
+                        "wrongAnswer_1": "Endometriosis is predominantly a disease of postmenopausal women, triggered by hormonal replacement therapy and characterized by rapid lesion growth.",
+                        "wrongAnswer_2": "Endometriosis is most common in prepubertal girls and adolescents, linked to early menarche and congenital uterine anomalies.",
+                        "wrongAnswer_3": "Endometriosis prevalence is equal across all age groups from menarche to menopause, showing no significant age-related variation in incidence.",
+                        "wrongAnswer_4": "Endometriosis primarily affects women over 45 who have experienced multiple pregnancies, due to cumulative hormonal exposure and uterine stretching."
+                    }
+                ]
+            },
+            {
+                "title": "Etiology (retrograde menstruation, coelomic metaplasia, dissemination, embryonic rest theory)",
+                "quizzes": [
+                    {
+                        "question": "According to the retrograde menstruation theory, what is the primary mechanism by which endometrial cells are transported to ectopic locations?",
+                        "goodAnswer": "Retrograde menstruation proposes that during menstruation, endometrial cells are refluxed through the fallopian tubes into the peritoneal cavity, implanting and growing outside the uterus.",
+                        "wrongAnswer_1": "Retrograde menstruation suggests that endometrial cells are transported via the lymphatic system directly to distant organs, bypassing the pelvic cavity entirely.",
+                        "wrongAnswer_2": "Retrograde menstruation theory posits that endometrial cells are carried through the bloodstream to various sites, similar to metastatic spread of cancer cells.",
+                        "wrongAnswer_3": "Retrograde menstruation explains endometriosis as a result of direct extension of endometrial tissue through the uterine serosa into adjacent pelvic structures.",
+                        "wrongAnswer_4": "Retrograde menstruation implicates the migration of endometrial cells along nerve pathways from the uterus to extrauterine sites, guided by neurotrophic factors."
+                    },
+                    {
+                        "question": "The coelomic metaplasia theory suggests which cellular transformation as the origin of endometriotic lesions?",
+                        "goodAnswer": "Coelomic metaplasia theory proposes that cells lining the peritoneal cavity, derived from the coelomic epithelium, can differentiate into endometrial-like tissue under certain stimuli.",
+                        "wrongAnswer_1": "Coelomic metaplasia theory states that bone marrow-derived stem cells migrate to the peritoneum and transform into endometrial cells, contributing to lesion formation.",
+                        "wrongAnswer_2": "Coelomic metaplasia theory suggests that fibroblasts in the peritoneal cavity undergo metaplasia into endometrial glands and stroma in response to inflammatory signals.",
+                        "wrongAnswer_3": "Coelomic metaplasia theory attributes endometriosis to the metaplastic change of ovarian surface epithelium into endometrial tissue, leading to ovarian endometriomas.",
+                        "wrongAnswer_4": "Coelomic metaplasia theory posits that smooth muscle cells of the uterus undergo metaplasia to form endometrial tissue outside the uterine cavity due to hormonal imbalance."
+                    },
+                    {
+                        "question": "Which of the following best describes the dissemination theory in the context of endometriosis etiology?",
+                        "goodAnswer": "Dissemination theory encompasses the lymphatic and vascular spread of endometrial cells from the uterus to distant locations, explaining endometriosis in organs far from the pelvis.",
+                        "wrongAnswer_1": "Dissemination theory refers exclusively to the direct surgical transplantation of endometrial tissue during procedures like cesarean sections or hysterotomies.",
+                        "wrongAnswer_2": "Dissemination theory suggests that endometrial cells spread through direct contact and invasion of adjacent tissues from the primary uterine site.",
+                        "wrongAnswer_3": "Dissemination theory explains endometriosis as the result of airborne transmission of endometrial cells to various body surfaces.",
+                        "wrongAnswer_4": "Dissemination theory posits that endometrial cells are disseminated through the cerebrospinal fluid to reach both pelvic and extra-pelvic locations."
+                    },
+                    {
+                        "question": "The embryonic rest theory proposes what developmental origin for endometriotic lesions?",
+                        "goodAnswer": "Embryonic rest theory suggests that endometriosis arises from remnants of M\u00fcllerian ducts or other embryonic tissues that persist in extrauterine locations and differentiate into endometrial tissue.",
+                        "wrongAnswer_1": "Embryonic rest theory attributes endometriosis to the persistence of fetal adrenal gland cells in the pelvis, which later transform into endometrial-like tissue.",
+                        "wrongAnswer_2": "Embryonic rest theory proposes that endometriosis originates from undifferentiated mesenchymal cells in the bone marrow that migrate and differentiate ectopically.",
+                        "wrongAnswer_3": "Embryonic rest theory suggests that endometriosis is caused by the persistence of placental cells after birth that implant and grow in the pelvic cavity.",
+                        "wrongAnswer_4": "Embryonic rest theory attributes endometriosis to the incomplete regression of the Wolffian ducts, leading to ectopic endometrial tissue development."
+                    }
+                ]
+            },
+            {
+                "title": "Genetics",
+                "quizzes": [
+                    {
+                        "question": "What is the current understanding of the heritability of endometriosis based on genetic studies?",
+                        "goodAnswer": "Endometriosis is considered a complex genetic disorder with a significant heritable component, estimated to be around 50%, indicating a substantial genetic influence.",
+                        "wrongAnswer_1": "Endometriosis is primarily an acquired condition with minimal genetic influence, and heritability studies show negligible familial aggregation.",
+                        "wrongAnswer_2": "Endometriosis is a purely genetic disorder inherited in a Mendelian pattern, with a single gene mutation being responsible for the disease in most cases.",
+                        "wrongAnswer_3": "Endometriosis has a heritability close to 100%, meaning it is almost entirely determined by genetic factors with no environmental contribution.",
+                        "wrongAnswer_4": "Endometriosis is considered to have a very low heritability, less than 10%, suggesting environmental factors are the predominant cause of the disease."
+                    },
+                    {
+                        "question": "Which type of genetic studies has been most instrumental in identifying genes associated with endometriosis risk?",
+                        "goodAnswer": "Genome-wide association studies (GWAS) have been the most productive approach in identifying common genetic variants associated with endometriosis susceptibility in large populations.",
+                        "wrongAnswer_1": "Twin studies have been the primary method for identifying endometriosis genes, comparing concordance rates in monozygotic and dizygotic twins.",
+                        "wrongAnswer_2": "Linkage analysis in families with multiple affected members has been the most successful strategy for pinpointing endometriosis susceptibility loci.",
+                        "wrongAnswer_3": "Candidate gene studies, focusing on genes involved in hormone metabolism, inflammation, and angiogenesis, have exclusively revealed endometriosis-associated genes.",
+                        "wrongAnswer_4": "Cytogenetic studies, examining chromosomal abnormalities, have been the most informative in identifying the genetic basis of endometriosis."
+                    },
+                    {
+                        "question": "Which of the following gene categories is frequently implicated in endometriosis susceptibility based on genetic association studies?",
+                        "goodAnswer": "Genes involved in hormone biosynthesis and signaling, inflammatory pathways, cell adhesion, and extracellular matrix remodeling are commonly implicated in endometriosis genetics.",
+                        "wrongAnswer_1": "Genes primarily related to DNA repair mechanisms and tumor suppressor pathways are the most frequently associated with endometriosis susceptibility.",
+                        "wrongAnswer_2": "Genes encoding for structural proteins of the cytoskeleton and muscle contraction are the most consistently linked to endometriosis risk.",
+                        "wrongAnswer_3": "Genes involved in lipid metabolism and cholesterol synthesis are the predominant category associated with endometriosis in genetic studies.",
+                        "wrongAnswer_4": "Genes related to neurotransmitter synthesis and neuronal signaling are the most frequently implicated in the genetic predisposition to endometriosis."
+                    }
+                ]
+            },
+            {
+                "title": "Hyaluroniuc acid, TGF-\u03b2, IL-1\u03b1",
+                "quizzes": [
+                    {
+                        "question": "What is the primary role of hyaluronic acid (HA) in the pathophysiology of endometriosis?",
+                        "goodAnswer": "Hyaluronic acid, a major component of the extracellular matrix, promotes cell proliferation, migration, and angiogenesis in endometriotic lesions, contributing to their growth and invasiveness.",
+                        "wrongAnswer_1": "Hyaluronic acid primarily functions to inhibit angiogenesis and reduce inflammation in endometriotic lesions, acting as a protective factor against disease progression.",
+                        "wrongAnswer_2": "Hyaluronic acid's main role is to induce apoptosis and cell cycle arrest in endometrial cells, thereby limiting the development of endometriotic implants.",
+                        "wrongAnswer_3": "Hyaluronic acid acts as a potent vasoconstrictor in endometriotic lesions, reducing blood supply and hindering lesion growth and survival.",
+                        "wrongAnswer_4": "Hyaluronic acid primarily serves as a structural component providing rigidity to endometriotic lesions, without significantly influencing cellular processes."
+                    },
+                    {
+                        "question": "How does Transforming Growth Factor-beta (TGF-\u03b2) contribute to the development and progression of endometriosis?",
+                        "goodAnswer": "TGF-\u03b2 promotes fibrosis, extracellular matrix deposition, and immune suppression in the endometriotic microenvironment, facilitating lesion establishment and survival.",
+                        "wrongAnswer_1": "TGF-\u03b2 primarily acts as an anti-inflammatory cytokine in endometriosis, reducing lesion size and preventing the formation of adhesions.",
+                        "wrongAnswer_2": "TGF-\u03b2 induces differentiation of endometrial cells into normal uterine tissue, reversing the ectopic implantation and growth process.",
+                        "wrongAnswer_3": "TGF-\u03b2 directly stimulates apoptosis of endometriotic cells and inhibits angiogenesis, thus limiting lesion development and progression.",
+                        "wrongAnswer_4": "TGF-\u03b2's main role is to enhance immune surveillance and cytotoxic T-cell activity against endometriotic cells, promoting their elimination."
+                    },
+                    {
+                        "question": "What is the significant role of Interleukin-1 alpha (IL-1\u03b1) in the context of endometriosis-associated inflammation and pain?",
+                        "goodAnswer": "IL-1\u03b1 is a potent pro-inflammatory cytokine that promotes inflammation, pain sensitization, and angiogenesis in endometriotic lesions, contributing to pelvic pain and disease progression.",
+                        "wrongAnswer_1": "IL-1\u03b1 primarily functions as an analgesic in endometriosis, reducing pain perception by blocking nociceptor activation and inflammatory signaling.",
+                        "wrongAnswer_2": "IL-1\u03b1 acts as an anti-angiogenic factor in endometriotic lesions, limiting blood vessel formation and reducing the inflammatory burden.",
+                        "wrongAnswer_3": "IL-1\u03b1's main role is to suppress the immune response in endometriosis, preventing excessive inflammation and tissue damage in the pelvic cavity.",
+                        "wrongAnswer_4": "IL-1\u03b1 is involved in the resolution of inflammation in endometriosis, promoting the clearance of inflammatory debris and tissue repair processes."
+                    }
+                ]
+            },
+            {
+                "title": "Contributes to pain and infertility",
+                "quizzes": [
+                    {
+                        "question": "What are the primary mechanisms through which endometriosis contributes to chronic pelvic pain?",
+                        "goodAnswer": "Endometriosis causes chronic pelvic pain through mechanisms including inflammation, nerve fiber infiltration into lesions, production of pain-sensitizing factors, and pelvic adhesions.",
+                        "wrongAnswer_1": "Endometriosis primarily causes acute pain episodes due to sudden rupture of endometriotic cysts, but does not typically lead to chronic pain syndromes.",
+                        "wrongAnswer_2": "Endometriosis pain is mainly attributed to the physical mass effect of large endometriotic lesions compressing surrounding organs and tissues.",
+                        "wrongAnswer_3": "Endometriosis pain is solely psychological in origin, with no direct physiological basis, and is amplified by emotional distress and anxiety.",
+                        "wrongAnswer_4": "Endometriosis pain is due to the exclusive stimulation of pain receptors by prostaglandins released during menstruation, without involvement of other factors."
+                    },
+                    {
+                        "question": "How does endometriosis typically impair fertility in affected women?",
+                        "goodAnswer": "Endometriosis impairs fertility through mechanisms such as distortion of pelvic anatomy, inflammation affecting oocyte and sperm quality, impaired implantation, and altered endometrial receptivity.",
+                        "wrongAnswer_1": "Endometriosis primarily affects fertility by causing premature ovarian failure, leading to a depletion of the ovarian reserve and early menopause.",
+                        "wrongAnswer_2": "Endometriosis mainly impairs fertility by blocking the fallopian tubes physically, preventing egg and sperm transport and fertilization.",
+                        "wrongAnswer_3": "Endometriosis reduces fertility solely by causing chronic systemic inflammation, which indirectly affects hormonal balance and reproductive function.",
+                        "wrongAnswer_4": "Endometriosis primarily impairs fertility by inducing uterine fibroids, which mechanically interfere with implantation and pregnancy maintenance."
+                    },
+                    {
+                        "question": "Which of the following factors is considered a significant contributor to infertility associated with endometriosis?",
+                        "goodAnswer": "Chronic pelvic inflammation, altered peritoneal fluid environment, and impaired endometrial receptivity are significant factors contributing to endometriosis-associated infertility.",
+                        "wrongAnswer_1": "Increased production of prolactin and growth hormone due to endometriosis is the primary cause of infertility in affected women.",
+                        "wrongAnswer_2": "Elevated levels of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) directly induced by endometriosis are the main cause of infertility.",
+                        "wrongAnswer_3": "Suppressed ovarian function and reduced estrogen production due to endometriosis are the principal factors leading to infertility.",
+                        "wrongAnswer_4": "Systemic autoimmune reactions triggered by endometriosis, leading to destruction of reproductive tissues, are the primary cause of infertility."
+                    }
+                ]
+            },
+            {
+                "title": "Hormonal Dependence, aromatase",
+                "quizzes": [
+                    {
+                        "question": "What is the primary hormonal dependency of endometriotic lesions?",
+                        "goodAnswer": "Endometriotic lesions are primarily estrogen-dependent, with estrogen promoting their growth, proliferation, and survival, similar to normal endometrial tissue.",
+                        "wrongAnswer_1": "Endometriotic lesions are primarily dependent on progesterone for their growth and maintenance, with estrogen playing a minimal role.",
+                        "wrongAnswer_2": "Endometriotic lesions are androgen-dependent, with androgens stimulating their proliferation and estrogen inhibiting their growth.",
+                        "wrongAnswer_3": "Endometriotic lesions are primarily dependent on follicle-stimulating hormone (FSH) for their development and progression.",
+                        "wrongAnswer_4": "Endometriotic lesions are hormonally independent and their growth is not significantly influenced by estrogen, progesterone, or androgens."
+                    },
+                    {
+                        "question": "What role does aromatase enzyme play in the hormonal environment of endometriotic lesions?",
+                        "goodAnswer": "Aromatase, which converts androgens to estrogens, is often overexpressed in endometriotic lesions, leading to local estrogen production and contributing to estrogen dependence, even in low estrogen environments.",
+                        "wrongAnswer_1": "Aromatase is typically suppressed in endometriotic lesions, resulting in reduced local estrogen production and increased reliance on systemic estrogen.",
+                        "wrongAnswer_2": "Aromatase in endometriotic lesions primarily converts estrogens to androgens, contributing to a localized androgen-dominant environment within the lesions.",
+                        "wrongAnswer_3": "Aromatase enzyme is not expressed in endometriotic lesions, and local estrogen levels are solely dependent on systemic estrogen supply.",
+                        "wrongAnswer_4": "Aromatase in endometriotic lesions functions to degrade estrogen, thus reducing the estrogenic stimulus and limiting lesion growth."
+                    },
+                    {
+                        "question": "How does local aromatase activity in endometriotic lesions contribute to the pathophysiology of endometriosis?",
+                        "goodAnswer": "Local aromatase activity leads to increased local estrogen production within lesions, promoting lesion growth, inflammation, and angiogenesis, and potentially contributing to estrogen resistance and treatment challenges.",
+                        "wrongAnswer_1": "Local aromatase activity reduces estrogen levels within lesions, leading to atrophy and regression of endometriotic tissue, thus acting as a protective mechanism.",
+                        "wrongAnswer_2": "Local aromatase activity primarily increases progesterone production within lesions, counteracting the effects of estrogen and limiting lesion progression.",
+                        "wrongAnswer_3": "Local aromatase activity has no significant impact on the pathophysiology of endometriosis, as systemic estrogen levels are the primary determinant of lesion behavior.",
+                        "wrongAnswer_4": "Local aromatase activity leads to increased androgen production, which inhibits lesion growth and reduces inflammation in endometriotic lesions."
+                    }
+                ]
+            }
+        ]
+    }
+}

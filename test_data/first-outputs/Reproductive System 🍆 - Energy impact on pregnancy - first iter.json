@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "Energy impact on pregnancy",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Hyperthermia, Heat Teratogenesis,",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which hyperthermia induces teratogenesis during the critical period of neural tube development?",
+                        "goodAnswer": "Hyperthermia primarily disrupts protein homeostasis, leading to protein denaturation and aggregation, particularly affecting heat-sensitive proteins crucial for neural tube closure and cellular differentiation.",
+                        "wrongAnswer_1": "Hyperthermia mainly causes direct DNA strand breaks in rapidly dividing neural progenitor cells, leading to mutations that disrupt the genetic encoding of neural tube formation.",
+                        "wrongAnswer_2": "Hyperthermia primarily interferes with lipid peroxidation in cell membranes, causing membrane instability and ultimately leading to necrosis of neural tissue during development.",
+                        "wrongAnswer_3": "Hyperthermia primarily induces mitochondrial dysfunction, causing a significant ATP depletion that halts energy-dependent processes essential for neural tube closure and cellular migration.",
+                        "wrongAnswer_4": "Hyperthermia primarily increases intracellular calcium concentrations, triggering apoptosis pathways indiscriminately in neural cells and disrupting the ordered process of neural tube formation."
+                    },
+                    {
+                        "question": "During which developmental stage is the embryo or fetus generally considered to be most susceptible to heat-induced teratogenesis, specifically concerning neural tube defects?",
+                        "goodAnswer": "The early embryonic period, specifically during the first trimester of pregnancy, encompassing organogenesis and neural tube formation, is the most vulnerable stage for heat-induced neural tube defects.",
+                        "wrongAnswer_1": "The late fetal period, particularly during the third trimester when rapid brain growth occurs, is the most sensitive phase for heat-induced neural tube defects and cognitive impairments.",
+                        "wrongAnswer_2": "The pre-implantation period, before the blastocyst stage, is uniquely susceptible to heat-induced teratogenesis due to the lack of protective placental barriers.",
+                        "wrongAnswer_3": "The post-natal period, immediately after birth, is when thermal stress can most critically impact the still developing nervous system, leading to permanent neural tube related disabilities.",
+                        "wrongAnswer_4": "The mid-embryonic period, specifically during the second trimester, when the basic body plan is established, is the most vulnerable period for all types of teratogenic insults including heat."
+                    },
+                    {
+                        "question": "Which of the following cellular responses is NOT a typical consequence of hyperthermia in developing embryonic tissues?",
+                        "goodAnswer": "Increased synthesis of heat-stable structural proteins like collagen to reinforce cellular integrity against thermal stress.",
+                        "wrongAnswer_1": "Induction of heat shock proteins (HSPs) as a protective mechanism to refold denatured proteins and maintain cellular function.",
+                        "wrongAnswer_2": "Activation of apoptotic pathways leading to programmed cell death in damaged or stressed cells to prevent propagation of defects.",
+                        "wrongAnswer_3": "Disruption of cytoskeletal organization, affecting cell migration and morphogenesis during critical developmental processes.",
+                        "wrongAnswer_4": "Inhibition of DNA replication and cell cycle progression, leading to cell cycle arrest and potential developmental delays."
+                    },
+                    {
+                        "question": "What is the approximate temperature threshold above normal physiological temperature that is generally considered to be teratogenic in mammalian development?",
+                        "goodAnswer": "Sustained core body temperature elevations exceeding 1.5-2.0 \u00b0C above normal for a critical duration are typically considered teratogenic, depending on the developmental stage and exposure length.",
+                        "wrongAnswer_1": "Any elevation in core body temperature above the normal range, even by 0.5 \u00b0C, is considered teratogenic, especially during the most sensitive stages of embryogenesis.",
+                        "wrongAnswer_2": "Only extreme hyperthermia, exceeding 45 \u00b0C for prolonged periods, is considered teratogenic, as embryos are highly resilient to minor temperature fluctuations.",
+                        "wrongAnswer_3": "A core body temperature increase of 5-7 \u00b0C above normal is the typical threshold for teratogenesis, reflecting the embryo's robust thermoregulatory capacity.",
+                        "wrongAnswer_4": "Teratogenesis only occurs when external environmental temperature reaches extreme levels, irrespective of the internal core body temperature of the developing organism."
+                    }
+                ]
+            },
+            {
+                "title": "Ultrasound, Role of Bubbles",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which stable cavitation, induced by diagnostic ultrasound, is thought to contribute to bioeffects in tissues?",
+                        "goodAnswer": "Stable cavitation primarily induces mechanical stress through oscillating bubbles that generate microstreaming and shear forces, potentially altering cell membrane permeability and intracellular signaling.",
+                        "wrongAnswer_1": "Stable cavitation primarily causes thermal damage by rapidly collapsing bubbles that create localized heating and tissue coagulation in the focal region of the ultrasound beam.",
+                        "wrongAnswer_2": "Stable cavitation mainly generates free radicals through sonochemical reactions within the bubble, leading to oxidative stress and DNA damage in surrounding cells.",
+                        "wrongAnswer_3": "Stable cavitation primarily disrupts tissue structure through the formation of large, transient cavities that cause tissue tearing and mechanical disruption at a macroscopic level.",
+                        "wrongAnswer_4": "Stable cavitation primarily enhances ultrasound absorption by tissues, leading to global tissue heating and thermal bioeffects throughout the exposed volume."
+                    },
+                    {
+                        "question": "In the context of therapeutic ultrasound, what is the key distinction between inertial cavitation and stable cavitation regarding their biological effects?",
+                        "goodAnswer": "Inertial cavitation involves violent bubble collapse producing shock waves and localized high temperatures, leading to mechanical tissue disruption and thermal effects, while stable cavitation involves oscillating bubbles and microstreaming with primarily mechanical stress effects.",
+                        "wrongAnswer_1": "Inertial cavitation is characterized by slow bubble growth and gentle collapse, resulting in mild thermal effects, whereas stable cavitation involves rapid bubble oscillations producing strong shock waves and significant thermal damage.",
+                        "wrongAnswer_2": "Inertial cavitation is primarily associated with diagnostic ultrasound at low intensities, causing subtle bioeffects, while stable cavitation is specific to high-intensity therapeutic ultrasound and causes significant tissue ablation.",
+                        "wrongAnswer_3": "Inertial cavitation induces reversible changes in cell function, whereas stable cavitation leads to irreversible cell damage and necrosis in the targeted tissue volume.",
+                        "wrongAnswer_4": "Inertial cavitation is a purely thermal effect of ultrasound, while stable cavitation is a purely mechanical effect, with no overlap in their biological consequences."
+                    },
+                    {
+                        "question": "Which of the following factors is LEAST likely to influence the likelihood and extent of cavitation induced by ultrasound in biological tissues?",
+                        "goodAnswer": "The ambient temperature of the surrounding environment, as cavitation dynamics are primarily determined by acoustic parameters and tissue properties.",
+                        "wrongAnswer_1": "The frequency of the ultrasound waves, as higher frequencies generally require higher pressures to induce cavitation due to shorter rarefaction cycles.",
+                        "wrongAnswer_2": "The peak negative pressure of the ultrasound pulse, as higher negative pressures increase the likelihood of bubble nucleation and growth.",
+                        "wrongAnswer_3": "The presence of cavitation nuclei (pre-existing gas bodies) in the tissue, as they significantly lower the threshold for cavitation initiation.",
+                        "wrongAnswer_4": "The viscosity and elasticity of the tissue, as these properties affect bubble dynamics and the propagation of acoustic waves."
+                    },
+                    {
+                        "question": "What role do ultrasound contrast agents (microbubbles) play in enhancing diagnostic ultrasound imaging and potential therapeutic applications?",
+                        "goodAnswer": "Ultrasound contrast agents, composed of gas-filled microbubbles, enhance image contrast by strongly scattering ultrasound waves and can be used for targeted drug delivery or sonothrombolysis due to their cavitation properties.",
+                        "wrongAnswer_1": "Ultrasound contrast agents primarily function by absorbing ultrasound energy and converting it to heat, thereby improving thermal imaging and enabling localized hyperthermia treatments.",
+                        "wrongAnswer_2": "Ultrasound contrast agents act as acoustic lenses, focusing the ultrasound beam to improve image resolution and penetration depth in deep tissues during diagnostic procedures.",
+                        "wrongAnswer_3": "Ultrasound contrast agents reduce acoustic impedance mismatch between tissues and blood, improving signal transmission and reducing artifacts in ultrasound images.",
+                        "wrongAnswer_4": "Ultrasound contrast agents are used to block ultrasound waves from reaching deeper tissues, allowing for superficial imaging with enhanced clarity and reduced interference."
+                    }
+                ]
+            },
+            {
+                "title": "Prospective studies",
+                "quizzes": [
+                    {
+                        "question": "What is the defining characteristic of a prospective cohort study that distinguishes it from other observational study designs?",
+                        "goodAnswer": "Prospective cohort studies are characterized by enrolling a group of individuals, assessing their baseline exposures, and then following them forward in time to observe the incidence of outcomes.",
+                        "wrongAnswer_1": "Prospective cohort studies are defined by retrospectively examining past exposures and outcomes in a group of individuals selected based on their current disease status.",
+                        "wrongAnswer_2": "Prospective cohort studies involve randomly assigning individuals to different exposure groups and then observing them concurrently for the development of outcomes.",
+                        "wrongAnswer_3": "Prospective cohort studies are characterized by comparing exposure histories between individuals with a disease (cases) and those without the disease (controls).",
+                        "wrongAnswer_4": "Prospective cohort studies utilize existing datasets to analyze relationships between exposures and outcomes without directly following participants over time."
+                    },
+                    {
+                        "question": "Which of the following is considered a significant advantage of prospective cohort studies compared to retrospective case-control studies in epidemiological research?",
+                        "goodAnswer": "Prospective studies minimize recall bias and temporal ambiguity because exposure assessment precedes outcome ascertainment, providing stronger evidence for causality.",
+                        "wrongAnswer_1": "Prospective studies are generally less expensive and time-consuming to conduct compared to retrospective studies, making them more efficient for large-scale investigations.",
+                        "wrongAnswer_2": "Prospective studies are less susceptible to selection bias because participants are enrolled based on their outcome status rather than exposure status.",
+                        "wrongAnswer_3": "Prospective studies are better suited for studying rare diseases because they can efficiently identify a sufficient number of cases within the cohort.",
+                        "wrongAnswer_4": "Prospective studies are more effective in investigating multiple exposures simultaneously because they retrospectively assess a wide range of potential risk factors."
+                    },
+                    {
+                        "question": "What is a potential limitation of prospective cohort studies related to participant attrition (loss to follow-up) and its impact on study validity?",
+                        "goodAnswer": "Differential loss to follow-up, where attrition is related to both exposure and outcome status, can introduce selection bias and distort the estimated association between exposure and outcome.",
+                        "wrongAnswer_1": "Random loss to follow-up, which is unrelated to exposure or outcome status, typically leads to an overestimation of the true association between exposure and outcome.",
+                        "wrongAnswer_2": "High rates of overall loss to follow-up, regardless of its relationship to exposure or outcome, generally strengthen the generalizability of study findings to the broader population.",
+                        "wrongAnswer_3": "Loss to follow-up primarily affects the statistical power of prospective studies but does not significantly bias the estimated measures of association.",
+                        "wrongAnswer_4": "Participant attrition in prospective studies generally improves the accuracy of exposure assessment over time as only the most compliant individuals remain in the study."
+                    },
+                    {
+                        "question": "In the design of a prospective cohort study investigating the long-term effects of a dietary factor on cardiovascular disease risk, what is a crucial consideration for minimizing confounding?",
+                        "goodAnswer": "Carefully measuring and controlling for potential confounders at baseline, such as age, smoking status, physical activity level, and family history of cardiovascular disease, during data analysis.",
+                        "wrongAnswer_1": "Randomly assigning participants to different dietary intervention groups to eliminate confounding by indication and ensure balanced distribution of risk factors.",
+                        "wrongAnswer_2": "Restricting the study population to a homogenous group with respect to potential confounders, such as only including non-smokers and individuals with similar age ranges.",
+                        "wrongAnswer_3": "Relying on retrospective dietary recall data collected at the end of the follow-up period to minimize recall bias related to past dietary habits.",
+                        "wrongAnswer_4": "Ignoring potential confounders in the analysis to simplify the interpretation of results and focus solely on the primary exposure of interest."
+                    }
+                ]
+            },
+            {
+                "title": "Microwaves, Electromagnetic Fields",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism by which microwave radiation at typical operating frequencies (e.g., 2.45 GHz) interacts with and deposits energy in biological tissues?",
+                        "goodAnswer": "Microwave energy is primarily absorbed by polar molecules, such as water, in tissues, causing molecular rotation and subsequent conversion of kinetic energy into heat through dielectric heating.",
+                        "wrongAnswer_1": "Microwave radiation primarily induces ionization in biological tissues, directly damaging DNA and cellular components through high-energy photon interactions.",
+                        "wrongAnswer_2": "Microwave energy primarily interacts with metallic implants in the body, inducing eddy currents and localized heating around the implant site due to resistive losses.",
+                        "wrongAnswer_3": "Microwave radiation primarily stimulates nerve cells and muscle fibers through direct electromagnetic field effects, leading to non-thermal physiological responses.",
+                        "wrongAnswer_4": "Microwave energy is primarily scattered and reflected by biological tissues, with minimal absorption and negligible energy deposition under typical exposure conditions."
+                    },
+                    {
+                        "question": "Which factor MOST significantly influences the penetration depth of microwave radiation in biological tissues at frequencies relevant to common applications?",
+                        "goodAnswer": "The water content of the tissue, as water is a strong absorber of microwave energy, leading to shallower penetration in tissues with higher water content like muscle compared to fat.",
+                        "wrongAnswer_1": "The ambient air temperature surrounding the tissue, as higher temperatures increase tissue conductivity and enhance microwave penetration.",
+                        "wrongAnswer_2": "The presence of bone tissue, as bone is highly transparent to microwaves and allows for deeper penetration into underlying soft tissues.",
+                        "wrongAnswer_3": "The intensity of the microwave radiation, as higher intensities lead to increased penetration depth due to non-linear tissue interactions.",
+                        "wrongAnswer_4": "The polarization of the microwave radiation, as circularly polarized waves penetrate deeper than linearly polarized waves in biological media."
+                    },
+                    {
+                        "question": "What is the primary rationale behind the establishment of safety guidelines and exposure limits for microwave and radiofrequency electromagnetic fields (EMFs) by organizations like the ICNIRP?",
+                        "goodAnswer": "To prevent adverse health effects primarily due to tissue heating from excessive energy absorption, while acknowledging the lack of conclusive evidence for non-thermal health hazards at typical exposure levels.",
+                        "wrongAnswer_1": "To completely eliminate any potential risk of cancer and neurological disorders associated with chronic exposure to even low levels of microwave and radiofrequency EMFs.",
+                        "wrongAnswer_2": "To protect sensitive electronic equipment from electromagnetic interference caused by microwave and radiofrequency radiation sources in the environment.",
+                        "wrongAnswer_3": "To minimize the disruption of natural geomagnetic fields by anthropogenic EMF emissions and maintain ecological balance in the biosphere.",
+                        "wrongAnswer_4": "To ensure equitable access to wireless communication technologies by regulating EMF emissions from mobile devices and base stations globally."
+                    },
+                    {
+                        "question": "In the context of potential non-thermal biological effects of low-intensity electromagnetic fields, which of the following mechanisms is LEAST supported by robust scientific evidence?",
+                        "goodAnswer": "Direct resonant absorption of EMF energy by DNA molecules leading to genetic mutations and carcinogenic transformation.",
+                        "wrongAnswer_1": "Modulation of intracellular calcium ion signaling pathways influencing cellular processes like gene expression and enzyme activity.",
+                        "wrongAnswer_2": "Alteration of cell membrane permeability and ion channel function affecting cellular communication and transport processes.",
+                        "wrongAnswer_3": "Changes in free radical production and oxidative stress within cells potentially contributing to cellular damage and inflammatory responses.",
+                        "wrongAnswer_4": "Influence on circadian rhythms and melatonin production in the pineal gland due to sensitivity to weak magnetic field fluctuations."
+                    }
+                ]
+            }
+        ]
+    }
+}

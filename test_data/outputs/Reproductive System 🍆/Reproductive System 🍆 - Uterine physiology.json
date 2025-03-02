@@ -1,0 +1,140 @@
+{
+    "mainTopic": {
+        "title": "Uterine physiology",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Cell junctions, Gap junction",
+                "quizzes": [
+                    {
+                        "question": "What is the primary functional characteristic of gap junctions that distinguishes them from other types of cell junctions?",
+                        "goodAnswer": "Gap junctions uniquely enable direct cytoplasmic continuity between adjacent cells, allowing for rapid intercellular exchange of ions and small signaling molecules, thus synchronizing cellular activities.",
+                        "wrongAnswer_1": "Gap junctions are characterized by their ability to form tight seals that prevent the passage of water and solutes through the intercellular space, maintaining tissue barrier function.",
+                        "wrongAnswer_2": "Gap junctions are primarily responsible for mediating strong adhesion between cells through transmembrane proteins linked to intracellular intermediate filaments, providing mechanical stability to tissues.",
+                        "wrongAnswer_3": "Gap junctions facilitate cell-matrix adhesion by connecting the actin cytoskeleton to the extracellular matrix, enabling cells to migrate and respond to external cues.",
+                        "wrongAnswer_4": "Gap junctions are uniquely involved in receptor-mediated cell signaling, where ligand binding triggers conformational changes that activate intracellular signaling cascades in neighboring cells."
+                    },
+                    {
+                        "question": "Which protein family is specifically responsible for forming the structural units of gap junctions, and how are these units arranged to create a functional intercellular channel?",
+                        "goodAnswer": "Connexins are the protein subunits that oligomerize into hexameric connexons; two connexons from adjacent cells align and dock end-to-end to form a complete gap junction channel spanning the intercellular space.",
+                        "wrongAnswer_1": "Cadherins are the primary proteins forming gap junctions; they homophilically interact across the intercellular space and cluster together to create channels for ion and small molecule passage.",
+                        "wrongAnswer_2": "Integrins are responsible for gap junction structure; they heterodimerize and insert into the plasma membrane, with multiple integrin pairs creating pores for intercellular communication.",
+                        "wrongAnswer_3": "Claudins and occludins constitute gap junction channels; they form transmembrane strands that weave together in the extracellular space to create selective permeability pathways between cells.",
+                        "wrongAnswer_4": "Selectins are the proteins that form gap junctions; they mediate transient adhesion and then reorganize into channel-like structures that facilitate direct cytoplasmic exchange between cells."
+                    },
+                    {
+                        "question": "In tissues requiring rapid and synchronized cellular activity, such as cardiac muscle and certain types of smooth muscle, what is the most critical physiological consequence of gap junction-mediated communication?",
+                        "goodAnswer": "Efficient electrical coupling between cells, enabling rapid propagation of action potentials and coordinated contraction of large cell ensembles, essential for rhythmic and forceful tissue function.",
+                        "wrongAnswer_1": "Enhanced metabolic cooperation, allowing for the sharing of essential nutrients and energy metabolites between cells to ensure uniform metabolic activity across the tissue.",
+                        "wrongAnswer_2": "Increased tissue tensile strength due to the physical linkage provided by gap junctions, contributing to the structural integrity and resistance to mechanical stress in dynamic tissues.",
+                        "wrongAnswer_3": "Regulation of cell growth and differentiation through the exchange of growth factors and signaling molecules via gap junctions, maintaining tissue homeostasis and controlled development.",
+                        "wrongAnswer_4": "Facilitation of immune surveillance by allowing immune cells to directly communicate with tissue cells through gap junctions, enabling rapid detection and response to pathogens or cellular stress."
+                    },
+                    {
+                        "question": "Considering the dynamic regulation of gap junction permeability, which mechanism is LEAST likely to be involved in modulating the open or closed state of gap junction channels?",
+                        "goodAnswer": "Transcriptional regulation of connexin gene expression, as this is a long-term regulatory mechanism affecting the number of gap junctions rather than their immediate permeability.",
+                        "wrongAnswer_1": "Changes in intracellular pH, where acidification can induce conformational changes in connexin proteins, leading to channel closure and reduced intercellular communication.",
+                        "wrongAnswer_2": "Phosphorylation of connexin subunits by kinases, which can alter channel gating properties and permeability in response to various intracellular signaling pathways.",
+                        "wrongAnswer_3": "Variations in transmembrane voltage, where significant depolarization or hyperpolarization can influence the conformational state of connexin channels and their conductance.",
+                        "wrongAnswer_4": "Alterations in intracellular calcium concentration, where elevated calcium levels can trigger channel closure as a protective mechanism against cellular damage propagation."
+                    }
+                ]
+            },
+            {
+                "title": "Signaling, Role of calcium, Uterine smooth muscle",
+                "quizzes": [
+                    {
+                        "question": "What is the immediate and direct consequence of increased intracellular calcium concentration in uterine smooth muscle cells, leading to muscle contraction?",
+                        "goodAnswer": "Calcium ions bind to calmodulin, forming a complex that activates myosin light chain kinase (MLCK), initiating the phosphorylation of myosin light chains and subsequent cross-bridge cycling.",
+                        "wrongAnswer_1": "Calcium ions directly bind to troponin, causing a conformational change that removes tropomyosin from actin-binding sites, allowing myosin heads to interact with actin filaments.",
+                        "wrongAnswer_2": "Calcium ions activate protein kinase C (PKC), which then phosphorylates myosin light chain phosphatase (MLCP), inhibiting its activity and promoting myosin phosphorylation.",
+                        "wrongAnswer_3": "Calcium ions trigger the release of ATP from intracellular stores, providing the energy required for myosin ATPase activity and the initiation of muscle contraction.",
+                        "wrongAnswer_4": "Calcium ions directly interact with actin filaments, inducing a structural change that enhances their affinity for myosin heads and promotes the formation of actin-myosin cross-bridges."
+                    },
+                    {
+                        "question": "Which cellular mechanism is primarily responsible for reducing intracellular calcium concentration in uterine smooth muscle cells, leading to muscle relaxation?",
+                        "goodAnswer": "Activation of plasma membrane Ca2+-ATPase (PMCA) pumps and Na+/Ca2+ exchangers (NCX), which actively extrude calcium ions from the cytoplasm back to the extracellular space or into the sarcoplasmic reticulum.",
+                        "wrongAnswer_1": "Inhibition of voltage-gated L-type calcium channels, preventing further influx of extracellular calcium and thereby passively reducing cytoplasmic calcium levels.",
+                        "wrongAnswer_2": "Increased activity of sarcoplasmic reticulum Ca2+-ATPase (SERCA) pumps, which sequester calcium ions into the sarcoplasmic reticulum, effectively lowering cytosolic calcium concentration.",
+                        "wrongAnswer_3": "Activation of calcium-activated potassium channels (KCa), leading to membrane hyperpolarization and reduced calcium influx through voltage-dependent calcium channels.",
+                        "wrongAnswer_4": "Stimulation of guanylyl cyclase and subsequent production of cGMP, which directly inhibits calcium release from intracellular stores and promotes calcium efflux across the plasma membrane."
+                    },
+                    {
+                        "question": "How does the Rho kinase pathway contribute to the regulation of uterine smooth muscle contractility, particularly in the context of calcium sensitization?",
+                        "goodAnswer": "Rho kinase inhibits myosin light chain phosphatase (MLCP), thereby maintaining myosin light chain phosphorylation and contractile force even at reduced intracellular calcium concentrations, enhancing calcium sensitivity.",
+                        "wrongAnswer_1": "Rho kinase activates myosin light chain kinase (MLCK), directly promoting myosin light chain phosphorylation and contraction, independent of intracellular calcium levels.",
+                        "wrongAnswer_2": "Rho kinase enhances calcium influx through voltage-gated calcium channels, leading to a direct increase in intracellular calcium concentration and subsequent muscle contraction.",
+                        "wrongAnswer_3": "Rho kinase promotes calcium sequestration into the sarcoplasmic reticulum, reducing cytosolic calcium levels and indirectly inducing muscle relaxation by decreasing calcium availability for contraction.",
+                        "wrongAnswer_4": "Rho kinase directly phosphorylates myosin light chains, bypassing the need for calcium-calmodulin activation of MLCK and triggering contraction independent of calcium signaling."
+                    }
+                ]
+            },
+            {
+                "title": "Oxytocin, Prostaglandins, G-proteins",
+                "quizzes": [
+                    {
+                        "question": "Upon oxytocin binding to its receptor on uterine smooth muscle cells, which specific G-protein subunit initiates the downstream signaling cascade leading to increased intracellular calcium?",
+                        "goodAnswer": "G\u03b1q subunit, which activates phospholipase C-\u03b2 (PLC\u03b2) to hydrolyze phosphatidylinositol bisphosphate (PIP2) into inositol trisphosphate (IP3) and diacylglycerol (DAG), with IP3 triggering calcium release.",
+                        "wrongAnswer_1": "G\u03b1s subunit, which activates adenylyl cyclase to increase cyclic AMP (cAMP) levels, subsequently activating protein kinase A (PKA) and leading to calcium influx through L-type calcium channels.",
+                        "wrongAnswer_2": "G\u03b1i subunit, which inhibits adenylyl cyclase to decrease cAMP levels, resulting in the activation of Rho kinase and subsequent calcium sensitization of the contractile machinery.",
+                        "wrongAnswer_3": "G\u03b2\u03b3 subunits, which directly interact with and activate voltage-gated calcium channels in the plasma membrane, promoting calcium influx and initiating muscle contraction.",
+                        "wrongAnswer_4": "G\u03b112/13 subunit, which activates RhoGEFs to stimulate RhoA, leading to the inhibition of myosin light chain phosphatase (MLCP) and increased calcium sensitivity of the contractile apparatus."
+                    },
+                    {
+                        "question": "How do prostaglandins, acting via G-protein coupled receptors in uterine smooth muscle, contribute to the process of uterine contraction during labor, particularly in terms of intracellular signaling?",
+                        "goodAnswer": "Prostaglandins, such as PGE2 and PGF2\u03b1, activate both Gq- and Gs-protein coupled receptors, leading to increased intracellular calcium and cAMP, synergistically promoting uterine contractility.",
+                        "wrongAnswer_1": "Prostaglandins selectively activate Gi-protein coupled receptors, resulting in decreased cAMP levels and activation of Rho kinase, which primarily enhances calcium sensitization rather than calcium influx.",
+                        "wrongAnswer_2": "Prostaglandins primarily act by inhibiting Gq-protein coupled receptors, thereby reducing intracellular calcium release and promoting uterine relaxation to facilitate fetal expulsion.",
+                        "wrongAnswer_3": "Prostaglandins directly activate tyrosine kinase receptors on uterine smooth muscle cells, triggering phosphorylation cascades that ultimately reduce intracellular calcium and inhibit contraction.",
+                        "wrongAnswer_4": "Prostaglandins solely activate Gs-protein coupled receptors, increasing cAMP levels which then directly inhibit myosin light chain kinase (MLCK) activity, leading to uterine relaxation."
+                    },
+                    {
+                        "question": "Considering the role of G-proteins in uterine smooth muscle contraction, which signaling pathway is primarily responsible for the calcium-independent sensitization of the contractile apparatus to calcium?",
+                        "goodAnswer": "The G12/13-RhoA-Rho kinase pathway, which inhibits myosin light chain phosphatase (MLCP), increasing myosin phosphorylation and contractile tone at any given intracellular calcium concentration.",
+                        "wrongAnswer_1": "The Gs-cAMP-PKA pathway, which activates myosin light chain kinase (MLCK) independently of calcium, directly phosphorylating myosin light chains and initiating contraction.",
+                        "wrongAnswer_2": "The Gq-PLC-IP3 pathway, which increases intracellular calcium concentration by releasing calcium from intracellular stores, thereby directly triggering calcium-dependent contraction.",
+                        "wrongAnswer_3": "The Gi-adenylyl cyclase-cAMP pathway, which decreases cAMP levels and indirectly promotes calcium influx through voltage-gated calcium channels, enhancing calcium-dependent contraction.",
+                        "wrongAnswer_4": "The G\u03b2\u03b3-PI3K-Akt pathway, which stimulates calcium uptake into the sarcoplasmic reticulum, reducing cytosolic calcium and indirectly promoting calcium sensitization by lowering basal calcium levels."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical collagen, Ground substance, Cervical ripening",
+                "quizzes": [
+                    {
+                        "question": "What is the predominant type of collagen found in the cervix, and how is its structural organization critical for maintaining cervical competence during pregnancy?",
+                        "goodAnswer": "Type I collagen is the most abundant, forming thick, densely packed fibers that are highly cross-linked, providing tensile strength and resistance to distension necessary for cervical closure.",
+                        "wrongAnswer_1": "Type III collagen is the primary cervical collagen, characterized by its fine, loosely arranged fibers that provide elasticity and allow for cervical expansion throughout pregnancy.",
+                        "wrongAnswer_2": "Type IV collagen is the main component, forming a mesh-like network that reinforces the basement membrane of the cervical epithelium and contributes to barrier function.",
+                        "wrongAnswer_3": "Type II collagen predominates in the cervix, forming a hydrated gel-like matrix that provides cushioning and flexibility but minimal tensile strength to maintain closure.",
+                        "wrongAnswer_4": "Type V collagen is the major cervical collagen type, forming thin fibrils that are interwoven with elastin fibers to provide both strength and elasticity to the cervical tissue."
+                    },
+                    {
+                        "question": "Which glycosaminoglycan (GAG) within the cervical ground substance undergoes the most significant increase during cervical ripening, and what biophysical change does this alteration primarily induce?",
+                        "goodAnswer": "Hyaluronan significantly increases, leading to increased tissue hydration and swelling by attracting water molecules, which contributes to tissue softening and distensibility.",
+                        "wrongAnswer_1": "Dermatan sulfate levels markedly increase, resulting in enhanced collagen fiber bundling and increased tissue stiffness, preparing the cervix for efficient dilation.",
+                        "wrongAnswer_2": "Chondroitin sulfate content rises substantially, promoting increased tissue elasticity and recoil, facilitating rapid cervical dilation and retraction during labor.",
+                        "wrongAnswer_3": "Heparan sulfate concentration increases dramatically, leading to enhanced cell-matrix interactions and increased tissue cellularity, strengthening the cervix against dilation forces.",
+                        "wrongAnswer_4": "Keratan sulfate levels show a major increase, causing dehydration of the ground substance and increased collagen cross-linking, resulting in a firmer and more resilient cervical tissue."
+                    },
+                    {
+                        "question": "Which family of enzymes is primarily responsible for the degradation and remodeling of the cervical collagen network during cervical ripening, facilitating cervical dilation?",
+                        "goodAnswer": "Matrix metalloproteinases (MMPs), particularly collagenases like MMP-1 and MMP-8, are upregulated, leading to the cleavage and fragmentation of collagen fibers and reduced cervical rigidity.",
+                        "wrongAnswer_1": "Lysyl oxidases are activated, promoting increased cross-linking of collagen fibers and stabilization of the collagen network, thereby enhancing cervical tensile strength and preventing premature dilation.",
+                        "wrongAnswer_2": "Tissue inhibitors of metalloproteinases (TIMPs) are downregulated, indirectly leading to reduced collagen synthesis and subsequent cervical softening as collagen is not adequately replaced.",
+                        "wrongAnswer_3": "Transglutaminases are highly active, causing increased cross-linking within the ground substance and enhanced hydration, which contributes to cervical softening but not collagen degradation.",
+                        "wrongAnswer_4": "Hyaluronidases are the key enzymes, specifically degrading hyaluronan in the ground substance, leading to tissue dehydration and a more compact collagen network, indirectly affecting cervical stiffness."
+                    },
+                    {
+                        "question": "What is the role of inflammatory processes and immune cell infiltration in the context of cervical ripening, specifically in relation to extracellular matrix changes?",
+                        "goodAnswer": "Inflammatory mediators and infiltrating leukocytes release cytokines and MMPs, which directly degrade collagen and alter ground substance components, promoting extracellular matrix remodeling and cervical softening.",
+                        "wrongAnswer_1": "Inflammation and immune cell infiltration primarily stimulate fibroblast proliferation and collagen synthesis, leading to increased collagen deposition and reinforcement of the cervical extracellular matrix.",
+                        "wrongAnswer_2": "Immune cells secrete TIMPs, which inhibit MMP activity and prevent excessive collagen degradation, thus maintaining cervical integrity and preventing premature ripening.",
+                        "wrongAnswer_3": "Inflammatory processes induce apoptosis of cervical stromal cells, leading to a reduction in cellular density and passive softening of the cervix without significant extracellular matrix remodeling.",
+                        "wrongAnswer_4": "Immune cell infiltration promotes the deposition of elastin fibers in the cervix, replacing collagen and leading to increased cervical elasticity but without significant collagen degradation."
+                    }
+                ]
+            }
+        ]
+    }
+}

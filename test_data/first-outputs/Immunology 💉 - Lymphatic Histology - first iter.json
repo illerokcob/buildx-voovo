@@ -1,0 +1,264 @@
+{
+    "mainTopic": {
+        "title": "Lymphatic Histology",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Functions of the Lymphatic System",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes a crucial function of the lymphatic system in maintaining tissue fluid balance?",
+                        "goodAnswer": "The lymphatic system collects excess interstitial fluid, proteins, and waste products from tissues and returns them to the bloodstream, preventing edema.",
+                        "wrongAnswer_1": "The lymphatic system actively pumps interstitial fluid back into capillaries using specialized lymphatic capillaries, directly regulating blood pressure.",
+                        "wrongAnswer_2": "The lymphatic system secretes hormones that stimulate fluid reabsorption in the kidneys, thus indirectly controlling interstitial fluid volume.",
+                        "wrongAnswer_3": "The lymphatic system neutralizes excess acids in interstitial fluid through bicarbonate secretion, maintaining tissue pH and fluid balance.",
+                        "wrongAnswer_4": "The lymphatic system facilitates the movement of interstitial fluid into muscle cells for hydration, reducing fluid accumulation in tissue spaces."
+                    },
+                    {
+                        "question": "What is the primary role of the lymphatic system in lipid absorption within the digestive system?",
+                        "goodAnswer": "The lymphatic system, via lacteals in the small intestine, absorbs dietary fats and fat-soluble vitamins, transporting them through lymph to the bloodstream, bypassing initial liver processing.",
+                        "wrongAnswer_1": "The lymphatic system directly emulsifies dietary fats in the small intestine, breaking them down into fatty acids for immediate absorption into blood capillaries.",
+                        "wrongAnswer_2": "The lymphatic system produces bile acids which are essential for fat digestion and absorption, subsequently transporting these digested fats through the portal vein to the liver.",
+                        "wrongAnswer_3": "The lymphatic system lines the villi of the small intestine and actively transports all nutrients, including fats, directly into the bloodstream for systemic circulation.",
+                        "wrongAnswer_4": "The lymphatic system synthesizes lipoproteins that coat dietary fats, enabling their absorption into blood capillaries within the intestinal villi."
+                    },
+                    {
+                        "question": "How does the lymphatic system contribute to the body's immune defenses against pathogens?",
+                        "goodAnswer": "The lymphatic system filters lymph fluid through lymph nodes, where immune cells like lymphocytes encounter and neutralize pathogens, initiating adaptive immune responses.",
+                        "wrongAnswer_1": "The lymphatic system directly produces antibodies within lymphatic vessels that circulate throughout the body, immediately neutralizing pathogens in tissues.",
+                        "wrongAnswer_2": "The lymphatic system generates fever to kill pathogens circulating in the lymph fluid, thus preventing systemic infections and promoting immune clearance.",
+                        "wrongAnswer_3": "The lymphatic system sequesters pathogens in lymphatic vessels, preventing their spread to vital organs and allowing for localized immune responses only.",
+                        "wrongAnswer_4": "The lymphatic system releases antimicrobial enzymes into the lymph fluid, directly destroying bacterial cell walls and viral envelopes as lymph circulates."
+                    }
+                ]
+            },
+            {
+                "title": "Lymphoid Organs",
+                "quizzes": [
+                    {
+                        "question": "Which statement accurately distinguishes between primary and secondary lymphoid organs in their roles in immune function?",
+                        "goodAnswer": "Primary lymphoid organs, like bone marrow and thymus, are sites of lymphocyte development and maturation, while secondary lymphoid organs, such as lymph nodes and spleen, are sites where immune responses are initiated.",
+                        "wrongAnswer_1": "Primary lymphoid organs, like lymph nodes and spleen, are responsible for filtering lymph and trapping antigens, whereas secondary lymphoid organs, such as bone marrow and thymus, produce immune cells.",
+                        "wrongAnswer_2": "Primary lymphoid organs are involved in the destruction of old and damaged blood cells, while secondary lymphoid organs are exclusively dedicated to lymphocyte maturation and differentiation.",
+                        "wrongAnswer_3": "Primary lymphoid organs are the primary sites of antibody production, while secondary lymphoid organs are responsible for cell-mediated immunity and cytotoxic T cell activation.",
+                        "wrongAnswer_4": "Primary lymphoid organs are characterized by diffuse lymphatic tissue, whereas secondary lymphoid organs are encapsulated and have distinct cortical and medullary regions."
+                    },
+                    {
+                        "question": "What is the fundamental difference in function between the thymus and the bone marrow in the context of lymphocyte development?",
+                        "goodAnswer": "Bone marrow is the site of origin for all lymphocytes, while the thymus is the primary site for T lymphocyte maturation and selection, ensuring self-tolerance.",
+                        "wrongAnswer_1": "Bone marrow is responsible for B lymphocyte maturation and antibody production, whereas the thymus is the site of origin for all lymphocyte precursors.",
+                        "wrongAnswer_2": "Bone marrow filters lymph and activates lymphocytes, while the thymus produces hematopoietic stem cells that differentiate into all blood cell types.",
+                        "wrongAnswer_3": "Bone marrow provides the structural framework for lymphocyte activation in secondary lymphoid organs, whereas the thymus is involved in destroying aged lymphocytes.",
+                        "wrongAnswer_4": "Bone marrow and thymus both contribute equally to the maturation of both T and B lymphocytes, but they are spatially separated within the body."
+                    },
+                    {
+                        "question": "How do secondary lymphoid organs, such as lymph nodes and the spleen, facilitate adaptive immune responses?",
+                        "goodAnswer": "They trap antigens and provide a structured environment where lymphocytes can encounter antigens, become activated, and initiate specific immune responses, including clonal expansion.",
+                        "wrongAnswer_1": "They produce cytokines and chemokines that directly kill pathogens and prevent infection spread, representing the first line of defense in the adaptive immune system.",
+                        "wrongAnswer_2": "They circulate antibodies throughout the body, ensuring widespread pathogen neutralization and preventing systemic dissemination of infections.",
+                        "wrongAnswer_3": "They induce inflammation at sites of infection, recruiting immune cells and promoting tissue repair and pathogen clearance through innate mechanisms.",
+                        "wrongAnswer_4": "They store memory lymphocytes for rapid recall responses upon re-exposure to antigens, primarily functioning in immunological memory establishment."
+                    }
+                ]
+            },
+            {
+                "title": "Diapedesis",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the process of diapedesis in the context of leukocyte extravasation during inflammation?",
+                        "goodAnswer": "Diapedesis is the active migration of leukocytes, particularly neutrophils and monocytes, through the endothelial cell junctions of blood vessels into the surrounding tissues at sites of inflammation.",
+                        "wrongAnswer_1": "Diapedesis refers to the passive diffusion of plasma proteins and fluid from blood vessels into tissues during inflammation, causing swelling and edema.",
+                        "wrongAnswer_2": "Diapedesis is the process by which erythrocytes squeeze through capillary walls to deliver oxygen to tissues during increased metabolic demand.",
+                        "wrongAnswer_3": "Diapedesis describes the engulfment of pathogens by phagocytes within the bloodstream, preventing their entry into tissues and limiting infection spread.",
+                        "wrongAnswer_4": "Diapedesis is the adhesion of platelets to damaged blood vessel walls, initiating the formation of a blood clot and preventing blood loss during injury."
+                    },
+                    {
+                        "question": "What molecular interactions are crucial for the process of leukocyte diapedesis across the endothelium?",
+                        "goodAnswer": "Integrins on leukocytes and intercellular adhesion molecules (ICAMs) on endothelial cells are essential for firm adhesion and subsequent transmigration through endothelial junctions.",
+                        "wrongAnswer_1": "Selectins on leukocytes and mucins on endothelial cells mediate the firm adhesion required for diapedesis and leukocyte rolling along the endothelium.",
+                        "wrongAnswer_2": "Cadherins on leukocytes and vascular endothelial cadherins (VE-cadherins) on endothelial cells facilitate the initial tethering and rolling of leukocytes during diapedesis.",
+                        "wrongAnswer_3": "Chemokines presented on endothelial cells and chemokine receptors on leukocytes guide the directional movement of leukocytes but are not directly involved in diapedesis itself.",
+                        "wrongAnswer_4": "Toll-like receptors (TLRs) on leukocytes and pathogen-associated molecular patterns (PAMPs) on endothelial cells trigger diapedesis in response to infection."
+                    },
+                    {
+                        "question": "In what order do the key steps of leukocyte extravasation, including diapedesis, typically occur during an inflammatory response?",
+                        "goodAnswer": "Rolling -> Activation -> Adhesion -> Diapedesis -> Chemotaxis",
+                        "wrongAnswer_1": "Adhesion -> Rolling -> Chemotaxis -> Diapedesis -> Activation",
+                        "wrongAnswer_2": "Activation -> Chemotaxis -> Rolling -> Adhesion -> Diapedesis",
+                        "wrongAnswer_3": "Chemotaxis -> Diapedesis -> Adhesion -> Rolling -> Activation",
+                        "wrongAnswer_4": "Rolling -> Diapedesis -> Adhesion -> Activation -> Chemotaxis"
+                    }
+                ]
+            },
+            {
+                "title": "Regions of extensive lymphoid infiltration",
+                "quizzes": [
+                    {
+                        "question": "Mucosa-associated lymphoid tissue (MALT) represents a significant region of lymphoid infiltration. What is its primary function?",
+                        "goodAnswer": "MALT is strategically located in mucosal linings to initiate immune responses against pathogens entering through mucosal surfaces like the gut, respiratory tract, and urogenital tract.",
+                        "wrongAnswer_1": "MALT is primarily involved in filtering lymph and removing pathogens from lymphatic fluid before it returns to the bloodstream, similar to lymph node function.",
+                        "wrongAnswer_2": "MALT is responsible for the maturation and selection of T lymphocytes, ensuring immune tolerance to self-antigens and preventing autoimmunity.",
+                        "wrongAnswer_3": "MALT functions as a reservoir for immune cells, releasing them into circulation during systemic infections to amplify immune responses throughout the body.",
+                        "wrongAnswer_4": "MALT produces antibodies that are secreted into mucosal secretions, providing a physical barrier against pathogen invasion and colonization of mucosal surfaces."
+                    },
+                    {
+                        "question": "Gut-associated lymphoid tissue (GALT) is a major component of MALT. Which of the following accurately describes a key aspect of GALT's function in the intestine?",
+                        "goodAnswer": "GALT, including Peyer's patches and isolated lymphoid follicles, samples antigens from the gut lumen and initiates immune responses to maintain immune homeostasis and defend against enteric pathogens.",
+                        "wrongAnswer_1": "GALT primarily functions to absorb nutrients from digested food in the small intestine, with a secondary role in immune surveillance against foodborne pathogens.",
+                        "wrongAnswer_2": "GALT secretes digestive enzymes and mucus in the gut lumen, aiding in digestion and creating a physical barrier against pathogen entry into the intestinal mucosa.",
+                        "wrongAnswer_3": "GALT regulates gut motility and peristalsis, ensuring efficient movement of food through the digestive tract and preventing bacterial overgrowth in the intestines.",
+                        "wrongAnswer_4": "GALT produces antimicrobial peptides that directly kill bacteria in the gut lumen, maintaining a sterile environment and preventing infection of the intestinal mucosa."
+                    },
+                    {
+                        "question": "What distinguishes cutaneous-associated lymphoid tissue (CALT) from other regions of extensive lymphoid infiltration like MALT?",
+                        "goodAnswer": "CALT, located in the skin, primarily defends against pathogens entering through the skin, whereas MALT protects mucosal surfaces of internal organs and tracts.",
+                        "wrongAnswer_1": "CALT is responsible for systemic immune responses throughout the body, while MALT is localized to specific mucosal sites and does not contribute to systemic immunity.",
+                        "wrongAnswer_2": "CALT is involved in lymphocyte maturation and selection, similar to the thymus, whereas MALT is a secondary lymphoid tissue where immune responses are initiated.",
+                        "wrongAnswer_3": "CALT filters lymph draining from the skin, while MALT filters lymph from mucosal tissues and returns it to the bloodstream via the thoracic duct.",
+                        "wrongAnswer_4": "CALT primarily mediates allergic reactions in the skin, whereas MALT is involved in tolerance to dietary antigens and prevention of food allergies."
+                    }
+                ]
+            },
+            {
+                "title": "Lymph Nodes",
+                "quizzes": [
+                    {
+                        "question": "What is the primary function of lymph nodes within the lymphatic system?",
+                        "goodAnswer": "Lymph nodes filter lymph fluid, trapping antigens and providing a site for lymphocytes to encounter antigens, become activated, and initiate adaptive immune responses.",
+                        "wrongAnswer_1": "Lymph nodes pump lymph fluid throughout the lymphatic system, ensuring unidirectional flow and preventing backflow through valves in lymphatic vessels.",
+                        "wrongAnswer_2": "Lymph nodes produce red blood cells and platelets, contributing to hematopoiesis and maintaining blood cell counts within physiological ranges.",
+                        "wrongAnswer_3": "Lymph nodes secrete hormones that regulate blood pressure and fluid balance, indirectly influencing lymphatic fluid circulation and tissue hydration.",
+                        "wrongAnswer_4": "Lymph nodes store excess interstitial fluid and release it back into tissues during dehydration, maintaining tissue fluid homeostasis and preventing tissue damage."
+                    },
+                    {
+                        "question": "Describe the structural organization of a lymph node and how it facilitates its function in immune surveillance.",
+                        "goodAnswer": "Lymph nodes have distinct cortex and medulla regions. The cortex contains follicles with B cells and germinal centers, while the medulla contains T cells and macrophages, creating zones for antigen presentation and lymphocyte activation.",
+                        "wrongAnswer_1": "Lymph nodes are composed of a single homogeneous tissue type without distinct regions, relying on random encounters between lymphocytes and antigens within the node.",
+                        "wrongAnswer_2": "Lymph nodes are primarily composed of adipose tissue and connective tissue, providing structural support for lymphatic vessels and acting as a storage site for fat-soluble vitamins.",
+                        "wrongAnswer_3": "Lymph nodes are encapsulated glands that secrete enzymes into the lymph fluid to break down pathogens and neutralize toxins before lymph returns to the bloodstream.",
+                        "wrongAnswer_4": "Lymph nodes are hollow chambers filled with lymph fluid, serving as reservoirs for fluid storage and pressure regulation within the lymphatic system."
+                    },
+                    {
+                        "question": "Afferent and efferent lymphatic vessels serve distinct roles in lymph node function. What accurately differentiates their roles?",
+                        "goodAnswer": "Afferent lymphatic vessels bring lymph containing antigens into the lymph node for filtration, while efferent lymphatic vessels carry filtered lymph and activated lymphocytes out of the node.",
+                        "wrongAnswer_1": "Afferent lymphatic vessels carry lymph away from the lymph node to peripheral tissues, while efferent lymphatic vessels bring lymph from tissues into the lymph node for processing.",
+                        "wrongAnswer_2": "Afferent lymphatic vessels are larger and more numerous, responsible for the bulk flow of lymph, whereas efferent vessels are smaller and regulate lymph outflow rate.",
+                        "wrongAnswer_3": "Afferent lymphatic vessels are associated with the medulla of the lymph node, while efferent lymphatic vessels are primarily located in the cortex and follicles.",
+                        "wrongAnswer_4": "Afferent lymphatic vessels transport oxygenated lymph to the lymph node, while efferent lymphatic vessels carry deoxygenated lymph away from the node after filtration."
+                    },
+                    {
+                        "question": "What is the significance of lymph node swelling during an infection?",
+                        "goodAnswer": "Lymph node swelling, or lymphadenopathy, indicates increased lymphocyte proliferation and activation within the node in response to infection, reflecting an active immune response.",
+                        "wrongAnswer_1": "Lymph node swelling is a sign of lymphatic vessel blockage, preventing lymph drainage and causing fluid accumulation within the lymph node and surrounding tissues.",
+                        "wrongAnswer_2": "Lymph node swelling indicates pathogen replication within the lymph node, overwhelming the immune system and leading to systemic dissemination of infection.",
+                        "wrongAnswer_3": "Lymph node swelling is a result of increased blood flow to the lymph node, delivering more oxygen and nutrients to support pathogen replication and infection spread.",
+                        "wrongAnswer_4": "Lymph node swelling is a non-specific inflammatory response unrelated to immune activation, caused by tissue damage and release of inflammatory mediators."
+                    }
+                ]
+            },
+            {
+                "title": "Lymphocyte homing",
+                "quizzes": [
+                    {
+                        "question": "What is the process of lymphocyte homing, and why is it crucial for effective immune responses?",
+                        "goodAnswer": "Lymphocyte homing is the directed migration of lymphocytes to specific tissues, such as lymph nodes or sites of inflammation, ensuring immune cells are strategically positioned to encounter antigens and mount responses.",
+                        "wrongAnswer_1": "Lymphocyte homing refers to the random circulation of lymphocytes throughout the bloodstream, allowing them to encounter antigens by chance and initiate immune responses anywhere in the body.",
+                        "wrongAnswer_2": "Lymphocyte homing is the process of lymphocyte maturation and differentiation within primary lymphoid organs, ensuring they develop the necessary receptors to recognize diverse antigens.",
+                        "wrongAnswer_3": "Lymphocyte homing describes the engulfment of pathogens by lymphocytes in tissues, preventing infection spread and promoting pathogen clearance through phagocytosis.",
+                        "wrongAnswer_4": "Lymphocyte homing is the aggregation of lymphocytes at sites of tissue damage to initiate repair processes and restore tissue homeostasis after injury."
+                    },
+                    {
+                        "question": "Which molecules play a critical role in directing lymphocyte homing to specific lymphoid organs like lymph nodes?",
+                        "goodAnswer": "Chemokines, such as CCL21 and CCL19, and adhesion molecules, like L-selectin and integrins, expressed on lymphocytes and endothelial cells of high endothelial venules (HEVs) in lymph nodes, guide lymphocyte entry.",
+                        "wrongAnswer_1": "Antibodies circulating in the bloodstream bind to lymphocytes and target them to specific lymphoid organs, ensuring antigen-specific lymphocyte accumulation at sites of infection.",
+                        "wrongAnswer_2": "Cytokines released by activated immune cells recruit lymphocytes to specific lymphoid organs, amplifying immune responses and promoting localized inflammation.",
+                        "wrongAnswer_3": "Growth factors produced by lymphoid organs stimulate lymphocyte proliferation and differentiation within these organs, leading to increased lymphocyte numbers and enhanced immune surveillance.",
+                        "wrongAnswer_4": "Hormones secreted by endocrine glands regulate lymphocyte trafficking and homing to specific lymphoid tissues, maintaining immune homeostasis and preventing autoimmune reactions."
+                    },
+                    {
+                        "question": "How does lymphocyte homing differ between naive lymphocytes and effector lymphocytes?",
+                        "goodAnswer": "Naive lymphocytes primarily home to secondary lymphoid organs to scan for antigens, while effector lymphocytes home to sites of inflammation in peripheral tissues to execute immune functions after activation.",
+                        "wrongAnswer_1": "Naive lymphocytes circulate throughout the body without specific tissue preferences, whereas effector lymphocytes are restricted to secondary lymphoid organs to prevent autoimmunity.",
+                        "wrongAnswer_2": "Naive lymphocytes home to primary lymphoid organs for maturation, while effector lymphocytes home to secondary lymphoid organs for antigen encounter and activation.",
+                        "wrongAnswer_3": "Naive lymphocytes primarily reside in peripheral tissues to provide immediate protection against pathogens, while effector lymphocytes are stored in secondary lymphoid organs for long-term immunological memory.",
+                        "wrongAnswer_4": "Naive and effector lymphocytes exhibit identical homing patterns, circulating randomly throughout the body and responding to antigens wherever they encounter them."
+                    }
+                ]
+            },
+            {
+                "title": "Spleen",
+                "quizzes": [
+                    {
+                        "question": "What are the main functions of the spleen in the adult human body?",
+                        "goodAnswer": "The spleen filters blood, removes aged or damaged blood cells and platelets, stores platelets and iron, and is a site for immune responses against bloodborne pathogens.",
+                        "wrongAnswer_1": "The spleen produces digestive enzymes and bile acids to aid in fat digestion and absorption in the small intestine, contributing to nutrient processing.",
+                        "wrongAnswer_2": "The spleen regulates blood glucose levels by secreting insulin and glucagon, maintaining metabolic homeostasis and preventing hyperglycemia or hypoglycemia.",
+                        "wrongAnswer_3": "The spleen filters lymph fluid and traps antigens, similar to lymph nodes, initiating immune responses against tissue-borne pathogens and maintaining tissue fluid balance.",
+                        "wrongAnswer_4": "The spleen synthesizes clotting factors and proteins essential for blood coagulation, preventing excessive bleeding and maintaining hemostasis after injury."
+                    },
+                    {
+                        "question": "Describe the structural components of the spleen, including red pulp and white pulp, and their respective functions.",
+                        "goodAnswer": "The spleen contains red pulp, which filters blood and removes old blood cells, and white pulp, which contains lymphoid tissue, including periarteriolar lymphoid sheaths (PALS) and follicles, for immune responses.",
+                        "wrongAnswer_1": "The spleen is composed of cortex and medulla regions, similar to lymph nodes. The cortex filters lymph, while the medulla produces lymphocytes and antibodies for systemic immunity.",
+                        "wrongAnswer_2": "The spleen has distinct lobules, similar to the liver. Each lobule contains hepatocytes for detoxification and Kupffer cells for phagocytosis of bloodborne pathogens.",
+                        "wrongAnswer_3": "The spleen is structurally divided into anterior and posterior segments. The anterior segment filters blood, while the posterior segment stores red blood cells and platelets.",
+                        "wrongAnswer_4": "The spleen is a hollow organ with a central cavity filled with blood. The cavity is lined with endothelial cells that filter blood and remove cellular debris and pathogens."
+                    },
+                    {
+                        "question": "How does the spleen contribute to the removal of old or damaged red blood cells from circulation?",
+                        "goodAnswer": "Macrophages in the red pulp of the spleen identify and phagocytose senescent or abnormal red blood cells based on changes in their surface markers, recycling iron and heme components.",
+                        "wrongAnswer_1": "The spleen filters blood through specialized capillaries with narrow openings that physically trap old and rigid red blood cells, removing them from circulation via mechanical filtration.",
+                        "wrongAnswer_2": "The spleen secretes enzymes into the bloodstream that directly lyse old and damaged red blood cells, releasing hemoglobin and cellular components for removal by the liver and kidneys.",
+                        "wrongAnswer_3": "The spleen induces apoptosis in senescent red blood cells through cell-cell contact and signaling, triggering programmed cell death and subsequent clearance by phagocytes in the liver.",
+                        "wrongAnswer_4": "The spleen produces antibodies that specifically target old and damaged red blood cells, marking them for destruction by complement-mediated lysis and phagocytosis in the bone marrow."
+                    },
+                    {
+                        "question": "What is the immunological role of the white pulp in the spleen?",
+                        "goodAnswer": "The white pulp initiates immune responses against bloodborne antigens. Periarteriolar lymphoid sheaths (PALS) are rich in T cells, and follicles contain B cells, facilitating antigen presentation and lymphocyte activation.",
+                        "wrongAnswer_1": "The white pulp primarily functions in hematopoiesis, producing new red blood cells, white blood cells, and platelets to replenish blood cell counts in circulation.",
+                        "wrongAnswer_2": "The white pulp filters lymph fluid draining from the spleen, removing antigens and pathogens before lymph returns to the bloodstream via the thoracic duct.",
+                        "wrongAnswer_3": "The white pulp stores iron and heme recycled from old red blood cells, providing essential components for erythropoiesis in the bone marrow.",
+                        "wrongAnswer_4": "The white pulp regulates blood flow through the spleen, controlling blood volume and pressure within the splenic circulation and preventing splenic congestion."
+                    }
+                ]
+            },
+            {
+                "title": "The Thymus",
+                "quizzes": [
+                    {
+                        "question": "What is the primary role of the thymus gland in the development of the immune system?",
+                        "goodAnswer": "The thymus is the primary site for T lymphocyte maturation and positive and negative selection, ensuring the development of self-tolerant and functional T cells.",
+                        "wrongAnswer_1": "The thymus is responsible for B lymphocyte maturation and antibody production, generating a diverse repertoire of antibodies to recognize and neutralize pathogens.",
+                        "wrongAnswer_2": "The thymus filters lymph fluid and traps antigens, similar to lymph nodes, initiating immune responses against tissue-borne pathogens and maintaining tissue homeostasis.",
+                        "wrongAnswer_3": "The thymus produces hormones that regulate blood pressure and fluid balance, indirectly influencing immune cell circulation and tissue hydration.",
+                        "wrongAnswer_4": "The thymus stores memory lymphocytes for rapid recall responses upon re-exposure to antigens, primarily functioning in immunological memory establishment and long-term immunity."
+                    },
+                    {
+                        "question": "Describe the process of T cell maturation within the thymus, including positive and negative selection.",
+                        "goodAnswer": "T cell precursors undergo positive selection to ensure MHC restriction and negative selection to eliminate self-reactive T cells, resulting in a self-tolerant and MHC-restricted T cell repertoire.",
+                        "wrongAnswer_1": "T cell maturation in the thymus involves clonal expansion of all T cell precursors, followed by differentiation into various T cell subsets without selection processes.",
+                        "wrongAnswer_2": "T cell precursors are directly activated by antigens in the thymus, leading to their differentiation into effector T cells and migration to peripheral tissues to initiate immune responses.",
+                        "wrongAnswer_3": "T cell maturation in the thymus is primarily focused on developing innate immune functions, such as phagocytosis and cytokine production, rather than adaptive immune responses.",
+                        "wrongAnswer_4": "T cell precursors undergo positive selection to eliminate non-functional T cells and negative selection to enhance reactivity against foreign antigens, maximizing immune responsiveness."
+                    },
+                    {
+                        "question": "What are thymic epithelial cells (TECs) and their role in T cell development?",
+                        "goodAnswer": "Thymic epithelial cells (TECs) provide the microenvironment for T cell maturation, mediating positive and negative selection by expressing MHC molecules and self-antigens, and secreting cytokines.",
+                        "wrongAnswer_1": "Thymic epithelial cells (TECs) are phagocytic cells in the thymus that engulf and destroy T cell precursors that fail to mature properly or exhibit autoreactivity.",
+                        "wrongAnswer_2": "Thymic epithelial cells (TECs) produce hormones that regulate T cell proliferation and differentiation within the thymus, controlling the rate of T cell production and maturation.",
+                        "wrongAnswer_3": "Thymic epithelial cells (TECs) form the structural framework of the thymus, providing physical support for developing T cells and separating thymic compartments.",
+                        "wrongAnswer_4": "Thymic epithelial cells (TECs) present foreign antigens to T cell precursors in the thymus, initiating T cell activation and differentiation into antigen-specific effector T cells."
+                    },
+                    {
+                        "question": "How does thymic involution, the age-related shrinkage of the thymus, impact immune function?",
+                        "goodAnswer": "Thymic involution reduces the output of new T cells, particularly naive T cells, potentially diminishing immune repertoire diversity and increasing susceptibility to infections and age-related immune decline.",
+                        "wrongAnswer_1": "Thymic involution enhances immune function by concentrating T cell maturation in a smaller thymic volume, leading to more efficient T cell selection and increased immune responsiveness.",
+                        "wrongAnswer_2": "Thymic involution primarily affects B cell development, leading to decreased antibody production and increased susceptibility to autoimmune diseases in older individuals.",
+                        "wrongAnswer_3": "Thymic involution has minimal impact on immune function as peripheral expansion of existing T cells compensates for reduced thymic output throughout life.",
+                        "wrongAnswer_4": "Thymic involution is a protective mechanism that prevents excessive T cell production and reduces the risk of autoimmune diseases in older age by limiting T cell diversity."
+                    }
+                ]
+            }
+        ]
+    }
+}

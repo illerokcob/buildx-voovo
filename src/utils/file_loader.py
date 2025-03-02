@@ -24,6 +24,12 @@ def loadPdfs(client: genai.Client, path: str):
     
     return parts
 
+
+def saveJSON(dest: str, data: any):
+    Path(os.path.dirname(dest)).mkdir(parents=True, exist_ok=True)
+    with open(dest, "w") as file:
+        print(json.dumps(data, indent=4), file=file) 
+
 # Returns True if the subtopics matched the expectations
 def saveResult(src: str, dest: str, aiResponse: str):
     regex = r"```json(.*)```"
@@ -47,9 +53,7 @@ def saveResult(src: str, dest: str, aiResponse: str):
             return False
     
     
-    Path(os.path.dirname(dest)).mkdir(parents=True, exist_ok=True)
-    with open(dest, "w") as file:
-        print(json.dumps(src_data, indent=4), file=file) 
+    saveJSON(dest, src_data)
         # the src_data is returned, because the quizzes are added to it and this way the mainTopic and the subTopic names are reserved like in the examples
     
     return True

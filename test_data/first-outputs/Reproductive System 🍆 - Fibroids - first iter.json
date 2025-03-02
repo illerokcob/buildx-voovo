@@ -1,0 +1,164 @@
+{
+    "mainTopic": {
+        "title": "Fibroids",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General characteristics",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the cellular composition and hormonal sensitivity of uterine fibroids?",
+                        "goodAnswer": "Uterine fibroids are benign tumors composed of smooth muscle cells and extracellular matrix, exhibiting notable sensitivity to estrogen and progesterone.",
+                        "wrongAnswer_1": "Uterine fibroids are malignant neoplasms primarily composed of endothelial cells, demonstrating a primary sensitivity to androgens and cortisol.",
+                        "wrongAnswer_2": "Uterine fibroids are cystic lesions filled with serous fluid, originating from glandular epithelium and responding mainly to follicle-stimulating hormone (FSH).",
+                        "wrongAnswer_3": "Uterine fibroids are infectious granulomas formed by immune cells, showing sensitivity to inflammatory cytokines and growth hormone.",
+                        "wrongAnswer_4": "Uterine fibroids are degenerative lesions of connective tissue, characterized by insensitivity to hormonal influences and primarily composed of collagen and elastin."
+                    },
+                    {
+                        "question": "Considering the growth patterns of uterine fibroids, which statement best describes their typical development?",
+                        "goodAnswer": "Uterine fibroids typically exhibit slow, progressive growth over several years, with growth rates influenced by hormonal fluctuations and individual patient factors.",
+                        "wrongAnswer_1": "Uterine fibroids demonstrate rapid, exponential growth within a few months, primarily due to genetic mutations and independent of hormonal stimuli.",
+                        "wrongAnswer_2": "Uterine fibroids are characterized by cyclical growth and regression, mirroring the menstrual cycle phases and directly linked to luteinizing hormone (LH) levels.",
+                        "wrongAnswer_3": "Uterine fibroids show erratic growth spurts followed by periods of dormancy, largely dependent on dietary factors and unrelated to hormonal environments.",
+                        "wrongAnswer_4": "Uterine fibroids typically undergo spontaneous regression after reaching a certain size, primarily due to cellular apoptosis induced by the immune system."
+                    },
+                    {
+                        "question": "What is the most accurate classification of uterine fibroids based on their location within the uterus?",
+                        "goodAnswer": "Uterine fibroids are classified as submucosal, intramural, subserosal, or pedunculated, depending on their location relative to the endometrium, myometrium, and serosa.",
+                        "wrongAnswer_1": "Uterine fibroids are categorized as anterior, posterior, lateral, or fundal, based on their position within the uterine quadrants and their proximity to major blood vessels.",
+                        "wrongAnswer_2": "Uterine fibroids are grouped into type I, type II, and type III, reflecting their histological grade and potential for malignant transformation within the uterine cavity.",
+                        "wrongAnswer_3": "Uterine fibroids are classified as simple, complex, or mixed, according to their macroscopic appearance and the presence of calcifications or cystic degeneration.",
+                        "wrongAnswer_4": "Uterine fibroids are distinguished as central, peripheral, or transmural, depending on their depth of penetration into the uterine wall and their effect on adjacent organs."
+                    }
+                ]
+            },
+            {
+                "title": "Location, Incidence & etiology, development of fibroids",
+                "quizzes": [
+                    {
+                        "question": "Regarding the typical location of uterine fibroids, where are intramural fibroids primarily situated?",
+                        "goodAnswer": "Intramural fibroids are located within the myometrium, expanding within the muscular wall of the uterus and potentially causing distortion of the uterine cavity.",
+                        "wrongAnswer_1": "Intramural fibroids are positioned beneath the endometrium, projecting into the uterine cavity and frequently causing heavy menstrual bleeding and infertility.",
+                        "wrongAnswer_2": "Intramural fibroids are found on the serosal surface of the uterus, growing outwards into the pelvic cavity and often causing pelvic pressure and pain.",
+                        "wrongAnswer_3": "Intramural fibroids are located in the cervix, within the lower uterine segment, and are less common than fundal or corporeal fibroids.",
+                        "wrongAnswer_4": "Intramural fibroids are situated within the broad ligament, adjacent to the uterus, and are often misdiagnosed as adnexal masses or ovarian tumors."
+                    },
+                    {
+                        "question": "What is the estimated cumulative incidence of uterine fibroids in women by the age of 50 years?",
+                        "goodAnswer": "The cumulative incidence of uterine fibroids is estimated to be approximately 70-80% in women by the age of 50 years, varying with ethnicity and other risk factors.",
+                        "wrongAnswer_1": "The cumulative incidence of uterine fibroids is estimated to be around 20-30% in women by the age of 50 years, primarily affecting women with a history of nulliparity.",
+                        "wrongAnswer_2": "The cumulative incidence of uterine fibroids is estimated to be as high as 90-95% in women by the age of 50 years, particularly in women of Asian descent.",
+                        "wrongAnswer_3": "The cumulative incidence of uterine fibroids is estimated to be less than 10% in women by the age of 50 years, mainly occurring in women with early menopause.",
+                        "wrongAnswer_4": "The cumulative incidence of uterine fibroids is estimated to be 50-60% in women by the age of 50 years, with a higher prevalence in women with a high BMI."
+                    },
+                    {
+                        "question": "Which of the following factors is considered a well-established etiological factor in the development of uterine fibroids?",
+                        "goodAnswer": "Prolonged exposure to estrogen and progesterone, along with genetic predisposition and growth factors, are considered key etiological factors in the development of uterine fibroids.",
+                        "wrongAnswer_1": "Chronic bacterial infections of the uterus, particularly with Chlamydia trachomatis and Neisseria gonorrhoeae, are the primary etiological factors for uterine fibroid formation.",
+                        "wrongAnswer_2": "Autoimmune disorders such as systemic lupus erythematosus and rheumatoid arthritis are strongly linked to the etiology of uterine fibroids through inflammatory pathways.",
+                        "wrongAnswer_3": "Dietary factors, specifically high intake of saturated fats and red meat, are the most significant etiological factors contributing to the development of uterine fibroids.",
+                        "wrongAnswer_4": "Environmental toxins, such as heavy metals and pesticides, are the leading etiological factors directly causing the initiation and growth of uterine fibroids."
+                    },
+                    {
+                        "question": "In the context of uterine fibroid development, what role do growth factors like TGF-\u03b2 and IGF-1 primarily play?",
+                        "goodAnswer": "Growth factors such as TGF-\u03b2 and IGF-1 stimulate extracellular matrix production and smooth muscle cell proliferation, contributing to the growth and maintenance of uterine fibroids.",
+                        "wrongAnswer_1": "Growth factors like TGF-\u03b2 and IGF-1 primarily induce apoptosis of smooth muscle cells and degradation of extracellular matrix, leading to the regression of uterine fibroids.",
+                        "wrongAnswer_2": "Growth factors such as TGF-\u03b2 and IGF-1 mainly promote angiogenesis within fibroids, facilitating blood supply but not directly affecting cellular proliferation or matrix synthesis.",
+                        "wrongAnswer_3": "Growth factors such as TGF-\u03b2 and IGF-1 act primarily as inhibitors of smooth muscle cell growth and extracellular matrix deposition, preventing the formation of uterine fibroids.",
+                        "wrongAnswer_4": "Growth factors like TGF-\u03b2 and IGF-1 are involved in the malignant transformation of uterine fibroids, promoting cellular atypia and uncontrolled proliferation leading to leiomyosarcoma."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which imaging modality is typically considered the first-line diagnostic tool for evaluating suspected uterine fibroids?",
+                        "goodAnswer": "Transvaginal ultrasonography (TVUS) is generally considered the first-line imaging modality for diagnosing and evaluating uterine fibroids due to its accessibility and accuracy.",
+                        "wrongAnswer_1": "Computed tomography (CT) scan of the pelvis is the primary diagnostic tool for uterine fibroids because of its high sensitivity in detecting small lesions and calcifications.",
+                        "wrongAnswer_2": "Magnetic resonance imaging (MRI) of the pelvis is routinely used as the initial diagnostic test for uterine fibroids due to its superior soft tissue resolution and detailed anatomical assessment.",
+                        "wrongAnswer_3": "Hysterosalpingography (HSG) is the initial diagnostic procedure of choice for uterine fibroids, particularly for evaluating submucosal fibroids and their impact on fertility.",
+                        "wrongAnswer_4": "Laparoscopy with direct visualization of the uterus is the first-line diagnostic method for identifying uterine fibroids and assessing their size and location."
+                    },
+                    {
+                        "question": "What is the primary advantage of using saline infusion sonohysterography (SIS) in the diagnosis of uterine fibroids?",
+                        "goodAnswer": "Saline infusion sonohysterography (SIS) enhances the visualization of submucosal fibroids and their relationship to the endometrial cavity, improving diagnostic accuracy.",
+                        "wrongAnswer_1": "Saline infusion sonohysterography (SIS) is primarily used to assess the vascularity of uterine fibroids, helping to differentiate between benign and malignant lesions.",
+                        "wrongAnswer_2": "Saline infusion sonohysterography (SIS) is mainly employed to evaluate the size and volume of intramural fibroids, providing precise measurements for treatment planning.",
+                        "wrongAnswer_3": "Saline infusion sonohysterography (SIS) is primarily utilized to detect subserosal fibroids and their potential for torsion or pedunculation, guiding surgical management.",
+                        "wrongAnswer_4": "Saline infusion sonohysterography (SIS) is used to assess the presence of adenomyosis and differentiate it from uterine fibroids based on endometrial gland visualization."
+                    },
+                    {
+                        "question": "In which clinical scenario is pelvic MRI most likely to be indicated for the diagnostic evaluation of uterine fibroids?",
+                        "goodAnswer": "Pelvic MRI is indicated when there is a need for detailed mapping of fibroids prior to surgical intervention, particularly in cases of large or numerous fibroids, or to differentiate fibroids from adenomyosis or malignancy.",
+                        "wrongAnswer_1": "Pelvic MRI is routinely indicated for all women presenting with symptoms suggestive of uterine fibroids as a primary screening tool before ultrasonography.",
+                        "wrongAnswer_2": "Pelvic MRI is primarily indicated for monitoring the growth rate of uterine fibroids during conservative management and for assessing response to medical therapies.",
+                        "wrongAnswer_3": "Pelvic MRI is mainly used to evaluate uterine fibroids in postmenopausal women to rule out endometrial cancer and to assess for any malignant transformation of fibroids.",
+                        "wrongAnswer_4": "Pelvic MRI is indicated in cases of suspected cervical fibroids to accurately assess their size and location relative to the cervical canal and adjacent structures."
+                    },
+                    {
+                        "question": "Which of the following diagnostic findings would be most suggestive of a leiomyosarcoma rather than a benign uterine fibroid?",
+                        "goodAnswer": "Rapid growth of a uterine mass in a postmenopausal woman, heterogeneous echotexture on ultrasound with areas of necrosis and hemorrhage, and elevated serum LDH levels would be highly suggestive of leiomyosarcoma.",
+                        "wrongAnswer_1": "Slow growth of a uterine mass in a premenopausal woman, homogeneous echotexture on ultrasound with minimal vascularity, and normal serum CA-125 levels are typically indicative of leiomyosarcoma.",
+                        "wrongAnswer_2": "Multiple, small uterine masses with calcifications on ultrasound, regular menstrual cycles, and absence of pelvic pain are strongly suggestive of leiomyosarcoma.",
+                        "wrongAnswer_3": "Presence of a pedunculated uterine mass on ultrasound, mild pelvic discomfort, and normal serum ferritin levels are characteristic findings of leiomyosarcoma.",
+                        "wrongAnswer_4": "Uterine mass detected incidentally on routine pelvic exam in an asymptomatic woman, hypoechoic appearance on ultrasound, and normal serum AFP levels are highly suggestive of leiomyosarcoma."
+                    }
+                ]
+            },
+            {
+                "title": "Therapy",
+                "quizzes": [
+                    {
+                        "question": "Which medical treatment option primarily aims to reduce uterine fibroid size and alleviate symptoms by inducing a hypoestrogenic state?",
+                        "goodAnswer": "Gonadotropin-releasing hormone (GnRH) agonists are used to induce a temporary hypoestrogenic state, effectively reducing fibroid size and alleviating symptoms before surgery or as a short-term treatment.",
+                        "wrongAnswer_1": "Selective estrogen receptor modulators (SERMs) like tamoxifen are used to directly shrink uterine fibroids by blocking estrogen receptors within the fibroid tissue.",
+                        "wrongAnswer_2": "Progestin-releasing intrauterine devices (IUDs) are the primary medical treatment for reducing fibroid volume by directly suppressing fibroid cell proliferation.",
+                        "wrongAnswer_3": "Aromatase inhibitors are used to decrease estrogen production in peripheral tissues, specifically targeting estrogen synthesis within uterine fibroids to promote shrinkage.",
+                        "wrongAnswer_4": "Androgens such as danazol are administered to directly antagonize estrogen effects on uterine fibroids, resulting in significant reduction in fibroid size and symptom control."
+                    },
+                    {
+                        "question": "What is the mechanism of action of ulipristal acetate in the medical management of uterine fibroids?",
+                        "goodAnswer": "Ulipristal acetate is a selective progesterone receptor modulator (SPRM) that partially blocks progesterone receptors in fibroids, reducing fibroid size and controlling bleeding.",
+                        "wrongAnswer_1": "Ulipristal acetate is a selective estrogen receptor modulator (SERM) that competes with estrogen for binding to estrogen receptors in fibroid tissue, inhibiting fibroid growth.",
+                        "wrongAnswer_2": "Ulipristal acetate is a GnRH antagonist that directly suppresses gonadotropin release, leading to a hypoestrogenic state and subsequent fibroid shrinkage.",
+                        "wrongAnswer_3": "Ulipristal acetate is an aromatase inhibitor that reduces systemic estrogen levels, indirectly leading to decreased stimulation of fibroid growth and symptom relief.",
+                        "wrongAnswer_4": "Ulipristal acetate is a selective androgen receptor modulator (SARM) that antagonizes androgen receptors in fibroids, reducing fibroid volume and alleviating associated symptoms."
+                    },
+                    {
+                        "question": "Which surgical procedure for uterine fibroids is considered uterus-sparing and involves the removal of fibroids while preserving the uterus?",
+                        "goodAnswer": "Myomectomy is a uterus-sparing surgical procedure that involves the removal of uterine fibroids while preserving the uterus, allowing for potential future fertility.",
+                        "wrongAnswer_1": "Hysterectomy is a uterus-sparing surgical procedure that selectively removes the fundus and corpus of the uterus while preserving the cervix and ovaries.",
+                        "wrongAnswer_2": "Endometrial ablation is a uterus-sparing procedure that destroys the uterine lining, indirectly reducing fibroid size and alleviating heavy bleeding symptoms.",
+                        "wrongAnswer_3": "Uterine artery embolization (UAE) is a uterus-sparing procedure that directly removes fibroids via catheter-based techniques without open surgery.",
+                        "wrongAnswer_4": "Radical hysterectomy is a uterus-sparing surgical approach that removes fibroids along with surrounding parametrial tissue and regional lymph nodes."
+                    },
+                    {
+                        "question": "What is the principle behind uterine artery embolization (UAE) as a treatment for uterine fibroids?",
+                        "goodAnswer": "Uterine artery embolization (UAE) involves the selective occlusion of the uterine arteries, reducing blood supply to fibroids, causing them to shrink and alleviate symptoms.",
+                        "wrongAnswer_1": "Uterine artery embolization (UAE) is a procedure that directly delivers chemotherapy agents to uterine fibroids through the uterine arteries, destroying fibroid tissue.",
+                        "wrongAnswer_2": "Uterine artery embolization (UAE) involves the surgical ligation of the uterine arteries, completely stopping blood flow to the uterus and inducing fibroid necrosis.",
+                        "wrongAnswer_3": "Uterine artery embolization (UAE) is a technique that uses focused ultrasound waves to ablate uterine fibroids by heating and destroying fibroid tissue.",
+                        "wrongAnswer_4": "Uterine artery embolization (UAE) involves the injection of sclerosing agents into uterine fibroids, causing fibrosis and shrinkage of the fibroid mass over time."
+                    },
+                    {
+                        "question": "Which of the following energy sources is commonly used in hysteroscopic myomectomy for the resection of submucosal fibroids?",
+                        "goodAnswer": "Electrocautery, using monopolar or bipolar energy, is commonly used in hysteroscopic myomectomy for the resection of submucosal fibroids due to its effectiveness and precision.",
+                        "wrongAnswer_1": "Cryotherapy, using extreme cold to freeze and destroy tissue, is the primary energy source for hysteroscopic myomectomy in removing submucosal fibroids.",
+                        "wrongAnswer_2": "Laser ablation, using focused laser beams to vaporize tissue, is the standard energy source for hysteroscopic resection of submucosal fibroids.",
+                        "wrongAnswer_3": "Radiofrequency ablation, using high-frequency electrical currents, is the most common energy source for hysteroscopic myomectomy of submucosal fibroids.",
+                        "wrongAnswer_4": "Microwave ablation, using microwave energy to heat and coagulate tissue, is routinely used in hysteroscopic myomectomy for submucosal fibroid removal."
+                    },
+                    {
+                        "question": "In the context of surgical myomectomy, what is the primary advantage of using minimally invasive approaches like laparoscopy or robotic surgery compared to open laparotomy?",
+                        "goodAnswer": "Minimally invasive myomectomy approaches offer advantages such as reduced postoperative pain, shorter hospital stay, smaller incisions, and faster recovery compared to open laparotomy.",
+                        "wrongAnswer_1": "Minimally invasive myomectomy techniques are primarily advantageous in achieving more complete removal of fibroids and reducing the risk of fibroid recurrence compared to laparotomy.",
+                        "wrongAnswer_2": "Minimally invasive myomectomy approaches are associated with a lower risk of intraoperative bleeding and blood transfusion requirements compared to open laparotomy.",
+                        "wrongAnswer_3": "Minimally invasive myomectomy procedures are mainly preferred for their ability to access and remove very large or deeply embedded fibroids more effectively than laparotomy.",
+                        "wrongAnswer_4": "Minimally invasive myomectomy techniques are primarily chosen for their lower cost and greater availability compared to open laparotomy in most healthcare settings."
+                    }
+                ]
+            }
+        ]
+    }
+}

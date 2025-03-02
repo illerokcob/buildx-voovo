@@ -1,0 +1,127 @@
+{
+    "mainTopic": {
+        "title": "Liver & Gallbladder",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Anatomy",
+                "quizzes": [
+                    {
+                        "question": "Which anatomical structure is primarily responsible for the emulsification of fats in the small intestine, thereby aiding in their digestion and absorption?",
+                        "goodAnswer": "Bile, produced by the liver and stored in the gallbladder, is composed of bile salts, phospholipids, cholesterol, bilirubin, and electrolytes, which act to emulsify fats.",
+                        "wrongAnswer_1": "Gastric lipase, secreted by the gastric glands in the stomach, is composed of hydrochloric acid, pepsinogen, mucus, and intrinsic factor, which act to emulsify fats.",
+                        "wrongAnswer_2": "Pancreatic juice, secreted by the pancreas, is composed of bicarbonate ions, trypsinogen, chymotrypsinogen, amylase, and lipase, which act to emulsify fats.",
+                        "wrongAnswer_3": "Chylomicrons, assembled in the intestinal epithelial cells, are composed of triglycerides, phospholipids, cholesterol, and proteins, which act to emulsify fats.",
+                        "wrongAnswer_4": "Micelles, formed in the intestinal lumen, are composed of fatty acids, monoglycerides, cholesterol, and fat-soluble vitamins, which act to emulsify fats."
+                    },
+                    {
+                        "question": "Describe the structural organization of the liver lobule, focusing on the arrangement of hepatocytes and sinusoidal capillaries.",
+                        "goodAnswer": "Liver lobules are hexagonal units composed of hepatocytes arranged in plates radiating from a central vein, with sinusoidal capillaries between hepatocyte plates facilitating blood flow and exchange.",
+                        "wrongAnswer_1": "Liver lobules are spherical units composed of hepatocytes arranged in concentric layers around a portal triad, with lymphatic capillaries between hepatocyte layers facilitating lymph flow and filtration.",
+                        "wrongAnswer_2": "Liver lobules are triangular units composed of hepatocytes arranged in clusters around a bile duct, with arterial capillaries between hepatocyte clusters facilitating oxygen supply and waste removal.",
+                        "wrongAnswer_3": "Liver lobules are irregular units composed of hepatocytes arranged in cords parallel to the portal vein, with venous capillaries between hepatocyte cords facilitating nutrient absorption and hormone secretion.",
+                        "wrongAnswer_4": "Liver lobules are pentagonal units composed of hepatocytes arranged in columns perpendicular to the central artery, with nerve capillaries between hepatocyte columns facilitating nerve impulse transmission and metabolic regulation."
+                    },
+                    {
+                        "question": "Trace the flow of blood through the liver, starting from the hepatic artery and portal vein and ending at the hepatic vein.",
+                        "goodAnswer": "Hepatic artery & portal vein -> Sinusoids -> Central vein -> Hepatic vein -> Inferior vena cava, demonstrating a dual blood supply and drainage system.",
+                        "wrongAnswer_1": "Hepatic artery & portal vein -> Bile canaliculi -> Central vein -> Hepatic vein -> Inferior vena cava, indicating bile flow instead of blood flow within the lobule.",
+                        "wrongAnswer_2": "Hepatic artery & portal vein -> Lymphatic vessels -> Central vein -> Hepatic vein -> Inferior vena cava, suggesting lymphatic drainage as the primary circulatory pathway.",
+                        "wrongAnswer_3": "Hepatic artery & portal vein -> Portal triad -> Central vein -> Hepatic vein -> Inferior vena cava, incorrectly positioning the portal triad in the direct blood flow path.",
+                        "wrongAnswer_4": "Hepatic artery & portal vein -> Hepatic ducts -> Central vein -> Hepatic vein -> Inferior vena cava, confusing bile drainage pathways with blood circulation."
+                    },
+                    {
+                        "question": "Identify the components of the portal triad and their respective functions within the liver lobule.",
+                        "goodAnswer": "The portal triad consists of a hepatic arteriole (oxygenated blood supply), portal venule (nutrient-rich blood from intestines), and bile ductule (bile drainage), all located at the periphery of the lobule.",
+                        "wrongAnswer_1": "The portal triad consists of a hepatic arteriole (deoxygenated blood supply), portal venule (waste-rich blood from kidneys), and lymphatic vessel (lymph drainage), all located centrally within the lobule.",
+                        "wrongAnswer_2": "The portal triad consists of a hepatic venule (oxygenated blood drainage), portal arteriole (nutrient-poor blood to intestines), and nerve fiber (nerve signal transmission), all located randomly throughout the lobule.",
+                        "wrongAnswer_3": "The portal triad consists of a central venule (mixed blood drainage), hepatic sinusoid (blood filtration), and bile canaliculus (bile secretion), all located in the central region of the lobule.",
+                        "wrongAnswer_4": "The portal triad consists of a lymphatic duct (lymph circulation), hepatic capillary (gas exchange), and bile duct (bile storage), all located in the sinusoidal space of the lobule."
+                    }
+                ]
+            },
+            {
+                "title": "Bile formation and secretion",
+                "quizzes": [
+                    {
+                        "question": "What are the key constituents of bile and what roles do they play in digestion and excretion?",
+                        "goodAnswer": "Bile contains bile salts (emulsification), bilirubin (waste excretion), cholesterol (membrane component, waste), phospholipids (emulsification), and electrolytes (isotonicity, pH buffering).",
+                        "wrongAnswer_1": "Bile contains bile acids (protein digestion), biliverdin (nutrient absorption), glucose (energy source), triglycerides (energy storage), and enzymes (catalysis of reactions).",
+                        "wrongAnswer_2": "Bile contains bile pigments (vitamin storage), urobilinogen (hormone signaling), glycogen (glucose storage), fatty acids (membrane synthesis), and antibodies (immune defense).",
+                        "wrongAnswer_3": "Bile contains bile enzymes (carbohydrate digestion), bilifuscin (enzyme activation), amino acids (protein synthesis), nucleic acids (genetic material), and toxins (waste accumulation).",
+                        "wrongAnswer_4": "Bile contains bile hormones (lipid metabolism), bilicyanin (oxygen transport), starch (energy storage), glycerol (triglyceride component), and minerals (cofactor for enzymes)."
+                    },
+                    {
+                        "question": "Describe the enterohepatic circulation of bile salts and its significance in maintaining bile salt pool and lipid digestion.",
+                        "goodAnswer": "Enterohepatic circulation involves bile salts reabsorption in the ileum, transport back to the liver via the portal vein, and resecretion into bile, conserving bile salts for efficient fat digestion.",
+                        "wrongAnswer_1": "Enterohepatic circulation involves bile salts secretion in the duodenum, transport to the gallbladder via the hepatic duct, and storage until needed for protein digestion.",
+                        "wrongAnswer_2": "Enterohepatic circulation involves bile salts filtration in the kidneys, transport back to the liver via the renal vein, and excretion in urine, eliminating excess bile salts from the body.",
+                        "wrongAnswer_3": "Enterohepatic circulation involves bile salts synthesis in the pancreas, transport to the liver via the pancreatic duct, and release into bile, creating new bile salts for carbohydrate digestion.",
+                        "wrongAnswer_4": "Enterohepatic circulation involves bile salts breakdown in the colon, transport back to the liver via the lymphatic system, and degradation within hepatocytes, destroying old bile salts."
+                    },
+                    {
+                        "question": "Explain the process of bilirubin formation and excretion, starting from heme breakdown in erythrocytes.",
+                        "goodAnswer": "Erythrocyte heme -> Biliverdin -> Bilirubin (unconjugated) -> Liver conjugation (glucuronidation) -> Bilirubin (conjugated) -> Bile excretion -> Urobilinogen/Stercobilin (fecal excretion/renal excretion).",
+                        "wrongAnswer_1": "Erythrocyte heme -> Bilirubin (conjugated) -> Liver deconjugation -> Bilirubin (unconjugated) -> Bile storage -> Bilirubin (free) -> Urinary excretion, incorrectly placing conjugation and storage.",
+                        "wrongAnswer_2": "Erythrocyte heme -> Bilirubin (unconjugated) -> Kidney filtration -> Bilirubin (filtered) -> Urinary excretion -> Bilirubin (reabsorbed) -> Fecal excretion, suggesting renal filtration as the primary excretion route.",
+                        "wrongAnswer_3": "Erythrocyte heme -> Biliverdin -> Bile acid synthesis -> Bile acid excretion -> Bilirubin accumulation -> Jaundice development, confusing bilirubin with bile acid synthesis pathways.",
+                        "wrongAnswer_4": "Erythrocyte heme -> Bilirubin (free) -> Blood transport -> Spleen conjugation -> Bilirubin (conjugated) -> Bile secretion -> Bilirubin recycling, incorrectly placing conjugation in the spleen and recycling bilirubin."
+                    },
+                    {
+                        "question": "How is bile secretion regulated, considering both hormonal and neural control mechanisms?",
+                        "goodAnswer": "Hormonal regulation: Cholecystokinin (CCK) stimulates gallbladder contraction and bile release; Secretin stimulates bile duct secretion. Neural regulation: Vagus nerve (parasympathetic) stimulates bile production.",
+                        "wrongAnswer_1": "Hormonal regulation: Gastrin stimulates gallbladder relaxation and bile storage; Somatostatin inhibits bile duct secretion. Neural regulation: Sympathetic nerve stimulates bile production.",
+                        "wrongAnswer_2": "Hormonal regulation: Insulin stimulates bile acid synthesis and secretion; Glucagon inhibits bile salt reabsorption. Neural regulation: Enteric nervous system inhibits bile release.",
+                        "wrongAnswer_3": "Hormonal regulation: Cortisol stimulates bile pigment production and excretion; Aldosterone inhibits bile salt secretion. Neural regulation: Spinal nerves stimulate gallbladder contraction.",
+                        "wrongAnswer_4": "Hormonal regulation: Thyroid hormone stimulates bile cholesterol secretion; Parathyroid hormone inhibits bile acid synthesis. Neural regulation: Cranial nerves inhibit bile production."
+                    }
+                ]
+            },
+            {
+                "title": "Functions of the Liver",
+                "quizzes": [
+                    {
+                        "question": "Describe the liver's role in carbohydrate metabolism, including glycogenesis, glycogenolysis, and gluconeogenesis.",
+                        "goodAnswer": "Liver performs glycogenesis (glucose to glycogen storage), glycogenolysis (glycogen to glucose release), and gluconeogenesis (non-carbohydrate precursors to glucose synthesis) to maintain blood glucose homeostasis.",
+                        "wrongAnswer_1": "Liver performs glycolysis (glucose breakdown for energy), lipogenesis (fatty acid synthesis), and proteolysis (protein breakdown) to regulate cellular energy production and substrate utilization.",
+                        "wrongAnswer_2": "Liver performs glycogenesis (glycogen breakdown), glycogenolysis (glucose storage), and gluconeogenesis (glucose to glycogen conversion) to control blood glucose levels in a reverse manner.",
+                        "wrongAnswer_3": "Liver performs glycolysis (glucose storage), lipolysis (fat breakdown), and protein synthesis (amino acid storage) to manage energy reserves and structural components of the body.",
+                        "wrongAnswer_4": "Liver performs glycogenesis (fatty acid synthesis), glycogenolysis (protein breakdown), and gluconeogenesis (amino acid storage) to coordinate metabolic pathways for growth and repair."
+                    },
+                    {
+                        "question": "Explain the liver's function in protein metabolism, focusing on deamination, transamination, and urea cycle.",
+                        "goodAnswer": "Liver deaminates amino acids (removes amino groups), transaminates amino acids (transfers amino groups), and performs urea cycle (converts toxic ammonia to urea for excretion).",
+                        "wrongAnswer_1": "Liver aminates fatty acids (adds amino groups), transcribes amino acids (copies genetic code), and performs citric acid cycle (generates ATP from amino acids) for energy production.",
+                        "wrongAnswer_2": "Liver hydroxylates amino acids (adds hydroxyl groups), translates amino acids (synthesizes proteins), and performs Cori cycle (converts lactate to glucose) for glucose regulation.",
+                        "wrongAnswer_3": "Liver carboxylates amino acids (adds carboxyl groups), phosphorylates amino acids (adds phosphate groups), and performs Krebs cycle (oxidizes carbohydrates) for energy metabolism.",
+                        "wrongAnswer_4": "Liver hydrogenates amino acids (adds hydrogen atoms), methylates amino acids (adds methyl groups), and performs Calvin cycle (fixes carbon dioxide) for carbon assimilation."
+                    },
+                    {
+                        "question": "Describe the liver's role in lipid metabolism, including fatty acid synthesis, lipoprotein synthesis, and cholesterol metabolism.",
+                        "goodAnswer": "Liver synthesizes fatty acids (lipogenesis), synthesizes lipoproteins (VLDL, LDL, HDL for lipid transport), and metabolizes cholesterol (synthesis, excretion, conversion to bile acids).",
+                        "wrongAnswer_1": "Liver stores fatty acids (lipolysis), synthesizes glycolipids (for cell membrane), and metabolizes glucose (glycolysis, gluconeogenesis) for energy and membrane components.",
+                        "wrongAnswer_2": "Liver degrades fatty acids (beta-oxidation), synthesizes phospholipids (for cell signaling), and metabolizes proteins (proteolysis, protein synthesis) for cellular structure and function.",
+                        "wrongAnswer_3": "Liver transports fatty acids (via chylomicrons), synthesizes triglycerides (for energy storage), and metabolizes vitamins (storage and activation) for nutrient homeostasis.",
+                        "wrongAnswer_4": "Liver absorbs fatty acids (from intestines), synthesizes steroids (for hormone production), and metabolizes minerals (storage and excretion) for electrolyte balance and hormone synthesis."
+                    },
+                    {
+                        "question": "What is the liver's role in detoxification and drug metabolism, and which enzyme systems are primarily involved?",
+                        "goodAnswer": "Liver detoxifies substances via Phase I (cytochrome P450 enzymes - oxidation, reduction, hydrolysis) and Phase II reactions (conjugation - glucuronidation, sulfation, glutathione conjugation) to make them more water-soluble for excretion.",
+                        "wrongAnswer_1": "Liver detoxifies substances via Phase I (transferases - phosphorylation, methylation, acetylation) and Phase II reactions (deamination, decarboxylation, dehydrogenation) to alter their chemical structure.",
+                        "wrongAnswer_2": "Liver detoxifies substances via Phase I (hydrolases - peptide bond cleavage, glycosidic bond cleavage) and Phase II reactions (isomerization, racemization, epimerization) to modify their stereochemistry.",
+                        "wrongAnswer_3": "Liver detoxifies substances via Phase I (ligases - DNA ligation, RNA ligation, protein ligation) and Phase II reactions (polymerization, depolymerization, condensation) to change their molecular size.",
+                        "wrongAnswer_4": "Liver detoxifies substances via Phase I (reductases - carbon dioxide removal, water removal) and Phase II reactions (oxidation, reduction, hydrolysis) to reverse their chemical properties."
+                    },
+                    {
+                        "question": "Beyond metabolism and detoxification, what are other significant functions of the liver?",
+                        "goodAnswer": "Other liver functions include: storage of vitamins (A, D, B12), minerals (iron, copper), and glycogen; synthesis of plasma proteins (albumin, clotting factors); and immune functions (Kupffer cells).",
+                        "wrongAnswer_1": "Other liver functions include: storage of hormones (insulin, glucagon), neurotransmitters (serotonin, dopamine), and lipids (triglycerides); synthesis of digestive enzymes (amylase, lipase); and endocrine functions (hormone secretion).",
+                        "wrongAnswer_2": "Other liver functions include: storage of water (hydration), electrolytes (sodium, potassium), and glucose (dextrose); synthesis of structural proteins (collagen, elastin); and excretory functions (urine formation).",
+                        "wrongAnswer_3": "Other liver functions include: storage of gases (oxygen, carbon dioxide), pigments (melanin, hemoglobin), and nucleic acids (DNA, RNA); synthesis of antibodies (immunoglobulins); and respiratory functions (gas exchange).",
+                        "wrongAnswer_4": "Other liver functions include: storage of toxins (heavy metals), pathogens (bacteria, viruses), and waste products (urea); synthesis of contractile proteins (actin, myosin); and reproductive functions (gamete production)."
+                    }
+                ]
+            }
+        ]
+    }
+}

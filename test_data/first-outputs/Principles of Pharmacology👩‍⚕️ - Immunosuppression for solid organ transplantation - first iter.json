@@ -1,0 +1,211 @@
+{
+    "mainTopic": {
+        "title": "Immunosuppression for solid organ transplantation",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview and history of solid organ and bone marrow transplantation",
+                "quizzes": [
+                    {
+                        "question": "Which of the following historical milestones is correctly associated with its contribution to the field of transplantation?",
+                        "goodAnswer": "1954: Joseph Murray performs the first successful human kidney transplant between identical twins, demonstrating the feasibility of organ transplantation and overcoming immunological barriers in genetically identical individuals.",
+                        "wrongAnswer_1": "1968: Christiaan Barnard performs the first successful human heart transplant, showcasing the potential of xenotransplantation and cross-species organ donation to address organ shortages.",
+                        "wrongAnswer_2": "1990: Thomas Starzl introduces cyclosporine, revolutionizing immunosuppression by targeting T-cell proliferation and eliminating the risk of opportunistic infections post-transplant.",
+                        "wrongAnswer_3": "1978: Roy Calne performs the first successful liver transplant, establishing the concept of ABO-incompatible transplantation and expanding the donor pool significantly.",
+                        "wrongAnswer_4": "1963: James Hardy performs the first lung transplant, proving the long-term viability of vascularized composite allotransplantation and paving the way for face and hand transplants."
+                    },
+                    {
+                        "question": "What was a primary immunological challenge that early transplantation efforts, before the development of effective immunosuppression, aimed to overcome?",
+                        "goodAnswer": "The recipient's immune system's robust and rapid recognition of the transplanted organ as foreign, leading to acute rejection mediated by T lymphocytes and antibody responses against mismatched HLA antigens.",
+                        "wrongAnswer_1": "The limited surgical techniques available to perform complex vascular anastomoses and organ retrieval, causing ischemia-reperfusion injury and primary non-function of transplanted organs.",
+                        "wrongAnswer_2": "The lack of understanding of ABO blood group compatibility and its role in hyperacute rejection, resulting in immediate graft loss due to pre-existing antibodies against donor blood group antigens.",
+                        "wrongAnswer_3": "The ethical and logistical difficulties in procuring organs from deceased donors, hindering the progress of transplantation due to a scarcity of available grafts and societal concerns.",
+                        "wrongAnswer_4": "The insufficient knowledge of infectious disease transmission through transplantation, leading to high rates of bacterial and fungal infections in recipients and limiting long-term survival."
+                    },
+                    {
+                        "question": "In the context of bone marrow transplantation history, what was a crucial advancement that significantly improved the outcomes and broadened the applicability of this procedure?",
+                        "goodAnswer": "The development of HLA typing and matching techniques, which allowed for better donor-recipient compatibility and reduced the incidence and severity of graft-versus-host disease (GVHD) and graft rejection.",
+                        "wrongAnswer_1": "The introduction of broad-spectrum antibiotics that effectively prevented bacterial infections post-transplant, thereby increasing patient survival and reducing transplant-related mortality.",
+                        "wrongAnswer_2": "The discovery of granulocyte colony-stimulating factor (G-CSF), which facilitated peripheral blood stem cell collection and eliminated the need for invasive bone marrow harvesting.",
+                        "wrongAnswer_3": "The refinement of total body irradiation (TBI) protocols, which minimized radiation toxicity while effectively ablating the recipient's bone marrow and creating space for donor engraftment.",
+                        "wrongAnswer_4": "The establishment of sterile laminar airflow rooms in transplant centers, which dramatically decreased the risk of opportunistic infections in severely immunocompromised transplant recipients during the early post-transplant period."
+                    }
+                ]
+            },
+            {
+                "title": "Benefits and risks of immunosuppression",
+                "quizzes": [
+                    {
+                        "question": "What is the primary intended benefit of immunosuppressive therapy in solid organ transplantation?",
+                        "goodAnswer": "To prevent the recipient's immune system from rejecting the transplanted organ by suppressing alloimmune responses, thus ensuring graft survival and function and improving patient morbidity and mortality.",
+                        "wrongAnswer_1": "To enhance the recipient's immune system to eliminate any residual cancer cells that might be present in the transplanted organ, reducing the risk of de novo malignancy post-transplant.",
+                        "wrongAnswer_2": "To induce immunological tolerance to the transplanted organ, allowing for eventual withdrawal of immunosuppression while maintaining graft acceptance without chronic rejection.",
+                        "wrongAnswer_3": "To treat pre-existing autoimmune diseases in the recipient by broadly suppressing immune system activity, thereby improving overall patient health and reducing autoimmune complications.",
+                        "wrongAnswer_4": "To stimulate angiogenesis within the transplanted organ, promoting vascularization and preventing ischemia-reperfusion injury, thus ensuring immediate graft function after transplantation."
+                    },
+                    {
+                        "question": "Which of the following is a significant long-term risk associated with chronic immunosuppression following organ transplantation?",
+                        "goodAnswer": "Increased susceptibility to opportunistic infections, such as cytomegalovirus (CMV), Pneumocystis jirovecii pneumonia (PJP), and fungal infections, due to impaired cell-mediated immunity.",
+                        "wrongAnswer_1": "Development of graft-versus-host disease (GVHD) in solid organ transplant recipients due to donor immune cells attacking recipient tissues, causing systemic inflammatory syndrome.",
+                        "wrongAnswer_2": "Induction of hyperacute rejection of the transplanted organ due to the sensitization of the recipient's immune system to donor HLA antigens by immunosuppressive agents.",
+                        "wrongAnswer_3": "Suppression of erythropoiesis in the bone marrow leading to severe anemia and thrombocytopenia, requiring chronic blood transfusions and hematopoietic growth factor support.",
+                        "wrongAnswer_4": "Progressive fibrosis and scarring of the transplanted organ due to the direct toxic effects of immunosuppressive drugs on graft parenchyma, resulting in chronic allograft nephropathy or fibrosis."
+                    },
+                    {
+                        "question": "What metabolic complication is commonly associated with long-term use of certain immunosuppressive medications, particularly corticosteroids and calcineurin inhibitors?",
+                        "goodAnswer": "New-onset diabetes mellitus (NODAT) due to impaired glucose tolerance and insulin resistance, often necessitating insulin therapy and contributing to cardiovascular risk in transplant recipients.",
+                        "wrongAnswer_1": "Severe hyperlipidemia characterized by elevated LDL cholesterol and triglycerides, leading to accelerated atherosclerosis and increased risk of coronary artery disease and stroke.",
+                        "wrongAnswer_2": "Chronic kidney disease (CKD) as a direct nephrotoxic effect of immunosuppressants, independent of graft rejection, often requiring dose adjustments or alternative immunosuppressive strategies.",
+                        "wrongAnswer_3": "Osteoporosis and avascular necrosis of bone due to the catabolic effects of corticosteroids, increasing the risk of fractures and requiring bone density monitoring and preventative measures.",
+                        "wrongAnswer_4": "Electrolyte imbalances such as hyperkalemia and hypomagnesemia, resulting from impaired renal tubular function secondary to immunosuppressant-induced nephrotoxicity and requiring electrolyte supplementation."
+                    }
+                ]
+            },
+            {
+                "title": "Types of organ graft rejection",
+                "quizzes": [
+                    {
+                        "question": "Which type of organ graft rejection is characterized by antibody-mediated vascular injury occurring within minutes to hours after transplantation due to pre-existing recipient antibodies against donor antigens?",
+                        "goodAnswer": "Hyperacute rejection, primarily mediated by preformed antibodies against ABO blood group antigens or HLA class I antigens, leading to complement activation, endothelial damage, and thrombotic occlusion of graft vessels.",
+                        "wrongAnswer_1": "Acute cellular rejection, predominantly mediated by recipient T lymphocytes recognizing mismatched HLA antigens on donor cells, causing infiltration of the graft with mononuclear cells and parenchymal damage within days to weeks.",
+                        "wrongAnswer_2": "Chronic antibody-mediated rejection, characterized by a slow and progressive graft dysfunction over months to years due to de novo donor-specific antibodies (DSA) targeting HLA antigens and causing chronic vasculopathy and fibrosis.",
+                        "wrongAnswer_3": "Accelerated acute rejection, a variant of acute rejection occurring within the first few days post-transplant in sensitized recipients, involving both cellular and humoral immune responses and resulting in rapid graft failure.",
+                        "wrongAnswer_4": "Subclinical rejection, defined by histological evidence of inflammation in the graft biopsy without clinical signs of graft dysfunction, potentially progressing to chronic rejection if untreated and requiring close monitoring."
+                    },
+                    {
+                        "question": "What is the predominant immunological mechanism underlying acute cellular rejection in solid organ transplantation?",
+                        "goodAnswer": "Direct allorecognition, where recipient T lymphocytes recognize intact mismatched MHC molecules (HLA antigens) on donor antigen-presenting cells (APCs) in the graft, initiating a cytotoxic T lymphocyte (CTL) and Th1-mediated inflammatory response.",
+                        "wrongAnswer_1": "Indirect allorecognition, in which recipient APCs process and present donor-derived MHC peptides in the context of self-MHC molecules to recipient T lymphocytes, leading to a delayed and less intense immune response compared to direct allorecognition.",
+                        "wrongAnswer_2": "Antibody-dependent cell-mediated cytotoxicity (ADCC), where recipient antibodies bind to donor cells and are recognized by NK cells or macrophages via Fc receptors, resulting in antibody-mediated destruction of graft cells.",
+                        "wrongAnswer_3": "Complement-dependent cytotoxicity (CDC), initiated by recipient antibodies binding to donor cell surface antigens and activating the classical complement pathway, leading to cell lysis and inflammatory damage within the graft vasculature.",
+                        "wrongAnswer_4": "Innate immune responses mediated by Toll-like receptors (TLRs) and the inflammasome, triggered by damage-associated molecular patterns (DAMPs) released from the transplanted organ, contributing to early graft inflammation and rejection."
+                    },
+                    {
+                        "question": "Which of the following best describes the pathogenesis of chronic antibody-mediated rejection (cAMR) in renal transplantation?",
+                        "goodAnswer": "Long-term exposure of the graft to low levels of donor-specific antibodies (DSA), leading to chronic endothelial injury, complement activation, transplant glomerulopathy, and interstitial fibrosis and tubular atrophy (IFTA).",
+                        "wrongAnswer_1": "Recurrent episodes of acute cellular rejection that are inadequately treated, resulting in progressive parenchymal damage, scarring, and eventual graft fibrosis and loss of function over time.",
+                        "wrongAnswer_2": "Calcineurin inhibitor (CNI) toxicity, causing chronic vasoconstriction of afferent arterioles, tubular atrophy, and interstitial fibrosis, mimicking the histological features of chronic rejection but unrelated to alloimmunity.",
+                        "wrongAnswer_3": "Ischemia-reperfusion injury (IRI) during transplantation, initiating a cascade of inflammatory events and oxidative stress, leading to irreversible damage to the graft parenchyma and chronic dysfunction.",
+                        "wrongAnswer_4": "Viral infections, particularly polyomavirus BK virus nephropathy, causing direct cytopathic effects on renal tubular cells and inducing inflammation and fibrosis, mimicking chronic rejection histologically."
+                    }
+                ]
+            },
+            {
+                "title": "Graft rejection and GVHD after bone marrow transplantation",
+                "quizzes": [
+                    {
+                        "question": "What is the primary immunological mechanism underlying graft-versus-host disease (GVHD) after allogeneic bone marrow transplantation?",
+                        "goodAnswer": "Donor T lymphocytes in the graft recognize recipient tissues as foreign and mount an immune response, leading to inflammation and damage in target organs such as skin, liver, and gastrointestinal tract.",
+                        "wrongAnswer_1": "Recipient T lymphocytes that survive the conditioning regimen recognize the donor bone marrow graft as foreign and initiate a rejection response, similar to solid organ graft rejection.",
+                        "wrongAnswer_2": "Donor antibodies present in the graft react with recipient antigens, causing antibody-mediated cytotoxicity and complement activation in recipient tissues, leading to systemic inflammatory syndrome.",
+                        "wrongAnswer_3": "Recipient natural killer (NK) cells that escape conditioning recognize and attack donor hematopoietic cells, preventing engraftment and causing graft failure rather than GVHD.",
+                        "wrongAnswer_4": "Cytokines released by damaged recipient tissues during conditioning stimulate donor immune cells, causing a cytokine storm and systemic inflammatory response resembling GVHD."
+                    },
+                    {
+                        "question": "How does acute GVHD typically manifest clinically in the recipient after allogeneic hematopoietic stem cell transplantation (HSCT)?",
+                        "goodAnswer": "Characterized by a triad of skin rash, diarrhea, and liver dysfunction, usually appearing within the first 100 days post-transplant, reflecting immune-mediated damage to these target organs by donor T cells.",
+                        "wrongAnswer_1": "Predominantly affects the transplanted bone marrow, causing graft failure and pancytopenia, requiring re-transplantation or alternative hematopoietic support to restore blood cell production.",
+                        "wrongAnswer_2": "Mainly targets the kidneys, leading to acute kidney injury and renal failure, often requiring dialysis and potentially resulting in chronic kidney disease post-transplant.",
+                        "wrongAnswer_3": "Primarily manifests as pulmonary complications, such as bronchiolitis obliterans and interstitial pneumonitis, causing chronic respiratory insufficiency and requiring long-term oxygen therapy.",
+                        "wrongAnswer_4": "Typically presents as neurological symptoms, including encephalitis and seizures, due to donor T cell infiltration of the central nervous system and neuroinflammation."
+                    },
+                    {
+                        "question": "Which of the following is a key difference between graft rejection in solid organ transplantation and graft-versus-host disease (GVHD) in bone marrow transplantation?",
+                        "goodAnswer": "In solid organ rejection, the recipient's immune system attacks the graft, whereas in GVHD, the donor's immune system (specifically donor T cells in the graft) attacks the recipient's tissues.",
+                        "wrongAnswer_1": "Solid organ rejection is primarily mediated by antibody responses, while GVHD is predominantly a cell-mediated immune response driven by donor T lymphocytes recognizing recipient HLA antigens.",
+                        "wrongAnswer_2": "Graft rejection in solid organs typically occurs acutely within days to weeks, whereas GVHD after bone marrow transplant is always a chronic condition developing months to years post-transplant.",
+                        "wrongAnswer_3": "Immunosuppression is used to prevent graft rejection in solid organ transplants, but it is contraindicated in bone marrow transplantation as it would worsen GVHD and prevent engraftment.",
+                        "wrongAnswer_4": "HLA matching is crucial to prevent graft rejection in solid organ transplantation but is not relevant in bone marrow transplantation, where ABO compatibility is the primary consideration."
+                    }
+                ]
+            },
+            {
+                "title": "Molecular basis of immune response and immunosuppression",
+                "quizzes": [
+                    {
+                        "question": "What is the crucial co-stimulatory signal required for full T cell activation and subsequent immune response in transplantation?",
+                        "goodAnswer": "Interaction of CD28 on T cells with B7 molecules (CD80/CD86) on antigen-presenting cells (APCs), providing a 'second signal' in addition to TCR-MHC interaction to prevent T cell anergy and induce IL-2 production and proliferation.",
+                        "wrongAnswer_1": "Binding of PD-1 (programmed cell death protein 1) on T cells to PD-L1 (programmed death-ligand 1) on APCs, delivering an inhibitory signal that suppresses T cell activation and promotes immune tolerance.",
+                        "wrongAnswer_2": "Engagement of CTLA-4 (cytotoxic T-lymphocyte-associated protein 4) on T cells with B7 molecules on APCs, competing with CD28 and delivering an inhibitory signal to dampen T cell responses and prevent autoimmunity.",
+                        "wrongAnswer_3": "Interaction of LFA-1 (lymphocyte function-associated antigen 1) on T cells with ICAM-1 (intercellular adhesion molecule 1) on endothelial cells and APCs, mediating adhesion and migration of T cells to sites of inflammation but not directly involved in co-stimulation.",
+                        "wrongAnswer_4": "Binding of CD40 ligand (CD40L) on T cells to CD40 on B cells and APCs, primarily involved in B cell activation, antibody production, and APC maturation rather than direct T cell co-stimulation."
+                    },
+                    {
+                        "question": "Which intracellular signaling pathway is primarily targeted by calcineurin inhibitors, such as cyclosporine and tacrolimus, to achieve immunosuppression?",
+                        "goodAnswer": "The calcineurin-NFAT pathway, where calcineurin, a calcium-dependent phosphatase, dephosphorylates NFAT (nuclear factor of activated T-cells), allowing it to translocate to the nucleus and activate IL-2 gene transcription, crucial for T cell proliferation.",
+                        "wrongAnswer_1": "The mTOR (mammalian target of rapamycin) pathway, involved in cell growth, proliferation, and metabolism, targeted by mTOR inhibitors like sirolimus and everolimus to block T cell and B cell proliferation and cytokine production.",
+                        "wrongAnswer_2": "The JAK-STAT pathway, mediating signaling downstream of cytokine receptors, targeted by JAK inhibitors to block signaling of pro-inflammatory cytokines and reduce immune cell activation and inflammation.",
+                        "wrongAnswer_3": "The PI3K-Akt pathway, regulating cell survival, growth, and metabolism, targeted by PI3K inhibitors to suppress immune cell proliferation, survival, and cytokine production in autoimmune and inflammatory conditions.",
+                        "wrongAnswer_4": "The MAPK (mitogen-activated protein kinase) pathway, involved in cell proliferation, differentiation, and apoptosis, targeted by MAPK inhibitors to suppress immune cell activation and cytokine production in inflammatory diseases."
+                    },
+                    {
+                        "question": "How does the blockade of the CD40-CD40L interaction contribute to immunosuppression in transplantation?",
+                        "goodAnswer": "Disrupting T cell-dependent B cell activation, thereby reducing antibody production, including donor-specific antibodies (DSA) implicated in antibody-mediated rejection and chronic allograft nephropathy.",
+                        "wrongAnswer_1": "Inhibiting the co-stimulatory signal mediated by CD28-B7 interaction, thus preventing T cell activation and proliferation and suppressing cell-mediated rejection pathways.",
+                        "wrongAnswer_2": "Blocking the production and action of pro-inflammatory cytokines such as TNF-alpha and IL-1, reducing inflammation and preventing cytokine-mediated graft damage.",
+                        "wrongAnswer_3": "Promoting the differentiation and function of regulatory T cells (Tregs), enhancing immune tolerance and suppressing effector T cell responses against the graft.",
+                        "wrongAnswer_4": "Inducing apoptosis of activated T cells and B cells, depleting the pool of alloreactive lymphocytes and reducing the overall immune response against the transplanted organ."
+                    }
+                ]
+            },
+            {
+                "title": "Types of immunosuppressive agents and sites of action",
+                "quizzes": [
+                    {
+                        "question": "Which class of immunosuppressive agents primarily exerts its effect by inhibiting inosine monophosphate dehydrogenase (IMPDH), thereby blocking de novo purine synthesis and suppressing lymphocyte proliferation?",
+                        "goodAnswer": "Antimetabolites, such as mycophenolate mofetil (MMF) and azathioprine, which interfere with nucleotide biosynthesis, particularly affecting rapidly dividing cells like lymphocytes and inhibiting their clonal expansion.",
+                        "wrongAnswer_1": "Calcineurin inhibitors (CNIs), like cyclosporine and tacrolimus, which inhibit the phosphatase activity of calcineurin, blocking NFAT activation and IL-2 production in T cells, but not directly affecting purine synthesis.",
+                        "wrongAnswer_2": "mTOR inhibitors, such as sirolimus and everolimus, which block the mammalian target of rapamycin (mTOR) signaling pathway, inhibiting cell growth, proliferation, and metabolism, but not primarily acting on purine synthesis.",
+                        "wrongAnswer_3": "Corticosteroids, such as prednisone and methylprednisolone, which have broad anti-inflammatory and immunosuppressive effects by modulating gene transcription, but do not directly target IMPDH or purine synthesis.",
+                        "wrongAnswer_4": "Costimulation blockers, like belatacept, which interfere with the CD28-B7 co-stimulatory pathway, preventing T cell activation, but not directly impacting purine biosynthesis or IMPDH activity."
+                    },
+                    {
+                        "question": "At which specific site of action do corticosteroids exert their broad immunosuppressive effects?",
+                        "goodAnswer": "Nuclear receptors, acting as transcription factors that modulate the expression of numerous genes involved in inflammation and immune response, leading to decreased production of cytokines, chemokines, and adhesion molecules.",
+                        "wrongAnswer_1": "Cell membrane receptors, directly binding to and blocking the activity of cytokine receptors on immune cells, preventing signal transduction and downstream inflammatory responses.",
+                        "wrongAnswer_2": "Cytosolic enzymes, inhibiting the activity of enzymes like cyclooxygenase (COX) and phospholipase A2, reducing the production of prostaglandins and leukotrienes involved in inflammation.",
+                        "wrongAnswer_3": "Mitochondrial function, disrupting mitochondrial respiration and ATP production in immune cells, leading to energy depletion and impaired cellular function and activation.",
+                        "wrongAnswer_4": "Ribosomal RNA, interfering with protein synthesis in immune cells, globally suppressing the production of proteins required for immune cell activation, proliferation, and effector function."
+                    },
+                    {
+                        "question": "Which immunosuppressive agent is a monoclonal antibody that blocks the CD25 (IL-2 receptor alpha chain) subunit, thereby inhibiting IL-2 signaling and T cell proliferation?",
+                        "goodAnswer": "Basiliximab, a chimeric monoclonal antibody that specifically targets the CD25 subunit of the IL-2 receptor, preventing IL-2 binding and downstream signaling, primarily used for induction immunosuppression in transplantation.",
+                        "wrongAnswer_1": "Rituximab, a chimeric monoclonal antibody targeting CD20 on B cells, leading to B cell depletion, primarily used in B cell lymphomas and autoimmune diseases, not directly targeting IL-2 signaling.",
+                        "wrongAnswer_2": "Infliximab, a chimeric monoclonal antibody that neutralizes TNF-alpha, reducing inflammation in autoimmune diseases like rheumatoid arthritis and Crohn's disease, but not directly blocking IL-2 receptor.",
+                        "wrongAnswer_3": "Abatacept, a fusion protein that blocks CD28-B7 co-stimulation, preventing T cell activation, used in rheumatoid arthritis and as a costimulation blocker in transplantation, but not targeting the IL-2 receptor.",
+                        "wrongAnswer_4": "Eculizumab, a humanized monoclonal antibody that inhibits complement C5, preventing complement activation and membrane attack complex formation, used in paroxysmal nocturnal hemoglobinuria and atypical hemolytic uremic syndrome, not targeting IL-2 signaling."
+                    }
+                ]
+            },
+            {
+                "title": "Relationship between immunosuppressive drugs and cancer chemotherapy",
+                "quizzes": [
+                    {
+                        "question": "What is a key similarity in the mechanisms of action between certain immunosuppressive drugs and cancer chemotherapy agents?",
+                        "goodAnswer": "Both classes of drugs can target rapidly proliferating cells, although with different selectivity and therapeutic goals; immunosuppressants aim to selectively suppress immune cell proliferation, while chemotherapy targets broadly proliferating cancer cells.",
+                        "wrongAnswer_1": "Both immunosuppressants and chemotherapy agents primarily induce apoptosis (programmed cell death) in target cells as their main mechanism of action, leading to cell depletion and therapeutic effect.",
+                        "wrongAnswer_2": "Both classes of drugs directly target DNA replication and repair mechanisms in rapidly dividing cells, causing DNA damage and cell cycle arrest, leading to cell death or growth inhibition.",
+                        "wrongAnswer_3": "Both immunosuppressants and chemotherapy agents selectively inhibit angiogenesis (new blood vessel formation) in target tissues, starving cells of nutrients and oxygen and inducing cell death or growth inhibition.",
+                        "wrongAnswer_4": "Both classes of drugs primarily modulate the activity of specific intracellular signaling pathways, such as the mTOR pathway or the PI3K-Akt pathway, to achieve their therapeutic effects."
+                    },
+                    {
+                        "question": "How can the use of immunosuppressive drugs in transplant recipients increase the risk of developing certain types of cancer?",
+                        "goodAnswer": "Impaired immunosurveillance due to chronic immunosuppression reduces the body's ability to detect and eliminate virus-infected and transformed cells, increasing the risk of virus-associated malignancies like post-transplant lymphoproliferative disorder (PTLD) and skin cancers.",
+                        "wrongAnswer_1": "Direct carcinogenic effects of immunosuppressive drugs, causing mutations in cellular DNA and directly inducing malignant transformation of cells in various tissues, leading to increased cancer incidence.",
+                        "wrongAnswer_2": "Synergistic toxicity between immunosuppressants and environmental carcinogens, enhancing the carcinogenic potential of environmental exposures and accelerating cancer development in transplant recipients.",
+                        "wrongAnswer_3": "Increased chronic inflammation due to immunosuppression, paradoxically promoting tumor initiation and progression by providing a pro-tumorigenic microenvironment and stimulating cell proliferation and angiogenesis.",
+                        "wrongAnswer_4": "Drug-induced epigenetic modifications caused by immunosuppressants, altering gene expression patterns in cells and leading to the activation of oncogenes or inactivation of tumor suppressor genes, promoting cancer development."
+                    },
+                    {
+                        "question": "In which specific clinical scenario are immunosuppressive drugs, typically used in transplantation, sometimes employed in cancer therapy?",
+                        "goodAnswer": "Treatment of graft-versus-host disease (GVHD) after allogeneic hematopoietic stem cell transplantation, where immunosuppressants are used to suppress donor T cell-mediated attack on recipient tissues, paradoxically leveraging immunosuppression to control a complication of cancer therapy.",
+                        "wrongAnswer_1": "To enhance the efficacy of chemotherapy by sensitizing cancer cells to cytotoxic drugs, making them more susceptible to chemotherapy-induced cell death and improving treatment response rates.",
+                        "wrongAnswer_2": "To prevent chemotherapy-induced nausea and vomiting by suppressing the emetic center in the brain and reducing gastrointestinal side effects associated with chemotherapy regimens.",
+                        "wrongAnswer_3": "To stimulate bone marrow recovery after high-dose chemotherapy by promoting hematopoietic stem cell proliferation and differentiation, accelerating neutrophil and platelet recovery and reducing myelosuppression.",
+                        "wrongAnswer_4": "To reverse multidrug resistance in cancer cells by inhibiting drug efflux pumps and increasing intracellular drug accumulation, thereby overcoming resistance mechanisms and improving chemotherapy effectiveness."
+                    }
+                ]
+            }
+        ]
+    }
+}

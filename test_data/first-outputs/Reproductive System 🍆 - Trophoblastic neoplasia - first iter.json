@@ -1,0 +1,275 @@
+{
+    "mainTopic": {
+        "title": "Trophoblastic neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Types of trophoblast neoplasia",
+                "quizzes": [
+                    {
+                        "question": "Which of the following classifications best represents the spectrum of gestational trophoblastic neoplasia (GTN), ranging from benign to malignant?",
+                        "goodAnswer": "Hydatidiform mole (partial and complete), invasive mole, gestational choriocarcinoma, placental site trophoblastic tumor, and epithelioid trophoblastic tumor.",
+                        "wrongAnswer_1": "Hydatidiform mole (partial and complete), choriocarcinoma in situ, gestational choriocarcinoma, placental site trophoblastic tumor, and syncytiotrophoblastic tumor.",
+                        "wrongAnswer_2": "Hydatidiform mole (partial and complete), invasive mole, gestational choriocarcinoma, embryonal carcinoma, and placental site trophoblastic tumor.",
+                        "wrongAnswer_3": "Hydatidiform mole (partial and complete), gestational choriocarcinoma, placental site trophoblastic tumor, teratoma with trophoblastic elements, and yolk sac tumor.",
+                        "wrongAnswer_4": "Hydatidiform mole (partial and complete), invasive mole, gestational choriocarcinoma, placental site trophoblastic tumor, and metastatic gestational trophoblastic disease."
+                    },
+                    {
+                        "question": "Among the gestational trophoblastic neoplasms, which entity is considered the most common precursor to malignant sequelae, emphasizing the importance of post-molar surveillance?",
+                        "goodAnswer": "Hydatidiform mole, particularly complete hydatidiform mole, is recognized as the most frequent antecedent to persistent gestational trophoblastic neoplasia.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor is the most common precursor due to its propensity for late metastasis and resistance to chemotherapy.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma arising from a previous normal pregnancy is the most common precursor to subsequent malignant GTN.",
+                        "wrongAnswer_3": "Invasive mole, due to its deep myometrial invasion, is considered the most frequent precursor to malignant transformations.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ, if left untreated, is the most common precursor to invasive gestational trophoblastic neoplasia."
+                    },
+                    {
+                        "question": "Differentiate between gestational and non-gestational trophoblastic neoplasms based on their cellular origin and clinical context.",
+                        "goodAnswer": "Gestational trophoblastic neoplasms originate from placental trophoblastic tissue after pregnancy, while non-gestational trophoblastic neoplasms arise from germ cells and are not related to pregnancy.",
+                        "wrongAnswer_1": "Gestational trophoblastic neoplasms arise from embryonic stem cells during early embryogenesis, while non-gestational trophoblastic neoplasms originate from placental cytotrophoblasts in the postpartum period.",
+                        "wrongAnswer_2": "Gestational trophoblastic neoplasms are exclusively found in females after molar pregnancies, whereas non-gestational trophoblastic neoplasms occur in males and females from somatic cell mutations.",
+                        "wrongAnswer_3": "Gestational trophoblastic neoplasms are characterized by elevated serum AFP levels, while non-gestational trophoblastic neoplasms are marked by high hCG production due to placental origin.",
+                        "wrongAnswer_4": "Gestational trophoblastic neoplasms are always malignant and metastatic, whereas non-gestational trophoblastic neoplasms are benign tumors of the placenta."
+                    }
+                ]
+            },
+            {
+                "title": "Partial Hydatidiform Mole",
+                "quizzes": [
+                    {
+                        "question": "What is the most characteristic karyotypic abnormality observed in partial hydatidiform moles, distinguishing it from complete hydatidiform moles?",
+                        "goodAnswer": "Triploidy, most commonly 69,XXY, arising from dispermic fertilization of a normal ovum, is the hallmark karyotype of partial hydatidiform moles.",
+                        "wrongAnswer_1": "Monosomy X (45,X0), resulting from loss of a sex chromosome during meiosis, is the typical karyotype found in partial hydatidiform moles.",
+                        "wrongAnswer_2": "Tetraploidy (92,XXXX or 92,XXYY), due to mitotic failure in early zygotic divisions, is the characteristic karyotype of partial hydatidiform moles.",
+                        "wrongAnswer_3": "Diploidy, but with maternal origin of chromosomes (46,XX, maternal), due to androgenesis, is the karyotype specific to partial hydatidiform moles.",
+                        "wrongAnswer_4": "Aneuploidy with trisomy 21, often associated with Down syndrome, is a common karyotypic finding in partial hydatidiform moles."
+                    },
+                    {
+                        "question": "Which histological feature is most indicative of a partial hydatidiform mole when compared to a complete hydatidiform mole?",
+                        "goodAnswer": "The presence of fetal parts, such as fetal red blood cells or nucleated fetal erythrocytes within the villous stroma, along with focal trophoblastic proliferation, is characteristic of partial moles.",
+                        "wrongAnswer_1": "Diffuse villous hydrops with circumferential trophoblastic hyperplasia and absence of fetal parts is the key histological feature of partial hydatidiform moles.",
+                        "wrongAnswer_2": "Marked stromal karyorrhexis and extensive intervillous thrombi, without significant trophoblastic proliferation, are typical histological findings in partial moles.",
+                        "wrongAnswer_3": "Uniformly enlarged hydropic villi with prominent cistern formation and stromal fibrosis, accompanied by extensive trophoblastic invasion, are seen in partial moles.",
+                        "wrongAnswer_4": "Chorionic villi showing scalloped contours and trophoblastic inclusions within the villous stroma, along with syncytial knots, are specific to partial hydatidiform moles."
+                    },
+                    {
+                        "question": "Clinically, how does partial hydatidiform mole typically present differently from complete hydatidiform mole in terms of uterine size and serum hCG levels?",
+                        "goodAnswer": "Partial hydatidiform moles usually present with a uterus that is small for gestational age or appropriate for dates and lower serum hCG levels compared to complete hydatidiform moles.",
+                        "wrongAnswer_1": "Partial hydatidiform moles are characterized by a uterus that is markedly enlarged for gestational age and extremely elevated serum hCG levels, similar to complete moles.",
+                        "wrongAnswer_2": "Partial hydatidiform moles typically cause a uterus that is significantly larger than gestational age and undetectable serum hCG levels due to defective trophoblastic function.",
+                        "wrongAnswer_3": "Partial hydatidiform moles present with a uterus that is always larger than gestational age, accompanied by mildly elevated serum hCG levels that plateau quickly.",
+                        "wrongAnswer_4": "Partial hydatidiform moles are associated with a uterus that is consistently smaller than gestational age but with extremely high serum hCG levels that rapidly decline."
+                    },
+                    {
+                        "question": "What is the risk of persistent gestational trophoblastic neoplasia (pGTN) following evacuation of a partial hydatidiform mole compared to a complete hydatidiform mole?",
+                        "goodAnswer": "The risk of persistent GTN after evacuation of a partial hydatidiform mole is significantly lower (around 1-5%) compared to complete hydatidiform moles (15-20%).",
+                        "wrongAnswer_1": "The risk of persistent GTN is equally high (20-25%) after evacuation of both partial and complete hydatidiform moles, necessitating identical post-molar surveillance protocols.",
+                        "wrongAnswer_2": "Partial hydatidiform moles have a higher risk (25-30%) of persistent GTN compared to complete hydatidiform moles (10-15%) due to their more aggressive trophoblastic proliferation.",
+                        "wrongAnswer_3": "The risk of persistent GTN after partial hydatidiform mole evacuation is negligible (less than 0.1%), making routine hCG monitoring unnecessary.",
+                        "wrongAnswer_4": "Partial hydatidiform moles never progress to persistent GTN, unlike complete hydatidiform moles which always require chemotherapy post-evacuation."
+                    }
+                ]
+            },
+            {
+                "title": "Complete hydatidiform mole",
+                "quizzes": [
+                    {
+                        "question": "What is the characteristic genetic origin of a complete hydatidiform mole, distinguishing it from a partial hydatidiform mole?",
+                        "goodAnswer": "Complete hydatidiform moles are typically androgenetic diploid, usually arising from fertilization of an empty ovum by a single sperm that duplicates its chromosomes or by two sperm.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are generally biparental diploid, resulting from fertilization of a normal ovum by a normal sperm but with aberrant trophoblastic proliferation.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are classically triploid, originating from dispermic fertilization of a normal ovum, similar to partial hydatidiform moles.",
+                        "wrongAnswer_3": "Complete hydatidiform moles are commonly monosomic (45,X0) due to loss of a paternal chromosome during early embryogenesis.",
+                        "wrongAnswer_4": "Complete hydatidiform moles are typically tetraploid (92,XXXX) resulting from endoreduplication of maternal chromosomes in the ovum."
+                    },
+                    {
+                        "question": "Which of the following histological features is most consistent with a complete hydatidiform mole diagnosis?",
+                        "goodAnswer": "Diffuse hydropic swelling of chorionic villi with cistern formation, circumferential trophoblastic hyperplasia, and absence of fetal parts are hallmark histological features of complete hydatidiform moles.",
+                        "wrongAnswer_1": "Focal villous hydrops with fetal red blood cells in villous stroma, mild trophoblastic proliferation, and presence of fetal parts are characteristic histological findings in complete hydatidiform moles.",
+                        "wrongAnswer_2": "Chorionic villi showing stromal fibrosis, scant trophoblastic proliferation, and decidual reaction are typical histological features of complete hydatidiform moles.",
+                        "wrongAnswer_3": "Villous agglutination, syncytial knots, and extravillous trophoblast invasion into the myometrium are the primary histological indicators of complete hydatidiform moles.",
+                        "wrongAnswer_4": "Chorionic villi with normal size and shape, minimal trophoblastic proliferation, and presence of fetal vessels are histologically diagnostic of complete hydatidiform moles."
+                    },
+                    {
+                        "question": "How do serum hCG levels typically behave in patients with complete hydatidiform mole compared to partial hydatidiform mole or normal pregnancy?",
+                        "goodAnswer": "Patients with complete hydatidiform moles usually exhibit significantly higher serum hCG levels than those with partial moles or normal pregnancies, often exceeding 100,000 mIU/mL.",
+                        "wrongAnswer_1": "Serum hCG levels in complete hydatidiform moles are characteristically low, typically below 5,000 mIU/mL, which helps differentiate them from normal pregnancies.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are associated with normal physiological ranges of serum hCG levels, similar to those observed in uncomplicated singleton pregnancies.",
+                        "wrongAnswer_3": "Serum hCG levels in complete hydatidiform moles fluctuate erratically, showing unpredictable rises and falls throughout the gestational period.",
+                        "wrongAnswer_4": "Complete hydatidiform moles cause a slow and steady rise in serum hCG levels, which plateau at a level slightly above the upper limit of normal pregnancy."
+                    },
+                    {
+                        "question": "What is the recommended primary management for a complete hydatidiform mole?",
+                        "goodAnswer": "Uterine evacuation by suction curettage is the primary and definitive management for complete hydatidiform mole, followed by post-evacuation hCG monitoring.",
+                        "wrongAnswer_1": "Expectant management with close observation and serial hCG monitoring is the preferred initial approach for complete hydatidiform mole.",
+                        "wrongAnswer_2": "Hysterectomy is the first-line treatment for all cases of complete hydatidiform mole, regardless of patient age or desire for future fertility.",
+                        "wrongAnswer_3": "Medical management with methotrexate or actinomycin-D is the primary treatment for complete hydatidiform mole before uterine evacuation.",
+                        "wrongAnswer_4": "Administration of Rhogam and close monitoring of blood pressure are the initial steps in managing complete hydatidiform mole."
+                    },
+                    {
+                        "question": "What is the typical post-evacuation surveillance protocol for patients with complete hydatidiform mole to detect persistent gestational trophoblastic neoplasia (pGTN)?",
+                        "goodAnswer": "Weekly serum hCG monitoring until hCG levels become undetectable for three consecutive weeks, followed by monthly hCG monitoring for 6 months, is the standard surveillance protocol.",
+                        "wrongAnswer_1": "Serum hCG monitoring every three months for one year after evacuation until hCG levels normalize is the recommended surveillance protocol for complete hydatidiform mole.",
+                        "wrongAnswer_2": "Routine pelvic ultrasound every month for 6 months after evacuation is sufficient surveillance for detecting persistent GTN in complete hydatidiform mole.",
+                        "wrongAnswer_3": "Single serum hCG measurement 6 weeks post-evacuation is adequate to rule out persistent GTN after complete hydatidiform mole.",
+                        "wrongAnswer_4": "No routine post-evacuation surveillance is necessary for complete hydatidiform mole as the risk of persistent GTN is negligible."
+                    }
+                ]
+            },
+            {
+                "title": "Molar gestations",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best defines the term 'molar gestation' in the context of reproductive pathology?",
+                        "goodAnswer": "Molar gestation refers to a pregnancy characterized by abnormal proliferation of placental trophoblast, leading to the formation of hydatidiform moles, which are gestational trophoblastic diseases.",
+                        "wrongAnswer_1": "Molar gestation describes a normal pregnancy with multiple gestations, such as twins or triplets, where the placental mass is significantly increased.",
+                        "wrongAnswer_2": "Molar gestation is a term used to describe ectopic pregnancies, particularly those implanted in the fallopian tube or ovary, due to their abnormal location.",
+                        "wrongAnswer_3": "Molar gestation refers to pregnancies complicated by intrauterine growth restriction (IUGR) where the placenta is abnormally small and poorly developed.",
+                        "wrongAnswer_4": "Molar gestation is a synonym for missed abortion or blighted ovum, where the pregnancy sac is empty and there is no embryonic development."
+                    },
+                    {
+                        "question": "What is the primary differentiating factor between hydatidiform mole and non-molar abortions in early pregnancy loss?",
+                        "goodAnswer": "Hydatidiform moles are characterized by abnormal trophoblastic proliferation and hydropic villi, while non-molar abortions involve embryonic demise without significant trophoblastic disease.",
+                        "wrongAnswer_1": "Non-molar abortions are associated with significantly higher serum hCG levels compared to hydatidiform moles in early pregnancy loss.",
+                        "wrongAnswer_2": "Hydatidiform moles typically present with severe abdominal pain and heavy vaginal bleeding, whereas non-molar abortions are usually painless.",
+                        "wrongAnswer_3": "Non-molar abortions are always associated with a triploid karyotype, while hydatidiform moles are exclusively diploid.",
+                        "wrongAnswer_4": "Hydatidiform moles are characterized by the presence of a fetal heartbeat on ultrasound, unlike non-molar abortions where fetal cardiac activity is absent."
+                    },
+                    {
+                        "question": "Which risk factor is most strongly associated with an increased incidence of hydatidiform mole?",
+                        "goodAnswer": "Extremes of reproductive age, particularly women over 35 years and adolescents, are significantly associated with an increased risk of hydatidiform mole.",
+                        "wrongAnswer_1": "Multiparity, specifically having more than five previous pregnancies, is the strongest risk factor for developing hydatidiform mole.",
+                        "wrongAnswer_2": "History of prior ectopic pregnancy is the most significant risk factor contributing to the development of hydatidiform mole.",
+                        "wrongAnswer_3": "Maternal smoking and alcohol consumption during pregnancy are the primary risk factors for hydatidiform mole formation.",
+                        "wrongAnswer_4": "Previous history of cesarean section is the most important risk factor associated with increased incidence of hydatidiform mole."
+                    },
+                    {
+                        "question": "How does the clinical presentation of molar gestation typically differ from a normal early pregnancy?",
+                        "goodAnswer": "Molar gestations often present with vaginal bleeding, hyperemesis gravidarum, uterine size greater than expected for gestational age, and markedly elevated serum hCG levels, unlike normal early pregnancy.",
+                        "wrongAnswer_1": "Molar gestations are usually asymptomatic in early pregnancy and are only detected incidentally on routine ultrasound, unlike normal pregnancies with typical symptoms.",
+                        "wrongAnswer_2": "Molar gestations typically present with symptoms of threatened abortion, such as mild cramping and spotting, similar to normal early pregnancy complications.",
+                        "wrongAnswer_3": "Molar gestations are characterized by significantly lower serum hCG levels and symptoms of pregnancy failure, contrasting with normal early pregnancies.",
+                        "wrongAnswer_4": "Molar gestations often mimic ectopic pregnancy with severe unilateral abdominal pain and signs of acute abdomen, unlike normal early pregnancy."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma",
+                "quizzes": [
+                    {
+                        "question": "What is the characteristic cellular composition of gestational choriocarcinoma, differentiating it from other gestational trophoblastic neoplasms?",
+                        "goodAnswer": "Gestational choriocarcinoma is composed of malignant cytotrophoblasts and syncytiotrophoblasts without identifiable chorionic villi, arising from a previous pregnancy event.",
+                        "wrongAnswer_1": "Gestational choriocarcinoma is characterized by benign hydropic villi with trophoblastic hyperplasia, similar to hydatidiform moles, but with increased malignancy potential.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma consists of intermediate trophoblasts and placental site cells, resembling placental site trophoblastic tumor, but with more aggressive behavior.",
+                        "wrongAnswer_3": "Gestational choriocarcinoma is composed of malignant germ cells with trophoblastic differentiation, originating from ovarian or testicular tissue, not related to pregnancy.",
+                        "wrongAnswer_4": "Gestational choriocarcinoma is characterized by uniform sheets of cytotrophoblasts with minimal syncytiotrophoblasts and well-formed chorionic villi, indicating a less aggressive form of GTN."
+                    },
+                    {
+                        "question": "What is the most common antecedent pregnancy event associated with the development of gestational choriocarcinoma?",
+                        "goodAnswer": "Hydatidiform mole, particularly complete hydatidiform mole, is the most frequent antecedent pregnancy event preceding the development of gestational choriocarcinoma.",
+                        "wrongAnswer_1": "Ectopic pregnancy is the most common prior pregnancy event leading to gestational choriocarcinoma due to abnormal implantation site and trophoblastic invasion.",
+                        "wrongAnswer_2": "Normal term pregnancy is the most frequent preceding event, with choriocarcinoma arising de novo from residual placental tissue after delivery.",
+                        "wrongAnswer_3": "Spontaneous abortion in the first trimester is the most common antecedent, with choriocarcinoma developing from retained products of conception.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor is the most frequent precursor lesion that transforms into gestational choriocarcinoma over time."
+                    },
+                    {
+                        "question": "How does gestational choriocarcinoma typically metastasize, and what are the most common sites of distant metastasis?",
+                        "goodAnswer": "Gestational choriocarcinoma typically metastasizes hematogenously, with the lungs being the most common site, followed by vagina, brain, liver, and kidneys.",
+                        "wrongAnswer_1": "Gestational choriocarcinoma primarily spreads via lymphatic routes to regional lymph nodes, such as pelvic and para-aortic lymph nodes, before distant metastasis.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma metastasizes through direct invasion into adjacent pelvic organs, such as the uterus, ovaries, and fallopian tubes, without distant spread.",
+                        "wrongAnswer_3": "Gestational choriocarcinoma spreads via transcoelomic seeding within the peritoneal cavity, commonly involving the ovaries, omentum, and bowel surfaces.",
+                        "wrongAnswer_4": "Gestational choriocarcinoma rarely metastasizes beyond the uterus and pelvis, remaining confined to the reproductive organs in most cases."
+                    },
+                    {
+                        "question": "What is the role of serum hCG levels in the diagnosis, monitoring, and prognosis of gestational choriocarcinoma?",
+                        "goodAnswer": "Serum hCG levels are crucial for diagnosis, monitoring treatment response, and assessing prognosis in gestational choriocarcinoma; elevated hCG confirms diagnosis and declining levels indicate treatment efficacy.",
+                        "wrongAnswer_1": "Serum hCG levels are not reliable for diagnosis or monitoring of gestational choriocarcinoma as they are often within the normal range or only slightly elevated.",
+                        "wrongAnswer_2": "Serum hCG levels are only useful for initial diagnosis of gestational choriocarcinoma but not for monitoring treatment response or predicting prognosis.",
+                        "wrongAnswer_3": "Serum hCG levels are inversely correlated with the severity of gestational choriocarcinoma, with lower levels indicating more aggressive disease and poorer prognosis.",
+                        "wrongAnswer_4": "Serum hCG levels are primarily used to differentiate gestational choriocarcinoma from non-gestational tumors but have limited value in prognosis or treatment monitoring."
+                    },
+                    {
+                        "question": "What is the standard first-line treatment for low-risk gestational choriocarcinoma according to FIGO staging and risk scoring?",
+                        "goodAnswer": "Single-agent chemotherapy, typically with methotrexate or actinomycin-D, is the standard first-line treatment for low-risk gestational choriocarcinoma.",
+                        "wrongAnswer_1": "Multi-agent chemotherapy regimens, such as EMA/CO (etoposide, methotrexate, actinomycin-D, cyclophosphamide, vincristine), are the first-line treatment for all stages of gestational choriocarcinoma.",
+                        "wrongAnswer_2": "Surgical resection, specifically hysterectomy, is the primary treatment modality for low-risk gestational choriocarcinoma, regardless of fertility preservation desires.",
+                        "wrongAnswer_3": "Radiation therapy to the pelvis is the standard first-line treatment for low-risk gestational choriocarcinoma to eradicate local disease.",
+                        "wrongAnswer_4": "Expectant management with close hCG monitoring and observation is the initial approach for low-risk gestational choriocarcinoma before considering chemotherapy."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma in situ",
+                "quizzes": [
+                    {
+                        "question": "How is 'choriocarcinoma in situ' typically defined and diagnosed in the context of gestational trophoblastic disease?",
+                        "goodAnswer": "Choriocarcinoma in situ, also known as placental site nodule, is defined as a localized, non-invasive proliferation of trophoblastic cells, usually intermediate trophoblasts, confined to the placental site.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ refers to an early stage of invasive choriocarcinoma with microscopic myometrial invasion but without distant metastasis, classified as FIGO stage I.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ describes a premalignant condition characterized by atypical trophoblastic cells in the endometrium, representing a precursor to hydatidiform mole.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ is a synonym for complete hydatidiform mole, representing the earliest form of gestational trophoblastic neoplasia.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ is defined as metastatic choriocarcinoma involving the lungs or vagina, but originating from a primary uterine placental site."
+                    },
+                    {
+                        "question": "What is the clinical significance of choriocarcinoma in situ or placental site nodule in terms of malignant potential and prognosis?",
+                        "goodAnswer": "Choriocarcinoma in situ (placental site nodule) is generally considered a benign lesion with very low malignant potential and excellent prognosis after local excision, rarely progressing to invasive disease.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ is a highly aggressive premalignant lesion that invariably progresses to invasive choriocarcinoma if left untreated, requiring aggressive chemotherapy.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ has an intermediate malignant potential, with a 20-30% risk of developing into invasive choriocarcinoma, necessitating close monitoring and prophylactic chemotherapy.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ is considered a form of metastatic choriocarcinoma with limited response to chemotherapy and poor prognosis due to its advanced stage at diagnosis.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ is clinically insignificant and does not require any treatment or follow-up, as it spontaneously regresses in most cases without complications."
+                    },
+                    {
+                        "question": "How is choriocarcinoma in situ typically managed when diagnosed incidentally in a uterine specimen, such as after a dilation and curettage (D&C)?",
+                        "goodAnswer": "When diagnosed incidentally, choriocarcinoma in situ is often managed conservatively with close observation and serial serum hCG monitoring; local excision is considered if hCG levels persist or rise.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ always requires immediate hysterectomy to prevent progression to invasive choriocarcinoma, regardless of patient age or desire for future fertility.",
+                        "wrongAnswer_2": "Systemic chemotherapy with methotrexate or actinomycin-D is the standard treatment for choriocarcinoma in situ, even when diagnosed incidentally, to eradicate any potential micrometastasis.",
+                        "wrongAnswer_3": "Radiation therapy to the pelvis is the primary management for choriocarcinoma in situ to ensure complete eradication of the lesion and prevent recurrence.",
+                        "wrongAnswer_4": "Expectant management without hCG monitoring is recommended for incidentally diagnosed choriocarcinoma in situ, as it is considered a benign finding with no clinical consequence."
+                    }
+                ]
+            },
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "What is the predominant cell type composing placental site trophoblastic tumor (PSTT), differentiating it from gestational choriocarcinoma?",
+                        "goodAnswer": "Placental site trophoblastic tumor is primarily composed of intermediate trophoblasts, specifically placental site intermediate trophoblasts, unlike choriocarcinoma which is composed of cytotrophoblasts and syncytiotrophoblasts.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor is mainly composed of malignant syncytiotrophoblasts, similar to choriocarcinoma, but with a different pattern of growth and invasion.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor is predominantly composed of cytotrophoblasts, resembling hydatidiform mole, but with increased cellular atypia and invasive potential.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor consists of a mixture of all three types of trophoblasts (cyto-, syncytio-, and intermediate), making it a heterogeneous tumor type.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor is composed of malignant germ cells with trophoblastic differentiation, similar to non-gestational choriocarcinoma, but arising from the placental site."
+                    },
+                    {
+                        "question": "How do serum hCG levels typically behave in patients with placental site trophoblastic tumor (PSTT) compared to gestational choriocarcinoma or hydatidiform mole?",
+                        "goodAnswer": "Serum hCG levels in PSTT are usually lower compared to choriocarcinoma or hydatidiform mole, and they are less reliable for monitoring treatment response due to slower hCG production.",
+                        "wrongAnswer_1": "Serum hCG levels in PSTT are characteristically very high, often exceeding those seen in gestational choriocarcinoma, making hCG the primary marker for diagnosis and monitoring.",
+                        "wrongAnswer_2": "Serum hCG levels in PSTT fluctuate widely and unpredictably, making them unreliable for both diagnosis and monitoring of treatment response.",
+                        "wrongAnswer_3": "Serum hCG levels in PSTT are typically within the normal range or only minimally elevated, requiring alternative markers like placental lactogen (hPL) for diagnosis and monitoring.",
+                        "wrongAnswer_4": "Serum hCG levels in PSTT are similar to those in hydatidiform mole, showing rapid doubling times and high sensitivity for detecting recurrence after treatment."
+                    },
+                    {
+                        "question": "What is the preferred primary treatment modality for placental site trophoblastic tumor (PSTT), particularly in patients with localized disease?",
+                        "goodAnswer": "Hysterectomy is generally the primary treatment for localized PSTT, especially in women who have completed childbearing, offering the best chance for cure.",
+                        "wrongAnswer_1": "Chemotherapy with multi-agent regimens like EMA/CO is the first-line treatment for all stages of PSTT, including localized disease, to ensure systemic eradication.",
+                        "wrongAnswer_2": "Radiation therapy to the pelvis is the preferred primary treatment for localized PSTT, aiming to preserve fertility while effectively treating the tumor.",
+                        "wrongAnswer_3": "Uterine artery embolization is the primary treatment for localized PSTT to reduce tumor vascularity and induce regression before considering surgery or chemotherapy.",
+                        "wrongAnswer_4": "Expectant management with close observation and serial hCG monitoring is the initial approach for localized PSTT, as spontaneous regression is common in early stages."
+                    },
+                    {
+                        "question": "How does placental site trophoblastic tumor (PSTT) typically present clinically compared to gestational choriocarcinoma?",
+                        "goodAnswer": "PSTT often presents with irregular vaginal bleeding or amenorrhea following a pregnancy, and may have a longer interval from the antecedent pregnancy compared to choriocarcinoma.",
+                        "wrongAnswer_1": "PSTT typically presents with dramatic symptoms of hyperemesis gravidarum and preeclampsia in early pregnancy, similar to hydatidiform mole, but with more aggressive behavior.",
+                        "wrongAnswer_2": "PSTT usually presents with acute abdominal pain and hemoperitoneum due to uterine rupture, mimicking ectopic pregnancy, but with elevated hCG levels.",
+                        "wrongAnswer_3": "PSTT commonly presents with symptoms of pulmonary metastasis, such as hemoptysis and dyspnea, as the initial manifestation, similar to metastatic choriocarcinoma.",
+                        "wrongAnswer_4": "PSTT typically presents with painless vaginal mass and profuse vaginal discharge, resembling invasive mole, but with lower hCG levels and different histology."
+                    },
+                    {
+                        "question": "What factors are considered to be associated with a poorer prognosis in placental site trophoblastic tumor (PSTT)?",
+                        "goodAnswer": "Factors associated with poorer prognosis in PSTT include advanced stage at diagnosis, longer interval from antecedent pregnancy to diagnosis (greater than 2 years), and resistance to chemotherapy.",
+                        "wrongAnswer_1": "Younger age at diagnosis (less than 20 years) and lower initial hCG levels are associated with poorer prognosis in PSTT due to delayed diagnosis and aggressive tumor biology.",
+                        "wrongAnswer_2": "History of previous hydatidiform mole and early detection of PSTT (within 6 months of pregnancy) are indicators of poor prognosis due to higher risk of metastasis.",
+                        "wrongAnswer_3": "Presence of lung metastasis at diagnosis and good response to initial chemotherapy are paradoxically associated with poorer prognosis in PSTT.",
+                        "wrongAnswer_4": "Tumor size less than 5 cm and location confined to the endometrium are considered poor prognostic factors in PSTT due to increased risk of local recurrence."
+                    }
+                ]
+            }
+        ]
+    }
+}

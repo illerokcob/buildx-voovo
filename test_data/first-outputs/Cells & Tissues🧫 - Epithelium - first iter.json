@@ -1,0 +1,230 @@
+{
+    "mainTopic": {
+        "title": "Epithelium",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Overview and definition of epithelium",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental characteristic that defines epithelium as a tissue type, distinguishing it from connective, muscle, and nervous tissues?",
+                        "goodAnswer": "Epithelium is primarily composed of closely packed cells with minimal extracellular matrix, specialized for covering surfaces, lining cavities, and forming glands.",
+                        "wrongAnswer_1": "Epithelium is characterized by abundant extracellular matrix embedding sparsely distributed cells, functioning mainly in support, connection, and transport throughout the body.",
+                        "wrongAnswer_2": "Epithelium is defined by its contractile cells capable of generating force and movement, with a moderate amount of extracellular matrix for structural integrity.",
+                        "wrongAnswer_3": "Epithelium is distinguished by its excitable cells that transmit electrical signals, supported by a network of glial cells and a minimal extracellular matrix.",
+                        "wrongAnswer_4": "Epithelium is recognized by its fluid extracellular matrix containing blood cells, responsible for transporting nutrients and waste products throughout the organism."
+                    },
+                    {
+                        "question": "Which of the following best describes the primary functions commonly associated with epithelial tissues throughout the body?",
+                        "goodAnswer": "Protection, secretion, absorption, excretion, filtration, diffusion, and sensory reception, varying based on location and specialization.",
+                        "wrongAnswer_1": "Contraction, conduction of electrical impulses, storage of energy reserves, and synthesis of hormones for systemic regulation, uniformly across all types.",
+                        "wrongAnswer_2": "Structural support, nutrient transport, immune surveillance, and mechanical movement, predominantly focusing on maintaining tissue volume and shape.",
+                        "wrongAnswer_3": "Insulation, cushioning, energy storage, and endocrine signaling, primarily involved in long-term metabolic homeostasis and thermal regulation.",
+                        "wrongAnswer_4": "Generating heat, producing blood cells, detoxification of metabolic waste, and controlling body posture, irrespective of tissue location or cellular arrangement."
+                    },
+                    {
+                        "question": "What is the significance of the basement membrane in epithelial tissue structure and function?",
+                        "goodAnswer": "The basement membrane provides structural support, anchors epithelium to underlying connective tissue, acts as a selective barrier, and guides tissue repair and organization.",
+                        "wrongAnswer_1": "The basement membrane primarily functions to store nutrients for epithelial cells, regulate blood flow to the epithelium, and directly participate in cell signaling pathways.",
+                        "wrongAnswer_2": "The basement membrane is mainly responsible for generating extracellular matrix components for the epithelium, initiating apoptosis in damaged cells, and facilitating nerve impulse transmission.",
+                        "wrongAnswer_3": "The basement membrane's principal role is to prevent cell migration within the epithelium, control the rate of cell division, and serve as a reservoir for growth factors.",
+                        "wrongAnswer_4": "The basement membrane acts as a rigid framework that determines epithelial cell shape, filters metabolic waste from epithelial cells, and conducts electrical signals across the epithelium."
+                    }
+                ]
+            },
+            {
+                "title": "Classification of epithelium",
+                "quizzes": [
+                    {
+                        "question": "How are epithelial tissues classified based on cell shape and the number of cell layers?",
+                        "goodAnswer": "Epithelial tissues are classified by cell shape (squamous, cuboidal, columnar) and layering (simple or stratified), providing descriptive categories for structural organization.",
+                        "wrongAnswer_1": "Epithelial tissues are categorized by cell size (small, medium, large) and cellular density (sparse or dense), reflecting their metabolic activity and functional demand.",
+                        "wrongAnswer_2": "Epithelial tissues are grouped according to cell origin (ectodermal, mesodermal, endodermal) and the presence of intercellular junctions (tight, adherens, gap), indicating developmental lineage and communication mechanisms.",
+                        "wrongAnswer_3": "Epithelial tissues are distinguished by cell function (protective, secretory, absorptive) and vascularity (vascular or avascular), highlighting their physiological roles and nutrient supply.",
+                        "wrongAnswer_4": "Epithelial tissues are classified based on cell lifespan (short-lived, long-lived) and regenerative capacity (high, low, none), reflecting their turnover rate and repair potential."
+                    },
+                    {
+                        "question": "What distinguishes simple squamous epithelium from stratified squamous epithelium in terms of structure and function?",
+                        "goodAnswer": "Simple squamous epithelium is a single layer of flattened cells specialized for diffusion and filtration, while stratified squamous epithelium consists of multiple layers for protection in areas of abrasion.",
+                        "wrongAnswer_1": "Simple squamous epithelium is composed of multiple layers of cube-shaped cells designed for secretion and absorption, whereas stratified squamous epithelium is a single layer of flat cells for rapid transport.",
+                        "wrongAnswer_2": "Simple squamous epithelium features a single layer of tall, column-like cells for absorption and secretion, and stratified squamous epithelium is multiple layers of columnar cells for structural support.",
+                        "wrongAnswer_3": "Simple squamous epithelium has multiple layers of flattened cells designed for insulation and energy storage, while stratified squamous epithelium is a single layer of cuboidal cells for filtration and excretion.",
+                        "wrongAnswer_4": "Simple squamous epithelium is characterized by a single layer of irregularly shaped cells specialized for contraction, whereas stratified squamous epithelium is multi-layered and functions in sensory reception."
+                    },
+                    {
+                        "question": "Which type of epithelium is best suited for lining the ducts of glands and kidney tubules, where secretion and absorption are primary functions?",
+                        "goodAnswer": "Simple cuboidal epithelium, with its cube-shaped cells, provides sufficient cytoplasmic volume for cellular machinery involved in secretion and absorption in ducts and tubules.",
+                        "wrongAnswer_1": "Simple squamous epithelium, due to its flattened cells, offers a minimal barrier for rapid diffusion and is ideal for high-volume secretion and absorption in glandular ducts.",
+                        "wrongAnswer_2": "Stratified cuboidal epithelium, with multiple layers of cube-shaped cells, provides robust protection against abrasion in gland ducts and high capacity for secretion.",
+                        "wrongAnswer_3": "Pseudostratified columnar epithelium, due to its layered appearance and cilia, is specialized for propelling secretions along the ducts of glands and tubules.",
+                        "wrongAnswer_4": "Transitional epithelium, with its ability to change shape, is uniquely adapted for secretion and absorption while accommodating volume changes in glandular and tubular systems."
+                    },
+                    {
+                        "question": "In which locations would you typically find pseudostratified columnar epithelium, and what is its distinguishing characteristic?",
+                        "goodAnswer": "Pseudostratified columnar epithelium is primarily found lining the trachea and upper respiratory tract, characterized by cells of varying heights giving a stratified appearance, though all cells contact the basement membrane.",
+                        "wrongAnswer_1": "Pseudostratified columnar epithelium is typically located in the lining of the stomach and intestines, distinguished by multiple layers of columnar cells specialized for nutrient absorption and enzyme secretion.",
+                        "wrongAnswer_2": "Pseudostratified columnar epithelium is commonly found in the epidermis of the skin, recognized by its flattened, scale-like cells providing a protective barrier against dehydration and abrasion.",
+                        "wrongAnswer_3": "Pseudostratified columnar epithelium is primarily located in the urinary bladder and ureters, characterized by its ability to stretch and recoil, accommodating volume changes in urine storage.",
+                        "wrongAnswer_4": "Pseudostratified columnar epithelium is typically found in the ducts of large glands and ovarian follicles, distinguished by multiple layers of cuboidal cells specialized for secretion and hormone production."
+                    },
+                    {
+                        "question": "What is the defining functional adaptation of transitional epithelium, and where is it predominantly located?",
+                        "goodAnswer": "Transitional epithelium is adapted for distension and recoil, allowing organs to stretch and return to their original size; it is primarily located in the urinary bladder, ureters, and parts of the urethra.",
+                        "wrongAnswer_1": "Transitional epithelium is specialized for rapid diffusion and filtration due to its thin, flattened cells; it is predominantly located in the alveoli of the lungs and the lining of blood vessels.",
+                        "wrongAnswer_2": "Transitional epithelium is adapted for robust protection against abrasion and mechanical stress due to its multiple layers of cells; it is mainly found in the skin, mouth, and esophagus.",
+                        "wrongAnswer_3": "Transitional epithelium is specialized for secretion and absorption due to its cube-shaped cells with abundant cytoplasm; it is primarily located in the kidney tubules and glandular ducts.",
+                        "wrongAnswer_4": "Transitional epithelium is adapted for propulsion of substances due to its ciliated columnar cells; it is mainly found lining the trachea and bronchi of the respiratory system."
+                    }
+                ]
+            },
+            {
+                "title": "Apical cell surface specializations and functions",
+                "quizzes": [
+                    {
+                        "question": "What are the primary functions of cilia and microvilli as apical cell surface specializations in epithelial cells?",
+                        "goodAnswer": "Cilia are motile structures for moving substances across the cell surface, while microvilli are non-motile finger-like projections increasing surface area for absorption.",
+                        "wrongAnswer_1": "Cilia are non-motile projections increasing surface area for absorption, and microvilli are motile structures responsible for cellular locomotion and tissue repair.",
+                        "wrongAnswer_2": "Cilia are sensory organelles detecting external stimuli, whereas microvilli are involved in cell adhesion and intercellular communication in epithelial layers.",
+                        "wrongAnswer_3": "Cilia are rigid structures providing structural support to the apical cell surface, and microvilli are contractile fibers facilitating cell shape changes during tissue development.",
+                        "wrongAnswer_4": "Cilia are involved in intracellular transport of vesicles towards the apical surface, while microvilli are responsible for the synthesis and secretion of extracellular matrix components."
+                    },
+                    {
+                        "question": "Where are ciliated epithelial cells commonly found, and what is their functional role in these locations?",
+                        "goodAnswer": "Ciliated epithelium is commonly found lining the respiratory tract and fallopian tubes; in the respiratory tract, cilia propel mucus and debris, and in fallopian tubes, they aid in ovum transport.",
+                        "wrongAnswer_1": "Ciliated epithelium is typically located in the digestive tract and kidney tubules; in the digestive tract, cilia enhance nutrient absorption, and in kidney tubules, they facilitate filtration of waste products.",
+                        "wrongAnswer_2": "Ciliated epithelium is primarily found in the epidermis of the skin and the lining of blood vessels; in the skin, cilia provide sensory input, and in blood vessels, they regulate blood flow.",
+                        "wrongAnswer_3": "Ciliated epithelium is commonly located in the urinary bladder and ureters; in the urinary bladder, cilia aid in urine concentration, and in ureters, they facilitate urine storage.",
+                        "wrongAnswer_4": "Ciliated epithelium is typically found in the ducts of exocrine glands and the pancreas; in exocrine glands, cilia propel secretions, and in the pancreas, they assist in enzyme production."
+                    },
+                    {
+                        "question": "What is the primary function of microvilli in epithelial cells, and in which organs are they most abundant?",
+                        "goodAnswer": "Microvilli primarily function to increase the apical surface area of epithelial cells, maximizing absorption and secretion; they are most abundant in the small intestine and kidney tubules.",
+                        "wrongAnswer_1": "Microvilli primarily function in cellular locomotion and tissue repair by extending and retracting; they are most abundant in muscle tissue and connective tissue.",
+                        "wrongAnswer_2": "Microvilli primarily function as sensory receptors detecting chemical and mechanical stimuli on the apical surface; they are most abundant in sensory organs like the taste buds and olfactory epithelium.",
+                        "wrongAnswer_3": "Microvilli primarily function in cell adhesion and intercellular communication by forming tight junctions and adherens junctions; they are most abundant in stratified squamous epithelium and transitional epithelium.",
+                        "wrongAnswer_4": "Microvilli primarily function in structural support and protection of the apical cell membrane against mechanical damage; they are most abundant in the epidermis of the skin and the lining of the esophagus."
+                    }
+                ]
+            },
+            {
+                "title": "Specialized and unspecialized epithelial cells",
+                "quizzes": [
+                    {
+                        "question": "What distinguishes specialized epithelial cells from unspecialized epithelial cells in terms of function and structural adaptations?",
+                        "goodAnswer": "Specialized epithelial cells exhibit unique structural adaptations like cilia, microvilli, or secretory vesicles for specific functions, while unspecialized cells perform basic epithelial functions such as protection and lining.",
+                        "wrongAnswer_1": "Specialized epithelial cells are characterized by a lack of intercellular junctions and basement membrane, whereas unspecialized cells possess well-developed junctions and basement membrane for structural integrity.",
+                        "wrongAnswer_2": "Specialized epithelial cells are derived from mesoderm and perform connective tissue functions, while unspecialized cells originate from ectoderm and endoderm and serve primarily nervous tissue roles.",
+                        "wrongAnswer_3": "Specialized epithelial cells are typically found in stratified epithelium providing robust protection, whereas unspecialized cells are limited to simple epithelium and are primarily involved in sensory reception.",
+                        "wrongAnswer_4": "Specialized epithelial cells are capable of cell division and regeneration, while unspecialized cells are terminally differentiated and lack the ability to proliferate or repair tissue damage."
+                    },
+                    {
+                        "question": "Goblet cells are an example of specialized epithelial cells. What is their primary function and where are they commonly found?",
+                        "goodAnswer": "Goblet cells are specialized for secreting mucus, which lubricates and protects epithelial linings; they are commonly found in the respiratory and digestive tracts.",
+                        "wrongAnswer_1": "Goblet cells are specialized for phagocytosis of pathogens and cellular debris, contributing to immune defense; they are commonly found in lymphatic tissues and spleen.",
+                        "wrongAnswer_2": "Goblet cells are specialized for the production and secretion of digestive enzymes, aiding in nutrient breakdown; they are commonly found in the pancreas and salivary glands.",
+                        "wrongAnswer_3": "Goblet cells are specialized for the absorption of nutrients from the lumen of organs, maximizing digestive efficiency; they are commonly found in the small intestine and colon.",
+                        "wrongAnswer_4": "Goblet cells are specialized for the transport of ions and water across epithelial layers, maintaining fluid balance; they are commonly found in the kidney tubules and sweat glands."
+                    },
+                    {
+                        "question": "Consider keratinocytes in the epidermis as specialized epithelial cells. What is their principal role in skin function?",
+                        "goodAnswer": "Keratinocytes, as specialized epithelial cells, primarily produce keratin, a protein that provides structural strength, waterproofing, and protection to the skin.",
+                        "wrongAnswer_1": "Keratinocytes, as specialized epithelial cells, primarily synthesize melanin, a pigment that protects the skin from UV radiation and determines skin color.",
+                        "wrongAnswer_2": "Keratinocytes, as specialized epithelial cells, primarily secrete sebum, an oily substance that lubricates and moisturizes the skin and hair.",
+                        "wrongAnswer_3": "Keratinocytes, as specialized epithelial cells, primarily function in sensory reception, detecting touch, pressure, temperature, and pain stimuli in the skin.",
+                        "wrongAnswer_4": "Keratinocytes, as specialized epithelial cells, primarily regulate blood flow to the skin and control body temperature through vasodilation and vasoconstriction."
+                    }
+                ]
+            },
+            {
+                "title": "Types of Intercellular junctions and hemidesmosomes",
+                "quizzes": [
+                    {
+                        "question": "What are the main types of intercellular junctions found in epithelial tissues, and what are their primary functions?",
+                        "goodAnswer": "Tight junctions (occluding), adherens junctions, desmosomes (anchoring), and gap junctions (communicating) are the main types, providing barrier function, adhesion, mechanical stability, and intercellular communication respectively.",
+                        "wrongAnswer_1": "Tight junctions (communicating), adherens junctions (occluding), desmosomes (transporting), and gap junctions (anchoring) are the main types, facilitating nutrient exchange, barrier formation, active transport, and structural support respectively.",
+                        "wrongAnswer_2": "Tight junctions (sensory), adherens junctions (contractile), desmosomes (secretory), and gap junctions (excretory) are the main types, mediating environmental detection, tissue movement, hormone release, and waste removal respectively.",
+                        "wrongAnswer_3": "Tight junctions (digestive), adherens junctions (respiratory), desmosomes (circulatory), and gap junctions (nervous) are the main types, involved in nutrient absorption, gas exchange, blood vessel integrity, and nerve impulse transmission respectively.",
+                        "wrongAnswer_4": "Tight junctions (protective), adherens junctions (insulating), desmosomes (cushioning), and gap junctions (regenerative) are the main types, offering defense against pathogens, thermal regulation, mechanical buffering, and tissue repair respectively."
+                    },
+                    {
+                        "question": "What is the function of tight junctions (zonula occludens) in epithelial tissues, and where are they critically important?",
+                        "goodAnswer": "Tight junctions create a selectively permeable barrier, preventing paracellular passage of molecules between epithelial cells; critically important in linings of digestive tract and blood vessels to control substance movement.",
+                        "wrongAnswer_1": "Tight junctions facilitate rapid intercellular communication by allowing direct passage of ions and small molecules between cells; critically important in cardiac muscle and nervous tissue for synchronized activity.",
+                        "wrongAnswer_2": "Tight junctions provide strong mechanical attachment between adjacent epithelial cells, resisting separation under tension; critically important in skin and stratified squamous epithelium for structural integrity.",
+                        "wrongAnswer_3": "Tight junctions are involved in signal transduction pathways, mediating cell growth and differentiation in response to external stimuli; critically important in embryonic development and tissue regeneration.",
+                        "wrongAnswer_4": "Tight junctions are responsible for anchoring epithelial cells to the basement membrane, providing structural support and polarity to the epithelial layer; critically important in all types of epithelium for basal attachment."
+                    },
+                    {
+                        "question": "How do adherens junctions and desmosomes contribute to the mechanical stability of epithelial tissues, and what proteins are primarily involved in their structure?",
+                        "goodAnswer": "Adherens junctions and desmosomes anchor cells together, distributing mechanical stress; adherens junctions use cadherins linked to actin filaments, while desmosomes use cadherins linked to intermediate filaments.",
+                        "wrongAnswer_1": "Adherens junctions and desmosomes facilitate intercellular communication through gap junctions, allowing ion and small molecule passage; both primarily involve connexins and integrins in their structure.",
+                        "wrongAnswer_2": "Adherens junctions and desmosomes regulate paracellular permeability by forming tight seals between cells; both primarily utilize claudins and occludins in their structural composition.",
+                        "wrongAnswer_3": "Adherens junctions and desmosomes mediate cell-matrix adhesion, anchoring epithelial cells to the basement membrane; both primarily involve integrins and laminins in their structural organization.",
+                        "wrongAnswer_4": "Adherens junctions and desmosomes are involved in active transport of molecules across epithelial layers, utilizing transmembrane proteins and ATP; both primarily consist of pumps and channels in their structure."
+                    },
+                    {
+                        "question": "What is the primary function of gap junctions, and in which tissues are they particularly important for coordinated cellular activity?",
+                        "goodAnswer": "Gap junctions allow direct cytoplasmic communication between adjacent cells via connexons, enabling rapid ion and small molecule exchange; particularly important in cardiac muscle and smooth muscle for synchronized contraction.",
+                        "wrongAnswer_1": "Gap junctions provide strong mechanical adhesion between cells, preventing tissue separation under mechanical stress; particularly important in skin and bone tissue for structural integrity.",
+                        "wrongAnswer_2": "Gap junctions create impermeable barriers between cells, regulating paracellular transport and maintaining tissue polarity; particularly important in the blood-brain barrier and digestive tract lining.",
+                        "wrongAnswer_3": "Gap junctions mediate cell-matrix adhesion, anchoring cells to the extracellular matrix and basement membrane; particularly important in connective tissues and basement membranes for structural support.",
+                        "wrongAnswer_4": "Gap junctions are involved in signal transduction pathways, mediating cell growth and differentiation in response to hormonal signals; particularly important in endocrine glands and hormone-responsive tissues."
+                    },
+                    {
+                        "question": "What is the role of hemidesmosomes in epithelial tissues, and how do they differ structurally and functionally from desmosomes?",
+                        "goodAnswer": "Hemidesmosomes anchor epithelial cells to the basement membrane, providing basal support and stability; structurally, they involve integrins linking to intermediate filaments, unlike desmosomes which link cells to each other.",
+                        "wrongAnswer_1": "Hemidesmosomes facilitate intercellular communication by forming gap junctions between epithelial cells; structurally, they are composed of connexins and allow direct cytoplasmic exchange, similar to desmosomes.",
+                        "wrongAnswer_2": "Hemidesmosomes create tight seals between epithelial cells, preventing paracellular transport of molecules; structurally, they utilize claudins and occludins, functionally similar to desmosomes in barrier formation.",
+                        "wrongAnswer_3": "Hemidesmosomes mediate cell-cell adhesion, linking adjacent epithelial cells together; structurally, they involve cadherins and actin filaments, functionally identical to desmosomes in cell-cell anchoring.",
+                        "wrongAnswer_4": "Hemidesmosomes are involved in active transport of molecules across the epithelial layer, utilizing transmembrane pumps and channels; structurally, they are composed of ATPases and transporters, unlike desmosomes with structural proteins."
+                    }
+                ]
+            },
+            {
+                "title": "Exocrine and endocrine glands of secretory epithelium",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental difference between exocrine and endocrine glands in terms of secretion delivery and target destination?",
+                        "goodAnswer": "Exocrine glands secrete substances into ducts that lead to epithelial surfaces or cavities, while endocrine glands secrete hormones directly into the bloodstream for systemic distribution.",
+                        "wrongAnswer_1": "Exocrine glands secrete hormones into the bloodstream for systemic effects, while endocrine glands secrete substances into ducts for localized action on epithelial surfaces.",
+                        "wrongAnswer_2": "Exocrine glands secrete only protein-based hormones, whereas endocrine glands secrete only steroid-based hormones, differing in their chemical nature and target cell receptors.",
+                        "wrongAnswer_3": "Exocrine glands are composed of nervous tissue and release neurotransmitters, while endocrine glands are epithelial and release hormones, differing in tissue origin and signaling molecules.",
+                        "wrongAnswer_4": "Exocrine glands are unicellular and secrete mucus, while endocrine glands are multicellular and secrete enzymes, differing in cellular complexity and type of secretion."
+                    },
+                    {
+                        "question": "How are exocrine glands classified based on their duct structure and secretory unit shape?",
+                        "goodAnswer": "Exocrine glands are classified by duct structure (simple or compound) and secretory unit shape (tubular, alveolar/acinar, or tubuloalveolar), providing descriptive categories for gland morphology.",
+                        "wrongAnswer_1": "Exocrine glands are classified based on secretion type (serous, mucous, mixed) and cell type (squamous, cuboidal, columnar), reflecting the nature of their product and cellular composition.",
+                        "wrongAnswer_2": "Exocrine glands are categorized by innervation (sympathetic, parasympathetic, somatic) and vascularity (vascular, avascular), indicating neural control and nutrient supply mechanisms.",
+                        "wrongAnswer_3": "Exocrine glands are grouped according to embryonic origin (ectodermal, mesodermal, endodermal) and regenerative capacity (high, low, none), highlighting developmental lineage and repair potential.",
+                        "wrongAnswer_4": "Exocrine glands are classified by secretion mechanism (merocrine, apocrine, holocrine) and target tissue (epithelial, connective, muscle, nervous), reflecting release process and site of action."
+                    },
+                    {
+                        "question": "Differentiate between merocrine, apocrine, and holocrine mechanisms of secretion in exocrine glands, providing an example for each.",
+                        "goodAnswer": "Merocrine secretion releases products by exocytosis (e.g., salivary glands), apocrine secretion involves pinching off apical portion of cell (e.g., mammary glands), and holocrine secretion involves cell rupture (e.g., sebaceous glands).",
+                        "wrongAnswer_1": "Merocrine secretion involves cell rupture releasing entire cellular contents (e.g., sweat glands), apocrine secretion releases products by exocytosis (e.g., pancreas), and holocrine secretion involves pinching off basal portion of cell (e.g., adrenal glands).",
+                        "wrongAnswer_2": "Merocrine secretion involves active transport of products across cell membrane (e.g., thyroid gland), apocrine secretion releases products via intracellular vesicles (e.g., liver), and holocrine secretion involves diffusion of products through cell membrane (e.g., parathyroid gland).",
+                        "wrongAnswer_3": "Merocrine secretion involves secretion of hormones into bloodstream (e.g., pituitary gland), apocrine secretion releases mucus onto epithelial surface (e.g., goblet cells), and holocrine secretion involves secretion of enzymes into ducts (e.g., gastric glands).",
+                        "wrongAnswer_4": "Merocrine secretion involves secretion of ions and water into ducts (e.g., kidney tubules), apocrine secretion releases proteins into extracellular matrix (e.g., fibroblasts), and holocrine secretion involves secretion of lipids into interstitial fluid (e.g., adipocytes)."
+                    },
+                    {
+                        "question": "What are the primary functions of endocrine glands, and how do hormones secreted by these glands exert their effects on target cells?",
+                        "goodAnswer": "Endocrine glands primarily regulate body functions by secreting hormones into the bloodstream, which then travel to target cells and bind to specific receptors, triggering cellular responses.",
+                        "wrongAnswer_1": "Endocrine glands primarily protect the body from pathogens by secreting antibodies into the lymphatic system, which then circulate and neutralize foreign invaders.",
+                        "wrongAnswer_2": "Endocrine glands primarily transport nutrients and oxygen throughout the body by secreting blood cells into the circulatory system, which then deliver essential substances to tissues.",
+                        "wrongAnswer_3": "Endocrine glands primarily provide structural support and movement by secreting collagen and elastin into connective tissues, which then form frameworks for organs and muscles.",
+                        "wrongAnswer_4": "Endocrine glands primarily excrete metabolic waste products from the body by secreting urine into the urinary system, which then removes toxins and maintains fluid balance."
+                    },
+                    {
+                        "question": "Provide examples of major endocrine glands in the human body and the primary hormones they secrete.",
+                        "goodAnswer": "Pituitary gland (growth hormone, prolactin), thyroid gland (thyroxine, calcitonin), adrenal glands (cortisol, adrenaline), pancreas (insulin, glucagon), ovaries (estrogen, progesterone), testes (testosterone) are major endocrine glands.",
+                        "wrongAnswer_1": "Salivary glands (amylase, mucus), sweat glands (sweat, sebum), mammary glands (milk, colostrum), sebaceous glands (sebum, lipids), lacrimal glands (tears, lysozyme) are major endocrine glands.",
+                        "wrongAnswer_2": "Liver (bile, albumin), gallbladder (bile salts), stomach (gastric acid, pepsin), intestines (intestinal enzymes, mucus), kidneys (urine, erythropoietin) are major endocrine glands.",
+                        "wrongAnswer_3": "Lymph nodes (lymphocytes, antibodies), spleen (red blood cells, platelets), thymus (T cells, thymosin), bone marrow (blood cells, stem cells), tonsils (lymphocytes, immunoglobulins) are major endocrine glands.",
+                        "wrongAnswer_4": "Brain (neurotransmitters, cerebrospinal fluid), spinal cord (reflex arcs, motor neurons), nerves (action potentials, synapses), ganglia (nerve cell bodies, sensory receptors), glial cells (myelin, support cells) are major endocrine glands."
+                    }
+                ]
+            }
+        ]
+    }
+}
