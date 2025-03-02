@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Skin and Glands",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Functions and layers of the skin",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the primary function of the stratum corneum, the outermost layer of the epidermis, in maintaining skin integrity and overall body homeostasis?",
+                        "goodAnswer": "The stratum corneum primarily functions as a protective barrier, preventing dehydration through its cornified layers and acting as the first line of defense against external pathogens and environmental insults.",
+                        "wrongAnswer_1": "The stratum corneum's primary role is active melanin production, which protects against UV radiation, while also contributing to thermoregulation through sweat gland activity and sebum secretion for waterproofing.",
+                        "wrongAnswer_2": "The main function of the stratum corneum is to facilitate cutaneous gas exchange, allowing for oxygen absorption and carbon dioxide release, while simultaneously regulating body temperature through vasodilation and vasoconstriction.",
+                        "wrongAnswer_3": "Stratum corneum's primary function is to provide structural support and elasticity to the skin, facilitated by dense collagen fibers, and to enable sensory perception through a dense network of nerve endings and specialized receptors.",
+                        "wrongAnswer_4": "The stratum corneum primarily serves as a reservoir for vitamin D synthesis upon UV exposure, converting cholesterol into vitamin D3, and plays a key role in initiating the immune response through Langerhans cells."
+                    },
+                    {
+                        "question": "In comparing the epidermis and dermis layers of the skin, which statement most accurately distinguishes their fundamental structural and functional differences?",
+                        "goodAnswer": "The epidermis is avascular and primarily composed of keratinocytes in stratified layers for protection, while the dermis is vascularized, containing connective tissue, glands, and sensory receptors for support and sensation.",
+                        "wrongAnswer_1": "The epidermis is vascularized and mainly composed of dense irregular connective tissue for strength, whereas the dermis is avascular, composed of keratinocytes, and responsible for thermoregulation and lipid synthesis.",
+                        "wrongAnswer_2": "Both the epidermis and dermis are vascularized layers; however, the epidermis primarily functions in sensory perception and the dermis in immune response, both containing abundant collagen and elastin fibers.",
+                        "wrongAnswer_3": "The epidermis and dermis are both avascular; the epidermis is rich in adipose tissue for insulation, and the dermis consists of stratified squamous epithelium for protection against mechanical injury and fluid loss.",
+                        "wrongAnswer_4": "The epidermis is primarily responsible for collagen and elastin production, providing skin elasticity, while the dermis is mainly composed of melanocytes for pigmentation and protection from ultraviolet radiation."
+                    },
+                    {
+                        "question": "Considering the skin's role in thermoregulation, which physiological mechanism is most directly involved in dissipating heat when the body temperature rises above homeostatic set points?",
+                        "goodAnswer": "Vasodilation of dermal blood vessels and activation of eccrine sweat glands are primary mechanisms for heat dissipation, increasing cutaneous blood flow and evaporative cooling respectively to lower body temperature.",
+                        "wrongAnswer_1": "Vasoconstriction of dermal blood vessels and activation of apocrine sweat glands are the main thermoregulatory responses to elevated body temperature, reducing blood flow and increasing sebum secretion for cooling.",
+                        "wrongAnswer_2": "Increased metabolic rate within dermal fibroblasts and activation of sebaceous glands are the principal methods for heat dissipation, accelerating cellular activity and releasing sebum for evaporative cooling.",
+                        "wrongAnswer_3": "Decreased activity of melanocytes and thickening of the stratum corneum are crucial for thermoregulation in response to heat, reducing melanin production and enhancing the skin's barrier to promote heat loss.",
+                        "wrongAnswer_4": "Activation of arrector pili muscles and contraction of subcutaneous adipose tissue are primary heat dissipation mechanisms, causing hair erection to increase surface area and utilizing fat metabolism for cooling."
+                    }
+                ]
+            },
+            {
+                "title": "Cellular components of the epidermis and keratinization",
+                "quizzes": [
+                    {
+                        "question": "Which of the following cell types is predominantly responsible for initiating the cutaneous immune response upon encountering antigens in the epidermis?",
+                        "goodAnswer": "Langerhans cells, a type of dendritic cell residing in the stratum spinosum, are specialized antigen-presenting cells that capture and process antigens, migrating to lymph nodes to activate T lymphocytes and initiate immune responses.",
+                        "wrongAnswer_1": "Merkel cells, located in the stratum basale, are the primary immune cells of the epidermis, releasing cytokines upon stimulation and directly destroying invading pathogens through phagocytosis and enzymatic degradation.",
+                        "wrongAnswer_2": "Melanocytes, found in the stratum basale, are crucial for initiating immune responses by producing melanin, which not only protects against UV radiation but also directly neutralizes antigens and pathogens within the epidermis.",
+                        "wrongAnswer_3": "Keratinocytes in the stratum granulosum are the primary immune responders in the epidermis, releasing antimicrobial peptides and cytokines upon pathogen detection, and initiating inflammation to attract immune cells.",
+                        "wrongAnswer_4": "Fibroblasts within the stratum basale act as the main immune cells in the epidermis, producing antibodies and complement proteins that target and eliminate antigens, thereby preventing systemic infections."
+                    },
+                    {
+                        "question": "During the process of keratinization, what is the critical event that occurs in the stratum granulosum that leads to the formation of the epidermal water barrier and subsequent cellular flattening?",
+                        "goodAnswer": "In the stratum granulosum, keratinocytes release lamellar granules containing lipids, which are extruded into the intercellular space, forming a lipid-rich barrier that, along with keratohyalin granules and cell shrinkage, contributes to water impermeability.",
+                        "wrongAnswer_1": "In the stratum granulosum, melanocytes deposit melanin into keratinocytes, creating a protective pigment shield that simultaneously forms a waterproof layer and induces cellular flattening and terminal differentiation.",
+                        "wrongAnswer_2": "Within the stratum granulosum, Langerhans cells initiate apoptosis of keratinocytes, resulting in the release of cellular contents that polymerize into a water-impermeable layer, and cause cellular flattening for barrier formation.",
+                        "wrongAnswer_3": "In the stratum granulosum, Merkel cells secrete a glycocalyx-like substance into the intercellular space, forming a tight junction barrier that prevents water loss and induces keratinocyte swelling and eventual desquamation.",
+                        "wrongAnswer_4": "In the stratum granulosum, fibroblasts migrate into the epidermis and secrete collagen and elastin, forming a dense extracellular matrix that provides structural support and a water-resistant layer, while causing cellular elongation."
+                    },
+                    {
+                        "question": "Which layer of the epidermis is characterized by active cell division and the presence of melanocytes and Merkel cells, contributing to epidermal regeneration and sensory function?",
+                        "goodAnswer": "The stratum basale, the deepest epidermal layer, is characterized by a single layer of mitotically active keratinocytes, melanocytes producing melanin for UV protection, and Merkel cells functioning in tactile sensation.",
+                        "wrongAnswer_1": "The stratum spinosum, located above the stratum basale, is characterized by active cell division, melanocytes producing melanin, and Langerhans cells initiating immune responses within the epidermis.",
+                        "wrongAnswer_2": "The stratum granulosum, superficial to the stratum spinosum, is the primary layer of cell division, containing melanocytes, and specialized cells called corneocytes which contribute to epidermal regeneration.",
+                        "wrongAnswer_3": "The stratum lucidum, found just beneath the stratum corneum, is characterized by active cell division, Merkel cells for sensory reception, and keratinocytes undergoing cornification to form the protective barrier.",
+                        "wrongAnswer_4": "The stratum corneum, the outermost layer, is characterized by continuous cell division in its basal layer, melanocytes providing pigmentation, and Merkel cells forming the principal component of the epidermal barrier."
+                    }
+                ]
+            },
+            {
+                "title": "Dermis: components and types",
+                "quizzes": [
+                    {
+                        "question": "What are the key distinctions between the papillary and reticular layers of the dermis concerning their composition and primary functions within the skin?",
+                        "goodAnswer": "The papillary dermis is superficial, composed of loose connective tissue with dermal papillae interdigitating with the epidermis for nutrient exchange and anchoring, while the reticular dermis is deeper, consisting of dense irregular connective tissue for tensile strength and elasticity.",
+                        "wrongAnswer_1": "The papillary dermis is deep, composed of dense irregular connective tissue providing the skin's main structural support, whereas the reticular dermis is superficial, composed of loose connective tissue rich in adipocytes for insulation and cushioning.",
+                        "wrongAnswer_2": "Both the papillary and reticular dermis are composed of dense regular connective tissue; however, the papillary dermis is vascularized for nutrient supply and the reticular dermis is avascular, providing sensory innervation.",
+                        "wrongAnswer_3": "The papillary dermis is characterized by abundant adipose tissue and sebaceous glands for sebum production, while the reticular dermis is primarily composed of elastic fibers and melanocytes for pigmentation and elasticity.",
+                        "wrongAnswer_4": "Both papillary and reticular dermis are composed of loose connective tissue; the papillary dermis functions mainly in thermoregulation through sweat glands, and the reticular dermis in immune surveillance via Langerhans cells."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the composition and role of the extracellular matrix within the dermis in maintaining skin integrity and biomechanical properties?",
+                        "goodAnswer": "The dermal extracellular matrix is primarily composed of collagen and elastin fibers embedded in a ground substance of glycosaminoglycans and proteoglycans, providing tensile strength, elasticity, and hydration to the skin.",
+                        "wrongAnswer_1": "The dermal extracellular matrix mainly consists of keratin filaments and desmosomes within keratinocytes, forming a rigid structural framework that provides impermeability and resistance to mechanical stress and dehydration.",
+                        "wrongAnswer_2": "The dermal extracellular matrix is primarily made of adipose tissue and sebaceous glands, which contribute to skin insulation and waterproofing, while also providing cushioning and mechanical support to underlying tissues.",
+                        "wrongAnswer_3": "The dermal extracellular matrix is largely composed of melanin and keratin, which protect against UV radiation and mechanical abrasion, respectively, and provide the skin with its characteristic color and texture.",
+                        "wrongAnswer_4": "The dermal extracellular matrix mainly consists of nerve fibers and blood vessels, which ensure sensory perception and nutrient supply to the skin, while also contributing to thermoregulation and waste removal."
+                    },
+                    {
+                        "question": "Considering the vascular supply of the skin, how does the dermal vascular plexus contribute to the skin's physiological functions beyond nutrient delivery and waste removal?",
+                        "goodAnswer": "The dermal vascular plexus plays a crucial role in thermoregulation through vasodilation and vasoconstriction, modulating blood flow to dissipate or conserve heat, and is also involved in wound healing and inflammation responses.",
+                        "wrongAnswer_1": "The dermal vascular plexus is primarily responsible for melanin synthesis and distribution, ensuring even pigmentation and protection against UV radiation across the skin surface, with minimal involvement in thermoregulation.",
+                        "wrongAnswer_2": "The main function of the dermal vascular plexus is to provide structural support to the dermis, acting as a dense network of vessels that reinforce the extracellular matrix and prevent skin sagging and wrinkling.",
+                        "wrongAnswer_3": "The dermal vascular plexus serves as the primary site for vitamin D synthesis upon exposure to UV radiation, converting cholesterol into vitamin D3, with a secondary role in nutrient transport and waste removal.",
+                        "wrongAnswer_4": "The dermal vascular plexus is predominantly involved in lymphatic drainage and immune surveillance, filtering lymph and transporting immune cells throughout the skin, with a minor contribution to thermoregulation."
+                    }
+                ]
+            },
+            {
+                "title": "Eccrine and apocrine sweat glands",
+                "quizzes": [
+                    {
+                        "question": "What are the fundamental differences between eccrine and apocrine sweat glands concerning their distribution, secretion mechanism, and the composition and function of their sweat?",
+                        "goodAnswer": "Eccrine glands are widely distributed, produce watery sweat for thermoregulation via merocrine secretion, whereas apocrine glands are limited to specific areas, secrete a viscous, lipid-rich sweat by apocrine mechanism associated with body odor and pheromones.",
+                        "wrongAnswer_1": "Eccrine glands are confined to axillae and groin, secreting viscous, odorous sweat through holocrine secretion for lubrication, while apocrine glands are widespread, producing watery, odorless sweat via merocrine secretion for thermoregulation.",
+                        "wrongAnswer_2": "Both eccrine and apocrine glands are widely distributed, but eccrine glands secrete lipid-rich sweat for insulation by apocrine mechanism, and apocrine glands secrete watery sweat for excretion via merocrine secretion.",
+                        "wrongAnswer_3": "Eccrine glands primarily secrete sebum for skin hydration via holocrine secretion, distributed throughout the body, while apocrine glands produce watery sweat for thermoregulation via merocrine secretion, localized in scalp and face.",
+                        "wrongAnswer_4": "Eccrine glands are associated with hair follicles and secrete pheromones through apocrine secretion, primarily in the axillae, whereas apocrine glands are independent of hair follicles and secrete watery sweat for thermoregulation via merocrine secretion, found on palms and soles."
+                    },
+                    {
+                        "question": "How does the secretory mechanism of eccrine sweat glands differ from that of apocrine sweat glands, and what implications does this difference have for the composition of their respective secretions?",
+                        "goodAnswer": "Eccrine glands utilize merocrine secretion, releasing sweat by exocytosis without cellular damage, resulting in a hypotonic, watery secretion; apocrine glands use apocrine secretion, releasing sweat along with apical cytoplasm, leading to a viscous, lipid-rich secretion.",
+                        "wrongAnswer_1": "Eccrine glands employ holocrine secretion, releasing sweat by cell lysis, producing a sebaceous, lipid-rich secretion; apocrine glands use merocrine secretion, releasing watery sweat by exocytosis without cellular damage.",
+                        "wrongAnswer_2": "Both eccrine and apocrine glands utilize holocrine secretion; however, eccrine glands produce watery sweat by complete cell disintegration, and apocrine glands produce viscous sweat by partial cell lysis.",
+                        "wrongAnswer_3": "Eccrine glands use apocrine secretion, releasing sweat with apical cell fragments, resulting in a hypertonic, salty secretion; apocrine glands use merocrine secretion, releasing sweat by exocytosis with no cellular loss, leading to a diluted, watery secretion.",
+                        "wrongAnswer_4": "Eccrine glands secrete via pinocytosis, selectively absorbing water and electrolytes from blood to form sweat, while apocrine glands secrete via phagocytosis, engulfing and releasing cellular debris along with sweat components."
+                    },
+                    {
+                        "question": "What is the primary physiological role of eccrine sweat glands, and how is their activity regulated to maintain body temperature homeostasis in response to environmental changes?",
+                        "goodAnswer": "Eccrine glands primarily function in thermoregulation by producing hypotonic sweat, which evaporates from the skin surface, dissipating heat. Their activity is regulated by the autonomic nervous system, mainly through sympathetic cholinergic innervation, increasing sweat production in response to heat or stress.",
+                        "wrongAnswer_1": "Eccrine glands primarily function in sebum production for skin hydration and protection against pathogens. Their activity is hormonally regulated by androgens, increasing sebum secretion during puberty to maintain skin moisture and barrier function.",
+                        "wrongAnswer_2": "Eccrine glands' main role is pheromone secretion to signal social and reproductive status. Their activity is primarily regulated by the endocrine system, specifically by epinephrine and norepinephrine, enhancing pheromone release during emotional arousal.",
+                        "wrongAnswer_3": "Eccrine glands primarily function in waste excretion, eliminating toxins and metabolic byproducts through sweat. Their activity is controlled by the kidneys and liver, increasing sweat production to compensate for renal and hepatic dysfunction.",
+                        "wrongAnswer_4": "Eccrine glands mainly function in wound healing, secreting growth factors and antimicrobial peptides. Their activity is regulated by local tissue damage and inflammation, promoting cell proliferation and preventing infection at wound sites."
+                    }
+                ]
+            },
+            {
+                "title": "Pilosebaceous apparatus",
+                "quizzes": [
+                    {
+                        "question": "Which components constitute the pilosebaceous apparatus, and how do they synergistically contribute to skin function and homeostasis?",
+                        "goodAnswer": "The pilosebaceous apparatus comprises a hair follicle, hair shaft, arrector pili muscle, and sebaceous gland, working together for hair growth, sebum secretion for lubrication and protection, and piloerection for thermoregulation and defense.",
+                        "wrongAnswer_1": "The pilosebaceous apparatus consists of sweat glands, hair follicles, melanocytes, and sensory nerve endings, collectively responsible for thermoregulation, pigmentation, sensory perception, and waste excretion through sweat.",
+                        "wrongAnswer_2": "The pilosebaceous apparatus includes keratinocytes, fibroblasts, collagen fibers, and elastic fibers, working in concert to provide structural support, elasticity, and mechanical strength to the skin and underlying tissues.",
+                        "wrongAnswer_3": "The pilosebaceous apparatus is composed of Langerhans cells, Merkel cells, melanocytes, and keratinocytes, functioning together for immune surveillance, tactile sensation, pigmentation, and epidermal barrier formation.",
+                        "wrongAnswer_4": "The pilosebaceous apparatus comprises adipocytes, blood vessels, lymphatic vessels, and nerve fibers, collectively involved in insulation, nutrient supply, waste removal, and sensory innervation of the skin and subcutaneous tissue."
+                    },
+                    {
+                        "question": "What is the primary function of sebaceous glands within the pilosebaceous apparatus, and through which secretory mechanism do they release their product?",
+                        "goodAnswer": "Sebaceous glands primarily secrete sebum, a lipid-rich substance that lubricates and waterproofs the skin and hair, and exhibits antibacterial properties. They utilize holocrine secretion, releasing sebum through cell lysis and disintegration.",
+                        "wrongAnswer_1": "Sebaceous glands primarily secrete sweat, a watery fluid for thermoregulation and excretion. They employ merocrine secretion, releasing sweat by exocytosis without cellular damage to cool the body and eliminate waste products.",
+                        "wrongAnswer_2": "Sebaceous glands mainly secrete mucus, a viscous substance that traps pathogens and debris. They use apocrine secretion, releasing mucus along with apical portions of the secretory cells for protection against infection.",
+                        "wrongAnswer_3": "Sebaceous glands primarily secrete keratin, a fibrous protein that strengthens hair and nails. They utilize paracrine secretion, releasing keratin into the extracellular space to provide structural support and integrity.",
+                        "wrongAnswer_4": "Sebaceous glands primarily secrete melanin, a pigment that protects against UV radiation and determines skin color. They employ autocrine secretion, releasing melanin within cells to shield them from harmful UV rays."
+                    },
+                    {
+                        "question": "How does the arrector pili muscle contribute to the functions of the pilosebaceous apparatus, and under what conditions is this muscle typically activated?",
+                        "goodAnswer": "The arrector pili muscle, a smooth muscle associated with hair follicles, contracts to cause piloerection ('goosebumps'), which can provide insulation by trapping air and is also involved in emotional responses and defense mechanisms. It is activated by sympathetic nervous system stimulation in response to cold or fear.",
+                        "wrongAnswer_1": "The arrector pili muscle is a skeletal muscle that facilitates hair growth and regeneration by contracting to stimulate hair follicle cell division. It is primarily activated by growth hormones and nutritional signals to promote hair production.",
+                        "wrongAnswer_2": "The arrector pili muscle is a cardiac muscle that regulates blood flow to the skin by contracting to constrict dermal blood vessels and conserve heat. It is activated by the cardiovascular system in response to changes in blood pressure and oxygen levels.",
+                        "wrongAnswer_3": "The arrector pili muscle is a voluntary muscle that allows for conscious control of hair movement and orientation, enabling fine motor skills and tactile sensitivity. It is activated by the somatic nervous system under voluntary command.",
+                        "wrongAnswer_4": "The arrector pili muscle is a specialized epidermal muscle that controls melanin distribution and skin pigmentation by contracting to disperse melanin granules within keratinocytes. It is activated by UV radiation to enhance skin protection from sun damage."
+                    }
+                ]
+            },
+            {
+                "title": "Mammary gland",
+                "quizzes": [
+                    {
+                        "question": "What is the primary functional role of the mammary gland, and how does its structure support this specialized function?",
+                        "goodAnswer": "The mammary gland's primary role is lactation, producing milk to nourish newborns. Its structure includes lobes containing alveoli lined by milk-secreting cells, ducts for milk transport, and adipose tissue for support and volume, organized for efficient milk production and delivery.",
+                        "wrongAnswer_1": "The mammary gland primarily functions in thermoregulation, secreting sweat to cool the body. Its structure comprises sweat glands, blood vessels for heat exchange, and nerve endings for temperature sensation, adapted for efficient heat dissipation.",
+                        "wrongAnswer_2": "The mammary gland primarily functions in detoxification, filtering blood and removing metabolic waste products. Its structure includes blood vessels, lymphatic vessels, and filtration units, designed for efficient blood purification and waste removal.",
+                        "wrongAnswer_3": "The mammary gland primarily functions in immune surveillance, housing immune cells and producing antibodies. Its structure consists of lymphoid tissue, antigen-presenting cells, and antibody-secreting cells, specialized for immune defense.",
+                        "wrongAnswer_4": "The mammary gland primarily functions in hormone production, synthesizing and secreting reproductive hormones. Its structure includes endocrine cells, blood vessels for hormone transport, and receptor sites for hormone regulation, optimized for hormonal control of reproductive processes."
+                    },
+                    {
+                        "question": "Which hormonal changes are primarily responsible for the development and functional maturation of the mammary gland during pregnancy and lactation?",
+                        "goodAnswer": "Estrogen and progesterone stimulate ductal and alveolar development during pregnancy, while prolactin is crucial for initiating and maintaining milk production, and oxytocin triggers milk ejection during lactation.",
+                        "wrongAnswer_1": "Testosterone and growth hormone are primary hormones for mammary gland development, stimulating cell proliferation and gland enlargement during puberty, and maintaining gland size and function throughout adulthood.",
+                        "wrongAnswer_2": "Cortisol and insulin are crucial hormones for mammary gland maturation, regulating glucose metabolism and energy storage in mammary tissues during pregnancy and lactation to support milk synthesis and secretion.",
+                        "wrongAnswer_3": "Thyroid hormones and adrenaline primarily control mammary gland function, stimulating metabolic activity and milk duct contraction during lactation to enhance milk flow and nutrient delivery to the infant.",
+                        "wrongAnswer_4": "Melatonin and serotonin are essential hormones for mammary gland development, regulating circadian rhythms and sleep cycles which indirectly influence milk production and infant feeding patterns during lactation."
+                    },
+                    {
+                        "question": "What is the process of milk production (lactogenesis) in the mammary gland, and what are the major components of breast milk that provide nutrition and immune support to the newborn?",
+                        "goodAnswer": "Lactogenesis involves prolactin-stimulated synthesis of milk components like lactose, proteins, and lipids within alveolar cells, followed by secretion into ducts. Breast milk contains carbohydrates (lactose), proteins (casein, whey), fats, vitamins, minerals, and immunoglobulins (IgA) providing nutrition and passive immunity.",
+                        "wrongAnswer_1": "Lactogenesis is the process of converting stored adipose tissue into milk through lipolysis and fatty acid synthesis in mammary adipocytes. Breast milk primarily consists of triglycerides, cholesterol, phospholipids, and fat-soluble vitamins, mainly providing energy and insulation to the newborn.",
+                        "wrongAnswer_2": "Lactogenesis involves the filtration of blood plasma by mammary capillaries and concentration of electrolytes and water to form milk. Breast milk mainly contains water, sodium, potassium, chloride, and trace minerals, primarily providing hydration and electrolyte balance to the infant.",
+                        "wrongAnswer_3": "Lactogenesis is the process of breaking down glycogen stored in mammary gland cells and converting it to glucose, which is then secreted as milk. Breast milk mainly contains glucose, fructose, sucrose, and simple sugars, primarily providing quick energy and sweetness to the newborn.",
+                        "wrongAnswer_4": "Lactogenesis involves the synthesis of collagen and elastin fibers within mammary fibroblasts, which are then secreted as milk to provide structural proteins. Breast milk mainly contains collagen, elastin, keratin, and structural proteins, primarily providing building blocks for tissue growth and development in the infant."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

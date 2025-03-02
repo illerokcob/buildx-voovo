@@ -1,0 +1,191 @@
+{
+    "mainTopic": {
+        "title": "Histology of the peripheral nervous system",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Structural and functional organization of the nervous system",
+                "quizzes": [
+                    {
+                        "question": "Which functional division of the nervous system is primarily responsible for the involuntary control of smooth muscle, cardiac muscle, and glands, thereby regulating essential bodily functions such as digestion and heart rate?",
+                        "goodAnswer": "The autonomic nervous system (ANS) governs involuntary functions, controlling smooth muscle, cardiac muscle, and glands to maintain homeostasis.",
+                        "wrongAnswer_1": "The somatic nervous system (SNS) controls involuntary actions of smooth muscle, cardiac muscle, and glands to maintain internal equilibrium.",
+                        "wrongAnswer_2": "The central nervous system (CNS) is responsible for the involuntary regulation of skeletal muscle, cardiac muscle and glandular activity, ensuring stable internal conditions.",
+                        "wrongAnswer_3": "The peripheral nervous system (PNS) regulates voluntary movements of smooth muscle, cardiac muscle, and glands to achieve homeostasis.",
+                        "wrongAnswer_4": "The enteric nervous system (ENS) is responsible for the voluntary control of skeletal muscle, cardiac muscle and glands for maintaining the body's balance."
+                    },
+                    {
+                        "question": "Identify the principal components that constitute the central nervous system (CNS), which acts as the main processing center for coordinating sensory input and motor output within the body.",
+                        "goodAnswer": "The central nervous system comprises the brain and spinal cord, serving as the integration and command center of the nervous system.",
+                        "wrongAnswer_1": "The central nervous system is formed by the brain and peripheral nerves, functioning as the primary sensory and motor pathway controller.",
+                        "wrongAnswer_2": "The central nervous system includes the spinal cord and autonomic ganglia, acting as the main regulatory system for involuntary bodily functions.",
+                        "wrongAnswer_3": "The central nervous system is made up of the brain and somatic nerves, responsible for voluntary movements and sensory perception.",
+                        "wrongAnswer_4": "The central nervous system comprises the spinal cord and cranial nerves, which are the key components for sensory processing and motor execution."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the fundamental functional and structural units of the nervous system, responsible for transmitting electrical and chemical signals to facilitate communication within the body?",
+                        "goodAnswer": "Neurons are the fundamental functional and structural units of the nervous system, specialized for communication via electrical and chemical signals.",
+                        "wrongAnswer_1": "Glial cells are the basic functional and structural units of the nervous system, primarily involved in electrical signal transmission and metabolic support.",
+                        "wrongAnswer_2": "Neuroglia represent the fundamental functional and structural units of the nervous system, specialized for rapid chemical signaling and structural integrity.",
+                        "wrongAnswer_3": "Ependymal cells are considered the basic functional and structural units of the nervous system, responsible for cerebrospinal fluid production and electrical insulation.",
+                        "wrongAnswer_4": "Schwann cells are the fundamental functional and structural units of the nervous system, crucial for both electrical and chemical signal reception and integration."
+                    }
+                ]
+            },
+            {
+                "title": "Cellular components of the nervous system",
+                "quizzes": [
+                    {
+                        "question": "Within the central nervous system, which glial cell type is predominantly responsible for the myelination of neuronal axons, significantly enhancing the velocity of action potential conduction?",
+                        "goodAnswer": "Oligodendrocytes are the glial cells in the CNS that myelinate axons, increasing the speed of action potential propagation and providing structural support.",
+                        "wrongAnswer_1": "Astrocytes are the glial cells in the CNS responsible for axonal myelination, which is crucial for neuronal metabolic support and synaptic transmission modulation.",
+                        "wrongAnswer_2": "Microglia are the glial cells in the CNS primarily involved in axonal myelination, playing a vital role in immune surveillance and synaptic pruning.",
+                        "wrongAnswer_3": "Ependymal cells are the glial cells in the CNS that contribute to axonal myelination, facilitating cerebrospinal fluid circulation and blood-brain barrier maintenance.",
+                        "wrongAnswer_4": "Satellite cells are the glial cells in the CNS that perform axonal myelination, providing electrical insulation and regulating the ionic environment of neurons."
+                    },
+                    {
+                        "question": "Which type of glial cell, found predominantly in the peripheral nervous system, performs a function analogous to oligodendrocytes in the CNS by forming myelin sheaths around axons, thereby accelerating nerve impulse transmission?",
+                        "goodAnswer": "Schwann cells in the PNS are responsible for myelination of peripheral axons, functionally similar to oligodendrocytes in the CNS for speeding up nerve conduction.",
+                        "wrongAnswer_1": "Satellite cells in the PNS are involved in myelination of peripheral axons, sharing functional similarities with astrocytes in the CNS for metabolic support.",
+                        "wrongAnswer_2": "Astrocytes in the PNS perform myelination of peripheral axons, exhibiting functional analogies to microglia in the CNS for immune responses.",
+                        "wrongAnswer_3": "Ependymal cells in the PNS are responsible for myelination of peripheral axons, analogous to ependymal cells in the CNS for CSF regulation.",
+                        "wrongAnswer_4": "Microglia in the PNS are involved in myelination of peripheral axons, similar in function to oligodendrocytes in the CNS regarding structural scaffolding."
+                    },
+                    {
+                        "question": "Identify the primary function of astrocytes, the most abundant glial cells in the central nervous system, concerning the neuronal environment and synaptic activity.",
+                        "goodAnswer": "Astrocytes primarily provide metabolic support to neurons, regulate the extracellular ionic environment, and modulate synaptic transmission in the CNS.",
+                        "wrongAnswer_1": "Astrocytes mainly function to myelinate axons in the CNS, offer immune surveillance against pathogens, and facilitate action potential propagation.",
+                        "wrongAnswer_2": "Astrocytes are primarily responsible for cerebrospinal fluid production in the CNS, remove cellular debris through phagocytosis, and control neurotransmitter release.",
+                        "wrongAnswer_3": "Astrocytes mainly contribute to the formation of the blood-brain barrier in the CNS, regulate nerve impulse transmission through electrical synapses, and provide structural support via myelination.",
+                        "wrongAnswer_4": "Astrocytes are primarily involved in immune defense in the CNS, produce myelin sheaths around axons, and regulate the internal temperature of neural tissue."
+                    },
+                    {
+                        "question": "What is the principal role of microglia, the resident immune cells of the central nervous system, in maintaining neuronal health and tissue homeostasis?",
+                        "goodAnswer": "Microglia act as the primary immune cells of the CNS, performing phagocytosis of cellular debris and pathogens, and modulating synaptic pruning for tissue maintenance.",
+                        "wrongAnswer_1": "Microglia serve to myelinate axons within the CNS, regulate cerebrospinal fluid flow in ventricles, and maintain the blood-brain barrier integrity for neural protection.",
+                        "wrongAnswer_2": "Microglia are responsible for providing metabolic substrates to neurons in the CNS, regulate extracellular ion concentrations, and facilitate neurotransmitter synthesis.",
+                        "wrongAnswer_3": "Microglia mainly function to produce cerebrospinal fluid in the CNS, regulate synaptic plasticity through neurotransmitter modulation, and provide structural scaffolding for neurons.",
+                        "wrongAnswer_4": "Microglia act to secrete myelin sheaths in the CNS, regulate blood glucose levels for neural metabolism, and control the rate of nerve impulse conduction in axons."
+                    }
+                ]
+            },
+            {
+                "title": "Synaptic connections and neuromuscular junction",
+                "quizzes": [
+                    {
+                        "question": "Describe the sequence of events that accurately depicts chemical synaptic transmission, from the arrival of an action potential to the postsynaptic response initiation.",
+                        "goodAnswer": "Action potential arrives at axon terminal -> Voltage-gated Ca2+ channels open -> Vesicle fusion and neurotransmitter release -> Neurotransmitter binding to postsynaptic receptors -> Postsynaptic potential generation.",
+                        "wrongAnswer_1": "Neurotransmitter release -> Action potential arrives at axon terminal -> Voltage-gated Na+ channels open -> Neurotransmitter binding to presynaptic receptors -> Postsynaptic potential generation.",
+                        "wrongAnswer_2": "Action potential reaches dendrites -> Ligand-gated channels open -> Vesicle fusion and neurotransmitter release -> Neurotransmitter binding to postsynaptic receptors -> Presynaptic potential generation.",
+                        "wrongAnswer_3": "Postsynaptic potential generation -> Neurotransmitter binding to presynaptic receptors -> Voltage-gated K+ channels open -> Action potential arrives at axon terminal -> Vesicle fusion and neurotransmitter release.",
+                        "wrongAnswer_4": "Vesicle fusion and neurotransmitter release -> Action potential arrives at axon terminal -> Voltage-gated Cl- channels open -> Neurotransmitter binding to postsynaptic receptors -> Presynaptic potential generation."
+                    },
+                    {
+                        "question": "At the neuromuscular junction, which specific neurotransmitter is released from the motor neuron axon terminal to initiate muscle contraction by binding to receptors on the muscle fiber membrane?",
+                        "goodAnswer": "Acetylcholine (ACh) is the neurotransmitter released at the neuromuscular junction, binding to nicotinic cholinergic receptors on the muscle fiber membrane.",
+                        "wrongAnswer_1": "Norepinephrine (NE) is the neurotransmitter released at the neuromuscular junction, binding to adrenergic receptors on the muscle fiber membrane to induce contraction.",
+                        "wrongAnswer_2": "Dopamine (DA) is the neurotransmitter released at the neuromuscular junction, binding to dopaminergic receptors on the muscle fiber membrane to initiate muscle relaxation.",
+                        "wrongAnswer_3": "Serotonin (5-HT) is the neurotransmitter released at the neuromuscular junction, binding to serotonergic receptors on the muscle fiber membrane for muscle fiber depolarization.",
+                        "wrongAnswer_4": "Glutamate (Glu) is the neurotransmitter released at the neuromuscular junction, binding to glutamatergic receptors on the muscle fiber membrane to inhibit muscle contraction."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which the neurotransmitter action is terminated at a chemical synapse, ensuring precise and transient signaling between neurons?",
+                        "goodAnswer": "Neurotransmitter action is primarily terminated by enzymatic degradation, reuptake into the presynaptic terminal, or diffusion away from the synaptic cleft.",
+                        "wrongAnswer_1": "Neurotransmitter action is primarily terminated by active transport into postsynaptic dendrites, vesicular sequestration in the postsynaptic cell, or continuous receptor binding.",
+                        "wrongAnswer_2": "Neurotransmitter action is mainly terminated by phosphorylation within the synaptic cleft, exocytosis from the postsynaptic neuron, or sustained depolarization of the presynaptic terminal.",
+                        "wrongAnswer_3": "Neurotransmitter action is primarily terminated by endocytosis into the presynaptic terminal, facilitated diffusion across the postsynaptic membrane, or irreversible receptor activation.",
+                        "wrongAnswer_4": "Neurotransmitter action is terminated by voltage-gated channel inactivation, metabolic conversion within glial cells, or prolonged depolarization of the postsynaptic cell membrane."
+                    }
+                ]
+            },
+            {
+                "title": "Nerve fibers and myelination",
+                "quizzes": [
+                    {
+                        "question": "How does myelination contribute to the efficiency of nerve impulse conduction along an axon, specifically describing the underlying mechanism of saltatory conduction?",
+                        "goodAnswer": "Myelination increases conduction velocity by saltatory conduction, where action potentials 'jump' between Nodes of Ranvier, reducing membrane capacitance and increasing resistance.",
+                        "wrongAnswer_1": "Myelination reduces conduction velocity by continuous conduction, where action potentials propagate along the entire axon membrane, increasing membrane capacitance and decreasing resistance.",
+                        "wrongAnswer_2": "Myelination increases conduction velocity by continuous conduction, where action potentials move smoothly along the myelinated segments, increasing membrane capacitance and resistance.",
+                        "wrongAnswer_3": "Myelination decreases conduction velocity by saltatory conduction, where action potentials 'diffuse' across the myelin sheaths, reducing membrane capacitance and resistance.",
+                        "wrongAnswer_4": "Myelination reduces conduction velocity by saltatory conduction, where action potentials are attenuated across Nodes of Ranvier, increasing membrane capacitance and reducing resistance."
+                    },
+                    {
+                        "question": "What is the critical role of Nodes of Ranvier in myelinated axons concerning the propagation of action potentials and the distribution of ion channels?",
+                        "goodAnswer": "Nodes of Ranvier are gaps in the myelin sheath containing high densities of voltage-gated Na+ and K+ channels, essential for action potential regeneration during saltatory conduction.",
+                        "wrongAnswer_1": "Nodes of Ranvier are myelin-rich segments with low densities of ligand-gated Cl- channels, crucial for action potential inhibition and continuous conduction propagation.",
+                        "wrongAnswer_2": "Nodes of Ranvier are sections covered by myelin with high densities of voltage-gated Ca2+ channels, important for neurotransmitter release and continuous conduction.",
+                        "wrongAnswer_3": "Nodes of Ranvier are myelin sheath overlaps with low densities of voltage-gated K+ channels, vital for hyperpolarization maintenance and saltatory conduction damping.",
+                        "wrongAnswer_4": "Nodes of Ranvier are continuous myelin segments containing high densities of voltage-gated Cl- channels, essential for action potential repolarization and continuous conduction."
+                    },
+                    {
+                        "question": "Compare and contrast the typical conduction velocities observed in myelinated versus unmyelinated nerve fibers, and explain the physiological basis for any differences.",
+                        "goodAnswer": "Myelinated nerve fibers exhibit significantly faster conduction velocities than unmyelinated fibers due to saltatory conduction and reduced membrane capacitance.",
+                        "wrongAnswer_1": "Unmyelinated nerve fibers exhibit significantly faster conduction velocities than myelinated fibers because of continuous conduction and increased membrane resistance.",
+                        "wrongAnswer_2": "Myelinated and unmyelinated nerve fibers exhibit comparable conduction velocities, as both rely on continuous conduction mechanisms along the axon membrane.",
+                        "wrongAnswer_3": "Unmyelinated nerve fibers exhibit slightly faster conduction velocities than myelinated fibers due to saltatory conduction and increased membrane capacitance.",
+                        "wrongAnswer_4": "Myelinated nerve fibers show slightly slower conduction velocities than unmyelinated fibers because of increased membrane capacitance and reliance on continuous conduction."
+                    }
+                ]
+            },
+            {
+                "title": "Types of ganglia - autonomic and sensory",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between autonomic ganglia and sensory ganglia in terms of their location, function, and the type of neurons predominantly found within each.",
+                        "goodAnswer": "Autonomic ganglia are in the PNS, involved in visceral motor control, containing multipolar neurons; sensory ganglia are in the PNS, involved in sensory input, containing pseudounipolar neurons.",
+                        "wrongAnswer_1": "Autonomic ganglia are in the CNS, involved in somatic motor control, containing pseudounipolar neurons; sensory ganglia are in the CNS, involved in visceral motor output, containing multipolar neurons.",
+                        "wrongAnswer_2": "Autonomic ganglia are in the PNS, involved in sensory input, containing bipolar neurons; sensory ganglia are in the CNS, involved in visceral motor control, containing multipolar neurons.",
+                        "wrongAnswer_3": "Autonomic ganglia are in the CNS, involved in visceral sensory control, containing multipolar neurons; sensory ganglia are in the PNS, involved in somatic motor output, containing bipolar neurons.",
+                        "wrongAnswer_4": "Autonomic ganglia are in the PNS, involved in somatic sensory control, containing unipolar neurons; sensory ganglia are in the PNS, involved in visceral motor input, containing bipolar neurons."
+                    },
+                    {
+                        "question": "Describe the functional role of autonomic ganglia in the autonomic nervous system, particularly in the context of signal transmission from the CNS to effector organs.",
+                        "goodAnswer": "Autonomic ganglia serve as relay stations in the autonomic nervous system, integrating preganglionic signals from the CNS and transmitting postganglionic signals to effector organs.",
+                        "wrongAnswer_1": "Autonomic ganglia function as primary sensory processing centers in the autonomic nervous system, directly receiving sensory input from effector organs and relaying to the CNS.",
+                        "wrongAnswer_2": "Autonomic ganglia act as initiation sites for motor commands in the autonomic nervous system, generating preganglionic signals that are sent directly to effector organs.",
+                        "wrongAnswer_3": "Autonomic ganglia serve as inhibitory centers in the autonomic nervous system, modulating sensory input and suppressing motor output to maintain homeostasis.",
+                        "wrongAnswer_4": "Autonomic ganglia function as distribution hubs for cerebrospinal fluid in the autonomic nervous system, ensuring nutrient supply to effector organs and waste removal from the CNS."
+                    },
+                    {
+                        "question": "What is the characteristic neuronal morphology predominantly found in sensory ganglia, and how does this morphology relate to their specific sensory function?",
+                        "goodAnswer": "Sensory ganglia predominantly contain pseudounipolar neurons, which have a single process that bifurcates, with one branch extending to the periphery and the other to the CNS, facilitating sensory signal transmission.",
+                        "wrongAnswer_1": "Sensory ganglia predominantly contain multipolar neurons, which possess multiple dendrites and a single axon, enabling complex integration of sensory information within the ganglion itself.",
+                        "wrongAnswer_2": "Sensory ganglia predominantly contain bipolar neurons, characterized by two processes extending from the cell body, facilitating direct signal relay from one neuron to another within the ganglion.",
+                        "wrongAnswer_3": "Sensory ganglia predominantly contain unipolar neurons, having a single process that functions as both axon and dendrite, specialized for rapid motor signal transduction from the ganglion to effectors.",
+                        "wrongAnswer_4": "Sensory ganglia predominantly contain anaxonic neurons, which lack a distinct axon, primarily involved in local signaling and modulation of sensory input within the peripheral nervous system."
+                    }
+                ]
+            },
+            {
+                "title": "Mechanosensory receptors and neuromuscular spindles",
+                "quizzes": [
+                    {
+                        "question": "Describe the function of muscle spindles as specialized mechanoreceptors, particularly focusing on their role in sensing muscle stretch and initiating the stretch reflex.",
+                        "goodAnswer": "Muscle spindles detect muscle stretch and rate of stretch, initiating the stretch reflex by activating alpha motor neurons to resist overstretching and maintain muscle tone.",
+                        "wrongAnswer_1": "Muscle spindles detect muscle contraction force and rate of contraction, initiating the Golgi tendon reflex by inhibiting alpha motor neurons to prevent muscle tearing during strong contractions.",
+                        "wrongAnswer_2": "Muscle spindles detect joint angle and rate of joint movement, initiating the flexor reflex by activating interneurons to withdraw a limb from a noxious stimulus.",
+                        "wrongAnswer_3": "Muscle spindles detect muscle temperature and metabolic changes, initiating thermoregulatory reflexes by activating autonomic motor neurons to control blood flow and sweating.",
+                        "wrongAnswer_4": "Muscle spindles detect muscle fatigue and lactic acid accumulation, initiating fatigue reflexes by activating gamma motor neurons to increase muscle spindle sensitivity and reduce fatigue."
+                    },
+                    {
+                        "question": "What are the primary components of a muscle spindle, and how do intrafusal muscle fibers and sensory afferents contribute to its mechanosensory function?",
+                        "goodAnswer": "Muscle spindles contain intrafusal fibers (nuclear bag and nuclear chain) innervated by sensory afferents (Ia and II), detecting stretch magnitude and velocity and transmitting to CNS.",
+                        "wrongAnswer_1": "Muscle spindles are composed of extrafusal fibers and Golgi tendon organs innervated by alpha motor neurons and Ib afferents, detecting muscle tension and force of contraction.",
+                        "wrongAnswer_2": "Muscle spindles include tendon fibers and joint capsules innervated by gamma motor neurons and A-delta fibers, detecting joint position and rate of movement for proprioception.",
+                        "wrongAnswer_3": "Muscle spindles consist of ligament fibers and Pacinian corpuscles innervated by C fibers and nociceptors, detecting pain and pressure stimuli within muscle tissue and joints.",
+                        "wrongAnswer_4": "Muscle spindles contain connective tissue sheaths and free nerve endings innervated by autonomic efferents and thermoreceptors, regulating muscle blood flow and temperature during activity."
+                    },
+                    {
+                        "question": "Explain the role of gamma motor neurons in regulating the sensitivity of muscle spindles, and how this modulation affects the overall control of muscle tone and posture.",
+                        "goodAnswer": "Gamma motor neurons innervate intrafusal fibers, adjusting spindle sensitivity to stretch, maintaining muscle spindle responsiveness across different muscle lengths and contributing to muscle tone.",
+                        "wrongAnswer_1": "Gamma motor neurons innervate extrafusal fibers, directly controlling muscle contraction force and velocity, determining the overall strength of muscle actions and postural adjustments.",
+                        "wrongAnswer_2": "Gamma motor neurons innervate Golgi tendon organs, regulating muscle tension and preventing excessive force generation, ensuring muscle protection and smooth movements.",
+                        "wrongAnswer_3": "Gamma motor neurons innervate Pacinian corpuscles, modulating vibration sensitivity and adapting rapidly to changes in muscle pressure, affecting fine motor control and coordination.",
+                        "wrongAnswer_4": "Gamma motor neurons innervate free nerve endings in muscles, regulating pain and temperature sensation, contributing to nociceptive reflexes and thermoregulation in muscle tissue."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

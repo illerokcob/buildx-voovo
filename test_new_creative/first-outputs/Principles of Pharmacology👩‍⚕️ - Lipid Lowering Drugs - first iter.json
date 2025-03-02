@@ -1,0 +1,157 @@
+{
+    "mainTopic": {
+        "title": "Lipid Lowering Drugs",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of atherosclerosis",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the initiating event in the pathogenesis of atherosclerosis, preceding the formation of a mature atherosclerotic plaque?",
+                        "goodAnswer": "Endothelial dysfunction, characterized by increased permeability and reduced nitric oxide production, is the crucial initial event, allowing lipoprotein entry and initiating inflammatory responses.",
+                        "wrongAnswer_1": "Smooth muscle cell proliferation in the tunica media, stimulated by growth factors released from platelets, marks the primary step in atherogenesis, leading to intimal thickening and subsequent lipid accumulation.",
+                        "wrongAnswer_2": "The rupture of vasa vasorum within the tunica adventitia, causing intramural hemorrhage and subsequent organization, is the fundamental initiating event in atherosclerosis, promoting plaque formation.",
+                        "wrongAnswer_3": "Adventitial inflammation, driven by systemic inflammatory cytokines and infiltration of lymphocytes, is the critical initiating step in atherogenesis, leading to endothelial activation and foam cell formation.",
+                        "wrongAnswer_4": "Medial calcification, characterized by calcium deposition within the smooth muscle layers, represents the primary initiating factor in atherosclerosis, disrupting vascular integrity and initiating lipid deposition."
+                    },
+                    {
+                        "question": "In the progression of atherosclerosis, what is the critical role of macrophages in the development of foam cells and the advancement of plaque formation?",
+                        "goodAnswer": "Macrophages internalize modified LDL particles, particularly oxidized LDL, via scavenger receptors like SR-A and CD36, leading to cholesterol ester accumulation and transformation into foam cells within the intima.",
+                        "wrongAnswer_1": "Macrophages primarily contribute to plaque stabilization by synthesizing extracellular matrix components such as collagen and elastin, thereby preventing plaque rupture and subsequent thrombosis.",
+                        "wrongAnswer_2": "Macrophages facilitate the efflux of cholesterol from smooth muscle cells and endothelial cells within the intima, preventing lipid accumulation and mitigating the progression of atherosclerotic lesions.",
+                        "wrongAnswer_3": "Macrophages initiate the process of calcification within the atherosclerotic plaque by secreting calcium-binding proteins and promoting the deposition of hydroxyapatite crystals, contributing to plaque hardening.",
+                        "wrongAnswer_4": "Macrophages induce endothelial proliferation and migration in response to growth factors, contributing to the formation of a neointima and the initial stages of plaque development in the arterial wall."
+                    },
+                    {
+                        "question": "Which of the following accurately represents the sequence of cellular events involved in the formation of a fatty streak, the earliest visible lesion in atherosclerosis?",
+                        "goodAnswer": "Endothelial injury -> monocyte adhesion and entry into the intima -> macrophage differentiation -> uptake of modified LDL -> foam cell formation -> fatty streak development.",
+                        "wrongAnswer_1": "Smooth muscle cell migration from media to intima -> platelet aggregation -> thrombus formation -> lipid deposition -> fatty streak development -> foam cell formation.",
+                        "wrongAnswer_2": "Fibroblast proliferation in the adventitia -> collagen deposition -> intimal thickening -> endothelial dysfunction -> foam cell formation -> fatty streak development.",
+                        "wrongAnswer_3": "Neutrophil infiltration into the intima -> release of reactive oxygen species -> endothelial cell apoptosis -> lipid oxidation -> macrophage recruitment -> fatty streak development.",
+                        "wrongAnswer_4": "T-lymphocyte activation in the blood -> migration to the adventitia -> cytokine release -> medial smooth muscle cell activation -> foam cell formation -> fatty streak development."
+                    },
+                    {
+                        "question": "What is the primary pathophysiological consequence of advanced atherosclerotic plaques within arterial walls, leading to clinical manifestations of cardiovascular disease?",
+                        "goodAnswer": "Progressive narrowing of the arterial lumen, restricting blood flow and causing ischemia in downstream tissues, alongside potential plaque rupture and thrombosis leading to acute events.",
+                        "wrongAnswer_1": "Generalized arterial dilation and weakening of the vessel wall, leading to aneurysm formation and a subsequent increased risk of hemorrhagic stroke and vessel dissection.",
+                        "wrongAnswer_2": "Increased elasticity and compliance of arterial walls, leading to enhanced blood flow and reduced peripheral resistance, paradoxically increasing the risk of hypertension.",
+                        "wrongAnswer_3": "Thickening of the tunica adventitia and expansion of vasa vasorum, leading to increased nutrient supply to the vessel wall and preventing the development of ischemia.",
+                        "wrongAnswer_4": "Inflammation and fibrosis of the tunica media, resulting in increased arterial wall strength and rigidity, protecting against plaque rupture but causing diastolic dysfunction."
+                    }
+                ]
+            },
+            {
+                "title": "Transmembrane receptors on mammalian cells, Apolipoproteins, sterols and lipoprotein cycles",
+                "quizzes": [
+                    {
+                        "question": "What is the principal function of the LDL receptor (LDLR), a transmembrane protein expressed on various mammalian cell types, in lipoprotein metabolism?",
+                        "goodAnswer": "The LDLR mediates the endocytosis of LDL particles, facilitating cellular uptake of cholesterol and regulating plasma LDL-cholesterol concentrations through receptor-mediated internalization.",
+                        "wrongAnswer_1": "The LDLR promotes the efflux of excess cholesterol from peripheral cells to HDL particles, playing a crucial role in reverse cholesterol transport and lowering cellular cholesterol levels.",
+                        "wrongAnswer_2": "The LDLR is responsible for the synthesis of apolipoprotein B-100 (apoB-100) within hepatocytes, which is essential for the assembly and secretion of VLDL particles into the circulation.",
+                        "wrongAnswer_3": "The LDLR hydrolyzes triglycerides within circulating chylomicrons and VLDL particles, releasing free fatty acids for cellular uptake and energy production in peripheral tissues.",
+                        "wrongAnswer_4": "The LDLR facilitates the transfer of cholesteryl esters from HDL to VLDL and LDL particles, mediating the redistribution of cholesterol among different lipoprotein classes in the plasma."
+                    },
+                    {
+                        "question": "Apolipoprotein B-100 (apoB-100) is a crucial structural component of several lipoprotein particles. Identify the lipoproteins that contain apoB-100 as their primary apolipoprotein.",
+                        "goodAnswer": "ApoB-100 is the principal apolipoprotein of VLDL, IDL, and LDL particles, playing a critical role in their assembly, secretion, and interaction with lipoprotein receptors.",
+                        "wrongAnswer_1": "ApoB-100 is primarily associated with chylomicrons and chylomicron remnants, facilitating their hepatic uptake and catabolism via lipoprotein lipase and hepatic lipase.",
+                        "wrongAnswer_2": "ApoB-100 is the major apolipoprotein of HDL particles, contributing to their structural integrity and mediating their interaction with ABCA1 and ABCG1 transporters for cholesterol efflux.",
+                        "wrongAnswer_3": "ApoB-100 is exclusively found on nascent VLDL particles secreted from the liver and is subsequently removed during lipoprotein processing in the circulation.",
+                        "wrongAnswer_4": "ApoB-100 is a minor apolipoprotein component of all lipoprotein classes, including chylomicrons, VLDL, LDL, and HDL, contributing to their overall stability and metabolism."
+                    },
+                    {
+                        "question": "What is the critical regulatory enzyme in de novo cholesterol biosynthesis, and where within the cell does this enzyme catalyze the rate-limiting step?",
+                        "goodAnswer": "HMG-CoA reductase, located in the endoplasmic reticulum membrane, catalyzes the rate-limiting step in cholesterol biosynthesis, converting HMG-CoA to mevalonate.",
+                        "wrongAnswer_1": "Acetyl-CoA carboxylase, located in the mitochondrial matrix, catalyzes the rate-limiting step in cholesterol biosynthesis, converting acetyl-CoA to malonyl-CoA.",
+                        "wrongAnswer_2": "Squalene synthase, located in the cytoplasm, catalyzes the rate-limiting step in cholesterol biosynthesis, converting squalene to lanosterol.",
+                        "wrongAnswer_3": "Cholesterol ester transfer protein (CETP), located in the plasma, catalyzes the rate-limiting step in cholesterol biosynthesis, transferring cholesteryl esters from HDL to VLDL.",
+                        "wrongAnswer_4": "Fatty acid synthase, located in the cytosol, catalyzes a rate-limiting step that indirectly impacts cholesterol synthesis by providing precursors derived from fatty acid metabolism."
+                    },
+                    {
+                        "question": "Which lipoprotein particle is primarily responsible for the reverse cholesterol transport pathway, mediating the removal of excess cholesterol from peripheral tissues back to the liver?",
+                        "goodAnswer": "High-density lipoprotein (HDL) is the major lipoprotein involved in reverse cholesterol transport, accepting cholesterol from peripheral cells and transporting it to the liver for excretion or recycling.",
+                        "wrongAnswer_1": "Low-density lipoprotein (LDL) is primarily responsible for reverse cholesterol transport, delivering cholesterol to peripheral tissues and promoting cholesterol efflux from these tissues.",
+                        "wrongAnswer_2": "Very-low-density lipoprotein (VLDL) facilitates reverse cholesterol transport by transferring triglycerides to peripheral tissues and indirectly promoting cholesterol uptake by the liver.",
+                        "wrongAnswer_3": "Chylomicrons are the primary lipoproteins mediating reverse cholesterol transport, absorbing dietary cholesterol in the intestine and transporting it directly to the liver for excretion.",
+                        "wrongAnswer_4": "Intermediate-density lipoprotein (IDL) plays a minor role in reverse cholesterol transport by facilitating the conversion of VLDL to LDL and indirectly affecting cholesterol metabolism in the liver."
+                    }
+                ]
+            },
+            {
+                "title": "Lipid lowering drugs",
+                "quizzes": [
+                    {
+                        "question": "Statins are a cornerstone of lipid-lowering therapy. What is the primary mechanism of action by which statins reduce plasma LDL-cholesterol levels?",
+                        "goodAnswer": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis, leading to decreased intracellular cholesterol and upregulation of LDL receptors.",
+                        "wrongAnswer_1": "Statins directly inhibit the intestinal absorption of dietary cholesterol by blocking the Niemann-Pick C1-Like 1 (NPC1L1) transporter in enterocytes, reducing cholesterol influx.",
+                        "wrongAnswer_2": "Statins increase the activity of lipoprotein lipase (LPL), promoting the hydrolysis of triglycerides in VLDL and chylomicrons and indirectly lowering LDL-cholesterol through lipoprotein remodeling.",
+                        "wrongAnswer_3": "Statins enhance the activity of cholesterol ester transfer protein (CETP), facilitating the transfer of cholesteryl esters from HDL to LDL and VLDL, leading to increased LDL catabolism.",
+                        "wrongAnswer_4": "Statins stimulate the production of bile acids in the liver, increasing the excretion of cholesterol in the feces and reducing the circulating pool of cholesterol available for LDL synthesis."
+                    },
+                    {
+                        "question": "Ezetimibe is another class of lipid-lowering drug frequently used in combination therapy. What is the primary target and mechanism of action of ezetimibe?",
+                        "goodAnswer": "Ezetimibe selectively inhibits the Niemann-Pick C1-Like 1 (NPC1L1) transporter in the brush border of enterocytes, reducing intestinal absorption of dietary and biliary cholesterol.",
+                        "wrongAnswer_1": "Ezetimibe activates peroxisome proliferator-activated receptor alpha (PPAR\u03b1), increasing the expression of lipoprotein lipase and reducing plasma triglyceride levels more effectively than cholesterol.",
+                        "wrongAnswer_2": "Ezetimibe is a potent inhibitor of microsomal triglyceride transfer protein (MTP) in hepatocytes, reducing the assembly and secretion of VLDL particles and subsequently lowering LDL levels.",
+                        "wrongAnswer_3": "Ezetimibe functions as a bile acid sequestrant in the intestine, binding to bile acids and preventing their reabsorption, thus promoting cholesterol conversion to bile acids in the liver.",
+                        "wrongAnswer_4": "Ezetimibe enhances the activity of ATP-binding cassette transporters ABCA1 and ABCG1, promoting cholesterol efflux from macrophages and peripheral cells to HDL, increasing HDL-cholesterol."
+                    },
+                    {
+                        "question": "PCSK9 inhibitors represent a newer class of lipid-lowering drugs. How do PCSK9 inhibitors achieve their LDL-cholesterol lowering effect?",
+                        "goodAnswer": "PCSK9 inhibitors are monoclonal antibodies that bind to proprotein convertase subtilisin/kexin type 9 (PCSK9), preventing it from degrading LDL receptors and increasing LDLR recycling to the cell surface.",
+                        "wrongAnswer_1": "PCSK9 inhibitors directly bind to LDL particles in the circulation, promoting their hepatic uptake via LDL receptors and accelerating LDL clearance from the plasma compartment.",
+                        "wrongAnswer_2": "PCSK9 inhibitors stimulate the expression of LDL receptors in hepatocytes by activating sterol regulatory element-binding protein 2 (SREBP-2), increasing LDL receptor synthesis.",
+                        "wrongAnswer_3": "PCSK9 inhibitors enhance the activity of hepatic lipase, promoting the catabolism of IDL and LDL particles and reducing the conversion of VLDL to LDL in the circulation.",
+                        "wrongAnswer_4": "PCSK9 inhibitors reduce the synthesis of apolipoprotein C-III (apoC-III), an inhibitor of lipoprotein lipase, thereby indirectly increasing LDL clearance and reducing plasma LDL levels."
+                    },
+                    {
+                        "question": "Fibrates are primarily used to lower which type of lipid in patients with dyslipidemia, and through what primary mechanism do they exert their lipid-modifying effects?",
+                        "goodAnswer": "Fibrates primarily lower triglycerides and raise HDL-cholesterol by activating peroxisome proliferator-activated receptor alpha (PPAR\u03b1), which increases lipoprotein lipase expression and fatty acid oxidation.",
+                        "wrongAnswer_1": "Fibrates primarily lower LDL-cholesterol and raise HDL-cholesterol by inhibiting cholesterol ester transfer protein (CETP), which reduces the transfer of cholesteryl esters from HDL to VLDL and LDL.",
+                        "wrongAnswer_2": "Fibrates primarily lower total cholesterol and triglycerides by inhibiting acyl-CoA:cholesterol acyltransferase (ACAT), which reduces cholesterol esterification and VLDL assembly in hepatocytes.",
+                        "wrongAnswer_3": "Fibrates primarily lower LDL-cholesterol and triglycerides by inhibiting microsomal triglyceride transfer protein (MTP), which reduces VLDL synthesis and subsequently decreases LDL formation.",
+                        "wrongAnswer_4": "Fibrates primarily lower triglycerides and raise LDL-cholesterol by activating sterol regulatory element-binding protein 1c (SREBP-1c), which increases fatty acid and triglyceride synthesis in the liver."
+                    }
+                ]
+            },
+            {
+                "title": "Investigational treatments of atherosclerosis and non-drug treatment: LDL apheresis",
+                "quizzes": [
+                    {
+                        "question": "LDL apheresis is a non-pharmacological treatment for severe hypercholesterolemia. What is the fundamental principle and mechanism underlying LDL apheresis?",
+                        "goodAnswer": "LDL apheresis is an extracorporeal blood purification technique that selectively removes LDL particles from plasma, typically using techniques like immunoadsorption or filtration, to rapidly lower LDL-cholesterol levels.",
+                        "wrongAnswer_1": "LDL apheresis involves the intravenous infusion of recombinant LDL receptors that bind to circulating LDL particles, enhancing their hepatic uptake and catabolism, thus reducing plasma LDL levels.",
+                        "wrongAnswer_2": "LDL apheresis is a gene therapy approach that aims to increase the expression of LDL receptors in hepatocytes using viral vectors, leading to enhanced LDL clearance from the circulation over time.",
+                        "wrongAnswer_3": "LDL apheresis is a dietary intervention that involves the consumption of specific foods rich in plant sterols and stanols, which competitively inhibit intestinal cholesterol absorption and lower LDL levels.",
+                        "wrongAnswer_4": "LDL apheresis uses high-intensity focused ultrasound to directly disrupt and remove atherosclerotic plaques from arterial walls, reducing the overall burden of atherosclerosis and improving vascular function."
+                    },
+                    {
+                        "question": "In the context of investigational treatments for atherosclerosis, what is the therapeutic strategy behind using antisense oligonucleotides (ASOs) targeting apolipoprotein C-III (apoC-III)?",
+                        "goodAnswer": "ASOs targeting apoC-III reduce hepatic synthesis of apoC-III, an inhibitor of lipoprotein lipase, leading to increased triglyceride hydrolysis, decreased VLDL and triglyceride levels, and potentially reduced cardiovascular risk.",
+                        "wrongAnswer_1": "ASOs targeting apoC-III increase the expression of apoC-III receptors on hepatocytes, enhancing the hepatic uptake of apoC-III-rich lipoproteins and promoting LDL-cholesterol clearance from the plasma.",
+                        "wrongAnswer_2": "ASOs targeting apoC-III promote the conversion of apoC-III into an active form that stimulates reverse cholesterol transport, increasing HDL-cholesterol levels and reducing macrophage foam cell formation.",
+                        "wrongAnswer_3": "ASOs targeting apoC-III enhance the activity of cholesterol ester transfer protein (CETP), facilitating the transfer of cholesteryl esters from HDL to LDL and VLDL, ultimately lowering total cholesterol.",
+                        "wrongAnswer_4": "ASOs targeting apoC-III directly inhibit HMG-CoA reductase activity in hepatocytes, reducing de novo cholesterol biosynthesis and leading to a decrease in intracellular and plasma cholesterol levels."
+                    },
+                    {
+                        "question": "CETP inhibitors are being investigated for their potential in treating atherosclerosis. What is the rationale behind inhibiting cholesterol ester transfer protein (CETP) in managing dyslipidemia?",
+                        "goodAnswer": "CETP inhibitors reduce the transfer of cholesteryl esters from HDL to apoB-containing lipoproteins (VLDL, LDL), leading to increased HDL-cholesterol levels and potentially improved reverse cholesterol transport.",
+                        "wrongAnswer_1": "CETP inhibitors enhance the transfer of cholesteryl esters from LDL to HDL particles, promoting LDL catabolism and lowering LDL-cholesterol levels, while also reducing HDL-cholesterol.",
+                        "wrongAnswer_2": "CETP inhibitors directly inhibit hepatic synthesis of cholesterol esters, reducing the overall production of cholesterol esters in the liver and subsequently lowering total plasma cholesterol.",
+                        "wrongAnswer_3": "CETP inhibitors promote the intestinal absorption of dietary cholesterol by increasing the expression of NPC1L1 transporter, leading to increased cholesterol availability for HDL synthesis.",
+                        "wrongAnswer_4": "CETP inhibitors increase the activity of lipoprotein lipase, promoting the hydrolysis of triglycerides in VLDL and chylomicrons and indirectly leading to a reduction in LDL-cholesterol levels."
+                    },
+                    {
+                        "question": "Beyond pharmacological and apheresis-based treatments, what are some fundamental non-drug lifestyle modifications critically important for managing atherosclerosis and reducing cardiovascular risk?",
+                        "goodAnswer": "Adopting a heart-healthy diet low in saturated and trans fats, engaging in regular aerobic exercise, maintaining a healthy weight, and smoking cessation are crucial non-drug strategies for atherosclerosis management.",
+                        "wrongAnswer_1": "Following a ketogenic diet high in fats and very low in carbohydrates, incorporating high-intensity interval training (HIIT) exclusively, gaining weight to increase muscle mass, and switching to vaping are effective non-drug approaches.",
+                        "wrongAnswer_2": "Consuming a diet rich in omega-6 fatty acids and refined carbohydrates, engaging in resistance training only, intentionally increasing body mass index to build resilience, and moderate alcohol consumption are key lifestyle changes.",
+                        "wrongAnswer_3": "Adhering to a diet high in processed foods and added sugars, engaging in sedentary behavior to conserve energy, aiming for a slightly overweight status for better nutrient reserves, and occasional social smoking are acceptable lifestyle choices.",
+                        "wrongAnswer_4": "Following a vegan diet deficient in vitamin B12 and iron, participating in extreme endurance exercises, striving for underweight status to reduce joint stress, and avoiding all forms of pollution exposure are optimal non-drug strategies."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

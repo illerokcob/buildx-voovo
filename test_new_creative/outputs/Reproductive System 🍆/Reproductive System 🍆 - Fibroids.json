@@ -1,0 +1,157 @@
+{
+    "mainTopic": {
+        "title": "Fibroids",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General characteristics",
+                "quizzes": [
+                    {
+                        "question": "What is the primary histological feature that demarcates uterine fibroids from the surrounding normal myometrium, despite their shared cellular origin from smooth muscle tissue?",
+                        "goodAnswer": "Uterine fibroids are distinguished by a pseudocapsule, a compressed peripheral zone of myometrium, which is histologically distinct due to its altered cellular density and orientation compared to the adjacent myometrial tissue.",
+                        "wrongAnswer_1": "Uterine fibroids are characterized by a true capsule composed of dense, fibrous connective tissue that actively encapsulates the tumor, separating it from the myometrium with a distinct collagenous boundary.",
+                        "wrongAnswer_2": "Uterine fibroids are primarily identified by the absence of any encapsulating structure, rendering them histologically indistinguishable from the normal myometrium except for variations in nuclear staining intensity.",
+                        "wrongAnswer_3": "Uterine fibroids are demarcated by a specialized basement membrane surrounding each neoplastic nodule, which provides a clear histological boundary and separates the fibroid from the surrounding myometrial stroma and cells.",
+                        "wrongAnswer_4": "Uterine fibroids are histologically unique due to a capsule formed by neoplastic smooth muscle cells themselves, creating a neoplastic boundary that is structurally different from normal myometrial tissue."
+                    },
+                    {
+                        "question": "Based on current biological understanding and classification, which term most precisely describes uterine fibroids, considering their cellular origin, genetic characteristics, and growth patterns?",
+                        "goodAnswer": "Uterine fibroids are accurately classified as benign monoclonal neoplasms, originating from a single mutated myometrial smooth muscle cell that undergoes clonal expansion, leading to tumor formation.",
+                        "wrongAnswer_1": "Uterine fibroids are categorized as hamartomatous lesions, representing developmental anomalies characterized by disorganized overgrowths of mature myometrial tissue components, lacking true neoplastic transformation.",
+                        "wrongAnswer_2": "Uterine fibroids are considered polyclonal hyperplasias, arising from a generalized increase in the number of normal myometrial cells due to hormonal stimulation without evidence of monoclonal origin or genetic mutation.",
+                        "wrongAnswer_3": "Uterine fibroids are classified as benign polyclonal neoplasms, indicating that they originate from multiple independently transformed smooth muscle cells, resulting in a genetically heterogeneous tumor mass.",
+                        "wrongAnswer_4": "Uterine fibroids are accurately described as low-grade leiomyosarcomas in situ, reflecting their smooth muscle origin and a recognized, albeit minimal, potential for eventual malignant transformation over prolonged periods."
+                    },
+                    {
+                        "question": "Upon surgical excision and pathological examination, what is the typical macroscopic appearance and consistency of uterine fibroids that aids in their gross identification by pathologists?",
+                        "goodAnswer": "Uterine fibroids characteristically present with a firm consistency and exhibit a whorled cut surface, often described as trabeculated, with a rubbery texture that is macroscopically distinct from normal myometrium.",
+                        "wrongAnswer_1": "Uterine fibroids typically appear as soft, almost gelatinous masses with a homogenous, pale tan cut surface, often demonstrating cystic degeneration and a mucoid consistency upon gross examination.",
+                        "wrongAnswer_2": "Uterine fibroids characteristically present as friable and hemorrhagic masses with a variegated cut surface showing areas of necrosis and hemorrhage, due to rapid growth exceeding vascular supply.",
+                        "wrongAnswer_3": "Uterine fibroids are typically identified by their hard, stony consistency due to extensive calcification throughout the tumor, exhibiting a gritty, chalky white cut surface upon gross sectioning.",
+                        "wrongAnswer_4": "Uterine fibroids are distinguished macroscopically by their fluid-filled, multilocular cystic appearance, resembling benign ovarian serous cystadenomas, containing clear serous fluid within thin-walled locules."
+                    },
+                    {
+                        "question": "Considering the growth pattern and structural organization within uterine fibroids, how are the smooth muscle cells typically arranged, contributing to their characteristic histological appearance?",
+                        "goodAnswer": "Within uterine fibroids, smooth muscle cells are arranged in interlacing fascicles and whorls, forming a disorganized but distinct pattern that contributes to the fibroid's firm consistency and unique histological architecture.",
+                        "wrongAnswer_1": "In uterine fibroids, smooth muscle cells are organized in parallel arrays, resembling normal myometrium but with increased cellular density, contributing to a homogenous and less distinct histological pattern.",
+                        "wrongAnswer_2": "Uterine fibroids are characterized by smooth muscle cells arranged in a radial pattern around central blood vessels, forming perivascular pseudorosettes that are pathognomonic for these benign tumors.",
+                        "wrongAnswer_3": "Within uterine fibroids, smooth muscle cells are randomly dispersed within a collagen-rich stroma, lacking any discernible organization or fascicular arrangement, resulting in a myxoid histological appearance.",
+                        "wrongAnswer_4": "Uterine fibroids demonstrate smooth muscle cells organized into distinct lobules separated by fibrous septa, creating a multinodular architecture with clear compartmentalization of neoplastic cells."
+                    }
+                ]
+            },
+            {
+                "title": "Location, Incidence & etiology, development of fibroids",
+                "quizzes": [
+                    {
+                        "question": "In which specific anatomical layer of the uterus are submucosal fibroids located, and what is their characteristic direction of growth relative to the uterine cavity?",
+                        "goodAnswer": "Submucosal fibroids are positioned in the myometrial layer immediately adjacent to the endometrium and characteristically grow inwards, projecting into the uterine cavity, often distorting its normal contour.",
+                        "wrongAnswer_1": "Submucosal fibroids are located within the central myometrium, equidistant from the endometrium and serosa, and typically grow laterally, expanding within the myometrial wall without cavity protrusion.",
+                        "wrongAnswer_2": "Submucosal fibroids are situated on the serosal surface of the uterus, external to the myometrium, and grow outwards into the peritoneal cavity, rarely impacting the uterine cavity directly.",
+                        "wrongAnswer_3": "Submucosal fibroids are found exclusively in the cervical myometrium, inferior to the uterine corpus, and grow downwards towards the cervical canal, potentially causing cervical stenosis.",
+                        "wrongAnswer_4": "Submucosal fibroids are located within the broad ligament adjacent to the uterus, growing laterally and exerting pressure on pelvic structures but remaining anatomically separate from the uterine cavity."
+                    },
+                    {
+                        "question": "Considering diverse global populations and varied diagnostic methodologies, what is the most widely accepted estimated cumulative incidence of uterine fibroids in women by the age of 50?",
+                        "goodAnswer": "The estimated cumulative incidence of uterine fibroids by age 50 is approximately 70-80% in women globally, with variations based on ethnicity and detection sensitivity of different diagnostic approaches.",
+                        "wrongAnswer_1": "The cumulative incidence of uterine fibroids by age 50 is estimated to be considerably lower, around 20-30% in women worldwide, with minimal ethnic or methodological variation influencing this prevalence.",
+                        "wrongAnswer_2": "The cumulative incidence of uterine fibroids is exceptionally high, approaching 90-95% in women by age 50, particularly when considering autopsy studies and highly sensitive imaging techniques.",
+                        "wrongAnswer_3": "The cumulative incidence of uterine fibroids remains relatively moderate, approximately 40-50% in women by age 50, with geographical location being the primary determinant of incidence rates.",
+                        "wrongAnswer_4": "The cumulative incidence of uterine fibroids is reported to be less than 10% in women by age 50, primarily affecting women with specific genetic predispositions and excluding subclinical cases."
+                    },
+                    {
+                        "question": "Which hormonal environment is currently understood to be most conducive to the initiation, growth, and maintenance of uterine fibroids, based on contemporary endocrinological research?",
+                        "goodAnswer": "A hormonal milieu characterized by relative estrogen dominance, with both estrogen and progesterone exerting synergistic effects through their receptors, is considered most permissive for fibroid pathogenesis and growth.",
+                        "wrongAnswer_1": "A progesterone-dominant hormonal environment is primarily responsible for promoting fibroid growth, with estrogen playing a negligible role in their development or maintenance, according to current endocrine models.",
+                        "wrongAnswer_2": "An androgen-dominant hormonal environment, as seen in conditions like hyperandrogenism, is the principal driver of fibroid growth, with estrogen and progesterone having minimal impact on fibroid biology.",
+                        "wrongAnswer_3": "A hormonal profile marked by insulin resistance and hyperinsulinemia, independent of sex steroid hormones, creates the most favorable conditions for fibroid development and progression, overriding estrogen influence.",
+                        "wrongAnswer_4": "Thyroid hormone dysregulation, specifically hypothyroidism, is recognized as the most significant hormonal factor promoting fibroid growth, eclipsing the effects of estrogen, progesterone, and androgens."
+                    },
+                    {
+                        "question": "According to current hypotheses regarding the cellular origins of uterine fibroids, from what specific cell type within the myometrium do these tumors most likely arise, considering their monoclonal nature?",
+                        "goodAnswer": "Uterine fibroids are currently hypothesized to originate from a single, transformed myometrial stem cell or progenitor cell population, which undergoes neoplastic clonal expansion to form the macroscopic fibroid mass.",
+                        "wrongAnswer_1": "Uterine fibroids are believed to arise from the metaplastic transformation of endometrial stromal cells that migrate into the myometrium and differentiate into neoplastic smooth muscle-like cells under hormonal influence.",
+                        "wrongAnswer_2": "Uterine fibroids are thought to develop from the aggregation and fusion of multiple independently transformed mature smooth muscle cells within the myometrium, resulting in polyclonal tumor formation and growth.",
+                        "wrongAnswer_3": "Uterine fibroids are hypothesized to originate from vascular smooth muscle cells associated with uterine arterioles, subsequently proliferating and infiltrating into the adjacent myometrium to form fibroid nodules.",
+                        "wrongAnswer_4": "Uterine fibroids are proposed to arise from the dedifferentiation of mature, terminally differentiated myometrial smooth muscle cells back to a more progenitor-like state, followed by uncontrolled neoplastic proliferation."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which imaging modality is generally accepted as the initial, most accessible, and cost-effective diagnostic method for the primary detection and preliminary evaluation of uterine fibroids in clinical settings?",
+                        "goodAnswer": "Transvaginal ultrasonography (TVUS) is typically considered the first-line imaging modality for the initial diagnosis of uterine fibroids, owing to its accessibility, affordability, and high sensitivity for detecting uterine lesions.",
+                        "wrongAnswer_1": "Abdominal radiography (X-ray) is routinely employed as the initial diagnostic method for uterine fibroids, primarily due to its ability to readily detect calcified fibroids and assess overall pelvic bone structure.",
+                        "wrongAnswer_2": "Pelvic computed tomography (CT) scanning is the preferred primary imaging technique for diagnosing uterine fibroids, offering detailed anatomical visualization and comprehensive tissue characterization for differential diagnosis.",
+                        "wrongAnswer_3": "Pelvic magnetic resonance imaging (MRI) is commonly utilized as the first-line method for uterine fibroid diagnosis, providing superior soft tissue contrast and detailed morphological assessment of uterine masses.",
+                        "wrongAnswer_4": "Hysterosalpingography (HSG) is the initial diagnostic procedure of choice for uterine fibroids, primarily focused on evaluating uterine cavity contour and tubal patency rather than direct fibroid visualization."
+                    },
+                    {
+                        "question": "In the diagnostic algorithm for uterine fibroids, what is the specific clinical benefit offered by saline infusion sonohysterography (SIS) in comparison to standard transvaginal ultrasound (TVUS) alone?",
+                        "goodAnswer": "Saline infusion sonohysterography (SIS) enhances the diagnostic capability for submucosal fibroids by distending the uterine cavity with sterile saline, improving the visualization and delineation of intrauterine lesions not clearly seen on standard TVUS.",
+                        "wrongAnswer_1": "Saline infusion sonohysterography (SIS) primarily improves the detection of serosal fibroids by creating a fluid interface around the outer uterine surface, thereby enhancing the echogenicity of subserosal masses, which is not achieved by TVUS.",
+                        "wrongAnswer_2": "Saline infusion sonohysterography (SIS) increases the sensitivity for detecting intramural fibroids by improving myometrial penetration of ultrasound waves due to fluid infiltration, allowing for better visualization of lesions within the muscle layer.",
+                        "wrongAnswer_3": "Saline infusion sonohysterography (SIS) is mainly used to assess the vascularity of uterine fibroids through Doppler enhancement after saline instillation, providing functional information about tumor perfusion not obtainable with standard TVUS.",
+                        "wrongAnswer_4": "Saline infusion sonohysterography (SIS) significantly reduces the diagnostic accuracy for fibroids as the instilled fluid creates acoustic artifacts that obscure the visualization of uterine masses and make fibroid detection more challenging."
+                    },
+                    {
+                        "question": "Under which specific clinical circumstances and diagnostic scenarios is pelvic magnetic resonance imaging (MRI) particularly indicated for the evaluation of uterine fibroids, going beyond the diagnostic information provided by ultrasound?",
+                        "goodAnswer": "Pelvic MRI is particularly advantageous in complex fibroid cases for precise characterization, pre-surgical planning, differentiating fibroids from adenomyosis, and for assessing potential sarcomatous transformation or degeneration.",
+                        "wrongAnswer_1": "Pelvic MRI is routinely recommended as a universal screening tool for all women, regardless of symptoms or ultrasound findings, to ensure early detection of even small and clinically insignificant uterine fibroids.",
+                        "wrongAnswer_2": "Pelvic MRI is primarily indicated to confirm the presence of simple, small intramural fibroids that are already definitively diagnosed by transvaginal ultrasound, serving as a confirmatory rather than an adjunctive diagnostic step.",
+                        "wrongAnswer_3": "Pelvic MRI is mainly utilized for the longitudinal monitoring of known uterine fibroids to assess their growth rate over time, with repeated scans recommended every 6-12 months irrespective of clinical symptoms or changes in ultrasound findings.",
+                        "wrongAnswer_4": "Pelvic MRI is the first-line imaging modality exclusively for postmenopausal women with suspected uterine fibroids, due to the elevated risk of malignancy and the need for detailed tissue characterization in this demographic group."
+                    },
+                    {
+                        "question": "What is the role of Doppler ultrasound in the diagnostic evaluation of uterine fibroids, and what specific information does it provide beyond standard grayscale ultrasonography?",
+                        "goodAnswer": "Doppler ultrasound in fibroid evaluation is used to assess vascularity and blood flow characteristics within fibroids, which can help differentiate fibroids from other uterine masses and predict response to certain therapies like uterine artery embolization.",
+                        "wrongAnswer_1": "Doppler ultrasound is primarily used in fibroid diagnosis to measure the exact size and volume of fibroids with greater accuracy than grayscale ultrasound, providing precise morphometric data for growth monitoring.",
+                        "wrongAnswer_2": "Doppler ultrasound in fibroid assessment mainly serves to identify the presence of calcifications within fibroids by detecting acoustic shadowing caused by mineral deposits, which is not visualized on grayscale imaging.",
+                        "wrongAnswer_3": "Doppler ultrasound is used to evaluate the consistency of fibroids, differentiating between solid and cystic components based on the pattern of sound wave reflection and transmission through the tumor tissue.",
+                        "wrongAnswer_4": "Doppler ultrasound in fibroid diagnosis primarily functions to detect early signs of malignant transformation within fibroids by identifying increased echogenicity associated with neoplastic cellular changes."
+                    }
+                ]
+            },
+            {
+                "title": "Therapy",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental mechanism of action by which Gonadotropin-Releasing Hormone agonists (GnRH agonists) exert therapeutic effects in the medical management of uterine fibroids, especially concerning fibroid volume reduction?",
+                        "goodAnswer": "GnRH agonists induce a transient hypogonadotropic hypogonadal state, effectively suppressing ovarian estrogen production, which leads to a decrease in fibroid size and alleviation of symptoms due to estrogen deprivation and reduced hormonal stimulation.",
+                        "wrongAnswer_1": "GnRH agonists directly inhibit fibroid cell proliferation by selectively blocking growth factor receptors on fibroid cells, acting independently of hormonal influences on ovarian estrogen production and systemic hormone levels.",
+                        "wrongAnswer_2": "GnRH agonists paradoxically elevate progesterone levels, which competitively antagonize estrogen's action on fibroid tissue, leading to fibroid shrinkage through competitive receptor binding and altered hormonal signaling within the tumor.",
+                        "wrongAnswer_3": "GnRH agonists promote fibroid infarction by directly inducing vasoconstriction of the uterine arteries, causing ischemic necrosis of fibroid tissue through vascular disruption, without significantly altering systemic estrogen concentrations.",
+                        "wrongAnswer_4": "GnRH agonists enhance the immune system's surveillance and destruction of fibroid tissue by stimulating cytotoxic T-lymphocyte activity within the tumor microenvironment, leading to immunologically mediated fibroid regression and volume reduction."
+                    },
+                    {
+                        "question": "Which minimally invasive surgical intervention employs focused ultrasound energy, guided and monitored in real-time by Magnetic Resonance Imaging (MRI), to selectively ablate uterine fibroid tissue?",
+                        "goodAnswer": "Magnetic Resonance-guided Focused Ultrasound Surgery (MRgFUS) is a minimally invasive therapeutic technique that utilizes focused ultrasound energy to induce thermal ablation of fibroids, with real-time MRI guidance for precise targeting and temperature monitoring.",
+                        "wrongAnswer_1": "High-Intensity Focused Ultrasound (HIFU) is a minimally invasive procedure employing focused ultrasound waves to destroy uterine fibroids, guided by transabdominal ultrasound imaging, but without the integration of MRI for real-time monitoring.",
+                        "wrongAnswer_2": "Laparoscopic Radiofrequency Ablation (RFA) is a minimally invasive surgical method that uses radiofrequency energy delivered via a laparoscopic approach to induce coagulative necrosis within uterine fibroids under direct visual control.",
+                        "wrongAnswer_3": "Cryoablation is a minimally invasive therapeutic technique that employs extreme cold temperatures to freeze and destroy uterine fibroids using percutaneously inserted probes under ultrasound guidance, avoiding the use of thermal energy.",
+                        "wrongAnswer_4": "Microwave Ablation (MWA) is a minimally invasive procedure utilizing microwave energy to generate heat and coagulate uterine fibroid tissue, typically performed via a laparoscopic or hysteroscopic approach for targeted fibroid destruction."
+                    },
+                    {
+                        "question": "What is the principal therapeutic objective of uterine artery embolization (UAE) in the treatment of symptomatic uterine fibroids, and through what specific physiological mechanism does it achieve its intended therapeutic effect?",
+                        "goodAnswer": "The primary objective of uterine artery embolization (UAE) is to induce ischemic infarction and subsequent shrinkage of uterine fibroids by selectively occluding the uterine arteries, thus reducing blood supply and causing ischemic necrosis of fibroid tissue.",
+                        "wrongAnswer_1": "Uterine artery embolization (UAE) aims to deliver targeted chemotherapy directly to fibroid tissue through the uterine arteries, selectively destroying fibroid cells with cytotoxic agents while minimizing systemic chemotherapy exposure and side effects.",
+                        "wrongAnswer_2": "Uterine artery embolization (UAE) works by mechanically compressing fibroids through the physical presence of embolic material, leading to a direct physical reduction in fibroid size and consequent alleviation of pressure-related symptoms and bulk effects.",
+                        "wrongAnswer_3": "Uterine artery embolization (UAE) paradoxically stimulates angiogenesis within fibroids, improving blood flow and oxygenation to promote metabolic changes that subsequently lead to fibroid regression through enhanced nutrient and oxygen supply.",
+                        "wrongAnswer_4": "Uterine artery embolization (UAE) functions by disrupting hormonal signaling pathways within fibroids via embolized particles releasing anti-estrogenic or anti-progesterone substances directly into the tumor microenvironment, inhibiting hormonal stimulation."
+                    },
+                    {
+                        "question": "In the context of surgical myomectomy for uterine fibroids, what is a significant clinical advantage of hysteroscopic myomectomy compared to abdominal myomectomy or laparoscopic myomectomy?",
+                        "goodAnswer": "Hysteroscopic myomectomy offers a key advantage for submucosal fibroids by enabling their removal via a transcervical, vaginal approach without any abdominal incisions, resulting in reduced surgical invasiveness, faster patient recovery, and avoidance of abdominal scarring.",
+                        "wrongAnswer_1": "Hysteroscopic myomectomy is particularly advantageous for large intramural fibroids as it provides superior surgical access and visualization for excising deeply embedded tumors within the myometrial wall compared to laparotomy or laparoscopy.",
+                        "wrongAnswer_2": "Hysteroscopic myomectomy is ideally suited for serosal fibroids located on the outer uterine surface, offering direct access to these externally located tumors without the need for more invasive abdominal or laparoscopic procedures.",
+                        "wrongAnswer_3": "Hysteroscopic myomectomy is the primary surgical approach for pedunculated fibroids that are located outside the uterus in the pelvic cavity, providing enhanced maneuverability and control for removing these extrauterine fibroid types.",
+                        "wrongAnswer_4": "Hysteroscopic myomectomy is universally advantageous for all types of uterine fibroids, regardless of their location, size, or number, due to its minimally invasive nature and broad applicability across different fibroid subtypes and clinical scenarios."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

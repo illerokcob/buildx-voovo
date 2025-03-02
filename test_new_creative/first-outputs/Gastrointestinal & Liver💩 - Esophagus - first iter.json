@@ -1,0 +1,104 @@
+{
+    "mainTopic": {
+        "title": "Esophagus",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Histology of the Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Describe the layers of the esophageal wall in their correct order from the lumen outwards and identify a key characteristic of the muscularis externa in the upper third of the esophagus.",
+                        "goodAnswer": "The esophageal wall layers, from lumen outwards, are: Mucosa -> Submucosa -> Muscularis Externa -> Adventitia. In the upper third, the muscularis externa is predominantly composed of skeletal muscle, crucial for voluntary control during swallowing.",
+                        "wrongAnswer_1": "The esophageal wall layers, from lumen outwards, are: Mucosa -> Serosa -> Muscularis Externa -> Submucosa. In the upper third, the muscularis externa consists primarily of smooth muscle, facilitating involuntary peristaltic contractions.",
+                        "wrongAnswer_2": "The esophageal wall layers, from lumen outwards, are: Submucosa -> Mucosa -> Muscularis Externa -> Adventitia. In the upper third, the muscularis externa is characterized by a mix of smooth and cardiac muscle, supporting rhythmic contractions.",
+                        "wrongAnswer_3": "The esophageal wall layers, from lumen outwards, are: Mucosa -> Submucosa -> Muscularis Externa -> Serosa. In the upper third, the muscularis externa is exclusively composed of skeletal muscle, responsible for both voluntary and involuntary movements.",
+                        "wrongAnswer_4": "The esophageal wall layers, from lumen outwards, are: Adventitia -> Muscularis Externa -> Submucosa -> Mucosa. In the upper third, the muscularis externa is mainly composed of cardiac muscle, ensuring continuous rhythmic propulsion of food."
+                    },
+                    {
+                        "question": "Identify the type of epithelium lining the mucosa of the esophagus and describe its primary functional adaptation in this location.",
+                        "goodAnswer": "The esophageal mucosa is lined by non-keratinized stratified squamous epithelium. This type of epithelium provides significant protection against abrasion and mechanical stress during the passage of food boluses, lacking a keratinized layer to maintain moist surface.",
+                        "wrongAnswer_1": "The esophageal mucosa is lined by keratinized stratified squamous epithelium. This epithelium is adapted for high absorption of nutrients from the bolus and contains a keratinized layer for enhanced absorption.",
+                        "wrongAnswer_2": "The esophageal mucosa is lined by pseudostratified columnar epithelium with cilia. This epithelium is specialized for mucus secretion and propulsion of the bolus through ciliary action, presenting cilia on its apical surface.",
+                        "wrongAnswer_3": "The esophageal mucosa is lined by simple columnar epithelium with goblet cells. This epithelium is designed for enzymatic digestion and mucus production, featuring goblet cells for lubrication but not for protection.",
+                        "wrongAnswer_4": "The esophageal mucosa is lined by transitional epithelium. This epithelium allows for significant stretching and distension of the esophageal lumen and is characterized by its ability to change shape under pressure."
+                    },
+                    {
+                        "question": "Which layer of the esophageal wall contains mucous glands proper, and what is the primary function of the secretion from these glands?",
+                        "goodAnswer": "The submucosa of the esophagus contains esophageal glands proper (mucous glands). Their primary function is to secrete mucus that lubricates the esophageal lumen, facilitating smooth passage of the food bolus and protecting the epithelium from mechanical damage.",
+                        "wrongAnswer_1": "The lamina propria of the mucosa contains esophageal glands proper (mucous glands). Their main function is to secrete serous fluid to aid in enzymatic digestion of carbohydrates within the esophagus, initiating the breakdown process.",
+                        "wrongAnswer_2": "The muscularis mucosae of the mucosa contains esophageal glands proper (mucous glands). These glands secrete hydrochloric acid to initiate protein digestion and create an acidic environment within the esophagus, breaking down proteins.",
+                        "wrongAnswer_3": "The adventitia of the esophagus contains esophageal glands proper (mucous glands). Their principal role is to secrete hormones that regulate the rate of esophageal peristalsis and control the lower esophageal sphincter function.",
+                        "wrongAnswer_4": "The muscularis externa of the esophagus contains esophageal glands proper (mucous glands). These glands secrete digestive enzymes and bicarbonate-rich fluid to neutralize gastric acid reflux and digest lipids within the esophagus."
+                    }
+                ]
+            },
+            {
+                "title": "Chewing and Swallowing",
+                "quizzes": [
+                    {
+                        "question": "Outline the correct sequence of the four phases of swallowing, and identify the primary anatomical region where the pharyngeal phase predominantly occurs.",
+                        "goodAnswer": "The phases of swallowing in sequence are: Oral Preparatory Phase -> Oral Phase -> Pharyngeal Phase -> Esophageal Phase. The pharyngeal phase primarily takes place in the pharynx, where coordinated muscle contractions propel the bolus past the airway.",
+                        "wrongAnswer_1": "The phases of swallowing in sequence are: Oral Phase -> Oral Preparatory Phase -> Pharyngeal Phase -> Esophageal Phase. The pharyngeal phase primarily occurs in the oral cavity, where the tongue manipulates the bolus towards the esophagus.",
+                        "wrongAnswer_2": "The phases of swallowing in sequence are: Oral Preparatory Phase -> Pharyngeal Phase -> Oral Phase -> Esophageal Phase. The pharyngeal phase mainly happens in the larynx, where the vocal cords close to protect the airway during bolus passage.",
+                        "wrongAnswer_3": "The phases of swallowing in sequence are: Esophageal Phase -> Pharyngeal Phase -> Oral Phase -> Oral Preparatory Phase. The pharyngeal phase primarily takes place in the esophagus, where peristaltic waves propel the bolus downwards.",
+                        "wrongAnswer_4": "The phases of swallowing in sequence are: Oral Preparatory Phase -> Oral Phase -> Esophageal Phase -> Pharyngeal Phase. The pharyngeal phase predominantly occurs in the stomach, where initial mixing of the bolus with gastric juices happens."
+                    },
+                    {
+                        "question": "During the oral phase of swallowing, which of the following actions is crucial for propelling the bolus posteriorly into the pharynx?",
+                        "goodAnswer": "Elevation and retraction of the tongue against the hard palate are critical during the oral phase for propelling the bolus posteriorly into the pharynx, initiating the swallow reflex and ensuring bolus direction.",
+                        "wrongAnswer_1": "Protrusion and lateral movements of the tongue are crucial during the oral phase for propelling the bolus anteriorly towards the pharynx, preparing it for entry into the nasal cavity.",
+                        "wrongAnswer_2": "Depression and forward movement of the tongue against the soft palate are critical during the oral phase for propelling the bolus inferiorly into the larynx, guiding it towards the trachea.",
+                        "wrongAnswer_3": "Lateralization and rotary movements of the mandible are crucial during the oral phase for propelling the bolus superiorly towards the sinuses, aiding in bolus breakdown and mixing.",
+                        "wrongAnswer_4": "Retraction and depression of the soft palate, combined with tongue elevation, are crucial during the oral phase for propelling the bolus posteriorly towards the nasopharynx, directing it towards the nasal passages."
+                    },
+                    {
+                        "question": "Describe the primary protective mechanism that prevents aspiration of food into the trachea during the pharyngeal phase of swallowing.",
+                        "goodAnswer": "Elevation of the larynx and epiglottic retroversion, along with vocal cord adduction, serve as the primary protective mechanisms preventing aspiration during the pharyngeal phase, effectively sealing off the laryngeal inlet from the bolus path.",
+                        "wrongAnswer_1": "Depression of the larynx and anterior movement of the epiglottis, combined with vocal cord abduction, are the primary protective mechanisms, opening the laryngeal inlet to facilitate bolus entry into the trachea.",
+                        "wrongAnswer_2": "Protrusion of the tongue and elevation of the soft palate, along with vocal cord abduction, act as the main protective mechanisms, directing the bolus anteriorly towards the nasal cavity, away from the trachea.",
+                        "wrongAnswer_3": "Retraction of the tongue and depression of the soft palate, combined with vocal cord adduction, function as the primary protective mechanisms, channeling the bolus posteriorly into the oropharynx and then into the trachea.",
+                        "wrongAnswer_4": "Forward movement of the hyoid bone and epiglottic anteversion, combined with vocal cord abduction, are the main protective mechanisms, guiding the bolus inferiorly and anteriorly towards the esophagus while leaving the trachea open."
+                    },
+                    {
+                        "question": "What is the characteristic type of muscle contraction responsible for esophageal transport of the bolus during the esophageal phase of swallowing?",
+                        "goodAnswer": "Peristalsis, a sequential wave of circular muscle contraction followed by longitudinal muscle contraction, is responsible for esophageal transport of the bolus during the esophageal phase, rhythmically propelling the bolus towards the stomach.",
+                        "wrongAnswer_1": "Segmentation, characterized by simultaneous contractions of circular muscles at different points, is responsible for esophageal transport during the esophageal phase, mixing the bolus and facilitating absorption.",
+                        "wrongAnswer_2": "Tonic contraction, a sustained contraction of longitudinal muscles, is responsible for esophageal transport during the esophageal phase, maintaining a constant pressure gradient to push the bolus downwards.",
+                        "wrongAnswer_3": "Mass movement, involving powerful, infrequent contractions of all muscle layers, is responsible for esophageal transport during the esophageal phase, rapidly clearing large boluses towards the stomach.",
+                        "wrongAnswer_4": "Pendular movements, consisting of oscillating contractions of both circular and longitudinal muscles, are responsible for esophageal transport during the esophageal phase, gently agitating the bolus and promoting digestion."
+                    }
+                ]
+            },
+            {
+                "title": "Innervation, Regulation",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary cranial nerve responsible for the motor innervation of the majority of the pharyngeal muscles involved in swallowing.",
+                        "goodAnswer": "The Vagus nerve (CN X) provides the primary motor innervation to most pharyngeal muscles crucial for swallowing, controlling pharyngeal constriction and laryngeal elevation during the pharyngeal phase.",
+                        "wrongAnswer_1": "The Facial nerve (CN VII) provides the primary motor innervation to the majority of pharyngeal muscles involved in swallowing, controlling facial expression and salivary gland secretion during bolus manipulation.",
+                        "wrongAnswer_2": "The Glossopharyngeal nerve (CN IX) provides the primary motor innervation to most pharyngeal muscles essential for swallowing, specifically controlling tongue movement and taste sensation during the oral phase.",
+                        "wrongAnswer_3": "The Trigeminal nerve (CN V) provides the primary motor innervation to the majority of pharyngeal muscles used in swallowing, predominantly innervating muscles of mastication and anterior tongue elevation.",
+                        "wrongAnswer_4": "The Hypoglossal nerve (CN XII) provides the primary motor innervation to the majority of pharyngeal muscles necessary for swallowing, controlling muscles of the palate and uvula during velopharyngeal closure."
+                    },
+                    {
+                        "question": "Which brainstem structure is considered the main 'swallowing center,' coordinating the complex sequence of muscle contractions during the pharyngeal phase of swallowing?",
+                        "goodAnswer": "The medulla oblongata in the brainstem is considered the primary 'swallowing center,' housing the neural circuits that coordinate the sequential muscle contractions and reflexes during the pharyngeal phase, controlling the swallowing sequence.",
+                        "wrongAnswer_1": "The pons in the brainstem is considered the main 'swallowing center,' containing the neural circuits for initiating salivation and regulating oral preparatory phase muscle actions during swallowing, starting the process.",
+                        "wrongAnswer_2": "The cerebellum in the brainstem is considered the primary 'swallowing center,' responsible for fine-tuning motor coordination and timing of muscle contractions during the esophageal phase of swallowing, ensuring smooth bolus passage.",
+                        "wrongAnswer_3": "The midbrain in the brainstem is considered the central 'swallowing center,' integrating sensory input and initiating voluntary muscle movements of the tongue and jaw during the oral phase of swallowing, controlling initial bolus manipulation.",
+                        "wrongAnswer_4": "The thalamus in the brainstem is considered the main 'swallowing center,' relaying sensory information related to taste and texture and modulating emotional responses associated with swallowing, influencing food choice and intake."
+                    },
+                    {
+                        "question": "Describe the role of the autonomic nervous system, specifically the parasympathetic division, in regulating esophageal function during swallowing.",
+                        "goodAnswer": "Parasympathetic innervation, primarily via the vagus nerve, enhances esophageal peristalsis and relaxation of the lower esophageal sphincter (LES), facilitating bolus propulsion into the stomach and promoting efficient esophageal clearance.",
+                        "wrongAnswer_1": "Parasympathetic innervation, mainly through the sympathetic chain ganglia, inhibits esophageal peristalsis and contraction of the lower esophageal sphincter (LES), slowing bolus movement and preventing gastric reflux.",
+                        "wrongAnswer_2": "Sympathetic innervation, primarily via the vagus nerve, enhances esophageal peristalsis and contraction of the lower esophageal sphincter (LES), speeding up bolus transport and increasing LES tone to prevent reflux.",
+                        "wrongAnswer_3": "Sympathetic innervation, mainly through the enteric nervous system, inhibits esophageal peristalsis and relaxation of the lower esophageal sphincter (LES), decreasing bolus transit speed and allowing for prolonged esophageal bolus storage.",
+                        "wrongAnswer_4": "Parasympathetic innervation, exclusively via the phrenic nerve, primarily regulates the diaphragm contractions during swallowing and has no direct influence on esophageal peristalsis or lower esophageal sphincter function."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

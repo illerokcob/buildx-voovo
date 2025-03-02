@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Aortic regurgitation",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the current understanding of the primary etiological factors contributing to the onset of condition Z, considering the interplay of genetic and environmental elements?",
+                        "goodAnswer": "The etiology of condition Z is considered multifactorial, with a significant genetic predisposition interacting with several environmental triggers like viral infections and chronic inflammatory exposures, leading to immune dysregulation.",
+                        "wrongAnswer_1": "Condition Z is primarily caused by singular strong genetic mutations, with environmental factors having a negligible role in disease onset, only potentially influencing the severity of symptoms in later stages.",
+                        "wrongAnswer_2": "The main etiological component is solely attributed to environmental toxins, directly inducing condition Z in all exposed individuals regardless of genetic predispositions, highlighting a purely environmental causation.",
+                        "wrongAnswer_3": "Psychological stress in early life is now considered the predominant etiological factor, causing irreversible neurological changes that manifest as condition Z later in life, independent of genetic or other environmental factors.",
+                        "wrongAnswer_4": "Condition Z is primarily an infectious disease, directly caused by a specific bacterial agent that, upon colonization, triggers the pathogenic cascade leading to the characteristic symptoms, regardless of host genetics or environmental background."
+                    },
+                    {
+                        "question": "In the pathophysiology of condition Z, what is the most widely accepted primary mechanism by which cellular damage is initiated and sustained, contributing to the chronic nature of the disease?",
+                        "goodAnswer": "The central pathophysiological mechanism involves autoimmune dysregulation, where the body's immune system erroneously targets self-antigens, leading to chronic inflammation and progressive tissue damage through complex immune cascades.",
+                        "wrongAnswer_1": "The primary pathophysiological process is characterized by direct cellular toxicity from accumulated metabolic byproducts, causing cellular necrosis and subsequent organ dysfunction, without significant immune system involvement.",
+                        "wrongAnswer_2": "Pathophysiology mainly centers around infectious agents persistently damaging tissues and cells, with a minimal role for the immune system in exacerbating or maintaining the chronic damage observed in condition Z.",
+                        "wrongAnswer_3": "The core pathophysiology is driven by neurodegenerative processes, leading to a gradual decline in neuronal function and eventual cell death, which secondarily induces systemic inflammation in condition Z.",
+                        "wrongAnswer_4": "The primary mechanism is related to genetic mutations causing intrinsic cellular defects, leading to cellular malfunction and tissue degradation, with inflammation being a consequence rather than a primary driver of the pathology in condition Z."
+                    },
+                    {
+                        "question": "Considering the role of inflammatory mediators in condition Z, which cytokine pathway is most prominently implicated in the chronic inflammatory response and tissue remodeling observed in affected individuals?",
+                        "goodAnswer": "The TNF-alpha signaling pathway is significantly implicated in the pathophysiology of condition Z, driving chronic inflammation, extracellular matrix remodeling, and contributing to the systemic manifestations through downstream effector molecules.",
+                        "wrongAnswer_1": "Interleukin-10 (IL-10) pathway is the primary driver of inflammation in condition Z, leading to chronic tissue damage and systemic effects through its potent pro-inflammatory signaling cascades within affected tissues.",
+                        "wrongAnswer_2": "Interferon-gamma (IFN-\u03b3) pathway is the most crucial inflammatory axis in condition Z, mediating chronic inflammation and tissue destruction through direct cellular cytotoxicity and activation of adaptive immune responses.",
+                        "wrongAnswer_3": "Transforming Growth Factor-beta (TGF-\u03b2) pathway is primarily responsible for the chronic inflammation, stimulating excessive fibrosis and extracellular matrix deposition, ultimately leading to organ dysfunction in condition Z.",
+                        "wrongAnswer_4": "Interleukin-6 (IL-6) pathway is the central mediator of chronic inflammation in condition Z, causing systemic inflammatory responses and contributing to tissue damage through the activation of acute phase reactants and cellular stress."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which of the following constellations of symptoms is most indicative of the early clinical presentation of condition Z, often observed before more specific diagnostic markers become apparent?",
+                        "goodAnswer": "The early clinical features commonly include insidious onset of fatigue, migratory arthralgias, and a characteristic transient skin rash, often accompanied by low-grade fever and generalized malaise, preceding more specific symptoms.",
+                        "wrongAnswer_1": "The initial presentation is typically marked by acute onset of high fever, localized edema, and intense, non-migratory joint pain, accompanied by gastrointestinal distress, which progresses rapidly over days.",
+                        "wrongAnswer_2": "Early symptoms usually consist of sudden, severe neurological deficits, including focal weakness, sensory disturbances, and visual impairment, often with an absence of systemic inflammatory signs or constitutional symptoms.",
+                        "wrongAnswer_3": "The onset is characterized by prominent respiratory symptoms like persistent cough, dyspnea, and chest pain, along with significant weight loss and night sweats, often overshadowing other systemic manifestations in the initial phase.",
+                        "wrongAnswer_4": "Initial clinical features predominantly involve cardiovascular symptoms such as palpitations, chest discomfort, and syncopal episodes, coupled with marked peripheral edema and signs of fluid overload from the outset of condition Z."
+                    },
+                    {
+                        "question": "Among the various musculoskeletal manifestations of condition Z, which specific pattern of joint involvement is most frequently observed and considered a hallmark of the disease progression in many patients?",
+                        "goodAnswer": "Condition Z characteristically presents with a symmetrical polyarthritis affecting small joints of the hands and feet, often with morning stiffness lasting over an hour, mirroring rheumatoid-like joint involvement but with distinct features.",
+                        "wrongAnswer_1": "The musculoskeletal involvement typically manifests as an asymmetrical oligoarthritis affecting large, weight-bearing joints such as knees and hips, with pain worsening with activity and improving with rest, resembling osteoarthritis.",
+                        "wrongAnswer_2": "Joint symptoms predominantly consist of migratory monoarthritis, shifting from one large joint to another over days, associated with acute inflammatory episodes and complete resolution between flares, similar to septic arthritis.",
+                        "wrongAnswer_3": "Musculoskeletal features are characterized by diffuse myalgias and arthralgias without prominent joint swelling or synovitis, often described as generalized body aches and stiffness, resembling fibromyalgia syndrome.",
+                        "wrongAnswer_4": "Joint involvement is mainly limited to the axial skeleton, manifesting as inflammatory back pain and sacroiliitis, with minimal peripheral joint involvement, closely mimicking ankylosing spondylitis in its presentation."
+                    },
+                    {
+                        "question": "Which neurological symptom, indicative of central nervous system involvement, is recognized as a relatively common and often debilitating feature in patients with condition Z, impacting their quality of life?",
+                        "goodAnswer": "Cognitive dysfunction, manifesting as difficulties with memory, concentration, and executive functions, is a frequently reported neurological symptom in condition Z, often referred to as 'brain fog' by patients, significantly affecting daily activities.",
+                        "wrongAnswer_1": "Acute onset of hemiplegia, indicative of stroke-like episodes, is a common neurological manifestation, resulting from vascular complications and thromboembolic events associated with condition Z progression.",
+                        "wrongAnswer_2": "Peripheral neuropathy, characterized by distal sensory loss, paresthesias, and weakness in extremities, is a frequent neurological finding, stemming from nerve damage due to inflammatory and vascular insults in condition Z.",
+                        "wrongAnswer_3": "Seizure disorders, including generalized tonic-clonic seizures and focal seizures, are a prevalent neurological complication, arising from direct neuronal excitability changes and structural brain lesions in condition Z.",
+                        "wrongAnswer_4": "Progressive motor neuron disease, mimicking amyotrophic lateral sclerosis (ALS), is a recognized neurological manifestation, leading to muscle weakness, atrophy, and ultimately respiratory failure in advanced condition Z."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which of the following autoantibody profiles is most characteristically associated with condition Z and serves as a significant diagnostic marker, although not exclusively specific?",
+                        "goodAnswer": "Presence of anti-Smith antibodies (anti-Sm) and anti-double-stranded DNA antibodies (anti-dsDNA) is highly suggestive of condition Z, especially in conjunction with clinical findings, although some overlap exists with other connective tissue diseases.",
+                        "wrongAnswer_1": "Elevated levels of rheumatoid factor (RF) and anti-cyclic citrullinated peptide antibodies (anti-CCP) are the most specific and sensitive markers for condition Z, consistently present in the majority of affected individuals, aiding in early diagnosis.",
+                        "wrongAnswer_2": "Detection of anti-mitochondrial antibodies (AMA) and anti-smooth muscle antibodies (ASMA) is the primary serological hallmark for condition Z, indicating liver-related pathology and systemic involvement beyond connective tissue.",
+                        "wrongAnswer_3": "Positive anti-neutrophil cytoplasmic antibodies (ANCA), specifically p-ANCA and c-ANCA, are the most diagnostic autoantibodies for condition Z, reflecting underlying vasculitic processes and renal involvement in the disease.",
+                        "wrongAnswer_4": "The presence of anti-thyroid peroxidase antibodies (anti-TPO) and anti-thyroglobulin antibodies is the most specific serological marker for condition Z, pointing towards an autoimmune thyroid disorder as the primary underlying condition."
+                    },
+                    {
+                        "question": "In the differential diagnosis of condition Z, which condition is most frequently considered due to overlapping clinical features, necessitating careful clinical and laboratory evaluation to distinguish between them?",
+                        "goodAnswer": "Systemic Lupus Erythematosus (SLE) is a primary differential diagnosis for condition Z due to significant overlap in symptoms like fatigue, arthritis, skin rash, and positive autoantibodies, requiring comprehensive evaluation to differentiate.",
+                        "wrongAnswer_1": "Osteoarthritis (OA) is the most common differential diagnosis for condition Z, particularly in elderly patients, because of shared musculoskeletal symptoms, necessitating imaging studies to distinguish joint pathologies.",
+                        "wrongAnswer_2": "Fibromyalgia syndrome is frequently considered in the differential diagnosis of condition Z due to similar complaints of chronic widespread pain, fatigue, and sleep disturbances, requiring exclusion of inflammatory markers and objective findings.",
+                        "wrongAnswer_3": "Multiple Sclerosis (MS) is often in the differential diagnosis of condition Z, especially when neurological symptoms are prominent, warranting neuroimaging and neurological examination to differentiate central nervous system pathologies.",
+                        "wrongAnswer_4": "Type 2 Diabetes Mellitus (T2DM) is a major differential diagnosis for condition Z, especially in patients with fatigue and systemic symptoms, requiring blood glucose monitoring and metabolic evaluation to rule out endocrine disorders."
+                    },
+                    {
+                        "question": "Which diagnostic imaging modality is considered most sensitive and specific for detecting early articular changes and synovitis in condition Z, particularly in the small joints of the hands and feet, compared to conventional radiography?",
+                        "goodAnswer": "Musculoskeletal Ultrasound (MSUS) with Doppler is highly sensitive for detecting early synovitis, erosions, and tenosynovitis in condition Z, offering superior visualization of soft tissues and vascularity compared to standard X-rays.",
+                        "wrongAnswer_1": "Conventional Radiography (X-rays) is the most sensitive imaging technique for early detection of joint damage in condition Z, revealing subtle bony erosions and joint space narrowing before other modalities can detect changes.",
+                        "wrongAnswer_2": "Computed Tomography (CT) scans are the preferred imaging method for assessing early articular involvement in condition Z, providing detailed bony anatomy and detecting subtle fractures and subluxations with high accuracy.",
+                        "wrongAnswer_3": "Magnetic Resonance Imaging (MRI) without contrast is sufficient to detect early synovitis and bone marrow edema in condition Z, offering good soft tissue contrast and avoiding radiation exposure associated with other imaging techniques.",
+                        "wrongAnswer_4": "Bone Densitometry (DEXA scan) is the most sensitive and specific imaging test for early diagnosis of joint pathology in condition Z, assessing bone mineral density and detecting subtle changes in bone architecture related to inflammation."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "Which of the following classes of medications is typically considered the first-line treatment for managing the inflammatory manifestations and disease activity in condition Z, particularly for mild to moderate cases?",
+                        "goodAnswer": "Non-steroidal anti-inflammatory drugs (NSAIDs) are often used as first-line therapy to alleviate pain and reduce inflammation in mild to moderate condition Z, providing symptomatic relief and controlling disease flares in many patients.",
+                        "wrongAnswer_1": "Systemic corticosteroids, such as prednisone, are the initial treatment of choice for all patients with condition Z, regardless of disease severity, due to their potent immunosuppressive and anti-inflammatory effects in rapidly controlling symptoms.",
+                        "wrongAnswer_2": "Disease-modifying antirheumatic drugs (DMARDs), like methotrexate, are typically initiated as first-line treatment in all newly diagnosed cases of condition Z, aiming to modify the disease course and prevent long-term joint damage from the outset.",
+                        "wrongAnswer_3": "Biologic agents, specifically TNF-alpha inhibitors, are the standard first-line therapy for condition Z, used universally from diagnosis to target the underlying autoimmune process and achieve remission effectively.",
+                        "wrongAnswer_4": "Opioid analgesics are the primary first-line medications for managing pain in condition Z, providing immediate and effective relief from joint and muscle pain, and are used as monotherapy for long-term symptom control."
+                    },
+                    {
+                        "question": "For patients with condition Z who exhibit persistent disease activity despite initial therapy, which of the following represents a commonly used disease-modifying antirheumatic drug (DMARD) often added or switched to, aiming to achieve better disease control?",
+                        "goodAnswer": "Methotrexate is frequently used as a second-line DMARD in condition Z for patients not responding adequately to initial treatment, or in combination with other agents, due to its effectiveness in reducing inflammation and disease progression.",
+                        "wrongAnswer_1": "Hydroxychloroquine is typically added or switched to as a second-line DMARD due to its potent immunosuppressive effects and rapid action in controlling inflammation and disease activity in refractory condition Z cases.",
+                        "wrongAnswer_2": "Sulfasalazine is the preferred second-line DMARD for condition Z, known for its strong efficacy and minimal side effect profile, making it a safe and effective alternative or adjunct for persistent disease management.",
+                        "wrongAnswer_3": "Leflunomide is the most commonly used second-line DMARD in condition Z, chosen for its targeted mechanism of action and high success rate in achieving remission in patients resistant to other DMARDs.",
+                        "wrongAnswer_4": "Cyclophosphamide is routinely used as a second-line DMARD in condition Z for its mild side effect profile and broad applicability in controlling systemic inflammation and preventing organ damage in unresponsive cases."
+                    },
+                    {
+                        "question": "In the management of severe or refractory condition Z, particularly those with significant organ involvement, which therapeutic strategy is typically considered as a more aggressive approach to rapidly suppress the immune system and control disease flares?",
+                        "goodAnswer": "High-dose corticosteroids, often administered intravenously in pulse form, are used in severe condition Z to rapidly suppress inflammation and manage acute exacerbations or organ-threatening manifestations, aiming for quick disease control.",
+                        "wrongAnswer_1": "Long-term, low-dose aspirin therapy is the cornerstone of aggressive management in severe condition Z, effectively preventing vascular events and reducing inflammation, and is used indefinitely to control disease activity.",
+                        "wrongAnswer_2": "Intravenous immunoglobulin (IVIG) therapy is routinely used as the primary aggressive treatment in severe condition Z, providing broad-spectrum antibody support and rapidly modulating the immune system to achieve remission.",
+                        "wrongAnswer_3": "Plasmapheresis (plasma exchange) is the initial aggressive intervention in severe condition Z to quickly remove circulating autoantibodies and inflammatory mediators, aiming for rapid clinical improvement and disease control.",
+                        "wrongAnswer_4": "Radiation therapy to the affected joints is the aggressive treatment of choice for severe condition Z, directly targeting inflamed tissues to reduce local inflammation and pain, and is used as a definitive management strategy."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

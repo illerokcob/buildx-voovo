@@ -1,0 +1,212 @@
+{
+    "mainTopic": {
+        "title": "Hypersensitivies and autoimmune diseases",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Type I",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary antibody isotype involved in Type I hypersensitivity reactions, which triggers mast cell degranulation upon subsequent allergen exposure.",
+                        "goodAnswer": "IgE is the principal antibody isotype mediating Type I hypersensitivity, binding to high-affinity receptors on mast cells and basophils, leading to degranulation upon allergen crosslinking.",
+                        "wrongAnswer_1": "IgG is the primary antibody isotype in Type I hypersensitivity, activating the classical complement pathway and causing mast cell activation and degranulation upon allergen binding.",
+                        "wrongAnswer_2": "IgM is the principal antibody isotype involved in Type I reactions, forming immune complexes that activate mast cells through Fc receptors, resulting in histamine release and inflammation.",
+                        "wrongAnswer_3": "IgA is the main antibody isotype mediating Type I hypersensitivity, found in mucosal linings and directly stimulating mast cell degranulation and subsequent allergic responses upon allergen encounter.",
+                        "wrongAnswer_4": "IgD is the primary antibody isotype in Type I hypersensitivity, acting as a receptor on naive B cells and directly triggering mast cell degranulation and inflammatory mediator release upon allergen exposure."
+                    },
+                    {
+                        "question": "Describe the immediate phase of a Type I hypersensitivity reaction following the crosslinking of IgE on mast cells by an allergen.",
+                        "goodAnswer": "The immediate phase is characterized by the rapid release of preformed mediators like histamine and tryptase from mast cells, leading to vasodilation, increased vascular permeability, and smooth muscle contraction within minutes of allergen exposure.",
+                        "wrongAnswer_1": "The immediate phase involves a delayed release of newly synthesized mediators like leukotrienes and prostaglandins from mast cells, causing vasoconstriction, decreased vascular permeability, and smooth muscle relaxation within hours of allergen exposure.",
+                        "wrongAnswer_2": "The immediate phase is marked by the slow release of preformed mediators like cytokines and chemokines from mast cells, leading to vasodilation, reduced vascular permeability, and smooth muscle relaxation hours after allergen exposure.",
+                        "wrongAnswer_3": "The immediate phase is defined by the rapid synthesis of mediators like histamine and prostaglandins by mast cells, resulting in vasoconstriction, increased vascular permeability, and smooth muscle contraction immediately following allergen exposure.",
+                        "wrongAnswer_4": "The immediate phase is identified by the slow synthesis of preformed mediators such as tryptase and leukotrienes from mast cells, leading to vasodilation, increased vascular permeability and smooth muscle relaxation minutes after allergen exposure."
+                    },
+                    {
+                        "question": "Identify a key preformed mediator released from mast cells during the immediate phase of Type I hypersensitivity that is primarily responsible for vasodilation and increased vascular permeability.",
+                        "goodAnswer": "Histamine, a preformed mediator, is promptly released from mast cells during the immediate phase of Type I hypersensitivity and plays a critical role in inducing vasodilation and increasing vascular permeability.",
+                        "wrongAnswer_1": "Leukotriene B4, a preformed mediator, is rapidly released from mast cells in Type I hypersensitivity, primarily responsible for inducing vasoconstriction and decreasing vascular permeability.",
+                        "wrongAnswer_2": "Prostaglandin D2, a newly synthesized mediator, is quickly released from mast cells during Type I reactions, primarily responsible for causing vasoconstriction and increased vascular permeability.",
+                        "wrongAnswer_3": "Tryptase, a preformed mediator, is slowly released from mast cells in Type I hypersensitivity, primarily responsible for inducing vasodilation and decreasing vascular permeability.",
+                        "wrongAnswer_4": "Platelet-activating factor (PAF), a newly synthesized mediator, is slowly released from mast cells during Type I reactions, primarily responsible for inducing vasodilation and increased vascular permeability."
+                    }
+                ]
+            },
+            {
+                "title": "Type II",
+                "quizzes": [
+                    {
+                        "question": "Describe the principal mechanism of tissue injury in Type II hypersensitivity reactions, focusing on the role of antibodies and cellular targets.",
+                        "goodAnswer": "Type II hypersensitivity primarily involves antibody-mediated cell destruction or dysfunction, where IgG or IgM antibodies bind to cell surface antigens or extracellular matrix components, leading to complement activation or antibody-dependent cellular cytotoxicity (ADCC).",
+                        "wrongAnswer_1": "Type II hypersensitivity predominantly involves T cell-mediated cytotoxicity, where CD8+ T cells directly recognize and destroy cells expressing specific antigens on their surface, leading to tissue injury and inflammation, similar to Type IV.",
+                        "wrongAnswer_2": "Type II hypersensitivity mainly involves immune complex deposition, where IgG and IgM antibodies form complexes with soluble antigens, leading to complement activation and neutrophil-mediated tissue damage, analogous to Type III.",
+                        "wrongAnswer_3": "Type II hypersensitivity primarily involves IgE-mediated mast cell degranulation, where IgE antibodies bind to cell surface antigens, causing mast cell activation and release of inflammatory mediators, resembling Type I reactions.",
+                        "wrongAnswer_4": "Type II hypersensitivity principally involves granuloma formation, where chronic T cell activation leads to the accumulation of macrophages and fibroblasts, resulting in tissue fibrosis and dysfunction, characteristic of chronic Type IV responses."
+                    },
+                    {
+                        "question": "In transfusion reactions due to ABO blood group incompatibility, which class of antibodies predominantly mediates the Type II hypersensitivity response against incompatible red blood cells?",
+                        "goodAnswer": "IgM antibodies are the primary mediators of Type II hypersensitivity in ABO-incompatible transfusion reactions, as they are naturally occurring antibodies against A and B blood group antigens and efficiently activate the classical complement pathway.",
+                        "wrongAnswer_1": "IgG antibodies are the main mediators of Type II hypersensitivity in ABO-incompatible transfusions, crossing the placenta and initiating antibody-dependent cellular cytotoxicity (ADCC) against transfused red blood cells.",
+                        "wrongAnswer_2": "IgA antibodies are the principal mediators of Type II reactions in ABO-incompatible transfusions, found in mucosal secretions and directly agglutinating red blood cells, leading to intravascular hemolysis and tissue damage.",
+                        "wrongAnswer_3": "IgE antibodies are the primary mediators of Type II hypersensitivity in ABO-incompatible transfusion reactions, binding to red blood cells and activating mast cells, causing histamine release and systemic vasodilation.",
+                        "wrongAnswer_4": "IgD antibodies are the main mediators of Type II reactions in ABO-incompatible transfusions, acting as receptors on B cells and directly triggering complement activation and red blood cell lysis following incompatible blood transfusion."
+                    },
+                    {
+                        "question": "Explain the mechanism of hemolytic disease of the newborn (HDN) as a Type II hypersensitivity reaction, focusing on the role of maternal antibodies and fetal red blood cells.",
+                        "goodAnswer": "Hemolytic disease of the newborn (HDN) is a Type II hypersensitivity reaction where maternal IgG antibodies, specific for fetal red blood cell antigens (e.g., RhD), cross the placenta and bind to fetal red blood cells, leading to their destruction via complement activation or ADCC.",
+                        "wrongAnswer_1": "Hemolytic disease of the newborn (HDN) is a Type II hypersensitivity reaction mediated by maternal IgM antibodies that cross the placenta and bind to fetal red blood cells, initiating immune complex formation and subsequent red blood cell destruction by neutrophils.",
+                        "wrongAnswer_2": "Hemolytic disease of the newborn (HDN) is a Type II hypersensitivity reaction caused by maternal IgE antibodies that cross the placenta and sensitize fetal mast cells, leading to fetal red blood cell lysis upon subsequent antigen exposure after birth.",
+                        "wrongAnswer_3": "Hemolytic disease of the newborn (HDN) is a Type II hypersensitivity reaction involving maternal IgA antibodies that cross the placenta and directly agglutinate fetal red blood cells, causing intravascular coagulation and fetal anemia.",
+                        "wrongAnswer_4": "Hemolytic disease of the newborn (HDN) is a Type II hypersensitivity reaction mediated by maternal IgD antibodies, crossing the placenta and acting as receptors on fetal B cells, leading to fetal red blood cell destruction via complement activation and ADCC."
+                    }
+                ]
+            },
+            {
+                "title": "Type III",
+                "quizzes": [
+                    {
+                        "question": "Describe the fundamental process in Type III hypersensitivity reactions that leads to tissue damage, highlighting the role of immune complexes.",
+                        "goodAnswer": "Type III hypersensitivity is characterized by the formation of antigen-antibody immune complexes in the circulation, which deposit in tissues, activate complement, and attract neutrophils, leading to inflammation and tissue damage through release of lysosomal enzymes and reactive oxygen species.",
+                        "wrongAnswer_1": "Type III hypersensitivity is primarily mediated by the activation of mast cells by IgE antibodies, leading to the release of preformed mediators and immediate tissue damage, characterized by vasodilation and increased vascular permeability upon allergen exposure.",
+                        "wrongAnswer_2": "Type III hypersensitivity is mainly driven by cytotoxic T lymphocytes (CTLs) that directly recognize and kill cells presenting specific antigens on their surface, resulting in tissue injury and inflammation, similar to the mechanism in Type IV hypersensitivity.",
+                        "wrongAnswer_3": "Type III hypersensitivity is fundamentally based on antibody-dependent cellular cytotoxicity (ADCC), where IgG antibodies bind to cell surface antigens, leading to the destruction of target cells by NK cells and macrophages without complement activation.",
+                        "wrongAnswer_4": "Type III hypersensitivity is characterized by the delayed activation of macrophages by TH1 cells, releasing cytokines and chemokines that cause chronic inflammation and granuloma formation, eventually leading to tissue fibrosis and functional impairment."
+                    },
+                    {
+                        "question": "Explain the Arthus reaction as a localized form of Type III hypersensitivity, detailing the sequence of events following intradermal injection of an antigen in a sensitized individual.",
+                        "goodAnswer": "The Arthus reaction, a localized Type III reaction, occurs when an antigen is injected intradermally into a previously sensitized individual with high levels of IgG antibodies. Immune complexes form locally, activate complement, attract neutrophils, and cause localized vasculitis, edema, and tissue necrosis.",
+                        "wrongAnswer_1": "The Arthus reaction, a systemic Type III reaction, occurs when an antigen is injected intravenously into a sensitized individual with high levels of IgE antibodies. Systemic immune complexes form, activating mast cells and causing widespread anaphylaxis and vascular collapse.",
+                        "wrongAnswer_2": "The Arthus reaction, a delayed Type IV reaction, occurs when an antigen is injected intradermally, leading to sensitization of T cells and subsequent activation of macrophages and CTLs, causing localized granuloma formation and tissue fibrosis over 24-72 hours.",
+                        "wrongAnswer_3": "The Arthus reaction, a localized Type II reaction, occurs when an antigen is injected intradermally and antibodies bind to cell surface antigens locally, leading to complement-mediated lysis of cells and localized tissue necrosis, without significant immune complex formation.",
+                        "wrongAnswer_4": "The Arthus reaction, a systemic Type II reaction, occurs when an antigen is injected intravenously, causing a widespread antibody-mediated cytotoxic reaction against host cells, leading to systemic inflammation and organ damage through ADCC mechanism."
+                    },
+                    {
+                        "question": "Describe serum sickness as a systemic form of Type III hypersensitivity, specifically focusing on the causative agents and the typical clinical manifestations.",
+                        "goodAnswer": "Serum sickness, a systemic Type III reaction, is typically caused by the injection of foreign serum proteins (e.g., heterologous antisera). Circulating immune complexes form, deposit in various tissues (joints, kidneys, blood vessels), activate complement, and induce fever, rash, arthralgia, and glomerulonephritis.",
+                        "wrongAnswer_1": "Serum sickness, a localized Type III reaction, is caused by intradermal injection of allergens leading to localized immune complex formation and neutrophil infiltration at the injection site, resulting in a wheal and flare reaction and localized vasculitis.",
+                        "wrongAnswer_2": "Serum sickness, a systemic Type I reaction, is caused by intravenous injection of allergens, leading to systemic IgE-mediated mast cell degranulation and anaphylaxis, characterized by bronchospasm, hypotension, and urticaria.",
+                        "wrongAnswer_3": "Serum sickness, a delayed Type IV reaction, is caused by systemic exposure to haptens, leading to sensitization of T cells and subsequent widespread granuloma formation in multiple organs, resulting in chronic inflammation and tissue fibrosis over weeks.",
+                        "wrongAnswer_4": "Serum sickness, a localized Type II reaction, is caused by blood transfusion reactions due to ABO incompatibility, leading to antibody-mediated lysis of red blood cells and localized intravascular coagulation and organ damage, without significant immune complex deposition."
+                    }
+                ]
+            },
+            {
+                "title": "Type IV",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary effector cells mediating tissue damage in Type IV hypersensitivity reactions, contrasting them with antibody-mediated hypersensitivity types.",
+                        "goodAnswer": "Type IV hypersensitivity is predominantly mediated by T cells, specifically CD4+ TH1 cells and CD8+ cytotoxic T lymphocytes (CTLs), which, upon antigen recognition, release cytokines and directly kill target cells, respectively, unlike antibody-mediated Type I, II, and III reactions.",
+                        "wrongAnswer_1": "Type IV hypersensitivity is mainly mediated by mast cells and basophils, which release preformed mediators like histamine upon IgE crosslinking, causing immediate inflammation and vasodilation, similar to the mechanism in Type I hypersensitivity.",
+                        "wrongAnswer_2": "Type IV hypersensitivity is primarily mediated by neutrophils, which are recruited to sites of immune complex deposition and release lysosomal enzymes and reactive oxygen species, causing tissue damage, similar to the mechanism in Type III hypersensitivity.",
+                        "wrongAnswer_3": "Type IV hypersensitivity is mainly mediated by NK cells and macrophages, which induce antibody-dependent cellular cytotoxicity (ADCC) against antibody-coated cells, leading to tissue injury and inflammation, similar to the mechanism in Type II hypersensitivity.",
+                        "wrongAnswer_4": "Type IV hypersensitivity is mediated by B cells and plasma cells, which produce IgG and IgM antibodies that activate complement and cause cell lysis or immune complex deposition, leading to tissue damage, resembling the mechanisms in Type II and Type III hypersensitivity."
+                    },
+                    {
+                        "question": "Describe the sensitization phase of Type IV hypersensitivity, focusing on the role of antigen-presenting cells (APCs) and T cell activation.",
+                        "goodAnswer": "The sensitization phase in Type IV hypersensitivity involves APCs, such as dendritic cells, processing and presenting antigens (often haptens or proteins) to naive T cells in lymph nodes. This leads to the activation and differentiation of T cells into effector TH1 cells or CTL precursors, taking several days.",
+                        "wrongAnswer_1": "The sensitization phase in Type IV hypersensitivity involves mast cells presenting antigens directly to naive B cells in the bone marrow, leading to the activation and differentiation of B cells into plasma cells, which produce IgE antibodies within minutes of antigen exposure.",
+                        "wrongAnswer_2": "The sensitization phase in Type IV hypersensitivity involves neutrophils directly phagocytosing antigens and presenting them to memory T cells in peripheral tissues, leading to the rapid activation and release of preformed mediators and immediate inflammatory response.",
+                        "wrongAnswer_3": "The sensitization phase in Type IV hypersensitivity involves basophils directly binding to antigens and releasing histamine and other mediators, leading to the immediate recruitment of macrophages and activation of complement, causing rapid tissue inflammation.",
+                        "wrongAnswer_4": "The sensitization phase in Type IV hypersensitivity involves NK cells recognizing and destroying cells presenting antigens on their surface without prior sensitization, leading to immediate release of cytotoxic granules and tissue damage within hours of antigen exposure."
+                    },
+                    {
+                        "question": "Explain the effector phase of Type IV hypersensitivity, highlighting the roles of TH1 cells and macrophages in delayed-type hypersensitivity (DTH) reactions.",
+                        "goodAnswer": "In the effector phase of DTH, upon subsequent antigen exposure, sensitized TH1 cells recognize antigen presented by APCs in tissues and release cytokines like IFN-\u03b3 and TNF-\u03b1. IFN-\u03b3 activates macrophages, enhancing their phagocytic activity and inducing inflammation, leading to tissue damage and granuloma formation over 24-72 hours.",
+                        "wrongAnswer_1": "In the effector phase of DTH, upon subsequent antigen exposure, sensitized CTLs directly recognize and kill target cells presenting the antigen, releasing perforin and granzymes within minutes, leading to rapid cell lysis and tissue destruction without significant macrophage involvement.",
+                        "wrongAnswer_2": "In the effector phase of DTH, upon subsequent antigen exposure, mast cells degranulate and release histamine and other mediators, causing immediate vasodilation and increased vascular permeability within minutes, leading to rapid influx of neutrophils and tissue edema.",
+                        "wrongAnswer_3": "In the effector phase of DTH, upon subsequent antigen exposure, B cells produce IgG antibodies that form immune complexes with the antigen, activating complement and recruiting neutrophils, leading to tissue damage and inflammation within hours of antigen exposure.",
+                        "wrongAnswer_4": "In the effector phase of DTH, upon subsequent antigen exposure, NK cells are activated by antibody-coated target cells via ADCC, leading to rapid destruction of target cells and release of inflammatory mediators within hours, causing tissue damage and localized inflammation."
+                    }
+                ]
+            },
+            {
+                "title": "Allergy and atopy",
+                "quizzes": [
+                    {
+                        "question": "Define 'allergy' in the context of immunological responses, contrasting it with normal immune reactions to foreign antigens.",
+                        "goodAnswer": "Allergy refers to an inappropriate and harmful immune response to normally harmless environmental substances (allergens) in susceptible individuals, differing from normal immune reactions that are protective against pathogens and do not cause tissue damage to benign antigens.",
+                        "wrongAnswer_1": "Allergy describes a normal and protective immune response to common environmental substances, essential for maintaining immune homeostasis and preventing infections in all individuals, similar to reactions against pathogens.",
+                        "wrongAnswer_2": "Allergy is an exaggerated but beneficial immune response to pathogens, leading to enhanced pathogen clearance and long-term immunity, differing from typical responses to harmless environmental substances.",
+                        "wrongAnswer_3": "Allergy is a suppressed and weakened immune response to environmental antigens, resulting in increased susceptibility to infections and autoimmune diseases, unlike typical responses to harmless substances and pathogens.",
+                        "wrongAnswer_4": "Allergy is a completely absent immune response to environmental substances, indicating immune tolerance and preventing any form of reaction, regardless of the nature of the antigen or the individual's genetic predisposition."
+                    },
+                    {
+                        "question": "Explain the concept of 'atopy' as a genetic predisposition associated with allergic diseases, focusing on its key immunological features.",
+                        "goodAnswer": "Atopy is a genetic predisposition to develop IgE-mediated allergic diseases, characterized by a tendency to produce high levels of IgE antibodies in response to common environmental allergens, leading to increased risk of conditions like allergic rhinitis, asthma, and eczema.",
+                        "wrongAnswer_1": "Atopy is a genetic predisposition to develop Type IV hypersensitivity reactions, characterized by an enhanced T cell-mediated response to environmental antigens, leading to increased risk of contact dermatitis, tuberculin reactions, and granulomatous diseases.",
+                        "wrongAnswer_2": "Atopy is a genetic predisposition to develop Type II hypersensitivity reactions, characterized by an increased production of IgG and IgM antibodies against self-antigens, leading to increased risk of autoimmune hemolytic anemia and transfusion reactions.",
+                        "wrongAnswer_3": "Atopy is a genetic predisposition to develop Type III hypersensitivity reactions, characterized by an enhanced formation of immune complexes in response to environmental antigens, leading to increased risk of serum sickness and Arthus reactions.",
+                        "wrongAnswer_4": "Atopy is a genetic predisposition to develop immune deficiency syndromes, characterized by a reduced ability to produce antibodies and T cell responses, leading to increased susceptibility to infections and malignancies, unrelated to allergic diseases."
+                    },
+                    {
+                        "question": "Identify common environmental allergens that frequently trigger allergic reactions in atopic individuals, contrasting them with antigens involved in other types of hypersensitivity.",
+                        "goodAnswer": "Common environmental allergens in atopy include pollen, house dust mites, animal dander, and food proteins, which are typically airborne or ingested and elicit IgE responses, unlike antigens in Type II (cell surface antigens), Type III (soluble antigens), and Type IV (haptens, proteins) hypersensitivity.",
+                        "wrongAnswer_1": "Common environmental allergens in atopy include bacterial and viral antigens, which trigger strong T cell-mediated responses and are involved in Type IV hypersensitivity reactions such as contact dermatitis and delayed-type hypersensitivity responses.",
+                        "wrongAnswer_2": "Common environmental allergens in atopy include red blood cell antigens and tissue antigens, which elicit IgG and IgM antibody responses and are primarily involved in Type II hypersensitivity reactions such as transfusion reactions and hemolytic anemia.",
+                        "wrongAnswer_3": "Common environmental allergens in atopy include foreign serum proteins and drugs, which lead to immune complex formation and are primarily involved in Type III hypersensitivity reactions such as serum sickness and Arthus reactions.",
+                        "wrongAnswer_4": "Common environmental allergens in atopy include autoantigens and self-proteins, which trigger autoimmune responses and are primarily involved in autoimmune diseases and chronic inflammatory conditions, unrelated to typical allergic reactions."
+                    }
+                ]
+            },
+            {
+                "title": "Asthma",
+                "quizzes": [
+                    {
+                        "question": "Describe the key pathological features of asthma, focusing on the chronic inflammatory processes and structural changes in the airways.",
+                        "goodAnswer": "Asthma is characterized by chronic airway inflammation, airway hyperresponsiveness, reversible airflow obstruction due to bronchoconstriction, mucus hypersecretion, and airway remodeling including thickening of the basement membrane and smooth muscle hypertrophy.",
+                        "wrongAnswer_1": "Asthma is characterized by acute airway infection, irreversible airflow obstruction due to alveolar destruction, decreased mucus production, and airway remodeling including thinning of the basement membrane and smooth muscle atrophy.",
+                        "wrongAnswer_2": "Asthma is characterized by chronic alveolar inflammation, airway hyporesponsiveness, irreversible airflow obstruction due to bronchoconstriction, decreased mucus secretion, and airway remodeling including thickening of the alveolar wall and smooth muscle atrophy.",
+                        "wrongAnswer_3": "Asthma is characterized by acute airway inflammation, airway hyperresponsiveness, reversible airflow obstruction due to alveolar collapse, mucus hypersecretion, and airway remodeling including thinning of the basement membrane and smooth muscle hypertrophy.",
+                        "wrongAnswer_4": "Asthma is characterized by chronic alveolar infection, airway hyporesponsiveness, irreversible airflow obstruction due to alveolar collapse, decreased mucus production, and airway remodeling including thickening of the alveolar wall and smooth muscle hypertrophy."
+                    },
+                    {
+                        "question": "Explain the role of IgE-mediated mechanisms in allergic asthma, detailing the sequence of events following allergen inhalation in sensitized individuals.",
+                        "goodAnswer": "In allergic asthma, inhaled allergens crosslink IgE antibodies bound to mast cells in the airway mucosa, leading to mast cell degranulation and release of inflammatory mediators (histamine, leukotrienes), causing bronchoconstriction, mucus production, and inflammation in the airways.",
+                        "wrongAnswer_1": "In allergic asthma, inhaled allergens activate complement pathways in the airway mucosa, leading to neutrophil infiltration and release of lysosomal enzymes, causing bronchoconstriction, mucus production, and inflammation mediated by IgG and IgM antibodies.",
+                        "wrongAnswer_2": "In allergic asthma, inhaled allergens directly activate T cells in the airway mucosa, leading to cytokine release and macrophage activation, causing delayed inflammation and airway remodeling, without significant involvement of IgE or mast cells.",
+                        "wrongAnswer_3": "In allergic asthma, inhaled allergens directly stimulate smooth muscle contraction in the airways, leading to immediate bronchoconstriction and airflow obstruction, without significant involvement of IgE, mast cells, or inflammatory mediators.",
+                        "wrongAnswer_4": "In allergic asthma, inhaled allergens induce the production of IgA antibodies in the airway mucosa, leading to immune complex formation and complement activation, causing neutrophil infiltration and airway inflammation, and bronchoconstriction."
+                    },
+                    {
+                        "question": "Contrast the early and late phases of an asthmatic reaction, emphasizing the key mediators and cellular events characterizing each phase.",
+                        "goodAnswer": "The early phase asthma reaction (minutes) is dominated by mast cell degranulation and release of preformed mediators (histamine, tryptase), leading to bronchoconstriction and mucus secretion. The late phase (hours) involves recruitment of inflammatory cells (eosinophils, lymphocytes), release of newly synthesized mediators (leukotrienes, cytokines), and sustained inflammation and airway hyperresponsiveness.",
+                        "wrongAnswer_1": "The early phase asthma reaction (hours) is dominated by T cell activation and cytokine release, leading to delayed inflammation and airway remodeling. The late phase (minutes) involves mast cell degranulation and release of preformed mediators, causing immediate bronchoconstriction and mucus secretion.",
+                        "wrongAnswer_2": "Both the early and late phases of asthma are primarily mediated by neutrophils and macrophages, which are recruited to the airways and release lysosomal enzymes and reactive oxygen species, leading to tissue damage and chronic inflammation over minutes to hours.",
+                        "wrongAnswer_3": "Both the early and late phases of asthma are mainly characterized by complement activation and immune complex deposition in the airways, leading to neutrophil infiltration and tissue damage through antibody-mediated mechanisms occurring within minutes to hours.",
+                        "wrongAnswer_4": "The early phase asthma reaction (minutes) is characterized by smooth muscle relaxation and bronchodilation due to release of prostaglandins. The late phase (hours) involves reduced mucus secretion and decreased airway inflammation due to activation of regulatory T cells."
+                    }
+                ]
+            },
+            {
+                "title": "Autoimmune diseases - Type I diabetes",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary immunological mechanism underlying Type 1 diabetes mellitus (T1DM), focusing on the destruction of pancreatic beta cells.",
+                        "goodAnswer": "Type 1 diabetes is primarily mediated by T cell-dependent autoimmunity, specifically CD8+ cytotoxic T lymphocytes (CTLs) and CD4+ TH1 cells, which infiltrate the pancreatic islets and selectively destroy insulin-producing beta cells, leading to insulin deficiency.",
+                        "wrongAnswer_1": "Type 1 diabetes is primarily mediated by antibody-dependent cytotoxicity (ADCC) and complement activation, where IgG and IgM autoantibodies target pancreatic beta cells, leading to their destruction by NK cells and complement-mediated lysis, respectively.",
+                        "wrongAnswer_2": "Type 1 diabetes is primarily mediated by immune complex deposition in the pancreatic islets, where autoantibodies form complexes with soluble islet cell antigens, leading to neutrophil infiltration and tissue damage, similar to Type III hypersensitivity reactions.",
+                        "wrongAnswer_3": "Type 1 diabetes is primarily mediated by IgE-dependent mast cell degranulation in the pancreas, where autoantigens crosslink IgE antibodies bound to mast cells, leading to release of inflammatory mediators and destruction of beta cells.",
+                        "wrongAnswer_4": "Type 1 diabetes is primarily mediated by regulatory T cell deficiency, resulting in a failure to suppress autoreactive T cells and B cells, leading to a generalized autoimmune response affecting multiple organs, including the pancreas, and causing beta cell destruction."
+                    },
+                    {
+                        "question": "Identify key autoantigens targeted in Type 1 diabetes, focusing on those expressed by pancreatic beta cells and recognized by autoreactive T cells.",
+                        "goodAnswer": "Key autoantigens in Type 1 diabetes include insulin, glutamic acid decarboxylase (GAD65), islet cell autoantigen 512 (IA-2), and zinc transporter 8 (ZnT8), which are expressed by pancreatic beta cells and are targets for autoreactive T cells and autoantibodies.",
+                        "wrongAnswer_1": "Key autoantigens in Type 1 diabetes include myelin basic protein (MBP), acetylcholine receptor (AChR), and double-stranded DNA (dsDNA), which are expressed in the nervous system and are targets in autoimmune diseases like multiple sclerosis, myasthenia gravis, and systemic lupus erythematosus, respectively.",
+                        "wrongAnswer_2": "Key autoantigens in Type 1 diabetes include thyroid peroxidase (TPO), thyroglobulin (Tg), and rheumatoid factor (RF), which are expressed in the thyroid gland and joints and are targets in autoimmune diseases like Hashimoto's thyroiditis and rheumatoid arthritis, respectively.",
+                        "wrongAnswer_3": "Key autoantigens in Type 1 diabetes include parietal cell antigens, intrinsic factor, and glomerular basement membrane (GBM) antigens, which are expressed in the stomach and kidney and are targets in autoimmune diseases like pernicious anemia and Goodpasture's syndrome, respectively.",
+                        "wrongAnswer_4": "Key autoantigens in Type 1 diabetes include platelet factor 4 (PF4), neutrophil cytoplasmic antigens (ANCAs), and cardiolipin, which are expressed on platelets and neutrophils and are targets in autoimmune diseases like heparin-induced thrombocytopenia, vasculitis, and antiphospholipid syndrome, respectively."
+                    },
+                    {
+                        "question": "Describe the role of genetic susceptibility in the development of Type 1 diabetes, particularly focusing on the HLA genes and their association with disease risk.",
+                        "goodAnswer": "Genetic susceptibility to Type 1 diabetes is strongly associated with HLA genes, particularly HLA-DR3 and HLA-DR4 haplotypes, which influence T cell recognition of autoantigens and presentation to autoreactive T cells, increasing the risk of beta cell destruction and disease development.",
+                        "wrongAnswer_1": "Genetic susceptibility to Type 1 diabetes is primarily associated with mutations in genes encoding complement components (C1q, C4, C2), which lead to impaired clearance of immune complexes and increased risk of immune complex-mediated tissue damage in the pancreas.",
+                        "wrongAnswer_2": "Genetic susceptibility to Type 1 diabetes is mainly linked to mutations in genes encoding Fc receptors (Fc\u03b3R, Fc\u03b5R), which result in altered antibody responses and increased susceptibility to IgE-mediated allergic reactions and mast cell activation in the pancreas.",
+                        "wrongAnswer_3": "Genetic susceptibility to Type 1 diabetes is primarily attributed to mutations in genes encoding cytokine receptors (IL-2R, IFN-\u03b3R), which impair T cell signaling and function, leading to a generalized immune deficiency and increased susceptibility to infections in the pancreas.",
+                        "wrongAnswer_4": "Genetic susceptibility to Type 1 diabetes is mainly associated with mutations in genes encoding pattern recognition receptors (TLRs, NLRs), which result in dysregulated innate immune responses and increased inflammation in the pancreas, promoting beta cell destruction."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

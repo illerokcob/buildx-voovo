@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Acute coronary syndromes",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Pathogenesis of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the initiating event in the pathogenesis of Acute Coronary Syndrome (ACS) leading to thrombotic coronary occlusion?",
+                        "goodAnswer": "The primary initiating event in ACS pathogenesis is the disruption of a pre-existing atherosclerotic plaque, involving either plaque rupture with exposure of the thrombogenic lipid-rich core or plaque erosion with endothelial denudation, both leading to thrombus formation.",
+                        "wrongAnswer_1": "The primary initiating event in ACS pathogenesis is the occurrence of coronary artery vasospasm induced by endothelial dysfunction, which leads to transient myocardial ischemia and subsequent thrombus formation due to altered blood flow dynamics.",
+                        "wrongAnswer_2": "The primary initiating event in ACS pathogenesis is the acute inflammation of the coronary artery media, triggered by circulating inflammatory cytokines, resulting in endothelial dysfunction and subsequent thrombus formation and vascular occlusion.",
+                        "wrongAnswer_3": "The primary initiating event in ACS pathogenesis is the gradual accumulation of cholesterol crystals within the coronary artery intima, causing progressive luminal narrowing and ultimately leading to critical stenosis and myocardial ischemia without acute thrombotic occlusion.",
+                        "wrongAnswer_4": "The primary initiating event in ACS pathogenesis is the systemic increase in blood viscosity due to hypercoagulable states, which promotes sluggish blood flow in coronary arteries, leading to endothelial injury and subsequent thrombus formation and vascular occlusion."
+                    },
+                    {
+                        "question": "In the context of Acute Coronary Syndrome (ACS) pathogenesis following plaque rupture, which cascade of events most accurately represents the process of thrombus formation?",
+                        "goodAnswer": "Plaque rupture -> Exposure of subendothelial collagen and tissue factor -> Platelet adhesion and activation -> Activation of coagulation cascade -> Fibrin deposition and platelet aggregation -> Thrombus formation and potential coronary artery occlusion.",
+                        "wrongAnswer_1": "Plaque rupture -> Release of inflammatory cytokines -> Endothelial cell activation and expression of adhesion molecules -> Leukocyte infiltration -> Degradation of extracellular matrix -> Thrombus formation and potential coronary artery occlusion.",
+                        "wrongAnswer_2": "Plaque rupture -> Coronary artery vasospasm -> Endothelial dysfunction and reduced nitric oxide production -> Platelet activation and aggregation -> Limited fibrin deposition -> Transient thrombus formation without complete occlusion.",
+                        "wrongAnswer_3": "Plaque rupture -> Smooth muscle cell proliferation and migration into the intima -> Neointimal hyperplasia -> Luminal narrowing and increased shear stress -> Endothelial erosion -> Thrombus formation and potential coronary artery occlusion.",
+                        "wrongAnswer_4": "Plaque rupture -> Activation of the complement system -> Membrane attack complex formation on endothelial cells -> Endothelial cell lysis and detachment -> Exposure of subendothelial matrix -> Thrombus formation and potential coronary artery occlusion."
+                    },
+                    {
+                        "question": "Which of the following mechanisms plays a pivotal role in the amplification of platelet aggregation and thrombus stabilization during the pathogenesis of Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "The activation of the glycoprotein IIb/IIIa receptor on the platelet surface, induced by agonists such as ADP and thromboxane A2, facilitates fibrinogen and von Willebrand factor bridging between platelets, leading to platelet aggregation and thrombus stabilization in ACS.",
+                        "wrongAnswer_1": "The activation of the P2Y12 receptor on the platelet surface, stimulated by thrombin and collagen, promotes platelet degranulation and the release of pro-inflammatory mediators, contributing to platelet aggregation and thrombus stabilization in ACS.",
+                        "wrongAnswer_2": "The activation of the glycoprotein Ib/IX/V receptor on the platelet surface, interacting with fibrinogen and fibronectin, initiates platelet adhesion to the subendothelium and subsequent platelet aggregation, resulting in thrombus stabilization in ACS.",
+                        "wrongAnswer_3": "The activation of the PAR-1 receptor on endothelial cells, stimulated by thrombin and factor Xa, promotes endothelial activation and the release of von Willebrand factor, indirectly contributing to platelet aggregation and thrombus stabilization in ACS.",
+                        "wrongAnswer_4": "The activation of the integrin \u03b1V\u03b23 receptor on smooth muscle cells, induced by growth factors and cytokines, facilitates smooth muscle cell migration and proliferation, leading to plaque progression and indirectly to thrombus stabilization in ACS."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which clinical presentation is most indicative of Acute Coronary Syndrome (ACS), particularly in differentiating it from stable angina?",
+                        "goodAnswer": "Chest pain at rest, described as severe, prolonged, or new-onset, often radiating to the left arm, jaw, or back, and not consistently relieved by rest or nitroglycerin, is highly suggestive of ACS.",
+                        "wrongAnswer_1": "Exertional chest pain, consistently reproducible with physical activity, relieved by rest or nitroglycerin within minutes, and unchanged in frequency, duration, or intensity over several weeks, is highly suggestive of ACS.",
+                        "wrongAnswer_2": "Sharp, pleuritic chest pain, worsened by breathing or coughing, and localized to a specific area of the chest wall, is highly suggestive of ACS, particularly when accompanied by fever and elevated inflammatory markers.",
+                        "wrongAnswer_3": "Intermittent palpitations and lightheadedness, associated with episodes of rapid heart rate and resolved spontaneously or with vagal maneuvers, are highly suggestive of ACS, especially in the absence of chest pain.",
+                        "wrongAnswer_4": "Epigastric discomfort and nausea, worsened by meals and relieved by antacids, often accompanied by bloating and belching, are highly suggestive of ACS, particularly in patients with a history of gastroesophageal reflux disease."
+                    },
+                    {
+                        "question": "In evaluating a patient presenting with suspected Acute Coronary Syndrome (ACS), which electrocardiographic (ECG) finding is most specific for ST-segment elevation myocardial infarction (STEMI) and necessitates immediate reperfusion therapy?",
+                        "goodAnswer": "New ST-segment elevation at the J-point in two contiguous leads, with a threshold of \u22651 mm in all leads other than V2-V3 where it is \u22652 mm in men \u226540 years, \u22652.5 mm in men <40 years, or \u22651.5 mm in women, is highly specific for STEMI.",
+                        "wrongAnswer_1": "T-wave inversions in multiple precordial leads, without ST-segment elevation, and in the context of chest pain, are highly specific for STEMI, especially when associated with reciprocal ST-segment depression in inferior leads.",
+                        "wrongAnswer_2": "Presence of pathological Q waves in anterior leads, indicative of prior myocardial infarction, and in the setting of current chest pain, are highly specific for STEMI and require immediate reperfusion therapy.",
+                        "wrongAnswer_3": "Left bundle branch block (LBBB) of unknown duration, in the context of acute chest pain, is highly specific for STEMI and necessitates immediate reperfusion therapy, irrespective of ST-segment changes.",
+                        "wrongAnswer_4": "Non-specific ST-segment and T-wave changes, such as ST-segment depression and T-wave flattening, in the absence of chest pain, are highly specific for STEMI and require immediate reperfusion therapy."
+                    },
+                    {
+                        "question": "Which biomarker is the most sensitive and specific for myocardial necrosis in the setting of Acute Coronary Syndrome (ACS), particularly for the diagnosis of myocardial infarction?",
+                        "goodAnswer": "Cardiac troponins (I or T) are the most sensitive and specific biomarkers for myocardial necrosis, with elevated levels detected within a few hours of symptom onset and remaining elevated for up to two weeks, indicating myocardial injury.",
+                        "wrongAnswer_1": "Creatine kinase-MB (CK-MB) is the most sensitive and specific biomarker for myocardial necrosis, with elevated levels detected within 24 hours of symptom onset and returning to baseline within 48-72 hours, indicating irreversible myocardial damage.",
+                        "wrongAnswer_2": "Myoglobin is the most sensitive and specific biomarker for myocardial necrosis, with early elevation within 1-2 hours of symptom onset but lacking cardiac specificity as it is also released from skeletal muscle injury.",
+                        "wrongAnswer_3": "Lactate dehydrogenase (LDH) is the most sensitive and specific biomarker for myocardial necrosis, with peak elevation occurring within 3-4 days of symptom onset and remaining elevated for up to 10 days, indicating extensive myocardial damage.",
+                        "wrongAnswer_4": "Aspartate aminotransferase (AST) is the most sensitive and specific biomarker for myocardial necrosis, with elevated levels detected within 6-12 hours of symptom onset and returning to baseline within 3-4 days, indicating acute myocardial injury."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of ACS",
+                "quizzes": [
+                    {
+                        "question": "In the initial management of Acute Coronary Syndrome (ACS), which of the following pharmacological interventions is considered the most crucial and should be administered immediately upon presentation?",
+                        "goodAnswer": "Aspirin, as a potent antiplatelet agent, is crucial in the initial management of ACS and should be administered immediately to inhibit platelet activation and aggregation, reducing thrombus formation and improving coronary artery patency.",
+                        "wrongAnswer_1": "Intravenous nitroglycerin, as a vasodilator, is crucial in the initial management of ACS and should be administered immediately to alleviate chest pain by reducing preload and afterload, improving myocardial oxygen supply and demand balance.",
+                        "wrongAnswer_2": "Morphine sulfate, as an analgesic, is crucial in the initial management of ACS and should be administered immediately to relieve severe chest pain, reducing anxiety and sympathetic nervous system activation, and improving patient comfort.",
+                        "wrongAnswer_3": "Oxygen therapy, irrespective of oxygen saturation levels, is crucial in the initial management of ACS and should be administered immediately to ensure adequate myocardial oxygenation and prevent hypoxia-induced myocardial damage.",
+                        "wrongAnswer_4": "Intravenous unfractionated heparin, as an anticoagulant, is crucial in the initial management of ACS and should be administered immediately to prevent thrombus propagation and embolization, improving coronary artery blood flow and preventing re-occlusion."
+                    },
+                    {
+                        "question": "For patients with ST-segment elevation myocardial infarction (STEMI), which reperfusion strategy is generally preferred and considered the gold standard if implemented within guideline-recommended timeframes?",
+                        "goodAnswer": "Primary percutaneous coronary intervention (PCI), involving mechanical thrombectomy and/or stent implantation to restore coronary blood flow, is the preferred reperfusion strategy for STEMI when performed within 12 hours of symptom onset or within 90 minutes of first medical contact.",
+                        "wrongAnswer_1": "Fibrinolytic therapy, using agents like tissue plasminogen activator (tPA) or streptokinase to dissolve the thrombus, is the preferred reperfusion strategy for STEMI when performed within 3 hours of symptom onset or when PCI is not available within 120 minutes.",
+                        "wrongAnswer_2": "Coronary artery bypass grafting (CABG) surgery, involving surgical revascularization to bypass the blocked coronary artery, is the preferred reperfusion strategy for STEMI, particularly in patients with multivessel disease or left main coronary artery stenosis.",
+                        "wrongAnswer_3": "Conservative management with antiplatelet and antithrombotic therapy, without immediate reperfusion, is the preferred strategy for STEMI in patients presenting beyond 24 hours of symptom onset or with contraindications to reperfusion therapies.",
+                        "wrongAnswer_4": "Enhanced external counterpulsation (EECP) therapy, a non-invasive mechanical circulatory support device, is the preferred reperfusion strategy for STEMI in patients with refractory angina or contraindications to both PCI and fibrinolysis."
+                    },
+                    {
+                        "question": "In the management of Non-ST-segment elevation Acute Coronary Syndrome (NSTE-ACS), which of the following risk stratification tools is most commonly used to guide treatment decisions, including the need for early invasive strategy?",
+                        "goodAnswer": "The Global Registry of Acute Coronary Events (GRACE) risk score is commonly used in NSTE-ACS to estimate the risk of in-hospital and post-discharge mortality and major adverse cardiovascular events, guiding decisions on invasive versus conservative management.",
+                        "wrongAnswer_1": "The Framingham Risk Score is commonly used in NSTE-ACS to assess the 10-year risk of atherosclerotic cardiovascular disease, guiding primary prevention strategies but less directly informing acute management decisions in NSTE-ACS.",
+                        "wrongAnswer_2": "The CHADS2 or CHA2DS2-VASc score is commonly used in NSTE-ACS to estimate the risk of stroke and thromboembolism in patients with atrial fibrillation, guiding anticoagulation strategies but not primarily for risk stratification in ACS.",
+                        "wrongAnswer_3": "The Duke Activity Status Index (DASI) is commonly used in NSTE-ACS to assess functional capacity and exercise tolerance, guiding rehabilitation and long-term management but not primarily for acute risk stratification in ACS.",
+                        "wrongAnswer_4": "The New York Heart Association (NYHA) functional classification is commonly used in NSTE-ACS to classify the severity of heart failure symptoms, guiding heart failure management but not primarily for acute risk stratification in ACS."
+                    }
+                ]
+            },
+            {
+                "title": "Complications",
+                "quizzes": [
+                    {
+                        "question": "What is the most common early mechanical complication following Acute Coronary Syndrome (ACS), particularly after ST-segment elevation myocardial infarction (STEMI)?",
+                        "goodAnswer": "Left ventricular dysfunction and heart failure are the most common early mechanical complications of ACS, arising from myocardial necrosis and reduced contractility, leading to hemodynamic compromise and pulmonary congestion.",
+                        "wrongAnswer_1": "Ventricular septal rupture, a rare but catastrophic complication of ACS, involves the rupture of the interventricular septum, leading to a left-to-right shunt and acute heart failure, typically occurring days to weeks after STEMI.",
+                        "wrongAnswer_2": "Papillary muscle rupture, another rare but severe complication of ACS, involves the rupture of a papillary muscle supporting the mitral valve, leading to acute mitral regurgitation and severe hemodynamic instability, usually occurring within days of STEMI.",
+                        "wrongAnswer_3": "Free wall rupture, the most lethal mechanical complication of ACS, involves the rupture of the ventricular free wall, leading to cardiac tamponade and sudden cardiac death, typically occurring within the first few days after STEMI.",
+                        "wrongAnswer_4": "Pericarditis, an inflammatory complication following ACS, involves inflammation of the pericardium, causing chest pain and pericardial effusion, typically occurring days to weeks after myocardial infarction and known as Dressler's syndrome."
+                    },
+                    {
+                        "question": "Which arrhythmic complication is most frequently observed in the acute phase of Acute Coronary Syndrome (ACS) and is a major cause of sudden cardiac death?",
+                        "goodAnswer": "Ventricular fibrillation (VF) is the most frequent arrhythmic complication in the acute phase of ACS, characterized by chaotic electrical activity in the ventricles leading to loss of effective cardiac output and sudden cardiac death if untreated.",
+                        "wrongAnswer_1": "Atrial fibrillation (AF) is the most frequent arrhythmic complication in the acute phase of ACS, characterized by rapid and irregular atrial rhythm, leading to palpitations and increased risk of thromboembolism but less commonly sudden cardiac death.",
+                        "wrongAnswer_2": "Bradyarrhythmias, such as sinus bradycardia or atrioventricular block, are the most frequent arrhythmic complications in the acute phase of ACS, often caused by ischemia or infarction of the conduction system and requiring temporary pacing.",
+                        "wrongAnswer_3": "Supraventricular tachycardia (SVT) is the most frequent arrhythmic complication in the acute phase of ACS, characterized by rapid regular or irregular rhythm originating above the ventricles, leading to palpitations and hemodynamic instability.",
+                        "wrongAnswer_4": "Pulseless electrical activity (PEA) is the most frequent arrhythmic complication in the acute phase of ACS, characterized by organized electrical activity on ECG without palpable pulse, often due to severe pump failure or reversible causes like hypovolemia or hypoxia."
+                    },
+                    {
+                        "question": "Dressler's syndrome, a late complication following Acute Coronary Syndrome (ACS), is characterized by which constellation of clinical features?",
+                        "goodAnswer": "Dressler's syndrome, or post-myocardial infarction syndrome, typically presents weeks to months after ACS with pericarditis, pleuritis, and pneumonitis, often accompanied by fever, chest pain, and elevated inflammatory markers, representing an autoimmune response.",
+                        "wrongAnswer_1": "Dressler's syndrome, or post-pericardiotomy syndrome, typically presents days to weeks after ACS with fever, rash, and joint pain, often accompanied by leukopenia and thrombocytopenia, representing a drug-induced hypersensitivity reaction.",
+                        "wrongAnswer_2": "Dressler's syndrome, or post-cardiac catheterization syndrome, typically presents hours to days after ACS with flank pain, hematuria, and hypertension, often accompanied by elevated creatinine and renal artery stenosis, representing contrast-induced nephropathy.",
+                        "wrongAnswer_3": "Dressler's syndrome, or post-infarction angina syndrome, typically presents within days of ACS with recurrent angina at rest or minimal exertion, often accompanied by ST-segment depression and T-wave inversions, representing incomplete revascularization.",
+                        "wrongAnswer_4": "Dressler's syndrome, or post-stroke syndrome, typically presents weeks to months after ACS with hemiparesis, aphasia, and cognitive deficits, often accompanied by seizures and altered consciousness, representing embolic stroke."
+                    }
+                ]
+            },
+            {
+                "title": "Post ACS risk stratification",
+                "quizzes": [
+                    {
+                        "question": "Which non-invasive test is most commonly utilized for post-Acute Coronary Syndrome (ACS) risk stratification to assess for residual ischemia and guide further management strategies?",
+                        "goodAnswer": "Stress testing, including exercise ECG, stress echocardiography, or nuclear stress testing, is commonly used post-ACS to assess for inducible ischemia, evaluate functional capacity, and guide decisions regarding further revascularization or medical therapy optimization.",
+                        "wrongAnswer_1": "Ambulatory ECG monitoring (Holter monitoring) is commonly used post-ACS to detect and quantify the burden of atrial and ventricular arrhythmias, guiding antiarrhythmic therapy but not primarily for assessing residual ischemia.",
+                        "wrongAnswer_2": "Pulmonary function testing (PFT) is commonly used post-ACS to evaluate for underlying lung disease and respiratory complications, guiding respiratory management but not directly for assessing residual myocardial ischemia.",
+                        "wrongAnswer_3": "Electroencephalography (EEG) is commonly used post-ACS to assess for neurological complications such as seizures or encephalopathy, guiding neurological management but not for assessing residual cardiac ischemia.",
+                        "wrongAnswer_4": "Renal function testing (RFT) is commonly used post-ACS to monitor for chronic kidney disease and guide medication dosing adjustments, important for overall management but not primarily for risk stratification of residual ischemia."
+                    },
+                    {
+                        "question": "In post-Acute Coronary Syndrome (ACS) risk stratification, which clinical and electrocardiographic parameter is considered a strong independent predictor of adverse cardiovascular outcomes?",
+                        "goodAnswer": "Left ventricular ejection fraction (LVEF) and persistent ST-segment elevation resolution post-reperfusion are strong independent predictors of adverse cardiovascular outcomes, reflecting the extent of myocardial damage and residual risk of ischemia.",
+                        "wrongAnswer_1": "Heart rate variability (HRV) and PR interval prolongation on ECG are strong independent predictors of adverse cardiovascular outcomes, reflecting autonomic nervous system dysfunction and increased risk of conduction abnormalities.",
+                        "wrongAnswer_2": "QRS duration and QT interval dispersion on ECG are strong independent predictors of adverse cardiovascular outcomes, reflecting ventricular depolarization and repolarization abnormalities and increased risk of ventricular arrhythmias.",
+                        "wrongAnswer_3": "T-wave amplitude and P-wave morphology on ECG are strong independent predictors of adverse cardiovascular outcomes, reflecting atrial and ventricular repolarization abnormalities and increased risk of atrial fibrillation.",
+                        "wrongAnswer_4": "R-wave progression in precordial leads and presence of U waves on ECG are strong independent predictors of adverse cardiovascular outcomes, reflecting subtle myocardial abnormalities and electrolyte imbalances."
+                    },
+                    {
+                        "question": "Which of the following secondary prevention strategies is most critical for long-term risk reduction in patients following Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "Dual antiplatelet therapy (DAPT) with aspirin and a P2Y12 inhibitor, along with statin therapy, ACE inhibitors or ARBs, and beta-blockers, is critical for long-term secondary prevention post-ACS to reduce the risk of recurrent events.",
+                        "wrongAnswer_1": "Routine antibiotic prophylaxis with penicillin or cephalosporin is critical for long-term secondary prevention post-ACS to prevent infectious complications and reduce overall cardiovascular risk associated with chronic inflammation.",
+                        "wrongAnswer_2": "Regular iron supplementation and vitamin B12 injections are critical for long-term secondary prevention post-ACS to improve red blood cell production and oxygen-carrying capacity, enhancing myocardial perfusion and function.",
+                        "wrongAnswer_3": "Strict dietary sodium restriction and high-dose diuretic therapy are critical for long-term secondary prevention post-ACS to manage fluid overload and reduce blood pressure, primarily in patients with persistent heart failure symptoms.",
+                        "wrongAnswer_4": "Routine oral hypoglycemic agents and insulin therapy are critical for long-term secondary prevention post-ACS to maintain strict glycemic control and prevent diabetes-related macrovascular complications, even in non-diabetic patients."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

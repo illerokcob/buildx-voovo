@@ -1,0 +1,186 @@
+{
+    "mainTopic": {
+        "title": "Oral Cavity and Salivary Glands",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Mucosa of the Oral Cavity",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between the lining mucosa and masticatory mucosa of the oral cavity based on their primary epithelial characteristics and typical locations.",
+                        "goodAnswer": "Lining mucosa typically features a non-keratinized stratified squamous epithelium and is found in regions like the cheeks and lips, providing flexibility and protection against friction.",
+                        "wrongAnswer_1": "Lining mucosa exhibits a keratinized stratified squamous epithelium and is predominantly located in areas such as the hard palate and gingiva, designed for high abrasive forces.",
+                        "wrongAnswer_2": "Masticatory mucosa is characterized by a non-keratinized stratified squamous epithelium and is located on the hard palate and gingiva, providing minimal protection against mechanical stress.",
+                        "wrongAnswer_3": "Masticatory mucosa typically features a pseudostratified columnar epithelium and is found in the cheeks and lips, providing elasticity and resilience to deformation.",
+                        "wrongAnswer_4": "Lining mucosa always consists of a parakeratinized stratified squamous epithelium and is exclusively found on the tongue and floor of the mouth, specialized for taste and secretion."
+                    },
+                    {
+                        "question": "Identify the structural component primarily responsible for the resilience and flexibility of the lamina propria in the oral mucosa, distinguishing it from components that provide tensile strength.",
+                        "goodAnswer": "Elastic fibers are key for the resilience of the lamina propria, allowing it to stretch and return to its original shape, while collagen fibers provide the primary tensile strength.",
+                        "wrongAnswer_1": "Reticular fibers are responsible for the resilience and flexibility of the lamina propria, enabling it to withstand compressive forces, whereas elastic fibers contribute to tensile strength.",
+                        "wrongAnswer_2": "Collagen fibers are primarily responsible for the resilience of the lamina propria, allowing for significant distension, while reticular fibers provide the main structural support.",
+                        "wrongAnswer_3": "Adipose tissue within the lamina propria provides the resilience and flexibility, acting as a cushion against mechanical injury, with elastic fibers mainly contributing to volume.",
+                        "wrongAnswer_4": "Nerve fibers embedded in the lamina propria are responsible for its flexibility and resilience, allowing for sensory feedback, while collagen fibers function in nutrient transport."
+                    },
+                    {
+                        "question": "Describe the unique histological feature of specialized mucosa found on the dorsal surface of the tongue and its primary function in oral physiology.",
+                        "goodAnswer": "Specialized mucosa features papillae containing taste buds and is located on the dorsal tongue surface, primarily functioning in gustation and contributing to tactile sensation.",
+                        "wrongAnswer_1": "Specialized mucosa is characterized by a thick layer of submucosa and is located on the ventral surface of the tongue, primarily functioning in speech articulation and temperature regulation.",
+                        "wrongAnswer_2": "Specialized mucosa is distinguished by the absence of a lamina propria and is located on the lateral borders of the tongue, primarily functioning in mastication and mechanical breakdown of food.",
+                        "wrongAnswer_3": "Specialized mucosa features numerous goblet cells and is located on the floor of the mouth, primarily functioning in mucus secretion and lubrication for swallowing.",
+                        "wrongAnswer_4": "Specialized mucosa is identified by a highly vascularized lamina propria and is located on the hard palate, primarily functioning in thermal insulation and protection against chemical irritants."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Teeth",
+                "quizzes": [
+                    {
+                        "question": "Discriminate between enamel and dentin based on their cellular origin, organic matrix composition, and relative hardness within the structure of a tooth.",
+                        "goodAnswer": "Enamel is derived from ameloblasts and is primarily composed of inorganic hydroxyapatite with a minimal organic matrix, making it the hardest substance in the body; dentin is from odontoblasts, with more organic collagen and less mineral, making it harder than bone but softer than enamel.",
+                        "wrongAnswer_1": "Enamel originates from odontoblasts and consists mainly of organic collagen with minimal hydroxyapatite, resulting in it being softer than dentin; dentin is from ameloblasts, predominantly inorganic, making it the hardest tissue in the tooth.",
+                        "wrongAnswer_2": "Both enamel and dentin are derived from ameloblasts, but enamel has a higher organic content making it more resilient; dentin is primarily inorganic and thus more brittle but harder than enamel.",
+                        "wrongAnswer_3": "Enamel is produced by cementoblasts and is primarily composed of calcium phosphate crystals embedded in a protein matrix, making it moderately hard; dentin is from ameloblasts and is largely organic, making it the softest tissue in the tooth.",
+                        "wrongAnswer_4": "Both enamel and dentin are formed by odontoblasts, with enamel being largely organic and providing elasticity; dentin is highly mineralized and provides the primary hardness of the tooth, being harder than enamel."
+                    },
+                    {
+                        "question": "Explain the role of cementum in tooth structure and periodontal health, contrasting its characteristics with those of enamel and dentin in terms of vascularity and regenerative capacity.",
+                        "goodAnswer": "Cementum, secreted by cementocytes, covers the root and attaches periodontal ligaments, is avascular and has limited regenerative capacity; enamel is acellular and non-regenerative, while dentin can have some reparative potential through odontoblast activity.",
+                        "wrongAnswer_1": "Cementum, produced by ameloblasts, covers the crown and provides the primary protective layer, is highly vascular and has significant regenerative capacity; enamel is cellular and regenerative, while dentin is avascular and non-regenerative.",
+                        "wrongAnswer_2": "Cementum, secreted by odontoblasts, forms the bulk of the tooth crown and provides structural support, is avascular but highly regenerative; enamel is cellular and regenerative, and dentin is avascular and non-regenerative.",
+                        "wrongAnswer_3": "Cementum, secreted by osteoblasts, covers the enamel and strengthens it, is highly vascular and non-regenerative; enamel is acellular and regenerative, while dentin has limited regenerative capability due to cementocyte activity.",
+                        "wrongAnswer_4": "Cementum, formed by chondrocytes, lines the pulp cavity and provides nutrients, is vascular and has high regenerative capacity; enamel is acellular and non-regenerative, and dentin is also non-regenerative due to its chondrocytic origin."
+                    },
+                    {
+                        "question": "Describe the sequential process of dentinogenesis, highlighting the roles of pre-odontoblasts, odontoblasts, and their respective contributions to the formation of dentinal tubules and peritubular dentin.",
+                        "goodAnswer": "Pre-odontoblasts differentiate into odontoblasts, which secrete predentin, the organic matrix of dentin; odontoblasts then retreat towards the pulp, leaving cytoplasmic processes in dentinal tubules; peritubular dentin, highly mineralized, forms around these tubules, different from intertubular dentin.",
+                        "wrongAnswer_1": "Odontoblasts differentiate from pre-ameloblasts and secrete enamel matrix, forming enamel rods; pre-odontoblasts then deposit dentin in tubules surrounded by peritubular enamel; intertubular dentin forms between enamel rods.",
+                        "wrongAnswer_2": "Ameloblasts differentiate into odontoblasts, which deposit predentin; pre-odontoblasts then migrate into dentinal tubules to mineralize peritubular dentin, while intertubular dentin is formed by ameloblast processes.",
+                        "wrongAnswer_3": "Pre-dentinoblasts transform into odontoblasts and secrete peritubular dentin, which forms the bulk of the dentin matrix; odontoblasts processes extend into intertubular dentin, creating dentinal tubules within peritubular dentin.",
+                        "wrongAnswer_4": "Odontoblasts originate from cementoblasts and secrete cementum matrix into dentinal tubules; pre-odontoblasts then deposit peritubular cementum within these tubules, while intertubular cementum surrounds them."
+                    },
+                    {
+                        "question": "Contrast primary dentin, secondary dentin, and tertiary dentin in terms of their formation timing, stimulus for production, and histological characteristics.",
+                        "goodAnswer": "Primary dentin forms during tooth development, secondary dentin forms after root completion slowing down dentinogenesis, and tertiary dentin is reparative dentin formed in response to injury, differing in tubule regularity and odontoblast origin for reparative forms.",
+                        "wrongAnswer_1": "Primary dentin forms after eruption, secondary dentin forms during crown development, and tertiary dentin is developmental dentin formed during initial tooth bud formation; all have similar tubule arrangements and are formed by ameloblasts.",
+                        "wrongAnswer_2": "Primary dentin is formed in response to caries, secondary dentin during normal wear, and tertiary dentin during tooth eruption; they are distinguished by their cellular components: primary contains odontocytes, secondary osteocytes, and tertiary chondrocytes.",
+                        "wrongAnswer_3": "Primary dentin forms in the root, secondary in the crown, and tertiary in the enamel; their mineral content differs, with primary being hypermineralized, secondary hypomineralized, and tertiary having mixed mineralization.",
+                        "wrongAnswer_4": "Primary dentin forms only in deciduous teeth, secondary in permanent teeth, and tertiary in supernumerary teeth; they are histologically identical but located in different tooth types."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Salivary Glands",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between serous acini and mucous acini in salivary glands based on their cellular morphology, staining properties, and primary secretory product.",
+                        "goodAnswer": "Serous acini cells are pyramidal, with round nuclei, stain darkly due to protein-rich secretion (enzymes), and secrete watery saliva; mucous acini cells are columnar, with flattened nuclei at the base, stain lightly due to mucin, and secrete viscous saliva.",
+                        "wrongAnswer_1": "Serous acini cells are cuboidal, with flattened nuclei, stain lightly due to mucin, and secrete viscous saliva; mucous acini cells are pyramidal with round nuclei, stain darkly due to lipid secretion, and secrete oily saliva.",
+                        "wrongAnswer_2": "Both serous and mucous acini cells are columnar, but serous acini stain lightly due to carbohydrate secretion, while mucous acini stain darkly due to nucleic acid secretion; both secrete viscous saliva.",
+                        "wrongAnswer_3": "Serous acini cells are flattened, with irregular nuclei, stain variably due to mixed secretions (enzymes and mucin), and secrete mixed saliva; mucous acini cells are round with central nuclei, stain intensely due to melanin, and secrete pigmented saliva.",
+                        "wrongAnswer_4": "Serous acini cells are multinucleated, with central nuclei, stain heavily due to mineral content, and secrete mineral-rich saliva; mucous acini cells are uninucleated with peripheral nuclei, stain palely due to water content, and secrete water-poor saliva."
+                    },
+                    {
+                        "question": "Compare and contrast striated ducts and intercalated ducts within salivary glands concerning their location, cellular structure, and primary function in modifying saliva.",
+                        "goodAnswer": "Intercalated ducts are near acini, lined by simple cuboidal epithelium, and add bicarbonate and mucin to saliva; striated ducts are further downstream, lined by simple columnar epithelium with basal striations (mitochondria), and reabsorb Na+ and Cl-, secrete K+ and HCO3-, making saliva hypotonic.",
+                        "wrongAnswer_1": "Intercalated ducts are located in the main excretory duct, lined by pseudostratified epithelium, and reabsorb water and electrolytes; striated ducts are near acini, lined by stratified squamous epithelium, and secrete enzymes and mucin.",
+                        "wrongAnswer_2": "Both intercalated and striated ducts are lined by ciliated columnar epithelium; intercalated ducts secrete bicarbonate and mucin, while striated ducts secrete enzymes and immunoglobulins into saliva.",
+                        "wrongAnswer_3": "Striated ducts are proximal to acini, lined by simple squamous epithelium, and concentrate saliva by removing water; intercalated ducts are distal, lined by transitional epithelium, and add proteins and lipids to saliva.",
+                        "wrongAnswer_4": "Intercalated ducts are found in the connective tissue surrounding the gland, lined by mesenchymal cells, and produce saliva; striated ducts are within the glandular parenchyma, lined by nerve cells, and regulate saliva flow via neural stimulation."
+                    },
+                    {
+                        "question": "Differentiate between parotid, submandibular, and sublingual salivary glands with respect to their predominant acinar type (serous, mucous, or mixed) and the viscosity of their secretions.",
+                        "goodAnswer": "Parotid glands are predominantly serous, producing watery saliva; submandibular glands are mixed (serous and mucous, serous dominant), producing moderately viscous saliva; sublingual glands are predominantly mucous, producing highly viscous saliva.",
+                        "wrongAnswer_1": "Parotid glands are predominantly mucous, producing highly viscous saliva; submandibular glands are serous, producing watery saliva; sublingual glands are mixed (mucous and serous, mucous dominant), producing moderately viscous saliva.",
+                        "wrongAnswer_2": "All three glands \u2013 parotid, submandibular, and sublingual \u2013 are purely serous, producing watery saliva, and differ only in their size and location within the oral cavity.",
+                        "wrongAnswer_3": "All three glands \u2013 parotid, submandibular, and sublingual \u2013 are purely mucous, producing highly viscous saliva, and differ only in their duct system complexity and innervation.",
+                        "wrongAnswer_4": "Parotid glands are mixed (mucous dominant), producing moderately viscous saliva; submandibular glands are predominantly mucous, producing highly viscous saliva; sublingual glands are serous, producing watery saliva."
+                    },
+                    {
+                        "question": "Describe the organization of salivary glands into lobules and lobes and the connective tissue components that provide structural support and compartmentalization.",
+                        "goodAnswer": "Salivary glands are divided into lobes, then lobules by connective tissue septa; the capsule surrounds the entire gland, interlobar septa divide lobes, and interlobular septa further subdivide into lobules, containing acini and ducts within each lobule, supported by reticular connective tissue.",
+                        "wrongAnswer_1": "Salivary glands are organized into acini, then ducts, then lobules, and finally lobes, separated by epithelial membranes; the capsule surrounds acini, interacinar membranes divide acini, interductal membranes divide ducts, and interlobular membranes divide lobules.",
+                        "wrongAnswer_2": "Salivary glands are composed of follicles and tubules, grouped into lobules and lobes, separated by muscular tissue layers; the gland is enclosed by a muscle sheath, intrafollicular muscle divides follicles, intratubular muscle divides tubules, and intralobular muscle divides lobules.",
+                        "wrongAnswer_3": "Salivary glands are segmented into segments and zones, then lobules and lobes, partitioned by adipose tissue; the gland is surrounded by fat, intersegmental fat divides segments, interzonal fat divides zones, and interlobular fat divides lobules.",
+                        "wrongAnswer_4": "Salivary glands are arranged into layers and regions, then lobules and lobes, delineated by nervous tissue; the gland is encased in neural sheath, interlaminar nerves divide layers, interregional nerves divide regions, and intralobular nerves divide lobules."
+                    }
+                ]
+            },
+            {
+                "title": "Mechanism and Regulation of Saliva Secretion",
+                "quizzes": [
+                    {
+                        "question": "Explain the two-stage model of saliva secretion, detailing the processes occurring in acinar cells and ductal cells, and how they contribute to the final composition of saliva.",
+                        "goodAnswer": "In the two-stage model, acinar cells produce isotonic primary saliva rich in NaCl and water; ductal cells modify this saliva by reabsorbing Na+ and Cl- and secreting K+ and HCO3-, resulting in hypotonic saliva; the final composition depends on flow rate and gland type.",
+                        "wrongAnswer_1": "In the two-stage model, ductal cells produce hypertonic primary saliva with high protein content; acinar cells then dilute this saliva by adding water and electrolytes, resulting in isotonic saliva; the final composition is independent of flow rate.",
+                        "wrongAnswer_2": "In the one-stage model, acinar cells directly secrete hypotonic saliva rich in K+ and HCO3-; ductal cells only transport water to adjust volume, and the final composition is mainly determined by acinar cell activity.",
+                        "wrongAnswer_3": "In the three-stage model, acinar cells produce isotonic saliva, intercalated duct cells add mucin and enzymes, and striated duct cells remove proteins and add electrolytes, resulting in a complex, hypertonic saliva; final composition is static.",
+                        "wrongAnswer_4": "In the two-stage model, acinar cells produce hypotonic primary saliva lacking NaCl; ductal cells concentrate this saliva by reabsorbing water and adding NaCl, resulting in hypertonic saliva; the final composition is inversely related to flow rate."
+                    },
+                    {
+                        "question": "Describe the parasympathetic nervous system's role in regulating saliva secretion, including the neurotransmitter involved and the intracellular signaling pathways activated in acinar cells.",
+                        "goodAnswer": "Parasympathetic stimulation, primarily via acetylcholine (ACh) acting on muscarinic receptors (M3), increases saliva secretion by activating intracellular Ca2+ signaling, leading to increased ion and water transport and acinar cell contraction.",
+                        "wrongAnswer_1": "Parasympathetic stimulation, primarily via norepinephrine acting on alpha-adrenergic receptors, decreases saliva secretion by inhibiting intracellular cAMP signaling, resulting in reduced ion transport and acinar cell relaxation.",
+                        "wrongAnswer_2": "Sympathetic stimulation, primarily via acetylcholine (ACh) acting on nicotinic receptors, increases saliva secretion by activating intracellular cAMP signaling, leading to increased protein secretion and ductal cell activity.",
+                        "wrongAnswer_3": "Parasympathetic stimulation, primarily via dopamine acting on dopamine receptors, has no significant effect on saliva secretion but modulates taste perception by altering acinar cell membrane permeability.",
+                        "wrongAnswer_4": "Sympathetic stimulation, primarily via serotonin acting on serotonin receptors, increases saliva secretion by activating intracellular cGMP signaling, leading to increased mucus secretion and intercalated duct proliferation."
+                    },
+                    {
+                        "question": "Explain the sympathetic nervous system's influence on saliva secretion, contrasting it with parasympathetic effects and highlighting the neurotransmitter and receptor types involved.",
+                        "goodAnswer": "Sympathetic stimulation, mainly via norepinephrine acting on \u03b2-adrenergic receptors (and \u03b1-adrenergic receptors to a lesser extent), generally produces a smaller volume of viscous, protein-rich saliva compared to parasympathetic stimulation (which produces larger volumes of watery saliva); cAMP and Ca2+ signaling are both involved.",
+                        "wrongAnswer_1": "Sympathetic stimulation, mainly via acetylcholine acting on muscarinic receptors, produces a large volume of watery saliva similar to parasympathetic stimulation, but with higher electrolyte concentration; only Ca2+ signaling is involved.",
+                        "wrongAnswer_2": "Sympathetic stimulation, mainly via epinephrine acting on nicotinic receptors, completely inhibits saliva secretion by closing ion channels in acinar cells; neither cAMP nor Ca2+ signaling is activated.",
+                        "wrongAnswer_3": "Sympathetic stimulation, mainly via dopamine acting on dopamine receptors, produces a large volume of highly viscous, mucus-rich saliva, in contrast to parasympathetic stimulation which produces serous saliva; only cGMP signaling is involved.",
+                        "wrongAnswer_4": "Sympathetic stimulation, mainly via serotonin acting on serotonin receptors, has no effect on saliva volume but increases the concentration of antimicrobial proteins in saliva; only IP3 signaling is involved."
+                    },
+                    {
+                        "question": "Describe the roles of myoepithelial cells in salivary gland function and their mechanism of action in facilitating saliva secretion.",
+                        "goodAnswer": "Myoepithelial cells, surrounding acini and intercalated ducts, contract upon stimulation (primarily by parasympathetic innervation) to squeeze acini and ducts, aiding in saliva expulsion into the duct system and preventing backflow; contraction is Ca2+-dependent and driven by actin-myosin interaction.",
+                        "wrongAnswer_1": "Myoepithelial cells, located within striated ducts, dilate upon sympathetic stimulation to increase ductal diameter, facilitating saliva flow by reducing resistance; dilation is cAMP-dependent and driven by microtubule polymerization.",
+                        "wrongAnswer_2": "Myoepithelial cells, found only in mucous acini, secrete mucin into saliva in response to hormonal stimulation, contributing to saliva viscosity; secretion is protein-dependent and involves exocytosis of mucin granules.",
+                        "wrongAnswer_3": "Myoepithelial cells, lining the capsule of the salivary gland, contract tonically to maintain gland shape and integrity but do not directly participate in saliva secretion; contraction is ATP-independent and driven by collagen cross-linking.",
+                        "wrongAnswer_4": "Myoepithelial cells, interspersed among acinar cells, regulate ion transport across acinar cell membranes by controlling Na+/K+ pump activity; regulation is voltage-dependent and involves membrane potential changes."
+                    }
+                ]
+            },
+            {
+                "title": "Components of Saliva",
+                "quizzes": [
+                    {
+                        "question": "Identify the major inorganic components of saliva and their primary roles in maintaining oral health and buffering capacity.",
+                        "goodAnswer": "Major inorganic components include bicarbonate, phosphate, and calcium ions; bicarbonate and phosphate act as buffers to neutralize acids and maintain pH, calcium is crucial for enamel remineralization and preventing demineralization.",
+                        "wrongAnswer_1": "Major inorganic components are sodium, potassium, and chloride ions; sodium and potassium regulate osmotic pressure, while chloride acts as a primary buffer in saliva, preventing pH fluctuations.",
+                        "wrongAnswer_2": "Major inorganic components consist of fluoride, iodide, and iron ions; fluoride strengthens enamel by incorporating into hydroxyapatite, iodide acts as an antimicrobial, and iron is essential for salivary peroxidase activity.",
+                        "wrongAnswer_3": "Major inorganic components are sulfate, nitrate, and magnesium ions; sulfate aids in protein digestion, nitrate is converted to nitric oxide for vasodilation, and magnesium is a cofactor for salivary amylase.",
+                        "wrongAnswer_4": "Major inorganic components include zinc, copper, and selenium ions; zinc has antioxidant properties, copper enhances taste perception, and selenium is involved in salivary gland development and differentiation."
+                    },
+                    {
+                        "question": "Describe the key organic components of saliva, focusing on their functions in digestion, antimicrobial defense, and tissue protection within the oral cavity.",
+                        "goodAnswer": "Key organic components include \u03b1-amylase (digestion of carbohydrates), lysozyme and lactoferrin (antimicrobial), mucins (lubrication and protection), and proline-rich proteins (calcium binding and enamel protection); each contributes distinctly to oral homeostasis.",
+                        "wrongAnswer_1": "Key organic components are pepsin (digestion of proteins), defensins and immunoglobulins (tissue repair), collagen (structural support), and fibronectin (cell adhesion); collectively promoting tissue regeneration and structural integrity.",
+                        "wrongAnswer_2": "Key organic components include lipase (digestion of fats), peroxidase and superoxide dismutase (pro-oxidant), albumin (nutrient transport), and globulins (hormone binding); primarily involved in nutrient metabolism and hormonal regulation.",
+                        "wrongAnswer_3": "Key organic components are cellulase (digestion of cellulose), interferon and cytokines (pro-inflammatory), keratin (epithelial barrier), and elastin (tissue elasticity); largely mediating inflammatory responses and structural flexibility.",
+                        "wrongAnswer_4": "Key organic components include nuclease (digestion of nucleic acids), complement proteins (immune activation), fibrinogen (clotting), and actin (cellular motility); mainly functioning in hemostasis and immune surveillance."
+                    },
+                    {
+                        "question": "Explain the role of salivary proteins, specifically mucins, in protecting the oral mucosa and maintaining oral lubrication, contrasting their structural features and functions with other salivary proteins.",
+                        "goodAnswer": "Mucins are large, heavily glycosylated proteins that form a gel-like layer on the mucosa, providing lubrication, a barrier against pathogens, and preventing dehydration; other salivary proteins, like amylase or lysozyme, are smaller, globular proteins with enzymatic or antimicrobial roles, not primarily for lubrication.",
+                        "wrongAnswer_1": "Mucins are small, non-glycosylated proteins that enhance salivary viscosity by increasing water content, primarily functioning to dilute ingested toxins; other salivary proteins, like mucin-related proteins, are larger and provide antimicrobial defense.",
+                        "wrongAnswer_2": "Mucins are fibrous proteins forming a rigid meshwork in saliva, providing structural support to the oral cavity; other salivary proteins, like mucin-binding proteins, act as receptors for mucins on epithelial cells, mediating cell adhesion.",
+                        "wrongAnswer_3": "Mucins are lipid-rich proteins that create a hydrophobic layer on the mucosa, preventing water loss and acting as a sealant against bacterial invasion; other salivary proteins, like lipid-associated proteins, facilitate lipid digestion in the oral cavity.",
+                        "wrongAnswer_4": "Mucins are nucleic acid-based polymers that enhance salivary buffering capacity by binding to hydrogen ions, primarily functioning to regulate oral pH; other salivary proteins, like nucleic acid-binding proteins, control gene expression in salivary glands."
+                    },
+                    {
+                        "question": "Discuss the significance of lysozyme and lactoferrin as antimicrobial components of saliva, differentiating their mechanisms of action and contributions to oral defense against microbial colonization.",
+                        "goodAnswer": "Lysozyme hydrolyzes peptidoglycans in bacterial cell walls, causing lysis; lactoferrin binds iron, depriving bacteria of this essential nutrient and also disrupting bacterial membranes; both act synergistically to inhibit bacterial growth and biofilm formation.",
+                        "wrongAnswer_1": "Lysozyme inhibits viral replication by blocking viral entry into host cells; lactoferrin activates complement pathways to enhance viral clearance; both are primarily antiviral components of saliva.",
+                        "wrongAnswer_2": "Lysozyme promotes fungal growth by providing nutrients for fungal metabolism; lactoferrin stimulates fungal spore germination and adhesion to oral surfaces; both contribute to oral mycobiome establishment.",
+                        "wrongAnswer_3": "Lysozyme neutralizes bacterial toxins by binding to exotoxins and endotoxins; lactoferrin enhances bacterial adhesion to oral surfaces, promoting commensal bacterial colonization; both regulate oral microbiome composition.",
+                        "wrongAnswer_4": "Lysozyme induces apoptosis in bacterial cells by triggering intracellular signaling cascades; lactoferrin inhibits bacterial protein synthesis by binding to ribosomal RNA; both are directly cytotoxic to bacterial cells."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

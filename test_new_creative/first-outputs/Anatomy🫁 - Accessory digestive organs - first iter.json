@@ -1,0 +1,162 @@
+{
+    "mainTopic": {
+        "title": "Accessory digestive organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The salivary glands",
+                "quizzes": [
+                    {
+                        "question": "Which salivary gland, characterized as the largest among the major salivary glands, is situated anterior and inferior to the ear and secretes a primarily serous fluid through the Stensen's duct?",
+                        "goodAnswer": "The parotid gland is the largest major salivary gland, located anterior and inferior to the ear, secreting serous saliva via the Stensen's duct which opens opposite the upper second molar.",
+                        "wrongAnswer_1": "The submandibular gland is the largest major salivary gland, positioned anterior and superior to the ear, secreting mixed saliva via the Wharton's duct which opens opposite the lower second molar.",
+                        "wrongAnswer_2": "The sublingual gland, while being the smallest, is located inferior to the ear, secreting mucous saliva via the Rivinus ducts and opening near the upper second molar.",
+                        "wrongAnswer_3": "The parotid gland, though the smallest, is situated posterior and inferior to the ear, secreting mucous saliva via the Wharton's duct which opens opposite the lower second molar.",
+                        "wrongAnswer_4": "The submandibular gland is the largest major salivary gland, located posterior and superior to the ear, secreting serous saliva via the Stensen's duct which opens opposite the upper second molar."
+                    },
+                    {
+                        "question": "Identify the salivary gland that is located in the floor of the mouth, medial to the mandible, and characterized by its mixed secretion, primarily serous, which is delivered through the Wharton's duct into the oral cavity.",
+                        "goodAnswer": "The submandibular gland is situated in the floor of the mouth, medial to the mandible, and it secretes a mixed saliva, predominantly serous, via the Wharton's duct opening at the sublingual caruncle.",
+                        "wrongAnswer_1": "The sublingual gland is located in the floor of the mouth, lateral to the mandible, and it secretes a mixed saliva, predominantly mucous, via the Stensen's duct opening at the sublingual caruncle.",
+                        "wrongAnswer_2": "The parotid gland is located in the floor of the mouth, medial to the mandible, and it secretes a purely serous saliva via the Wharton's duct opening at the parotid papilla.",
+                        "wrongAnswer_3": "The submandibular gland is situated in the roof of the mouth, medial to the maxilla, and it secretes a purely mucous saliva via the Stensen's duct opening at the sublingual caruncle.",
+                        "wrongAnswer_4": "The sublingual gland is situated in the floor of the mouth, medial to the mandible, and it secretes a purely serous saliva via the Wharton's duct opening at the sublingual fold."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the sublingual gland concerning its location, secretion type, and duct system within the oral cavity?",
+                        "goodAnswer": "The sublingual gland, the smallest major salivary gland, is found in the floor of the mouth, anterior to the submandibular gland, producing mucous saliva that drains through the ducts of Rivinus, often into the Wharton\u2019s duct or along the sublingual fold.",
+                        "wrongAnswer_1": "The submandibular gland, the largest major salivary gland, is located in the floor of the mouth, posterior to the sublingual gland, producing serous saliva that drains primarily through the ducts of Rivinus, emptying mainly into the Stensen\u2019s duct.",
+                        "wrongAnswer_2": "The parotid gland, the largest major salivary gland, is found in the roof of the mouth, anterior to the sublingual gland, producing mixed saliva that drains through the ducts of Rivinus, emptying directly into the oral vestibule.",
+                        "wrongAnswer_3": "The sublingual gland, the largest major salivary gland, is located in the floor of the mouth, anterior to the parotid gland, producing serous saliva that drains through Stensen\u2019s duct and Wharton\u2019s duct, opening along the sublingual fold.",
+                        "wrongAnswer_4": "The submandibular gland, the smallest major salivary gland, is found in the roof of the mouth, posterior to the parotid gland, producing mucous saliva that drains through the ducts of Rivinus, primarily emptying into the Stensen\u2019s duct."
+                    }
+                ]
+            },
+            {
+                "title": "The liver",
+                "quizzes": [
+                    {
+                        "question": "Describe the anatomical positioning of the liver within the abdominal cavity and its relationship to surrounding structures.",
+                        "goodAnswer": "The liver, recognized as the largest gland in the body, is predominantly situated in the right upper quadrant of the abdomen, positioned inferior to the diaphragm and superior to the stomach and intestines.",
+                        "wrongAnswer_1": "The liver, the smallest gland in the body, is primarily located in the left upper quadrant of the abdomen, positioned superior to the diaphragm and inferior to the stomach and intestines.",
+                        "wrongAnswer_2": "The liver, the largest gland in the body, is predominantly situated in the left lower quadrant of the abdomen, positioned inferior to the diaphragm and superior to the stomach and intestines.",
+                        "wrongAnswer_3": "The liver, the smallest gland in the body, is primarily located in the right lower quadrant of the abdomen, positioned superior to the diaphragm and inferior to the stomach and intestines.",
+                        "wrongAnswer_4": "The liver, recognized as the largest gland, is situated centrally in the abdominal cavity, positioned posterior to the diaphragm and anterior to the stomach and intestines."
+                    },
+                    {
+                        "question": "Identify the structures that constitute the Porta Hepatis, the crucial hilum of the liver, and specify their respective functions.",
+                        "goodAnswer": "The Porta Hepatis contains the hepatic artery, providing oxygenated blood to the liver; the portal vein, delivering nutrient-rich, deoxygenated blood from the digestive tract; and the bile duct, transporting bile away from the liver.",
+                        "wrongAnswer_1": "The Porta Hepatis contains the hepatic vein, draining oxygenated blood from the liver; the portal artery, delivering deoxygenated blood from the digestive tract; and the lymphatic duct, transporting lymph fluid towards the liver.",
+                        "wrongAnswer_2": "The Porta Hepatis contains the cystic artery, providing oxygenated blood to the gallbladder; the hepatic portal vein, delivering oxygenated blood from the digestive tract; and the pancreatic duct, transporting pancreatic enzymes towards the duodenum.",
+                        "wrongAnswer_3": "The Porta Hepatis contains the splenic artery, providing oxygenated blood to the spleen; the splenic vein, delivering deoxygenated blood from the spleen; and the bile canaliculi, transporting bile within the liver lobules.",
+                        "wrongAnswer_4": "The Porta Hepatis contains the hepatic artery, providing deoxygenated blood to the liver; the hepatic vein, delivering oxygenated blood from the liver; and the bile ductule, transporting bile towards the gallbladder."
+                    },
+                    {
+                        "question": "Describe the flow of bile from its production within the liver to its eventual release into the duodenum, outlining the ductal structures involved.",
+                        "goodAnswer": "Bile flow initiates in the bile canaliculi within the liver, progressing into bile ducts, then converging into the hepatic ducts, which unite to form the common hepatic duct, eventually becoming the common bile duct leading to the duodenum.",
+                        "wrongAnswer_1": "Bile flow begins in the hepatic ducts within the liver, progressing into bile canaliculi, then converging into the bile ductules, which unite to form the cystic duct, eventually becoming the common hepatic duct leading to the duodenum.",
+                        "wrongAnswer_2": "Bile flow starts in the common bile duct within the liver, progressing into hepatic ducts, then converging into bile canaliculi, which unite to form the bile ducts, eventually becoming the cystic duct leading to the duodenum.",
+                        "wrongAnswer_3": "Bile flow initiates in the bile ducts within the liver, progressing into bile canaliculi, then converging into the cystic duct, which unite to form the hepatic ducts, eventually becoming the common bile duct leading to the duodenum.",
+                        "wrongAnswer_4": "Bile flow begins in the bile canaliculi within the pancreas, progressing into pancreatic ducts, then converging into the hepatic ducts, which unite to form the common pancreatic duct, eventually becoming the common bile duct leading to the duodenum."
+                    },
+                    {
+                        "question": "Trace the venous drainage pathway of the liver, starting from the liver parenchyma and culminating in the major vessel that returns blood to the heart.",
+                        "goodAnswer": "Venous drainage from the liver parenchyma begins with hepatic veins, which coalesce and empty directly into the inferior vena cava, returning deoxygenated blood to the heart's right atrium.",
+                        "wrongAnswer_1": "Venous drainage from the liver parenchyma begins with portal veins, which coalesce and empty directly into the superior vena cava, returning oxygenated blood to the heart's left atrium.",
+                        "wrongAnswer_2": "Venous drainage from the liver parenchyma begins with hepatic arteries, which coalesce and empty directly into the inferior vena cava, returning oxygenated blood to the heart's right atrium.",
+                        "wrongAnswer_3": "Venous drainage from the liver parenchyma begins with cystic veins, which coalesce and empty directly into the superior vena cava, returning deoxygenated blood to the heart's left ventricle.",
+                        "wrongAnswer_4": "Venous drainage from the liver parenchyma begins with portal veins, which coalesce and empty directly into the inferior vena cava, returning deoxygenated blood to the heart's right ventricle."
+                    }
+                ]
+            },
+            {
+                "title": "The pancreas",
+                "quizzes": [
+                    {
+                        "question": "Describe the anatomical location of the pancreas within the abdomen and its positional relationships relative to surrounding organs and spaces.",
+                        "goodAnswer": "The pancreas is located in the retroperitoneum, posterior to the stomach, with its head situated within the C-loop of the duodenum and its tail extending towards the spleen in the left upper quadrant.",
+                        "wrongAnswer_1": "The pancreas is located in the intraperitoneum, anterior to the stomach, with its head situated within the S-loop of the ileum and its tail extending towards the liver in the right upper quadrant.",
+                        "wrongAnswer_2": "The pancreas is located in the retroperitoneum, anterior to the stomach, with its head situated within the C-loop of the jejunum and its tail extending towards the gallbladder in the right lower quadrant.",
+                        "wrongAnswer_3": "The pancreas is located in the intraperitoneum, posterior to the stomach, with its head situated within the C-loop of the colon and its tail extending towards the kidney in the left lower quadrant.",
+                        "wrongAnswer_4": "The pancreas is located in the retroperitoneum, posterior to the liver, with its head situated within the S-loop of the duodenum and its tail extending towards the adrenal gland in the right upper quadrant."
+                    },
+                    {
+                        "question": "Detail the ductal system of the pancreas, including the names of the primary and accessory ducts and their points of entry into the duodenum.",
+                        "goodAnswer": "The pancreas possesses the main pancreatic duct (Wirsung's duct) and the accessory pancreatic duct (Santorini's duct); Wirsung's duct joins the common bile duct at the hepatopancreatic ampulla (Vater), opening into the duodenum at the major duodenal papilla, while Santorini's duct, when present, opens into the duodenum at the minor duodenal papilla.",
+                        "wrongAnswer_1": "The pancreas possesses the cystic duct and the hepatic duct; the cystic duct joins the pancreatic duct at the hepatopancreatic ampulla (Vater), opening into the jejunum at the major duodenal papilla, while the hepatic duct, when present, opens into the jejunum at the minor duodenal papilla.",
+                        "wrongAnswer_2": "The pancreas possesses the common bile duct and the pancreatic ductule; the common bile duct joins the cystic duct at the hepatopancreatic ampulla (Vater), opening into the ileum at the major duodenal papilla, while the pancreatic ductule, when present, opens into the ileum at the minor duodenal papilla.",
+                        "wrongAnswer_3": "The pancreas possesses the main pancreatic duct (Wirsung's duct) and the accessory pancreatic duct (Santorini's duct); Santorini's duct joins the common bile duct at the hepatopancreatic ampulla (Vater), opening into the duodenum at the major duodenal papilla, while Wirsung's duct, when present, opens into the duodenum at the minor duodenal papilla.",
+                        "wrongAnswer_4": "The pancreas possesses the hepatic duct and the pancreatic duct; the hepatic duct joins the common bile duct at the hepatopancreatic ampulla (Vater), opening into the duodenum at the minor duodenal papilla, while the pancreatic duct, when present, opens into the duodenum at the major intestinal papilla."
+                    },
+                    {
+                        "question": "Outline the primary arterial blood supply to the pancreas, specifying the major arteries and their branches that contribute to pancreatic perfusion.",
+                        "goodAnswer": "The pancreas is primarily supplied by the splenic artery, a branch of the celiac trunk, which provides branches to the body and tail, and by the superior and inferior pancreaticoduodenal arteries, branches of the gastroduodenal and superior mesenteric arteries, respectively, for the head and neck.",
+                        "wrongAnswer_1": "The pancreas is primarily supplied by the hepatic artery, a branch of the celiac trunk, which provides branches to the body and tail, and by the cystic and hepaticoduodenal arteries, branches of the gastroduodenal and inferior mesenteric arteries, respectively, for the head and neck.",
+                        "wrongAnswer_2": "The pancreas is primarily supplied by the mesenteric artery, a branch of the celiac trunk, which provides branches to the head and neck, and by the superior and inferior splenic arteries, branches of the gastroduodenal and superior mesenteric arteries, respectively, for the body and tail.",
+                        "wrongAnswer_3": "The pancreas is primarily supplied by the renal artery, a branch of the abdominal aorta, which provides branches to the body and tail, and by the superior and inferior pancreaticosplenic arteries, branches of the gastroduodenal and inferior mesenteric arteries, respectively, for the head and neck.",
+                        "wrongAnswer_4": "The pancreas is primarily supplied by the gastric artery, a branch of the celiac trunk, which provides branches to the head and neck, and by the superior and inferior pancreaticogastric arteries, branches of the gastroduodenal and superior mesenteric arteries, respectively, for the body and tail."
+                    }
+                ]
+            },
+            {
+                "title": "The gallbladder",
+                "quizzes": [
+                    {
+                        "question": "Describe the anatomical location of the gallbladder and its relationship to the liver, including the surface of the liver to which it is attached.",
+                        "goodAnswer": "The gallbladder is a pear-shaped sac located on the inferior surface of the liver, specifically attached to the visceral surface between the right and quadrate lobes, typically in a fossa designated for it.",
+                        "wrongAnswer_1": "The gallbladder is a spherical sac located on the superior surface of the liver, specifically attached to the parietal surface between the left and caudate lobes, typically in a fissure designated for it.",
+                        "wrongAnswer_2": "The gallbladder is a cylindrical sac located on the anterior surface of the liver, specifically attached to the diaphragmatic surface between the right and left lobes, typically in a groove designated for it.",
+                        "wrongAnswer_3": "The gallbladder is a pear-shaped sac located on the posterior surface of the liver, specifically attached to the visceral surface between the caudate and quadrate lobes, typically in a sulcus designated for it.",
+                        "wrongAnswer_4": "The gallbladder is a spherical sac located on the medial surface of the liver, specifically attached to the parietal surface between the caudate and left lobes, typically in a fossa designated for it."
+                    },
+                    {
+                        "question": "Outline the ductal pathway for bile flow from the gallbladder into the duodenum, naming the ducts involved and their sequence.",
+                        "goodAnswer": "Bile from the gallbladder flows through the cystic duct, which then joins the common hepatic duct from the liver to form the common bile duct, subsequently leading to the duodenum at the major duodenal papilla.",
+                        "wrongAnswer_1": "Bile from the gallbladder flows through the hepatic duct, which then joins the cystic duct from the liver to form the common hepatic duct, subsequently leading to the jejunum at the minor duodenal papilla.",
+                        "wrongAnswer_2": "Bile from the gallbladder flows through the common bile duct, which then joins the cystic duct from the liver to form the common hepatic duct, subsequently leading to the ileum at the major duodenal papilla.",
+                        "wrongAnswer_3": "Bile from the gallbladder flows through the pancreatic duct, which then joins the common hepatic duct from the liver to form the common pancreatic duct, subsequently leading to the duodenum at the minor duodenal papilla.",
+                        "wrongAnswer_4": "Bile from the gallbladder flows through the cystic duct, which then joins the pancreatic duct from the pancreas to form the hepatopancreatic duct, subsequently leading to the jejunum at the major duodenal papilla."
+                    },
+                    {
+                        "question": "Identify the arterial supply and venous drainage of the gallbladder, specifying the arteries and veins directly involved in its blood circulation.",
+                        "goodAnswer": "The gallbladder's arterial supply is primarily from the cystic artery, typically a branch of the right hepatic artery, and its venous drainage is via the cystic vein, which usually drains directly into the portal vein or its branches.",
+                        "wrongAnswer_1": "The gallbladder's arterial supply is primarily from the hepatic artery, typically a branch of the left hepatic artery, and its venous drainage is via the hepatic vein, which usually drains directly into the inferior vena cava or its branches.",
+                        "wrongAnswer_2": "The gallbladder's arterial supply is primarily from the splenic artery, typically a branch of the celiac trunk, and its venous drainage is via the splenic vein, which usually drains directly into the superior mesenteric vein or its branches.",
+                        "wrongAnswer_3": "The gallbladder's arterial supply is primarily from the cystic artery, typically a branch of the left gastric artery, and its venous drainage is via the gastric vein, which usually drains directly into the splenic vein or its branches.",
+                        "wrongAnswer_4": "The gallbladder's arterial supply is primarily from the hepatic artery, typically a branch of the common hepatic artery, and its venous drainage is via the cystic vein, which usually drains directly into the hepatic vein or its branches."
+                    }
+                ]
+            },
+            {
+                "title": "The peritoneum",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between the parietal and visceral peritoneum, describing their respective locations and relationships within the abdominal cavity.",
+                        "goodAnswer": "The parietal peritoneum lines the abdominal wall, forming the outer boundary of the peritoneal cavity, while the visceral peritoneum covers the abdominal organs, constituting their outer serosal layer and allowing for organ mobility.",
+                        "wrongAnswer_1": "The parietal peritoneum covers the abdominal organs, forming their outer boundary within the peritoneal cavity, while the visceral peritoneum lines the abdominal wall, constituting the inner lining and restricting organ mobility.",
+                        "wrongAnswer_2": "The parietal peritoneum lines the thoracic wall, forming the outer boundary of the pleural cavity, while the visceral peritoneum covers the thoracic organs, constituting their outer serosal layer and allowing for organ mobility.",
+                        "wrongAnswer_3": "The parietal peritoneum lines the abdominal wall, forming the inner boundary of the retroperitoneal space, while the visceral peritoneum covers the retroperitoneal organs, constituting their outer adventitial layer and restricting organ mobility.",
+                        "wrongAnswer_4": "The parietal peritoneum covers the abdominal organs, forming their outer boundary within the retroperitoneal space, while the visceral peritoneum lines the abdominal wall, constituting the inner lining and allowing for organ mobility."
+                    },
+                    {
+                        "question": "Describe the mesentery, including its composition, function, and relationship to the peritoneal layers and abdominal organs.",
+                        "goodAnswer": "The mesentery is a double layer of peritoneum that extends from the parietal peritoneum to enclose and suspend intraperitoneal organs, containing blood vessels, lymphatic vessels, and nerves that supply these organs and facilitating their mobility.",
+                        "wrongAnswer_1": "The mesentery is a single layer of parietal peritoneum that extends from the visceral peritoneum to anchor retroperitoneal organs, containing only lymphatic vessels and nerves that supply these organs and restricting their mobility.",
+                        "wrongAnswer_2": "The mesentery is a triple layer of visceral peritoneum that extends from the parietal peritoneum to enclose and suspend intraperitoneal organs, containing only blood vessels and nerves that drain these organs and restricting their mobility.",
+                        "wrongAnswer_3": "The mesentery is a double layer of serous membrane that extends from the visceral peritoneum to anchor retroperitoneal organs, containing blood vessels, lymphatic vessels, and nerves that drain these organs and facilitating their mobility.",
+                        "wrongAnswer_4": "The mesentery is a single layer of visceral peritoneum that extends from the parietal peritoneum to enclose and suspend intraperitoneal organs, containing blood vessels, lymphatic vessels, and nerves that supply these organs and restricting their mobility."
+                    },
+                    {
+                        "question": "Identify the primary distinction between intraperitoneal and retroperitoneal organs based on their peritoneal covering and location within the abdominal cavity.",
+                        "goodAnswer": "Intraperitoneal organs are almost entirely enveloped by visceral peritoneum and are suspended within the peritoneal cavity by mesenteries, whereas retroperitoneal organs lie primarily behind the parietal peritoneum, only partially covered by peritoneum on their anterior surface and lacking a mesentery.",
+                        "wrongAnswer_1": "Intraperitoneal organs lie primarily behind the parietal peritoneum, only partially covered by peritoneum on their anterior surface and lacking a mesentery, whereas retroperitoneal organs are almost entirely enveloped by visceral peritoneum and are suspended within the peritoneal cavity by mesenteries.",
+                        "wrongAnswer_2": "Intraperitoneal organs are completely devoid of peritoneal covering and are located outside the peritoneal cavity, attached directly to the abdominal wall, whereas retroperitoneal organs are entirely enveloped by parietal peritoneum and are suspended within the peritoneal cavity by mesenteries.",
+                        "wrongAnswer_3": "Intraperitoneal organs are partially covered by parietal peritoneum on their posterior surface and are fixed to the posterior abdominal wall, whereas retroperitoneal organs are entirely enveloped by visceral peritoneum and are freely mobile within the peritoneal cavity.",
+                        "wrongAnswer_4": "Intraperitoneal organs are almost entirely enveloped by parietal peritoneum and are suspended within the retroperitoneal space by mesenteries, whereas retroperitoneal organs lie primarily within the peritoneal cavity, only partially covered by peritoneum on their anterior surface and possessing a mesentery."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

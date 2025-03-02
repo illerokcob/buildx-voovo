@@ -1,0 +1,220 @@
+{
+    "mainTopic": {
+        "title": "Trophoblastic neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Types of trophoblast neoplasia",
+                "quizzes": [
+                    {
+                        "question": "Which of the following options accurately categorizes the spectrum of gestational trophoblastic diseases (GTD) into benign and malignant classifications, highlighting the clinically relevant distinction for management and prognosis?",
+                        "goodAnswer": "Gestational trophoblastic diseases are classified into benign forms, including hydatidiform moles (complete and partial), and malignant forms encompassing invasive mole, gestational choriocarcinoma, placental site trophoblastic tumor (PSTT), and epithelioid trophoblastic tumor (ETT).",
+                        "wrongAnswer_1": "Gestational trophoblastic diseases are classified into benign forms, including hydatidiform moles (complete and partial) and placental site trophoblastic tumor (PSTT), and malignant forms encompassing invasive mole and gestational choriocarcinoma.",
+                        "wrongAnswer_2": "Gestational trophoblastic diseases are classified into benign forms, solely represented by partial hydatidiform moles, and malignant forms encompassing complete hydatidiform moles, invasive mole, gestational choriocarcinoma, PSTT, and ETT.",
+                        "wrongAnswer_3": "Gestational trophoblastic diseases are classified into benign forms, exclusively including complete hydatidiform moles, and malignant forms encompassing partial hydatidiform moles, invasive mole, gestational choriocarcinoma, PSTT, and ETT.",
+                        "wrongAnswer_4": "Gestational trophoblastic diseases are classified into benign forms, including invasive mole and hydatidiform moles (complete and partial), and malignant forms encompassing gestational choriocarcinoma, PSTT and ETT."
+                    },
+                    {
+                        "question": "In the context of gestational trophoblastic neoplasia (GTN), identify the subtype that is considered non-metastatic but locally invasive, typically following a molar pregnancy and penetrating the myometrium, yet lacking distant spread.",
+                        "goodAnswer": "Invasive mole is a form of GTN characterized by local invasion into the myometrium, often succeeding a hydatidiform mole, and is defined by its non-metastatic nature, confined to the uterus without distant dissemination.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) is characterized by local invasion into the myometrium, often succeeding a hydatidiform mole, and is defined by its non-metastatic nature, confined to the uterus without distant dissemination.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma is characterized by local invasion into the myometrium, often succeeding a hydatidiform mole, and is defined by its non-metastatic nature, confined to the uterus without distant dissemination.",
+                        "wrongAnswer_3": "Epithelioid trophoblastic tumor (ETT) is a form of GTN characterized by local invasion into the myometrium, often succeeding a hydatidiform mole, and is defined by its non-metastatic nature, confined to the uterus without distant dissemination.",
+                        "wrongAnswer_4": "Complete hydatidiform mole is a form of GTN characterized by local invasion into the myometrium, often succeeding a hydatidiform mole, and is defined by its non-metastatic nature, confined to the uterus without distant dissemination."
+                    },
+                    {
+                        "question": "Which of the following gestational trophoblastic neoplasms is distinctively derived from intermediate trophoblast and is characterized by low serum hCG levels relative to tumor bulk and a propensity for late metastasis, often years after the antecedent pregnancy?",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) arises from intermediate trophoblast, exhibits characteristically low serum hCG levels compared to tumor size, and demonstrates a notable risk for late metastases, sometimes occurring years after the preceding gestation.",
+                        "wrongAnswer_1": "Gestational choriocarcinoma arises from intermediate trophoblast, exhibits characteristically low serum hCG levels compared to tumor size, and demonstrates a notable risk for late metastases, sometimes occurring years after the preceding gestation.",
+                        "wrongAnswer_2": "Invasive mole arises from intermediate trophoblast, exhibits characteristically low serum hCG levels compared to tumor size, and demonstrates a notable risk for late metastases, sometimes occurring years after the preceding gestation.",
+                        "wrongAnswer_3": "Epithelioid trophoblastic tumor (ETT) arises from intermediate trophoblast, exhibits characteristically low serum hCG levels compared to tumor size, and demonstrates a notable risk for late metastases, sometimes occurring years after the preceding gestation.",
+                        "wrongAnswer_4": "Complete hydatidiform mole arises from intermediate trophoblast, exhibits characteristically low serum hCG levels compared to tumor size, and demonstrates a notable risk for late metastases, sometimes occurring years after the preceding gestation."
+                    }
+                ]
+            },
+            {
+                "title": "Partial Hydatidiform Mole",
+                "quizzes": [
+                    {
+                        "question": "Describe the typical karyotype and genetic origin observed in partial hydatidiform moles, emphasizing the parental contributions to the abnormal genetic content.",
+                        "goodAnswer": "Partial hydatidiform moles are typically triploid, most commonly 69,XXY, arising from fertilization of a normal ovum by two sperm, or by a diploid sperm, resulting in an extra set of paternal chromosomes alongside the maternal set.",
+                        "wrongAnswer_1": "Partial hydatidiform moles are typically diploid, most commonly 46,XX, arising from fertilization of an empty ovum by a single sperm which duplicates its chromosomes, resulting in only paternal chromosomes.",
+                        "wrongAnswer_2": "Partial hydatidiform moles are typically tetraploid, most commonly 92,XXXY, arising from fertilization of a normal ovum by three sperm, or by a triploid sperm, resulting in two extra sets of paternal chromosomes alongside the maternal set.",
+                        "wrongAnswer_3": "Partial hydatidiform moles are typically haploid, most commonly 23,X, arising from fertilization of an empty ovum by a single sperm which fails to duplicate its chromosomes, resulting in only maternal chromosomes.",
+                        "wrongAnswer_4": "Partial hydatidiform moles are typically aneuploid, with variable karyotypes, arising from fertilization of a normal ovum by a single sperm followed by abnormal chromosome segregation during early embryonic divisions."
+                    },
+                    {
+                        "question": "Identify the characteristic histopathological features of a partial hydatidiform mole that differentiate it from other forms of gestational trophoblastic disease, particularly focusing on the villous morphology and trophoblastic proliferation.",
+                        "goodAnswer": "Partial hydatidiform moles are characterized histologically by the presence of some normal villi alongside hydropic villi, focal and mild trophoblastic proliferation, and often contain fetal parts or fetal red blood cells within the villous stroma.",
+                        "wrongAnswer_1": "Partial hydatidiform moles are characterized histologically by exclusively hydropic villi without normal villi, circumferential and marked trophoblastic proliferation, and consistently lack fetal parts or fetal red blood cells within the villous stroma.",
+                        "wrongAnswer_2": "Partial hydatidiform moles are characterized histologically by the presence of some normal villi alongside fibrotic villi, absent or minimal trophoblastic proliferation, and always contain fetal parts or fetal red blood cells within the villous stroma.",
+                        "wrongAnswer_3": "Partial hydatidiform moles are characterized histologically by exclusively normal villi without hydropic villi, extensive and atypical trophoblastic proliferation, and never contain fetal parts or fetal red blood cells within the villous stroma.",
+                        "wrongAnswer_4": "Partial hydatidiform moles are characterized histologically by a mixture of fibrotic and hydropic villi, moderate and diffuse trophoblastic proliferation, and may contain fetal parts or fetal red blood cells within the villous stroma."
+                    },
+                    {
+                        "question": "What is the typical clinical presentation of a partial hydatidiform mole, and how does it generally differ from the presentation of a complete hydatidiform mole in terms of symptoms and hCG levels?",
+                        "goodAnswer": "Partial hydatidiform moles typically present clinically with features of a missed abortion or incomplete abortion, often with lower hCG levels compared to complete moles, and may be diagnosed after a dilation and curettage for presumed miscarriage.",
+                        "wrongAnswer_1": "Partial hydatidiform moles typically present clinically with hyperemesis gravidarum and theca lutein cysts, often with significantly elevated hCG levels comparable to complete moles, and are usually diagnosed pre-operatively based on ultrasound findings.",
+                        "wrongAnswer_2": "Partial hydatidiform moles typically present clinically with features of an ectopic pregnancy and acute abdominal pain, often with extremely low hCG levels compared to complete moles, and are diagnosed through laparoscopic examination.",
+                        "wrongAnswer_3": "Partial hydatidiform moles typically present clinically with signs of pre-eclampsia and elevated blood pressure, often with moderately elevated hCG levels, and are diagnosed through routine prenatal screening at the first trimester.",
+                        "wrongAnswer_4": "Partial hydatidiform moles typically present clinically with features of a normal viable pregnancy, often with normal physiological hCG levels, and are incidentally diagnosed during delivery or postpartum examinations."
+                    }
+                ]
+            },
+            {
+                "title": "Complete hydatidiform mole",
+                "quizzes": [
+                    {
+                        "question": "Describe the genetic constitution of a complete hydatidiform mole, specifically detailing the origin of its chromosomes and the typical karyotype.",
+                        "goodAnswer": "Complete hydatidiform moles are characterized by a diploid karyotype, most frequently 46,XX, arising entirely from paternal chromosomes due to fertilization of an empty ovum by a single sperm which duplicates its chromosomes or by two sperm.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are characterized by a triploid karyotype, most frequently 69,XXY, arising from a mix of maternal and paternal chromosomes due to fertilization of a normal ovum by two sperm.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are characterized by a haploid karyotype, most frequently 23,X, arising from only maternal chromosomes due to parthenogenic activation of an ovum without sperm fertilization.",
+                        "wrongAnswer_3": "Complete hydatidiform moles are characterized by a tetraploid karyotype, most frequently 92,XXXX, arising from chromosomal duplication errors in a normal zygote with both maternal and paternal chromosomes.",
+                        "wrongAnswer_4": "Complete hydatidiform moles are characterized by an aneuploid karyotype, with variable chromosomal numbers, arising from fertilization of a normal ovum by a single sperm followed by chaotic chromosomal segregation."
+                    },
+                    {
+                        "question": "Identify the key histopathological features that are consistently observed in complete hydatidiform moles, distinguishing them from partial moles and normal placental tissue, focusing on villous morphology and trophoblastic proliferation.",
+                        "goodAnswer": "Complete hydatidiform moles are histologically characterized by diffuse hydropic swelling of chorionic villi, absence of fetal vessels and fetal red blood cells, and circumferential trophoblastic hyperplasia, involving both cytotrophoblast and syncytiotrophoblast.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are histologically characterized by focal hydropic swelling of chorionic villi, presence of fetal vessels and fetal red blood cells, and focal trophoblastic hyperplasia, predominantly involving cytotrophoblast only.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are histologically characterized by fibrotic and atrophic chorionic villi, absence of fetal vessels and fetal red blood cells, and minimal trophoblastic proliferation, primarily affecting syncytiotrophoblast only.",
+                        "wrongAnswer_3": "Complete hydatidiform moles are histologically characterized by normal chorionic villi with mild edema, presence of fetal vessels and fetal red blood cells, and circumferential trophoblastic hyperplasia, predominantly involving syncytiotrophoblast only.",
+                        "wrongAnswer_4": "Complete hydatidiform moles are histologically characterized by diffuse hydropic swelling of chorionic villi, presence of fetal vessels but absence of fetal red blood cells, and focal trophoblastic hyperplasia, involving both cytotrophoblast and syncytiotrophoblast."
+                    },
+                    {
+                        "question": "What are the typical clinical manifestations of a complete hydatidiform mole, and how do serum hCG levels and ultrasound findings aid in its diagnosis and differentiation from other gestational conditions?",
+                        "goodAnswer": "Complete hydatidiform moles typically present with vaginal bleeding in early pregnancy, excessively elevated serum hCG levels, and ultrasound showing a 'snowstorm' or 'cluster of grapes' appearance without a fetus; theca lutein cysts are also commonly present in ovaries.",
+                        "wrongAnswer_1": "Complete hydatidiform moles typically present with abdominal pain and amenorrhea, mildly elevated serum hCG levels similar to normal pregnancy, and ultrasound showing a viable fetus with normal amniotic fluid volume; theca lutein cysts are rarely observed.",
+                        "wrongAnswer_2": "Complete hydatidiform moles typically present with hyperemesis gravidarum and hypertension, normal or slightly elevated serum hCG levels, and ultrasound showing a single gestational sac with a fetal pole and yolk sac; theca lutein cysts are frequently absent.",
+                        "wrongAnswer_3": "Complete hydatidiform moles typically present with features of preterm labor and premature rupture of membranes, moderately elevated serum hCG levels, and ultrasound showing multiple gestational sacs with fetal demise; theca lutein cysts are consistently present and large.",
+                        "wrongAnswer_4": "Complete hydatidiform moles typically present asymptomatically in early pregnancy, very low serum hCG levels similar to non-pregnant state, and ultrasound showing a normal intrauterine pregnancy with a single fetus; theca lutein cysts are commonly found bilaterally."
+                    }
+                ]
+            },
+            {
+                "title": "Molar gestations",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between complete and partial hydatidiform moles based on their genetic origin, focusing on the parental contribution and ploidy level in each type of molar gestation.",
+                        "goodAnswer": "Complete moles are typically diploid and androgenetic, derived entirely from paternal chromosomes, usually 46,XX, whereas partial moles are typically triploid, resulting from fertilization of a normal ovum by two sperm, leading to both maternal and paternal genetic contribution.",
+                        "wrongAnswer_1": "Complete moles are typically triploid and androgenetic, derived entirely from paternal chromosomes, usually 69,XXY, whereas partial moles are typically diploid, resulting from fertilization of an empty ovum by a single sperm, leading to exclusively paternal genetic contribution.",
+                        "wrongAnswer_2": "Complete moles are typically haploid and gynogenetic, derived entirely from maternal chromosomes, usually 23,X, whereas partial moles are typically tetraploid, resulting from fertilization of a normal ovum by three sperm, leading to a predominantly maternal genetic contribution.",
+                        "wrongAnswer_3": "Complete moles are typically tetraploid and biparental, derived from both maternal and paternal chromosomes, usually 92,XXXX, whereas partial moles are typically haploid, resulting from parthenogenic activation of an ovum, leading to exclusively maternal genetic contribution.",
+                        "wrongAnswer_4": "Complete moles are typically diploid and biparental, derived from both maternal and paternal chromosomes, usually 46,XY, whereas partial moles are typically triploid, resulting from fertilization of an empty ovum by a single sperm, leading to exclusively paternal genetic contribution."
+                    },
+                    {
+                        "question": "Compare and contrast the histopathological characteristics of complete and partial hydatidiform moles, highlighting the differences in villous morphology, trophoblastic proliferation, and presence of fetal elements.",
+                        "goodAnswer": "Complete moles show diffuse hydropic villi, circumferential trophoblastic hyperplasia, and absence of fetal parts, while partial moles exhibit some normal villi alongside hydropic villi, focal trophoblastic proliferation, and may contain fetal parts or fetal red blood cells.",
+                        "wrongAnswer_1": "Complete moles show focal hydropic villi, focal trophoblastic hyperplasia, and presence of fetal parts, while partial moles exhibit exclusively hydropic villi, circumferential trophoblastic hyperplasia, and consistently lack fetal parts or fetal red blood cells.",
+                        "wrongAnswer_2": "Complete moles show fibrotic and atrophic villi, minimal trophoblastic proliferation, and absence of fetal parts, while partial moles exhibit normal villi with mild edema, extensive trophoblastic proliferation, and always contain fetal parts or fetal red blood cells.",
+                        "wrongAnswer_3": "Complete moles show normal chorionic villi with mild edema, circumferential trophoblastic hyperplasia, and presence of fetal parts, while partial moles exhibit fibrotic and hydropic villi, minimal trophoblastic proliferation, and never contain fetal parts or fetal red blood cells.",
+                        "wrongAnswer_4": "Complete moles show diffuse hydropic villi, minimal trophoblastic proliferation, and presence of fetal parts, while partial moles exhibit some normal villi alongside hydropic villi, circumferential trophoblastic proliferation, and may lack fetal parts or fetal red blood cells."
+                    },
+                    {
+                        "question": "Describe the typical clinical presentations and diagnostic approaches for both complete and partial hydatidiform moles, emphasizing the differences in hCG levels, ultrasound findings, and risk of persistent gestational trophoblastic neoplasia (GTN).",
+                        "goodAnswer": "Complete moles typically present with higher hCG levels, 'snowstorm' ultrasound appearance, and higher GTN risk, while partial moles present with lower hCG, features of missed abortion on ultrasound, and lower GTN risk, often diagnosed post-D&C.",
+                        "wrongAnswer_1": "Complete moles typically present with lower hCG levels, normal pregnancy ultrasound appearance, and lower GTN risk, while partial moles present with higher hCG, 'snowstorm' ultrasound, and higher GTN risk, usually diagnosed pre-operatively.",
+                        "wrongAnswer_2": "Complete moles typically present with normal hCG levels, 'fetal demise' ultrasound appearance, and moderate GTN risk, while partial moles present with slightly elevated hCG, 'molar tissue' ultrasound, and moderate GTN risk, diagnosed antenatally.",
+                        "wrongAnswer_3": "Complete moles typically present with extremely high hCG levels, 'normal placenta' ultrasound appearance, and no GTN risk, while partial moles present with very low hCG, 'ectopic pregnancy' ultrasound, and significant GTN risk, diagnosed post-hysterectomy.",
+                        "wrongAnswer_4": "Complete moles typically present with moderately elevated hCG levels, 'theca lutein cysts only' ultrasound appearance, and minimal GTN risk, while partial moles present with normal hCG, 'normal pregnancy' ultrasound, and minimal GTN risk, diagnosed incidentally at delivery."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma",
+                "quizzes": [
+                    {
+                        "question": "Define gestational choriocarcinoma and describe its typical cellular composition and differentiation patterns, contrasting it with other forms of gestational trophoblastic neoplasia.",
+                        "goodAnswer": "Gestational choriocarcinoma is a malignant epithelial neoplasm of trophoblastic cells exhibiting biphasic pattern of syncytiotrophoblasts and cytotrophoblasts without identifiable villi, distinguished by its aggressive nature and potential for widespread metastasis.",
+                        "wrongAnswer_1": "Gestational choriocarcinoma is a benign mesenchymal neoplasm of trophoblastic cells exhibiting a monophasic pattern of cytotrophoblasts only with identifiable villi, distinguished by its indolent nature and localized uterine growth.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma is a malignant mesenchymal neoplasm of trophoblastic cells exhibiting a triphasic pattern of syncytiotrophoblasts, cytotrophoblasts, and intermediate trophoblasts with identifiable villi, distinguished by its moderate aggressiveness and potential for regional metastasis.",
+                        "wrongAnswer_3": "Gestational choriocarcinoma is a benign epithelial neoplasm of trophoblastic cells exhibiting a monophasic pattern of syncytiotrophoblasts only without identifiable villi, distinguished by its non-invasive nature and confinement to the endometrium.",
+                        "wrongAnswer_4": "Gestational choriocarcinoma is a malignant epithelial neoplasm of decidual cells exhibiting a biphasic pattern of syncytiotrophoblasts and intermediate trophoblasts without identifiable villi, distinguished by its aggressive nature and propensity for lymphatic invasion."
+                    },
+                    {
+                        "question": "What are the common clinical presentations of gestational choriocarcinoma, and how does its post-gestational occurrence influence its diagnosis and management, particularly in relation to antecedent pregnancies?",
+                        "goodAnswer": "Gestational choriocarcinoma typically presents with irregular vaginal bleeding, elevated hCG levels following a molar pregnancy, normal pregnancy, abortion, or ectopic pregnancy; it can metastasize early and widely, affecting lungs, vagina, brain, and liver.",
+                        "wrongAnswer_1": "Gestational choriocarcinoma typically presents with amenorrhea and abdominal pain, normal hCG levels following a normal pregnancy or delivery, it rarely metastasizes, and when it does, it primarily affects ovaries and fallopian tubes.",
+                        "wrongAnswer_2": "Gestational choriocarcinoma typically presents with hyperemesis gravidarum and hypertension, mildly elevated hCG levels following a partial hydatidiform mole or invasive mole, it has a late metastatic potential, primarily spreading to bone and lymph nodes.",
+                        "wrongAnswer_3": "Gestational choriocarcinoma typically presents with features of pre-eclampsia and proteinuria, undetectable hCG levels following a placental site trophoblastic tumor or epithelioid trophoblastic tumor, it is non-metastatic and always confined to the uterus.",
+                        "wrongAnswer_4": "Gestational choriocarcinoma typically presents asymptomatically with normal vaginal bleeding and physiologic hCG levels following a complete hydatidiform mole or choriocarcinoma in situ; it metastasizes only locally and is readily treated with surgery alone."
+                    },
+                    {
+                        "question": "Describe the prognostic factors and staging system commonly used for gestational choriocarcinoma, emphasizing the importance of risk assessment in guiding treatment strategies and predicting patient outcomes.",
+                        "goodAnswer": "Prognosis of gestational choriocarcinoma is assessed using the FIGO staging system and WHO risk scoring, incorporating factors like hCG level, duration from antecedent pregnancy, metastases, and prior chemotherapy to categorize patients into low and high-risk groups for tailored treatment.",
+                        "wrongAnswer_1": "Prognosis of gestational choriocarcinoma is assessed using the TNM staging system and Gleason scoring, incorporating factors like tumor size, nodal involvement, distant metastases, and tumor grade to categorize patients into early and advanced stages for uniform treatment.",
+                        "wrongAnswer_2": "Prognosis of gestational choriocarcinoma is assessed using the AJCC staging system and Nottingham Prognostic Index, incorporating factors like patient age, parity, ethnicity, and socioeconomic status to categorize patients into favorable and unfavorable prognosis for palliative care.",
+                        "wrongAnswer_3": "Prognosis of gestational choriocarcinoma is assessed using the FIGO staging system and Dukes' staging, incorporating factors like tumor location, myometrial invasion, lymphatic spread, and vascular invasion to categorize patients into localized and disseminated diseases for surgical resection.",
+                        "wrongAnswer_4": "Prognosis of gestational choriocarcinoma is assessed using the TNM staging system and FIGO risk score, incorporating factors like gestational age at diagnosis, fetal karyotype, placental weight, and number of prior pregnancies to categorize patients into low, intermediate, and high-risk groups for observation only."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma in situ",
+                "quizzes": [
+                    {
+                        "question": "Define choriocarcinoma in situ and describe its diagnostic criteria, differentiating it from invasive choriocarcinoma and other forms of gestational trophoblastic disease based on histological features and clinical behavior.",
+                        "goodAnswer": "Choriocarcinoma in situ refers to trophoblastic neoplasia confined to the placental site without myometrial invasion, diagnosed histologically by abnormal trophoblastic proliferation within the endometrium in the absence of invasive growth, representing a precursor lesion to invasive choriocarcinoma.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ refers to trophoblastic neoplasia with extensive myometrial invasion and distant metastases, diagnosed clinically by elevated hCG levels and imaging evidence of widespread disease, representing an advanced stage of invasive choriocarcinoma.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ refers to benign trophoblastic proliferation within hydatidiform moles, diagnosed histologically by mild trophoblastic hyperplasia confined to hydropic villi, representing a non-neoplastic condition without malignant potential.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ refers to placental site trophoblastic tumor confined to the placental bed, diagnosed immunohistochemically by specific markers of intermediate trophoblast in the absence of syncytiotrophoblasts or cytotrophoblasts, representing a variant of PSTT.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ refers to epithelioid trophoblastic tumor confined to the endometrial polyps, diagnosed cytologically by atypical epithelioid cells with abundant cytoplasm and pleomorphic nuclei, representing a distinct subtype of ETT."
+                    },
+                    {
+                        "question": "What is the clinical significance of choriocarcinoma in situ, and how is it typically managed in comparison to invasive choriocarcinoma, considering the risk of progression and treatment modalities?",
+                        "goodAnswer": "Choriocarcinoma in situ is considered a pre-invasive lesion with potential to progress to invasive choriocarcinoma; management may include local excision or uterine curettage, with close monitoring of hCG levels to detect and treat any progression to invasive disease.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ is considered a benign condition with no risk of progression to invasive choriocarcinoma; management typically involves expectant management with routine follow-up and no active intervention.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ is considered an advanced metastatic disease requiring aggressive chemotherapy and radical hysterectomy for definitive treatment and improved survival outcomes.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ is considered a variant of placental site trophoblastic tumor requiring surgical resection and adjuvant radiation therapy for local control and prevention of late metastasis.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ is considered a form of epithelioid trophoblastic tumor requiring targeted therapy and immunotherapy for systemic treatment and long-term remission."
+                    },
+                    {
+                        "question": "Describe the histopathological features that are characteristic of choriocarcinoma in situ, emphasizing the key criteria used for its diagnosis and differentiation from normal placental tissue and invasive choriocarcinoma.",
+                        "goodAnswer": "Choriocarcinoma in situ histologically demonstrates abnormal proliferation of cytotrophoblasts and syncytiotrophoblasts confined to the endometrium, lacking villous structures and myometrial invasion, while exhibiting nuclear atypia and increased mitotic activity compared to normal placental tissue.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ histologically demonstrates normal proliferation of cytotrophoblasts and syncytiotrophoblasts with well-formed villous structures and extensive myometrial invasion, exhibiting minimal nuclear atypia and low mitotic activity similar to normal placental tissue.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ histologically demonstrates benign proliferation of intermediate trophoblasts with prominent placental site reaction and decidualization, lacking syncytiotrophoblasts and cytotrophoblasts, while exhibiting no nuclear atypia and absent mitotic activity.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ histologically demonstrates malignant proliferation of epithelioid trophoblastic cells with abundant eosinophilic cytoplasm and pleomorphic nuclei, forming solid nests and cords without syncytiotrophoblasts or cytotrophoblasts, invading deeply into the myometrium.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ histologically demonstrates focal proliferation of cytotrophoblasts only within hydropic villi, confined to the villous stroma without syncytiotrophoblasts or myometrial invasion, exhibiting minimal nuclear atypia and occasional mitotic figures."
+                    }
+                ]
+            },
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "Define placental site trophoblastic tumor (PSTT) and describe its cellular origin and differentiation, contrasting it with choriocarcinoma and other gestational trophoblastic neoplasms.",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) is a rare form of gestational trophoblastic neoplasia originating from intermediate trophoblast of the placental bed, characterized by monomorphic proliferation of intermediate trophoblasts with minimal syncytiotrophoblasts, distinguishing it from choriocarcinoma\u2019s biphasic pattern.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) is a common form of gestational trophoblastic neoplasia originating from cytotrophoblasts of the chorionic villi, characterized by polymorphic proliferation of cytotrophoblasts and syncytiotrophoblasts with identifiable villi, resembling hydatidiform mole.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor (PSTT) is a rare form of non-gestational trophoblastic neoplasia originating from germ cells of the ovary, characterized by biphasic proliferation of syncytiotrophoblasts and cytotrophoblasts with teratomatous elements, mimicking ovarian choriocarcinoma.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor (PSTT) is a common form of gestational trophoblastic neoplasia originating from syncytiotrophoblasts of the placental villi, characterized by monomorphic proliferation of syncytiotrophoblasts only without cytotrophoblasts or intermediate trophoblasts, resembling gestational choriocarcinoma.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor (PSTT) is a rare form of metastatic trophoblastic neoplasia originating from distal sites of implantation, characterized by polymorphic proliferation of all three types of trophoblasts\u2014cytotrophoblasts, syncytiotrophoblasts, and intermediate trophoblasts\u2014resembling metastatic choriocarcinoma."
+                    },
+                    {
+                        "question": "What are the typical clinical features of placental site trophoblastic tumor (PSTT), and how do serum hCG levels and patient history aid in its diagnosis and differentiation from other post-gestational uterine bleeding causes?",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) often presents with irregular vaginal bleeding or amenorrhea following a normal pregnancy, abortion, or molar pregnancy, with characteristically low serum hCG levels disproportionate to tumor size, typically months to years after the antecedent gestation.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) often presents with acute pelvic pain and fever following a recent delivery or cesarean section, with markedly elevated serum hCG levels similar to choriocarcinoma, typically days to weeks after the immediate postpartum period.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor (PSTT) often presents with hyperemesis gravidarum and pre-eclampsia during the first trimester of a new pregnancy, with moderately elevated serum hCG levels resembling hydatidiform mole, typically concurrent with a viable intrauterine pregnancy.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor (PSTT) often presents asymptomatically with normal menstrual cycles and baseline serum hCG levels, incidentally diagnosed during routine pelvic examinations, typically years prior to any antecedent pregnancy.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor (PSTT) often presents with heavy vaginal bleeding and uterine enlargement during the second trimester of a new pregnancy, with significantly suppressed serum hCG levels lower than normal pregnancy, typically during an ongoing viable intrauterine pregnancy."
+                    },
+                    {
+                        "question": "Describe the histological characteristics of placental site trophoblastic tumor (PSTT), emphasizing the key features that differentiate it from other trophoblastic lesions and benign placental site reactions.",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) is characterized histologically by a monomorphic proliferation of intermediate trophoblasts infiltrating the myometrium, with minimal cytologic atypia, low mitotic activity, and sparse syncytiotrophoblasts; fibrinoid material and extensive infiltration of myometrial vessels are also typical features.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) is characterized histologically by a biphasic proliferation of cytotrophoblasts and syncytiotrophoblasts forming villous structures, with marked cytologic atypia, high mitotic activity, and abundant intermediate trophoblasts; extensive necrosis and hemorrhage are also prominent features.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor (PSTT) is characterized histologically by a benign proliferation of decidual cells and extravillous trophoblasts confined to the endometrium, with no cytologic atypia, absent mitotic activity, and prominent stromal edema; glandular endometrial hyperplasia is also frequently observed.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor (PSTT) is characterized histologically by a polymorphic proliferation of all three types of trophoblasts\u2014cytotrophoblasts, syncytiotrophoblasts, and intermediate trophoblasts\u2014forming solid nests, with moderate cytologic atypia, intermediate mitotic activity, and scant fibrinoid material; lymphatic invasion is also consistently present.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor (PSTT) is characterized histologically by a monomorphic proliferation of epithelioid trophoblastic cells forming cords and nests within the endometrial stroma, with significant cytologic atypia, very high mitotic activity, and no syncytiotrophoblasts; extensive vascular invasion and distant metastases are also always present."
+                    },
+                    {
+                        "question": "What are the primary treatment modalities for placental site trophoblastic tumor (PSTT), and how does the management strategy differ from that of choriocarcinoma, particularly in relation to chemotherapy sensitivity and surgical approach?",
+                        "goodAnswer": "Hysterectomy is the primary treatment for PSTT, given its relative chemoresistance; chemotherapy is reserved for metastatic disease or recurrent cases, unlike choriocarcinoma which is highly chemosensitive and often treated primarily with chemotherapy, with surgery playing a secondary role.",
+                        "wrongAnswer_1": "Chemotherapy is the primary treatment for PSTT, given its high chemosensitivity; hysterectomy is reserved for cases refractory to chemotherapy or with localized disease, similar to choriocarcinoma which is also primarily treated with chemotherapy and surgery as a salvage option.",
+                        "wrongAnswer_2": "Radiation therapy is the primary treatment for PSTT, given its radiosensitivity; hysterectomy is reserved for cases with distant metastases or radiation therapy failure, unlike choriocarcinoma which is radioresistant and treated primarily with surgery and chemotherapy.",
+                        "wrongAnswer_3": "Expectant management with close observation is the primary treatment for PSTT, given its benign nature and spontaneous regression; chemotherapy and hysterectomy are contraindicated due to risk of complications, similar to choriocarcinoma which is also managed conservatively without active intervention.",
+                        "wrongAnswer_4": "Hysterectomy and adjuvant radiation therapy are the primary treatments for PSTT, given its local invasiveness and potential for regional recurrence; chemotherapy is reserved for cases with distant metastases, unlike choriocarcinoma which is treated primarily with surgery and radiation therapy for localized disease."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

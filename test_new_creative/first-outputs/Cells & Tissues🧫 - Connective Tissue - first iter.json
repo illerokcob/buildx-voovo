@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Connective Tissue",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "General properties of connective tissues",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the primary characteristic that distinguishes connective tissue from other tissue types, such as epithelium, muscle, or nervous tissue?",
+                        "goodAnswer": "Connective tissue is characterized by an abundant extracellular matrix composed of ground substance and fibers, which primarily determines its functional properties, contrasting with epithelium's cellular density and muscle/nervous tissue's specialized cellular functions.",
+                        "wrongAnswer_1": "Connective tissue is uniquely defined by its high cellular density and minimal extracellular matrix, where cells directly mediate tissue function, differing from the matrix-rich composition of epithelial and nervous tissues.",
+                        "wrongAnswer_2": "Connective tissue is identified by a complete absence of an extracellular matrix, relying solely on cell-to-cell junctions for structural integrity and functional coordination, unlike muscle tissue that depends on matrix for force transmission.",
+                        "wrongAnswer_3": "Connective tissue is primarily characterized by its exclusive avascularity and complete lack of innervation, relying entirely on diffusion for nutrient supply and lacking sensory or motor functions, unlike epithelial tissues which are highly vascularized.",
+                        "wrongAnswer_4": "Connective tissue is defined by its singular function in contraction and force generation, similar to muscle tissue, and is distinguished from other tissues by its abundant contractile proteins within a dense extracellular matrix."
+                    },
+                    {
+                        "question": "What is the primary role of the extracellular matrix (ECM) in connective tissues, in contrast to its function in epithelial or muscle tissues?",
+                        "goodAnswer": "In connective tissues, the ECM predominantly provides structural support, tensile strength, elasticity, and mediates metabolic exchange, whereas in epithelial tissues, the ECM mainly facilitates cell adhesion and barrier function, and in muscle tissues, it primarily organizes fibers for contraction.",
+                        "wrongAnswer_1": "The ECM in connective tissues is mainly responsible for rapid signal transduction and electrical impulse propagation, similar to its role in nervous tissue, while in epithelial tissues, it provides structural rigidity, and in muscle, it is primarily involved in nutrient transport.",
+                        "wrongAnswer_2": "Across all tissue types, including connective, epithelial, and muscle, the ECM's principal function is uniformly to regulate cell proliferation and differentiation through direct cell-matrix interactions, without tissue-specific functional variations.",
+                        "wrongAnswer_3": "The primary role of the ECM in connective tissues is metabolic regulation through enzymatic activity, akin to its function in glandular epithelium, while in muscle tissue, it is involved in energy storage and in nervous tissue, it facilitates neurotransmitter synthesis.",
+                        "wrongAnswer_4": "In connective tissues, the ECM mainly functions as a barrier against pathogen invasion, similar to the basement membrane in epithelium, whereas in muscle tissues, it primarily facilitates intercellular communication and in nervous tissue, it insulates neurons."
+                    },
+                    {
+                        "question": "Considering the composition of connective tissues, what is the functional significance of the ground substance component in relation to the fibrous elements and cellular components?",
+                        "goodAnswer": "Ground substance, composed of glycosaminoglycans, proteoglycans, and glycoproteins, hydrates the ECM, allowing diffusion of nutrients and waste, and provides a medium for fiber and cell interaction, influencing tissue viscosity and resilience.",
+                        "wrongAnswer_1": "Ground substance primarily functions to provide tensile strength to connective tissues, directly competing with collagen fibers in load-bearing capacity, and restricts diffusion within the ECM to maintain tissue rigidity and prevent swelling.",
+                        "wrongAnswer_2": "Ground substance solely serves as an inert filler material within the ECM, having no active role in nutrient diffusion or cell interaction, and its composition is uniform across all types of connective tissues, maintaining consistent rigidity.",
+                        "wrongAnswer_3": "Ground substance mainly functions to anchor cells to the fibrous components of the ECM through strong covalent bonds, preventing cell migration and ensuring tissue stability, while simultaneously blocking diffusion of large molecules.",
+                        "wrongAnswer_4": "Ground substance's principal function is to actively transport oxygen and carbon dioxide throughout connective tissues, acting as a circulatory medium, and it contributes to the high tensile strength of the tissue, surpassing the role of fibrous components."
+                    }
+                ]
+            },
+            {
+                "title": "Fibers in Connective Tissue",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between the structural and functional roles of collagen fibers and elastic fibers within the connective tissue extracellular matrix.",
+                        "goodAnswer": "Collagen fibers primarily provide high tensile strength and structural support to resist pulling forces, while elastic fibers confer elasticity and recoil, allowing tissues to stretch and return to their original shape, both contributing to tissue integrity.",
+                        "wrongAnswer_1": "Collagen fibers are responsible for tissue elasticity and flexibility, enabling tissues to stretch extensively, whereas elastic fibers provide rigidity and resist stretching forces, both acting independently to maintain tissue shape.",
+                        "wrongAnswer_2": "Collagen fibers primarily function in cell signaling and intercellular communication within the ECM, while elastic fibers are responsible for nutrient diffusion and waste removal, both unrelated to the tissue's mechanical properties.",
+                        "wrongAnswer_3": "Both collagen and elastic fibers serve identical functions in connective tissue, providing equal contributions to tensile strength and elasticity, with their relative proportions varying based on tissue metabolic needs rather than mechanical stress.",
+                        "wrongAnswer_4": "Collagen fibers solely contribute to tissue volume and mass, acting as inert fillers within the ECM, while elastic fibers exclusively determine tissue stiffness and resistance to compression, both lacking dynamic mechanical roles."
+                    },
+                    {
+                        "question": "Reticular fibers, a subtype of collagen, are distinguished from other collagen fibers by which key characteristic in terms of composition, function, and location?",
+                        "goodAnswer": "Reticular fibers are composed of type III collagen, forming delicate networks that provide support for cells in hematopoietic and lymphoid tissues, and around capillaries and nerves, unlike the thick, rope-like type I collagen fibers in tendons and ligaments.",
+                        "wrongAnswer_1": "Reticular fibers are composed of type I collagen, similar to tendons, but are arranged in thick, parallel bundles to provide maximal tensile strength in cartilaginous tissues, contrasting with the elastic networks of ligaments.",
+                        "wrongAnswer_2": "Reticular fibers are made of elastin, forming extensive sheets that provide elasticity in blood vessel walls and skin, and are indistinguishable from other elastic fiber types in terms of function and location.",
+                        "wrongAnswer_3": "Reticular fibers are composed of type IV collagen, forming the structural framework of basement membranes in epithelial tissues, and are functionally and structurally identical to collagen fibers in bone matrix.",
+                        "wrongAnswer_4": "Reticular fibers are a unique type of fiber made of fibronectin, providing adhesive properties in the extracellular matrix of dense connective tissues like tendons, and are functionally interchangeable with collagen fibers for tensile strength."
+                    },
+                    {
+                        "question": "Compare and contrast the synthesis and degradation processes of collagen fibers versus elastic fibers in connective tissue homeostasis and remodeling.",
+                        "goodAnswer": "Collagen synthesis involves intracellular procollagen production, extracellular cleavage and self-assembly, while degradation is primarily through matrix metalloproteinases (MMPs); elastic fiber synthesis involves elastin and fibrillin deposition, and degradation is via elastases, with both processes dynamically regulated for tissue remodeling.",
+                        "wrongAnswer_1": "Both collagen and elastic fibers are synthesized extracellularly through spontaneous self-assembly without cellular involvement, and their degradation is exclusively mediated by macrophages, lacking enzymatic control in tissue homeostasis.",
+                        "wrongAnswer_2": "Collagen synthesis is a direct extracellular process requiring no intracellular precursors or enzymatic modifications, and degradation occurs via simple hydrolysis, while elastic fiber synthesis is intracellular and degradation involves lysosomal enzymes only.",
+                        "wrongAnswer_3": "Collagen synthesis is exclusively intracellular, involving ribosomes and endoplasmic reticulum, but degradation is negligible as collagen is metabolically inert; elastic fiber synthesis is extracellular and degradation is primarily through mechanical wear and tear.",
+                        "wrongAnswer_4": "Both collagen and elastic fiber synthesis rely on identical intracellular pathways and extracellular assembly mechanisms, and their degradation is uniformly regulated by the same set of proteases, with no distinct regulatory processes for each fiber type."
+                    }
+                ]
+            },
+            {
+                "title": "Non Collagen Components of the Extracellular Matrix",
+                "quizzes": [
+                    {
+                        "question": "Describe the role of proteoglycans within the extracellular matrix in modulating tissue hydration, diffusion, and cell signaling, and how they differ from structural proteins like collagen.",
+                        "goodAnswer": "Proteoglycans, composed of glycosaminoglycans (GAGs) attached to core proteins, are highly hydrophilic, attracting water to hydrate the ECM, regulating diffusion of molecules, and interacting with growth factors, unlike collagen's primary structural role in tensile strength.",
+                        "wrongAnswer_1": "Proteoglycans primarily provide tensile strength and structural rigidity to the ECM, similar to collagen, and have a minimal role in tissue hydration or cell signaling, mainly acting as inert fillers within the matrix.",
+                        "wrongAnswer_2": "Proteoglycans are hydrophobic molecules that repel water from the ECM, reducing tissue hydration and creating a dense matrix that restricts diffusion, and they solely function to anchor collagen fibers, lacking signaling functions.",
+                        "wrongAnswer_3": "Proteoglycans function as enzymes within the ECM, catalyzing the degradation of collagen and elastic fibers to facilitate tissue remodeling, and they have no role in hydration, diffusion, or cell signaling, acting purely enzymatically.",
+                        "wrongAnswer_4": "Proteoglycans are lipid-based molecules within the ECM, forming a hydrophobic barrier that prevents water loss from the tissue and blocks diffusion of water-soluble molecules, while primarily mediating electrical signal transmission between cells."
+                    },
+                    {
+                        "question": "Explain the function of hyaluronic acid (hyaluronan) in the extracellular matrix, contrasting its properties and roles with those of other glycosaminoglycans (GAGs) like chondroitin sulfate or heparin sulfate.",
+                        "goodAnswer": "Hyaluronic acid is a large, non-sulfated GAG that provides hydration, volume, and lubrication to the ECM, particularly in joints and skin, and it lacks a core protein, unlike sulfated GAGs like chondroitin sulfate which are smaller, sulfated, and attached to core proteins in proteoglycans, contributing to tissue rigidity and specific protein interactions.",
+                        "wrongAnswer_1": "Hyaluronic acid is a small, highly sulfated GAG that provides rigidity and compressive strength to cartilage, similar to chondroitin sulfate, and it is always covalently linked to core proteins forming proteoglycans in all connective tissues.",
+                        "wrongAnswer_2": "Hyaluronic acid is a lipid-based molecule that forms a hydrophobic barrier within the ECM, preventing water diffusion and providing electrical insulation in nervous tissue, functionally similar to myelin, not GAGs.",
+                        "wrongAnswer_3": "Hyaluronic acid and chondroitin sulfate are structurally and functionally identical GAGs, both sulfated and attached to core proteins, providing the same degree of hydration and structural support in all types of connective tissues without functional specialization.",
+                        "wrongAnswer_4": "Hyaluronic acid is a protein-based component of the ECM, acting as a structural scaffold for collagen and elastic fibers, and it is primarily responsible for tensile strength, unlike GAGs which mainly contribute to cell adhesion and signaling."
+                    },
+                    {
+                        "question": "How do adhesive glycoproteins, such as fibronectin and laminin, contribute to the organization and function of the extracellular matrix, and what distinguishes their roles from structural proteins and proteoglycans?",
+                        "goodAnswer": "Adhesive glycoproteins like fibronectin and laminin mediate cell-ECM adhesion and organization by binding to both ECM components (e.g., collagen, proteoglycans) and cell surface receptors (integrins), facilitating cell migration, differentiation, and tissue integrity, unlike structural proteins that primarily provide matrix framework, and proteoglycans that mainly regulate hydration and diffusion.",
+                        "wrongAnswer_1": "Adhesive glycoproteins primarily provide tensile strength to the ECM, acting as structural proteins similar to collagen, and have a minimal role in cell adhesion or signaling, mainly contributing to the matrix's bulk and rigidity.",
+                        "wrongAnswer_2": "Adhesive glycoproteins are enzymes within the ECM, catalyzing the synthesis of collagen and elastic fibers, and have no role in cell adhesion or matrix organization, acting purely as metabolic regulators of matrix components.",
+                        "wrongAnswer_3": "Adhesive glycoproteins function solely to regulate ECM hydration and diffusion properties, similar to proteoglycans, and are not involved in cell adhesion or ECM organization, mainly influencing the matrix's physical properties.",
+                        "wrongAnswer_4": "Adhesive glycoproteins are lipid-based molecules that form hydrophobic barriers within the ECM, preventing cell migration and restricting diffusion of water-soluble molecules, primarily acting as insulation and impermeability factors in tissues."
+                    }
+                ]
+            },
+            {
+                "title": "Basement membrane",
+                "quizzes": [
+                    {
+                        "question": "What is the basement membrane (basal lamina), and what are its principal components and primary functions in relation to adjacent tissues?",
+                        "goodAnswer": "The basement membrane is a specialized extracellular matrix layer composed mainly of type IV collagen, laminin, nidogen, and perlecan, situated between epithelium and connective tissue, providing structural support, filtration, and regulating cell behavior and tissue organization.",
+                        "wrongAnswer_1": "The basement membrane is a cellular layer composed of fibroblasts and macrophages, located within connective tissue, primarily responsible for synthesizing collagen and elastic fibers for tissue repair and inflammation control.",
+                        "wrongAnswer_2": "The basement membrane is a lipid bilayer membrane surrounding epithelial cells, similar to the plasma membrane, providing a barrier against pathogen invasion and regulating ion transport across the epithelial layer.",
+                        "wrongAnswer_3": "The basement membrane is a dense network of elastic fibers located on the apical surface of epithelial cells, providing elasticity and stretchability to epithelial linings and facilitating gas exchange and nutrient absorption.",
+                        "wrongAnswer_4": "The basement membrane is a layer of ground substance composed of hyaluronic acid and proteoglycans, situated on the basal surface of connective tissue, primarily functioning to hydrate the tissue and regulate diffusion of small molecules."
+                    },
+                    {
+                        "question": "Describe the key structural components of the basement membrane, focusing on the roles of type IV collagen, laminin, and proteoglycans in its organization and function.",
+                        "goodAnswer": "Type IV collagen forms a network providing tensile strength; laminin is a glycoprotein organizing the matrix and mediating cell adhesion via integrin receptors; proteoglycans like perlecan contribute to hydration and charge selectivity, collectively forming a functional barrier and scaffold.",
+                        "wrongAnswer_1": "Type IV collagen provides elasticity and recoil to the basement membrane, similar to elastic fibers, while laminin primarily regulates water diffusion and proteoglycans contribute to tensile strength, collectively creating a flexible and permeable barrier.",
+                        "wrongAnswer_2": "Type IV collagen functions as an enzyme catalyzing the synthesis of other basement membrane components, laminin acts as a signaling molecule regulating cell proliferation, and proteoglycans provide structural rigidity, collectively maintaining matrix homeostasis.",
+                        "wrongAnswer_3": "Type IV collagen is a cellular component of the basement membrane, synthesized by epithelial cells, laminin is a lipid component providing hydrophobic barrier properties, and proteoglycans are absent from the basement membrane's composition.",
+                        "wrongAnswer_4": "Type IV collagen provides metabolic support to overlying epithelial cells by transporting nutrients, laminin functions as a contractile protein enabling basement membrane movement, and proteoglycans provide pigmentation to the basement membrane, collectively contributing to epithelial cell function."
+                    },
+                    {
+                        "question": "How does the basement membrane function as a selective permeability barrier and in influencing cell behavior, such as cell adhesion, migration, and differentiation, in epithelial and endothelial tissues?",
+                        "goodAnswer": "The basement membrane's meshwork and charge selectively filter molecules, regulating passage between tissues; it provides adhesion sites for cells via integrins, guides cell migration during development and repair, and influences cell differentiation through signaling interactions.",
+                        "wrongAnswer_1": "The basement membrane acts as a non-selective barrier, blocking all macromolecule passage while allowing free diffusion of small molecules, and it has no role in cell adhesion, migration, or differentiation, primarily functioning as a physical support.",
+                        "wrongAnswer_2": "The basement membrane actively transports molecules across tissues using ATP-dependent pumps, regulating molecular flux, and it inhibits cell adhesion and migration, preventing cell movement and maintaining tissue rigidity and stability.",
+                        "wrongAnswer_3": "The basement membrane functions as a reservoir for growth factors and signaling molecules, releasing them in response to tissue damage to stimulate inflammation, and it primarily promotes cell apoptosis and tissue remodeling during homeostasis.",
+                        "wrongAnswer_4": "The basement membrane generates electrical impulses that regulate epithelial cell activity and signal transduction, and it solely controls cell proliferation and differentiation, having no influence on cell adhesion or migration, acting primarily in developmental processes."
+                    }
+                ]
+            },
+            {
+                "title": "Cells in connective tissue : fixed and free",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between 'fixed' and 'free' cells in connective tissue based on their origin, function, and residency within the tissue matrix.",
+                        "goodAnswer": "Fixed cells (e.g., fibroblasts, adipocytes) are resident, develop and remain in connective tissue, primarily synthesizing and maintaining ECM; free cells (e.g., macrophages, mast cells) are mostly derived from bone marrow, migrate into connective tissue, and are involved in immune defense and tissue repair.",
+                        "wrongAnswer_1": "Fixed cells are transient, migrating into connective tissue from blood vessels during inflammation, while free cells are permanent residents, synthesizing ECM components and maintaining tissue structure throughout life.",
+                        "wrongAnswer_2": "Fixed cells are characterized by their motility and active migration within connective tissue, participating in immune surveillance, while free cells are immobile and fixed in place, providing structural support and mechanical stability.",
+                        "wrongAnswer_3": "Fixed cells are primarily involved in immune responses and phagocytosis, originating from bone marrow and residing in connective tissue temporarily, while free cells are resident tissue cells, responsible for ECM degradation and remodeling during inflammation.",
+                        "wrongAnswer_4": "Fixed cells are found exclusively in dense connective tissues like tendons and ligaments, providing tensile strength, whereas free cells are only present in loose connective tissues, involved in nutrient transport and waste removal."
+                    },
+                    {
+                        "question": "Compare and contrast the roles of fibroblasts and adipocytes as key 'fixed' cells in connective tissue proper, focusing on their primary functions and secreted products.",
+                        "goodAnswer": "Fibroblasts synthesize ECM components (collagen, elastin, ground substance) for structural support and tissue repair; adipocytes store triglycerides for energy reserve and secrete hormones (adipokines) influencing metabolism and inflammation, both contributing to tissue homeostasis.",
+                        "wrongAnswer_1": "Fibroblasts primarily function in immune surveillance and phagocytosis, similar to macrophages, while adipocytes synthesize and secrete ECM components, providing structural framework and tensile strength to connective tissues.",
+                        "wrongAnswer_2": "Fibroblasts store energy in the form of glycogen and release glucose into the bloodstream for metabolic regulation, while adipocytes synthesize collagen and elastic fibers to maintain tissue integrity and elasticity, both regulating energy metabolism.",
+                        "wrongAnswer_3": "Fibroblasts are contractile cells that generate force for tissue movement and contraction, while adipocytes are specialized for signal transduction and electrical impulse propagation within connective tissues, both facilitating tissue communication.",
+                        "wrongAnswer_4": "Fibroblasts primarily function as stem cells, differentiating into various connective tissue cell types for tissue regeneration, while adipocytes are responsible for pigment production and UV protection in skin and mucous membranes, both involved in tissue protection."
+                    },
+                    {
+                        "question": "Describe the functions of macrophages and mast cells as 'free' cells in connective tissue, particularly in the context of immune defense, inflammation, and tissue repair.",
+                        "goodAnswer": "Macrophages are phagocytic cells engulfing pathogens, debris, and initiating immune responses, also involved in tissue remodeling; mast cells release histamine and other mediators in allergic and inflammatory reactions, contributing to vascular permeability and immune cell recruitment, both critical for tissue homeostasis and defense.",
+                        "wrongAnswer_1": "Macrophages primarily synthesize and secrete ECM components, providing structural support and tensile strength, while mast cells are responsible for energy storage and lipid metabolism within connective tissues, both maintaining tissue integrity and energy balance.",
+                        "wrongAnswer_2": "Macrophages are contractile cells involved in tissue movement and contraction, while mast cells function as sensory cells detecting mechanical stimuli and initiating pain responses, both facilitating tissue movement and sensation.",
+                        "wrongAnswer_3": "Macrophages are pigment-producing cells providing coloration to connective tissues, while mast cells regulate water and ion balance within the ECM, both maintaining tissue hydration and ionic equilibrium.",
+                        "wrongAnswer_4": "Macrophages primarily degrade ECM components to facilitate tissue remodeling and turnover, while mast cells inhibit immune responses and suppress inflammation, both contributing to tissue quiescence and immune tolerance."
+                    }
+                ]
+            },
+            {
+                "title": "Types of Connective Tissue Proper",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between loose and dense connective tissues based on their composition, organization of fibers, cellularity, and typical locations and functions within the body.",
+                        "goodAnswer": "Loose connective tissue has more ground substance, loosely arranged fibers, higher cellularity, found beneath epithelia, around vessels, for support and diffusion; dense connective tissue has less ground substance, densely packed fibers, lower cellularity, found in tendons, ligaments, dermis, for tensile strength and structural integrity.",
+                        "wrongAnswer_1": "Loose connective tissue is characterized by densely packed fibers, minimal ground substance, and low cellularity, found in bones and cartilage, providing rigid support; dense connective tissue has loosely arranged fibers, abundant ground substance, and high cellularity, found in adipose tissue, for energy storage.",
+                        "wrongAnswer_2": "Loose connective tissue is primarily composed of elastic fibers providing elasticity and recoil, found in lung tissue and blood vessel walls; dense connective tissue is mainly composed of reticular fibers forming delicate networks, found in lymphoid organs, for filtration and support.",
+                        "wrongAnswer_3": "Both loose and dense connective tissues have similar compositions and fiber arrangements, differing only in cellularity, with loose connective tissue having fewer cells and dense connective tissue having more cells, both serving identical structural and metabolic functions.",
+                        "wrongAnswer_4": "Loose connective tissue is exclusively found in the nervous system providing insulation and support for neurons; dense connective tissue is limited to muscle tissue providing attachment and force transmission, with no overlap in their tissue distribution or function."
+                    },
+                    {
+                        "question": "Compare and contrast dense regular and dense irregular connective tissues, highlighting the arrangement of collagen fibers and its impact on their functional properties and locations.",
+                        "goodAnswer": "Dense regular connective tissue has parallel collagen fibers providing high tensile strength in one direction, found in tendons and ligaments; dense irregular connective tissue has randomly oriented collagen fibers providing resistance to tension in multiple directions, found in dermis and organ capsules, offering multidirectional support.",
+                        "wrongAnswer_1": "Dense regular connective tissue has randomly arranged elastic fibers providing multidirectional elasticity, found in skin and blood vessel walls; dense irregular connective tissue has parallel elastic fibers providing unidirectional elasticity, found in ligaments and elastic arteries.",
+                        "wrongAnswer_2": "Dense regular connective tissue is composed of reticular fibers forming delicate networks, found in lymphoid tissues; dense irregular connective tissue is made of adipose tissue storing energy, found in subcutaneous layers, with no structural fiber component.",
+                        "wrongAnswer_3": "Dense regular connective tissue has a high proportion of ground substance and low fiber density, providing flexibility and hydration; dense irregular connective tissue has minimal ground substance and high fiber density, providing rigidity and compressive strength, with reversed fiber arrangement.",
+                        "wrongAnswer_4": "Both dense regular and dense irregular connective tissues have identical fiber arrangements and compositions, differing only in cellularity, with dense regular tissue having more cells and dense irregular tissue having fewer cells, both serving similar structural support functions regardless of fiber orientation."
+                    },
+                    {
+                        "question": "Describe the specialized characteristics and functions of adipose tissue as a type of connective tissue proper, distinguishing between white adipose tissue (WAT) and brown adipose tissue (BAT).",
+                        "goodAnswer": "Adipose tissue is specialized for lipid storage, insulation, and endocrine function; WAT is unilocular, primarily for energy storage; BAT is multilocular, contains mitochondria with uncoupling protein-1 (UCP-1) for thermogenesis, found in newborns and hibernating animals, with distinct metabolic roles.",
+                        "wrongAnswer_1": "Adipose tissue is primarily involved in collagen synthesis and ECM production, providing structural support and tensile strength; WAT is composed of reticular fibers forming networks, BAT is made of elastic fibers providing elasticity, both primarily structural tissues.",
+                        "wrongAnswer_2": "Adipose tissue functions as a pigment-producing tissue providing coloration and UV protection; WAT produces melanin for skin pigmentation, BAT produces hemoglobin for oxygen transport, both mainly involved in tissue coloration and gas exchange.",
+                        "wrongAnswer_3": "Adipose tissue is specialized for immune surveillance and phagocytosis; WAT contains macrophages for pathogen engulfment, BAT contains mast cells for inflammatory responses, both mainly involved in tissue defense and immune modulation.",
+                        "wrongAnswer_4": "Both white and brown adipose tissues are identical in structure and function, both being unilocular and primarily involved in energy storage, with no significant differences in their cellular components or metabolic pathways, serving the same energy storage role."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

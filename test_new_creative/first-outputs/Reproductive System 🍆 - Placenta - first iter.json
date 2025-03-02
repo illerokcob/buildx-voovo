@@ -1,0 +1,133 @@
+{
+    "mainTopic": {
+        "title": "Placenta",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General facts, Development of the human placenta, Implantation",
+                "quizzes": [
+                    {
+                        "question": "In the context of placental development, identify the gestational timeframe during which the process of implantation, characterized by the syncytiotrophoblast invasion into the uterine endometrium, typically commences following fertilization.",
+                        "goodAnswer": "Implantation typically commences around 6 to 7 days post-fertilization, involving syncytiotrophoblast penetration through the endometrial epithelium and invasion into the stroma.",
+                        "wrongAnswer_1": "Implantation begins approximately 3 to 4 days post-fertilization, initiated by the cytotrophoblast attaching to the endometrial lining and starting superficial invasion.",
+                        "wrongAnswer_2": "Implantation starts around 10 to 12 days post-fertilization, marked by the differentiation of the cytotrophoblast into syncytiotrophoblast and the formation of lacunae.",
+                        "wrongAnswer_3": "Implantation commences around 1 to 2 days post-fertilization, with the blastocyst rapidly adhering to the endometrium and undergoing immediate trophoblastic invasion.",
+                        "wrongAnswer_4": "Implantation typically starts around 9 to 10 days post-fertilization, following the hatching of the blastocyst and initial adhesion to the endometrial surface epithelium cells."
+                    },
+                    {
+                        "question": "Which of the following options accurately describes the decidua basalis, specifying its origin and its functional role in the context of early placental development and maternal-fetal interactions?",
+                        "goodAnswer": "Decidua basalis, derived from the endometrial stroma directly beneath the implanting embryo, contributes to the maternal part of the placenta and facilitates nutrient and gas exchange.",
+                        "wrongAnswer_1": "Decidua basalis, originating from the myometrium adjacent to the implantation site, primarily functions to provide structural support to the developing placenta and anchors it to the uterine wall.",
+                        "wrongAnswer_2": "Decidua basalis, derived from the endometrial glands in the vicinity of the implanted embryo, is responsible for secreting hormones necessary for maintaining pregnancy and preventing maternal immune rejection.",
+                        "wrongAnswer_3": "Decidua basalis, originating from the endometrial epithelium overlying the implanting embryo, forms the fetal component of the placenta and mediates the initial attachment of the blastocyst.",
+                        "wrongAnswer_4": "Decidua basalis, derived from the cervical stroma near the internal os, plays a crucial role in preventing ascending infections into the uterus and supporting the lower segment of the gestational sac."
+                    },
+                    {
+                        "question": "During the initial phases of human placental development, specify the primary source of nutrition for the developing embryo before the establishment of a functional intervillous circulation and uteroplacental blood flow.",
+                        "goodAnswer": "Prior to uteroplacental circulation, the developing embryo primarily relies on histotrophic nutrition derived from endometrial gland secretions and decidual cell breakdown products.",
+                        "wrongAnswer_1": "In the pre-circulation phase, the embryo mainly obtains nutrients through hemotrophic nutrition from maternal blood directly percolating into the trophoblastic lacunae from disrupted spiral arteries.",
+                        "wrongAnswer_2": "Before uteroplacental circulation, the embryo depends on autotrophic nutrition, synthesizing its own nutrients from simple precursors available within the blastocyst cavity.",
+                        "wrongAnswer_3": "Initially, the embryo receives nutrition via phototrophic processes, utilizing light energy converted into chemical energy through specialized trophoblastic cells in contact with the uterine wall.",
+                        "wrongAnswer_4": "Prior to functional circulation, the embryo gets its primary nutrition through pinocytosis of maternal serum proteins directly from the endometrial capillaries into the trophoblast cells."
+                    }
+                ]
+            },
+            {
+                "title": "Immature Chorionic Villi, Trophectoderm differentiation, Early trophectoderm differentiation",
+                "quizzes": [
+                    {
+                        "question": "Identify the cellular lineage that gives rise to the syncytiotrophoblast, a multinucleated cell layer crucial for placental invasion and hormone production, during early trophectoderm differentiation.",
+                        "goodAnswer": "Syncytiotrophoblast originates from the cytotrophoblast, through cell fusion, forming a continuous multinucleated layer that invades the decidua and produces hormones like hCG.",
+                        "wrongAnswer_1": "Syncytiotrophoblast derives directly from the inner cell mass, differentiating independently to form the outer invasive layer of the placenta and secrete placental lactogen.",
+                        "wrongAnswer_2": "Syncytiotrophoblast arises from the extraembryonic mesoderm, migrating outwards to envelope the cytotrophoblast layer and establish the placental barrier and synthesize estrogen.",
+                        "wrongAnswer_3": "Syncytiotrophoblast originates from the primitive endoderm, undergoing metaplasia to become the multinucleated layer responsible for nutrient transport and progesterone synthesis.",
+                        "wrongAnswer_4": "Syncytiotrophoblast differentiates from the amniotic ectoderm, folding outwards to cover the cytotrophoblast and forming the chorionic plate and secreting placental protein 14."
+                    },
+                    {
+                        "question": "Describe the structural composition of immature chorionic villi during early placental development, focusing on the cellular and extracellular components present before the establishment of fetal vasculature.",
+                        "goodAnswer": "Immature chorionic villi are composed of an outer syncytiotrophoblast layer, an underlying cytotrophoblast layer, and a core of extraembryonic mesenchyme containing Hofbauer cells.",
+                        "wrongAnswer_1": "Immature chorionic villi consist of an outer cytotrophoblast layer, an inner syncytiotrophoblast layer, and a mesenchymal core with fibroblasts and macrophages, but lacking Hofbauer cells.",
+                        "wrongAnswer_2": "Immature chorionic villi are made up of a single layer of syncytiotrophoblast directly surrounding a core of fetal endothelial cells and pericytes, precursors to the villous capillaries.",
+                        "wrongAnswer_3": "Immature chorionic villi comprise an outer layer of amniotic epithelium, a middle layer of cytotrophoblast, and a mesenchymal core containing hematopoietic stem cells and stromal fibroblasts.",
+                        "wrongAnswer_4": "Immature chorionic villi are formed by a bilayer of syncytiotrophoblast, separated by a basal lamina from a core of extraembryonic endoderm and scattered maternal immune cells within."
+                    },
+                    {
+                        "question": "What is the crucial temporal sequence of early trophectoderm differentiation events that leads to the formation of the bilaminar embryonic disc and the initiation of placental structures during the first week post-fertilization?",
+                        "goodAnswer": "Trophectoderm differentiates into cytotrophoblast and syncytiotrophoblast -> syncytiotrophoblast invades endometrium -> bilaminar disc formation -> primary villi formation begins around day 11-13.",
+                        "wrongAnswer_1": "Bilaminar disc formation occurs first -> trophectoderm differentiates into cytotrophoblast and syncytiotrophoblast -> syncytiotrophoblast initiates endometrial invasion -> primary villi formation starts around day 7-9.",
+                        "wrongAnswer_2": "Syncytiotrophoblast invades endometrium -> primary villi formation -> bilaminar disc formation -> trophectoderm differentiation into cytotrophoblast and syncytiotrophoblast happens concurrently.",
+                        "wrongAnswer_3": "Trophectoderm directly forms syncytiotrophoblast -> primary villi appear -> cytotrophoblast differentiates later -> bilaminar disc develops subsequently to villous structures.",
+                        "wrongAnswer_4": "Cytotrophoblast differentiates first -> bilaminar disc formation precedes syncytiotrophoblast differentiation -> syncytiotrophoblast invasion and primary villi formation occur simultaneously."
+                    }
+                ]
+            },
+            {
+                "title": "Branching, Vasculogenesis",
+                "quizzes": [
+                    {
+                        "question": "Describe the process of villous branching morphogenesis in the placenta, focusing on the mechanisms that lead to the transition from immature to mature intermediate and terminal villi structures and increased surface area.",
+                        "goodAnswer": "Villous branching involves sprouting and elongation of existing villi -> cytotrophoblast proliferation and invasion into syncytiotrophoblast -> mesenchymal proliferation and vascularization -> formation of terminal and intermediate villi.",
+                        "wrongAnswer_1": "Villous branching occurs through folding of the syncytiotrophoblast layer -> cytotrophoblast regression and apoptosis -> mesenchymal condensation without proliferation -> development of syncytial knots and cytotrophoblast islands.",
+                        "wrongAnswer_2": "Villous branching is initiated by angiogenesis within the mesenchymal core -> syncytiotrophoblast budding and fragmentation -> cytotrophoblast differentiation into extravillous trophoblast -> formation of stem villi and anchoring villi primarily.",
+                        "wrongAnswer_3": "Villous branching involves fusion of adjacent villi structures -> syncytiotrophoblast thinning and cytoplasmic extension -> mesenchymal cell differentiation into smooth muscle -> creation of only stem villi without intermediate or terminal branching.",
+                        "wrongAnswer_4": "Villous branching arises from the differentiation of Hofbauer cells into trophoblast cells -> cytotrophoblast migration from chorionic plate to villous tips -> mesenchymal apoptosis and extracellular matrix deposition -> development of primary villi only and no further branching."
+                    },
+                    {
+                        "question": "Explain the process of vasculogenesis within the placental villi, specifying the origin of the endothelial cells and the factors that regulate their differentiation and organization into a functional vascular network.",
+                        "goodAnswer": "Vasculogenesis in placental villi originates from mesenchymal cells differentiating into angioblasts -> angioblasts aggregate and differentiate into endothelial cells -> VEGF signaling promotes vessel formation and maturation.",
+                        "wrongAnswer_1": "Placental villous vasculogenesis starts with endothelial progenitor cells migrating from maternal circulation into the villous mesenchyme -> these cells differentiate into angioblasts -> FGF signaling drives vessel formation and stabilization.",
+                        "wrongAnswer_2": "Vasculogenesis in placental villi is derived from cytotrophoblast cells transdifferentiating into endothelial cells -> these cells form vascular channels through intracellular vacuolization -> TGF-\u03b2 signaling inhibits vessel formation and promotes regression.",
+                        "wrongAnswer_3": "Placental villous vessels arise from hemangiogenic stem cells originating in the yolk sac and migrating to the chorionic villi -> these cells differentiate into pericytes first, then endothelial cells -> PDGF signaling regulates pericyte recruitment but not endothelial differentiation.",
+                        "wrongAnswer_4": "Vasculogenesis in placental villi begins with syncytiotrophoblast cells differentiating into angioblasts -> angioblasts organize into vascular cords which hollow out to form vessels -> Angiopoietin signaling mediates vessel branching but not initial formation."
+                    },
+                    {
+                        "question": "Describe the temporal relationship between villous branching and vasculogenesis during placental development, detailing which process typically precedes the other and how they are coordinately regulated to establish functional villous trees.",
+                        "goodAnswer": "Villous branching and mesenchymal proliferation precede vasculogenesis -> mesenchymal cells differentiate into angioblasts as villi branch -> vascular network develops within pre-existing villous structures ensuring oxygen supply.",
+                        "wrongAnswer_1": "Vasculogenesis initiates first, forming a primitive vascular plexus within the chorionic mesenchyme -> villous branching follows, with new villi sprouting along existing vascular channels ensuring immediate blood flow.",
+                        "wrongAnswer_2": "Villous branching and vasculogenesis occur simultaneously and independently -> villi branch randomly while vascular vessels form in separate areas and later connect, establishing circulation after both are complete.",
+                        "wrongAnswer_3": "Vasculogenesis occurs only after primary villi formation and before branching -> initial vessels form in primary villi -> branching then creates secondary and tertiary villi around these established vessels for efficient transport.",
+                        "wrongAnswer_4": "Neither villous branching nor vasculogenesis precedes the other; they are initiated concurrently in different regions of the placenta and converge later during terminal villi formation to optimize exchange surface."
+                    }
+                ]
+            },
+            {
+                "title": "Immunobiology of pregnancy, Complement, Role of HLA-G, Adhesion molecules",
+                "quizzes": [
+                    {
+                        "question": "Explain the role of the complement system at the maternal-fetal interface during pregnancy, focusing on the mechanisms that prevent excessive complement activation while allowing for necessary immune surveillance and protection.",
+                        "goodAnswer": "Complement system is tightly regulated at the interface -> complement regulatory proteins (e.g., CD59, DAF) on trophoblast inhibit activation -> localized, controlled activation may facilitate trophoblast invasion and immune defense.",
+                        "wrongAnswer_1": "Complement system is highly activated at the maternal-fetal interface -> unrestricted complement activation mediates trophoblast destruction to limit placental size and prevent preeclampsia -> no local regulation mechanisms are present.",
+                        "wrongAnswer_2": "Complement system is completely suppressed at the maternal-fetal interface to prevent immune rejection -> complement deficiency in pregnancy is essential for successful gestation -> complement activation is always detrimental to pregnancy.",
+                        "wrongAnswer_3": "Complement system plays no significant role at the maternal-fetal interface -> other immune mechanisms solely mediate immune tolerance and defense -> complement components are not expressed or functional in placental tissues.",
+                        "wrongAnswer_4": "Complement system is constitutively activated at the maternal-fetal interface, promoting chronic inflammation -> sustained complement activation is necessary for maintaining placental function and maternal-fetal tolerance -> regulatory mechanisms enhance rather than inhibit activation."
+                    },
+                    {
+                        "question": "Describe the function of HLA-G at the maternal-fetal interface in the context of immunotolerance during pregnancy, specifying its ligands and the immune cell populations it interacts with to modulate maternal immune responses.",
+                        "goodAnswer": "HLA-G, a non-classical MHC-I molecule, expressed by trophoblast -> interacts with inhibitory receptors (e.g., KIR2DL4, LILRB1) on NK cells and T cells -> suppresses maternal immune cell cytotoxicity and promotes tolerance.",
+                        "wrongAnswer_1": "HLA-G, a classical MHC-I molecule, expressed by decidual cells -> interacts with activating receptors (e.g., NKG2D) on NK cells and macrophages -> stimulates maternal immune cell activation to eliminate fetal cells and prevent infection.",
+                        "wrongAnswer_2": "HLA-G, a non-MHC molecule, expressed by fetal endothelial cells -> interacts with adhesion molecules (e.g., integrins) on neutrophils and dendritic cells -> enhances maternal immune cell recruitment to the decidua to facilitate placental development.",
+                        "wrongAnswer_3": "HLA-G, a MHC-II molecule, expressed by syncytiotrophoblast -> presents fetal antigens to maternal T helper cells via CD4 -> induces strong maternal T cell activation and antibody production to ensure fetal survival.",
+                        "wrongAnswer_4": "HLA-G, a non-classical MHC-II molecule, expressed by maternal leukocytes in the decidua -> interacts with co-stimulatory molecules (e.g., CD28) on fetal T cells -> promotes fetal immune cell activation and rejection of maternal tissues."
+                    },
+                    {
+                        "question": "Identify the key adhesion molecules involved in trophoblast invasion and implantation, specifying the ligands they interact with on both trophoblast and endometrial cells and their roles in regulating this process.",
+                        "goodAnswer": "Integrins (e.g., \u03b15\u03b21, \u03b1v\u03b23) on trophoblast interact with extracellular matrix components (e.g., fibronectin, vitronectin) in decidua -> mediate trophoblast attachment, migration, and invasion into the endometrium.",
+                        "wrongAnswer_1": "Selectins (e.g., E-selectin) on trophoblast interact with mucins on endometrial epithelium -> mediate initial weak adhesion of blastocyst to endometrium, preventing firm attachment and invasion.",
+                        "wrongAnswer_2": "Cadherins (e.g., E-cadherin) on trophoblast and endometrial cells mediate homotypic interactions -> establish strong cell-cell junctions, inhibiting trophoblast invasion and maintaining epithelial integrity.",
+                        "wrongAnswer_3": "Immunoglobulin superfamily molecules (e.g., ICAM-1) on trophoblast interact with LFA-1 on maternal lymphocytes -> promote maternal immune cell adhesion to trophoblast, inducing cytotoxicity and limiting invasion.",
+                        "wrongAnswer_4": "Hyaluronan receptors (e.g., CD44) on trophoblast interact with hyaluronic acid in the amniotic fluid -> facilitate blastocyst hatching and movement within the uterine cavity, but not directly involved in endometrial invasion."
+                    },
+                    {
+                        "question": "Describe the mechanisms by which adhesion molecules contribute to the regulation of extravillous trophoblast (EVT) invasion depth into the decidua and myometrium during placentation, ensuring appropriate placental anchoring and preventing excessive invasion.",
+                        "goodAnswer": "EVT invasion is regulated by integrin switching (e.g., \u03b11\u03b21 instead of \u03b15\u03b21) -> altered integrin expression modifies ECM interactions -> matrix metalloproteinases (MMPs) and tissue inhibitors of MMPs (TIMPs) control ECM remodeling and invasion depth.",
+                        "wrongAnswer_1": "EVT invasion depth is primarily controlled by selectin-mediated interactions with maternal leukocytes -> selectins promote leukocyte recruitment and activation, leading to tissue degradation and deep trophoblast invasion.",
+                        "wrongAnswer_2": "EVT invasion is regulated by cadherin expression and function -> increased E-cadherin expression promotes deep invasion by disrupting cell-cell junctions and enhancing trophoblast motility into the myometrium.",
+                        "wrongAnswer_3": "EVT invasion depth is determined by immunoglobulin superfamily molecule interactions -> ICAM-1/LFA-1 binding enhances trophoblast adhesion to maternal immune cells, stimulating uncontrolled trophoblast proliferation and invasion.",
+                        "wrongAnswer_4": "EVT invasion is primarily regulated by hyaluronan receptor signaling -> CD44 activation by hyaluronic acid in the decidua inhibits trophoblast invasion and promotes superficial implantation within the endometrial epithelium only."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

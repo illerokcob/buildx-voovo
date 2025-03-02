@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Cervical neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "What is the primary cellular origin of a placental site trophoblastic tumor (PSTT), distinguishing it from other forms of gestational trophoblastic disease (GTD)?",
+                        "goodAnswer": "PSTT originates from intermediate trophoblast cells at the placental implantation site, a characteristic that differentiates it from other GTDs derived from different trophoblastic lineages.",
+                        "wrongAnswer_1": "PSTT arises from syncytiotrophoblast cells, similar to choriocarcinoma, but its location at the placental site distinguishes its clinical behavior and hormonal profile.",
+                        "wrongAnswer_2": "PSTT develops from cytotrophoblast cells, which are also the source of hydatidiform moles, indicating a shared cellular origin but divergent pathological pathways.",
+                        "wrongAnswer_3": "PSTT is derived from villous trophoblast cells, a characteristic it shares with invasive moles, differing mainly in the extent of invasion and metastatic potential within the uterine environment.",
+                        "wrongAnswer_4": "PSTT originates from extravillous trophoblast cells, which are also precursors to complete hydatidiform moles, emphasizing a common origin but distinct neoplastic transformation pathways."
+                    },
+                    {
+                        "question": "Which clinical presentation is most characteristic of placental site trophoblastic tumor (PSTT) compared to other gestational trophoblastic diseases (GTDs), particularly concerning hCG levels and bleeding patterns?",
+                        "goodAnswer": "Irregular vaginal bleeding is a common presenting symptom of PSTT, often accompanied by lower serum hCG levels relative to choriocarcinoma and other GTDs, indicating a distinct hormonal profile.",
+                        "wrongAnswer_1": "Profuse vaginal bleeding with markedly elevated serum hCG levels is typical for PSTT, similar to the presentation of invasive moles but with a more aggressive metastatic potential.",
+                        "wrongAnswer_2": "Amenorrhea followed by sudden onset of heavy vaginal bleeding and extremely high serum hCG levels are hallmark symptoms of PSTT, differentiating it from other GTDs with more gradual onset symptoms.",
+                        "wrongAnswer_3": "Persistent pelvic pain with minimal vaginal bleeding and moderately elevated serum hCG levels are characteristic of PSTT, contrasting with the painless bleeding seen in other forms of GTD.",
+                        "wrongAnswer_4": "Intermittent spotting and significantly elevated serum hCG levels, comparable to those in complete hydatidiform moles, are the typical clinical indicators of PSTT, suggesting a parallel hormonal activity."
+                    },
+                    {
+                        "question": "What is the generally considered primary treatment modality for placental site trophoblastic tumor (PSTT), given its unique characteristics and responsiveness to different therapeutic approaches compared to other GTDs?",
+                        "goodAnswer": "Hysterectomy is typically the primary treatment for PSTT due to its relative resistance to chemotherapy compared to choriocarcinoma and other GTDs, offering the most definitive removal of the tumor.",
+                        "wrongAnswer_1": "Multi-agent chemotherapy, specifically regimens including methotrexate and actinomycin-D, is the first-line treatment for PSTT, proving highly effective in achieving remission and preserving fertility.",
+                        "wrongAnswer_2": "Radiation therapy, targeting the uterine corpus and surrounding tissues, is the preferred initial treatment for PSTT, effectively controlling local disease and preventing metastatic spread in most cases.",
+                        "wrongAnswer_3": "Dilation and curettage (D&C) followed by close monitoring of hCG levels is the standard initial management for PSTT, similar to the approach for managing hydatidiform moles, to remove tumor burden.",
+                        "wrongAnswer_4": "Selective arterial embolization of the uterine arteries is the primary interventional radiology treatment for PSTT, effectively reducing tumor vascularity and controlling bleeding while avoiding surgery."
+                    }
+                ]
+            },
+            {
+                "title": "Pap Smear, Infections Detected by Pap Smear",
+                "quizzes": [
+                    {
+                        "question": "Beyond cervical cancer screening, what range of infections can be potentially detected through a Pap smear, reflecting its broader utility in gynecological health assessment?",
+                        "goodAnswer": "Pap smears can detect a range of infections, including viral infections like Human Papillomavirus (HPV) and Herpes Simplex Virus (HSV), as well as parasitic infections such as Trichomoniasis vaginalis, and bacterial or fungal infections like candidiasis or bacterial vaginosis.",
+                        "wrongAnswer_1": "Pap smears are primarily designed to detect bacterial infections such as Chlamydia trachomatis and Neisseria gonorrhoeae, alongside fungal infections like candidiasis, but are less sensitive to viral and parasitic agents.",
+                        "wrongAnswer_2": "Pap smears are exclusively effective in detecting viral infections, specifically HPV and Cytomegalovirus (CMV), and are not reliable for identifying bacterial, fungal, or parasitic infections of the lower genital tract.",
+                        "wrongAnswer_3": "Pap smears are highly sensitive for detecting fungal infections such as candidiasis and dermatophytes, as well as parasitic infections like Enterobius vermicularis, but their utility in viral and bacterial detection is limited.",
+                        "wrongAnswer_4": "Pap smears mainly target the detection of protozoan infections like Giardia lamblia and Entamoeba histolytica within the cervix, alongside certain bacterial infections such as Actinomyces, but are not designed for viral identification."
+                    },
+                    {
+                        "question": "In the context of Pap smear results, how does the detection of 'atypical squamous cells of undetermined significance' (ASC-US) typically influence subsequent clinical management and follow-up strategies?",
+                        "goodAnswer": "Detection of ASC-US on a Pap smear usually necessitates HPV testing to assess for high-risk HPV types. If high-risk HPV is positive, colposcopy is often recommended; if negative, repeat Pap smear in one year is typical management.",
+                        "wrongAnswer_1": "ASC-US results on a Pap smear typically require immediate loop electrosurgical excision procedure (LEEP) to remove potentially precancerous cells, irrespective of HPV testing results, to ensure prompt intervention.",
+                        "wrongAnswer_2": "ASC-US findings on a Pap smear usually lead to immediate radiation therapy to eradicate any abnormal cells and prevent progression to cervical cancer, regardless of HPV testing or other risk factors.",
+                        "wrongAnswer_3": "ASC-US results on a Pap smear generally indicate the need for immediate hysterectomy to remove the cervix and uterus, especially in women over 40, to preemptively address potential malignancy.",
+                        "wrongAnswer_4": "ASC-US detection on a Pap smear typically warrants treatment with broad-spectrum antibiotics to eliminate any underlying infection assumed to be causing the cellular atypia, followed by a repeat Pap smear in three months."
+                    },
+                    {
+                        "question": "Which specific Pap smear finding is most indicative of a likely infection with Trichomonas vaginalis, a common sexually transmitted parasitic infection?",
+                        "goodAnswer": "The presence of mobile, pear-shaped trophozoites with flagella and undulating membranes, alongside inflammatory changes and increased neutrophils, is highly suggestive of Trichomonas vaginalis infection on a Pap smear.",
+                        "wrongAnswer_1": "The observation of large, multinucleated giant cells with intranuclear inclusions, accompanied by ground-glass nuclei and eosinophilic Cowdry type A bodies, strongly indicates Trichomonas vaginalis infection on a Pap smear.",
+                        "wrongAnswer_2": "The identification of pseudohyphae and budding yeast forms, along with polymorphonuclear leukocytes and a background of cellular debris, is the most reliable Pap smear finding for Trichomonas vaginalis infection.",
+                        "wrongAnswer_3": "The finding of clue cells\u2014epithelial cells covered with bacteria\u2014and a lack of lactobacilli in the background is the most specific indicator of Trichomonas vaginalis infection on a Pap smear.",
+                        "wrongAnswer_4": "The detection of koilocytes, which are squamous epithelial cells with perinuclear halos and nuclear irregularities, is the primary Pap smear finding associated with Trichomonas vaginalis infection."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical Intraepithelial Neoplasia (CIN) \u2013 Risk factors, Role of HPV, HPV infection risk factors,",
+                "quizzes": [
+                    {
+                        "question": "What is the established primary etiological agent in the development of Cervical Intraepithelial Neoplasia (CIN) and cervical cancer, highlighting its necessary but not sufficient role in cervical carcinogenesis?",
+                        "goodAnswer": "Persistent infection with high-risk types of Human Papillomavirus (HPV) is the primary etiological agent for CIN and cervical cancer, with HPV types 16 and 18 being implicated in a significant proportion of cases.",
+                        "wrongAnswer_1": "Chronic infection with Herpes Simplex Virus type 2 (HSV-2) is the principal cause of CIN and cervical cancer, acting as a direct oncogene and initiating the cascade of cellular dysplasia and malignant transformation.",
+                        "wrongAnswer_2": "Long-term exposure to Trichomonas vaginalis infection is the predominant risk factor for CIN and cervical cancer, leading to chronic inflammation and subsequent genomic instability in cervical epithelial cells.",
+                        "wrongAnswer_3": "Persistent infection with Chlamydia trachomatis is the major etiological factor in the pathogenesis of CIN and cervical cancer, inducing cellular proliferation and disrupting normal apoptotic pathways in cervical tissues.",
+                        "wrongAnswer_4": "Dietary deficiency in folate and vitamin C is the primary cause of CIN and cervical cancer, weakening the cervical epithelium's resistance to oncogenic stimuli and promoting uncontrolled cellular growth."
+                    },
+                    {
+                        "question": "Which of the following represents a significant risk factor for acquiring Human Papillomavirus (HPV) infection and subsequently developing Cervical Intraepithelial Neoplasia (CIN), reflecting behaviors and conditions that enhance HPV exposure and persistence?",
+                        "goodAnswer": "Early age at first sexual intercourse and having multiple sexual partners are established risk factors for HPV infection and CIN, increasing the likelihood of HPV exposure and subsequent persistent infection.",
+                        "wrongAnswer_1": "Regular use of oral contraceptives for more than five years is a primary risk factor for HPV infection and CIN, altering cervical epithelium and enhancing susceptibility to viral integration and oncogenesis.",
+                        "wrongAnswer_2": "History of bacterial vaginosis is a significant risk factor for HPV infection and CIN, creating a dysbiotic vaginal environment that promotes HPV acquisition and immune evasion in the cervix.",
+                        "wrongAnswer_3": "Frequent douching practices are a major risk factor for HPV infection and CIN, disrupting the normal vaginal flora and increasing vulnerability of cervical cells to HPV entry and oncogenic transformation.",
+                        "wrongAnswer_4": "Consumption of a high-fat diet and obesity are direct risk factors for HPV infection and CIN, leading to systemic inflammation and impaired immune surveillance against HPV infection in the cervical microenvironment."
+                    },
+                    {
+                        "question": "What is the role of Human Papillomavirus (HPV) E6 and E7 oncoproteins in the pathogenesis of Cervical Intraepithelial Neoplasia (CIN) and cervical cancer, focusing on their molecular mechanisms of action?",
+                        "goodAnswer": "HPV E6 and E7 oncoproteins primarily function by inactivating tumor suppressor proteins p53 and retinoblastoma protein (pRb) respectively, disrupting cell cycle regulation and promoting uncontrolled cellular proliferation characteristic of CIN and cancer.",
+                        "wrongAnswer_1": "HPV E6 and E7 oncoproteins mainly act by activating oncogenes such as c-Myc and Ras, leading to enhanced cellular growth signaling and bypass of normal growth inhibitory pathways in cervical epithelial cells.",
+                        "wrongAnswer_2": "HPV E6 and E7 oncoproteins primarily function by inhibiting DNA repair mechanisms and promoting genomic instability, thereby accelerating the accumulation of mutations necessary for malignant transformation in cervical tissues.",
+                        "wrongAnswer_3": "HPV E6 and E7 oncoproteins predominantly act by inducing angiogenesis and lymphangiogenesis in the cervical stroma, facilitating tumor vascularization and metastatic dissemination in cervical cancer progression.",
+                        "wrongAnswer_4": "HPV E6 and E7 oncoproteins mainly function by suppressing the host immune response against infected cells, allowing persistent HPV infection and evasion of immune clearance in the cervical epithelium."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical cancer signs, Staging of Cervical Cancer, Type of Cancers,",
+                "quizzes": [
+                    {
+                        "question": "What are the most commonly reported early signs and symptoms of cervical cancer, noting the often insidious nature of the disease in its initial stages?",
+                        "goodAnswer": "Early cervical cancer is often asymptomatic; however, abnormal vaginal bleeding, especially postcoital bleeding or bleeding between periods, and unusual vaginal discharge can be initial signs.",
+                        "wrongAnswer_1": "Severe pelvic pain radiating to the lower back and legs, accompanied by significant weight loss and night sweats, are typical early symptoms of cervical cancer, indicating advanced disease stages.",
+                        "wrongAnswer_2": "Persistent fever, generalized lymphadenopathy, and jaundice are common early signs of cervical cancer, reflecting systemic involvement and widespread metastatic spread from the cervix.",
+                        "wrongAnswer_3": "Chronic constipation, abdominal bloating, and changes in bowel habits are frequently reported early symptoms of cervical cancer, suggesting direct extension into the pelvic organs and bowel.",
+                        "wrongAnswer_4": "Sudden onset of severe headaches, visual disturbances, and seizures are often the first signs of cervical cancer, indicating early metastasis to the brain and central nervous system."
+                    },
+                    {
+                        "question": "According to the FIGO staging system for cervical cancer, what defines Stage II disease, contrasting it with Stage I and Stage III in terms of tumor extent and spread?",
+                        "goodAnswer": "FIGO Stage II cervical cancer involves tumor extension beyond the cervix but not onto the pelvic wall or to the lower third of the vagina. It may involve the upper two-thirds of the vagina or the parametrium but not the pelvic wall.",
+                        "wrongAnswer_1": "FIGO Stage II cervical cancer is characterized by tumor invasion limited to the cervix, with no extension beyond the cervix itself and no involvement of regional lymph nodes or distant metastases, defining early localized disease.",
+                        "wrongAnswer_2": "FIGO Stage II cervical cancer indicates tumor spread to the pelvic wall and/or the lower third of the vagina, possibly with hydronephrosis or non-functioning kidney, but without distant metastasis, representing locally advanced disease.",
+                        "wrongAnswer_3": "FIGO Stage II cervical cancer signifies distant metastasis, such as to the lungs, liver, or bones, irrespective of the primary tumor size or local extension within the pelvis, indicating widespread dissemination.",
+                        "wrongAnswer_4": "FIGO Stage II cervical cancer is defined by tumor involvement of regional pelvic lymph nodes, regardless of tumor size or local extension, indicating regional nodal spread but absence of distant metastases."
+                    },
+                    {
+                        "question": "Which histological subtype represents the most prevalent form of cervical cancer worldwide, accounting for a significant majority of diagnosed cases?",
+                        "goodAnswer": "Squamous cell carcinoma is the most common histological type of cervical cancer, comprising approximately 70-80% of all cervical cancer diagnoses globally, originating from the squamous epithelium of the cervix.",
+                        "wrongAnswer_1": "Adenocarcinoma is the most frequent subtype of cervical cancer, representing about 60-70% of cases, arising from the glandular cells of the endocervical canal and often associated with HPV infection.",
+                        "wrongAnswer_2": "Adenosquamous carcinoma is the predominant histological type of cervical cancer, constituting 50-60% of cases, exhibiting features of both squamous cell carcinoma and adenocarcinoma in its cellular morphology.",
+                        "wrongAnswer_3": "Small cell carcinoma is the most common form of cervical cancer, accounting for 80-90% of diagnoses, characterized by neuroendocrine differentiation and aggressive clinical behavior.",
+                        "wrongAnswer_4": "Clear cell carcinoma is the most prevalent subtype of cervical cancer, making up 75-85% of cases, associated with diethylstilbestrol (DES) exposure in utero and often occurring in younger women."
+                    }
+                ]
+            },
+            {
+                "title": "Treatments, Cervical Cancer Therapy",
+                "quizzes": [
+                    {
+                        "question": "What are the primary treatment modalities for early-stage cervical cancer (FIGO Stage IA and IB), emphasizing the therapeutic options available to women diagnosed at these initial stages?",
+                        "goodAnswer": "Primary treatment for early-stage cervical cancer typically includes surgical approaches such as cone biopsy, simple hysterectomy, or radical hysterectomy, and in select cases, radiation therapy, offering high cure rates.",
+                        "wrongAnswer_1": "For early-stage cervical cancer, the primary treatment is neoadjuvant chemotherapy followed by radical surgery, effectively reducing tumor burden and facilitating surgical resection with improved outcomes.",
+                        "wrongAnswer_2": "The standard initial treatment for early-stage cervical cancer is definitive chemoradiation therapy, combining concurrent chemotherapy and external beam radiation, regardless of tumor size or lymph node involvement.",
+                        "wrongAnswer_3": "Early-stage cervical cancer is primarily managed with targeted therapy using angiogenesis inhibitors like bevacizumab, which effectively block tumor blood supply and halt disease progression in most patients.",
+                        "wrongAnswer_4": "For early-stage cervical cancer, the main treatment approach is immunotherapy with checkpoint inhibitors such as pembrolizumab, enhancing the body's immune response against cancer cells and achieving durable remissions."
+                    },
+                    {
+                        "question": "In the treatment of locally advanced cervical cancer (FIGO Stage IIB-IVA), what is the established standard of care, highlighting the combination of therapies often employed to achieve optimal outcomes?",
+                        "goodAnswer": "Definitive chemoradiation, consisting of external beam radiation therapy combined with concurrent cisplatin-based chemotherapy, is the standard of care for locally advanced cervical cancer, aiming for local control and systemic treatment.",
+                        "wrongAnswer_1": "The primary treatment for locally advanced cervical cancer is radical hysterectomy followed by adjuvant chemotherapy, offering surgical removal of the tumor and systemic therapy to address potential micrometastases.",
+                        "wrongAnswer_2": "Locally advanced cervical cancer is typically treated with neoadjuvant chemotherapy followed by radical chemoradiation, aiming to shrink the tumor prior to aggressive local and systemic therapy.",
+                        "wrongAnswer_3": "The standard treatment for locally advanced cervical cancer is exclusive brachytherapy, delivering high-dose radiation directly to the tumor bed, minimizing damage to surrounding healthy tissues and maximizing local control.",
+                        "wrongAnswer_4": "Locally advanced cervical cancer is primarily managed with targeted therapy combined with immunotherapy, utilizing agents like bevacizumab and pembrolizumab to target tumor vasculature and enhance immune response."
+                    },
+                    {
+                        "question": "For patients with recurrent or metastatic cervical cancer, what are the typical systemic therapy options, considering the goals of treatment in this advanced disease setting?",
+                        "goodAnswer": "Systemic therapy options for recurrent or metastatic cervical cancer include chemotherapy (often platinum-based combinations), targeted therapy (like bevacizumab), and immunotherapy (such as pembrolizumab), aiming to palliate symptoms, prolong survival, and improve quality of life.",
+                        "wrongAnswer_1": "Recurrent or metastatic cervical cancer is primarily treated with high-dose radiation therapy to metastatic sites combined with surgical resection of recurrent tumors, focusing on aggressive local control and tumor eradication.",
+                        "wrongAnswer_2": "The standard of care for recurrent or metastatic cervical cancer is hormonal therapy using aromatase inhibitors and anti-estrogens, targeting hormone receptors on tumor cells to induce tumor regression and disease stabilization.",
+                        "wrongAnswer_3": "For recurrent or metastatic cervical cancer, the main treatment modality is bone marrow transplantation, aiming to replace the patient's immune system with donor cells to eradicate cancer and achieve long-term remission.",
+                        "wrongAnswer_4": "Recurrent or metastatic cervical cancer is primarily managed with gene therapy, utilizing viral vectors to deliver therapeutic genes directly to cancer cells and induce cell death or differentiation, offering a curative approach."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

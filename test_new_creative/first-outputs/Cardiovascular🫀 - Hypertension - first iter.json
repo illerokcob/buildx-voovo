@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Hypertension",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Blood pressure classificatinon",
+                "quizzes": [
+                    {
+                        "question": "According to the 2017 American College of Cardiology/American Heart Association guidelines, which blood pressure classification is characterized by a systolic blood pressure consistently between 130-139 mm Hg or a diastolic blood pressure between 80-89 mm Hg?",
+                        "goodAnswer": "Stage 1 hypertension is defined when systolic blood pressure is 130-139 mm Hg or diastolic blood pressure is 80-89 mm Hg, indicating a moderate risk and need for lifestyle modifications and potential pharmacological intervention.",
+                        "wrongAnswer_1": "Elevated blood pressure is diagnosed when systolic blood pressure is 120-129 mm Hg and diastolic blood pressure is less than 80 mm Hg, signifying a pre-hypertensive state with increased risk of progressing to hypertension.",
+                        "wrongAnswer_2": "Stage 2 hypertension is diagnosed when systolic blood pressure is consistently at or above 140 mm Hg or diastolic blood pressure is at or above 90 mm Hg, representing a severe stage requiring immediate multi-drug therapy.",
+                        "wrongAnswer_3": "Normal blood pressure is classified when systolic blood pressure is below 120 mm Hg and diastolic blood pressure is below 80 mm Hg, indicating optimal cardiovascular health with minimal immediate intervention required.",
+                        "wrongAnswer_4": "Hypertensive crisis is defined as systolic blood pressure exceeding 180 mm Hg or diastolic blood pressure exceeding 120 mm Hg, representing a medical emergency necessitating immediate blood pressure reduction."
+                    },
+                    {
+                        "question": "What blood pressure range defines 'Elevated Blood Pressure' according to current classifications, signifying a condition requiring lifestyle modifications to prevent progression to hypertension?",
+                        "goodAnswer": "Elevated blood pressure is defined by a systolic blood pressure range of 120-129 mm Hg and a diastolic blood pressure of less than 80 mm Hg, highlighting the necessity for lifestyle interventions.",
+                        "wrongAnswer_1": "Elevated blood pressure is indicated by a systolic blood pressure of 130-139 mm Hg or a diastolic blood pressure of 80-89 mm Hg, signifying stage 1 hypertension requiring potential pharmacological treatment.",
+                        "wrongAnswer_2": "Elevated blood pressure is characterized by systolic blood pressure consistently above 140 mm Hg and diastolic blood pressure above 90 mm Hg, denoting stage 2 hypertension with high cardiovascular risk.",
+                        "wrongAnswer_3": "Elevated blood pressure is classified when systolic blood pressure is below 120 mm Hg and diastolic blood pressure is also below 80 mm Hg, representing normal blood pressure and optimal cardiovascular status.",
+                        "wrongAnswer_4": "Elevated blood pressure is diagnosed when systolic blood pressure exceeds 180 mm Hg or diastolic blood pressure exceeds 120 mm Hg, indicating a hypertensive crisis requiring immediate medical attention."
+                    },
+                    {
+                        "question": "For a patient consistently presenting with blood pressure readings at or above 140/90 mm Hg, which classification accurately reflects their hypertensive state based on established guidelines?",
+                        "goodAnswer": "Stage 2 hypertension accurately classifies a patient with consistent blood pressure readings at or above 140/90 mm Hg, indicating a higher risk and often requiring combination pharmacological therapy.",
+                        "wrongAnswer_1": "Stage 1 hypertension is the appropriate classification for blood pressure readings at or above 140/90 mm Hg, suggesting a moderate risk manageable with lifestyle changes and single drug therapy.",
+                        "wrongAnswer_2": "Elevated blood pressure is the correct classification for blood pressure at or above 140/90 mm Hg, representing a pre-hypertensive state where lifestyle changes are primarily indicated.",
+                        "wrongAnswer_3": "Normal blood pressure is the classification for blood pressure at or above 140/90 mm Hg, suggesting optimal cardiovascular health and no immediate need for medical intervention.",
+                        "wrongAnswer_4": "Hypertensive crisis is the classification for blood pressure at or above 140/90 mm Hg, indicating a medical emergency requiring immediate and drastic blood pressure reduction strategies."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure regulation",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary short-term mechanism responsible for rapidly adjusting blood pressure through baroreceptor reflexes and autonomic nervous system activity, particularly in response to postural changes or acute stress.",
+                        "goodAnswer": "The baroreceptor reflex, mediated by the autonomic nervous system, is the principal short-term regulator of blood pressure, rapidly adjusting heart rate and vascular resistance to maintain blood pressure homeostasis.",
+                        "wrongAnswer_1": "The renin-angiotensin-aldosterone system (RAAS) serves as the primary short-term mechanism, quickly altering blood volume and vascular tone through hormonal actions to regulate blood pressure acutely.",
+                        "wrongAnswer_2": "Atrial natriuretic peptide (ANP) is the key short-term regulator, promptly decreasing blood pressure by promoting sodium excretion and vasodilation in response to acute hemodynamic changes.",
+                        "wrongAnswer_3": "Long-term renal mechanisms are the primary short-term regulators of blood pressure, adjusting fluid balance within minutes to hours to maintain stable blood pressure levels during acute fluctuations.",
+                        "wrongAnswer_4": "Chemoreceptor reflexes, modulated by the central nervous system, are the principal short-term regulators, rapidly adjusting ventilation and vascular resistance in response to acute changes in blood oxygen levels."
+                    },
+                    {
+                        "question": "Which hormonal system plays a crucial long-term role in blood pressure regulation by modulating sodium and water retention, thereby influencing blood volume and consequently, arterial pressure?",
+                        "goodAnswer": "The renin-angiotensin-aldosterone system (RAAS) is a key long-term regulator of blood pressure, increasing sodium and water retention and causing vasoconstriction, thus elevating blood volume and pressure over time.",
+                        "wrongAnswer_1": "The atrial natriuretic peptide (ANP) system functions as a long-term blood pressure regulator, increasing sodium and water excretion and causing vasodilation, effectively reducing blood volume and pressure in the long term.",
+                        "wrongAnswer_2": "The sympathetic nervous system provides long-term blood pressure regulation by chronically adjusting heart rate and vascular resistance to maintain blood pressure stability over extended periods.",
+                        "wrongAnswer_3": "Baroreceptor reflexes act as long-term regulators of blood pressure, maintaining stable blood pressure levels through sustained adjustments in autonomic nerve activity over months to years.",
+                        "wrongAnswer_4": "The chemoreceptor reflex system is a primary long-term regulator of blood pressure, adjusting respiratory rate and blood vessel diameter over time to ensure consistent blood oxygen and pressure levels."
+                    },
+                    {
+                        "question": "Describe the sequence of physiological events initiated by decreased renal perfusion pressure that ultimately leads to an elevation in systemic blood pressure through the renin-angiotensin-aldosterone system (RAAS).",
+                        "goodAnswer": "Decreased renal perfusion -> Renin release -> Angiotensinogen conversion to Angiotensin I -> ACE conversion to Angiotensin II -> Aldosterone secretion and vasoconstriction -> Increased sodium and water retention -> Elevated blood pressure.",
+                        "wrongAnswer_1": "Decreased renal perfusion -> Aldosterone release -> Angiotensinogen conversion to Angiotensin I -> Renin conversion to Angiotensin II -> Vasodilation and sodium excretion -> Decreased water retention -> Lowered blood pressure.",
+                        "wrongAnswer_2": "Decreased renal perfusion -> Angiotensin II release -> Renin conversion to Angiotensin I -> ACE activation of Aldosterone -> Vasoconstriction and sodium excretion -> Increased water retention -> Elevated blood pressure.",
+                        "wrongAnswer_3": "Decreased renal perfusion -> Angiotensin I release -> ACE conversion to Renin -> Angiotensinogen activation of Aldosterone -> Vasodilation and sodium retention -> Decreased water retention -> Lowered blood pressure.",
+                        "wrongAnswer_4": "Decreased renal perfusion -> Renin release -> Aldosterone conversion to Angiotensin I -> ACE conversion to Angiotensin II -> Vasodilation and potassium retention -> Increased water excretion -> Decreased blood pressure."
+                    }
+                ]
+            },
+            {
+                "title": "Sequelae of Essential hypertension",
+                "quizzes": [
+                    {
+                        "question": "What is a significant long-term cardiovascular consequence of uncontrolled essential hypertension characterized by the progressive stiffening and thickening of the left ventricular wall, impairing diastolic function?",
+                        "goodAnswer": "Left ventricular hypertrophy (LVH) is a major sequela of essential hypertension, marked by thickening of the left ventricular wall and diastolic dysfunction, increasing the risk of heart failure and arrhythmias.",
+                        "wrongAnswer_1": "Right ventricular hypertrophy (RVH) is a primary sequela of essential hypertension, indicated by thickening of the right ventricular wall and systolic dysfunction, leading to pulmonary hypertension and cor pulmonale.",
+                        "wrongAnswer_2": "Atrial fibrillation is a common sequela of essential hypertension, characterized by disorganized electrical activity in the atria and reduced ventricular ejection fraction, increasing embolic stroke risk.",
+                        "wrongAnswer_3": "Mitral valve prolapse is a frequent sequela of essential hypertension, involving displacement of the mitral valve leaflets into the left atrium during systole and causing valvular regurgitation and heart failure.",
+                        "wrongAnswer_4": "Aortic stenosis is a typical sequela of essential hypertension, defined by narrowing of the aortic valve orifice and increased afterload on the left ventricle, leading to angina and syncope."
+                    },
+                    {
+                        "question": "Identify the primary renal complication arising from chronic essential hypertension, marked by progressive damage to glomerular capillaries and nephron loss, potentially leading to end-stage renal disease.",
+                        "goodAnswer": "Hypertensive nephropathy is the principal renal sequela of essential hypertension, involving glomerular damage and nephron loss, which can progress to chronic kidney disease and eventual renal failure.",
+                        "wrongAnswer_1": "Acute glomerulonephritis is a common renal sequela of essential hypertension, characterized by sudden inflammation of the glomeruli and abrupt onset of hematuria and proteinuria, leading to rapid renal decline.",
+                        "wrongAnswer_2": "Renal artery stenosis is a frequent renal sequela of essential hypertension, involving narrowing of the renal arteries and causing secondary hypertension and acute kidney injury due to reduced renal blood flow.",
+                        "wrongAnswer_3": "Polycystic kidney disease is a typical renal sequela of essential hypertension, marked by formation of multiple cysts in the kidneys and progressive renal enlargement, eventually causing end-stage renal failure.",
+                        "wrongAnswer_4": "Urinary tract infections (UTIs) are a significant renal sequela of essential hypertension, involving bacterial infection of the urinary system and causing pyelonephritis and renal abscess formation."
+                    },
+                    {
+                        "question": "Describe the neuropathological consequence of prolonged, uncontrolled hypertension that involves the weakening and rupture of small blood vessels in the brain, frequently resulting in hemorrhagic stroke.",
+                        "goodAnswer": "Intracerebral hemorrhage, often due to rupture of Charcot-Bouchard aneurysms, is a severe neurological sequela of chronic hypertension, causing focal neurological deficits and significant morbidity or mortality.",
+                        "wrongAnswer_1": "Ischemic stroke, resulting from thrombotic occlusion of large cerebral arteries, is a frequent neurological sequela of uncontrolled hypertension, leading to sudden neurological deficits and potential long-term disability.",
+                        "wrongAnswer_2": "Subarachnoid hemorrhage, caused by rupture of saccular aneurysms in the circle of Willis, is a typical neurological sequela of chronic hypertension, resulting in sudden onset of severe headache and meningeal irritation.",
+                        "wrongAnswer_3": "Transient ischemic attack (TIA), characterized by brief episodes of neurological dysfunction without permanent infarction, is a common neurological sequela of uncontrolled hypertension, increasing stroke risk.",
+                        "wrongAnswer_4": "Cerebral venous sinus thrombosis, involving clot formation in the dural venous sinuses, is a potential neurological sequela of chronic hypertension, causing headache, papilledema, and focal neurological signs."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure measurement",
+                "quizzes": [
+                    {
+                        "question": "When performing auscultatory blood pressure measurement using a sphygmomanometer, which Korotkoff sound phase signifies the systolic blood pressure reading?",
+                        "goodAnswer": "Phase I Korotkoff sounds, characterized by the first clear, tapping sounds, indicate the systolic blood pressure, representing the pressure at which blood flow returns to the artery during cuff deflation.",
+                        "wrongAnswer_1": "Phase II Korotkoff sounds, described as swishing or whooshing sounds, signify the diastolic blood pressure, representing the pressure when blood flow becomes fully laminar and sounds disappear.",
+                        "wrongAnswer_2": "Phase III Korotkoff sounds, identified as crisper and more intense tapping sounds, indicate the mean arterial pressure, representing the average pressure throughout the cardiac cycle during ventricular contraction.",
+                        "wrongAnswer_3": "Phase IV Korotkoff sounds, characterized by muffling or softening of the tapping sounds, signify the pulse pressure, representing the difference between systolic and diastolic blood pressure readings.",
+                        "wrongAnswer_4": "Phase V Korotkoff sounds, the disappearance of all sounds, indicate the diastolic blood pressure, representing the pressure when the artery is no longer compressed and blood flow is unimpeded."
+                    },
+                    {
+                        "question": "What procedural step is crucial to accurately measure blood pressure and avoid falsely elevated readings when using a standard upper arm cuff sphygmomanometer?",
+                        "goodAnswer": "Ensuring the arm is at heart level and supported is essential for accurate measurement, minimizing hydrostatic pressure effects that can falsely elevate blood pressure readings during auscultation.",
+                        "wrongAnswer_1": "Applying the cuff too tightly around the upper arm is necessary for accurate measurement, creating adequate compression to occlude arterial blood flow and ensure precise Korotkoff sound detection.",
+                        "wrongAnswer_2": "Inflating the cuff rapidly to a pressure well above the expected systolic pressure is crucial for accurate measurement, ensuring complete arterial occlusion and clear demarcation of Korotkoff sounds.",
+                        "wrongAnswer_3": "Using a cuff that is too small for the patient's arm circumference is necessary for accurate measurement, providing focused pressure on the brachial artery for reliable Korotkoff sound detection and pressure readings.",
+                        "wrongAnswer_4": "Having the patient cross their legs during blood pressure measurement enhances accuracy by stabilizing posture and reducing peripheral vascular resistance, thus providing a more representative reading."
+                    },
+                    {
+                        "question": "Which blood pressure measurement method is preferred for diagnosing white-coat hypertension and assessing blood pressure variability over 24 hours in a patient's typical environment?",
+                        "goodAnswer": "Ambulatory blood pressure monitoring (ABPM) is the preferred method for diagnosing white-coat hypertension and assessing 24-hour blood pressure variability, providing readings at regular intervals throughout the day and night.",
+                        "wrongAnswer_1": "Office blood pressure measurement is the ideal method for diagnosing white-coat hypertension and assessing 24-hour blood pressure variability, accurately reflecting blood pressure levels in a controlled clinical setting.",
+                        "wrongAnswer_2": "Home blood pressure monitoring (HBPM) is the most accurate method for diagnosing white-coat hypertension and assessing 24-hour blood pressure variability, capturing blood pressure readings under standardized home conditions.",
+                        "wrongAnswer_3": "Oscillometric blood pressure measurement is the preferred technique for diagnosing white-coat hypertension and assessing 24-hour blood pressure variability due to its automated and non-invasive nature in clinical settings.",
+                        "wrongAnswer_4": "Invasive arterial blood pressure monitoring is the gold standard for diagnosing white-coat hypertension and assessing 24-hour blood pressure variability, providing continuous and highly accurate intra-arterial pressure recordings."
+                    }
+                ]
+            },
+            {
+                "title": "Evaluation and causes of hypertension",
+                "quizzes": [
+                    {
+                        "question": "During the initial evaluation of a newly diagnosed hypertensive patient, what is a critical laboratory test to assess for potential target organ damage and guide cardiovascular risk stratification?",
+                        "goodAnswer": "Urinalysis, including assessment for proteinuria and hematuria, is a critical initial laboratory test to evaluate for renal involvement and target organ damage in newly diagnosed hypertensive patients.",
+                        "wrongAnswer_1": "Liver function tests (LFTs), assessing alanine transaminase and aspartate transaminase levels, are crucial initial laboratory tests to evaluate hepatic function and identify liver-related causes of hypertension.",
+                        "wrongAnswer_2": "Thyroid stimulating hormone (TSH) measurement is a key initial laboratory test to evaluate thyroid function and rule out thyroid disorders as a secondary cause of hypertension in newly diagnosed patients.",
+                        "wrongAnswer_3": "Complete blood count (CBC) with differential is an essential initial laboratory test to assess for hematological abnormalities and detect underlying inflammatory conditions contributing to hypertension development.",
+                        "wrongAnswer_4": "Serum electrolyte panel, specifically measuring sodium and potassium levels, is a primary initial laboratory test to evaluate electrolyte imbalances and identify mineralocorticoid excess in hypertensive patients."
+                    },
+                    {
+                        "question": "What is a frequent endocrine cause of secondary hypertension that should be considered in patients presenting with unexplained hypertension, hypokalemia, and metabolic alkalosis?",
+                        "goodAnswer": "Primary aldosteronism is a common endocrine cause of secondary hypertension, characterized by excessive aldosterone secretion, leading to hypokalemia, metabolic alkalosis, and increased sodium retention.",
+                        "wrongAnswer_1": "Pheochromocytoma is a frequent endocrine cause of secondary hypertension, indicated by episodic hypertension, palpitations, sweating, and headache due to excessive catecholamine release from adrenal tumors.",
+                        "wrongAnswer_2": "Cushing's syndrome is a typical endocrine cause of secondary hypertension, associated with hypercortisolism, central obesity, glucose intolerance, and proximal muscle weakness due to excess glucocorticoid exposure.",
+                        "wrongAnswer_3": "Hyperthyroidism is a potential endocrine cause of secondary hypertension, characterized by tachycardia, tremor, weight loss, and heat intolerance due to increased thyroid hormone production and metabolic rate.",
+                        "wrongAnswer_4": "Hypoparathyroidism is a rare endocrine cause of secondary hypertension, associated with hypocalcemia, hyperphosphatemia, muscle cramps, and tetany due to deficient parathyroid hormone secretion."
+                    },
+                    {
+                        "question": "Which vascular condition is a recognized cause of secondary hypertension, particularly in younger individuals, resulting from localized narrowing of the aorta and diminished blood flow to the lower extremities?",
+                        "goodAnswer": "Coarctation of the aorta is a known vascular cause of secondary hypertension, especially in younger patients, causing upper extremity hypertension, lower extremity hypotension, and diminished femoral pulses.",
+                        "wrongAnswer_1": "Peripheral artery disease (PAD) is a common vascular cause of secondary hypertension, predominantly in older adults, leading to lower extremity ischemia, claudication, and increased cardiovascular risk.",
+                        "wrongAnswer_2": "Renal artery stenosis is a frequent vascular cause of secondary hypertension, resulting from atherosclerotic narrowing of renal arteries or fibromuscular dysplasia, activating the renin-angiotensin system.",
+                        "wrongAnswer_3": "Aortic aneurysm is a potential vascular cause of secondary hypertension, particularly in elderly individuals, causing increased pulse pressure and risk of aortic dissection or rupture with hemodynamic instability.",
+                        "wrongAnswer_4": "Varicose veins are a rare vascular cause of secondary hypertension, primarily affecting venous circulation in the lower extremities, leading to venous stasis, edema, and superficial thrombophlebitis."
+                    }
+                ]
+            },
+            {
+                "title": "Goal of hypertension prevention and management",
+                "quizzes": [
+                    {
+                        "question": "What is the primary therapeutic goal for managing essential hypertension in most adult patients, aimed at reducing long-term cardiovascular morbidity and mortality risk according to current guidelines?",
+                        "goodAnswer": "The primary goal of hypertension management is to reduce blood pressure to below 130/80 mm Hg for most adults, significantly decreasing the risk of stroke, myocardial infarction, heart failure, and renal disease.",
+                        "wrongAnswer_1": "The primary goal of hypertension management is to achieve a blood pressure target of below 140/90 mm Hg for all adult patients, minimizing the incidence of acute hypertensive crises and cerebrovascular events.",
+                        "wrongAnswer_2": "The primary goal of hypertension management is to maintain a systolic blood pressure between 120-139 mm Hg and diastolic pressure between 70-89 mm Hg for optimal cardiovascular health and function.",
+                        "wrongAnswer_3": "The primary goal of hypertension management is to lower systolic blood pressure to below 150 mm Hg in individuals over 60 years of age, balancing blood pressure control with minimizing medication side effects.",
+                        "wrongAnswer_4": "The primary goal of hypertension management is to normalize blood pressure to below 120/70 mm Hg in all hypertensive patients, aiming for blood pressure levels comparable to healthy normotensive individuals."
+                    },
+                    {
+                        "question": "In addition to pharmacological interventions, what lifestyle modification is critically recommended as a first-line approach for preventing and managing hypertension across all risk categories?",
+                        "goodAnswer": "Adopting a Dietary Approaches to Stop Hypertension (DASH) eating plan, rich in fruits, vegetables, and low-fat dairy, is a cornerstone lifestyle modification for preventing and managing hypertension effectively.",
+                        "wrongAnswer_1": "Implementing a high-protein, low-carbohydrate diet is a crucial lifestyle modification for hypertension management, promoting weight loss and improving insulin sensitivity to reduce blood pressure levels.",
+                        "wrongAnswer_2": "Following a ketogenic diet, very low in carbohydrates and high in fats, is a primary lifestyle intervention for hypertension, inducing ketosis and lowering blood pressure through metabolic changes.",
+                        "wrongAnswer_3": "Adhering to a vegan diet, completely excluding all animal products, is an essential lifestyle modification for hypertension, reducing saturated fat intake and promoting weight loss for blood pressure control.",
+                        "wrongAnswer_4": "Practicing intermittent fasting, cycling between periods of eating and voluntary fasting, is a key lifestyle modification for hypertension, inducing weight loss and improving metabolic health to lower blood pressure."
+                    },
+                    {
+                        "question": "Among various antihypertensive drug classes, which class is often considered first-line therapy for hypertension, particularly in patients without compelling comorbidities, due to its efficacy and broad applicability?",
+                        "goodAnswer": "Thiazide diuretics are frequently recommended as first-line antihypertensive therapy for uncomplicated hypertension, effective in reducing blood volume and systemic vascular resistance with established cardiovascular benefits.",
+                        "wrongAnswer_1": "Beta-blockers are typically considered first-line antihypertensive drugs for most patients with hypertension, especially those with tachycardia or anxiety, effectively reducing heart rate and cardiac output.",
+                        "wrongAnswer_2": "ACE inhibitors are generally the first-line antihypertensive agents for uncomplicated hypertension, particularly effective in blocking the renin-angiotensin-aldosterone system and reducing vasoconstriction.",
+                        "wrongAnswer_3": "Calcium channel blockers are commonly used as first-line antihypertensive therapy for most patients, particularly effective in causing vasodilation and reducing peripheral resistance with minimal metabolic side effects.",
+                        "wrongAnswer_4": "Alpha-blockers are often considered first-line antihypertensive medications for uncomplicated hypertension, particularly effective in reducing sympathetic nervous system activity and causing peripheral vasodilation."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

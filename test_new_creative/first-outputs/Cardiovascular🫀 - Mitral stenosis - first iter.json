@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Mitral stenosis",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "In the context of the disease's development, which of the following pathogenic mechanisms most accurately describes the primary initial event that precipitates the cascade of inflammatory and fibrotic changes characteristic of the condition?",
+                        "goodAnswer": "The disease's etiology primarily involves an initial insult, often triggered by environmental factors or genetic predispositions, that leads to alveolar epithelial cell injury, initiating a cascade of inflammatory and profibrotic responses.",
+                        "wrongAnswer_1": "The disease's etiology is largely attributed to a primary vascular endothelial dysfunction, genetically predetermined, which directly triggers systemic inflammation, subsequently affecting alveolar structures and initiating fibrosis.",
+                        "wrongAnswer_2": "The disease originates from a primary dysfunction of the mucociliary clearance mechanism in the airways, leading to chronic bacterial colonization and secondary inflammation and eventual alveolar fibrosis.",
+                        "wrongAnswer_3": "The disease's development is fundamentally driven by an autoimmune response targeting bronchial smooth muscle, which indirectly causes chronic airway obstruction and distal alveolar inflammation, eventually resulting in fibrosis.",
+                        "wrongAnswer_4": "The etiology begins with a primary neurogenic inflammation in the pulmonary interstitium, stimulated by psychological stress, leading to an imbalance in vasoactive substances and consequent alveolar structural damage and fibrosis."
+                    },
+                    {
+                        "question": "Considering the cellular and molecular processes, which specific signaling pathway is most critically implicated in mediating the fibroblast activation and excessive extracellular matrix deposition observed in the pathogenesis of this chronic condition?",
+                        "goodAnswer": "The TGF-\u03b2 signaling pathway, acting through Smad proteins and non-Smad pathways like MAPK and PI3K, is critically involved in mediating fibroblast activation, differentiation into myofibroblasts, and excessive ECM deposition, driving fibrosis.",
+                        "wrongAnswer_1": "The TNF-\u03b1 signaling pathway, primarily via NF-\u03baB activation, is critically involved in the initial inflammatory phases by promoting cytokine release but has minimal direct influence on fibroblast activation and ECM deposition in chronic stages.",
+                        "wrongAnswer_2": "The IL-1 signaling pathway, mainly through JAK-STAT activation, plays a crucial role in the acute inflammatory response and neutrophil recruitment, but is not considered a primary driver of long-term fibroblast activation and matrix remodeling.",
+                        "wrongAnswer_3": "The VEGF signaling pathway, primarily acting through receptor tyrosine kinases, is essential for angiogenesis and vascular permeability in the context of inflammation but has a negligible direct impact on fibroblast activation and collagen synthesis.",
+                        "wrongAnswer_4": "The Interferon-gamma signaling pathway, mediated via JAK-STAT, is predominantly involved in antiviral immunity and macrophage activation for pathogen clearance, with a secondary and less direct role in fibroblast modulation during chronic inflammation."
+                    },
+                    {
+                        "question": "Which of the following elements is considered the most proximal initiating factor in the complex pathophysiological sequence that culminates in the development of irreversible lung tissue remodeling in this disease?",
+                        "goodAnswer": "Repetitive micro-injuries to the alveolar epithelium, often induced by inhaled toxins, infections, or aspiration, are considered the most proximal initiating factors, setting off a cascade of aberrant repair and fibrotic remodeling.",
+                        "wrongAnswer_1": "Systemic autoimmune dysregulation leading to the production of autoantibodies against lung parenchymal proteins is the most proximal initiating factor, directly attacking lung structures and initiating inflammatory damage and fibrosis.",
+                        "wrongAnswer_2": "Chronic bronchoconstriction due to autonomic nervous system imbalance is the primary proximal factor, causing persistent airflow limitation and secondary alveolar damage and subsequent fibrotic changes over time.",
+                        "wrongAnswer_3": "Genetic mutations affecting surfactant protein production represent the most proximal initiating event, leading to alveolar instability, collapse, and chronic inflammation that progresses to fibrosis.",
+                        "wrongAnswer_4": "Primary pulmonary vascular hypertension, caused by congenital heart defects, is the initial proximal factor, resulting in chronic passive congestion of the lungs and secondary parenchymal remodeling and fibrosis."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which clinical manifestation is typically considered the most prevalent and earliest presenting symptom reported by patients during the initial stages of this progressive pulmonary condition?",
+                        "goodAnswer": "Progressive exertional dyspnea is typically the most common and earliest presenting symptom, often insidious in onset and gradually worsening with physical activity as the disease progresses.",
+                        "wrongAnswer_1": "A persistent, productive cough with mucopurulent sputum production is the most common initial symptom, indicative of chronic airway inflammation and preceding the onset of significant dyspnea.",
+                        "wrongAnswer_2": "Acute episodes of pleuritic chest pain, exacerbated by deep inspiration or coughing, are frequently the first clinical feature, suggesting inflammatory involvement of the pleura at disease onset.",
+                        "wrongAnswer_3": "Recurrent hemoptysis, ranging from blood-streaked sputum to frank hemorrhage, is often the initial symptom, raising suspicion for underlying vascular or bronchial abnormalities in the lungs.",
+                        "wrongAnswer_4": "Unexplained weight loss and anorexia are commonly the first noticeable clinical signs, reflecting the systemic inflammatory burden and altered metabolic state associated with the disease's early stages."
+                    },
+                    {
+                        "question": "In the physical examination of a patient with advanced stages of this disease, which auscultatory finding is most characteristically associated with the fibrotic lung tissue and reduced pulmonary compliance?",
+                        "goodAnswer": "Fine, end-inspiratory crackles (rales), often described as 'Velcro-like', are the most characteristic auscultatory finding in advanced stages, reflecting the presence of fibrotic changes and alveolar opening during inspiration.",
+                        "wrongAnswer_1": "Wheezing, particularly expiratory wheezing, is the most typical auscultatory finding, indicative of airflow obstruction in the bronchioles and commonly associated with bronchospasm and mucus plugging.",
+                        "wrongAnswer_2": "Coarse, early-inspiratory crackles (rhonchi) are the most commonly heard sounds, suggesting the presence of secretions in the larger airways and potentially indicating concurrent bronchitis or pneumonia.",
+                        "wrongAnswer_3": "Pleural friction rub, a grating or squeaking sound heard during both inspiration and expiration, is the most distinctive finding, indicating inflammation and roughening of the pleural surfaces in advanced disease.",
+                        "wrongAnswer_4": "Diminished breath sounds globally throughout the lung fields are the most consistent auscultatory feature, reflecting overall reduced air entry into the lungs due to generalized airway obstruction or pleural effusion."
+                    },
+                    {
+                        "question": "Concerning the extra-pulmonary manifestations of this disease, which of the following systemic features is least likely to be directly attributable to the primary pulmonary pathology and its systemic consequences?",
+                        "goodAnswer": "Gastroesophageal reflux disease (GERD), while commonly comorbid, is least likely to be a direct extra-pulmonary manifestation, although it can exacerbate respiratory symptoms and potentially influence disease progression indirectly.",
+                        "wrongAnswer_1": "Digital clubbing, characterized by bulbous swelling of the fingertips and nailbeds, is a recognized extra-pulmonary manifestation, reflecting chronic hypoxemia and associated vascular changes in advanced disease.",
+                        "wrongAnswer_2": "Pulmonary hypertension, leading to right ventricular hypertrophy and eventually cor pulmonale, is a significant and direct consequence of the chronic pulmonary vascular remodeling in advanced stages.",
+                        "wrongAnswer_3": "Arthralgia and myalgia, potentially related to systemic inflammation or medication side effects, can occur as extra-pulmonary features, contributing to overall patient morbidity and reduced quality of life.",
+                        "wrongAnswer_4": "Fatigue and weight loss, reflecting the increased metabolic demand and systemic inflammatory state, are common extra-pulmonary symptoms, impacting overall functional status and nutritional reserves."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Among the various diagnostic modalities, which imaging technique is considered the gold standard for the initial evaluation and characterization of the typical radiographic patterns associated with this interstitial lung disease?",
+                        "goodAnswer": "High-resolution computed tomography (HRCT) of the chest is considered the gold standard for initial evaluation, providing detailed anatomical information and characteristic patterns like honeycombing, traction bronchiectasis, and ground-glass opacities.",
+                        "wrongAnswer_1": "Standard chest radiography (CXR) is the gold standard initial imaging modality due to its widespread availability and low cost, effectively demonstrating subtle interstitial changes like reticular opacities and early honeycombing.",
+                        "wrongAnswer_2": "Pulmonary function tests (PFTs), specifically spirometry and lung volumes, serve as the gold standard for initial diagnosis by identifying the restrictive ventilatory defect and reduced diffusing capacity characteristic of the disease.",
+                        "wrongAnswer_3": "Bronchoscopy with bronchoalveolar lavage (BAL) is the gold standard diagnostic procedure, allowing for direct visualization of the airways and collection of alveolar fluid for cellular and molecular analysis to confirm the diagnosis.",
+                        "wrongAnswer_4": "Ventilation-perfusion (V/Q) scanning is the gold standard for initial assessment, primarily to rule out pulmonary embolism and assess for regional differences in lung function, indirectly suggesting interstitial lung disease."
+                    },
+                    {
+                        "question": "In the differential diagnosis of this specific interstitial lung disease, which condition is most crucial to distinguish it from, especially considering overlapping clinical and radiological features, and requires careful consideration of specific diagnostic criteria?",
+                        "goodAnswer": "Usual Interstitial Pneumonia (UIP) pattern associated with Idiopathic Pulmonary Fibrosis (IPF) is the most crucial differential diagnosis, necessitating careful evaluation of clinical context, radiological patterns, and histopathological findings to differentiate.",
+                        "wrongAnswer_1": "Sarcoidosis, a systemic granulomatous disease, is the most important differential diagnosis due to its frequent pulmonary involvement, requiring differentiation based on serum ACE levels, lymph node biopsy, and characteristic radiographic distribution.",
+                        "wrongAnswer_2": "Pneumoconiosis, specifically silicosis and asbestosis, is the most critical differential diagnosis, primarily based on occupational history of dust exposure and characteristic nodular opacities and pleural plaques on imaging.",
+                        "wrongAnswer_3": "Hypersensitivity pneumonitis (HP), an inflammatory lung disease caused by inhaled antigens, represents the most significant differential diagnosis, requiring detailed environmental exposure history and bronchoalveolar lavage findings to differentiate.",
+                        "wrongAnswer_4": "Pulmonary Langerhans cell histiocytosis (PLCH), associated with smoking, is the most important differential diagnosis due to its predilection for upper lung zones and cystic changes, necessitating bronchoalveolar lavage and biopsy for confirmation."
+                    },
+                    {
+                        "question": "When interpreting pulmonary function tests (PFTs) in the context of this restrictive lung disease, which specific pattern of results is most consistently observed and considered highly suggestive of underlying fibrotic lung pathology?",
+                        "goodAnswer": "A restrictive ventilatory defect, characterized by reduced forced vital capacity (FVC), total lung capacity (TLC), and often a preserved or increased FEV1/FVC ratio, along with decreased diffusion capacity for carbon monoxide (DLCO), is most consistent.",
+                        "wrongAnswer_1": "An obstructive ventilatory defect, evidenced by reduced forced expiratory volume in one second (FEV1) and FEV1/FVC ratio, with normal or increased TLC and DLCO, is the most commonly observed PFT pattern in this disease.",
+                        "wrongAnswer_2": "A mixed ventilatory defect, showing features of both restriction and obstruction with reductions in FEV1, FVC, and FEV1/FVC ratio, but with normal TLC and DLCO, is typically seen in advanced stages of the disease.",
+                        "wrongAnswer_3": "Normal spirometry and lung volumes, but with a significantly reduced DLCO, are the most frequent PFT findings, indicating primarily a gas exchange abnormality rather than a ventilatory impairment in early disease stages.",
+                        "wrongAnswer_4": "Increased lung volumes and capacities, including TLC and residual volume (RV), coupled with a normal FEV1/FVC ratio but decreased DLCO, are the most suggestive PFT findings, indicating hyperinflation and air trapping in fibrotic lungs."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "Considering the current therapeutic landscape, which pharmacological agent or drug class is specifically indicated and has demonstrated efficacy in slowing the progression of fibrosis and improving outcomes in patients diagnosed with this particular chronic fibrotic lung disease?",
+                        "goodAnswer": "Antifibrotic medications, specifically pirfenidone and nintedanib, are indicated and have shown efficacy in slowing disease progression, reducing the rate of decline in lung function, and improving survival in patients.",
+                        "wrongAnswer_1": "Systemic corticosteroids, such as prednisone or methylprednisolone, are the first-line pharmacological agents for managing this disease, effectively suppressing inflammation and reversing the fibrotic process in most patients.",
+                        "wrongAnswer_2": "Bronchodilators, including long-acting beta-agonists (LABAs) and long-acting muscarinic antagonists (LAMAs), are the primary medications used to improve airflow obstruction and reduce dyspnea in these patients.",
+                        "wrongAnswer_3": "Immunosuppressants, such as methotrexate or azathioprine, are the cornerstone of therapy, effectively targeting the underlying autoimmune component and preventing further lung damage and fibrosis progression.",
+                        "wrongAnswer_4": "Mucolytic agents, like acetylcysteine (NAC) or guaifenesin, are the primary therapeutic interventions, helping to clear airway secretions, reduce cough, and thereby indirectly improving lung function and reducing fibrosis."
+                    },
+                    {
+                        "question": "Beyond pharmacological interventions, which non-pharmacological management strategy is considered a cornerstone in the comprehensive care of patients with this chronic respiratory condition and significantly improves their quality of life and functional capacity?",
+                        "goodAnswer": "Pulmonary rehabilitation, encompassing exercise training, education, and psychosocial support, is a cornerstone of non-pharmacological management, significantly improving exercise tolerance, dyspnea, and overall quality of life.",
+                        "wrongAnswer_1": "Dietary modification, specifically a low-carbohydrate, high-fat diet, is a key non-pharmacological intervention, reducing metabolic demand and improving respiratory muscle function and overall disease outcomes.",
+                        "wrongAnswer_2": "Chest physiotherapy, including postural drainage and percussion, is the primary non-pharmacological approach, effectively clearing airway secretions, preventing respiratory infections, and improving lung compliance.",
+                        "wrongAnswer_3": "Mechanical ventilation, particularly non-invasive positive pressure ventilation (NPPV), is a crucial non-pharmacological strategy, providing respiratory support, reducing work of breathing, and improving gas exchange in stable patients.",
+                        "wrongAnswer_4": "Acupuncture and traditional Chinese medicine (TCM) are essential non-pharmacological therapies, effectively alleviating symptoms like dyspnea and cough, and improving overall well-being and disease management in these patients."
+                    },
+                    {
+                        "question": "In the context of advanced and end-stage disease, which definitive therapeutic intervention offers the potential for significantly extending survival and improving long-term outcomes for carefully selected patients with this progressive pulmonary fibrosis?",
+                        "goodAnswer": "Lung transplantation is the definitive therapeutic intervention in advanced and end-stage disease for eligible patients, offering the potential for significant survival extension and improved quality of life post-transplant.",
+                        "wrongAnswer_1": "Long-term oxygen therapy (LTOT) is the definitive intervention in end-stage disease, providing symptomatic relief from hypoxemia, reducing pulmonary hypertension, and significantly prolonging survival in all patients.",
+                        "wrongAnswer_2": "Palliative care, focused on symptom management and supportive care, is the definitive intervention for end-stage disease, primarily aimed at improving comfort and quality of life, but not directly extending survival.",
+                        "wrongAnswer_3": "Hematopoietic stem cell transplantation (HSCT) is the definitive therapeutic approach in advanced disease, effectively replacing damaged lung tissue with healthy cells and reversing the fibrotic process in the long term.",
+                        "wrongAnswer_4": "Gene therapy, targeting specific fibrotic pathways and delivering antifibrotic genes to lung cells, is the definitive intervention for end-stage disease, promising to halt disease progression and induce lung regeneration."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

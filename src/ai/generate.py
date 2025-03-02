@@ -46,7 +46,7 @@ def generate(client: genai.Client, parts, prompt: str):
         )
     ]
     generate_content_config = types.GenerateContentConfig(
-        temperature=0.7,
+        temperature=1.0,
         top_p=0.95,
         top_k=64,
         max_output_tokens=65536,

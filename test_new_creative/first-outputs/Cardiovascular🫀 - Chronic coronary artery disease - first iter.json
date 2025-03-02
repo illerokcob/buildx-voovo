@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Chronic coronary artery disease",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Development of CAD",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary initiating factor in the pathogenesis of coronary artery disease (CAD), which establishes the foundation for subsequent atherosclerotic plaque development and vascular dysfunction.",
+                        "goodAnswer": "Endothelial dysfunction, characterized by impaired nitric oxide production and increased permeability, is the initiating factor in CAD pathogenesis, leading to monocyte adhesion and lipid infiltration.",
+                        "wrongAnswer_1": "Smooth muscle cell proliferation, marked by excessive growth and migration into the intima, is the primary initiating factor in CAD, causing endothelial dysfunction and subsequent lipid deposition.",
+                        "wrongAnswer_2": "Inflammation of the adventitia, evidenced by infiltration of lymphocytes and macrophages, is the initiating factor in CAD development, triggering endothelial dysfunction and platelet aggregation.",
+                        "wrongAnswer_3": "Adventitial fibrosis, resulting from increased collagen deposition in the outer vessel layer, is the primary initiator of CAD, leading to endothelial dysfunction and altered vascular reactivity.",
+                        "wrongAnswer_4": "Medial hypertrophy, defined by thickening of the smooth muscle layer in the arterial wall, is the initiating event in CAD pathogenesis, causing endothelial dysfunction and altered blood flow dynamics."
+                    },
+                    {
+                        "question": "Determine the sequence of cellular and molecular events accurately depicting the progression from early endothelial injury to the formation of a complex atherosclerotic plaque in coronary arteries.",
+                        "goodAnswer": "Endothelial Injury -> Lipid Infiltration -> Monocyte Adhesion & Macrophage Activation -> Foam Cell Formation -> Smooth Muscle Cell Migration & Proliferation -> Extracellular Matrix Deposition -> Plaque Rupture/Erosion.",
+                        "wrongAnswer_1": "Lipid Infiltration -> Endothelial Injury -> Foam Cell Formation -> Monocyte Adhesion & Macrophage Activation -> Smooth Muscle Cell Migration & Proliferation -> Extracellular Matrix Deposition -> Plaque Rupture/Erosion.",
+                        "wrongAnswer_2": "Endothelial Injury -> Monocyte Adhesion & Macrophage Activation -> Smooth Muscle Cell Migration & Proliferation -> Lipid Infiltration -> Foam Cell Formation -> Extracellular Matrix Deposition -> Plaque Rupture/Erosion.",
+                        "wrongAnswer_3": "Endothelial Injury -> Lipid Infiltration -> Foam Cell Formation -> Monocyte Adhesion & Macrophage Activation -> Smooth Muscle Cell Migration & Proliferation -> Extracellular Matrix Deposition -> Plaque Rupture/Erosion.",
+                        "wrongAnswer_4": "Monocyte Adhesion & Macrophage Activation -> Endothelial Injury -> Lipid Infiltration -> Foam Cell Formation -> Smooth Muscle Cell Migration & Proliferation -> Extracellular Matrix Deposition -> Plaque Rupture/Erosion."
+                    },
+                    {
+                        "question": "Identify the pivotal role of oxidized low-density lipoprotein (ox-LDL) in atherogenesis beyond lipid accumulation, particularly in the context of inflammatory and cellular signaling pathways.",
+                        "goodAnswer": "Ox-LDL acts as a potent pro-inflammatory mediator, activating endothelial cells and macrophages via TLRs and lectin-like oxidized LDL receptor-1 (LOX-1), promoting cytokine release and foam cell formation.",
+                        "wrongAnswer_1": "Ox-LDL primarily functions as a structural component within the plaque core, providing stability to the lesion but having minimal direct involvement in inflammatory or cellular signaling pathways.",
+                        "wrongAnswer_2": "Ox-LDL acts primarily as a chemoattractant for neutrophils, guiding them to the site of endothelial injury and initiating acute inflammation, but minimally affects macrophage activation or foam cell development.",
+                        "wrongAnswer_3": "Ox-LDL functions as a potent antioxidant within the arterial wall, counteracting oxidative stress and thereby reducing endothelial damage, but it indirectly promotes smooth muscle cell proliferation.",
+                        "wrongAnswer_4": "Ox-LDL mainly serves as a substrate for enzymatic degradation within the vessel wall, preventing excessive lipid buildup but having no significant role in inflammation, cellular signaling, or foam cell formation."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical presentations/definitions",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between stable angina pectoris and unstable angina in terms of their clinical presentation, underlying pathophysiology, and implications for acute coronary syndrome risk.",
+                        "goodAnswer": "Stable angina is characterized by predictable chest pain on exertion, relieved by rest or nitroglycerin, due to fixed atherosclerotic obstruction, while unstable angina presents with new-onset, increasing, or rest angina, often from plaque disruption and thrombosis, indicating higher ACS risk.",
+                        "wrongAnswer_1": "Stable angina is defined by chest pain at rest, worsening with exertion, due to vasospasm, relieved by calcium channel blockers, while unstable angina presents with predictable exertional chest pain, relieved by nitroglycerin, indicating lower ACS risk.",
+                        "wrongAnswer_2": "Stable angina is characterized by chest pain radiating to the right arm, associated with ST-segment elevation, due to acute plaque rupture, while unstable angina presents with typical exertional chest pain, relieved by rest, indicating moderate ACS risk.",
+                        "wrongAnswer_3": "Stable angina presents with prolonged chest pain lasting over 30 minutes, unresponsive to nitroglycerin, due to complete coronary occlusion, while unstable angina is characterized by brief episodes of chest discomfort, relieved spontaneously, indicating minimal ACS risk.",
+                        "wrongAnswer_4": "Stable angina is defined by nocturnal chest pain, relieved by sitting upright, due to heart failure, while unstable angina presents with exertional chest pain radiating to the jaw, relieved by beta-blockers, indicating variable ACS risk."
+                    },
+                    {
+                        "question": "Contrast the diagnostic criteria and clinical significance of Non-ST-segment Elevation Myocardial Infarction (NSTEMI) versus ST-segment Elevation Myocardial Infarction (STEMI) within the spectrum of acute coronary syndromes.",
+                        "goodAnswer": "NSTEMI is diagnosed by elevated cardiac biomarkers (troponin) without ST-segment elevation, typically from subtotal occlusion, carrying intermediate risk, whereas STEMI shows ST-segment elevation and biomarker elevation, indicative of total occlusion and high risk.",
+                        "wrongAnswer_1": "NSTEMI is diagnosed by ST-segment elevation and elevated troponin, indicating total occlusion and high risk, while STEMI is identified by elevated biomarkers alone without ST-segment changes, from microvascular dysfunction, carrying low risk.",
+                        "wrongAnswer_2": "NSTEMI is diagnosed by ST-segment depression and elevated CK-MB, indicating vasospasm, carrying low risk, whereas STEMI shows Q waves and elevated troponin, indicative of chronic ischemia and moderate risk.",
+                        "wrongAnswer_3": "NSTEMI is characterized by normal ECG and elevated CRP, indicating inflammation, carrying minimal risk, while STEMI presents with T-wave inversions and normal troponin, indicative of early ischemia and intermediate risk.",
+                        "wrongAnswer_4": "NSTEMI is diagnosed by elevated BNP and normal troponin, indicating heart failure, carrying variable risk, whereas STEMI is identified by PR interval prolongation and elevated CK-MB, indicative of conduction block and high risk."
+                    },
+                    {
+                        "question": "Explain the concept of 'silent myocardial ischemia', including its mechanisms, prevalence in specific patient populations, and implications for cardiovascular prognosis and management strategies.",
+                        "goodAnswer": "Silent ischemia refers to myocardial ischemia without typical angina symptoms, often due to altered pain perception or autonomic neuropathy (e.g., in diabetics), prevalent in elderly and diabetics, associated with adverse prognosis, requiring aggressive risk factor management.",
+                        "wrongAnswer_1": "Silent ischemia denotes myocardial ischemia with atypical symptoms like palpitations or dyspnea, more common in young women, related to microvascular angina, with benign prognosis, requiring conservative management and reassurance.",
+                        "wrongAnswer_2": "Silent ischemia describes ischemia only detectable during exercise stress testing, absent at rest, related to demand-induced ischemia, prevalent in athletes, with neutral prognosis, requiring lifestyle modification and regular monitoring.",
+                        "wrongAnswer_3": "Silent ischemia signifies ischemia with referred pain to the abdomen or back, common in patients with GERD, caused by esophageal spasm mimicking cardiac pain, with uncertain prognosis, requiring gastrointestinal evaluation.",
+                        "wrongAnswer_4": "Silent ischemia means ischemia occurring only during sleep, related to nocturnal vasospasm, prevalent in patients with sleep apnea, with good prognosis, requiring sleep hygiene and oxygen therapy for management."
+                    }
+                ]
+            },
+            {
+                "title": "Concept of myocardioal oxygen supply and demand",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary determinants of myocardial oxygen demand (MVO2) and how they are modulated under physiological and pathophysiological conditions, influencing the balance between supply and demand.",
+                        "goodAnswer": "MVO2 is primarily determined by heart rate, contractility, and wall stress (afterload/preload); increased demand during exercise or stress, and reduced demand during rest or with beta-blockers, impacting ischemia risk.",
+                        "wrongAnswer_1": "MVO2 is primarily determined by blood viscosity, temperature, and vessel diameter; increased demand during hypothermia or vasodilation, and reduced demand during hyperthermia or vasoconstriction, irrelevant to ischemia.",
+                        "wrongAnswer_2": "MVO2 is primarily determined by respiratory rate, tidal volume, and oxygen saturation; increased demand during hyperventilation or hypoxia, and reduced demand during hypoventilation or hyperoxia, unrelated to cardiac workload.",
+                        "wrongAnswer_3": "MVO2 is primarily determined by renal blood flow, glomerular filtration rate, and urine output; increased demand during dehydration or renal failure, and reduced demand during overhydration or diuretics, indirectly affecting ischemia.",
+                        "wrongAnswer_4": "MVO2 is primarily determined by cerebral blood flow, intracranial pressure, and neuronal activity; increased demand during seizures or brain injury, and reduced demand during coma or anesthesia, not directly influencing myocardial ischemia."
+                    },
+                    {
+                        "question": "Explain the key factors that govern myocardial oxygen supply, emphasizing the role of coronary blood flow regulation, oxygen extraction, and the influence of factors like heart rate and diastolic filling time.",
+                        "goodAnswer": "Myocardial oxygen supply is determined by coronary blood flow, oxygen extraction, and hemoglobin concentration; coronary flow is autoregulated, primarily occurring during diastole, reduced by tachycardia and coronary stenosis.",
+                        "wrongAnswer_1": "Myocardial oxygen supply is determined by pulmonary capillary wedge pressure, systemic vascular resistance, and cardiac output; supply increases with increased preload and afterload, primarily occurring during systole, unaffected by heart rate.",
+                        "wrongAnswer_2": "Myocardial oxygen supply is determined by arterial blood pressure, venous return, and lymphatic drainage; supply is increased by hypertension and reduced by hypotension, primarily occurring during systole, enhanced by tachycardia.",
+                        "wrongAnswer_3": "Myocardial oxygen supply is determined by peripheral resistance, central venous pressure, and blood volume; supply is enhanced by peripheral vasodilation and reduced by vasoconstriction, occurring equally in systole and diastole, independent of coronary anatomy.",
+                        "wrongAnswer_4": "Myocardial oxygen supply is determined by alveolar ventilation, diffusion capacity, and PaO2; supply is increased by hyperoxia and reduced by hypoxia, occurring continuously throughout the cardiac cycle, unaffected by coronary flow."
+                    },
+                    {
+                        "question": "Discuss the concept of coronary autoregulation and its importance in maintaining constant myocardial blood flow despite variations in perfusion pressure, highlighting the mechanisms involved and their limitations in CAD.",
+                        "goodAnswer": "Coronary autoregulation maintains stable flow despite pressure changes via myogenic and metabolic mechanisms (adenosine, nitric oxide), crucial for oxygen delivery; impaired in CAD due to fixed stenoses and endothelial dysfunction, limiting reserve.",
+                        "wrongAnswer_1": "Coronary autoregulation refers to flow adjustment based on systemic vascular resistance, maintained by baroreceptors and hormones (renin-angiotensin system), vital for systemic blood pressure control; enhanced in CAD by collateral vessel formation.",
+                        "wrongAnswer_2": "Coronary autoregulation adjusts flow based on respiratory rate and depth, maintained by chemoreceptors and autonomic nervous system, essential for oxygenation; unaffected by CAD unless severe heart failure develops.",
+                        "wrongAnswer_3": "Coronary autoregulation modulates flow based on renal sodium and water excretion, maintained by aldosterone and ADH, important for fluid balance; impaired in CAD due to diuretic therapy and sodium restriction.",
+                        "wrongAnswer_4": "Coronary autoregulation controls flow based on cerebral metabolic demand, maintained by neurovascular coupling and CO2 reactivity, crucial for brain function; indirectly affected in CAD due to shared risk factors like hypertension."
+                    }
+                ]
+            },
+            {
+                "title": "Pathophysiology of chronic ischemia syndromes",
+                "quizzes": [
+                    {
+                        "question": "Elaborate on the mechanisms underlying myocardial stunning and hibernation in chronic ischemic syndromes, differentiating their reversibility, cellular adaptations, and clinical implications for cardiac function recovery.",
+                        "goodAnswer": "Stunning is reversible contractile dysfunction post-reperfusion despite no necrosis, due to oxidative stress and calcium overload; hibernation is chronic adaptation to reduced flow with reduced function but viability, both reversible with revascularization.",
+                        "wrongAnswer_1": "Stunning is irreversible myocardial necrosis following prolonged ischemia, characterized by scar tissue and loss of function; hibernation is acute contractile dysfunction due to vasospasm, spontaneously resolving without intervention.",
+                        "wrongAnswer_2": "Stunning is chronic, progressive contractile dysfunction due to mitochondrial damage, leading to heart failure; hibernation is acute, transient dysfunction due to electrolyte imbalance, rapidly corrected with electrolyte repletion.",
+                        "wrongAnswer_3": "Stunning is immediate contractile dysfunction during ischemia, improving with continued ischemia due to metabolic adaptation; hibernation is permanent loss of function due to apoptosis, irreversible even with revascularization.",
+                        "wrongAnswer_4": "Stunning is delayed contractile dysfunction occurring weeks after ischemia, due to inflammation and remodeling; hibernation is intermittent dysfunction triggered by stress, resolving spontaneously with stress reduction."
+                    },
+                    {
+                        "question": "Describe the process of ischemic preconditioning and postconditioning, outlining their protective effects against myocardial ischemia-reperfusion injury, and contrasting their timing and mechanisms of action.",
+                        "goodAnswer": "Preconditioning involves brief ischemia/reperfusion cycles before prolonged ischemia, activating protective pathways (e.g., KATP channels, adenosine) reducing infarct size; postconditioning applies similar cycles after ischemia, at reperfusion onset, limiting reperfusion injury.",
+                        "wrongAnswer_1": "Preconditioning involves prolonged ischemia followed by brief reperfusion to induce tolerance, worsening infarct size; postconditioning applies brief ischemia before reperfusion to enhance injury, preventing reperfusion-induced recovery.",
+                        "wrongAnswer_2": "Preconditioning involves administration of antioxidants before ischemia to reduce oxidative stress, preventing injury; postconditioning involves administering vasodilators after ischemia to improve flow, enhancing reperfusion injury.",
+                        "wrongAnswer_3": "Preconditioning refers to long-term adaptation to chronic ischemia with collateral vessel growth, providing sustained protection; postconditioning refers to acute adaptation to hypoxemia by increasing erythropoietin production, improving oxygen delivery.",
+                        "wrongAnswer_4": "Preconditioning involves surgical removal of atherosclerotic plaque before ischemia to prevent blockage; postconditioning involves implantation of a stent after ischemia to restore flow, both unrelated to ischemia-reperfusion injury."
+                    },
+                    {
+                        "question": "Explain the role of collateral coronary circulation in chronic ischemic heart disease, including the mechanisms of collateral vessel formation (angiogenesis and arteriogenesis), their limitations, and clinical significance for symptom modulation and prognosis.",
+                        "goodAnswer": "Collaterals develop in response to chronic ischemia via angiogenesis (new vessel growth) and arteriogenesis (vessel enlargement), providing alternative flow; often insufficient in severe stenosis, but can modulate symptoms and improve prognosis marginally in chronic CAD.",
+                        "wrongAnswer_1": "Collaterals are congenital bypass vessels present from birth, bypassing coronary arteries, unrelated to ischemia; they provide complete protection against CAD, ensuring normal myocardial perfusion regardless of stenosis severity.",
+                        "wrongAnswer_2": "Collaterals are iatrogenic vessels created surgically during bypass grafting, improving flow in acute MI; they are not naturally occurring and have no role in chronic ischemia or spontaneous symptom modulation in CAD patients.",
+                        "wrongAnswer_3": "Collaterals are venous channels draining ischemic myocardium, removing metabolic waste products, not supplying oxygenated blood; they worsen ischemia by creating coronary steal phenomenon, detrimental in chronic CAD.",
+                        "wrongAnswer_4": "Collaterals are lymphatic vessels within the myocardium, draining interstitial fluid and inflammatory mediators, unrelated to blood flow; they are primarily involved in immune response and have no impact on chronic ischemia or prognosis in CAD."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis, Treatment strategies, Prognosis",
+                "quizzes": [
+                    {
+                        "question": "Compare and contrast the diagnostic utility of exercise electrocardiography (ECG), myocardial perfusion scintigraphy (MPS), and coronary computed tomography angiography (CCTA) in evaluating patients with suspected chronic coronary artery disease.",
+                        "goodAnswer": "Exercise ECG assesses ischemia during stress (ST depression), low sensitivity/specificity; MPS uses radioisotopes to assess perfusion defects at rest/stress, higher sensitivity for ischemia detection; CCTA visualizes coronary anatomy, detects stenosis, high negative predictive value, good for anatomical CAD assessment.",
+                        "wrongAnswer_1": "Exercise ECG visualizes coronary anatomy directly, high sensitivity for stenosis detection; MPS measures ejection fraction at rest and stress, assessing global function; CCTA evaluates valve function and chamber size, unrelated to coronary ischemia.",
+                        "wrongAnswer_2": "Exercise ECG is gold standard for detecting hibernating myocardium, high specificity for viability assessment; MPS measures coronary flow velocity, assessing microvascular function; CCTA quantifies calcium score, predicting future cardiac events irrespective of ischemia.",
+                        "wrongAnswer_3": "Exercise ECG assesses cardiac autonomic function (heart rate variability), low sensitivity for CAD; MPS detects valvular regurgitation severity, assessing hemodynamic burden; CCTA visualizes pulmonary embolism, unrelated to coronary artery disease.",
+                        "wrongAnswer_4": "Exercise ECG measures myocardial oxygen consumption at peak exercise, high specificity for ischemia quantification; MPS detects ventricular arrhythmias during stress, assessing electrical instability; CCTA evaluates pericardial effusion volume, unrelated to coronary artery disease."
+                    },
+                    {
+                        "question": "Outline the pharmacological treatment strategies for chronic stable angina, categorizing medications based on their mechanisms of action and their primary effects on myocardial oxygen supply, demand, and symptom relief.",
+                        "goodAnswer": "Stable angina treatment includes nitrates (venodilation, reduced preload/demand), beta-blockers (reduced HR/contractility, demand reduction), calcium channel blockers (vasodilation, demand/supply balance), and antiplatelets (prevent thrombosis), targeting symptom control and event prevention.",
+                        "wrongAnswer_1": "Stable angina treatment includes diuretics (volume reduction, reduced preload/demand), ACE inhibitors (vasoconstriction, increased afterload/demand), digoxin (increased contractility, increased demand), and anticoagulants (prevent bleeding), targeting symptom control and heart failure management.",
+                        "wrongAnswer_2": "Stable angina treatment includes inotropes (increased contractility, increased demand), vasopressors (vasoconstriction, increased afterload/demand), antiarrhythmics (suppress arrhythmias, demand modulation indirectly), and fibrinolytics (dissolve thrombi), targeting acute myocardial infarction management.",
+                        "wrongAnswer_3": "Stable angina treatment includes statins (lipid lowering, plaque stabilization), antibiotics (reduce infection, inflammation), immunosuppressants (reduce autoimmune response), and analgesics (pain relief only), targeting risk factor modification and non-cardiac symptom management.",
+                        "wrongAnswer_4": "Stable angina treatment includes bronchodilators (improve respiratory function, oxygenation), muscle relaxants (reduce chest wall pain), proton pump inhibitors (reduce acid reflux symptoms), and vitamin supplements (general health improvement), targeting non-cardiac conditions mimicking angina."
+                    },
+                    {
+                        "question": "Discuss the role of percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG) in the management of chronic coronary artery disease, considering factors such as disease severity, anatomical complexity, patient comorbidities, and long-term outcomes.",
+                        "goodAnswer": "PCI (stenting) is preferred for less complex CAD (1-2 vessel disease), lower morbidity, faster recovery; CABG (surgical bypass) for complex CAD (multivessel, left main), better for diabetics and complex anatomy, potentially superior long-term outcomes in severe CAD, but higher initial risk.",
+                        "wrongAnswer_1": "PCI (stenting) is exclusively used for left main coronary artery stenosis, higher efficacy in severe CAD, higher long-term patency rates compared to CABG; CABG (surgical bypass) is reserved for single vessel disease in young patients with low surgical risk and better cosmetic results.",
+                        "wrongAnswer_2": "PCI (stenting) is contraindicated in diabetic patients and those with multivessel disease, higher risk of restenosis and stent thrombosis; CABG (surgical bypass) is the primary treatment for all CAD, regardless of severity or complexity, with universally superior outcomes.",
+                        "wrongAnswer_3": "PCI (stenting) is only effective for acute coronary syndromes, no role in chronic stable angina management; CABG (surgical bypass) is used for primary prevention of CAD in asymptomatic individuals with risk factors and excellent long-term outcomes.",
+                        "wrongAnswer_4": "PCI (stenting) has no role in revascularization, used only for diagnostic purposes; CABG (surgical bypass) is exclusively used for peripheral artery disease, improving limb perfusion, unrelated to coronary artery disease management."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

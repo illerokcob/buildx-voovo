@@ -1,0 +1,212 @@
+{
+    "mainTopic": {
+        "title": "Anti Inflammatory Drugs",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Prostaglandins: physiologic and pathological functions",
+                "quizzes": [
+                    {
+                        "question": "What is the primary enzyme responsible for the constitutive production of prostaglandins involved in maintaining physiological homeostasis, particularly in the gastric mucosa and renal system?",
+                        "goodAnswer": "Cyclooxygenase-1 (COX-1) is predominantly responsible for the constitutive synthesis of prostaglandins, which play a crucial role in maintaining gastric mucosal integrity and regulating renal blood flow and glomerular filtration.",
+                        "wrongAnswer_1": "Cyclooxygenase-2 (COX-2) is primarily responsible for the constitutive synthesis of prostaglandins, which are mainly involved in inflammatory responses and are minimally involved in gastric and renal homeostasis.",
+                        "wrongAnswer_2": "Lipoxygenase (LOX) is primarily responsible for the constitutive synthesis of prostaglandins, which play a crucial role in maintaining gastric mucosal integrity and regulating renal tubular secretion and reabsorption.",
+                        "wrongAnswer_3": "Phospholipase A2 (PLA2) is primarily responsible for the constitutive synthesis of prostaglandins, which are involved in both inflammatory and homeostatic processes but are less significant in renal function.",
+                        "wrongAnswer_4": "Cyclooxygenase-3 (COX-3) is primarily responsible for the constitutive synthesis of prostaglandins, specifically those involved in central nervous system function and pain modulation, with minimal impact on gastric mucosa."
+                    },
+                    {
+                        "question": "In the context of inflammation, which prostaglandin primarily mediates pain sensitization and vasodilation, contributing to the cardinal signs of inflammation such as redness and edema?",
+                        "goodAnswer": "Prostaglandin E2 (PGE2) is a key mediator of inflammation, inducing pain sensitization by lowering the threshold of nociceptors and promoting vasodilation, thus contributing to erythema and edema formation.",
+                        "wrongAnswer_1": "Prostaglandin F2\u03b1 (PGF2\u03b1) is a key mediator of inflammation, inducing pain sensitization by raising the threshold of nociceptors and promoting vasoconstriction, thus contributing to pallor and reduced edema.",
+                        "wrongAnswer_2": "Prostacyclin (PGI2) is a key mediator of inflammation, primarily inducing platelet aggregation and vasoconstriction, which are essential for containing the inflammatory response and limiting tissue damage.",
+                        "wrongAnswer_3": "Thromboxane A2 (TXA2) is a key mediator of inflammation, inducing pain desensitization and vasodilation, thereby counteracting the effects of other inflammatory mediators and resolving inflammation.",
+                        "wrongAnswer_4": "Leukotriene B4 (LTB4) is a key mediator of inflammation, inducing pain sensitization via central nervous system pathways and promoting vasoconstriction, which reduces blood flow to the inflamed area."
+                    },
+                    {
+                        "question": "Considering the diverse roles of prostaglandins, identify the prostaglandin that predominantly contributes to the resolution of inflammation and vascular homeostasis by inhibiting platelet aggregation and promoting vasodilation.",
+                        "goodAnswer": "Prostacyclin (PGI2), synthesized primarily by endothelial cells, plays a critical role in resolving inflammation and maintaining vascular homeostasis by potently inhibiting platelet aggregation and inducing vasodilation.",
+                        "wrongAnswer_1": "Thromboxane A2 (TXA2), synthesized primarily by platelets, plays a critical role in resolving inflammation and maintaining vascular homeostasis by potently inhibiting platelet aggregation and inducing vasoconstriction.",
+                        "wrongAnswer_2": "Prostaglandin E2 (PGE2), synthesized primarily by macrophages, plays a critical role in resolving inflammation and maintaining vascular homeostasis by potently promoting platelet aggregation and inducing vasodilation.",
+                        "wrongAnswer_3": "Prostaglandin D2 (PGD2), synthesized primarily by mast cells, plays a critical role in resolving inflammation and maintaining vascular homeostasis by potently promoting platelet aggregation and inducing vasoconstriction.",
+                        "wrongAnswer_4": "Leukotriene C4 (LTC4), synthesized primarily by leukocytes, plays a critical role in resolving inflammation and maintaining vascular homeostasis by potently inhibiting platelet aggregation and inducing vasoconstriction."
+                    }
+                ]
+            },
+            {
+                "title": "Overview of NSAIDs: General pharmacodynamics and pharmacokinetics of NSAIDS",
+                "quizzes": [
+                    {
+                        "question": "What is the principal pharmacodynamic mechanism of action shared by most Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) in alleviating pain and inflammation?",
+                        "goodAnswer": "NSAIDs primarily exert their analgesic and anti-inflammatory effects through the reversible or irreversible inhibition of cyclooxygenase (COX) enzymes, thereby reducing the synthesis of prostaglandins and thromboxanes.",
+                        "wrongAnswer_1": "NSAIDs primarily exert their analgesic and anti-inflammatory effects through the irreversible activation of lipoxygenase (LOX) enzymes, thereby increasing the synthesis of leukotrienes and lipoxins.",
+                        "wrongAnswer_2": "NSAIDs primarily exert their analgesic and anti-inflammatory effects through the competitive antagonism of prostaglandin receptors, thereby blocking the action of pre-formed prostaglandins at target tissues.",
+                        "wrongAnswer_3": "NSAIDs primarily exert their analgesic and anti-inflammatory effects through the potentiation of phospholipase A2 (PLA2) enzymes, thereby enhancing the release of arachidonic acid and subsequent prostaglandin synthesis.",
+                        "wrongAnswer_4": "NSAIDs primarily exert their analgesic and anti-inflammatory effects through the irreversible inhibition of phospholipase C (PLC) enzymes, thereby reducing the production of inositol triphosphate and diacylglycerol."
+                    },
+                    {
+                        "question": "Considering the pharmacokinetic properties of NSAIDs, what is a generally characteristic feature regarding their absorption and distribution within the body?",
+                        "goodAnswer": "NSAIDs are generally well-absorbed orally and exhibit high plasma protein binding, particularly to albumin, leading to a relatively small volume of distribution and potential drug interactions.",
+                        "wrongAnswer_1": "NSAIDs are generally poorly absorbed orally due to extensive first-pass metabolism and exhibit low plasma protein binding, resulting in a large volume of distribution and minimal drug interactions.",
+                        "wrongAnswer_2": "NSAIDs are typically administered intravenously due to poor oral bioavailability and exhibit negligible plasma protein binding, leading to a very small volume of distribution and rapid clearance.",
+                        "wrongAnswer_3": "NSAIDs are generally administered topically for localized effects and exhibit variable plasma protein binding, resulting in a moderate volume of distribution and unpredictable systemic exposure.",
+                        "wrongAnswer_4": "NSAIDs are characterized by slow and erratic oral absorption and exhibit saturable plasma protein binding, leading to a fluctuating volume of distribution and complex pharmacokinetic profiles."
+                    },
+                    {
+                        "question": "Regarding the metabolism and excretion of most traditional NSAIDs, which metabolic pathway and route of elimination are most commonly involved?",
+                        "goodAnswer": "Most traditional NSAIDs are metabolized primarily in the liver via cytochrome P450 (CYP) enzymes through oxidation and glucuronidation reactions, and are predominantly excreted renally as inactive metabolites.",
+                        "wrongAnswer_1": "Most traditional NSAIDs are metabolized primarily in the kidneys via glucuronosyltransferases through reduction and sulfation reactions, and are predominantly excreted hepatically as unchanged parent drugs.",
+                        "wrongAnswer_2": "Most traditional NSAIDs undergo minimal metabolism and are predominantly excreted unchanged in the feces via biliary excretion, with renal elimination playing a minor role in their clearance.",
+                        "wrongAnswer_3": "Most traditional NSAIDs are metabolized extrahepatically in plasma via esterases through hydrolysis reactions, and are predominantly excreted renally as active metabolites that contribute to their therapeutic effects.",
+                        "wrongAnswer_4": "Most traditional NSAIDs are metabolized primarily in the lungs via dehydrogenase enzymes through acetylation reactions, and are predominantly excreted via expired air as volatile metabolites, with negligible renal excretion."
+                    }
+                ]
+            },
+            {
+                "title": "Toxic side effects of NSAIDs",
+                "quizzes": [
+                    {
+                        "question": "What is the most prevalent and clinically significant gastrointestinal adverse effect associated with the use of non-selective NSAIDs, particularly concerning chronic use?",
+                        "goodAnswer": "The most common and serious gastrointestinal side effect of non-selective NSAIDs is the development of peptic ulcers and gastrointestinal bleeding, resulting from the inhibition of COX-1 and subsequent reduction in gastric mucosal protection.",
+                        "wrongAnswer_1": "The most common gastrointestinal side effect of non-selective NSAIDs is diarrhea and increased intestinal motility, resulting from the stimulation of COX-2 and subsequent increase in prostaglandin-mediated fluid secretion.",
+                        "wrongAnswer_2": "The most common gastrointestinal side effect of non-selective NSAIDs is constipation and decreased bowel movement frequency, resulting from the inhibition of COX-2 and subsequent reduction in intestinal muscle contraction.",
+                        "wrongAnswer_3": "The most common gastrointestinal side effect of non-selective NSAIDs is nausea and vomiting due to direct irritation of the gastric mucosa and stimulation of the chemoreceptor trigger zone in the brainstem.",
+                        "wrongAnswer_4": "The most common gastrointestinal side effect of non-selective NSAIDs is pancreatitis and inflammation of the pancreatic ducts, resulting from the accumulation of NSAIDs in pancreatic tissue and enzyme dysregulation."
+                    },
+                    {
+                        "question": "Which renal adverse effect is a significant concern with NSAID use, particularly in patients with pre-existing renal insufficiency or conditions that compromise renal perfusion?",
+                        "goodAnswer": "NSAIDs can induce acute kidney injury and chronic kidney disease, primarily through the inhibition of COX-1 and COX-2 in the kidney, leading to reduced renal blood flow, glomerular filtration rate, and sodium and water retention.",
+                        "wrongAnswer_1": "NSAIDs can cause nephrotic syndrome characterized by proteinuria and hypoalbuminemia, primarily through the direct toxic effects of NSAIDs on the glomerular basement membrane and podocyte dysfunction.",
+                        "wrongAnswer_2": "NSAIDs can lead to renal tubular acidosis and electrolyte imbalances, primarily through the inhibition of carbonic anhydrase in the renal tubules and disruption of acid-base balance and ion transport.",
+                        "wrongAnswer_3": "NSAIDs can induce urinary tract infections and bladder inflammation, primarily through the immunosuppressive effects of NSAIDs and increased susceptibility to bacterial colonization of the urinary tract.",
+                        "wrongAnswer_4": "NSAIDs can cause renal calculi formation and nephrolithiasis, primarily through the increased urinary excretion of calcium and uric acid and precipitation of these substances in the renal tubules and collecting ducts."
+                    },
+                    {
+                        "question": "Considering cardiovascular safety, what is a major concern associated with the use of non-selective NSAIDs and COX-2 selective inhibitors regarding thrombotic events?",
+                        "goodAnswer": "Both non-selective NSAIDs and COX-2 selective inhibitors can increase the risk of cardiovascular thrombotic events, including myocardial infarction and stroke, by disrupting the balance between thromboxane A2 and prostacyclin.",
+                        "wrongAnswer_1": "Non-selective NSAIDs decrease the risk of cardiovascular thrombotic events, while COX-2 selective inhibitors increase this risk by selectively inhibiting prostacyclin synthesis while sparing thromboxane A2 production.",
+                        "wrongAnswer_2": "COX-2 selective inhibitors decrease the risk of cardiovascular thrombotic events, while non-selective NSAIDs increase this risk by selectively inhibiting thromboxane A2 synthesis while sparing prostacyclin production.",
+                        "wrongAnswer_3": "Neither non-selective NSAIDs nor COX-2 selective inhibitors significantly affect the risk of cardiovascular thrombotic events, as their primary mechanism is related to anti-inflammatory and analgesic effects.",
+                        "wrongAnswer_4": "Both non-selective NSAIDs and COX-2 selective inhibitors decrease the risk of cardiovascular thrombotic events by enhancing platelet aggregation and promoting vasoconstriction, which reduces bleeding tendency."
+                    }
+                ]
+            },
+            {
+                "title": "COX-2 Selective Inhibitors",
+                "quizzes": [
+                    {
+                        "question": "What is the primary pharmacologic rationale for the development and use of COX-2 selective inhibitors compared to traditional non-selective NSAIDs?",
+                        "goodAnswer": "COX-2 selective inhibitors were developed to provide effective analgesia and anti-inflammation while reducing the incidence of gastrointestinal side effects associated with COX-1 inhibition by traditional NSAIDs.",
+                        "wrongAnswer_1": "COX-2 selective inhibitors were developed to enhance the anti-inflammatory efficacy and potency compared to traditional NSAIDs, while maintaining a similar gastrointestinal safety profile.",
+                        "wrongAnswer_2": "COX-2 selective inhibitors were developed to provide faster onset of action and shorter duration of effect compared to traditional NSAIDs, primarily for acute pain management rather than chronic conditions.",
+                        "wrongAnswer_3": "COX-2 selective inhibitors were developed to overcome the renal toxicity associated with traditional NSAIDs, offering a safer alternative for patients with pre-existing renal impairment.",
+                        "wrongAnswer_4": "COX-2 selective inhibitors were developed to broaden the therapeutic applications of NSAIDs beyond pain and inflammation to include conditions like cancer prevention and neurodegenerative diseases."
+                    },
+                    {
+                        "question": "Despite their purported gastrointestinal benefits, what significant cardiovascular safety concern has emerged regarding the use of COX-2 selective inhibitors, leading to regulatory scrutiny and restrictions?",
+                        "goodAnswer": "COX-2 selective inhibitors have been associated with an increased risk of cardiovascular thrombotic events, including myocardial infarction and stroke, attributed to the imbalance of prostacyclin and thromboxane.",
+                        "wrongAnswer_1": "COX-2 selective inhibitors have been associated with an increased risk of hemorrhagic events, including gastrointestinal bleeding and intracranial hemorrhage, due to their potent antiplatelet effects.",
+                        "wrongAnswer_2": "COX-2 selective inhibitors have been associated with an increased risk of pulmonary hypertension and right ventricular failure, due to their vasoconstrictive effects on the pulmonary vasculature.",
+                        "wrongAnswer_3": "COX-2 selective inhibitors have been associated with an increased risk of hepatotoxicity and liver failure, due to their extensive hepatic metabolism and potential for drug-induced liver injury.",
+                        "wrongAnswer_4": "COX-2 selective inhibitors have been associated with an increased risk of nephrotoxicity and renal papillary necrosis, due to their preferential accumulation in the kidney and direct toxic effects on renal tubules."
+                    },
+                    {
+                        "question": "Which specific COX-2 selective inhibitor was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk in clinical trials and post-marketing surveillance?",
+                        "goodAnswer": "Rofecoxib (Vioxx) was a COX-2 selective inhibitor that was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk, particularly myocardial infarction and stroke.",
+                        "wrongAnswer_1": "Celecoxib (Celebrex) was a COX-2 selective inhibitor that was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk, particularly heart failure and arrhythmias.",
+                        "wrongAnswer_2": "Valdecoxib (Bextra) was a COX-2 selective inhibitor that was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk, particularly peripheral edema and hypertension.",
+                        "wrongAnswer_3": "Etoricoxib (Arcoxia) was a COX-2 selective inhibitor that was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk, particularly deep vein thrombosis and pulmonary embolism.",
+                        "wrongAnswer_4": "Parecoxib (Dynastat) was a COX-2 selective inhibitor that was voluntarily withdrawn from the market due to significant evidence of increased cardiovascular risk, particularly angina pectoris and transient ischemic attacks."
+                    }
+                ]
+            },
+            {
+                "title": "Overview, therapeutic effects, and toxic side effects of Glucocorticoids",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of glucocorticoids at the cellular level that underlies their broad therapeutic and adverse effects?",
+                        "goodAnswer": "Glucocorticoids primarily act by binding to intracellular glucocorticoid receptors, leading to alterations in gene transcription, which modulate the synthesis of various proteins involved in inflammation, metabolism, and immune function.",
+                        "wrongAnswer_1": "Glucocorticoids primarily act by directly inhibiting cyclooxygenase (COX) enzymes, thereby reducing the synthesis of prostaglandins and leukotrienes, similar to the mechanism of non-steroidal anti-inflammatory drugs.",
+                        "wrongAnswer_2": "Glucocorticoids primarily act by blocking cell surface receptors for cytokines and chemokines, thus preventing the activation of inflammatory signaling pathways and immune cell recruitment.",
+                        "wrongAnswer_3": "Glucocorticoids primarily act by interfering with the function of phospholipase A2 (PLA2), thereby inhibiting the release of arachidonic acid and subsequent synthesis of eicosanoids and platelet-activating factor.",
+                        "wrongAnswer_4": "Glucocorticoids primarily act by directly neutralizing reactive oxygen species and free radicals, thereby reducing oxidative stress and tissue damage associated with inflammation and immune responses."
+                    },
+                    {
+                        "question": "Identify a major therapeutic application of glucocorticoids based on their potent anti-inflammatory and immunosuppressive properties in clinical medicine.",
+                        "goodAnswer": "Glucocorticoids are extensively used in the treatment of chronic inflammatory conditions such as rheumatoid arthritis, asthma, and inflammatory bowel disease due to their potent immunosuppressive and anti-inflammatory actions.",
+                        "wrongAnswer_1": "Glucocorticoids are primarily used as first-line analgesics for acute pain management, including postoperative pain and musculoskeletal injuries, due to their rapid onset and potent pain-relieving effects.",
+                        "wrongAnswer_2": "Glucocorticoids are primarily used as prophylactic agents to prevent bacterial and viral infections in immunocompromised patients, due to their immunostimulatory and antimicrobial properties.",
+                        "wrongAnswer_3": "Glucocorticoids are primarily used in the treatment of hypertension and heart failure, due to their mineralocorticoid effects and ability to enhance sodium and water excretion, thereby reducing blood volume.",
+                        "wrongAnswer_4": "Glucocorticoids are primarily used in the management of diabetes mellitus and hyperglycemia, due to their insulin-sensitizing effects and ability to improve glucose uptake by peripheral tissues."
+                    },
+                    {
+                        "question": "Which metabolic side effect is commonly associated with long-term glucocorticoid therapy, reflecting their influence on glucose and protein metabolism?",
+                        "goodAnswer": "Long-term glucocorticoid therapy frequently leads to hyperglycemia and insulin resistance, as glucocorticoids promote gluconeogenesis and decrease peripheral glucose utilization, contributing to steroid-induced diabetes.",
+                        "wrongAnswer_1": "Long-term glucocorticoid therapy commonly leads to hypoglycemia and increased insulin sensitivity, as glucocorticoids enhance insulin secretion and promote glucose uptake by peripheral tissues, leading to reduced blood glucose levels.",
+                        "wrongAnswer_2": "Long-term glucocorticoid therapy commonly leads to hyperlipidemia and increased triglyceride levels, as glucocorticoids stimulate lipogenesis and promote the accumulation of fat in adipose tissue, resulting in dyslipidemia.",
+                        "wrongAnswer_3": "Long-term glucocorticoid therapy commonly leads to hypokalemia and sodium retention, as glucocorticoids possess mineralocorticoid activity and promote sodium reabsorption and potassium excretion in the kidneys.",
+                        "wrongAnswer_4": "Long-term glucocorticoid therapy commonly leads to weight loss and muscle wasting, as glucocorticoids enhance lipolysis and protein catabolism, resulting in decreased body fat and lean muscle mass."
+                    }
+                ]
+            },
+            {
+                "title": "Steroid withdrawal and glucocorticoid replacement",
+                "quizzes": [
+                    {
+                        "question": "What is the primary physiological basis for the syndrome of adrenal insufficiency that can occur upon abrupt cessation of long-term glucocorticoid therapy?",
+                        "goodAnswer": "Abrupt cessation of long-term glucocorticoid therapy can precipitate adrenal insufficiency due to suppression of the hypothalamic-pituitary-adrenal (HPA) axis, resulting in reduced endogenous cortisol production.",
+                        "wrongAnswer_1": "Abrupt cessation of long-term glucocorticoid therapy can precipitate adrenal insufficiency due to upregulation of the renin-angiotensin-aldosterone system (RAAS), leading to excessive sodium and water retention and hypervolemia.",
+                        "wrongAnswer_2": "Abrupt cessation of long-term glucocorticoid therapy can precipitate adrenal insufficiency due to stimulation of the sympathetic nervous system, resulting in increased catecholamine release and hypertension.",
+                        "wrongAnswer_3": "Abrupt cessation of long-term glucocorticoid therapy can precipitate adrenal insufficiency due to feedback activation of the thyroid axis, leading to hyperthyroidism and increased metabolic rate.",
+                        "wrongAnswer_4": "Abrupt cessation of long-term glucocorticoid therapy can precipitate adrenal insufficiency due to direct toxic effects of glucocorticoids on adrenal gland cells, causing permanent damage and impaired steroidogenesis."
+                    },
+                    {
+                        "question": "What is the recommended clinical strategy to minimize the risk of adrenal insufficiency when discontinuing long-term glucocorticoid therapy in patients?",
+                        "goodAnswer": "To minimize adrenal insufficiency risk, gradual tapering of the glucocorticoid dose over weeks to months is recommended, allowing the HPA axis to recover endogenous cortisol production gradually.",
+                        "wrongAnswer_1": "To minimize adrenal insufficiency risk, immediate cessation of glucocorticoid therapy is recommended, followed by prompt initiation of mineralocorticoid replacement therapy to support adrenal function.",
+                        "wrongAnswer_2": "To minimize adrenal insufficiency risk, intermittent high-dose glucocorticoid therapy is recommended, alternating periods of high-dose treatment with drug-free intervals to prevent HPA axis suppression.",
+                        "wrongAnswer_3": "To minimize adrenal insufficiency risk, switching to a different type of glucocorticoid with a shorter half-life is recommended to facilitate faster drug elimination and HPA axis recovery.",
+                        "wrongAnswer_4": "To minimize adrenal insufficiency risk, concurrent administration of an HPA axis stimulant, such as corticotropin-releasing hormone (CRH), is recommended to accelerate endogenous cortisol production."
+                    },
+                    {
+                        "question": "In situations requiring glucocorticoid replacement therapy, such as primary adrenal insufficiency (Addison's disease), which synthetic glucocorticoid is typically used for daily maintenance?",
+                        "goodAnswer": "Hydrocortisone, a synthetic glucocorticoid with both glucocorticoid and mineralocorticoid activity, is commonly used for daily maintenance replacement therapy in primary adrenal insufficiency.",
+                        "wrongAnswer_1": "Prednisone, a synthetic glucocorticoid with predominantly glucocorticoid activity and minimal mineralocorticoid activity, is commonly used for daily maintenance replacement therapy in primary adrenal insufficiency.",
+                        "wrongAnswer_2": "Dexamethasone, a long-acting synthetic glucocorticoid with potent glucocorticoid activity and negligible mineralocorticoid activity, is commonly used for daily maintenance replacement therapy in primary adrenal insufficiency.",
+                        "wrongAnswer_3": "Fludrocortisone, a synthetic mineralocorticoid with potent mineralocorticoid activity and minimal glucocorticoid activity, is commonly used for daily maintenance replacement therapy in primary adrenal insufficiency.",
+                        "wrongAnswer_4": "Triamcinolone, a synthetic glucocorticoid with intermediate duration of action and moderate glucocorticoid activity, is commonly used for daily maintenance replacement therapy in primary adrenal insufficiency."
+                    }
+                ]
+            },
+            {
+                "title": "Anti-cytokine agents",
+                "quizzes": [
+                    {
+                        "question": "What is the primary therapeutic target of anti-cytokine agents in the management of chronic inflammatory diseases like rheumatoid arthritis and Crohn's disease?",
+                        "goodAnswer": "Anti-cytokine agents primarily target specific pro-inflammatory cytokines, such as tumor necrosis factor-alpha (TNF-\u03b1) and interleukin-1 (IL-1), to neutralize their activity and reduce inflammation in chronic diseases.",
+                        "wrongAnswer_1": "Anti-cytokine agents primarily target intracellular signaling pathways, such as JAK-STAT and MAPK pathways, to broadly suppress immune cell activation and cytokine production in chronic diseases.",
+                        "wrongAnswer_2": "Anti-cytokine agents primarily target cell surface receptors on immune cells, such as CD20 and CD3 receptors, to deplete specific immune cell populations and reduce inflammation in chronic diseases.",
+                        "wrongAnswer_3": "Anti-cytokine agents primarily target complement system components, such as C5a and C3a, to inhibit complement activation and reduce complement-mediated inflammation in chronic diseases.",
+                        "wrongAnswer_4": "Anti-cytokine agents primarily target prostaglandins and leukotrienes, the downstream mediators of inflammation, to directly block their synthesis and action in chronic inflammatory conditions."
+                    },
+                    {
+                        "question": "Which class of anti-cytokine agents is designed to specifically neutralize tumor necrosis factor-alpha (TNF-\u03b1), a key cytokine in the pathogenesis of rheumatoid arthritis and other autoimmune diseases?",
+                        "goodAnswer": "TNF-\u03b1 inhibitors, such as infliximab, adalimumab, and etanercept, are a class of anti-cytokine agents specifically designed to neutralize TNF-\u03b1 and reduce its pro-inflammatory effects in autoimmune diseases.",
+                        "wrongAnswer_1": "Interleukin-1 (IL-1) inhibitors, such as anakinra and canakinumab, are a class of anti-cytokine agents specifically designed to neutralize TNF-\u03b1 and reduce its pro-inflammatory effects in autoimmune diseases.",
+                        "wrongAnswer_2": "Interleukin-6 (IL-6) inhibitors, such as tocilizumab and sarilumab, are a class of anti-cytokine agents specifically designed to neutralize TNF-\u03b1 and reduce its pro-inflammatory effects in autoimmune diseases.",
+                        "wrongAnswer_3": "Interleukin-17 (IL-17) inhibitors, such as secukinumab and ixekizumab, are a class of anti-cytokine agents specifically designed to neutralize TNF-\u03b1 and reduce its pro-inflammatory effects in autoimmune diseases.",
+                        "wrongAnswer_4": "Interferon-gamma (IFN-\u03b3) inhibitors, such as emapalumab, are a class of anti-cytokine agents specifically designed to neutralize TNF-\u03b1 and reduce its pro-inflammatory effects in autoimmune diseases."
+                    },
+                    {
+                        "question": "What is a major safety concern associated with the use of anti-cytokine agents, particularly TNF-\u03b1 inhibitors, regarding infections?",
+                        "goodAnswer": "A significant safety concern with anti-cytokine agents, especially TNF-\u03b1 inhibitors, is an increased risk of opportunistic infections, including tuberculosis and fungal infections, due to immunosuppression.",
+                        "wrongAnswer_1": "A significant safety concern with anti-cytokine agents, especially TNF-\u03b1 inhibitors, is an increased risk of allergic reactions and anaphylaxis, due to their protein structure and potential for immunogenicity.",
+                        "wrongAnswer_2": "A significant safety concern with anti-cytokine agents, especially TNF-\u03b1 inhibitors, is an increased risk of cardiovascular thrombotic events, due to their pro-coagulant effects and potential for endothelial dysfunction.",
+                        "wrongAnswer_3": "A significant safety concern with anti-cytokine agents, especially TNF-\u03b1 inhibitors, is an increased risk of gastrointestinal bleeding and peptic ulcers, due to their inhibitory effects on prostaglandin synthesis.",
+                        "wrongAnswer_4": "A significant safety concern with anti-cytokine agents, especially TNF-\u03b1 inhibitors, is an increased risk of renal toxicity and kidney injury, due to their direct toxic effects on renal tubules and glomeruli."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}
