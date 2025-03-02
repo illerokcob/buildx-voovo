@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Transplantation",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "ABO Matching",
+                "quizzes": [
+                    {
+                        "question": "In the context of ABO blood group compatibility for transplantation, which of the following statements accurately describes the principle of preventing hyperacute rejection mediated by pre-existing antibodies?",
+                        "goodAnswer": "ABO matching is critical because pre-existing IgM and IgG antibodies against A and B antigens can cause immediate complement activation and hyperacute rejection of ABO-incompatible grafts, leading to rapid vascular thrombosis.",
+                        "wrongAnswer_1": "ABO matching is primarily important to avoid delayed type hypersensitivity reactions caused by T-cell recognition of mismatched ABO antigens in solid organ transplants, resulting in graft dysfunction over several days.",
+                        "wrongAnswer_2": "ABO matching is crucial due to the risk of acute cellular rejection mediated by pre-existing IgA antibodies against A and B antigens, leading to graft dysfunction within days to weeks post-transplantation.",
+                        "wrongAnswer_3": "ABO matching is relevant to prevent chronic antibody-mediated rejection, which develops over months to years due to low-affinity IgG antibodies against ABO antigens and causes gradual graft deterioration.",
+                        "wrongAnswer_4": "ABO matching is secondary to HLA matching in solid organ transplantation because pre-existing antibodies against ABO antigens are typically low titer and primarily induce antibody-dependent cellular cytotoxicity, not hyperacute rejection."
+                    },
+                    {
+                        "question": "When considering a patient with blood group B RhD positive for organ transplantation, which of the following donor blood groups would be classified as ABO-compatible for kidney transplantation, assuming no other immunological barriers?",
+                        "goodAnswer": "Donor blood groups B RhD positive and O RhD positive are considered ABO-compatible for a recipient with blood group B RhD positive kidney transplantation because the recipient lacks anti-B antibodies and can accept type O blood.",
+                        "wrongAnswer_1": "Donor blood groups A RhD positive and AB RhD positive are considered ABO-compatible for a recipient with blood group B RhD positive kidney transplantation as the recipient's anti-A antibodies will be effectively suppressed post-transplant.",
+                        "wrongAnswer_2": "Donor blood group AB RhD negative is the only ABO-compatible option for a recipient with blood group B RhD positive kidney transplantation due to the universal recipient status of AB blood and RhD negativity.",
+                        "wrongAnswer_3": "Donor blood groups A RhD negative and O RhD negative are considered ABO-compatible for a recipient with blood group B RhD positive kidney transplantation, focusing on RhD compatibility and ignoring ABO mismatches.",
+                        "wrongAnswer_4": "Donor blood group A RhD positive is the only ABO-compatible option for a recipient with blood group B RhD positive kidney transplantation, ensuring type-specific antigen matching and minimizing rejection risk."
+                    },
+                    {
+                        "question": "In ABO-incompatible transplantation scenarios, desensitization protocols are employed to mitigate the risk of hyperacute rejection. Which of the following best describes the sequential therapeutic approach commonly used in ABO desensitization?",
+                        "goodAnswer": "ABO desensitization typically involves initial plasmapheresis to remove pre-existing anti-ABO antibodies, followed by intravenous immunoglobulin (IVIG) to modulate antibody production and further immunosuppression to prevent rebound.",
+                        "wrongAnswer_1": "ABO desensitization starts with high-dose intravenous immunoglobulin (IVIG) to neutralize anti-ABO antibodies, succeeded by rituximab to deplete B cells and prevent future antibody production, and concludes with plasmapheresis.",
+                        "wrongAnswer_2": "ABO desensitization protocols generally begin with rituximab administration to deplete B cells, proceed with plasmapheresis to remove existing antibodies, and are finalized with complement inhibitors to block rejection pathways.",
+                        "wrongAnswer_3": "ABO desensitization typically uses cyclophosphamide to suppress antibody production, followed by plasmapheresis to eliminate circulating antibodies, and then anti-thymocyte globulin (ATG) for T-cell depletion to enhance tolerance.",
+                        "wrongAnswer_4": "ABO desensitization primarily relies on complement inhibitors to prevent antibody-mediated damage, supplemented with plasmapheresis to reduce antibody titers, and low-dose corticosteroids to minimize inflammatory responses."
+                    }
+                ]
+            },
+            {
+                "title": "Histocompatibility",
+                "quizzes": [
+                    {
+                        "question": "Which of the following statements accurately describes the role of Human Leukocyte Antigens (HLA) in transplantation and immune recognition, particularly contrasting the antigen presentation pathways of Class I and Class II molecules?",
+                        "goodAnswer": "HLA Class I molecules present peptides derived from intracellular pathogens to CD8+ T cells, initiating cytotoxic T lymphocyte responses, while HLA Class II molecules present peptides from extracellular pathogens to CD4+ T cells, driving helper T cell activation.",
+                        "wrongAnswer_1": "HLA Class I molecules primarily present lipid antigens to natural killer T (NKT) cells, modulating innate immune responses, whereas HLA Class II molecules present viral antigens to CD8+ T cells, inducing antiviral immunity.",
+                        "wrongAnswer_2": "HLA Class I molecules present self-antigens to regulatory T cells (Tregs), promoting immune tolerance, and HLA Class II molecules present tumor-associated antigens to CD4+ T cells, enhancing anti-tumor immunity.",
+                        "wrongAnswer_3": "HLA Class I molecules present processed autoantigens to CD4+ T cells, contributing to autoimmune diseases, while HLA Class II molecules present bacterial antigens to B cells, stimulating antibody production.",
+                        "wrongAnswer_4": "HLA Class I molecules are exclusively involved in complement activation and antibody-dependent cellular cytotoxicity, whereas HLA Class II molecules mediate direct cytotoxicity by CD8+ T cells against virally infected cells."
+                    },
+                    {
+                        "question": "In the context of histocompatibility testing for solid organ transplantation, what is the primary purpose of a cytotoxic crossmatch using donor lymphocytes and recipient serum, and which specific immunological effector mechanism does it aim to predict?",
+                        "goodAnswer": "Cytotoxic crossmatching aims to detect pre-formed donor-specific antibodies (DSA) in the recipient's serum that can activate complement-dependent cytotoxicity (CDC) against donor lymphocytes, predicting hyperacute rejection risk.",
+                        "wrongAnswer_1": "Cytotoxic crossmatching is performed to assess the degree of HLA allele mismatch between donor and recipient at the serological level, predicting the likelihood of acute cellular rejection mediated by T lymphocytes.",
+                        "wrongAnswer_2": "Cytotoxic crossmatching is used to determine the recipient's ABO blood group antibody titers against donor red blood cells, primarily preventing transfusion reactions during the transplantation procedure.",
+                        "wrongAnswer_3": "Cytotoxic crossmatching evaluates the recipient's cell-mediated immunity against donor antigens by measuring proliferation of recipient T cells upon exposure to donor lymphocytes in vitro, predicting acute GVHD risk.",
+                        "wrongAnswer_4": "Cytotoxic crossmatching identifies recipient antibodies against minor histocompatibility antigens expressed on donor lymphocytes, which are associated with chronic allograft nephropathy and late antibody-mediated rejection."
+                    },
+                    {
+                        "question": "Which HLA region is considered most critical for matching in hematopoietic stem cell transplantation (HSCT) to prevent graft-versus-host disease (GVHD), and which specific HLA loci within this region are most frequently assessed?",
+                        "goodAnswer": "The HLA-DRB1 locus within the HLA Class II region is paramount for matching in HSCT, along with HLA-A, -B, and -C loci in Class I, due to their significant role in T-cell alloreactivity and GVHD pathogenesis.",
+                        "wrongAnswer_1": "The HLA-DP locus within the HLA Class II region is most crucial for HSCT matching, alongside HLA-G and -E loci in Class I, because of their implication in NK cell-mediated rejection and graft failure.",
+                        "wrongAnswer_2": "The HLA Class III region, encompassing genes for complement components and TNF-\u03b1, is the most critical region for HSCT matching, particularly the C4 and BF loci, due to their role in inflammatory responses.",
+                        "wrongAnswer_3": "The HLA-DQ locus within the HLA Class II region, along with the HLA-F and -H loci in Class I, are primarily considered for HSCT matching, as they are highly polymorphic and influence B-cell alloreactivity.",
+                        "wrongAnswer_4": "The HLA Class IV region, including genes for heat shock proteins and cytokines, is the most important for HSCT matching, focusing on HSP70 and IL-10 loci, due to their modulation of immune tolerance."
+                    }
+                ]
+            },
+            {
+                "title": "Immunosuppression",
+                "quizzes": [
+                    {
+                        "question": "Calcineurin inhibitors (CNIs) like cyclosporine and tacrolimus are fundamental in preventing allograft rejection. What is the precise molecular mechanism by which these drugs suppress T-cell activation and interleukin-2 (IL-2) production?",
+                        "goodAnswer": "Cyclosporine and tacrolimus form complexes with immunophilins (cyclophilin and FKBP12, respectively), which inhibit calcineurin phosphatase, preventing NFAT dephosphorylation and nuclear translocation, thus blocking IL-2 gene transcription and T-cell activation.",
+                        "wrongAnswer_1": "Cyclosporine and tacrolimus directly bind to and inhibit the IL-2 receptor (CD25) on the surface of activated T cells, preventing IL-2 signaling and downstream activation of JAK-STAT pathways required for T-cell proliferation.",
+                        "wrongAnswer_2": "Cyclosporine and tacrolimus induce apoptosis of activated T lymphocytes by disrupting mitochondrial membrane potential and releasing cytochrome c, leading to caspase activation and programmed cell death, thus reducing immune response.",
+                        "wrongAnswer_3": "Cyclosporine and tacrolimus act as antagonists of co-stimulatory molecules (CD28 and CTLA-4) on T cells, preventing the necessary second signal for T-cell activation and leading to T-cell anergy and immune suppression.",
+                        "wrongAnswer_4": "Cyclosporine and tacrolimus promote the differentiation and expansion of regulatory T cells (Tregs) by enhancing TGF-\u03b2 signaling and FoxP3 expression, thereby indirectly suppressing effector T-cell responses and inducing immune tolerance."
+                    },
+                    {
+                        "question": "Mycophenolate mofetil (MMF) is a prodrug widely used in immunosuppressive regimens to prevent organ rejection. Which specific metabolic pathway and enzyme inhibition by its active metabolite, mycophenolic acid (MPA), underpin its immunosuppressive action on lymphocytes?",
+                        "goodAnswer": "Mycophenolic acid (MPA), the active metabolite of MMF, selectively and reversibly inhibits inosine monophosphate dehydrogenase (IMPDH), a rate-limiting enzyme in the de novo synthesis of guanosine nucleotides, crucial for lymphocyte proliferation.",
+                        "wrongAnswer_1": "MMF is metabolized to 6-mercaptopurine, which then inhibits dihydrofolate reductase (DHFR), a key enzyme in the synthesis of tetrahydrofolate, essential for both purine and pyrimidine biosynthesis, affecting all rapidly dividing cells.",
+                        "wrongAnswer_2": "MPA directly inhibits ribonucleotide reductase, an enzyme responsible for converting ribonucleotides to deoxyribonucleotides, thereby blocking DNA synthesis and proliferation of immune cells, particularly T and B lymphocytes.",
+                        "wrongAnswer_3": "MMF targets thymidylate synthase (TS), a crucial enzyme in the de novo synthesis of pyrimidines, specifically inhibiting the production of thymidine monophosphate (dTMP) and affecting DNA replication in actively dividing lymphocytes.",
+                        "wrongAnswer_4": "Mycophenolic acid (MPA) acts as a competitive inhibitor of adenosine deaminase (ADA), an enzyme involved in purine metabolism, leading to accumulation of adenosine and subsequent inhibition of lymphocyte function and proliferation."
+                    },
+                    {
+                        "question": "Which class of immunosuppressive agents, exemplified by sirolimus (rapamycin) and everolimus, primarily exerts its effects by inhibiting a serine/threonine kinase that regulates cell growth, proliferation, and survival in response to cytokines and growth factors?",
+                        "goodAnswer": "Sirolimus and everolimus are mTOR (mammalian target of rapamycin) inhibitors that block the mTOR complex 1 (mTORC1) signaling pathway, preventing phosphorylation of downstream targets like p70S6 kinase and 4E-BP1, thereby inhibiting cell cycle progression and proliferation.",
+                        "wrongAnswer_1": "Azathioprine and 6-mercaptopurine are mTOR inhibitors that function as purine antimetabolites, disrupting DNA and RNA synthesis and primarily affecting rapidly dividing cells, including lymphocytes and hematopoietic precursor cells in bone marrow.",
+                        "wrongAnswer_2": "Prednisone and other corticosteroids act as mTOR inhibitors by binding to glucocorticoid receptors in the cytoplasm and modulating gene transcription, leading to broad immunosuppressive and anti-inflammatory effects, but not direct mTOR inhibition.",
+                        "wrongAnswer_3": "Cyclophosphamide and other alkylating agents are mTOR inhibitors that crosslink DNA strands and disrupt DNA replication and transcription, affecting both resting and proliferating cells, including lymphocytes, but via DNA damage mechanisms.",
+                        "wrongAnswer_4": "Antithymocyte globulin (ATG) and other lymphocyte-depleting antibodies are mTOR inhibitors that deplete T lymphocytes through antibody-dependent cellular cytotoxicity and complement-mediated lysis, resulting in profound immunosuppression, but not through mTOR inhibition."
+                    }
+                ]
+            },
+            {
+                "title": "Bone Marrow Transplantation",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental therapeutic objective of bone marrow transplantation (BMT) in the context of treating hematological malignancies and bone marrow failure syndromes, specifically concerning the restoration of hematopoiesis and immune function?",
+                        "goodAnswer": "The primary aim of BMT is to eradicate diseased hematopoietic cells in the recipient and replace them with healthy hematopoietic stem cells from a donor or the patient's own previously collected cells, enabling sustained hematopoietic reconstitution and restoration of a functional immune system.",
+                        "wrongAnswer_1": "BMT is fundamentally intended to provide transient support to the patient's compromised bone marrow by infusing mature blood cells and cytokines to stimulate endogenous hematopoiesis, without aiming for long-term donor stem cell engraftment or immune system replacement.",
+                        "wrongAnswer_2": "BMT is primarily utilized to deliver high-dose chemotherapy directly to the bone marrow microenvironment, selectively eradicating malignant cells while simultaneously preserving the patient's residual hematopoietic stem cells for subsequent endogenous marrow recovery.",
+                        "wrongAnswer_3": "BMT is designed to predominantly induce a graft-versus-tumor (GVT) effect in patients with hematological malignancies by infusing donor-derived mature immune cells that specifically target and eliminate residual malignant cells, without necessarily achieving full hematopoietic reconstitution.",
+                        "wrongAnswer_4": "BMT is fundamentally aimed at correcting underlying genetic defects in hematopoietic stem cells by introducing gene-modified autologous cells into the patient's bone marrow niche, leading to permanent genetic modification and disease eradication, rather than hematopoietic replacement."
+                    },
+                    {
+                        "question": "In the setting of allogeneic bone marrow transplantation, what is the essential purpose of the pre-transplant conditioning regimen administered to the recipient, and what are the two principal categories of these regimens based on their intensity?",
+                        "goodAnswer": "Conditioning regimens in allogeneic BMT serve to eliminate the recipient's malignant or dysfunctional hematopoietic cells, create immunological space for donor cell engraftment, and prevent graft rejection, broadly categorized as myeloablative and reduced-intensity conditioning (RIC).",
+                        "wrongAnswer_1": "Conditioning regimens in allogeneic BMT primarily aim to augment the recipient's innate immune system to prevent opportunistic infections post-transplant and stimulate endogenous hematopoiesis, utilizing immunostimulatory agents and hematopoietic growth factors.",
+                        "wrongAnswer_2": "Conditioning regimens in allogeneic BMT are designed to selectively deplete recipient T lymphocytes to minimize the risk of graft-versus-host disease (GVHD) while preserving hematopoietic stem cells and malignant cells for subsequent targeted therapy.",
+                        "wrongAnswer_3": "Conditioning regimens in allogeneic BMT focus on inducing systemic immune tolerance in the recipient to donor alloantigens, facilitating mixed donor-recipient chimerism and preventing both acute graft rejection and chronic GVHD development.",
+                        "wrongAnswer_4": "Conditioning regimens in allogeneic BMT are mainly intended to mobilize endogenous hematopoietic stem cells from the bone marrow into the peripheral blood circulation to facilitate easier collection and autologous transplantation, prior to allogeneic donor infusion."
+                    },
+                    {
+                        "question": "Differentiate between myeloablative conditioning (MAC) and reduced-intensity conditioning (RIC) regimens in the context of allogeneic hematopoietic stem cell transplantation, emphasizing their differential impact on recipient hematopoiesis and suitability for various patient populations.",
+                        "goodAnswer": "Myeloablative conditioning (MAC) employs high-dose chemotherapy and/or total body irradiation to achieve complete eradication of recipient bone marrow, necessitating hematopoietic stem cell rescue, whereas reduced-intensity conditioning (RIC) uses lower doses, aiming for cytoreduction and immunosuppression to permit donor engraftment with less toxicity, suitable for older or comorbid patients.",
+                        "wrongAnswer_1": "Myeloablative conditioning (MAC) utilizes localized radiation and low-dose chemotherapy to selectively target malignant cells within the bone marrow microenvironment, while reduced-intensity conditioning (RIC) employs high-dose chemotherapy and total body irradiation for complete marrow ablation, primarily in younger patients with aggressive malignancies.",
+                        "wrongAnswer_2": "Myeloablative conditioning (MAC) primarily focuses on potent immunosuppression with agents like cyclosporine and methotrexate to prevent graft rejection, whereas reduced-intensity conditioning (RIC) emphasizes cytoreductive chemotherapy to reduce tumor burden prior to stem cell infusion, minimizing immunosuppression.",
+                        "wrongAnswer_3": "Myeloablative conditioning (MAC) is characterized by its capacity to preserve recipient hematopoietic stem cells while selectively eradicating malignant clones, whereas reduced-intensity conditioning (RIC) aims to completely eliminate both malignant and normal hematopoietic cells to establish full donor chimerism and immune reconstitution.",
+                        "wrongAnswer_4": "Myeloablative conditioning (MAC) is exclusively employed in autologous BMT protocols to purge malignant cells from collected stem cell products, whereas reduced-intensity conditioning (RIC) regimens are specifically designed for HLA-mismatched allogeneic BMT to minimize the risk of severe graft-versus-host disease (GVHD)."
+                    }
+                ]
+            },
+            {
+                "title": "Hematopoietic Stem Cell Transplantation",
+                "quizzes": [
+                    {
+                        "question": "Beyond bone marrow aspiration, what are the principal alternative sources of hematopoietic stem cells (HSCs) utilized for transplantation, and what are the comparative advantages and disadvantages associated with each of these sources in terms of engraftment kinetics and GVHD risk?",
+                        "goodAnswer": "Peripheral blood stem cells (PBSCs) and umbilical cord blood (UCB) are alternative HSC sources; PBSCs offer faster engraftment and higher cell doses but potentially increased chronic GVHD risk, while UCB provides lower GVHD risk but slower engraftment and limited cell dose, particularly for adults.",
+                        "wrongAnswer_1": "Lymph node stem cells and spleen-derived stem cells are alternative HSC sources; lymph node stem cells are characterized by superior immune reconstitution potential and lower GVHD incidence, while spleen-derived stem cells offer higher engraftment rates specifically in autologous transplantation settings.",
+                        "wrongAnswer_2": "Fetal liver stem cells and amniotic fluid stem cells represent alternative HSC sources; fetal liver stem cells possess high proliferative capacity and are less immunogenic but raise ethical concerns, while amniotic fluid stem cells are readily accessible but exhibit limited hematopoietic differentiation potential.",
+                        "wrongAnswer_3": "Thymic stem cells and kidney-derived stem cells are explored as alternative HSC sources; thymic stem cells are proposed to enhance T-cell reconstitution and immune tolerance, while kidney-derived stem cells are easily obtainable via minimally invasive procedures but demonstrate poor hematopoietic lineage commitment.",
+                        "wrongAnswer_4": "Muscle-derived stem cells and adipose tissue stem cells are investigated as alternative HSC sources; muscle-derived stem cells offer robust mesenchymal stromal support and promote engraftment, while adipose tissue stem cells provide abundant stromal cells and growth factors for hematopoietic niche reconstitution."
+                    },
+                    {
+                        "question": "Describe the standardized clinical process of peripheral blood stem cell (PBSC) mobilization for hematopoietic stem cell transplantation, including the pharmacological agents typically used and the underlying biological mechanisms that facilitate HSC release from the bone marrow niche into the peripheral circulation.",
+                        "goodAnswer": "PBSC mobilization typically involves administering granulocyte colony-stimulating factor (G-CSF) alone or in combination with chemotherapy to stimulate HSC release from the bone marrow into the peripheral blood via disruption of HSC-stromal cell interactions and increased HSC motility, enabling collection through apheresis.",
+                        "wrongAnswer_1": "PBSC mobilization is commonly achieved by administering erythropoietin (EPO) and thrombopoietin (TPO) to selectively stimulate erythroid and megakaryocytic progenitor cell proliferation in the bone marrow, indirectly increasing HSC availability in the peripheral blood for subsequent harvesting.",
+                        "wrongAnswer_2": "PBSC mobilization relies on the administration of corticosteroids and cyclosporine to systemically suppress bone marrow stromal cell activity and cytokine production, causing HSCs to passively migrate into the peripheral blood compartment for easier harvesting via bone marrow aspiration.",
+                        "wrongAnswer_3": "PBSC mobilization is induced by administering interleukin-2 (IL-2) and interferon-alpha (IFN-\u03b1) to broadly activate T lymphocytes and natural killer (NK) cells, which in turn promote HSC release from the bone marrow niche into the circulation through immune-mediated mechanisms.",
+                        "wrongAnswer_4": "PBSC mobilization is primarily facilitated by using monoclonal antibodies targeting adhesion molecules expressed on HSCs, such as anti-CD34 antibodies, to specifically detach HSCs from the bone marrow niche and directly release them into the bloodstream for efficient apheresis collection."
+                    },
+                    {
+                        "question": "What is the clinical significance of CD34+ cell selection in hematopoietic stem cell transplantation, particularly concerning its impact on graft composition and the modulation of graft-versus-host disease (GVHD) risk in allogeneic transplantation settings?",
+                        "goodAnswer": "CD34+ cell selection is crucial for enriching the graft with hematopoietic stem and progenitor cells while depleting T lymphocytes and other immune cells, thereby potentially reducing the incidence and severity of graft-versus-host disease (GVHD) in allogeneic HSCT and enabling graft engineering strategies.",
+                        "wrongAnswer_1": "CD34+ cell selection is primarily employed to selectively remove malignant cells from autologous grafts intended for transplantation, ensuring a tumor-free stem cell product and preventing disease relapse, while concurrently increasing the purity of hematopoietic cells for engraftment.",
+                        "wrongAnswer_2": "CD34+ cell selection significantly enhances the engraftment potential of the hematopoietic graft by concentrating stem cells and providing a higher dose of progenitor cells per kilogram of recipient body weight, leading to accelerated hematopoietic recovery and improved long-term survival.",
+                        "wrongAnswer_3": "CD34+ cell selection is utilized to isolate and expand mesenchymal stromal cells (MSCs) from the hematopoietic graft, which are subsequently co-infused with CD34+ selected hematopoietic stem cells to promote graft engraftment and provide immunomodulatory support, reducing graft rejection risk.",
+                        "wrongAnswer_4": "CD34+ cell selection primarily serves to deplete red blood cells and platelets from the hematopoietic graft product, improving graft storage and infusion characteristics, while also reducing the potential risk of transfusion reactions and circulatory volume overload during transplantation."
+                    }
+                ]
+            },
+            {
+                "title": "Transplant Complications",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between acute graft-versus-host disease (aGVHD) and chronic graft-versus-host disease (cGVHD) following allogeneic hematopoietic stem cell transplantation, focusing on their typical temporal onset post-transplant, primary target organs, and distinct underlying pathophysiological mechanisms.",
+                        "goodAnswer": "Acute GVHD typically manifests within the first 100 days post-HSCT, predominantly targeting the skin, liver, and gastrointestinal tract, primarily mediated by donor T-cell recognition of recipient HLA mismatches and direct cytotoxicity; chronic GVHD develops beyond 100 days, affecting multiple organs with features of fibrosis and autoimmunity, involving both cellular and humoral immunity.",
+                        "wrongAnswer_1": "Acute GVHD generally develops months to years after transplantation, primarily affecting the lungs and kidneys, and is characterized by antibody-mediated rejection of the graft and vascular damage; chronic GVHD occurs early post-transplant, mainly targeting the heart and central nervous system, mediated by natural killer (NK) cell cytotoxicity and cytokine storm.",
+                        "wrongAnswer_2": "Acute GVHD is predominantly a B-cell mediated complication, typically occurring late post-transplant and affecting the bone marrow and lymph nodes, leading to graft failure and pancytopenia; chronic GVHD is an early T-cell mediated condition targeting endocrine glands and skeletal muscles, resulting in immune deficiency and muscle wasting.",
+                        "wrongAnswer_3": "Acute GVHD is characterized by chronic inflammation and progressive fibrosis of the transplanted organ, typically observed in solid organ transplants and occurring years after transplantation; chronic GVHD is an early complication specifically in HSCT, marked by acute rejection episodes and vascular endothelial damage in the graft.",
+                        "wrongAnswer_4": "Acute GVHD is primarily mediated by recipient T-cell responses against donor antigens, leading to graft rejection within the first few weeks post-transplant; chronic GVHD is predominantly caused by donor B-cell responses against recipient antigens, resulting in late-onset antibody-mediated rejection and graft dysfunction."
+                    },
+                    {
+                        "question": "Which category of infections poses the most significant and immediate threat in the early post-engraftment period following hematopoietic stem cell transplantation, particularly during the phase of profound neutropenia and compromised innate and adaptive cellular immunity?",
+                        "goodAnswer": "Bacterial and fungal infections, notably invasive fungal infections such as Aspergillus and Candida species, along with bacterial infections from Gram-positive (e.g., Staphylococcus, Streptococcus) and Gram-negative organisms (e.g., Pseudomonas, Enterobacteriaceae), are major concerns during early post-HSCT neutropenia.",
+                        "wrongAnswer_1": "Viral infections, especially cytomegalovirus (CMV) and Epstein-Barr virus (EBV) reactivation, represent the most prevalent infections in the early post-HSCT period, typically occurring within the first 30 days and frequently causing severe pneumonia, hepatitis, and lymphoproliferative disorders.",
+                        "wrongAnswer_2": "Parasitic infections, including Pneumocystis jirovecii pneumonia (PCP) and Toxoplasma gondii encephalitis, are the primary infectious complications in the early post-HSCT phase, requiring routine prophylactic measures and preemptive therapeutic strategies to prevent severe morbidity and mortality.",
+                        "wrongAnswer_3": "Mycobacterial infections, encompassing tuberculosis (TB) and non-tuberculous mycobacteria (NTM), are the most frequent infections in the early post-HSCT period, often presenting with disseminated disease patterns and requiring prolonged multi-drug antibiotic treatment regimens.",
+                        "wrongAnswer_4": "Protozoal infections, such as Cryptosporidium parvum and Giardia lamblia, are the most common infections in the early post-HSCT phase, frequently causing severe and refractory diarrhea and malabsorption syndromes, particularly in patients concurrently experiencing graft-versus-host disease."
+                    },
+                    {
+                        "question": "What is the pathophysiological basis of veno-occlusive disease (VOD), also known as sinusoidal obstruction syndrome (SOS), a potentially life-threatening complication following hematopoietic stem cell transplantation, and what are the key pathological features and established risk factors?",
+                        "goodAnswer": "VOD/SOS is a hepatic complication characterized by injury and activation of sinusoidal endothelial cells, leading to sinusoidal obstruction, intrahepatic venule occlusion, and subsequent hepatomegaly, jaundice, and fluid retention; major risk factors include high-dose busulfan-based conditioning, pre-existing liver disease, and allogeneic HSCT.",
+                        "wrongAnswer_1": "VOD/SOS is primarily a pulmonary complication marked by alveolar capillary leak and diffuse alveolar damage, culminating in acute respiratory distress syndrome (ARDS) and respiratory failure; established risk factors include total body irradiation-based conditioning, high-dose cyclophosphamide administration, and autologous HSCT.",
+                        "wrongAnswer_2": "VOD/SOS is a renal complication characterized by thrombotic microangiopathy and acute kidney injury secondary to endothelial damage, leading to oliguria, azotemia, and electrolyte imbalances; key risk factors include calcineurin inhibitor-based immunosuppression, acute graft-versus-host disease, and unrelated donor HSCT.",
+                        "wrongAnswer_3": "VOD/SOS is a cardiac complication characterized by pericardial effusion, myocarditis, and dilated cardiomyopathy, leading to congestive heart failure and arrhythmias; major risk factors include anthracycline-based chemotherapy regimens, pre-existing cardiac conditions, and HLA-DRB1 allele mismatches in donor-recipient pairs.",
+                        "wrongAnswer_4": "VOD/SOS is a neurological complication characterized by cerebral edema, seizures, and encephalopathy due to disruption of the blood-brain barrier and neurotoxicity; established risk factors include cyclosporine and tacrolimus neurotoxicity, cord blood transplantation in pediatric recipients, and pre-existing neurological disorders."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

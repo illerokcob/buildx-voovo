@@ -1,0 +1,194 @@
+{
+    "mainTopic": {
+        "title": "Acute coronary syndromes",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Pathogenesis of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the initiating event in the pathogenesis of Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "The primary initiating event is the disruption of an atherosclerotic plaque, leading to exposure of the thrombogenic subendothelial matrix and subsequent thrombus formation.",
+                        "wrongAnswer_1": "The primary initiating event is vasospasm of the coronary arteries, causing a sudden reduction in blood flow and subsequent myocardial ischemia and platelet aggregation.",
+                        "wrongAnswer_2": "The initiating event is the gradual erosion of the endothelial lining of the coronary artery, leading to chronic inflammation and eventual plaque rupture and thrombus formation.",
+                        "wrongAnswer_3": "The initiating event is the systemic increase in inflammatory markers, causing widespread endothelial dysfunction and predisposing to plaque formation and subsequent rupture.",
+                        "wrongAnswer_4": "The primary initiating event is the acute increase in blood pressure, leading to mechanical stress on the coronary arteries and subsequent endothelial damage and thrombus formation."
+                    },
+                    {
+                        "question": "What is the crucial role of Tissue Factor (TF) in the pathogenesis of ACS following plaque rupture?",
+                        "goodAnswer": "Tissue Factor, released from the ruptured plaque and activated macrophages, initiates the coagulation cascade by binding to Factor VIIa, leading to thrombin generation and fibrin deposition.",
+                        "wrongAnswer_1": "Tissue Factor, released from activated platelets, directly activates Factor X in the coagulation cascade, bypassing Factor VIIa and rapidly promoting thrombin formation and platelet aggregation.",
+                        "wrongAnswer_2": "Tissue Factor, expressed on endothelial cells, inhibits the coagulation cascade by binding to Antithrombin III, preventing excessive thrombin generation and limiting fibrin deposition.",
+                        "wrongAnswer_3": "Tissue Factor, found in circulating blood, promotes fibrinolysis by activating Plasminogen, leading to the breakdown of fibrin clots and preventing thrombus propagation in ACS.",
+                        "wrongAnswer_4": "Tissue Factor, released by smooth muscle cells in the vessel wall, triggers the intrinsic pathway of coagulation by activating Factor XII, leading to slow thrombin generation and gradual fibrin deposition."
+                    },
+                    {
+                        "question": "Which cellular components play a pivotal role in the acute thrombotic process following atherosclerotic plaque rupture in ACS?",
+                        "goodAnswer": "Platelets and activated coagulation factors are crucial, with platelets adhering to the exposed subendothelial matrix and coagulation factors amplifying thrombin generation and fibrin clot formation.",
+                        "wrongAnswer_1": "Erythrocytes and leukocytes are the primary cellular components, with erythrocytes forming the structural framework of the thrombus and leukocytes releasing inflammatory mediators to stabilize the clot.",
+                        "wrongAnswer_2": "Endothelial cells and smooth muscle cells are the key cellular components, with endothelial cells initiating vasospasm and smooth muscle cells contributing to plaque stability and preventing rupture.",
+                        "wrongAnswer_3": "Fibroblasts and macrophages are the central cellular components, with fibroblasts synthesizing collagen to strengthen the thrombus and macrophages releasing matrix metalloproteinases to dissolve the clot.",
+                        "wrongAnswer_4": "Lymphocytes and mast cells are the dominant cellular components, with lymphocytes initiating the inflammatory response and mast cells releasing histamine to promote vasodilation and prevent thrombosis."
+                    },
+                    {
+                        "question": "How does vasospasm contribute to the pathogenesis of Acute Coronary Syndrome, particularly in variant angina (Prinzmetal's angina)?",
+                        "goodAnswer": "Vasospasm, a transient but severe constriction of coronary arteries, can significantly reduce or completely obstruct blood flow, leading to myocardial ischemia and potentially triggering ACS, especially in variant angina.",
+                        "wrongAnswer_1": "Vasospasm, a sustained dilation of coronary arteries, leads to increased blood flow and shear stress, causing endothelial damage and predisposing to plaque rupture and thrombus formation in ACS.",
+                        "wrongAnswer_2": "Vasospasm, a mild and chronic constriction of coronary arteries, contributes to gradual plaque growth and stenosis, eventually leading to stable angina but not typically to acute coronary syndromes.",
+                        "wrongAnswer_3": "Vasospasm, an adaptive mechanism to reduce blood flow during exercise, protects the myocardium from excessive oxygen demand and prevents ischemic events in patients with ACS.",
+                        "wrongAnswer_4": "Vasospasm, a localized inflammation of coronary arteries, causes endothelial dysfunction and promotes plaque regression, thus reducing the risk of thrombosis and ACS development."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features of ACS",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the typical chest pain associated with Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "Characteristically described as a crushing, squeezing, or pressure-like sensation, often retrosternal, potentially radiating to the left arm, jaw, or back, and usually lasting more than 20 minutes.",
+                        "wrongAnswer_1": "Typically presenting as sharp, stabbing pain, localized to the left side of the chest, exacerbated by breathing or movement, and usually lasting for a few seconds to minutes.",
+                        "wrongAnswer_2": "Characterized by a burning sensation in the upper chest, often mistaken for heartburn, typically relieved by antacids, and usually lasting for a variable duration, from minutes to hours.",
+                        "wrongAnswer_3": "Described as a fleeting, pricking, or tingling sensation in the chest, often occurring at rest and relieved by changes in position, and usually lasting for very short periods, seconds to minutes.",
+                        "wrongAnswer_4": "Presenting as a dull ache in the chest, often localized to the right side, worsened by exertion and relieved by rest, and usually lasting for a moderate duration, from 5 to 15 minutes."
+                    },
+                    {
+                        "question": "What are common associated symptoms that may accompany chest pain in a patient experiencing Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "Common associated symptoms include diaphoresis, nausea, vomiting, dyspnea, and lightheadedness, reflecting autonomic nervous system activation and reduced cardiac output.",
+                        "wrongAnswer_1": "Frequently associated symptoms include fever, chills, cough, and pleuritic chest pain, indicative of an infectious process such as pneumonia or pleurisy mimicking ACS.",
+                        "wrongAnswer_2": "Typical associated symptoms are abdominal pain, diarrhea, and bloating, suggesting a gastrointestinal origin of the chest discomfort rather than a cardiac event.",
+                        "wrongAnswer_3": "Common associated symptoms include headache, dizziness, and blurred vision, pointing towards a neurological condition or migraine rather than an acute coronary syndrome.",
+                        "wrongAnswer_4": "Frequently accompanying symptoms are joint pain, muscle aches, and skin rash, indicative of a rheumatologic condition or allergic reaction causing chest discomfort."
+                    },
+                    {
+                        "question": "In the context of clinical presentation, how does unstable angina (UA) differ from ST-segment elevation myocardial infarction (STEMI) and non-ST-segment elevation myocardial infarction (NSTEMI)?",
+                        "goodAnswer": "Unstable angina is characterized by ischemic chest pain without persistent ST-segment elevation or significant cardiac biomarker elevation, whereas STEMI shows ST-segment elevation and NSTEMI shows cardiac biomarker elevation without ST-segment elevation.",
+                        "wrongAnswer_1": "Unstable angina presents with ST-segment elevation but without cardiac biomarker elevation, STEMI shows both ST-segment elevation and biomarker elevation, and NSTEMI shows neither ST-segment elevation nor biomarker elevation.",
+                        "wrongAnswer_2": "Unstable angina is defined by persistent ST-segment elevation and cardiac biomarker elevation, STEMI shows only cardiac biomarker elevation without ST-segment elevation, and NSTEMI shows isolated ST-segment depression.",
+                        "wrongAnswer_3": "Unstable angina is diagnosed by the presence of Q waves on ECG and elevated cardiac biomarkers, STEMI is characterized by ST-segment depression and biomarker elevation, and NSTEMI shows only ST-segment elevation.",
+                        "wrongAnswer_4": "Unstable angina is differentiated by the absence of chest pain but presence of ECG changes and biomarker elevation, STEMI presents with typical chest pain and biomarker elevation but no ECG changes, and NSTEMI shows only chest pain without ECG or biomarker changes."
+                    },
+                    {
+                        "question": "What is the significance of atypical presentations of ACS, particularly in elderly patients, women, and individuals with diabetes mellitus?",
+                        "goodAnswer": "Atypical presentations, such as dyspnea, fatigue, or epigastric discomfort without typical chest pain, are more common in these subgroups, leading to delayed diagnosis and potentially worse outcomes due to underestimation of cardiac ischemia.",
+                        "wrongAnswer_1": "Atypical presentations, characterized by exaggerated chest pain and anxiety, are more frequent in elderly patients, women, and diabetics, leading to overdiagnosis of ACS and unnecessary interventions.",
+                        "wrongAnswer_2": "Atypical presentations, manifesting as palpitations and dizziness with minimal chest discomfort, are less common in these subgroups, resulting in prompt diagnosis and better outcomes in ACS.",
+                        "wrongAnswer_3": "Atypical presentations, such as syncope and seizures, are exclusively seen in elderly patients, women, and diabetics with ACS, requiring specialized neurological investigations rather than cardiac evaluation.",
+                        "wrongAnswer_4": "Atypical presentations, defined by the complete absence of chest pain and any other symptoms, are characteristic of silent ischemia in these subgroups, preventing timely diagnosis and treatment of ACS."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment of ACS",
+                "quizzes": [
+                    {
+                        "question": "What is the immediate first-line pharmacological treatment for a patient presenting with suspected Acute Coronary Syndrome (ACS) in the pre-hospital setting?",
+                        "goodAnswer": "Aspirin administration, ideally chewed and swallowed, is the immediate first-line treatment to inhibit platelet aggregation and reduce thrombus formation in suspected ACS.",
+                        "wrongAnswer_1": "Intravenous heparin administration is the immediate first-line treatment to rapidly anticoagulate the patient and prevent further thrombus propagation in suspected ACS.",
+                        "wrongAnswer_2": "Sublingual nitroglycerin administration is the immediate first-line treatment to alleviate chest pain by promoting coronary vasodilation in suspected ACS.",
+                        "wrongAnswer_3": "Oral beta-blocker administration is the immediate first-line treatment to reduce myocardial oxygen demand and stabilize the cardiac rhythm in suspected ACS.",
+                        "wrongAnswer_4": "Intramuscular morphine administration is the immediate first-line treatment to manage severe chest pain and reduce anxiety in patients with suspected ACS."
+                    },
+                    {
+                        "question": "In the management of STEMI, what is the guideline-recommended primary reperfusion strategy within the first 12 hours of symptom onset?",
+                        "goodAnswer": "Primary Percutaneous Coronary Intervention (PCI) is the preferred reperfusion strategy if it can be performed within 120 minutes of first medical contact, otherwise fibrinolysis should be considered.",
+                        "wrongAnswer_1": "Fibrinolysis is the primary reperfusion strategy regardless of time since symptom onset, as it is more readily available and effective in dissolving thrombi in STEMI patients.",
+                        "wrongAnswer_2": "Coronary Artery Bypass Grafting (CABG) is the guideline-recommended primary reperfusion strategy for all STEMI patients within 12 hours of symptom onset due to its superior long-term outcomes.",
+                        "wrongAnswer_3": "Medical management with antiplatelet and antithrombotic therapy alone is the initial reperfusion strategy, with PCI or fibrinolysis reserved for patients who remain symptomatic after medical therapy.",
+                        "wrongAnswer_4": "Conservative management without reperfusion is the preferred strategy for STEMI patients presenting within 12 hours, focusing on symptom control and risk factor modification to improve long-term prognosis."
+                    },
+                    {
+                        "question": "Which antiplatelet agents are commonly used in the dual antiplatelet therapy (DAPT) regimen following PCI for ACS?",
+                        "goodAnswer": "Aspirin combined with a P2Y12 receptor inhibitor such as clopidogrel, ticagrelor, or prasugrel constitutes the standard DAPT regimen after PCI in ACS.",
+                        "wrongAnswer_1": "Aspirin combined with a glycoprotein IIb/IIIa inhibitor such as abciximab or eptifibatide is the recommended DAPT regimen following PCI in ACS patients with high bleeding risk.",
+                        "wrongAnswer_2": "Clopidogrel combined with ticagrelor is the standard DAPT regimen for patients undergoing PCI for ACS, particularly in those with aspirin intolerance or contraindications.",
+                        "wrongAnswer_3": "Aspirin combined with warfarin is the conventional DAPT regimen following PCI in ACS patients, especially those with concomitant atrial fibrillation or high thrombotic risk.",
+                        "wrongAnswer_4": "Ticagrelor combined with prasugrel is the preferred DAPT regimen after PCI for ACS, offering the most potent platelet inhibition but with an increased risk of bleeding complications."
+                    },
+                    {
+                        "question": "What is the role of beta-blockers in the long-term management of patients post-ACS?",
+                        "goodAnswer": "Beta-blockers reduce myocardial oxygen demand, heart rate, and blood pressure, thereby decreasing the risk of recurrent ischemic events, ventricular arrhythmias, and improving long-term survival post-ACS.",
+                        "wrongAnswer_1": "Beta-blockers primarily act as vasodilators, improving coronary blood flow and preventing vasospasm, thus reducing the likelihood of recurrent angina and ACS events in the long term.",
+                        "wrongAnswer_2": "Beta-blockers primarily function as positive inotropes, increasing myocardial contractility and cardiac output, thereby improving exercise tolerance and reducing heart failure risk post-ACS.",
+                        "wrongAnswer_3": "Beta-blockers mainly serve as antiarrhythmic agents, specifically preventing atrial fibrillation and supraventricular tachycardias, thus reducing the risk of stroke and thromboembolism post-ACS.",
+                        "wrongAnswer_4": "Beta-blockers primarily act as anticoagulants, inhibiting the coagulation cascade and preventing thrombus formation, thus reducing the risk of recurrent myocardial infarction and stent thrombosis post-ACS."
+                    }
+                ]
+            },
+            {
+                "title": "Complications",
+                "quizzes": [
+                    {
+                        "question": "Which of the following is a major early mechanical complication of Acute Myocardial Infarction (AMI)?",
+                        "goodAnswer": "Ventricular septal rupture, characterized by a new harsh holosystolic murmur, is a serious early mechanical complication occurring within days of AMI due to myocardial necrosis.",
+                        "wrongAnswer_1": "Mitral valve prolapse, presenting with a mid-systolic click and late systolic murmur, is a common early mechanical complication of AMI resulting from papillary muscle ischemia.",
+                        "wrongAnswer_2": "Aortic valve stenosis, characterized by a systolic ejection murmur, is a frequent early mechanical complication of AMI due to calcification of the aortic valve leaflets.",
+                        "wrongAnswer_3": "Tricuspid regurgitation, presenting with a pansystolic murmur that increases with inspiration, is a typical early mechanical complication of AMI secondary to right ventricular dysfunction.",
+                        "wrongAnswer_4": "Pulmonary valve stenosis, characterized by a systolic ejection murmur heard best at the left upper sternal border, is a rare early mechanical complication of AMI due to congenital valve abnormalities."
+                    },
+                    {
+                        "question": "What is the most common arrhythmia observed in the acute phase of Myocardial Infarction (MI) and what is its underlying mechanism?",
+                        "goodAnswer": "Ventricular arrhythmias, particularly ventricular fibrillation, are the most common arrhythmias in acute MI, primarily due to electrical instability from myocardial ischemia and altered repolarization.",
+                        "wrongAnswer_1": "Atrial fibrillation is the most frequent arrhythmia in acute MI, mainly caused by atrial ischemia and increased atrial pressure due to left ventricular dysfunction and diastolic heart failure.",
+                        "wrongAnswer_2": "Sinus bradycardia is the most common arrhythmia in acute MI, primarily due to increased vagal tone and decreased sympathetic drive in response to myocardial ischemia and pain.",
+                        "wrongAnswer_3": "First-degree AV block is the most prevalent arrhythmia in acute MI, mainly resulting from ischemia of the AV node and slowed conduction through the atrioventricular junction.",
+                        "wrongAnswer_4": "Supraventricular tachycardia is the most common arrhythmia in acute MI, primarily triggered by atrial ectopic foci and increased catecholamine levels due to stress and anxiety."
+                    },
+                    {
+                        "question": "How does heart failure typically develop as a complication of Acute Coronary Syndrome (ACS)?",
+                        "goodAnswer": "Heart failure in ACS often develops due to ischemic myocardial damage, leading to reduced left ventricular systolic function, remodeling, and subsequent neurohormonal activation.",
+                        "wrongAnswer_1": "Heart failure following ACS is primarily caused by diastolic dysfunction due to increased myocardial stiffness and impaired ventricular relaxation, preserving systolic function initially.",
+                        "wrongAnswer_2": "Heart failure as a complication of ACS is mainly attributed to right ventricular infarction and subsequent pulmonary hypertension, leading to right-sided heart failure symptoms.",
+                        "wrongAnswer_3": "Heart failure in ACS typically arises from valvular dysfunction, particularly mitral regurgitation, secondary to papillary muscle rupture or ischemia, causing volume overload and heart failure.",
+                        "wrongAnswer_4": "Heart failure following ACS is predominantly due to pericarditis and pericardial effusion, leading to cardiac tamponade and reduced ventricular filling, mimicking heart failure symptoms."
+                    },
+                    {
+                        "question": "What is Dressler's syndrome and when does it typically occur as a complication post-Myocardial Infarction (MI)?",
+                        "goodAnswer": "Dressler's syndrome is a form of post-cardiac injury syndrome, typically occurring weeks to months after MI, characterized by pericarditis, pleuritis, and pneumonitis, believed to be an autoimmune response.",
+                        "wrongAnswer_1": "Dressler's syndrome is a type of early reperfusion injury, occurring within hours of successful PCI or thrombolysis for MI, characterized by myocardial stunning and transient left ventricular dysfunction.",
+                        "wrongAnswer_2": "Dressler's syndrome is a form of acute pericarditis, occurring within days of MI, primarily caused by direct myocardial inflammation and necrosis extending to the pericardium.",
+                        "wrongAnswer_3": "Dressler's syndrome is a type of chronic heart failure, developing years after MI, characterized by progressive left ventricular remodeling and neurohormonal activation leading to decompensation.",
+                        "wrongAnswer_4": "Dressler's syndrome is a form of infective endocarditis, occurring weeks to months after MI, characterized by bacterial colonization of damaged myocardium and heart valves, leading to systemic infection."
+                    }
+                ]
+            },
+            {
+                "title": "Post ACS risk stratification",
+                "quizzes": [
+                    {
+                        "question": "What is the primary objective of post-ACS risk stratification?",
+                        "goodAnswer": "To identify patients at high risk for recurrent cardiovascular events (e.g., MI, stroke, death) following an ACS event, guiding secondary prevention strategies and intensity of treatment.",
+                        "wrongAnswer_1": "To determine the immediate prognosis and in-hospital mortality risk following ACS, primarily focusing on acute management decisions rather than long-term risk assessment.",
+                        "wrongAnswer_2": "To assess the extent of myocardial damage and left ventricular dysfunction after ACS, mainly for guiding decisions on cardiac rehabilitation and exercise prescriptions.",
+                        "wrongAnswer_3": "To evaluate the presence of non-cardiac comorbidities and risk factors that may influence the long-term outcome of patients post-ACS, focusing on holistic patient management.",
+                        "wrongAnswer_4": "To monitor the effectiveness of initial ACS treatment and identify patients who require further invasive procedures, such as repeat PCI or CABG, based on residual ischemia."
+                    },
+                    {
+                        "question": "Which clinical and ECG findings are considered high-risk features during post-ACS risk stratification?",
+                        "goodAnswer": "Persistent ST-segment elevation, recurrent angina at rest, heart failure signs, and ventricular arrhythmias are considered high-risk features indicating increased likelihood of adverse outcomes post-ACS.",
+                        "wrongAnswer_1": "Isolated ST-segment depression, controlled hypertension, mild stable angina on exertion, and sinus bradycardia are considered high-risk features requiring intensive monitoring and intervention post-ACS.",
+                        "wrongAnswer_2": "Transient ST-segment changes, well-controlled diabetes mellitus, atypical chest pain, and first-degree AV block are classified as high-risk features necessitating aggressive secondary prevention post-ACS.",
+                        "wrongAnswer_3": "Absence of ST-segment changes, normal blood pressure, asymptomatic ischemia, and sinus tachycardia are considered high-risk features demanding immediate revascularization and intensive therapy post-ACS.",
+                        "wrongAnswer_4": "New-onset atrial fibrillation, peripheral artery disease, stable angina with high workload threshold, and second-degree AV block are classified as high-risk features requiring urgent cardiac transplantation post-ACS."
+                    },
+                    {
+                        "question": "What role do cardiac biomarkers, such as troponin, play in post-ACS risk stratification?",
+                        "goodAnswer": "Elevated levels of cardiac troponin at discharge or during follow-up indicate ongoing myocardial necrosis or injury, signifying a higher risk of future cardiovascular events and need for intensified therapy.",
+                        "wrongAnswer_1": "Normal levels of cardiac troponin at discharge guarantee a low risk of subsequent cardiovascular events, eliminating the need for further risk stratification and aggressive secondary prevention measures post-ACS.",
+                        "wrongAnswer_2": "Decreasing levels of cardiac troponin during hospitalization indicate worsening myocardial damage and a higher risk of adverse outcomes, requiring more aggressive interventions and prolonged monitoring post-ACS.",
+                        "wrongAnswer_3": "Fluctuating levels of cardiac troponin during follow-up are indicative of unstable plaque and high risk of recurrent ACS, mandating urgent repeat angiography and revascularization procedures.",
+                        "wrongAnswer_4": "Baseline levels of cardiac troponin prior to ACS event are the most important predictors of long-term cardiovascular risk and should guide post-ACS risk stratification and treatment strategies."
+                    },
+                    {
+                        "question": "Which non-invasive test is commonly used for post-ACS risk stratification to assess for residual myocardial ischemia?",
+                        "goodAnswer": "Stress testing (exercise or pharmacological), including ECG stress test, stress echocardiography, or myocardial perfusion imaging, is frequently used to detect residual ischemia and guide further management post-ACS.",
+                        "wrongAnswer_1": "Ambulatory blood pressure monitoring is the primary non-invasive test used for post-ACS risk stratification to assess for nocturnal hypertension and guide antihypertensive therapy adjustments.",
+                        "wrongAnswer_2": "Pulmonary function testing is routinely performed for post-ACS risk stratification to evaluate for underlying respiratory conditions and predict long-term cardiovascular outcomes.",
+                        "wrongAnswer_3": "Electroencephalography (EEG) is a common non-invasive test used in post-ACS risk stratification to assess for neurological complications and predict the risk of stroke after ACS.",
+                        "wrongAnswer_4": "Renal function tests, including serum creatinine and eGFR, are the most important non-invasive tests for post-ACS risk stratification to determine the risk of contrast-induced nephropathy during angiography."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

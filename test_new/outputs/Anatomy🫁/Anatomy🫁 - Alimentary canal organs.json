@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Alimentary canal organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The mouth",
+                "quizzes": [
+                    {
+                        "question": "Which anatomical structure within the oral cavity is primarily responsible for the mechanical processing of food through mastication, and concurrently serves as the location for gustatory receptors crucial for the initial assessment of food palatability?",
+                        "goodAnswer": "The oral cavity proper, bounded by the teeth and palates, is the principal site of mastication, utilizing teeth and tongue, and houses taste buds on the tongue's papillae for gustatory perception, initiating digestive processes.",
+                        "wrongAnswer_1": "The oral vestibule, located between the lips/cheeks and teeth, is the primary area for chemical digestion via salivary enzymes, and contains olfactory receptors in the buccal mucosa for palatability assessment, starting digestive breakdown.",
+                        "wrongAnswer_2": "The pharynx, situated posterior to the oral cavity, is the main location for mechanical digestion through peristaltic movements, and includes taste buds within the pharyngeal tonsils for gustatory function, commencing food processing.",
+                        "wrongAnswer_3": "The nasal cavity, superior to the oral cavity, is indirectly involved in mechanical breakdown through nasal secretions, and possesses gustatory receptors in the nasal septum for palatability judgment, aiding initial digestion.",
+                        "wrongAnswer_4": "The larynx, inferior to the pharynx, contributes to mechanical digestion by vocal cord vibrations, and contains olfactory receptors within the laryngeal cartilages for food assessment, initiating the digestive cascade."
+                    },
+                    {
+                        "question": "Describe the composition of saliva, the exocrine secretion crucial for oral digestion, focusing on its enzymatic and non-enzymatic constituents and their respective roles in the initial breakdown of food.",
+                        "goodAnswer": "Saliva is composed of water, electrolytes, mucus, salivary amylase for starch digestion, lingual lipase for fat digestion initiated in the mouth, and lysozyme with antibacterial properties, facilitating initial food processing.",
+                        "wrongAnswer_1": "Saliva is composed of bile, electrolytes, mucus, gastric lipase for protein digestion, pancreatic amylase for carbohydrate digestion, and pepsin with antiviral properties, crucial for nutrient absorption.",
+                        "wrongAnswer_2": "Saliva is composed of lymph, hormones, mucus, trypsin for protein digestion, maltase for disaccharide digestion, and hydrochloric acid with antifungal properties, essential for metabolic regulation.",
+                        "wrongAnswer_3": "Saliva is composed of blood plasma, antibodies, mucus, pepsin for protein digestion, sucrase for disaccharide digestion, and bile salts with emulsification properties, facilitating immune response.",
+                        "wrongAnswer_4": "Saliva is composed of cerebrospinal fluid, neurotransmitters, mucus, lactase for lactose digestion, nuclease for nucleic acid digestion, and renin with hormonal regulation properties, important for neural communication."
+                    },
+                    {
+                        "question": "Specify the histological type of epithelium that lines the oral cavity, and elucidate its functional adaptations that enable it to withstand the mechanical stresses of mastication and the enzymatic milieu encountered during the processing of food.",
+                        "goodAnswer": "The oral cavity is lined by stratified squamous epithelium, which is non-keratinized in most areas except for regions subjected to greater abrasion like the hard palate and gingivae, providing robust protection against mechanical abrasion and chemical irritation from food and salivary enzymes.",
+                        "wrongAnswer_1": "The oral cavity is lined by simple columnar epithelium, characterized by its secretory and absorptive capabilities, facilitating nutrient uptake directly within the oral environment and enzyme production, while offering moderate protection against mechanical forces.",
+                        "wrongAnswer_2": "The oral cavity is lined by pseudostratified ciliated columnar epithelium, featuring cilia for mucus transport and goblet cells for secretion, primarily adapted for trapping and removing debris and pathogens, and offering minimal protection against mechanical stress.",
+                        "wrongAnswer_3": "The oral cavity is lined by transitional epithelium, known for its distensibility and barrier function, accommodating volume changes during food intake and providing a flexible lining resistant to osmotic stress but less so to direct mechanical abrasion.",
+                        "wrongAnswer_4": "The oral cavity is lined by simple cuboidal epithelium, specialized for filtration and excretion, regulating fluid and electrolyte balance within the oral environment and offering a thin barrier suitable for rapid exchange but limited protection against masticatory forces."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "Describe the pharynx, delineating its three anatomical subdivisions and their respective boundaries, and outlining the primary function of the pharynx in both respiratory and digestive processes.",
+                        "goodAnswer": "The pharynx is divided into the nasopharynx (posterior to nasal cavity to soft palate), oropharynx (soft palate to hyoid bone), and laryngopharynx (hyoid bone to larynx), serving as a passageway for both air and food.",
+                        "wrongAnswer_1": "The pharynx is divided into the epipharynx (superior to nasal cavity to hard palate), mesopharynx (hard palate to thyroid cartilage), and hypopharynx (thyroid cartilage to trachea), primarily functioning in air filtration.",
+                        "wrongAnswer_2": "The pharynx is divided into the propharynx (anterior to oral cavity to epiglottis), metapharinx (epiglottis to cricoid cartilage), and teleopharynx (cricoid cartilage to esophagus), exclusively functioning in food digestion.",
+                        "wrongAnswer_3": "The pharynx is divided into the rhinopharynx (inferior to nasal cavity to uvula), glossopharynx (uvula to vocal cords), and tracheopharynx (vocal cords to bronchi), serving as a primary site for gas exchange.",
+                        "wrongAnswer_4": "The pharynx is divided into the cephalopharynx (lateral to nasal cavity to palatoglossal arch), caudopharynx (palatoglossal arch to arytenoid cartilage), and podopharynx (arytenoid cartilage to lungs), primarily functioning in vocalization."
+                    },
+                    {
+                        "question": "Identify the specific type of muscle tissue primarily responsible for the process of deglutition within the pharynx, differentiating between the superior, middle, and inferior constrictor muscles and their sequential action.",
+                        "goodAnswer": "Skeletal muscle constitutes the pharyngeal constrictors (superior, middle, inferior), which contract sequentially to propel the bolus during deglutition, under voluntary and involuntary neural control.",
+                        "wrongAnswer_1": "Smooth muscle constitutes the pharyngeal dilators (anterior, posterior, lateral), which contract simultaneously to widen the pharynx during deglutition, solely under autonomic nervous system control.",
+                        "wrongAnswer_2": "Cardiac muscle constitutes the pharyngeal sphincters (upper, lower, medial), which contract rhythmically to regulate bolus passage during deglutition, primarily under hormonal regulation.",
+                        "wrongAnswer_3": "Elastic muscle constitutes the pharyngeal levators (superior, inferior, intermediate), which contract independently to elevate the pharynx during deglutition, exclusively under somatic nervous system control.",
+                        "wrongAnswer_4": "Fibrous muscle constitutes the pharyngeal tensors (anterior, posterior, central), which contract concentrically to tense the pharyngeal walls during deglutition, primarily under endocrine system control."
+                    },
+                    {
+                        "question": "Describe the role of the epiglottis during swallowing, emphasizing its anatomical position relative to the larynx and trachea, and the mechanism by which it prevents aspiration of food and fluids into the respiratory tract.",
+                        "goodAnswer": "The epiglottis, a cartilaginous flap superior to the larynx, moves inferiorly during swallowing to cover the laryngeal inlet, directing the bolus posteriorly into the esophagus and preventing tracheal aspiration.",
+                        "wrongAnswer_1": "The epiglottis, a muscular sphincter inferior to the trachea, contracts superiorly during swallowing to close off the esophageal opening, diverting the bolus anteriorly into the larynx and preventing esophageal reflux.",
+                        "wrongAnswer_2": "The epiglottis, a bony structure anterior to the pharynx, rotates laterally during swallowing to widen the tracheal passage, facilitating air entry and preventing bolus entry into the esophagus.",
+                        "wrongAnswer_3": "The epiglottis, a glandular tissue posterior to the esophagus, secretes mucus during swallowing to lubricate the larynx, promoting bolus passage into the trachea and preventing esophageal obstruction.",
+                        "wrongAnswer_4": "The epiglottis, a vascular fold medial to the bronchi, expands vertically during swallowing to compress the esophageal walls, forcing the bolus inferiorly into the larynx and preventing bronchial obstruction."
+                    }
+                ]
+            },
+            {
+                "title": "Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Provide a detailed anatomical description of the esophagus, specifying its location relative to adjacent structures such as the trachea and vertebral column, and meticulously outlining the four principal layers constituting its wall, from the innermost mucosa to the outermost adventitia, including the specific tissue type comprising each layer.",
+                        "goodAnswer": "The esophagus is positioned posterior to the trachea and anterior to the vertebral column within the mediastinum. Its wall consists of mucosa (stratified squamous epithelium), submucosa (dense irregular connective tissue with esophageal glands), muscularis externa (inner circular and outer longitudinal smooth muscle layers), and adventitia (fibrous connective tissue).",
+                        "wrongAnswer_1": "The esophagus is located anterior to the trachea and posterior to the sternum in the anterior thoracic cavity. Its wall layers are serosa (simple squamous epithelium), submucosa (loose areolar connective tissue with lymphatic nodules), muscularis interna (inner longitudinal and outer circular skeletal muscle layers), and adventitia (adipose connective tissue).",
+                        "wrongAnswer_2": "The esophagus is situated lateral to the trachea and medial to the ribs in the pleural cavity. Its wall layers are lamina propria (areolar connective tissue), submucosa (reticular connective tissue with blood vessels and nerves), muscularis media (inner oblique and outer transverse cardiac muscle layers), and adventitia (hyaline cartilage).",
+                        "wrongAnswer_3": "The esophagus is positioned superior to the trachea and inferior to the diaphragm within the abdominal cavity. Its wall layers are basement membrane (dense regular connective tissue), submucosa (elastic connective tissue with goblet cells and serous glands), muscularis mucosa (inner circular and outer longitudinal elastic muscle layers), and adventitia (nervous tissue and ganglia).",
+                        "wrongAnswer_4": "The esophagus is located inferior to the trachea and superior to the stomach in the retroperitoneal space. Its wall layers are peritoneum (simple cuboidal epithelium), submucosa (mucous connective tissue with collagen and elastin fibers), muscularis serosa (inner longitudinal and outer circular striated muscle layers), and adventitia (osseous connective tissue)."
+                    },
+                    {
+                        "question": "Explain the mechanism of peristalsis in the esophagus, detailing the roles of the circular and longitudinal muscle layers in propelling the bolus towards the stomach, and differentiate between primary and secondary peristaltic waves.",
+                        "goodAnswer": "Peristalsis involves sequential contractions of circular muscle behind the bolus and longitudinal muscle ahead of it, propelling it towards the stomach. Primary peristalsis is initiated by swallowing; secondary waves clear esophageal remnants.",
+                        "wrongAnswer_1": "Peristalsis involves simultaneous contractions of longitudinal muscle behind the bolus and circular muscle ahead of it, drawing it towards the stomach. Primary peristalsis is triggered by chewing; secondary waves initiate digestion.",
+                        "wrongAnswer_2": "Peristalsis involves rhythmic contractions of oblique muscle around the bolus and transverse muscle beneath it, pushing it towards the stomach. Primary peristalsis is controlled by hormones; secondary waves regulate pH.",
+                        "wrongAnswer_3": "Peristalsis involves sporadic contractions of striated muscle above the bolus and smooth muscle below it, pulling it towards the stomach. Primary peristalsis is voluntary; secondary waves stimulate absorption.",
+                        "wrongAnswer_4": "Peristalsis involves constant contractions of cardiac muscle around the bolus and elastic muscle beneath it, squeezing it towards the stomach. Primary peristalsis is autonomic; secondary waves promote enzyme secretion."
+                    },
+                    {
+                        "question": "Identify the sphincters associated with the esophagus and describe their anatomical location and physiological function in regulating the passage of food into and out of the esophagus, preventing reflux and ensuring unidirectional flow.",
+                        "goodAnswer": "The upper esophageal sphincter (UES) at the pharyngoesophageal junction prevents air entry; the lower esophageal sphincter (LES) or cardiac sphincter at the gastroesophageal junction prevents gastric reflux.",
+                        "wrongAnswer_1": "The pyloric sphincter at the esophagoduodenal junction regulates chyme release; the ileocecal sphincter at the esophagocecal junction prevents colonic reflux into the esophagus.",
+                        "wrongAnswer_2": "The esophageal-pharyngeal sphincter at the nasopharynx prevents nasal regurgitation; the esophageal-gastric sphincter at the pylorus prevents duodenal reflux into the esophagus.",
+                        "wrongAnswer_3": "The cardioesophageal sphincter at the esophageal-cardiac junction controls blood flow; the gastro-duodenal sphincter at the esophageal-duodenal junction regulates nutrient absorption.",
+                        "wrongAnswer_4": "The pharyngo-laryngeal sphincter at the laryngopharynx prevents laryngeal aspiration; the esophago-jejunal sphincter at the esophageal-jejunal junction prevents pancreatic reflux into the esophagus."
+                    }
+                ]
+            },
+            {
+                "title": "The stomach",
+                "quizzes": [
+                    {
+                        "question": "Describe the distinct anatomical regions of the stomach, specifically naming and locating the cardia, fundus, body, and pylorus, and detailing their relative spatial positions and specialized functional roles in gastric digestion and the processing of chyme before it enters the duodenum.",
+                        "goodAnswer": "The stomach's regions are: cardia (surrounds esophageal orifice, mucus secretion), fundus (dome-shaped superior region, gas storage), body (main central portion, mixing and acid/enzyme secretion), and pylorus (distal, funnel-shaped region leading to pyloric canal and sphincter, controls gastric emptying).",
+                        "wrongAnswer_1": "The stomach's regions are: antrum (proximal to duodenum, nutrient absorption), corpus (superior dome, bile storage), base (main central part, hormone production), and fornix (proximal to esophagus, enzyme secretion and pH regulation), each primarily involved in nutrient processing and metabolic regulation.",
+                        "wrongAnswer_2": "The stomach's regions are: cervix (near pharynx, lymphatic drainage), apex (superior dome, blood filtration), shaft (main central part, mechanical digestion and peristalsis initiation), and hiatus (distal end leading to ileum, water absorption and electrolyte balance), mainly responsible for waste management and fluid control.",
+                        "wrongAnswer_3": "The stomach's regions are: orad (near jejunum, vitamin absorption), cranial (superior dome, mineral storage), axial (main central part, gas exchange and respiratory function), and caudad (distal end leading to colon, waste elimination and detoxification), exclusively functioning in respiratory and excretory processes.",
+                        "wrongAnswer_4": "The stomach's regions are: apex (near larynx, vocalization and sound production), base (superior dome, air filtration and humidification), trunk (main central part, thermoregulation and body temperature control), and nadir (distal end leading to rectum, immune response and pathogen defense), primarily dedicated to non-digestive systemic functions."
+                    },
+                    {
+                        "question": "Elucidate the unique structural characteristics of the stomach's muscularis externa layer, with particular emphasis on the presence of the oblique muscle layer in addition to the circular and longitudinal layers, and analyze its specific contribution to the mechanical churning and mixing of gastric contents during the digestive process.",
+                        "goodAnswer": "The stomach's muscularis externa is distinctive due to its inner oblique muscle layer, lying inside the circular and longitudinal layers. This third layer enables complex churning contractions, facilitating thorough mechanical mixing of food with gastric secretions to form chyme, enhancing digestive efficiency.",
+                        "wrongAnswer_1": "The stomach's muscularis externa is unique as it lacks a longitudinal muscle layer but possesses inner and outer circular layers, primarily facilitating segmentation contractions that propel food distally for nutrient absorption within the stomach itself, maximizing surface area contact.",
+                        "wrongAnswer_2": "The stomach's muscularis externa is solely composed of a spiral muscle layer, enabling continuous peristaltic waves that rapidly transport undigested food directly from the esophagus to the intestines, bypassing significant gastric mixing and digestion processes.",
+                        "wrongAnswer_3": "The stomach's muscularis externa consists of an outer oblique layer and inner circular and longitudinal layers, primarily involved in rhythmic contractions for bolus propulsion and dehydration of stomach contents, concentrating waste products before intestinal transit.",
+                        "wrongAnswer_4": "The stomach's muscularis externa has only circular and oblique muscle layers, responsible for tonic contractions that maintain constant gastric pressure and prevent reflux of gastric contents back into the esophagus, ensuring unidirectional flow and preventing regurgitation."
+                    },
+                    {
+                        "question": "Describe the gastric glands located within the stomach mucosa, identifying the different cell types present (parietal, chief, mucous neck, enteroendocrine) and their specific secretions and functions in gastric digestion.",
+                        "goodAnswer": "Gastric glands contain parietal cells (HCl and intrinsic factor), chief cells (pepsinogen and gastric lipase), mucous neck cells (acidic mucus), and enteroendocrine cells (hormones like gastrin and histamine).",
+                        "wrongAnswer_1": "Gastric glands contain goblet cells (alkaline mucus), serous cells (amylase and maltase), zymogen cells (trypsinogen and chymotrypsinogen), and exocrine cells (bile and pancreatic enzymes).",
+                        "wrongAnswer_2": "Gastric glands contain Kupffer cells (bilirubin and bile salts), stellate cells (vitamin D and calcitonin), interstitial cells (insulin and glucagon), and endocrine cells (thyroxine and cortisol).",
+                        "wrongAnswer_3": "Gastric glands contain chondrocytes (collagen and elastin), osteocytes (calcium and phosphate), melanocytes (melanin and keratin), and neural cells (neurotransmitters and neuropeptides).",
+                        "wrongAnswer_4": "Gastric glands contain pneumocytes (oxygen and carbon dioxide), hepatocytes (glucose and glycogen), adipocytes (triglycerides and fatty acids), and immune cells (antibodies and cytokines)."
+                    }
+                ]
+            },
+            {
+                "title": "The small intestines",
+                "quizzes": [
+                    {
+                        "question": "Describe the three primary anatomical subdivisions of the small intestine in their proximal-to-distal sequence, specifically naming the duodenum, jejunum, and ileum, and highlighting their characteristic lengths, anatomical locations within the abdominal cavity, and principal functional roles in nutrient digestion and absorption.",
+                        "goodAnswer": "The small intestine comprises: duodenum (shortest, ~25cm, C-shaped, retroperitoneal, receives chyme and pancreatic/bile secretions, initial digestion), jejunum (mid-portion, ~2.5m, primarily in upper abdomen, major site of nutrient absorption), and ileum (longest, ~3.5m, mainly in lower abdomen, absorbs bile salts, vitamin B12, and remaining nutrients).",
+                        "wrongAnswer_1": "The small intestine comprises: ileum (shortest, ~15cm, S-shaped, intraperitoneal, receives chyme and intestinal secretions, primary water absorption), jejunum (proximal portion, ~1.5m, mainly in lower abdomen, primary site of protein absorption), and duodenum (longest, ~4.5m, distal, retroperitoneal, absorbs fatty acids and fat-soluble vitamins).",
+                        "wrongAnswer_2": "The small intestine comprises: cecum (shortest, ~35cm, J-shaped, intraperitoneal, receives chyme and gastric secretions, initial protein digestion), colon (mid-portion, ~3.5m, mainly in upper abdomen, primary site of carbohydrate absorption), and rectum (longest, ~5.5m, distal, retroperitoneal, absorbs glucose and amino acids).",
+                        "wrongAnswer_3": "The small intestine comprises: fundus (shortest, ~5cm, U-shaped, retroperitoneal, receives chyme and salivary secretions, initial mineral absorption), body (mid-portion, ~0.5m, mainly in lower abdomen, primary site of vitamin absorption), and pylorus (longest, ~1.5m, distal, intraperitoneal, absorbs electrolytes and trace elements).",
+                        "wrongAnswer_4": "The small intestine comprises: cardia (shortest, ~45cm, L-shaped, intraperitoneal, receives chyme and hepatic secretions, initial nucleic acid absorption), antrum (mid-portion, ~4.5m, mainly in upper abdomen, primary site of lipid absorption), and corpus (longest, ~6.5m, distal, retroperitoneal, absorbs water-soluble vitamins and minerals)."
+                    },
+                    {
+                        "question": "Explain the complex structural adaptations of the small intestinal mucosa that collectively serve to dramatically increase its luminal surface area available for nutrient absorption, specifically detailing the individual contributions of circular folds (plicae circulares), villi, and microvilli to this surface area amplification.",
+                        "goodAnswer": "Small intestinal surface area is vastly increased by three levels of folding: plicae circulares (macroscopic, permanent spiral folds of mucosa and submucosa), villi (finger-like mucosal projections covering plicae), and microvilli (microscopic brush border on apical surface of enterocytes), maximizing nutrient absorption efficiency.",
+                        "wrongAnswer_1": "Small intestinal surface area is increased by rugae (macroscopic, temporary folds of mucosa only), fimbriae (finger-like submucosal projections covering rugae), and cilia (hair-like extensions on goblet cells), primarily maximizing water absorption and mucus secretion within the small intestine.",
+                        "wrongAnswer_2": "Small intestinal surface area is increased by haustra (macroscopic pouches of muscularis externa), crypts (pit-like invaginations of muscularis mucosa), and stereocilia (long, branched extensions on smooth muscle cells), primarily maximizing electrolyte absorption and intestinal motility regulation.",
+                        "wrongAnswer_3": "Small intestinal surface area is increased by teniae coli (macroscopic bands of longitudinal muscle), diverticula (sac-like outpouchings of serosa), and flagella (whip-like appendages on connective tissue cells), primarily maximizing vitamin absorption and structural integrity of the intestinal wall.",
+                        "wrongAnswer_4": "Small intestinal surface area is increased by villi (macroscopic folds of submucosa and serosa), alveoli (sac-like structures of lamina propria), and cilia (brush border on endothelial cells), primarily maximizing gas exchange and nutrient uptake from the intestinal lumen into the bloodstream."
+                    },
+                    {
+                        "question": "Describe the intestinal glands (crypts of Lieberk\u00fchn) located within the small intestinal mucosa, identifying the cell types present (enterocytes, goblet cells, enteroendocrine cells, Paneth cells) and their specific secretions and functions.",
+                        "goodAnswer": "Intestinal crypts contain enterocytes (absorption), goblet cells (mucus secretion), enteroendocrine cells (hormones like secretin and CCK), and Paneth cells (antimicrobial substances like lysozyme and defensins).",
+                        "wrongAnswer_1": "Intestinal crypts contain chondrocytes (collagen secretion), serous cells (enzyme secretion), zymogen cells (proenzyme secretion), and Kupffer cells (bile pigment secretion and phagocytosis).",
+                        "wrongAnswer_2": "Intestinal crypts contain osteocytes (calcium regulation), stellate cells (vitamin storage), interstitial cells (hormone production), and melanocytes (pigment production and UV protection).",
+                        "wrongAnswer_3": "Intestinal crypts contain pneumocytes (gas exchange), hepatocytes (glucose metabolism), adipocytes (lipid storage), and Langerhans cells (immune surveillance and antigen presentation).",
+                        "wrongAnswer_4": "Intestinal crypts contain myocytes (muscle contraction), neurons (signal transduction), fibroblasts (connective tissue maintenance), and mast cells (inflammatory mediator release and allergic reactions)."
+                    }
+                ]
+            },
+            {
+                "title": "The large intestines",
+                "quizzes": [
+                    {
+                        "question": "Describe the major anatomical regions of the large intestine in their sequential order from the ileocecal valve to the anal canal, specifically including the cecum, ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anal canal, and detailing their characteristic positions within the abdominopelvic cavity and their general physiological functions.",
+                        "goodAnswer": "Large intestine regions, ileocecal to anus: cecum (pouch-like, ileocecal valve entrance), ascending colon (right side, vertical to hepatic flexure), transverse colon (horizontal, across abdomen), descending colon (left side, vertical to splenic flexure), sigmoid colon (S-shaped, pelvic), rectum (straight, pelvic cavity), anal canal (terminal, to anus). Primary functions: water and electrolyte absorption, waste compaction, and elimination.",
+                        "wrongAnswer_1": "Large intestine regions, pyloric valve to anal canal: duodenum (C-shaped, pyloric valve exit), jejunum (left side, vertical to duodenojejunal flexure), ileum (horizontal, across abdomen), cecum (right side, vertical to ileocecal valve), colon (S-shaped, abdominal cavity), rectum (straight, thoracic cavity), anal canal (proximal). Primary functions: nutrient absorption, enzyme secretion, and initial digestion.",
+                        "wrongAnswer_2": "Large intestine regions, esophageal sphincter to anal canal: fundus (dome-shaped, esophageal sphincter exit), body (right side, vertical to fundic flexure), antrum (horizontal, across abdomen), pylorus (left side, vertical to pyloric sphincter), cardia (S-shaped, cranial cavity), rectum (straight, abdominal cavity), anal canal (distal). Primary functions: protein digestion, acid neutralization, and gastric motility.",
+                        "wrongAnswer_3": "Large intestine regions, nasopharyngeal opening to anal canal: oropharynx (posterior to oral cavity, nasopharyngeal opening exit), laryngopharynx (left side, vertical to oropharyngeal flexure), nasopharynx (horizontal, across abdomen), esophagus (right side, vertical to laryngopharyngeal flexure), stomach (S-shaped, cranial cavity), rectum (straight, cranial cavity), anal canal (caudal). Primary functions: air filtration, gas exchange, and respiratory conditioning.",
+                        "wrongAnswer_4": "Large intestine regions, hepatic duct to anal canal: gallbladder (sac-like, hepatic duct exit), bile duct (right side, vertical to cystic flexure), pancreatic duct (horizontal, across abdomen), cystic duct (left side, vertical to pancreatic flexure), ampulla of Vater (S-shaped, spinal cavity), rectum (straight, spinal cavity), anal canal (lateral). Primary functions: bile production, fat emulsification, and pancreatic enzyme delivery."
+                    },
+                    {
+                        "question": "Identify the unique structural features that distinctly characterize the large intestine and differentiate it from the small intestine, specifically focusing on the teniae coli, haustra, and omental appendices (epiploic appendages), and explain their respective functional significance in large intestinal physiology.",
+                        "goodAnswer": "Large intestine features: teniae coli (three longitudinal muscle bands, create haustra), haustra (sacculations or pouches between teniae, for segmentation and mixing), omental appendices (epiploic appendages, fat-filled pouches of peritoneum, function unclear, possibly fat storage or immune). Function: segmentation, compaction, water absorption, and limited nutrient absorption.",
+                        "wrongAnswer_1": "Large intestine features: plicae circulares (circular folds of mucosa and submucosa, increase surface area), villi (finger-like mucosal projections, enhance absorption), microvilli (brush border on enterocytes, further increase surface area). Function: nutrient absorption, enzyme secretion, and primary site of digestion.",
+                        "wrongAnswer_2": "Large intestine features: rugae (mucosal folds in stomach, increase surface area), crypts of Lieberk\u00fchn (intestinal glands in small intestine, secretion), Peyer's patches (lymphoid nodules in ileum, immune surveillance). Function: immune surveillance, pathogen defense, and enzymatic digestion in the small intestine.",
+                        "wrongAnswer_3": "Large intestine features: papillae (taste buds on tongue, gustation), lingual frenulum (tongue attachment to floor of mouth, tongue movement), salivary glands (produce saliva, initiate digestion). Function: mechanical digestion, taste perception, and initial chemical digestion in the oral cavity.",
+                        "wrongAnswer_4": "Large intestine features: alveoli (air sacs in lungs, gas exchange), bronchioles (air passages in lungs, air conduction), pleura (membranes surrounding lungs, lung protection). Function: respiration, oxygen transport, and carbon dioxide removal in the respiratory system."
+                    },
+                    {
+                        "question": "Describe the predominant type of epithelium that lines the mucosa of the large intestine, and elucidate its functional adaptations to the unique environment of the large intestine, with particular emphasis on the abundance of goblet cells and the conspicuous absence of villi in its histological structure.",
+                        "goodAnswer": "Large intestine mucosa is lined by simple columnar epithelium, characterized by numerous goblet cells (secreting mucus for lubrication and protection) and the absence of villi (surface area increase not primary function). This epithelium is adapted for water and electrolyte absorption, mucus production to facilitate fecal passage, and waste propulsion.",
+                        "wrongAnswer_1": "Large intestine mucosa is lined by stratified squamous epithelium, featuring keratinocytes and melanocytes (protection against abrasion and UV radiation). Adapted for protection against mechanical stress and dehydration, typical of external body surfaces but not suited for absorption in the digestive tract.",
+                        "wrongAnswer_2": "Large intestine mucosa is lined by pseudostratified ciliated columnar epithelium, possessing cilia and goblet cells (mucus movement and particle trapping). Adapted for mucus transport and debris removal, characteristic of respiratory airways but not consistent with large intestinal function.",
+                        "wrongAnswer_3": "Large intestine mucosa is lined by transitional epithelium, featuring umbrella cells (distension and barrier function, accommodating volume changes). Adapted for distension and stretching, typical of urinary bladder but not functionally aligned with large intestinal absorption and waste processing.",
+                        "wrongAnswer_4": "Large intestine mucosa is lined by simple cuboidal epithelium, featuring microvilli and mitochondria (secretion and absorption of nutrients and enzymes). Adapted for secretion and absorption of nutrients and enzymes, characteristic of small intestine and kidney tubules but not primary function of large intestine."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

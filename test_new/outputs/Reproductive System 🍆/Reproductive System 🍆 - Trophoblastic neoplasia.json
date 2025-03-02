@@ -1,0 +1,244 @@
+{
+    "mainTopic": {
+        "title": "Trophoblastic neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Types of trophoblast neoplasia",
+                "quizzes": [
+                    {
+                        "question": "Which classification distinguishes trophoblastic neoplasia based on the presence or absence of chorionic villi and gestational context?",
+                        "goodAnswer": "Trophoblastic neoplasia is primarily categorized into molar, which is always gestational and characterized by the presence of villi, and non-molar, which can be non-gestational and is defined by the absence of villi.",
+                        "wrongAnswer_1": "Trophoblastic neoplasia is divided into villous, always gestational and characterized by molar features, and non-villous, which can be non-gestational and always lacks molar characteristics.",
+                        "wrongAnswer_2": "The classification of trophoblastic neoplasia includes gestational forms with villi and non-gestational forms without villi, irrespective of molar or non-molar characteristics.",
+                        "wrongAnswer_3": "Trophoblastic neoplasia is categorized as either gestational, always presenting with villi and molar features, or non-gestational, which may or may not have villi but always lacks molar characteristics.",
+                        "wrongAnswer_4": "The primary distinction in trophoblastic neoplasia is between molar, which is exclusively non-gestational and lacks villi, and non-molar, which is gestational and characterized by the presence of villi."
+                    },
+                    {
+                        "question": "What are the primary underlying mechanisms leading to molar gestations within the spectrum of trophoblastic neoplasia?",
+                        "goodAnswer": "Molar gestations arise from errors occurring during fertilization or meiosis, resulting in an abnormal paternal genetic contribution to the zygote, which is a key factor in their development.",
+                        "wrongAnswer_1": "Molar gestations are primarily caused by errors in implantation or placentation, leading to an abnormal maternal genetic contribution to the zygote and subsequent trophoblastic proliferation.",
+                        "wrongAnswer_2": "Molar gestations result from errors in cellular differentiation or migration during early embryonic development, leading to an abnormal balance of maternal and paternal genetic material in the zygote.",
+                        "wrongAnswer_3": "Molar gestations are attributed to post-zygotic errors in DNA replication or repair, causing an imbalance in the zygotic genome, predominantly affecting maternal genetic contribution.",
+                        "wrongAnswer_4": "Molar gestations originate from errors in trophoblastic stem cell division or apoptosis, resulting in an abnormal genetic contribution from both maternal and paternal sources to the zygote."
+                    },
+                    {
+                        "question": "How are molar gestations further subcategorized within trophoblastic neoplasia, based on their specific pathological features?",
+                        "goodAnswer": "Molar gestations are further divided into two main categories: complete hydatidiform mole and partial hydatidiform mole, each distinguished by specific histological and genetic characteristics.",
+                        "wrongAnswer_1": "Molar gestations are subcategorized into gestational choriocarcinoma and gestational trophoblastic tumors, differentiated by their metastatic potential and clinical presentation.",
+                        "wrongAnswer_2": "Molar gestations are classified into invasive mole and non-invasive mole, based on the extent of myometrial invasion and the presence of distant metastases.",
+                        "wrongAnswer_3": "Molar gestations are primarily divided into benign hydatidiform mole and malignant hydatidiform mole, determined by the presence of cytologic atypia and proliferative index.",
+                        "wrongAnswer_4": "Molar gestations are subcategorized into diploid hydatidiform mole and triploid hydatidiform mole, based on the ploidy status of the trophoblastic tissue and fetal karyotype."
+                    }
+                ]
+            },
+            {
+                "title": "Partial Hydatidiform Mole",
+                "quizzes": [
+                    {
+                        "question": "What are the key macroscopic features of a partial hydatidiform mole concerning villous size and the possibility of fetal development?",
+                        "goodAnswer": "Partial hydatidiform moles are characterized by excess tissue with occasionally large villi that are grossly identifiable but typically measure less than 1cm in greatest dimension, and fetal development is possible, often with anomalies.",
+                        "wrongAnswer_1": "Partial hydatidiform moles present with minimal tissue and uniformly small villi that are not grossly identifiable and usually measure greater than 1cm, and fetal development is consistently observed without anomalies.",
+                        "wrongAnswer_2": "Partial hydatidiform moles feature moderate tissue with consistently large villi that are easily identifiable and typically exceed 2cm in greatest dimension, and fetal development is possible but always results in severe anomalies.",
+                        "wrongAnswer_3": "Partial hydatidiform moles are defined by scant tissue and highly variable villi sizes, some exceeding 3cm, with fetal development being impossible due to extensive chromosomal aberrations.",
+                        "wrongAnswer_4": "Partial hydatidiform moles show abundant tissue with uniformly medium-sized villi, grossly identifiable and around 1.5cm in dimension, and fetal development is possible but typically results in minor, correctable anomalies."
+                    },
+                    {
+                        "question": "Which constellation of fetal anomalies is characteristically associated with partial hydatidiform moles when fetal development occurs?",
+                        "goodAnswer": "Fetal development in partial hydatidiform moles is associated with characteristic anomalies including intrauterine growth restriction (IUGR), syndactyly of hands (3-4 fingers) and feet (2-3 toes), and renal, cardiac, and neural structural anomalies.",
+                        "wrongAnswer_1": "Fetal development in partial hydatidiform moles is associated with anomalies such as macrosomia, polydactyly of hands (5-6 fingers) and feet (4-5 toes), and pulmonary, hepatic, and gastrointestinal structural anomalies.",
+                        "wrongAnswer_2": "Fetal development in partial hydatidiform moles typically presents with anomalies like accelerated growth, brachydactyly of hands (1-2 fingers) and feet (1-2 toes), and endocrine, lymphatic, and musculoskeletal structural anomalies.",
+                        "wrongAnswer_3": "Fetal development in partial hydatidiform moles is characterized by anomalies including normal growth, ectrodactyly of hands (absence of fingers) and feet (absence of toes), and dermatologic, immunological, and hematologic structural anomalies.",
+                        "wrongAnswer_4": "Fetal development in partial hydatidiform moles is linked to anomalies such as gigantism, oligosyndactyly of hands (2-3 fingers) and feet (1-2 toes), and pancreatic, thyroid, and adrenal structural anomalies."
+                    },
+                    {
+                        "question": "Describe the distinctive histological features observed in partial hydatidiform moles concerning villous populations and syncytiotrophoblastic inclusions.",
+                        "goodAnswer": "Histologically, partial hydatidiform moles are characterized by two populations of villi \u2013 large villi with cisterns and small villi \u2013 irregular outlines of villi, villous syncytiotrophoblastic inclusions, and excess and atypical villous syncytiotrophoblast.",
+                        "wrongAnswer_1": "Histologically, partial hydatidiform moles show a uniform population of medium-sized villi without cisterns, regular outlines of villi, stromal trophoblastic inclusions, and minimal and typical villous syncytiotrophoblast.",
+                        "wrongAnswer_2": "Histologically, partial hydatidiform moles are defined by three populations of villi \u2013 large, medium, and small \u2013 regular outlines of villi, cytotrophoblastic inclusions, and deficient and atrophic villous syncytiotrophoblast.",
+                        "wrongAnswer_3": "Histologically, partial hydatidiform moles present with a single population of large villi with prominent cisterns, highly regular outlines of villi, extravillous trophoblastic inclusions, and normal and abundant villous syncytiotrophoblast.",
+                        "wrongAnswer_4": "Histologically, partial hydatidiform moles exhibit no distinct villous populations, highly irregular outlines of villi, multinucleated giant cell inclusions, and absent or necrotic villous syncytiotrophoblast."
+                    },
+                    {
+                        "question": "What are the defining genetic and ploidy characteristics of partial hydatidiform moles?",
+                        "goodAnswer": "Partial hydatidiform moles are typically triploid, and the extra haploid set of DNA is of paternal origin, reflecting the genetic mechanism of their formation.",
+                        "wrongAnswer_1": "Partial hydatidiform moles are typically diploid, and both sets of DNA are of maternal origin, indicating a purely maternal genetic contribution.",
+                        "wrongAnswer_2": "Partial hydatidiform moles are typically tetraploid, and the extra two haploid sets of DNA are of biparental origin, suggesting a mixed genetic contribution.",
+                        "wrongAnswer_3": "Partial hydatidiform moles are typically aneuploid, with a variable number of chromosomes and the DNA origin being randomly distributed between maternal and paternal sources.",
+                        "wrongAnswer_4": "Partial hydatidiform moles are typically haploid, containing a single set of DNA that is exclusively of paternal origin, representing a complete androgenetic genome."
+                    },
+                    {
+                        "question": "Which specific histological features, observed at a microscopic level, further characterize partial hydatidiform moles beyond villous populations and outlines?",
+                        "goodAnswer": "Beyond villous populations and outlines, partial hydatidiform moles are further characterized by 'molar' implantation site features, evidence of embryonic or fetal development, focal villous hydrops and trophoblastic hyperplasia, mounds of syncytiotrophoblast and infrequent nuclear atypia.",
+                        "wrongAnswer_1": "Beyond villous populations and outlines, partial hydatidiform moles are characterized by 'placental' implantation site features, absence of embryonic or fetal development, diffuse villous fibrosis and trophoblastic hypoplasia, sheets of cytotrophoblast and frequent nuclear atypia.",
+                        "wrongAnswer_2": "Beyond villous populations and outlines, partial hydatidiform moles are defined by 'decidual' implantation site features, exclusively fetal development with no embryonic remnants, multifocal villous necrosis and trophoblastic metaplasia, nests of intermediate trophoblast and consistent nuclear atypia.",
+                        "wrongAnswer_3": "Beyond villous populations and outlines, partial hydatidiform moles are identified by 'myometrial' implantation site features, only embryonic development with no fetal components, generalized villous sclerosis and trophoblastic aplasia, cords of extravillous trophoblast and pronounced nuclear atypia.",
+                        "wrongAnswer_4": "Beyond villous populations and outlines, partial hydatidiform moles are distinguished by 'endometrial' implantation site features, concurrent embryonic and fetal development in equal proportions, segmental villous atrophy and trophoblastic dysplasia, clusters of binucleate trophoblast and variable nuclear atypia."
+                    }
+                ]
+            },
+            {
+                "title": "Complete hydatidiform mole",
+                "quizzes": [
+                    {
+                        "question": "What are the defining macroscopic characteristics of a complete hydatidiform mole concerning villous size and fetal development?",
+                        "goodAnswer": "Complete hydatidiform moles are characterized by grossly identifiable villi, often larger than 1cm in greatest dimension, and an absence of fetal development.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are characterized by microscopic villi, typically less than 0.5cm in dimension, and the presence of normal fetal development.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are characterized by moderately sized villi, around 0.8cm in dimension, and the presence of fetal development with severe anomalies.",
+                        "wrongAnswer_3": "Complete hydatidiform moles are characterized by variably sized villi, ranging from 0.5 to 1.5cm, and fetal development is possible but always results in fetal demise.",
+                        "wrongAnswer_4": "Complete hydatidiform moles are characterized by extremely large villi, often exceeding 2cm in dimension, and fetal development is typically advanced and normal."
+                    },
+                    {
+                        "question": "Describe the key histological features of a complete hydatidiform mole, focusing on cistern formation and the presence of blood vessels within the villi.",
+                        "goodAnswer": "Histologically, complete hydatidiform moles exhibit villous hydrops, trophoblast hyperplasia, and cistern formation within the villi, while notably lacking blood vessels in the villous structures.",
+                        "wrongAnswer_1": "Histologically, complete hydatidiform moles demonstrate villous fibrosis, trophoblast hypoplasia, and absence of cisterns, with prominent blood vessels throughout the villous structures.",
+                        "wrongAnswer_2": "Histologically, complete hydatidiform moles show villous necrosis, trophoblast metaplasia, and minimal cistern formation, accompanied by a normal distribution of blood vessels in the villi.",
+                        "wrongAnswer_3": "Histologically, complete hydatidiform moles present with villous sclerosis, trophoblast aplasia, and extensive cistern formation, along with an overabundance of blood vessels in the villous structures.",
+                        "wrongAnswer_4": "Histologically, complete hydatidiform moles reveal villous atrophy, trophoblast dysplasia, and moderate cistern formation, with blood vessels only present in the stromal regions but absent in the villi themselves."
+                    },
+                    {
+                        "question": "What are the characteristic trophoblastic features observed in complete hydatidiform moles, specifically regarding cytotrophoblast and syncitiotrophoblast?",
+                        "goodAnswer": "Complete hydatidiform moles are characterized by mounds of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast, indicating significant trophoblastic activity.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are characterized by sheets of non-mitotic cytotrophoblast and dense condensation of syncitiotrophoblast, suggesting minimal trophoblastic activity.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are defined by nests of apoptotic cytotrophoblast and focal necrosis of syncitiotrophoblast, indicating degenerative trophoblastic changes.",
+                        "wrongAnswer_3": "Complete hydatidiform moles present with cords of quiescent cytotrophoblast and stratified layers of syncitiotrophoblast, suggesting organized but not proliferative trophoblastic behavior.",
+                        "wrongAnswer_4": "Complete hydatidiform moles exhibit isolated clusters of hypertrophic cytotrophoblast and sparse distribution of syncitiotrophoblast, indicating disorganized trophoblastic structure."
+                    },
+                    {
+                        "question": "What is the typical ploidy and origin of nuclear DNA in complete hydatidiform moles?",
+                        "goodAnswer": "Complete hydatidiform moles are typically diploid, and their nuclear DNA is androgenically derived, meaning it originates exclusively from paternal chromosomes.",
+                        "wrongAnswer_1": "Complete hydatidiform moles are typically triploid, and their nuclear DNA is biparentally derived, meaning it originates from both maternal and paternal chromosomes.",
+                        "wrongAnswer_2": "Complete hydatidiform moles are typically tetraploid, and their nuclear DNA is maternally derived, meaning it originates exclusively from maternal chromosomes.",
+                        "wrongAnswer_3": "Complete hydatidiform moles are typically aneuploid, and their nuclear DNA is randomly derived, meaning the origin is unpredictable and mixed.",
+                        "wrongAnswer_4": "Complete hydatidiform moles are typically haploid, and their nuclear DNA is of mixed origin, meaning it contains a combination of maternal and paternal genetic material."
+                    },
+                    {
+                        "question": "Besides cistern formation and lack of blood vessels, what other histological features are consistently observed in complete hydatidiform moles?",
+                        "goodAnswer": "In addition to cistern formation and lacking blood vessels, complete hydatidiform moles consistently show extravillous trophoblast and cytologic atypia, further defining their histological profile.",
+                        "wrongAnswer_1": "Besides cistern formation and lacking blood vessels, complete hydatidiform moles typically exhibit intravillous stroma and nuclear pleomorphism, adding to their histological complexity.",
+                        "wrongAnswer_2": "Besides cistern formation and lacking blood vessels, complete hydatidiform moles commonly present with perivillous fibrin and cytoplasmic vacuolization, modifying their histological appearance.",
+                        "wrongAnswer_3": "Besides cistern formation and lacking blood vessels, complete hydatidiform moles rarely demonstrate intervillous thrombi and stromal condensation, which are atypical histological findings.",
+                        "wrongAnswer_4": "Besides cistern formation and lacking blood vessels, complete hydatidiform moles never exhibit syncytial knots and decidual reaction, as these are features absent in their histological spectrum."
+                    }
+                ]
+            },
+            {
+                "title": "Molar gestations",
+                "quizzes": [
+                    {
+                        "question": "How do complete and partial moles differ in terms of their clinical course and potential for persistence or recurrence?",
+                        "goodAnswer": "Complete moles are associated with a risk of choriocarcinoma and recurrence, whereas partial moles rarely persist, indicating a difference in their malignant potential and clinical management.",
+                        "wrongAnswer_1": "Complete moles rarely persist and have a low risk of choriocarcinoma, while partial moles frequently recur and are strongly associated with invasive mole development.",
+                        "wrongAnswer_2": "Both complete and partial moles have a similar high risk of choriocarcinoma and persistent disease, requiring identical follow-up and treatment strategies.",
+                        "wrongAnswer_3": "Neither complete nor partial moles are associated with choriocarcinoma, but both have a high likelihood of recurrence, necessitating long-term surveillance.",
+                        "wrongAnswer_4": "Complete moles are characterized by frequent spontaneous resolution and no risk of recurrence, whereas partial moles always progress to choriocarcinoma if left untreated."
+                    },
+                    {
+                        "question": "What is the significance of genetic imprinting in the context of molar gestations?",
+                        "goodAnswer": "Molar gestations serve as evidence that genetic imprinting leads to functional differences between maternal and paternal DNA, particularly in placental and fetal development.",
+                        "wrongAnswer_1": "Molar gestations indicate that genetic imprinting results in identical functions for maternal and paternal DNA, with no discernible developmental consequences.",
+                        "wrongAnswer_2": "Molar gestations demonstrate that genetic imprinting is irrelevant to the functional differences between maternal and paternal DNA and has no impact on development.",
+                        "wrongAnswer_3": "Molar gestations suggest that genetic imprinting causes random inactivation of either maternal or paternal DNA, leading to unpredictable developmental outcomes.",
+                        "wrongAnswer_4": "Molar gestations prove that genetic imprinting primarily affects mitochondrial DNA, leading to functional differences in energy metabolism but not in nuclear DNA function."
+                    },
+                    {
+                        "question": "How does the parental origin of DNA in molar gestations influence the development of embryonic versus extraembryonic tissues?",
+                        "goodAnswer": "In molar gestations, an overabundance of paternal DNA preferentially contributes to extraembryonic tissues, while maternal DNA preferentially contributes to embryonic tissues, highlighting parental-specific roles in development.",
+                        "wrongAnswer_1": "In molar gestations, an overabundance of maternal DNA preferentially contributes to extraembryonic tissues, while paternal DNA preferentially contributes to embryonic tissues, reversing the typical parental roles.",
+                        "wrongAnswer_2": "In molar gestations, paternal and maternal DNA contribute equally to both embryonic and extraembryonic tissues, with no parental preference or functional specialization.",
+                        "wrongAnswer_3": "In molar gestations, paternal DNA contributes exclusively to embryonic tissues, and maternal DNA contributes exclusively to extraembryonic tissues, representing a complete segregation of parental roles.",
+                        "wrongAnswer_4": "In molar gestations, neither paternal nor maternal DNA shows preferential contribution to embryonic or extraembryonic tissues, with development being determined by environmental factors."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma",
+                "quizzes": [
+                    {
+                        "question": "What is the origin and nature of choriocarcinoma within the spectrum of trophoblastic diseases?",
+                        "goodAnswer": "Choriocarcinoma is a malignancy arising from all trophoblast lineages and can be either gestational or non-gestational in origin, representing a highly aggressive form of trophoblastic neoplasia.",
+                        "wrongAnswer_1": "Choriocarcinoma is a benign tumor originating from cytotrophoblast lineages exclusively and is always gestational, representing a slowly progressive form of trophoblastic proliferation.",
+                        "wrongAnswer_2": "Choriocarcinoma is a hamartoma derived from intermediate trophoblast lineages and is always non-gestational, representing a self-limiting form of trophoblastic lesion.",
+                        "wrongAnswer_3": "Choriocarcinoma is a sarcoma originating from syncytiotrophoblast lineages exclusively and can be either gestational or non-gestational, representing a moderately aggressive form of mesenchymal tumor.",
+                        "wrongAnswer_4": "Choriocarcinoma is a hyperplasia derived from extravillous trophoblast lineages and is always gestational, representing a pre-malignant form of trophoblastic change."
+                    },
+                    {
+                        "question": "How does choriocarcinoma typically present clinically and what are its characteristic features regarding metastasis and chemosensitivity?",
+                        "goodAnswer": "Choriocarcinoma typically presents with bleeding and toxemia, is widely metastatic, and gestational choriocarcinoma is notably chemosensitive, influencing its prognosis and treatment approach.",
+                        "wrongAnswer_1": "Choriocarcinoma typically presents asymptomatically, is locally confined, and gestational choriocarcinoma is chemoresistant, making treatment challenging and prognosis poor.",
+                        "wrongAnswer_2": "Choriocarcinoma typically presents with pain and fever, is rarely metastatic, and gestational choriocarcinoma is partially chemosensitive, requiring multi-agent chemotherapy for effective treatment.",
+                        "wrongAnswer_3": "Choriocarcinoma typically presents with polyuria and polydipsia, is rapidly metastatic but only to lymphatic tissues, and gestational choriocarcinoma is insensitive to chemotherapy, relying on surgical resection.",
+                        "wrongAnswer_4": "Choriocarcinoma typically presents with skin rash and jaundice, is non-metastatic, and gestational choriocarcinoma is highly chemosensitive but only to specific targeted therapies, not conventional chemotherapy."
+                    },
+                    {
+                        "question": "How is choriocarcinoma diagnosed and monitored following treatment?",
+                        "goodAnswer": "Diagnosis of choriocarcinoma involves histological examination, and follow-up is conducted with bHCG monitoring and imaging techniques to assess treatment response and detect recurrence.",
+                        "wrongAnswer_1": "Diagnosis of choriocarcinoma relies solely on clinical presentation, and follow-up is based on physical examinations and symptom monitoring without serum markers or imaging.",
+                        "wrongAnswer_2": "Diagnosis of choriocarcinoma is primarily through genetic testing, and follow-up involves serial biopsies and cytogenetic analysis to track tumor evolution.",
+                        "wrongAnswer_3": "Diagnosis of choriocarcinoma is confirmed by immunohistochemistry only, and follow-up is performed using complete blood counts and liver function tests to monitor systemic effects.",
+                        "wrongAnswer_4": "Diagnosis of choriocarcinoma is established using urine analysis, and follow-up is conducted with electrocardiograms and echocardiograms to assess cardiac complications of chemotherapy."
+                    },
+                    {
+                        "question": "What are the key histological features of choriocarcinoma at a microscopic level?",
+                        "goodAnswer": "Histologically, choriocarcinoma is characterized by a biphasic trophoblast population, hemorrhage, and necrosis, reflecting its aggressive and destructive nature.",
+                        "wrongAnswer_1": "Histologically, choriocarcinoma is characterized by a monophasic trophoblast population, fibrosis, and calcification, indicating a slow-growing and benign process.",
+                        "wrongAnswer_2": "Histologically, choriocarcinoma is characterized by a triphasic trophoblast population, edema, and hyalinization, suggesting a mixed cellular and stromal composition.",
+                        "wrongAnswer_3": "Histologically, choriocarcinoma is characterized by a quadraphasic trophoblast population, inflammation, and granulation tissue, representing a reactive and reparative response.",
+                        "wrongAnswer_4": "Histologically, choriocarcinoma is characterized by an aphasic trophoblast population, atrophy, and apoptosis, indicating cellular degeneration and involution."
+                    }
+                ]
+            },
+            {
+                "title": "Choriocarcinoma in situ",
+                "quizzes": [
+                    {
+                        "question": "How does choriocarcinoma in situ typically present and where is it primarily located?",
+                        "goodAnswer": "Choriocarcinoma in situ can present as mass-like lesions in the placenta, indicating its localized nature at the placental site.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ presents as diffuse lesions throughout the myometrium, indicating its invasive nature into the uterine wall.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ presents as nodular lesions in the ovaries, indicating its origin from ovarian trophoblastic tissue.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ presents as polypoid lesions in the endometrium, indicating its growth within the uterine cavity.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ presents as cystic lesions in the fallopian tubes, indicating its development in extrauterine reproductive organs."
+                    },
+                    {
+                        "question": "What is the metastatic potential and clinical behavior of choriocarcinoma in situ?",
+                        "goodAnswer": "Choriocarcinoma in situ can cross the placenta to metastasize to the fetus and may be silent at placental presentation or widely metastatic, reflecting a variable clinical course.",
+                        "wrongAnswer_1": "Choriocarcinoma in situ is strictly confined to the placenta and never metastasizes to the fetus or distant sites, representing a benign and localized condition.",
+                        "wrongAnswer_2": "Choriocarcinoma in situ always metastasizes to the fetus and rapidly progresses to widespread systemic disease, representing a highly aggressive and uniformly fatal condition.",
+                        "wrongAnswer_3": "Choriocarcinoma in situ only metastasizes to local pelvic organs and remains clinically symptomatic at placental presentation, representing a moderately aggressive and detectable condition.",
+                        "wrongAnswer_4": "Choriocarcinoma in situ rarely metastasizes beyond the placental site and typically presents with overt symptoms at placental presentation, representing a minimally aggressive and easily identifiable condition."
+                    }
+                ]
+            },
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "What is the cellular origin and invasive nature of placental site trophoblastic tumor (PSTT)?",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) is a neoplasm of intermediate trophoblast, characterized by local invasion and rare metastases, distinguishing it from other trophoblastic neoplasms.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) is a carcinoma of cytotrophoblast, characterized by widespread metastasis and frequent local confinement, contrasting with other trophoblastic malignancies.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor (PSTT) is a sarcoma of syncytiotrophoblast, characterized by lymphatic invasion and common distant metastases, similar to other sarcomatous tumors.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor (PSTT) is a hamartoma of extravillous trophoblast, characterized by no invasion and no metastasis, classifying it as a benign trophoblastic lesion.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor (PSTT) is a melanoma of multinucleated trophoblast, characterized by dermal invasion and predictable regional metastases, resembling cutaneous melanomas."
+                    },
+                    {
+                        "question": "What are the typical clinical symptoms and diagnostic serum markers associated with placental site trophoblastic tumor (PSTT)?",
+                        "goodAnswer": "Placental site trophoblastic tumor (PSTT) typically presents with mild symptoms of persistent pregnancy and has no good serum markers for reliable diagnosis or monitoring.",
+                        "wrongAnswer_1": "Placental site trophoblastic tumor (PSTT) typically presents with severe symptoms of ectopic pregnancy and has elevated levels of alpha-fetoprotein (AFP) as a reliable serum marker.",
+                        "wrongAnswer_2": "Placental site trophoblastic tumor (PSTT) typically presents with acute symptoms of placental abruption and has markedly elevated levels of carcinoembryonic antigen (CEA) as a serum marker.",
+                        "wrongAnswer_3": "Placental site trophoblastic tumor (PSTT) typically presents with pronounced symptoms of hyperemesis gravidarum and has significantly reduced levels of human placental lactogen (hPL) as a serum marker.",
+                        "wrongAnswer_4": "Placental site trophoblastic tumor (PSTT) typically presents with overt symptoms of preeclampsia and has moderately increased levels of CA-125 as a serum marker for detection."
+                    },
+                    {
+                        "question": "What are the histological features and standard therapy for placental site trophoblastic tumor (PSTT)?",
+                        "goodAnswer": "Histologically, PSTT is composed of mono or binucleate trophoblast with a pushing border, and the therapy of choice is hysterectomy, reflecting its localized but invasive nature.",
+                        "wrongAnswer_1": "Histologically, PSTT is composed of multinucleated giant cells with an infiltrating border, and the therapy of choice is chemotherapy, reflecting its systemic and metastatic potential.",
+                        "wrongAnswer_2": "Histologically, PSTT is composed of syncytial aggregates with a circumscribed border, and the therapy of choice is radiation therapy, reflecting its radiosensitive cellular composition.",
+                        "wrongAnswer_3": "Histologically, PSTT is composed of stromal cells with a desmoplastic border, and the therapy of choice is hormonal therapy, reflecting its endocrine-responsive cellular characteristics.",
+                        "wrongAnswer_4": "Histologically, PSTT is composed of lymphocytic infiltrates with a necrotic border, and the therapy of choice is immunotherapy, reflecting its immunogenic tumor microenvironment."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

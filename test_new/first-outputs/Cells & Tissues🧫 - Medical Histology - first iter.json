@@ -1,0 +1,133 @@
+{
+    "mainTopic": {
+        "title": "Medical Histology",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Light Microscopy",
+                "quizzes": [
+                    {
+                        "question": "Determine the principal factor that dictates the practical resolution limit in conventional bright-field light microscopy, particularly when employing objectives with high numerical apertures and optimal immersion media.",
+                        "goodAnswer": "The wavelength of visible light used for illumination is the primary factor limiting resolution, typically around 200 nm, even with high NA objectives and immersion oil.",
+                        "wrongAnswer_1": "The numerical aperture of the objective lens is the primary factor limiting resolution, which can be improved by using longer wavelengths of light to achieve resolutions down to 100 nm.",
+                        "wrongAnswer_2": "The refractive index of the immersion medium is the primary factor limiting resolution, allowing for resolutions up to 50 nm when combined with shorter wavelengths of ultraviolet light.",
+                        "wrongAnswer_3": "The coherence of the light source is the primary factor limiting resolution, where incoherent light sources restrict resolution to 500 nm, regardless of objective NA or immersion media.",
+                        "wrongAnswer_4": "The magnification power of the objective lens is the primary factor limiting resolution, with higher magnification objectives enabling resolutions of 10 nm, irrespective of light wavelength."
+                    },
+                    {
+                        "question": "Identify the component in a standard light microscope that is primarily responsible for concentrating and directing the light from the source onto the specimen, thereby ensuring uniform illumination across the field of view.",
+                        "goodAnswer": "The condenser, situated beneath the stage, is responsible for focusing and directing the light from the illuminator onto the specimen, ensuring even illumination for optimal viewing.",
+                        "wrongAnswer_1": "The objective lens, located above the stage, is responsible for concentrating the light from the illuminator and projecting it onto the specimen to achieve high magnification.",
+                        "wrongAnswer_2": "The eyepiece, positioned at the top of the microscope, is responsible for focusing the light from the illuminator and directing it through the specimen for image formation.",
+                        "wrongAnswer_3": "The diaphragm, part of the objective lens system, is responsible for concentrating and directing the light source to the specimen, primarily controlling image contrast and brightness.",
+                        "wrongAnswer_4": "The illuminator itself, typically a halogen lamp, is responsible for focusing the light onto the specimen and ensuring uniform illumination across the viewing area, without external components."
+                    },
+                    {
+                        "question": "In the context of light microscopy, differentiate between the roles of magnification and resolution and select the statement that accurately describes their distinct contributions to image quality.",
+                        "goodAnswer": "Magnification increases the apparent size of the specimen, while resolution is the ability to distinguish between two closely spaced points, determining image clarity and detail.",
+                        "wrongAnswer_1": "Magnification is the ability to distinguish between two closely spaced points, enhancing image detail, while resolution increases the apparent size of the specimen for better visibility.",
+                        "wrongAnswer_2": "Magnification and resolution are interchangeable terms describing the increase in specimen size and clarity, both equally contributing to the overall quality of the microscopic image.",
+                        "wrongAnswer_3": "Magnification increases image brightness and contrast, improving visibility, while resolution focuses the light to create a sharper image, both enhancing image perception.",
+                        "wrongAnswer_4": "Magnification is primarily for adjusting image contrast, making structures more visible, whereas resolution is for adjusting image brightness, ensuring proper illumination of the specimen."
+                    }
+                ]
+            },
+            {
+                "title": "Electron Microscopy",
+                "quizzes": [
+                    {
+                        "question": "Explain the fundamental principle that enables electron microscopy to achieve significantly higher resolution compared to light microscopy and select the option that correctly describes this principle.",
+                        "goodAnswer": "Electron microscopy utilizes electrons with much shorter wavelengths than visible light, resulting in a substantially improved resolving power, allowing visualization of smaller structures.",
+                        "wrongAnswer_1": "Electron microscopy uses electrons with longer wavelengths than visible light, which allows for deeper penetration into specimens and thus higher magnification and resolution of thicker samples.",
+                        "wrongAnswer_2": "Electron microscopy employs electromagnetic lenses to magnify the specimen, which inherently provides a higher resolution than glass lenses used in light microscopy due to reduced aberrations.",
+                        "wrongAnswer_3": "Electron microscopy operates in a vacuum, which eliminates light scattering and refraction, leading to a clearer image and consequently a higher apparent resolution compared to light microscopy.",
+                        "wrongAnswer_4": "Electron microscopy uses a more intense illumination source than light microscopy, which enhances image contrast and sharpness, mistakenly perceived as a higher resolution capability."
+                    },
+                    {
+                        "question": "Contrast Transmission Electron Microscopy (TEM) and Scanning Electron Microscopy (SEM) based on their image formation mechanisms and identify the statement that accurately differentiates these techniques.",
+                        "goodAnswer": "TEM forms an image by transmitting electrons through a thin specimen to reveal internal structures, while SEM scans the specimen surface with electrons to produce a 3D surface image.",
+                        "wrongAnswer_1": "TEM scans the surface of a specimen with electrons to create a detailed 3D surface image, whereas SEM transmits electrons through a thin specimen to visualize internal components.",
+                        "wrongAnswer_2": "Both TEM and SEM form images by transmitting electrons through the specimen; however, TEM is used for surface imaging, and SEM is applied for internal structural details at higher magnifications.",
+                        "wrongAnswer_3": "TEM and SEM both scan the specimen surface with electrons; TEM provides compositional information, while SEM offers topographical details with enhanced resolution of internal structures.",
+                        "wrongAnswer_4": "TEM creates a 3D surface image by detecting secondary electrons, and SEM produces a 2D image by analyzing transmitted electrons through different specimen depths, both revealing surface details."
+                    },
+                    {
+                        "question": "Describe the crucial role of vacuum in electron microscopy and select the most accurate explanation for its necessity in achieving high-resolution imaging.",
+                        "goodAnswer": "Vacuum is essential in electron microscopy to prevent electron scattering by air molecules, which would degrade image quality and reduce resolution by disrupting the electron beam path.",
+                        "wrongAnswer_1": "Vacuum in electron microscopy primarily functions to cool down the specimen and the electron source, preventing overheating and maintaining the stability of the electron beam for high resolution.",
+                        "wrongAnswer_2": "Vacuum is used in electron microscopy to increase the energy of the electron beam, allowing for deeper penetration into the specimen and thus enhancing the resolution of internal structures.",
+                        "wrongAnswer_3": "Vacuum is necessary in electron microscopy to remove moisture from the specimen, which would otherwise cause charging artifacts and distort the image, thus limiting resolution.",
+                        "wrongAnswer_4": "Vacuum in electron microscopy is mainly for protecting the electron source and detectors from oxidation and contamination, ensuring their longevity and indirectly contributing to stable imaging."
+                    }
+                ]
+            },
+            {
+                "title": "Virtual Microscopy",
+                "quizzes": [
+                    {
+                        "question": "Define Virtual Microscopy and select the option that best describes its core principle and primary advantage over traditional microscopy methods in educational and research settings.",
+                        "goodAnswer": "Virtual microscopy involves digitizing glass slides into high-resolution images accessible via computers, enabling remote viewing, sharing, and analysis, enhancing collaboration and accessibility.",
+                        "wrongAnswer_1": "Virtual microscopy uses computer simulations to model microscopic structures, eliminating the need for physical slides and microscopes, primarily benefiting theoretical studies and reducing lab costs.",
+                        "wrongAnswer_2": "Virtual microscopy employs advanced optical techniques to project microscopic images directly onto computer screens for real-time digital analysis, increasing image resolution and reducing eye strain.",
+                        "wrongAnswer_3": "Virtual microscopy enhances traditional light microscopy by integrating digital cameras and software for image capture and processing, mainly improving image quality and documentation for publications.",
+                        "wrongAnswer_4": "Virtual microscopy is a specialized form of electron microscopy that uses digital detectors to capture and process images of nanomaterials, primarily used in materials science and nanotechnology research."
+                    },
+                    {
+                        "question": "Identify a key advantage of Virtual Microscopy in educational contexts, particularly in histology and pathology training, compared to traditional glass slide-based microscopy.",
+                        "goodAnswer": "Virtual microscopy allows for consistent image quality and eliminates variability associated with slide preparation and microscope settings, ensuring uniform learning experiences for all students.",
+                        "wrongAnswer_1": "Virtual microscopy provides higher magnification capabilities than traditional light microscopes, enabling students to visualize cellular details at a greater resolution, improving diagnostic accuracy.",
+                        "wrongAnswer_2": "Virtual microscopy significantly reduces the cost of laboratory equipment and maintenance, making advanced microscopy techniques accessible to institutions with limited budgets for practical training.",
+                        "wrongAnswer_3": "Virtual microscopy enables real-time manipulation of specimens under different staining conditions, allowing students to explore various histological stains without physically preparing multiple slides.",
+                        "wrongAnswer_4": "Virtual microscopy integrates artificial intelligence algorithms for automated diagnosis, training students to rely on computational tools rather than their own observational skills in pathology."
+                    },
+                    {
+                        "question": "Consider the limitations associated with Virtual Microscopy and choose the statement that accurately reflects a primary challenge or drawback of this digital microscopy approach.",
+                        "goodAnswer": "Virtual microscopy is dependent on technology infrastructure, requiring reliable internet access and computer systems, which can be a limitation in resource-constrained environments or during technical failures.",
+                        "wrongAnswer_1": "Virtual microscopy inherently suffers from lower image resolution compared to traditional light microscopy, leading to a loss of fine cellular details and reduced diagnostic precision in complex cases.",
+                        "wrongAnswer_2": "Virtual microscopy requires extensive manual annotation and image processing to create digital slides, making it a labor-intensive process that is not scalable for large volumes of histological specimens.",
+                        "wrongAnswer_3": "Virtual microscopy eliminates the tactile learning experience of physically handling microscope slides and adjusting microscope settings, which is crucial for developing practical microscopy skills.",
+                        "wrongAnswer_4": "Virtual microscopy systems are incompatible with advanced microscopy techniques such as fluorescence and confocal microscopy, limiting their application in cutting-edge biomedical research and diagnostics."
+                    }
+                ]
+            },
+            {
+                "title": "Basic Tissues",
+                "quizzes": [
+                    {
+                        "question": "Categorize the four fundamental types of tissues in the human body based on their primary functions and select the option that correctly matches each tissue type with its principal role.",
+                        "goodAnswer": "Epithelial tissue for covering and lining, connective tissue for support and binding, muscle tissue for movement, and nervous tissue for control and communication are the four basic types.",
+                        "wrongAnswer_1": "Epithelial tissue for movement, connective tissue for control and communication, muscle tissue for covering and lining, and nervous tissue for support and binding are the four basic tissue types.",
+                        "wrongAnswer_2": "Epithelial tissue for support and binding, connective tissue for covering and lining, muscle tissue for control and communication, and nervous tissue for movement are the four basic tissue types.",
+                        "wrongAnswer_3": "Epithelial tissue for secretion and absorption, connective tissue for contraction and relaxation, muscle tissue for sensation and response, and nervous tissue for protection and insulation are the four basic tissue types.",
+                        "wrongAnswer_4": "Epithelial tissue for filtration and excretion, connective tissue for conduction and integration, muscle tissue for storage and metabolism, and nervous tissue for transport and exchange are the four basic tissue types."
+                    },
+                    {
+                        "question": "Describe the defining characteristics of epithelial tissue and identify the statement that accurately represents a key feature distinguishing it from other tissue types.",
+                        "goodAnswer": "Epithelial tissue is characterized by tightly packed cells with minimal extracellular matrix, specialized junctions, and polarity, forming linings and coverings with protective and secretory functions.",
+                        "wrongAnswer_1": "Epithelial tissue is distinguished by abundant extracellular matrix, loosely arranged cells, and extensive vascularization, providing structural support and facilitating tissue repair throughout the body.",
+                        "wrongAnswer_2": "Epithelial tissue is characterized by elongated cells with contractile proteins, numerous intercellular spaces, and high electrical excitability, enabling movement and force generation in various organs.",
+                        "wrongAnswer_3": "Epithelial tissue is defined by isolated cells dispersed in a fluid matrix, extensive branching processes, and synaptic connections, facilitating rapid communication and information processing in the nervous system.",
+                        "wrongAnswer_4": "Epithelial tissue is composed of spindle-shaped cells with interwoven collagen fibers, moderate cellularity, and elastic properties, providing flexibility and resilience in organs like blood vessels and skin."
+                    },
+                    {
+                        "question": "Contrast the general functions of connective tissue and muscle tissue and select the option that correctly differentiates their primary roles in the body.",
+                        "goodAnswer": "Connective tissue primarily supports, binds, and protects body tissues and organs, while muscle tissue is specialized for contraction to produce movement and generate force within the body.",
+                        "wrongAnswer_1": "Connective tissue is mainly responsible for conducting electrical signals and processing information throughout the body, while muscle tissue forms protective barriers and linings of body cavities and organs.",
+                        "wrongAnswer_2": "Connective tissue primarily facilitates absorption and secretion of substances across tissue surfaces, while muscle tissue provides structural framework and support for various body parts and systems.",
+                        "wrongAnswer_3": "Connective tissue functions in contraction and relaxation to regulate organ volume and blood flow, while muscle tissue is specialized for intercellular communication and coordination of body functions.",
+                        "wrongAnswer_4": "Connective tissue primarily stores and metabolizes nutrients and energy reserves within the body, while muscle tissue is responsible for sensing stimuli and initiating responses to maintain homeostasis."
+                    },
+                    {
+                        "question": "Differentiate between the roles of neurons and glial cells within nervous tissue and choose the statement that accurately describes their distinct contributions to nervous system function.",
+                        "goodAnswer": "Neurons are responsible for transmitting electrical signals and information, while glial cells support, protect, and maintain the neurons, ensuring proper nervous system function and homeostasis.",
+                        "wrongAnswer_1": "Neurons provide structural support and insulation to nerve fibers, while glial cells are responsible for generating and conducting action potentials throughout the nervous system.",
+                        "wrongAnswer_2": "Neurons and glial cells both transmit electrical signals; however, neurons transmit signals rapidly over long distances, whereas glial cells transmit signals slowly over short distances for local communication.",
+                        "wrongAnswer_3": "Neurons are primarily involved in the immune response within the nervous system, protecting against pathogens, while glial cells are responsible for the blood-brain barrier and nutrient transport to neurons.",
+                        "wrongAnswer_4": "Neurons and glial cells are both contractile cells within nervous tissue; neurons contract to generate movements, while glial cells contract to regulate blood flow and nutrient delivery to neurons."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

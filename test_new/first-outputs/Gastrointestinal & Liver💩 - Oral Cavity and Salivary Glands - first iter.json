@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Oral Cavity and Salivary Glands",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Mucosa of the Oral Cavity",
+                "quizzes": [
+                    {
+                        "question": "Identify the specific type of oral mucosa that is characterized by a keratinized stratified squamous epithelium and is predominantly found in regions subjected to high frictional forces and abrasion during mastication, such as the hard palate and gingiva.",
+                        "goodAnswer": "Masticatory mucosa is defined by its keratinized stratified squamous epithelium and is located in areas like the hard palate and gingiva, designed to withstand substantial mechanical stress during chewing.",
+                        "wrongAnswer_1": "Lining mucosa is characterized by its keratinized stratified squamous epithelium and is located in areas like the hard palate and gingiva, designed for flexibility and distension, not primarily for mechanical stress.",
+                        "wrongAnswer_2": "Specialized mucosa, defined by its keratinized stratified squamous epithelium and is located in areas like the hard palate and gingiva, primarily associated with taste sensation and gustatory functions.",
+                        "wrongAnswer_3": "Masticatory mucosa is defined by its non-keratinized stratified squamous epithelium and is located in areas like the hard palate and gingiva, designed to facilitate absorption and secretion, not mechanical protection.",
+                        "wrongAnswer_4": "Lining mucosa is defined by its non-keratinized stratified squamous epithelium and is located in areas like the hard palate and gingiva, designed to withstand substantial mechanical stress during chewing."
+                    },
+                    {
+                        "question": "Which type of oral mucosa is distinguished by its non-keratinized stratified squamous epithelium and is prevalent in regions of the oral cavity requiring flexibility and distensibility, such as the soft palate, cheeks, and floor of the mouth?",
+                        "goodAnswer": "Lining mucosa is characterized by a non-keratinized stratified squamous epithelium and is found in the soft palate, cheeks, and floor of the mouth, providing elasticity and movement in these regions.",
+                        "wrongAnswer_1": "Masticatory mucosa is characterized by a non-keratinized stratified squamous epithelium and is found in the soft palate, cheeks, and floor of the mouth, designed for high resistance to abrasion and friction.",
+                        "wrongAnswer_2": "Specialized mucosa is characterized by a non-keratinized stratified squamous epithelium and is found in the soft palate, cheeks, and floor of the mouth, primarily involved in taste perception and salivary gland secretion.",
+                        "wrongAnswer_3": "Lining mucosa is characterized by a keratinized stratified squamous epithelium and is found in the soft palate, cheeks, and floor of the mouth, providing elasticity and movement in these regions.",
+                        "wrongAnswer_4": "Masticatory mucosa is characterized by a keratinized stratified squamous epithelium and is found in the soft palate, cheeks, and floor of the mouth, providing elasticity and movement in these regions."
+                    },
+                    {
+                        "question": "Identify the oral mucosa type that is characterized by the presence of taste buds within its epithelium and is specifically located on the dorsal surface of the tongue, contributing to the sense of taste.",
+                        "goodAnswer": "Specialized mucosa is defined by the presence of taste buds in its epithelium and is specifically located on the dorsal tongue surface, playing a crucial role in gustatory sensation.",
+                        "wrongAnswer_1": "Masticatory mucosa is defined by the presence of taste buds in its epithelium and is specifically located on the dorsal tongue surface, primarily involved in mechanical protection during mastication.",
+                        "wrongAnswer_2": "Lining mucosa is defined by the presence of taste buds in its epithelium and is specifically located on the dorsal tongue surface, providing flexibility and movement for tongue articulation.",
+                        "wrongAnswer_3": "Specialized mucosa is defined by the absence of taste buds in its epithelium and is specifically located on the dorsal tongue surface, playing a crucial role in gustatory sensation.",
+                        "wrongAnswer_4": "Masticatory mucosa is defined by the absence of taste buds in its epithelium and is specifically located on the dorsal tongue surface, playing a crucial role in gustatory sensation."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Teeth",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary mineral component of enamel, the hardest substance in the human body, and its arrangement within the enamel structure to provide strength and resistance to acid dissolution.",
+                        "goodAnswer": "Enamel is primarily composed of hydroxyapatite crystals, which are densely packed and arranged in enamel rods or prisms, oriented perpendicularly to the tooth surface, providing exceptional hardness and acid resistance.",
+                        "wrongAnswer_1": "Enamel is primarily composed of fluorapatite crystals, which are loosely packed and arranged in enamel rods or prisms, oriented parallel to the tooth surface, providing exceptional hardness and acid resistance.",
+                        "wrongAnswer_2": "Dentin is primarily composed of hydroxyapatite crystals, which are densely packed and arranged in enamel rods or prisms, oriented perpendicularly to the tooth surface, providing exceptional hardness and acid resistance.",
+                        "wrongAnswer_3": "Enamel is primarily composed of hydroxyapatite crystals, which are densely packed and arranged in dentinal tubules, oriented perpendicularly to the tooth surface, providing exceptional hardness and acid resistance.",
+                        "wrongAnswer_4": "Cementum is primarily composed of hydroxyapatite crystals, which are densely packed and arranged in enamel rods or prisms, oriented perpendicularly to the tooth surface, providing exceptional hardness and acid resistance."
+                    },
+                    {
+                        "question": "Identify the cellular component primarily responsible for the formation of dentin, the main bulk of the tooth, and describe their location and process of dentin matrix secretion and mineralization.",
+                        "goodAnswer": "Odontoblasts are responsible for dentin formation, located at the pulpal border of dentin, and they secrete predentin, which subsequently mineralizes to form mature dentin through appositional growth.",
+                        "wrongAnswer_1": "Ameloblasts are responsible for dentin formation, located at the pulpal border of dentin, and they secrete predentin, which subsequently mineralizes to form mature dentin through appositional growth.",
+                        "wrongAnswer_2": "Cementoblasts are responsible for dentin formation, located at the pulpal border of dentin, and they secrete predentin, which subsequently mineralizes to form mature dentin through appositional growth.",
+                        "wrongAnswer_3": "Odontoblasts are responsible for enamel formation, located at the pulpal border of dentin, and they secrete predentin, which subsequently mineralizes to form mature dentin through appositional growth.",
+                        "wrongAnswer_4": "Odontoblasts are responsible for dentin formation, located at the enamel border of dentin, and they secrete predentin, which subsequently mineralizes to form mature dentin through appositional growth."
+                    },
+                    {
+                        "question": "Describe the structure and composition of cementum, the outermost layer covering the root of the tooth, and its crucial role in periodontal ligament attachment and tooth anchorage within the alveolar bone.",
+                        "goodAnswer": "Cementum is a mineralized tissue covering the tooth root, composed of hydroxyapatite and collagen, and it serves as the attachment site for periodontal ligament fibers, essential for tooth anchorage in the alveolar bone.",
+                        "wrongAnswer_1": "Enamel is a mineralized tissue covering the tooth root, composed of hydroxyapatite and collagen, and it serves as the attachment site for periodontal ligament fibers, essential for tooth anchorage in the alveolar bone.",
+                        "wrongAnswer_2": "Dentin is a mineralized tissue covering the tooth root, composed of hydroxyapatite and collagen, and it serves as the attachment site for periodontal ligament fibers, essential for tooth anchorage in the alveolar bone.",
+                        "wrongAnswer_3": "Cementum is a non-mineralized tissue covering the tooth root, composed of hydroxyapatite and collagen, and it serves as the attachment site for periodontal ligament fibers, essential for tooth anchorage in the alveolar bone.",
+                        "wrongAnswer_4": "Cementum is a mineralized tissue covering the tooth crown, composed of hydroxyapatite and collagen, and it serves as the attachment site for periodontal ligament fibers, essential for tooth anchorage in the alveolar bone."
+                    }
+                ]
+            },
+            {
+                "title": "Histology of Salivary Glands",
+                "quizzes": [
+                    {
+                        "question": "Distinguish between serous and mucous acini in salivary glands based on their cellular morphology, secretory product characteristics, and staining properties under histological examination.",
+                        "goodAnswer": "Serous acini contain pyramidal cells with round nuclei and apical zymogen granules, producing a watery, enzyme-rich secretion, and stain darkly with eosin, while mucous acini have columnar cells with flattened basal nuclei and mucin, producing viscous secretion, staining pale with eosin.",
+                        "wrongAnswer_1": "Mucous acini contain pyramidal cells with round nuclei and apical zymogen granules, producing a watery, enzyme-rich secretion, and stain darkly with eosin, while serous acini have columnar cells with flattened basal nuclei and mucin, producing viscous secretion, staining pale with eosin.",
+                        "wrongAnswer_2": "Serous acini contain columnar cells with flattened basal nuclei and mucin, producing a watery, enzyme-rich secretion, and stain darkly with eosin, while mucous acini have pyramidal cells with round nuclei and apical zymogen granules, producing viscous secretion, staining pale with eosin.",
+                        "wrongAnswer_3": "Both serous and mucous acini contain pyramidal cells with round nuclei and apical zymogen granules, but serous acini produce a viscous secretion and mucous acini produce a watery secretion, with staining properties being similar.",
+                        "wrongAnswer_4": "Both serous and mucous acini contain columnar cells with flattened basal nuclei and mucin, but serous acini produce a viscous secretion and mucous acini produce a watery secretion, with staining properties being similar."
+                    },
+                    {
+                        "question": "Describe the structure and function of intercalated ducts in salivary glands, including their epithelial lining, their role in saliva modification, and their connection to striated ducts within the gland.",
+                        "goodAnswer": "Intercalated ducts are lined by simple cuboidal epithelium, located proximally to acini, and contribute to saliva by secreting bicarbonate and absorbing chloride, connecting acini to striated ducts.",
+                        "wrongAnswer_1": "Striated ducts are lined by simple cuboidal epithelium, located proximally to acini, and contribute to saliva by secreting bicarbonate and absorbing chloride, connecting acini to intercalated ducts.",
+                        "wrongAnswer_2": "Intercalated ducts are lined by pseudostratified columnar epithelium, located distally to acini, and contribute to saliva by secreting bicarbonate and absorbing chloride, connecting acini to striated ducts.",
+                        "wrongAnswer_3": "Intercalated ducts are lined by simple squamous epithelium, located proximally to acini, and contribute to saliva by secreting potassium and absorbing sodium, connecting acini to striated ducts.",
+                        "wrongAnswer_4": "Striated ducts are lined by simple cuboidal epithelium, located proximally to acini, and contribute to saliva by secreting potassium and absorbing sodium, connecting acini to intercalated ducts."
+                    },
+                    {
+                        "question": "Explain the function of striated ducts in salivary glands, focusing on their epithelial cell characteristics, their role in electrolyte modification of saliva, and the mechanisms involved in this process.",
+                        "goodAnswer": "Striated ducts are lined by simple columnar epithelium with basal striations due to mitochondria, actively modifying saliva by reabsorbing sodium and chloride and secreting potassium and bicarbonate, resulting in hypotonic saliva.",
+                        "wrongAnswer_1": "Intercalated ducts are lined by simple columnar epithelium with basal striations due to mitochondria, actively modifying saliva by reabsorbing sodium and chloride and secreting potassium and bicarbonate, resulting in hypotonic saliva.",
+                        "wrongAnswer_2": "Striated ducts are lined by simple squamous epithelium with basal striations due to mitochondria, passively modifying saliva by reabsorbing sodium and chloride and secreting potassium and bicarbonate, resulting in hypertonic saliva.",
+                        "wrongAnswer_3": "Striated ducts are lined by stratified columnar epithelium without basal striations, actively modifying saliva by reabsorbing potassium and bicarbonate and secreting sodium and chloride, resulting in isotonic saliva.",
+                        "wrongAnswer_4": "Striated ducts are lined by simple columnar epithelium with apical striations due to mitochondria, actively modifying saliva by reabsorbing sodium and chloride and secreting potassium and bicarbonate, resulting in hypertonic saliva."
+                    }
+                ]
+            },
+            {
+                "title": "Mechanism and Regulation of Saliva Secretion",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary neural control mechanism for saliva secretion, detailing the neurotransmitters involved, the receptor types on salivary gland cells, and the resultant intracellular signaling pathways that stimulate saliva production.",
+                        "goodAnswer": "Saliva secretion is primarily regulated by parasympathetic nervous system via acetylcholine (ACh) acting on muscarinic receptors (M3) on acinar and ductal cells, activating phospholipase C pathway, increasing intracellular calcium and stimulating secretion.",
+                        "wrongAnswer_1": "Saliva secretion is primarily regulated by sympathetic nervous system via acetylcholine (ACh) acting on muscarinic receptors (M3) on acinar and ductal cells, activating phospholipase C pathway, increasing intracellular calcium and stimulating secretion.",
+                        "wrongAnswer_2": "Saliva secretion is primarily regulated by parasympathetic nervous system via norepinephrine (NE) acting on adrenergic receptors (\u03b2-adrenergic) on acinar and ductal cells, activating phospholipase C pathway, increasing intracellular calcium and stimulating secretion.",
+                        "wrongAnswer_3": "Saliva secretion is primarily regulated by parasympathetic nervous system via acetylcholine (ACh) acting on nicotinic receptors on acinar and ductal cells, activating phospholipase C pathway, increasing intracellular calcium and stimulating secretion.",
+                        "wrongAnswer_4": "Saliva secretion is primarily regulated by somatic nervous system via acetylcholine (ACh) acting on muscarinic receptors (M3) on acinar and ductal cells, activating phospholipase C pathway, increasing intracellular calcium and stimulating secretion."
+                    },
+                    {
+                        "question": "Explain the role of the sympathetic nervous system in modulating saliva secretion, including the neurotransmitter released, the adrenergic receptor subtypes involved, and the typical effect on saliva volume and composition compared to parasympathetic stimulation.",
+                        "goodAnswer": "Sympathetic stimulation uses norepinephrine (NE) acting on \u03b2-adrenergic receptors, leading to a smaller volume of viscous, protein-rich saliva, and via \u03b1-adrenergic receptors causing vasoconstriction and reduced salivary flow.",
+                        "wrongAnswer_1": "Parasympathetic stimulation uses norepinephrine (NE) acting on \u03b2-adrenergic receptors, leading to a smaller volume of viscous, protein-rich saliva, and via \u03b1-adrenergic receptors causing vasodilation and increased salivary flow.",
+                        "wrongAnswer_2": "Sympathetic stimulation uses acetylcholine (ACh) acting on \u03b2-adrenergic receptors, leading to a smaller volume of viscous, protein-rich saliva, and via \u03b1-adrenergic receptors causing vasoconstriction and reduced salivary flow.",
+                        "wrongAnswer_3": "Sympathetic stimulation uses norepinephrine (NE) acting on muscarinic receptors, leading to a larger volume of watery, enzyme-rich saliva, and via \u03b1-adrenergic receptors causing vasodilation and increased salivary flow.",
+                        "wrongAnswer_4": "Sympathetic stimulation uses norepinephrine (NE) acting on \u03b2-adrenergic receptors, leading to a larger volume of watery, enzyme-rich saliva, and via \u03b1-adrenergic receptors causing vasoconstriction and reduced salivary flow."
+                    },
+                    {
+                        "question": "Describe the two-stage model of saliva secretion, outlining the processes occurring in acinar cells during primary saliva formation and the modifications performed by ductal cells to produce the final saliva composition.",
+                        "goodAnswer": "Two-stage model: Acinar cells produce isotonic primary saliva resembling plasma via active transport of ions and water, while ductal cells modify it by reabsorbing NaCl and secreting K+ and HCO3-, making it hypotonic.",
+                        "wrongAnswer_1": "Two-stage model: Ductal cells produce isotonic primary saliva resembling plasma via passive diffusion of ions and water, while acinar cells modify it by reabsorbing NaCl and secreting K+ and HCO3-, making it hypertonic.",
+                        "wrongAnswer_2": "Two-stage model: Acinar cells produce hypertonic primary saliva resembling plasma via active transport of ions and water, while ductal cells modify it by reabsorbing NaCl and secreting K+ and HCO3-, making it isotonic.",
+                        "wrongAnswer_3": "Two-stage model: Acinar cells produce hypotonic primary saliva resembling plasma via active transport of ions and water, while ductal cells modify it by secreting NaCl and reabsorbing K+ and HCO3-, making it isotonic.",
+                        "wrongAnswer_4": "Two-stage model: Acinar cells produce isotonic primary saliva resembling plasma via passive diffusion of ions and water, while ductal cells modify it by secreting NaCl and reabsorbing K+ and HCO3-, making it hypotonic."
+                    }
+                ]
+            },
+            {
+                "title": "Components of Saliva",
+                "quizzes": [
+                    {
+                        "question": "Identify the major inorganic components of saliva and describe their physiological roles in maintaining oral health, including buffering capacity, remineralization of enamel, and antimicrobial actions.",
+                        "goodAnswer": "Inorganic components: Bicarbonate and phosphate ions provide buffering capacity, calcium and phosphate ions promote enamel remineralization, and thiocyanate ions exhibit antimicrobial properties in saliva.",
+                        "wrongAnswer_1": "Inorganic components: Sodium and potassium ions provide buffering capacity, calcium and phosphate ions promote enamel demineralization, and thiocyanate ions exhibit pro-inflammatory properties in saliva.",
+                        "wrongAnswer_2": "Organic components: Bicarbonate and phosphate ions provide buffering capacity, calcium and phosphate ions promote enamel remineralization, and lysozyme enzymes exhibit antimicrobial properties in saliva.",
+                        "wrongAnswer_3": "Inorganic components: Chloride and fluoride ions provide buffering capacity, calcium and phosphate ions promote enamel remineralization, and lactoferrin proteins exhibit antimicrobial properties in saliva.",
+                        "wrongAnswer_4": "Organic components: Sodium and potassium ions provide buffering capacity, calcium and phosphate ions promote enamel demineralization, and peroxidase enzymes exhibit pro-inflammatory properties in saliva."
+                    },
+                    {
+                        "question": "Describe the key organic components of saliva, such as \u03b1-amylase, mucins, lysozyme, and secretory IgA (sIgA), and explain their respective functions in digestion, lubrication, antimicrobial defense, and immune protection within the oral cavity.",
+                        "goodAnswer": "Organic components: \u03b1-amylase initiates starch digestion, mucins lubricate and protect oral mucosa, lysozyme and sIgA provide antimicrobial and immunological defense in the oral cavity.",
+                        "wrongAnswer_1": "Inorganic components: \u03b1-amylase initiates protein digestion, mucins lubricate and protect oral mucosa, lysozyme and sIgA provide antimicrobial and immunological defense in the oral cavity.",
+                        "wrongAnswer_2": "Organic components: Lipase initiates lipid digestion, mucins lubricate and protect dental enamel, lysozyme and sIgA provide antiviral and immunological defense in the oral cavity.",
+                        "wrongAnswer_3": "Organic components: \u03b1-amylase initiates starch digestion, collagen lubricates and protects oral mucosa, lysozyme and IgG provide antibacterial and inflammatory response in the oral cavity.",
+                        "wrongAnswer_4": "Inorganic components: \u03b1-amylase initiates starch digestion, mucins lubricate and protect oral mucosa, peroxidase and sIgA provide antioxidant and immunological defense in the oral cavity."
+                    },
+                    {
+                        "question": "Explain the role of proline-rich proteins (PRPs) in saliva, focusing on their interaction with tannins, their contribution to calcium binding and enamel protection, and their potential involvement in antimicrobial activities within the oral environment.",
+                        "goodAnswer": "Proline-rich proteins (PRPs) in saliva bind tannins, reducing their toxicity and astringency, bind calcium aiding enamel protection and remineralization, and some exhibit antimicrobial functions.",
+                        "wrongAnswer_1": "Histidine-rich proteins (HRPs) in saliva bind tannins, increasing their toxicity and astringency, bind calcium aiding enamel demineralization, and some exhibit pro-inflammatory functions.",
+                        "wrongAnswer_2": "Proline-rich proteins (PRPs) in saliva bind lipids, enhancing their absorption, bind phosphate aiding enamel protection and remineralization, and some exhibit antiviral functions.",
+                        "wrongAnswer_3": "Cysteine-rich proteins (CRPs) in saliva bind tannins, reducing their toxicity and astringency, bind potassium aiding enamel protection and remineralization, and some exhibit antifungal functions.",
+                        "wrongAnswer_4": "Proline-rich proteins (PRPs) in saliva bind sugars, enhancing their taste, bind calcium aiding dentin protection and remineralization, and some exhibit antioxidant functions."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

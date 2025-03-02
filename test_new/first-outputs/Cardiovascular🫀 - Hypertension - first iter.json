@@ -1,0 +1,183 @@
+{
+    "mainTopic": {
+        "title": "Hypertension",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Blood pressure classificatinon",
+                "quizzes": [
+                    {
+                        "question": "Which blood pressure classification is characterized by a systolic blood pressure range of 120-129 mm Hg and a diastolic blood pressure of less than 80 mm Hg, indicating a stage that necessitates lifestyle modifications to prevent progression to hypertension?",
+                        "goodAnswer": "Elevated blood pressure is defined by a systolic pressure between 120-129 mm Hg and a diastolic pressure less than 80 mm Hg, requiring lifestyle changes to mitigate future cardiovascular risk and hypertension development.",
+                        "wrongAnswer_1": "Prehypertension is defined by a systolic pressure between 120-139 mm Hg and a diastolic pressure less than 90 mm Hg, indicating a stage that necessitates immediate pharmacological intervention and lifestyle modifications.",
+                        "wrongAnswer_2": "Stage 1 hypertension is defined by a systolic pressure between 130-139 mm Hg and a diastolic pressure between 80-89 mm Hg, requiring lifestyle changes and consideration of pharmacological treatment based on individual cardiovascular risk.",
+                        "wrongAnswer_3": "Normal blood pressure is defined by a systolic pressure less than 120 mm Hg and a diastolic pressure less than 80 mm Hg, requiring annual monitoring and maintenance of a healthy lifestyle.",
+                        "wrongAnswer_4": "Stage 2 hypertension is defined by a systolic pressure of 140 mm Hg or higher or a diastolic pressure of 90 mm Hg or higher, necessitating immediate combination pharmacological therapy and intensive lifestyle modifications."
+                    },
+                    {
+                        "question": "In the context of blood pressure categories, what range of systolic and diastolic blood pressure readings precisely defines Stage 2 hypertension, a stage typically requiring a multi-faceted approach including pharmacological intervention?",
+                        "goodAnswer": "Stage 2 hypertension is precisely defined as a systolic blood pressure of \u2265140 mm Hg or a diastolic blood pressure of \u226590 mm Hg, often requiring combination pharmacological therapy and comprehensive lifestyle adjustments.",
+                        "wrongAnswer_1": "Stage 2 hypertension is precisely defined as a systolic blood pressure of \u2265160 mm Hg or a diastolic blood pressure of \u2265100 mm Hg, mandating immediate hospitalization and intensive pharmacological management.",
+                        "wrongAnswer_2": "Stage 1 hypertension is precisely defined as a systolic blood pressure of 130-139 mm Hg or a diastolic blood pressure of 80-89 mm Hg, typically managed with single-drug therapy and lifestyle modifications.",
+                        "wrongAnswer_3": "Stage 2 hypertension is precisely defined as a systolic blood pressure of \u2265140 mm Hg or a diastolic blood pressure of \u226580 mm Hg, requiring lifestyle changes and potential single-drug pharmacological treatment in high-risk individuals.",
+                        "wrongAnswer_4": "Elevated blood pressure is precisely defined as a systolic blood pressure of 120-129 mm Hg or a diastolic blood pressure of <80 mm Hg, necessitating careful monitoring and lifestyle modifications to prevent progression."
+                    },
+                    {
+                        "question": "Which of the following blood pressure classifications represents the optimal range associated with the lowest risk of cardiovascular disease, requiring only the maintenance of healthy lifestyle practices for sustained well-being?",
+                        "goodAnswer": "Normal blood pressure, defined as systolic BP <120 mm Hg and diastolic BP <80 mm Hg, is associated with the lowest cardiovascular risk and requires maintaining a healthy lifestyle for continued cardiovascular health.",
+                        "wrongAnswer_1": "Elevated blood pressure, defined as systolic BP 120-129 mm Hg and diastolic BP <80 mm Hg, is associated with minimal cardiovascular risk and requires only routine blood pressure monitoring annually.",
+                        "wrongAnswer_2": "Stage 1 hypertension, defined as systolic BP 130-139 mm Hg and diastolic BP 80-89 mm Hg, represents the optimal range and requires pharmacological intervention to minimize cardiovascular risk.",
+                        "wrongAnswer_3": "Prehypertension, defined as systolic BP 120-139 mm Hg and diastolic BP <90 mm Hg, is considered the optimal range and requires no specific lifestyle modifications or monitoring for most individuals.",
+                        "wrongAnswer_4": "Stage 2 hypertension, defined as systolic BP \u2265140 mm Hg and diastolic BP \u226590 mm Hg, is associated with a moderately low cardiovascular risk and requires only lifestyle modifications for management."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure regulation",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary short-term regulatory mechanism that responds to a sudden decrease in blood pressure by increasing sympathetic nervous system activity, leading to vasoconstriction and increased heart rate to restore blood pressure homeostasis.",
+                        "goodAnswer": "The baroreceptor reflex is the primary short-term mechanism that responds to decreased blood pressure by activating the sympathetic nervous system, causing vasoconstriction and increased cardiac output to elevate blood pressure.",
+                        "wrongAnswer_1": "The chemoreceptor reflex is the primary short-term mechanism responding to decreased blood pressure by activating the parasympathetic nervous system, leading to vasodilation and decreased heart rate to restore blood pressure.",
+                        "wrongAnswer_2": "The renin-angiotensin-aldosterone system (RAAS) is the primary short-term mechanism that responds to decreased blood pressure by releasing renin, ultimately causing vasodilation and sodium excretion to increase blood pressure.",
+                        "wrongAnswer_3": "Atrial natriuretic peptide (ANP) release is the primary short-term mechanism that responds to decreased blood pressure by promoting sodium and water retention, resulting in increased blood volume and blood pressure.",
+                        "wrongAnswer_4": "The baroreceptor reflex is the primary long-term mechanism that responds to decreased blood pressure by stimulating the release of ADH, causing water retention and increased blood volume to elevate blood pressure over days."
+                    },
+                    {
+                        "question": "Which long-term blood pressure regulatory system is initiated by decreased renal perfusion, leading to the activation of angiotensin II, resulting in vasoconstriction, aldosterone release, and sodium and water retention to elevate blood pressure?",
+                        "goodAnswer": "The renin-angiotensin-aldosterone system (RAAS) is activated by reduced renal blood flow, leading to angiotensin II production, which causes vasoconstriction, aldosterone secretion, and sodium and water reabsorption, increasing blood pressure long-term.",
+                        "wrongAnswer_1": "The atrial natriuretic peptide (ANP) system is activated by reduced renal blood flow, leading to ANP release, which causes vasodilation, aldosterone suppression, and sodium and water excretion, decreasing blood pressure long-term.",
+                        "wrongAnswer_2": "The baroreceptor reflex is activated by reduced renal blood flow, leading to sympathetic nervous system inhibition, causing vasodilation and decreased cardiac output, reducing blood pressure long-term.",
+                        "wrongAnswer_3": "The chemoreceptor reflex is activated by reduced renal blood flow, leading to parasympathetic nervous system activation, causing vasodilation and decreased heart rate, reducing blood pressure long-term.",
+                        "wrongAnswer_4": "The ADH (antidiuretic hormone) system is activated by reduced renal blood flow, leading to ADH suppression, which causes water excretion and decreased blood volume, reducing blood pressure long-term."
+                    },
+                    {
+                        "question": "How does the atrial natriuretic peptide (ANP) contribute to blood pressure regulation, specifically in response to increased atrial stretch caused by hypervolemia, to counteract blood pressure elevation?",
+                        "goodAnswer": "ANP, released in response to atrial stretch from increased blood volume, promotes vasodilation, inhibits sodium reabsorption in the kidneys, and reduces aldosterone secretion, leading to decreased blood volume and lower blood pressure.",
+                        "wrongAnswer_1": "ANP, released in response to atrial stretch from increased blood volume, promotes vasoconstriction, enhances sodium reabsorption in the kidneys, and stimulates aldosterone secretion, leading to increased blood volume and higher blood pressure.",
+                        "wrongAnswer_2": "ANP, released in response to decreased atrial stretch from hypovolemia, promotes vasodilation, inhibits sodium reabsorption in the kidneys, and reduces aldosterone secretion, leading to decreased blood volume and lower blood pressure.",
+                        "wrongAnswer_3": "ANP, released in response to atrial stretch from increased blood volume, stimulates renin release, promotes angiotensin II production, and increases aldosterone secretion, leading to vasoconstriction and higher blood pressure.",
+                        "wrongAnswer_4": "ANP, released in response to decreased atrial stretch from hypovolemia, promotes vasoconstriction, enhances sodium reabsorption in the kidneys, and stimulates aldosterone secretion, leading to increased blood volume and higher blood pressure."
+                    }
+                ]
+            },
+            {
+                "title": "Sequelae of Essential hypertension",
+                "quizzes": [
+                    {
+                        "question": "Which cardiovascular complication is a frequent sequela of chronic essential hypertension, characterized by the thickening and stiffening of the heart muscle, ultimately leading to impaired diastolic function and heart failure?",
+                        "goodAnswer": "Left ventricular hypertrophy (LVH) is a common sequela of chronic hypertension, involving the thickening and stiffening of the left ventricular myocardium, which can lead to diastolic dysfunction and increased risk of heart failure.",
+                        "wrongAnswer_1": "Right ventricular hypertrophy (RVH) is a common sequela of chronic hypertension, involving the thickening and stiffening of the right ventricular myocardium, which primarily leads to pulmonary hypertension and right-sided heart failure.",
+                        "wrongAnswer_2": "Atrial fibrillation (AF) is a primary sequela of chronic hypertension, characterized by rapid and irregular atrial contractions, directly caused by the elevated blood pressure damaging the atrial myocardium and conduction pathways.",
+                        "wrongAnswer_3": "Mitral valve prolapse (MVP) is a frequent sequela of chronic hypertension, involving the bulging of the mitral valve leaflets into the left atrium during systole, directly caused by increased pressure on the mitral valve apparatus.",
+                        "wrongAnswer_4": "Aortic valve stenosis (AS) is a common sequela of chronic hypertension, characterized by the narrowing of the aortic valve orifice, primarily caused by the increased pressure gradient across the aortic valve over time."
+                    },
+                    {
+                        "question": "Identify the cerebrovascular consequence of prolonged essential hypertension that arises from chronic damage to cerebral blood vessels, potentially leading to cognitive decline, vascular dementia, and increased risk of stroke.",
+                        "goodAnswer": "Chronic hypertension can lead to cerebrovascular disease, including small vessel disease and atherosclerosis, which can result in cognitive impairment, vascular dementia, and an elevated risk of ischemic or hemorrhagic stroke.",
+                        "wrongAnswer_1": "Alzheimer's disease is a direct cerebrovascular consequence of prolonged hypertension, caused by the accelerated accumulation of amyloid plaques and neurofibrillary tangles due to elevated blood pressure.",
+                        "wrongAnswer_2": "Parkinson's disease is a cerebrovascular consequence of prolonged hypertension, resulting from the damage to dopaminergic neurons in the substantia nigra due to chronic exposure to high blood pressure.",
+                        "wrongAnswer_3": "Multiple sclerosis (MS) is a cerebrovascular consequence of prolonged hypertension, characterized by demyelination of nerve fibers in the central nervous system, accelerated by chronic hypertensive vascular damage.",
+                        "wrongAnswer_4": "Amyotrophic lateral sclerosis (ALS) is a cerebrovascular consequence of prolonged hypertension, resulting from the degeneration of motor neurons in the brain and spinal cord, directly caused by chronic hypertension."
+                    },
+                    {
+                        "question": "What renal complication is a significant long-term sequela of uncontrolled essential hypertension, characterized by progressive damage to the glomeruli and renal vasculature, ultimately leading to end-stage renal disease?",
+                        "goodAnswer": "Hypertensive nephropathy is a major renal sequela of chronic uncontrolled hypertension, involving progressive damage to glomeruli and renal arterioles, which can lead to chronic kidney disease and eventually end-stage renal failure.",
+                        "wrongAnswer_1": "Acute glomerulonephritis is a typical renal sequela of chronic uncontrolled hypertension, characterized by sudden inflammation of the glomeruli, directly induced by the elevated blood pressure damaging the glomerular filtration barrier acutely.",
+                        "wrongAnswer_2": "Polycystic kidney disease (PKD) is a common renal sequela of chronic uncontrolled hypertension, characterized by the development of multiple cysts in the kidneys, directly caused by the elevated blood pressure disrupting renal tubular structure.",
+                        "wrongAnswer_3": "Nephrotic syndrome is a frequent renal sequela of chronic uncontrolled hypertension, characterized by massive proteinuria and edema, directly induced by the elevated blood pressure damaging the glomerular filtration membrane and causing protein leakage.",
+                        "wrongAnswer_4": "Renal cell carcinoma is a significant renal sequela of chronic uncontrolled hypertension, characterized by the development of malignant tumors in the kidney, directly linked to the chronic stress imposed by elevated blood pressure on renal tissues."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure measurement",
+                "quizzes": [
+                    {
+                        "question": "When using the auscultatory method for blood pressure measurement, which Korotkoff sound phase signifies the systolic blood pressure reading, representing the point at which the first clear tapping sounds are initially heard?",
+                        "goodAnswer": "Phase I Korotkoff sounds, characterized by the first appearance of clear tapping sounds, represent the systolic blood pressure, indicating the pressure at which blood begins to flow turbulently through the constricted artery.",
+                        "wrongAnswer_1": "Phase II Korotkoff sounds, characterized by swishing or whooshing sounds, represent the systolic blood pressure, indicating the point of maximal arterial distention during ventricular contraction.",
+                        "wrongAnswer_2": "Phase III Korotkoff sounds, characterized by crisper and more intense tapping sounds, represent the systolic blood pressure, indicating the pressure at which diastolic pressure is reached and blood flow becomes laminar.",
+                        "wrongAnswer_3": "Phase IV Korotkoff sounds, characterized by muffling or softening of the tapping sounds, represent the systolic blood pressure, indicating the pressure at which the artery is fully open and blood flow is unrestricted.",
+                        "wrongAnswer_4": "Phase V Korotkoff sounds, characterized by the disappearance of all sounds, represent the systolic blood pressure, indicating the pressure at which diastolic pressure is reached and blood flow becomes silent."
+                    },
+                    {
+                        "question": "What is the recommended cuff bladder width for accurate blood pressure measurement in adults, ensuring proper compression of the brachial artery and preventing falsely elevated readings, especially in individuals with larger arm circumference?",
+                        "goodAnswer": "The recommended cuff bladder width for accurate adult blood pressure measurement is approximately 40% of the arm circumference, ensuring proper arterial compression and minimizing the risk of falsely elevated or low readings.",
+                        "wrongAnswer_1": "The recommended cuff bladder width for accurate adult blood pressure measurement is approximately 20% of the arm circumference, ensuring minimal arterial compression and maximizing the accuracy of systolic readings.",
+                        "wrongAnswer_2": "The recommended cuff bladder width for accurate adult blood pressure measurement is approximately 60% of the arm circumference, ensuring excessive arterial compression and minimizing the risk of falsely low diastolic readings.",
+                        "wrongAnswer_3": "The recommended cuff bladder width for accurate adult blood pressure measurement is approximately 80% of the arm circumference, ensuring complete arterial occlusion and maximizing the accuracy of both systolic and diastolic readings.",
+                        "wrongAnswer_4": "The recommended cuff bladder width for accurate adult blood pressure measurement is approximately 10% of the arm circumference, ensuring no arterial compression and maximizing the accuracy of diastolic readings."
+                    },
+                    {
+                        "question": "Which phenomenon describes a falsely elevated blood pressure reading obtained in a clinical setting due to patient anxiety or stress related to the medical environment, necessitating consideration of out-of-office measurements for accurate diagnosis?",
+                        "goodAnswer": "White coat hypertension refers to falsely elevated blood pressure readings in a clinical setting due to patient anxiety, requiring consideration of ambulatory or home blood pressure monitoring for accurate diagnosis and management.",
+                        "wrongAnswer_1": "Masked hypertension refers to falsely elevated blood pressure readings at home but normal readings in a clinical setting due to patient relaxation in the medical environment, requiring only office blood pressure measurements for diagnosis.",
+                        "wrongAnswer_2": "Resistant hypertension refers to persistently elevated blood pressure readings despite treatment with multiple antihypertensive medications in a clinical setting, unrelated to patient anxiety or environmental factors.",
+                        "wrongAnswer_3": "Secondary hypertension refers to falsely elevated blood pressure readings due to underlying identifiable causes such as renal artery stenosis, unrelated to patient anxiety or the clinical environment.",
+                        "wrongAnswer_4": "Orthostatic hypotension refers to falsely elevated blood pressure readings when transitioning from supine to standing position in a clinical setting, due to gravitational effects and autonomic nervous system dysfunction."
+                    }
+                ]
+            },
+            {
+                "title": "Evaluation and causes of hypertension",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between primary and secondary hypertension, focusing on the underlying etiology, where primary hypertension is characterized by multifactorial causes without an identifiable underlying medical condition, unlike secondary hypertension.",
+                        "goodAnswer": "Primary hypertension (essential) is hypertension with no identifiable underlying cause, attributed to complex interactions of genetic and environmental factors, whereas secondary hypertension is caused by a specific underlying medical condition or medication.",
+                        "wrongAnswer_1": "Primary hypertension (essential) is hypertension caused by a specific identifiable medical condition, such as renal artery stenosis, whereas secondary hypertension is attributed to complex genetic and environmental interactions with no clear cause.",
+                        "wrongAnswer_2": "Primary hypertension (essential) is characterized by sudden onset and severe elevation in blood pressure, typically requiring immediate hospitalization, whereas secondary hypertension develops gradually and is usually milder.",
+                        "wrongAnswer_3": "Primary hypertension (essential) is more prevalent in younger individuals and often associated with genetic predispositions, whereas secondary hypertension is more common in older adults and linked to lifestyle factors.",
+                        "wrongAnswer_4": "Primary hypertension (essential) is easily treatable with lifestyle modifications alone, whereas secondary hypertension requires complex pharmacological interventions and often surgical correction of the underlying cause."
+                    },
+                    {
+                        "question": "Which endocrine disorder is a recognized secondary cause of hypertension, characterized by excessive secretion of aldosterone from the adrenal glands, leading to sodium retention, potassium excretion, and subsequent blood pressure elevation?",
+                        "goodAnswer": "Primary aldosteronism, characterized by excessive aldosterone secretion from the adrenal glands, is a secondary cause of hypertension due to increased sodium and water retention and potassium loss, leading to blood pressure elevation.",
+                        "wrongAnswer_1": "Hypothyroidism, characterized by decreased thyroid hormone secretion, is a secondary cause of hypertension due to reduced metabolic rate and decreased cardiac output, leading to blood pressure elevation.",
+                        "wrongAnswer_2": "Cushing's syndrome, characterized by excessive cortisol secretion from the adrenal glands, is a secondary cause of hypotension due to fluid and sodium loss, leading to decreased blood pressure.",
+                        "wrongAnswer_3": "Addison's disease, characterized by adrenal insufficiency and decreased cortisol and aldosterone secretion, is a secondary cause of hypertension due to sodium and water retention and potassium accumulation, leading to blood pressure elevation.",
+                        "wrongAnswer_4": "Diabetes insipidus, characterized by ADH deficiency and excessive water excretion, is a secondary cause of hypertension due to increased blood volume and fluid retention, leading to blood pressure elevation."
+                    },
+                    {
+                        "question": "Identify a common modifiable lifestyle risk factor that significantly contributes to the development of essential hypertension by promoting insulin resistance, sympathetic nervous system activation, and increased sodium retention, among other mechanisms.",
+                        "goodAnswer": "Obesity is a significant modifiable risk factor for essential hypertension, contributing through mechanisms such as insulin resistance, increased sympathetic activity, and enhanced sodium reabsorption, leading to elevated blood pressure.",
+                        "wrongAnswer_1": "Regular physical activity is a significant modifiable risk factor for essential hypertension, contributing through mechanisms such as improved insulin sensitivity, decreased sympathetic activity, and reduced sodium reabsorption, leading to elevated blood pressure.",
+                        "wrongAnswer_2": "Low sodium intake is a significant modifiable risk factor for essential hypertension, contributing through mechanisms such as increased renin-angiotensin-aldosterone system activity, leading to elevated blood pressure.",
+                        "wrongAnswer_3": "High potassium intake is a significant modifiable risk factor for essential hypertension, contributing through mechanisms such as impaired vascular smooth muscle relaxation, leading to elevated blood pressure.",
+                        "wrongAnswer_4": "Adequate sleep duration is a significant modifiable risk factor for essential hypertension, contributing through mechanisms such as increased sympathetic nervous system activity and reduced endothelial function, leading to elevated blood pressure."
+                    }
+                ]
+            },
+            {
+                "title": "Goal of hypertension prevention and management",
+                "quizzes": [
+                    {
+                        "question": "What is the overarching primary goal of hypertension management and prevention strategies, focusing on mitigating long-term adverse health outcomes associated with persistently elevated blood pressure?",
+                        "goodAnswer": "The primary goal of hypertension management is to reduce cardiovascular and renal morbidity and mortality by achieving and maintaining target blood pressure levels through lifestyle modifications and pharmacological interventions.",
+                        "wrongAnswer_1": "The primary goal of hypertension management is to completely eliminate hypertension and achieve a blood pressure reading consistently below 120/80 mm Hg in all individuals, regardless of age or comorbidities.",
+                        "wrongAnswer_2": "The primary goal of hypertension management is to primarily focus on alleviating immediate symptoms of hypertension, such as headaches and dizziness, rather than addressing long-term cardiovascular risks.",
+                        "wrongAnswer_3": "The primary goal of hypertension management is to minimize the use of pharmacological interventions and rely solely on lifestyle modifications to manage blood pressure, regardless of hypertension severity.",
+                        "wrongAnswer_4": "The primary goal of hypertension management is to achieve the lowest possible blood pressure reading, even below normal ranges, to ensure maximal cardiovascular protection and prevent any future hypertensive episodes."
+                    },
+                    {
+                        "question": "Which lifestyle modification is a cornerstone of hypertension prevention and management, recommended as initial therapy for most individuals with elevated blood pressure or stage 1 hypertension to reduce cardiovascular risk?",
+                        "goodAnswer": "Lifestyle modifications, including dietary changes (DASH diet), regular exercise, weight management, and reduced sodium intake, are cornerstone initial therapies for hypertension prevention and management to lower cardiovascular risk.",
+                        "wrongAnswer_1": "Pharmacological monotherapy with a potent diuretic is the cornerstone initial therapy for hypertension prevention and management, irrespective of lifestyle factors or individual cardiovascular risk profiles.",
+                        "wrongAnswer_2": "Surgical interventions, such as renal denervation or baroreceptor stimulation, are cornerstone initial therapies for hypertension prevention and management in all individuals with elevated blood pressure.",
+                        "wrongAnswer_3": "Aggressive fluid restriction and sodium depletion are cornerstone initial therapies for hypertension prevention and management, regardless of underlying etiology or patient hydration status.",
+                        "wrongAnswer_4": "Routine blood transfusions to maintain optimal blood viscosity are cornerstone initial therapies for hypertension prevention and management, particularly in individuals with elevated hematocrit levels."
+                    },
+                    {
+                        "question": "For older adults, particularly those aged 65 years and older without significant comorbidities, what is the generally recommended target systolic blood pressure range to minimize cardiovascular events while considering potential risks of overtreatment?",
+                        "goodAnswer": "For older adults aged \u226565 years without major comorbidities, a target systolic blood pressure of <130 mm Hg is generally recommended to balance cardiovascular risk reduction with minimizing potential risks of hypotension and adverse effects.",
+                        "wrongAnswer_1": "For older adults aged \u226565 years without major comorbidities, a target systolic blood pressure of <120 mm Hg is generally recommended to aggressively minimize cardiovascular events, even at the risk of hypotension.",
+                        "wrongAnswer_2": "For older adults aged \u226565 years without major comorbidities, a target systolic blood pressure of <140 mm Hg is generally recommended, prioritizing avoidance of hypotension over maximal cardiovascular risk reduction.",
+                        "wrongAnswer_3": "For older adults aged \u226565 years without major comorbidities, a target systolic blood pressure of <150 mm Hg is generally recommended, accepting higher blood pressure levels to prevent any risk of treatment-related adverse effects.",
+                        "wrongAnswer_4": "For older adults aged \u226565 years without major comorbidities, a target systolic blood pressure of <110 mm Hg is generally recommended, aiming for the lowest possible blood pressure to maximize cardiovascular protection and longevity."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

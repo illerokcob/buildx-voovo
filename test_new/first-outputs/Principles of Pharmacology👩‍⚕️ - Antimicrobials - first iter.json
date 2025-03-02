@@ -1,0 +1,186 @@
+{
+    "mainTopic": {
+        "title": "Antimicrobials",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Introduction to antimicrobial therapy",
+                "quizzes": [
+                    {
+                        "question": "Which of the following best describes the principle of selective toxicity as it pertains to antimicrobial therapy?",
+                        "goodAnswer": "Selective toxicity refers to the ability of an antimicrobial agent to harm or kill microbial cells without significantly damaging host cells, exploiting differences in cellular structure or function between the microorganism and the host.",
+                        "wrongAnswer_1": "Selective toxicity is the capacity of an antimicrobial drug to target and eliminate all types of cells, both microbial and host, ensuring complete eradication of infection, irrespective of host cell damage.",
+                        "wrongAnswer_2": "Selective toxicity describes the antimicrobial agent's preference for targeting host cells that are weakened by infection, thereby indirectly supporting the elimination of microbial pathogens.",
+                        "wrongAnswer_3": "Selective toxicity is the characteristic of an antimicrobial compound to exclusively target viral pathogens, leaving bacterial and fungal cells unaffected, and causing minimal disruption to host physiology.",
+                        "wrongAnswer_4": "Selective toxicity is the property of an antimicrobial agent to enhance the host's immune response, leading to the indirect killing of microbial pathogens, while primarily affecting host immune cells."
+                    },
+                    {
+                        "question": "Considering the classification of antimicrobial agents based on their spectrum of activity, what is the primary distinction between a narrow-spectrum and a broad-spectrum antibiotic?",
+                        "goodAnswer": "Narrow-spectrum antibiotics are principally effective against a limited group of microorganisms, such as either Gram-positive or Gram-negative bacteria, thereby minimizing disruption to the host's normal microbiota, while broad-spectrum antibiotics are active against a wide range of microbial species, including both Gram-positive and Gram-negative bacteria, but carry a higher risk of disrupting the normal flora.",
+                        "wrongAnswer_1": "Narrow-spectrum antibiotics target a wide variety of microorganisms, including bacteria, fungi, and viruses, whereas broad-spectrum antibiotics are effective only against a specific genus of bacteria, offering targeted therapy with less impact on normal flora.",
+                        "wrongAnswer_2": "Narrow-spectrum antibiotics are effective against both Gram-positive and Gram-negative bacteria, but require higher doses, while broad-spectrum antibiotics are effective against only Gram-positive bacteria but are used at lower dosages to minimize side effects.",
+                        "wrongAnswer_3": "Narrow-spectrum antibiotics are primarily used for prophylactic treatment to prevent infections by a wide range of pathogens, whereas broad-spectrum antibiotics are reserved for treating confirmed infections caused by a single, identified pathogen.",
+                        "wrongAnswer_4": "Narrow-spectrum antibiotics are characterized by their ability to target and eradicate biofilms formed by multiple species of bacteria, whereas broad-spectrum antibiotics are effective against planktonic bacteria but not against biofilm-embedded microorganisms."
+                    },
+                    {
+                        "question": "Which of the following mechanisms of action is characteristic of bactericidal antimicrobial agents, distinguishing them from bacteriostatic agents?",
+                        "goodAnswer": "Bactericidal agents directly kill bacteria, often through mechanisms that irreversibly disrupt essential bacterial processes like cell wall synthesis, DNA replication, or protein synthesis, leading to a reduction in the total number of viable bacteria.",
+                        "wrongAnswer_1": "Bactericidal agents inhibit bacterial growth by temporarily suppressing metabolic pathways, allowing the host's immune system to clear the infection, without directly causing bacterial cell death, primarily affecting bacterial reproduction.",
+                        "wrongAnswer_2": "Bactericidal agents work by stimulating the host's immune system to more effectively target and destroy bacterial pathogens, indirectly leading to bacterial elimination through enhanced phagocytosis and antibody production.",
+                        "wrongAnswer_3": "Bactericidal agents primarily target and neutralize bacterial toxins, reducing the severity of infection symptoms, but do not directly kill bacteria or inhibit their growth, focusing on toxin inactivation.",
+                        "wrongAnswer_4": "Bactericidal agents function by disrupting bacterial cell adhesion to host tissues, preventing colonization and infection establishment, but do not directly kill bacteria or inhibit their growth once colonization has occurred."
+                    }
+                ]
+            },
+            {
+                "title": "Penicillins, Cephalosporins, and other beta-lactam drugs",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action shared by penicillins and cephalosporins, leading to their antibacterial effects?",
+                        "goodAnswer": "Penicillins and cephalosporins inhibit bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs), which are enzymes responsible for peptidoglycan cross-linking in the bacterial cell wall, ultimately leading to cell lysis and bacterial death.",
+                        "wrongAnswer_1": "Penicillins and cephalosporins disrupt bacterial DNA replication by intercalating into the DNA strands, preventing the unwinding and separation of DNA required for replication, thus halting bacterial proliferation.",
+                        "wrongAnswer_2": "Penicillins and cephalosporins inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit, causing misreading of mRNA and preventing the accurate translation of proteins essential for bacterial survival.",
+                        "wrongAnswer_3": "Penicillins and cephalosporins interfere with bacterial cell membrane permeability by forming channels in the membrane, leading to leakage of essential intracellular components and disruption of the bacterial osmotic balance.",
+                        "wrongAnswer_4": "Penicillins and cephalosporins block bacterial folate synthesis by competitively inhibiting dihydrofolate reductase, an enzyme crucial for the production of tetrahydrofolate, a coenzyme necessary for nucleotide biosynthesis."
+                    },
+                    {
+                        "question": "Which of the following mechanisms is the most common cause of bacterial resistance to penicillins and many cephalosporins?",
+                        "goodAnswer": "The most prevalent mechanism of resistance is the enzymatic inactivation of the beta-lactam ring by bacterial beta-lactamase enzymes, which hydrolyze the amide bond in the beta-lactam ring, rendering the antibiotic inactive and unable to bind to PBPs.",
+                        "wrongAnswer_1": "Resistance commonly arises from alterations in the bacterial cell wall structure that prevent the penetration of penicillins and cephalosporins to their target PBPs, thereby reducing the intracellular concentration of the antibiotic.",
+                        "wrongAnswer_2": "A frequent resistance mechanism involves the modification of penicillin-binding proteins (PBPs) such that they have a reduced affinity for beta-lactam antibiotics, preventing effective binding and inhibition of cell wall synthesis.",
+                        "wrongAnswer_3": "Resistance is often mediated by bacterial efflux pumps that actively transport penicillins and cephalosporins out of the bacterial cell, maintaining a low intracellular concentration of the antibiotic and reducing its efficacy.",
+                        "wrongAnswer_4": "A common mechanism of resistance is the modification of bacterial ribosomes, preventing penicillins and cephalosporins from binding to ribosomes and indirectly interfering with cell wall synthesis pathways."
+                    },
+                    {
+                        "question": "How do beta-lactamase inhibitors, such as clavulanic acid and sulbactam, enhance the effectiveness of certain penicillins?",
+                        "goodAnswer": "Beta-lactamase inhibitors competitively bind to and inactivate bacterial beta-lactamase enzymes, preventing the degradation of co-administered beta-lactam antibiotics like amoxicillin, thus protecting the antibiotic and allowing it to reach and inhibit PBPs effectively.",
+                        "wrongAnswer_1": "Beta-lactamase inhibitors directly enhance the penetration of beta-lactam antibiotics through the bacterial cell wall, increasing the concentration of the antibiotic at its target site, the penicillin-binding proteins (PBPs).",
+                        "wrongAnswer_2": "Beta-lactamase inhibitors modify the structure of penicillin-binding proteins (PBPs) to increase their affinity for beta-lactam antibiotics, thereby improving the binding and inhibitory activity of penicillins.",
+                        "wrongAnswer_3": "Beta-lactamase inhibitors competitively bind to bacterial ribosomes, preventing bacterial protein synthesis and indirectly enhancing the effect of beta-lactam antibiotics on cell wall synthesis.",
+                        "wrongAnswer_4": "Beta-lactamase inhibitors stimulate the host's immune system to more effectively clear bacterial infections, synergistically working with beta-lactam antibiotics to eliminate bacteria."
+                    },
+                    {
+                        "question": "Which statement accurately describes the progression of cephalosporin generations in terms of their antimicrobial spectrum and activity?",
+                        "goodAnswer": "Later generations of cephalosporins generally exhibit increased activity against Gram-negative bacteria, including Enterobacteriaceae and Pseudomonas aeruginosa, often with reduced activity against Gram-positive bacteria compared to earlier generations, along with improved resistance to beta-lactamases.",
+                        "wrongAnswer_1": "Later generations of cephalosporins typically show enhanced activity against Gram-positive bacteria, such as Staphylococcus aureus and Streptococcus pneumoniae, while maintaining or slightly decreasing activity against Gram-negative bacteria, and reduced resistance to beta-lactamases.",
+                        "wrongAnswer_2": "Later generations of cephalosporins are characterized by a broader spectrum of activity encompassing both Gram-positive and Gram-negative bacteria, as well as anaerobic bacteria and atypical pathogens, with no significant change in beta-lactamase resistance.",
+                        "wrongAnswer_3": "Later generations of cephalosporins are primarily designed to overcome fungal infections, exhibiting potent antifungal activity while retaining some antibacterial activity against Gram-positive bacteria, and a marked decrease in beta-lactamase resistance.",
+                        "wrongAnswer_4": "Later generations of cephalosporins generally have a narrower spectrum of activity, targeting specific Gram-negative bacteria only, with minimal activity against Gram-positive bacteria and significantly increased susceptibility to beta-lactamases."
+                    }
+                ]
+            },
+            {
+                "title": "Aminoglycosides and Tetracycline",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of aminoglycoside antibiotics at the ribosomal level in bacteria?",
+                        "goodAnswer": "Aminoglycosides exert their bactericidal effect by binding to the 30S ribosomal subunit, leading to misreading of mRNA, inhibition of translocation, and premature termination of protein synthesis, resulting in the production of non-functional or toxic proteins.",
+                        "wrongAnswer_1": "Aminoglycosides function by binding to the 50S ribosomal subunit, which subsequently blocks the peptidyl transferase activity, preventing the formation of peptide bonds and thus halting protein synthesis in bacteria.",
+                        "wrongAnswer_2": "Aminoglycosides inhibit bacterial DNA replication by binding to DNA gyrase and topoisomerase IV, preventing the unwinding and re-sealing of DNA strands necessary for replication, thereby stopping bacterial proliferation.",
+                        "wrongAnswer_3": "Aminoglycosides interfere with bacterial cell wall synthesis by inhibiting the transglycosylation step in peptidoglycan synthesis, leading to cell wall weakening and bacterial lysis, similar to beta-lactam antibiotics.",
+                        "wrongAnswer_4": "Aminoglycosides disrupt bacterial cell membrane integrity by inserting into the lipid bilayer and forming pores, causing leakage of essential intracellular components and leading to bacterial cell death through osmotic imbalance."
+                    },
+                    {
+                        "question": "What is the primary mechanism by which tetracycline antibiotics inhibit bacterial protein synthesis?",
+                        "goodAnswer": "Tetracyclines inhibit bacterial protein synthesis by binding reversibly to the 30S ribosomal subunit, preventing the attachment of aminoacyl-tRNA to the A-site of the ribosome, thereby blocking the addition of new amino acids to the growing peptide chain.",
+                        "wrongAnswer_1": "Tetracyclines irreversibly bind to the 50S ribosomal subunit, causing a conformational change that blocks the translocation step in protein synthesis, preventing the ribosome from moving along the mRNA and halting protein production.",
+                        "wrongAnswer_2": "Tetracyclines interfere with the initiation of protein synthesis by binding to the mRNA-ribosome complex and preventing the formation of the initiation complex required for translation to begin.",
+                        "wrongAnswer_3": "Tetracyclines act as competitive inhibitors of tRNA synthetases, preventing the aminoacylation of tRNA molecules, thus depleting the pool of charged tRNAs necessary for protein synthesis.",
+                        "wrongAnswer_4": "Tetracyclines directly interact with mRNA, causing misreading of the genetic code and incorporation of incorrect amino acids into proteins, leading to the production of non-functional proteins and bacterial cell death."
+                    },
+                    {
+                        "question": "Which of the following adverse effects is most characteristically associated with aminoglycoside antibiotics, particularly with prolonged or high-dose use?",
+                        "goodAnswer": "Nephrotoxicity and ototoxicity are the most significant dose-dependent adverse effects of aminoglycosides, resulting from drug accumulation in renal proximal tubular cells and inner ear hair cells, potentially leading to irreversible kidney damage and hearing loss or vestibular dysfunction.",
+                        "wrongAnswer_1": "Hepatotoxicity and cardiotoxicity are the primary dose-related adverse effects of aminoglycosides, causing liver damage and cardiac arrhythmias, particularly in patients with pre-existing hepatic or cardiovascular conditions.",
+                        "wrongAnswer_2": "Neurotoxicity and myelosuppression are the most common adverse effects associated with aminoglycoside use, leading to peripheral neuropathy, seizures, and suppression of bone marrow function, resulting in anemia and leukopenia.",
+                        "wrongAnswer_3": "Gastrointestinal distress and photosensitivity are the major adverse effects of aminoglycosides, causing severe nausea, vomiting, diarrhea, and increased susceptibility to sunburn upon exposure to sunlight.",
+                        "wrongAnswer_4": "Pulmonary fibrosis and dermatological reactions are the most frequently observed adverse effects of aminoglycosides, leading to lung scarring and various skin rashes, including Stevens-Johnson syndrome and toxic epidermal necrolysis."
+                    },
+                    {
+                        "question": "What is a common mechanism of bacterial resistance to tetracycline antibiotics?",
+                        "goodAnswer": "A prevalent mechanism of resistance to tetracyclines is the acquisition of efflux pumps that actively transport the drug out of the bacterial cell, reducing the intracellular concentration of tetracycline below the therapeutic level required to inhibit protein synthesis.",
+                        "wrongAnswer_1": "A common resistance mechanism involves enzymatic inactivation of tetracyclines by bacterial enzymes that modify the drug molecule, rendering it unable to bind to the 30S ribosomal subunit and inhibit protein synthesis.",
+                        "wrongAnswer_2": "Resistance often arises from mutations in the 30S ribosomal subunit that alter the binding site for tetracyclines, reducing the affinity of the antibiotic for the ribosome and preventing effective inhibition of protein synthesis.",
+                        "wrongAnswer_3": "A frequent mechanism of resistance is the modification of bacterial cell membrane permeability, which reduces the uptake of tetracyclines into the bacterial cell, limiting the intracellular concentration of the drug.",
+                        "wrongAnswer_4": "Resistance can be mediated by the production of decoy target proteins that bind to tetracyclines, sequestering the drug and preventing it from reaching its ribosomal target within the bacterial cell."
+                    }
+                ]
+            },
+            {
+                "title": "Fluoroquinolones",
+                "quizzes": [
+                    {
+                        "question": "What is the primary mechanism of action of fluoroquinolone antibiotics in bacteria?",
+                        "goodAnswer": "Fluoroquinolones inhibit bacterial DNA synthesis by targeting DNA gyrase (topoisomerase II) and topoisomerase IV, enzymes essential for DNA replication, transcription, and repair, leading to DNA strand breaks and bacterial cell death.",
+                        "wrongAnswer_1": "Fluoroquinolones inhibit bacterial RNA synthesis by binding to RNA polymerase, preventing the transcription of DNA into RNA and thus halting the production of essential bacterial proteins and enzymes.",
+                        "wrongAnswer_2": "Fluoroquinolones interfere with bacterial cell wall synthesis by inhibiting the synthesis of peptidoglycans, similar to beta-lactam antibiotics, leading to cell wall weakening and bacterial lysis.",
+                        "wrongAnswer_3": "Fluoroquinolones disrupt bacterial protein synthesis by binding to the 50S ribosomal subunit, inhibiting peptidyl transferase activity and halting the formation of peptide bonds, thus blocking protein production.",
+                        "wrongAnswer_4": "Fluoroquinolones act as antimetabolites, inhibiting bacterial folate synthesis by competitively blocking dihydrofolate reductase, an enzyme necessary for nucleotide biosynthesis and bacterial growth."
+                    },
+                    {
+                        "question": "Which bacterial enzymes are the primary targets of fluoroquinolones, leading to their antibacterial activity?",
+                        "goodAnswer": "The primary targets of fluoroquinolones are bacterial DNA gyrase (topoisomerase II), crucial for DNA supercoiling during replication, and topoisomerase IV, essential for chromosome segregation during cell division, both of which are type II topoisomerases.",
+                        "wrongAnswer_1": "The main targets are bacterial RNA polymerase, responsible for transcribing DNA into RNA, and topoisomerase I, involved in relieving torsional stress during DNA replication but not primarily targeted by fluoroquinolones.",
+                        "wrongAnswer_2": "The key targets are bacterial topoisomerase III, which resolves DNA catenanes, and topoisomerase V, a reverse gyrase found in some archaea but not typically in bacteria targeted by fluoroquinolones.",
+                        "wrongAnswer_3": "The principal targets are bacterial ribosomes, specifically the 30S and 50S subunits, which are essential for protein synthesis and are the targets of antibiotics like tetracyclines and aminoglycosides, not fluoroquinolones.",
+                        "wrongAnswer_4": "The primary targets are bacterial enzymes involved in cell wall synthesis, such as transpeptidases and transglycosylases, which are also the targets of beta-lactam antibiotics like penicillins and cephalosporins, not fluoroquinolones."
+                    },
+                    {
+                        "question": "What is a significant adverse effect associated with fluoroquinolone use, particularly concerning musculoskeletal tissues?",
+                        "goodAnswer": "Tendon rupture, particularly of the Achilles tendon, is a well-documented and serious adverse effect of fluoroquinolones, attributed to their potential to cause tendinopathy and tendon degeneration, especially in older patients or those with risk factors.",
+                        "wrongAnswer_1": "Rhabdomyolysis, or severe muscle breakdown, is a common adverse effect of fluoroquinolones, leading to muscle pain, weakness, and potential kidney damage due to the release of muscle contents into the bloodstream.",
+                        "wrongAnswer_2": "Osteoporosis and increased fracture risk are frequently associated with fluoroquinolone use, resulting from the drug's interference with bone metabolism and decreased bone density over time, particularly in long-term therapy.",
+                        "wrongAnswer_3": "Arthritis and joint inflammation are common musculoskeletal adverse effects of fluoroquinolones, causing pain, swelling, and stiffness in joints, especially in weight-bearing joints like knees and hips, requiring long-term management.",
+                        "wrongAnswer_4": "Myasthenia gravis exacerbation and muscle weakness are primary neuromuscular adverse effects of fluoroquinolones, leading to worsening of muscle weakness in patients with myasthenia gravis and potential respiratory compromise."
+                    },
+                    {
+                        "question": "Which of the following mechanisms is a common cause of bacterial resistance to fluoroquinolone antibiotics?",
+                        "goodAnswer": "Point mutations in the genes encoding DNA gyrase (gyrA, gyrB) and topoisomerase IV (parC, parE) are a frequent mechanism of resistance, altering the enzyme structure and reducing the binding affinity of fluoroquinolones, thus diminishing their inhibitory effect.",
+                        "wrongAnswer_1": "Enzymatic inactivation of fluoroquinolones by bacterial enzymes, similar to beta-lactamase inactivation of penicillins, is a common resistance mechanism, where bacterial enzymes modify the fluoroquinolone structure and render it inactive.",
+                        "wrongAnswer_2": "Resistance often arises from increased bacterial cell wall permeability, which prevents the entry of fluoroquinolones into the bacterial cell, thereby reducing the intracellular concentration of the antibiotic and its effectiveness.",
+                        "wrongAnswer_3": "A prevalent mechanism of resistance is the modification of bacterial ribosomes, preventing fluoroquinolones from binding to ribosomes and indirectly interfering with DNA replication pathways.",
+                        "wrongAnswer_4": "Resistance can be mediated by the production of decoy DNA targets that bind to fluoroquinolones, sequestering the drug and preventing it from reaching its primary targets, DNA gyrase and topoisomerase IV."
+                    }
+                ]
+            },
+            {
+                "title": "General principles of antimicrobial use and antimicrobial resistance",
+                "quizzes": [
+                    {
+                        "question": "What is the principle of 'antimicrobial stewardship' primarily focused on in healthcare settings?",
+                        "goodAnswer": "Antimicrobial stewardship programs aim to optimize antimicrobial use to improve patient outcomes, reduce antimicrobial resistance, and minimize adverse consequences of antimicrobial use, such as Clostridioides difficile infections, through various strategies including education, guidelines, and restriction policies.",
+                        "wrongAnswer_1": "Antimicrobial stewardship focuses on developing new and more potent antimicrobial agents to overcome existing resistance mechanisms and eradicate bacterial infections more effectively, irrespective of current usage patterns.",
+                        "wrongAnswer_2": "Antimicrobial stewardship primarily aims to reduce the cost of antimicrobial therapy in healthcare systems by promoting the use of the least expensive antibiotics, regardless of their appropriateness or potential impact on resistance.",
+                        "wrongAnswer_3": "Antimicrobial stewardship is centered on ensuring broad access to all available antimicrobial agents for all patients, maximizing treatment options and patient choice, without specific emphasis on optimizing use or resistance management.",
+                        "wrongAnswer_4": "Antimicrobial stewardship mainly focuses on isolating patients with resistant infections to prevent the spread of resistance within healthcare facilities, with minimal emphasis on optimizing antimicrobial prescribing practices."
+                    },
+                    {
+                        "question": "Which of the following best describes the concept of 'selective pressure' in the context of antimicrobial resistance?",
+                        "goodAnswer": "Selective pressure, in the context of antimicrobial resistance, refers to the phenomenon where the use of antimicrobial agents favors the survival and proliferation of resistant microorganisms while inhibiting or eliminating susceptible ones, leading to an increased proportion of resistant strains in the microbial population over time.",
+                        "wrongAnswer_1": "Selective pressure describes the direct toxic effects of antimicrobial agents on host cells, leading to adverse reactions and complications in patients, which indirectly promotes the emergence of resistant microorganisms.",
+                        "wrongAnswer_2": "Selective pressure refers to the pressure exerted by the host's immune system on microbial pathogens, driving them to develop resistance mechanisms to evade immune clearance, independent of antimicrobial agent use.",
+                        "wrongAnswer_3": "Selective pressure is the pressure exerted by environmental factors, such as temperature and pH, on microbial populations, leading to genetic mutations and the development of resistance to antimicrobial agents, irrespective of drug exposure.",
+                        "wrongAnswer_4": "Selective pressure describes the competition between different microbial species in a polymicrobial environment, where resistant species outcompete susceptible species for resources, leading to a shift in microbial community composition."
+                    },
+                    {
+                        "question": "What is a key strategy in antimicrobial stewardship to reduce the development and spread of antimicrobial resistance?",
+                        "goodAnswer": "Implementing diagnostic stewardship, which includes promoting the use of rapid and accurate diagnostic tests to identify the causative pathogen and guide targeted antimicrobial therapy, thereby reducing the unnecessary use of broad-spectrum antibiotics, is a crucial strategy.",
+                        "wrongAnswer_1": "Increasing the routine use of prophylactic antibiotics in all hospitalized patients to prevent infections and reduce the overall burden of infectious diseases, regardless of specific risk factors or clinical indications, is a key strategy.",
+                        "wrongAnswer_2": "Promoting the use of the newest and most potent broad-spectrum antibiotics as first-line agents for most infections to ensure effective treatment and minimize the risk of treatment failure, irrespective of resistance concerns, is a vital strategy.",
+                        "wrongAnswer_3": "Restricting access to diagnostic testing to reduce healthcare costs and relying primarily on empirical therapy based on clinical presentation, without specific pathogen identification, is a key strategy in antimicrobial stewardship.",
+                        "wrongAnswer_4": "Encouraging the widespread use of over-the-counter antimicrobial agents for self-treatment of infections to reduce the burden on healthcare systems and empower patients to manage their own health, without prescription requirements, is a crucial strategy."
+                    },
+                    {
+                        "question": "Which mechanism of antimicrobial resistance involves the modification of the antibiotic target site in the bacterial cell?",
+                        "goodAnswer": "Target site modification involves genetic mutations that alter the structure of the bacterial target molecule, such as ribosomes, PBPs, or DNA gyrase, reducing the binding affinity of the antibiotic and thus its effectiveness, even when the antibiotic reaches its target.",
+                        "wrongAnswer_1": "Enzymatic inactivation of antibiotics involves bacterial enzymes that degrade or modify the antibiotic molecule itself, rendering it inactive before it can reach its target site, thereby preventing its antimicrobial action.",
+                        "wrongAnswer_2": "Efflux pumps are resistance mechanisms that actively transport antibiotics out of the bacterial cell, maintaining a low intracellular concentration of the drug and preventing it from reaching effective levels at its target site.",
+                        "wrongAnswer_3": "Reduced cell permeability as a resistance mechanism involves alterations in the bacterial cell wall or membrane that decrease the uptake of antibiotics into the cell, limiting the amount of drug that can reach its intracellular target.",
+                        "wrongAnswer_4": "Bypass pathways as a resistance mechanism involve bacteria developing alternative metabolic pathways that circumvent the pathway inhibited by the antibiotic, allowing them to survive and grow despite the presence of the drug."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

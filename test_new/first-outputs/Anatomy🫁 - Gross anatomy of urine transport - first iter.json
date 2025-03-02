@@ -1,0 +1,119 @@
+{
+    "mainTopic": {
+        "title": "Gross anatomy of urine transport",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Ureters",
+                "quizzes": [
+                    {
+                        "question": "Which layers constitute the wall of the ureter, arranged from the innermost to the outermost?",
+                        "goodAnswer": "Mucosa (transitional epithelium and lamina propria), Muscularis (inner longitudinal and outer circular layers of smooth muscle), Adventitia (connective tissue with blood vessels and nerves).",
+                        "wrongAnswer_1": "Serosa (mesothelium and thin connective tissue), Muscularis (outer longitudinal and inner circular layers of skeletal muscle), Mucosa (stratified squamous epithelium and submucosa).",
+                        "wrongAnswer_2": "Adventitia (dense irregular connective tissue), Muscularis (single layer of smooth muscle), Mucosa (simple columnar epithelium and lamina propria).",
+                        "wrongAnswer_3": "Mucosa (pseudostratified columnar epithelium and lamina propria), Muscularis (inner circular and outer oblique layers of smooth muscle), Serosa (fibroelastic connective tissue).",
+                        "wrongAnswer_4": "Tunica externa (areolar connective tissue), Tunica media (elastic fibers and smooth muscle), Tunica interna (endothelium and basement membrane)."
+                    },
+                    {
+                        "question": "What type of epithelium primarily lines the lumen of the ureter, adapting to the volume fluctuations of urine?",
+                        "goodAnswer": "Transitional epithelium, also known as urothelium, capable of stretching and thinning as the ureter fills, protecting underlying tissues from urine's hypertonicity and acidity.",
+                        "wrongAnswer_1": "Stratified squamous epithelium, providing robust protection against abrasion and friction from the constant flow of concentrated urine, while also facilitating rapid diffusion.",
+                        "wrongAnswer_2": "Pseudostratified columnar epithelium with cilia, aiding in the propulsion of urine towards the bladder through ciliary action and mucus secretion, alongside absorption.",
+                        "wrongAnswer_3": "Simple cuboidal epithelium with microvilli, maximizing surface area for absorption of water and solutes from the urine, while also secreting enzymes to modify urine composition.",
+                        "wrongAnswer_4": "Simple squamous epithelium, facilitating rapid diffusion of water and small solutes across the ureteral lining, while offering minimal protection against osmotic stress."
+                    },
+                    {
+                        "question": "Describing the muscularis layer of the ureter, what is the general arrangement of its smooth muscle layers that facilitates peristaltic movement?",
+                        "goodAnswer": "Typically composed of two layers: an inner longitudinal layer and an outer circular layer, although a third outer longitudinal layer is present in the lower ureter near the bladder, enhancing contractile force.",
+                        "wrongAnswer_1": "Characterized by a single layer of spirally arranged smooth muscle fibers, allowing for both circumferential contraction and longitudinal shortening during peristaltic waves, with no distinct layers.",
+                        "wrongAnswer_2": "Comprising three distinct layers: an inner circular, a middle longitudinal, and an outer oblique layer, similar to the stomach, providing multi-directional contractile capabilities for complex urine propulsion.",
+                        "wrongAnswer_3": "Consisting of striated muscle fibers arranged in both circular and longitudinal orientations, enabling voluntary control over ureteral contractions and urine flow, especially near the bladder.",
+                        "wrongAnswer_4": "Arranged in a criss-crossing lattice network of smooth muscle bundles without distinct layers, providing uniform contraction and preventing backflow of urine, with specialized sphincter muscles at junctions."
+                    },
+                    {
+                        "question": "What is the primary role of the adventitia layer surrounding the ureter?",
+                        "goodAnswer": "To anchor the ureters to surrounding structures, such as the posterior abdominal wall and retroperitoneum, and to provide a conduit for blood vessels, lymphatic vessels, and nerves supplying the ureteral wall.",
+                        "wrongAnswer_1": "To secrete serous fluid that lubricates the ureter's outer surface, reducing friction against adjacent organs during peristaltic movements and abdominal movements, and providing immune surveillance.",
+                        "wrongAnswer_2": "To synthesize and secrete a thick layer of mucus that protects the ureter from external pathogens and physical damage, while also contributing to the structural integrity of the ureteral wall itself.",
+                        "wrongAnswer_3": "To house a rich network of sensory nerve endings that detect changes in urine volume and pressure within the ureter, triggering reflex contractions and pain sensations in response to distension or obstruction.",
+                        "wrongAnswer_4": "To regulate the temperature of the urine within the ureter through a countercurrent heat exchange mechanism with adjacent blood vessels, maintaining optimal conditions for urine transport and preventing crystallization."
+                    }
+                ]
+            },
+            {
+                "title": "Bladder",
+                "quizzes": [
+                    {
+                        "question": "Describe the layers of the bladder wall, in order from innermost to outermost.",
+                        "goodAnswer": "Mucosa (transitional epithelium and lamina propria), Submucosa (dense irregular connective tissue), Muscularis (detrusor muscle - three layers of smooth muscle), Serosa or Adventitia (depending on location).",
+                        "wrongAnswer_1": "Serosa (mesothelium), Muscularis (internal and external sphincters of skeletal muscle), Submucosa (adipose tissue), Mucosa (stratified squamous epithelium).",
+                        "wrongAnswer_2": "Adventitia (loose connective tissue), Muscularis (two layers of smooth muscle - circular and longitudinal), Submucosa (elastic fibers and blood vessels), Mucosa (simple columnar epithelium).",
+                        "wrongAnswer_3": "Mucosa (pseudostratified epithelium and lamina propria), Submucosa (glands and lymphatic tissue), Muscularis (detrusor muscle - single layer of smooth muscle), Serosa (fibrous capsule).",
+                        "wrongAnswer_4": "Tunica interna (endothelium), Tunica media (smooth muscle and elastic laminae), Tunica externa (connective tissue), Submucosa (mucous glands)."
+                    },
+                    {
+                        "question": "What is the unique characteristic of the transitional epithelium lining the bladder that enables it to accommodate significant volume changes?",
+                        "goodAnswer": "Its cells can change shape from cuboidal or columnar when the bladder is empty to flattened when the bladder is full, allowing for distension without increasing tension or compromising barrier function.",
+                        "wrongAnswer_1": "It is composed of multiple layers of keratinized cells that provide exceptional impermeability and resistance to abrasion from urine, preventing leakage even under high pressure and volume.",
+                        "wrongAnswer_2": "It contains specialized goblet cells that secrete a thick mucus layer, which expands and contracts to accommodate volume changes while protecting the underlying lamina propria from direct urine contact.",
+                        "wrongAnswer_3": "It features numerous folds and microvilli on its apical surface, which unfold and flatten as the bladder fills, significantly increasing the surface area and thus the bladder's capacity to expand.",
+                        "wrongAnswer_4": "It is richly innervated with stretch receptors that signal the degree of bladder fullness to the nervous system, triggering relaxation of the epithelial cells and expansion of the bladder volume."
+                    },
+                    {
+                        "question": "Describe the detrusor muscle and its role in bladder function.",
+                        "goodAnswer": "The detrusor muscle is the muscularis layer of the bladder wall, composed of three interwoven layers of smooth muscle that contract in unison to expel urine during micturition, and relax to allow bladder filling.",
+                        "wrongAnswer_1": "The detrusor muscle is a sphincter muscle located at the bladder neck, composed of skeletal muscle fibers that are under voluntary control, allowing conscious initiation and termination of urination.",
+                        "wrongAnswer_2": "The detrusor muscle is a thin layer of elastic fibers within the submucosa that expands passively as the bladder fills, contributing to bladder compliance but not involved in active contraction for urination.",
+                        "wrongAnswer_3": "The detrusor muscle is a series of circular bands of smooth muscle around the bladder neck that maintain urinary continence by tonically contracting and relaxing only during bladder filling.",
+                        "wrongAnswer_4": "The detrusor muscle is composed of striated muscle fibers that are tonically contracted to maintain bladder shape and support, and rhythmically contract during bladder filling to facilitate urine mixing."
+                    },
+                    {
+                        "question": "Anatomically, where is the trigone located within the bladder, and what is its significance?",
+                        "goodAnswer": "The trigone is a triangular area on the internal posterior wall of the bladder, defined by the openings of the two ureters and the urethra; it is clinically significant because infections and tumors frequently occur in this region.",
+                        "wrongAnswer_1": "The trigone is a muscular sphincter located at the bladder neck, controlling the outflow of urine into the urethra; its significance lies in its role in maintaining urinary continence and initiating voiding.",
+                        "wrongAnswer_2": "The trigone is the dome-shaped superior region of the bladder that expands most significantly during bladder filling; its significance is in accommodating large volumes of urine without causing a pressure increase.",
+                        "wrongAnswer_3": "The trigone is the external fibrous layer of the bladder wall that provides structural support and attachment to surrounding pelvic organs; its significance is in anchoring the bladder in its anatomical position.",
+                        "wrongAnswer_4": "The trigone is the submucosal layer of the bladder, rich in blood vessels and nerves, that nourishes the transitional epithelium and mediates sensory feedback regarding bladder fullness and pain."
+                    }
+                ]
+            },
+            {
+                "title": "Urethra",
+                "quizzes": [
+                    {
+                        "question": "What are the key anatomical differences between the male and female urethra?",
+                        "goodAnswer": "The female urethra is shorter (approximately 4 cm) and primarily functions in urine transport, opening anterior to the vagina. The male urethra is longer (approximately 18-20 cm) and serves as a common pathway for both urine and semen, traversing the prostate and penis.",
+                        "wrongAnswer_1": "The female urethra is longer (approximately 15 cm) and passes through the prostate gland, similar to the male urethra, but opens posterior to the vagina. The male urethra is shorter (approximately 5 cm) and opens anterior to the penis, solely for urine transport.",
+                        "wrongAnswer_2": "Both male and female urethras are approximately the same length (about 10 cm), but the female urethra is more convoluted, while the male urethra is straight and rigid, both exclusively for urine transport.",
+                        "wrongAnswer_3": "The female urethra is wider in diameter and lined with stratified squamous epithelium for greater protection, while the male urethra is narrower and lined with transitional epithelium for distensibility, both serving dual functions for urine and reproductive fluids.",
+                        "wrongAnswer_4": "The female urethra is located posteriorly to the vagina and anteriorly to the rectum, while the male urethra is located anteriorly to the penis and posteriorly to the scrotum, with both urethras having identical lengths and functions."
+                    },
+                    {
+                        "question": "Describe the epithelium lining the majority of the female urethra, and how it transitions distally.",
+                        "goodAnswer": "The majority of the female urethra is lined by stratified squamous epithelium, which provides protection against abrasion and infection. Near the bladder, it transitions to transitional epithelium and near the external urethral orifice it remains stratified squamous.",
+                        "wrongAnswer_1": "The entire female urethra is lined by transitional epithelium, allowing for significant distension and adaptation to varying urine flow rates, with no epithelial transitions along its length.",
+                        "wrongAnswer_2": "The female urethra is primarily lined by pseudostratified columnar epithelium with cilia, which aids in propelling urine outwards and secreting mucus, transitioning to simple cuboidal epithelium near the orifice.",
+                        "wrongAnswer_3": "The majority of the female urethra is lined by simple columnar epithelium with microvilli, facilitating absorption of water and solutes from the urine, transitioning to stratified columnar epithelium distally.",
+                        "wrongAnswer_4": "The female urethra is lined by a mix of transitional and stratified cuboidal epithelium throughout its length, providing both distensibility and moderate protection, without distinct epithelial transitions."
+                    },
+                    {
+                        "question": "In the male urethra, what are the names and locations of its three main anatomical regions?",
+                        "goodAnswer": "Prostatic urethra (within the prostate gland), Membranous urethra (passes through the urogenital diaphragm), Spongy (penile) urethra (within the corpus spongiosum of the penis).",
+                        "wrongAnswer_1": "Proximal urethra (near the bladder neck), Intermediate urethra (mid-portion within the pelvic cavity), Distal urethra (within the glans penis), representing a functional rather than anatomical segmentation.",
+                        "wrongAnswer_2": "Cavernosal urethra (within the corpora cavernosa), Bulbous urethra (at the bulb of the penis), Glandular urethra (within the glans), based on the erectile tissues surrounding the urethra.",
+                        "wrongAnswer_3": "Pelvic urethra (within the pelvic floor), Penile urethra (within the penile shaft), Scrotal urethra (within the scrotum), reflecting the external anatomical landmarks of the male genitalia.",
+                        "wrongAnswer_4": "Upper urethra (superior portion near the bladder), Middle urethra (mid-segment within the pelvic girdle), Lower urethra (inferior portion near the external opening), a simple directional anatomical division."
+                    },
+                    {
+                        "question": "Describe the function and location of the external urethral sphincter in both males and females.",
+                        "goodAnswer": "In both sexes, the external urethral sphincter is a ring of skeletal muscle located inferior to the internal urethral sphincter and surrounding the urethra as it passes through the urogenital diaphragm. It provides voluntary control over micturition.",
+                        "wrongAnswer_1": "In both sexes, the external urethral sphincter is composed of smooth muscle and located superior to the internal urethral sphincter, within the bladder neck. It functions involuntarily to maintain urinary continence.",
+                        "wrongAnswer_2": "In males only, the external urethral sphincter is located within the prostate gland and is composed of smooth muscle, while in females, it is located within the pelvic floor and is composed of skeletal muscle, providing only involuntary control in both sexes.",
+                        "wrongAnswer_3": "The external urethral sphincter is present only in males, located within the corpus spongiosum of the penis and composed of erectile tissue, facilitating both urinary continence and penile rigidity during erection.",
+                        "wrongAnswer_4": "In females only, the external urethral sphincter is located at the external urethral orifice and is composed of stratified squamous epithelium, providing a physical barrier against urinary leakage but no active muscular control."
+                    }
+                ]
+            }
+        ]
+    }
+}

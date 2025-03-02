@@ -1,0 +1,149 @@
+{
+    "mainTopic": {
+        "title": "Lipid Lowering Drugs",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of atherosclerosis",
+                "quizzes": [
+                    {
+                        "question": "Atherosclerosis is primarily characterized by which of the following pathological processes within the arterial wall?",
+                        "goodAnswer": "Atherosclerosis is characterized by chronic inflammation of the arterial wall, driven predominantly by the accumulation of lipids, particularly cholesterol, leading to plaque formation and subsequent vascular remodeling.",
+                        "wrongAnswer_1": "Atherosclerosis is defined by acute inflammation of the venous wall, triggered by high glucose levels, resulting in the deposition of calcium and eventual arterial stiffening.",
+                        "wrongAnswer_2": "Atherosclerosis is characterized by acute vasoconstriction of the arterial wall, primarily due to sodium accumulation, leading to endothelial dysfunction and platelet aggregation without significant lipid involvement.",
+                        "wrongAnswer_3": "Atherosclerosis is characterized by chronic vasoconstriction of the venous wall, initiated by elevated triglyceride levels, causing smooth muscle proliferation and the formation of fibrous plaques lacking lipid cores.",
+                        "wrongAnswer_4": "Atherosclerosis is defined by chronic inflammation of the venous wall, driven by the accumulation of triglycerides, leading to thrombus formation and subsequent vascular dilation."
+                    },
+                    {
+                        "question": "Initiation of atherosclerosis is most strongly linked to which of the following cellular events in the arterial intima?",
+                        "goodAnswer": "The initiation of atherosclerosis is primarily linked to endothelial dysfunction in the arterial intima, characterized by increased permeability and leukocyte adhesion, particularly monocytes, in response to factors like oxidized LDL.",
+                        "wrongAnswer_1": "The initiation of atherosclerosis is primarily linked to smooth muscle cell proliferation in the arterial media, characterized by excessive collagen synthesis and elastin degradation, in response to factors like angiotensin II.",
+                        "wrongAnswer_2": "The initiation of atherosclerosis is primarily linked to platelet aggregation in the arterial adventitia, characterized by thrombus formation and fibrin deposition, in response to factors like von Willebrand factor.",
+                        "wrongAnswer_3": "The initiation of atherosclerosis is primarily linked to fibroblast activation in the arterial media, characterized by increased extracellular matrix deposition and angiogenesis, in response to factors like VEGF.",
+                        "wrongAnswer_4": "The initiation of atherosclerosis is primarily linked to endothelial cell apoptosis in the arterial adventitia, characterized by decreased barrier function and neutrophil infiltration, in response to factors like TNF-alpha."
+                    },
+                    {
+                        "question": "Which of the following best describes the role of macrophages in the progression of atherosclerotic plaques?",
+                        "goodAnswer": "Macrophages play a critical role in plaque progression by internalizing modified LDL, transforming into foam cells, and releasing inflammatory mediators and matrix metalloproteinases that contribute to plaque instability and rupture.",
+                        "wrongAnswer_1": "Macrophages primarily function in plaque regression by degrading accumulated cholesterol, transforming into smooth muscle cells, and releasing anti-inflammatory cytokines and tissue inhibitors of metalloproteinases that enhance plaque stability.",
+                        "wrongAnswer_2": "Macrophages play a minor role in plaque progression by internalizing native LDL, transforming into T-cells, and releasing pro-inflammatory cytokines and growth factors that contribute to plaque calcification and stenosis.",
+                        "wrongAnswer_3": "Macrophages primarily function in plaque stabilization by synthesizing collagen, transforming into fibroblasts, and releasing anti-inflammatory mediators and growth factors that contribute to plaque fibrosis and reduced inflammation.",
+                        "wrongAnswer_4": "Macrophages play a critical role in plaque progression by internalizing HDL, transforming into foam cells, and releasing anti-inflammatory mediators and matrix metalloproteinases that contribute to plaque stability and reduced inflammation."
+                    },
+                    {
+                        "question": "Advanced atherosclerotic plaques are characterized by several features that increase the risk of thrombotic events. Which of the following is considered the most critical determinant of plaque vulnerability?",
+                        "goodAnswer": "The vulnerability of advanced atherosclerotic plaques to rupture and thrombosis is primarily determined by the composition of the plaque, specifically a thin fibrous cap overlying a large lipid-rich necrotic core and high macrophage infiltration.",
+                        "wrongAnswer_1": "The vulnerability of advanced atherosclerotic plaques to rupture and thrombosis is primarily determined by the degree of calcification within the plaque, specifically extensive calcium deposition throughout the plaque and low smooth muscle cell density.",
+                        "wrongAnswer_2": "The vulnerability of advanced atherosclerotic plaques to rupture and thrombosis is primarily determined by the thickness of the endothelial layer covering the plaque, specifically a thick endothelial layer providing increased protection against rupture.",
+                        "wrongAnswer_3": "The vulnerability of advanced atherosclerotic plaques to rupture and thrombosis is primarily determined by the presence of vasa vasorum within the plaque, specifically extensive neovascularization leading to plaque stabilization.",
+                        "wrongAnswer_4": "The vulnerability of advanced atherosclerotic plaques to rupture and thrombosis is primarily determined by the size of the plaque protruding into the lumen, specifically larger plaques causing greater hemodynamic stress and reduced rupture risk."
+                    }
+                ]
+            },
+            {
+                "title": "Transmembrane receptors on mammalian cells, Apolipoproteins, sterols and lipoprotein cycles",
+                "quizzes": [
+                    {
+                        "question": "The LDL receptor, a crucial transmembrane protein, mediates the cellular uptake of LDL particles. Which of the following molecular mechanisms accurately describes the LDL receptor's function and regulation?",
+                        "goodAnswer": "The LDL receptor is a cell surface receptor that binds ApoB-100 on LDL particles, initiating clathrin-mediated endocytosis, and its expression is upregulated by low intracellular cholesterol levels via SREBP-2 activation.",
+                        "wrongAnswer_1": "The LDL receptor is an intracellular receptor that binds ApoA-I on HDL particles, initiating caveolin-mediated endocytosis, and its expression is downregulated by high intracellular cholesterol levels via LXR activation.",
+                        "wrongAnswer_2": "The LDL receptor is a mitochondrial receptor that binds ApoC-II on VLDL particles, initiating macropinocytosis, and its expression is upregulated by high intracellular triglyceride levels via PPAR-gamma activation.",
+                        "wrongAnswer_3": "The LDL receptor is a nuclear receptor that binds ApoE on chylomicron remnants, initiating phagocytosis, and its expression is downregulated by low intracellular glucose levels via ChREBP activation.",
+                        "wrongAnswer_4": "The LDL receptor is a lysosomal receptor that binds ApoB-48 on IDL particles, initiating autophagy, and its expression is upregulated by high intracellular fatty acid levels via PPAR-alpha activation."
+                    },
+                    {
+                        "question": "Apolipoproteins are essential protein components of lipoproteins, playing critical roles in lipoprotein metabolism. Which of the following apolipoproteins is correctly matched with its primary function?",
+                        "goodAnswer": "ApoB-100 is essential for VLDL assembly and secretion from the liver and serves as a ligand for the LDL receptor, mediating LDL uptake into cells.",
+                        "wrongAnswer_1": "ApoA-I is essential for chylomicron assembly and secretion from the intestine and serves as a ligand for the SR-BI receptor, mediating HDL uptake into cells.",
+                        "wrongAnswer_2": "ApoC-II is essential for HDL assembly and secretion from the liver and serves as a ligand for the LRP receptor, mediating VLDL uptake into cells.",
+                        "wrongAnswer_3": "ApoE is essential for LDL assembly and secretion from the liver and serves as a ligand for the VLDL receptor, mediating chylomicron remnant uptake into cells.",
+                        "wrongAnswer_4": "ApoB-48 is essential for IDL assembly and secretion from the intestine and serves as a ligand for the ABCA1 transporter, mediating LDL efflux from cells."
+                    },
+                    {
+                        "question": "Cholesterol homeostasis is tightly regulated through various pathways, including de novo synthesis and dietary uptake.  Which of the following accurately describes a key regulatory step in cholesterol biosynthesis?",
+                        "goodAnswer": "The rate-limiting step in cholesterol biosynthesis is catalyzed by HMG-CoA reductase, which converts HMG-CoA to mevalonate, and its activity is feedback-inhibited by cholesterol and statin drugs.",
+                        "wrongAnswer_1": "The rate-limiting step in cholesterol biosynthesis is catalyzed by ACAT, which converts cholesterol to cholesteryl esters, and its activity is feedback-inhibited by fatty acids and fibrate drugs.",
+                        "wrongAnswer_2": "The rate-limiting step in cholesterol biosynthesis is catalyzed by CETP, which transfers cholesteryl esters from HDL to VLDL, and its activity is feedback-inhibited by triglycerides and niacin drugs.",
+                        "wrongAnswer_3": "The rate-limiting step in cholesterol biosynthesis is catalyzed by LCAT, which esterifies cholesterol in HDL, and its activity is feedback-inhibited by phospholipids and ezetimibe drugs.",
+                        "wrongAnswer_4": "The rate-limiting step in cholesterol biosynthesis is catalyzed by SREBP-2, which activates genes involved in cholesterol uptake, and its activity is feedback-inhibited by glucose and bile acid sequestrants."
+                    },
+                    {
+                        "question": "The reverse cholesterol transport (RCT) pathway plays a crucial role in removing excess cholesterol from peripheral tissues and delivering it to the liver for excretion. Which of the following accurately outlines the key steps in RCT?",
+                        "goodAnswer": "RCT involves ABCA1-mediated cholesterol efflux from peripheral cells to nascent HDL -> LCAT esterification of cholesterol in HDL -> CETP-mediated transfer of cholesteryl esters from HDL to VLDL/LDL -> hepatic uptake of cholesterol via SR-BI and LDL receptor.",
+                        "wrongAnswer_1": "RCT involves SR-BI-mediated cholesterol efflux from peripheral cells to nascent VLDL -> ACAT esterification of cholesterol in VLDL -> MTP-mediated transfer of cholesteryl esters from VLDL to LDL -> intestinal uptake of cholesterol via NPC1L1 and LDL receptor.",
+                        "wrongAnswer_2": "RCT involves NPC1L1-mediated cholesterol efflux from peripheral cells to nascent LDL -> HMG-CoA reductase esterification of cholesterol in LDL -> ABCG5/G8-mediated transfer of cholesteryl esters from LDL to HDL -> renal excretion of cholesterol via ABCA1 and SR-BI.",
+                        "wrongAnswer_3": "RCT involves LRP-mediated cholesterol efflux from peripheral cells to nascent chylomicrons -> ApoC-II esterification of cholesterol in chylomicrons -> LPL-mediated transfer of cholesteryl esters from chylomicrons to VLDL -> muscle uptake of cholesterol via LDL receptor and ABCA1.",
+                        "wrongAnswer_4": "RCT involves CETP-mediated cholesterol efflux from peripheral cells to nascent IDL -> ApoB-48 esterification of cholesterol in IDL -> HL-mediated transfer of cholesteryl esters from IDL to HDL -> adipose tissue uptake of cholesterol via SR-BI and NPC1L1."
+                    }
+                ]
+            },
+            {
+                "title": "Lipid lowering drugs",
+                "quizzes": [
+                    {
+                        "question": "Statins are a cornerstone in the pharmacological management of hyperlipidemia and atherosclerosis. What is the primary mechanism of action of statin drugs in lowering LDL cholesterol levels?",
+                        "goodAnswer": "Statins primarily lower LDL cholesterol by inhibiting HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis, leading to decreased intracellular cholesterol and upregulation of LDL receptors.",
+                        "wrongAnswer_1": "Statins primarily lower LDL cholesterol by inhibiting ACAT, the enzyme responsible for cholesterol esterification, leading to increased intracellular free cholesterol and downregulation of LDL receptors.",
+                        "wrongAnswer_2": "Statins primarily lower LDL cholesterol by inhibiting CETP, the protein that transfers cholesteryl esters from HDL to VLDL/LDL, leading to decreased cholesterol transfer and reduced LDL production.",
+                        "wrongAnswer_3": "Statins primarily lower LDL cholesterol by inhibiting LCAT, the enzyme that esterifies cholesterol in HDL, leading to decreased HDL cholesterol and increased LDL catabolism.",
+                        "wrongAnswer_4": "Statins primarily lower LDL cholesterol by inhibiting SREBP-2, the transcription factor that activates genes involved in cholesterol uptake, leading to decreased LDL receptor expression and reduced LDL clearance."
+                    },
+                    {
+                        "question": "Ezetimibe is another class of lipid-lowering drugs used to manage hypercholesterolemia. What is the principal mechanism by which ezetimibe reduces LDL cholesterol levels?",
+                        "goodAnswer": "Ezetimibe reduces LDL cholesterol by inhibiting the NPC1L1 protein in the small intestine, thereby reducing intestinal cholesterol absorption and consequently lowering LDL levels.",
+                        "wrongAnswer_1": "Ezetimibe reduces LDL cholesterol by activating PPAR-alpha in the liver, thereby increasing fatty acid oxidation and consequently lowering VLDL and LDL levels.",
+                        "wrongAnswer_2": "Ezetimibe reduces LDL cholesterol by inhibiting bile acid reabsorption in the ileum, thereby increasing bile acid synthesis from cholesterol and consequently lowering LDL levels.",
+                        "wrongAnswer_3": "Ezetimibe reduces LDL cholesterol by activating LXR in macrophages, thereby promoting cholesterol efflux and reverse cholesterol transport and consequently lowering LDL levels.",
+                        "wrongAnswer_4": "Ezetimibe reduces LDL cholesterol by inhibiting microsomal triglyceride transfer protein (MTP) in the liver, thereby reducing VLDL assembly and secretion and consequently lowering LDL levels."
+                    },
+                    {
+                        "question": "PCSK9 inhibitors represent a newer class of lipid-lowering drugs with significant efficacy in reducing LDL cholesterol. How do PCSK9 inhibitors achieve their LDL-lowering effect?",
+                        "goodAnswer": "PCSK9 inhibitors reduce LDL cholesterol by inhibiting PCSK9, a protein that promotes LDL receptor degradation, leading to increased LDL receptor availability on hepatocytes and enhanced LDL clearance from the circulation.",
+                        "wrongAnswer_1": "PCSK9 inhibitors reduce LDL cholesterol by activating ABCA1, a transporter that mediates cholesterol efflux from cells, leading to increased reverse cholesterol transport and reduced LDL production.",
+                        "wrongAnswer_2": "PCSK9 inhibitors reduce LDL cholesterol by inhibiting CETP, a protein that transfers cholesteryl esters from HDL to LDL, leading to decreased LDL cholesterol and increased HDL cholesterol.",
+                        "wrongAnswer_3": "PCSK9 inhibitors reduce LDL cholesterol by activating LPL, an enzyme that hydrolyzes triglycerides in VLDL and chylomicrons, leading to decreased VLDL and IDL production and reduced LDL formation.",
+                        "wrongAnswer_4": "PCSK9 inhibitors reduce LDL cholesterol by inhibiting MTP, a protein required for VLDL assembly, leading to decreased VLDL secretion and reduced LDL formation from VLDL catabolism."
+                    },
+                    {
+                        "question": "Fibrates are primarily used to treat hypertriglyceridemia. What is the main mechanism through which fibrates lower triglyceride levels and potentially impact other lipid parameters?",
+                        "goodAnswer": "Fibrates primarily lower triglycerides by activating PPAR-alpha, which increases lipoprotein lipase (LPL) expression and fatty acid oxidation, while also modestly increasing HDL and potentially slightly increasing LDL in some individuals.",
+                        "wrongAnswer_1": "Fibrates primarily lower triglycerides by inhibiting HMG-CoA reductase, which decreases cholesterol synthesis, leading to reduced VLDL and LDL production but also significantly decreasing HDL levels.",
+                        "wrongAnswer_2": "Fibrates primarily lower triglycerides by inhibiting NPC1L1, which reduces intestinal cholesterol absorption, leading to decreased chylomicron production and consequently lowering triglyceride and LDL levels.",
+                        "wrongAnswer_3": "Fibrates primarily lower triglycerides by activating LXR, which increases cholesterol efflux and reverse cholesterol transport, leading to reduced triglyceride levels and significantly increased HDL levels.",
+                        "wrongAnswer_4": "Fibrates primarily lower triglycerides by inhibiting PCSK9, which increases LDL receptor expression, leading to enhanced LDL clearance and reduced triglyceride levels indirectly through VLDL catabolism."
+                    }
+                ]
+            },
+            {
+                "title": "Investigational treatments of atherosclerosis and non-drug treatment: LDL apheresis",
+                "quizzes": [
+                    {
+                        "question": "LDL apheresis is a non-pharmacological treatment for severe hypercholesterolemia. Which of the following best describes the principle and application of LDL apheresis?",
+                        "goodAnswer": "LDL apheresis is an extracorporeal blood purification technique that selectively removes LDL particles from the plasma, primarily used in patients with homozygous familial hypercholesterolemia resistant to drug therapy.",
+                        "wrongAnswer_1": "LDL apheresis is an intravenous drug infusion technique that selectively degrades LDL particles in the bloodstream, primarily used in patients with heterozygous familial hypercholesterolemia responding to statin therapy.",
+                        "wrongAnswer_2": "LDL apheresis is an oral medication that selectively inhibits LDL production in the liver, primarily used in patients with polygenic hypercholesterolemia with mild to moderate LDL elevations.",
+                        "wrongAnswer_3": "LDL apheresis is a surgical procedure that selectively removes atherosclerotic plaques from arteries, primarily used in patients with advanced symptomatic atherosclerosis requiring revascularization.",
+                        "wrongAnswer_4": "LDL apheresis is a dietary intervention that selectively reduces LDL absorption from the intestine, primarily used in patients with secondary hypercholesterolemia due to lifestyle factors."
+                    },
+                    {
+                        "question": "Several investigational treatments for atherosclerosis are under development, targeting various pathways involved in disease progression. Which of the following represents a promising therapeutic target currently under investigation for atherosclerosis?",
+                        "goodAnswer": "Inhibition of lipoprotein(a) [Lp(a)] is a promising therapeutic target currently under investigation, aiming to reduce Lp(a) levels, which are genetically determined and associated with increased cardiovascular risk.",
+                        "wrongAnswer_1": "Activation of cholesteryl ester transfer protein (CETP) is a promising therapeutic target currently under investigation, aiming to increase CETP activity to enhance reverse cholesterol transport and reduce LDL levels.",
+                        "wrongAnswer_2": "Inhibition of ATP-binding cassette transporter A1 (ABCA1) is a promising therapeutic target currently under investigation, aiming to reduce ABCA1 activity to decrease cholesterol efflux and promote macrophage cholesterol accumulation.",
+                        "wrongAnswer_3": "Activation of squalene synthase is a promising therapeutic target currently under investigation, aiming to increase squalene synthase activity to enhance cholesterol biosynthesis and reduce LDL receptor expression.",
+                        "wrongAnswer_4": "Inhibition of microsomal triglyceride transfer protein (MTP) is a promising therapeutic target currently under investigation, aiming to reduce MTP activity to increase VLDL secretion and promote hypertriglyceridemia."
+                    },
+                    {
+                        "question": "Gene therapy approaches are being explored as potential treatments for hyperlipidemia and atherosclerosis. Which of the following gene therapy strategies is currently under investigation for lowering LDL cholesterol?",
+                        "goodAnswer": "Gene therapy to enhance LDL receptor expression in the liver is under investigation to increase LDL clearance from the circulation and lower plasma LDL cholesterol levels in patients with familial hypercholesterolemia.",
+                        "wrongAnswer_1": "Gene therapy to inhibit LDL receptor expression in the liver is under investigation to decrease LDL clearance from the circulation and raise plasma LDL cholesterol levels in patients with acquired hypercholesterolemia.",
+                        "wrongAnswer_2": "Gene therapy to enhance PCSK9 expression in the liver is under investigation to increase PCSK9 activity and promote LDL receptor degradation, thereby lowering plasma LDL cholesterol levels.",
+                        "wrongAnswer_3": "Gene therapy to inhibit ABCA1 expression in macrophages is under investigation to decrease ABCA1 activity and reduce cholesterol efflux, thereby lowering plasma LDL cholesterol levels.",
+                        "wrongAnswer_4": "Gene therapy to enhance CETP expression in the liver is under investigation to increase CETP activity and transfer cholesteryl esters from HDL to LDL, thereby lowering plasma HDL cholesterol levels."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

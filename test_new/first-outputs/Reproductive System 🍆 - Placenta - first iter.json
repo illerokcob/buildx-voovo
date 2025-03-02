@@ -1,0 +1,133 @@
+{
+    "mainTopic": {
+        "title": "Placenta",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General facts, Development of the human placenta, Implantation",
+                "quizzes": [
+                    {
+                        "question": "Around which day post-fertilization does the human blastocyst typically initiate the process of implantation into the uterine endometrium, marking the beginning of placental development?",
+                        "goodAnswer": "Implantation typically commences around day 6-7 post-fertilization, initiated by the blastocyst's apposition to the endometrial lining and subsequent invasion by the syncytiotrophoblast.",
+                        "wrongAnswer_1": "Implantation typically commences around day 3-4 post-fertilization, initiated by the morula's adhesion to the endometrial lining and subsequent invasion by the cytotrophoblast.",
+                        "wrongAnswer_2": "Implantation typically commences around day 9-10 post-fertilization, initiated by the hatched blastocyst embedding into the myometrium and subsequent invasion by the syncytiotrophoblast.",
+                        "wrongAnswer_3": "Implantation typically commences around day 12-13 post-fertilization, initiated by the syncytiotrophoblast fully invading the decidua basalis and establishing the placental circulation.",
+                        "wrongAnswer_4": "Implantation typically commences around day 5 post-fertilization, initiated by the blastocyst's hatching from the zona pellucida and adhering to the endometrial surface via the cytotrophoblast."
+                    },
+                    {
+                        "question": "Which specific layer of the uterine endometrium undergoes decidualization during implantation to facilitate blastocyst invasion and placental development, providing essential support and nutrients?",
+                        "goodAnswer": "The stratum functionalis of the uterine endometrium undergoes decidualization, transforming into the decidua and supporting blastocyst implantation by providing a nutrient-rich environment and immune modulation.",
+                        "wrongAnswer_1": "The stratum basalis of the uterine endometrium undergoes decidualization, transforming into the decidua and supporting blastocyst implantation by providing structural support and anchoring the placenta.",
+                        "wrongAnswer_2": "The myometrium of the uterus undergoes decidualization, transforming into the decidua and supporting blastocyst implantation by providing muscular contractions for placental expulsion at birth.",
+                        "wrongAnswer_3": "The perimetrium of the uterus undergoes decidualization, transforming into the decidua and supporting blastocyst implantation by providing a protective outer layer and secreting hormones.",
+                        "wrongAnswer_4": "The stratum functionalis of the uterine endometrium undergoes ciliogenesis, transforming into the decidua and supporting blastocyst implantation by facilitating blastocyst transport and attachment."
+                    },
+                    {
+                        "question": "Following implantation, the extraembryonic mesoderm, derived from the primitive streak, contributes to the formation of which crucial placental structure that facilitates nutrient and gas exchange?",
+                        "goodAnswer": "The extraembryonic mesoderm contributes to the formation of the core of the chorionic villi, which are essential for establishing the fetal-maternal interface for nutrient and gas exchange in the placenta.",
+                        "wrongAnswer_1": "The extraembryonic mesoderm contributes to the formation of the placental septa, which are essential for dividing the placenta into cotyledons and preventing maternal blood mixing with fetal blood.",
+                        "wrongAnswer_2": "The extraembryonic mesoderm contributes to the formation of the syncytiotrophoblast layer, which is essential for invading the endometrium and establishing the maternal circulation in the placenta.",
+                        "wrongAnswer_3": "The extraembryonic mesoderm contributes to the formation of the amniotic membrane, which is essential for enclosing the fetus and providing a protective fluid-filled environment during pregnancy.",
+                        "wrongAnswer_4": "The extraembryonic mesoderm contributes to the formation of the yolk sac, which is essential for early hematopoiesis and providing nutrients to the embryo before placental circulation is established."
+                    }
+                ]
+            },
+            {
+                "title": "Immature Chorionic Villi, Trophectoderm differentiation, Early trophectoderm differentiation",
+                "quizzes": [
+                    {
+                        "question": "What are the two primary cell layers that the trophectoderm differentiates into after implantation, each playing distinct but interconnected roles in early placental development and function?",
+                        "goodAnswer": "The trophectoderm differentiates into the cytotrophoblast and the syncytiotrophoblast, with the cytotrophoblast acting as a progenitor cell layer and the syncytiotrophoblast mediating maternal-fetal exchange.",
+                        "wrongAnswer_1": "The trophectoderm differentiates into the syncytiotrophoblast and the extraembryonic mesoderm, with the syncytiotrophoblast forming the chorionic villi and the extraembryonic mesoderm invading the endometrium.",
+                        "wrongAnswer_2": "The trophectoderm differentiates into the cytotrophoblast and the amnioblast, with the cytotrophoblast invading the endometrium and the amnioblast forming the amniotic cavity.",
+                        "wrongAnswer_3": "The trophectoderm differentiates into the syncytiotrophoblast and the epiblast, with the syncytiotrophoblast forming the embryonic disc and the epiblast contributing to the chorionic villi.",
+                        "wrongAnswer_4": "The trophectoderm differentiates into the cytotrophoblast and the trophoblast stem cells, with the cytotrophoblast acting as a migratory cell layer and the trophoblast stem cells differentiating into fetal blood vessels."
+                    },
+                    {
+                        "question": "In early placental villous development, what is the primary cellular composition of immature intermediate villi, characterized by their structure and function in nutrient acquisition?",
+                        "goodAnswer": "Immature intermediate villi are primarily composed of a cytotrophoblast core covered by a syncytiotrophoblast layer, facilitating initial nutrient uptake and anchoring the developing placenta.",
+                        "wrongAnswer_1": "Immature intermediate villi are primarily composed of a syncytiotrophoblast core covered by a cytotrophoblast layer, facilitating hormone production and preventing maternal immune rejection.",
+                        "wrongAnswer_2": "Immature intermediate villi are primarily composed of fetal capillaries surrounded by a syncytiotrophoblast layer, facilitating direct blood exchange between mother and fetus.",
+                        "wrongAnswer_3": "Immature intermediate villi are primarily composed of Hofbauer cells embedded within a cytotrophoblast layer, facilitating immune surveillance and protecting against pathogens.",
+                        "wrongAnswer_4": "Immature intermediate villi are primarily composed of extraembryonic mesoderm covered by an amniotic membrane, facilitating waste removal and maintaining hydrostatic pressure within the placenta."
+                    },
+                    {
+                        "question": "During the early stages of trophectoderm differentiation, which signaling pathway is critically involved in regulating the formation of the syncytiotrophoblast and its invasive properties essential for implantation?",
+                        "goodAnswer": "The fusion of cytotrophoblasts to form the syncytiotrophoblast is regulated by signaling pathways including the MAPK/ERK pathway and transcription factors like GCM1, crucial for invasive properties.",
+                        "wrongAnswer_1": "The differentiation of cytotrophoblasts into syncytiotrophoblast is regulated by signaling pathways including the Wnt/\u03b2-catenin pathway and transcription factors like OCT4, crucial for pluripotency maintenance.",
+                        "wrongAnswer_2": "The proliferation of cytotrophoblasts and formation of the syncytiotrophoblast is regulated by signaling pathways including the Hedgehog pathway and transcription factors like NANOG, crucial for cell cycle progression.",
+                        "wrongAnswer_3": "The apoptosis of cytotrophoblasts and subsequent syncytiotrophoblast formation is regulated by signaling pathways including the TGF-\u03b2 pathway and transcription factors like SOX2, crucial for programmed cell death.",
+                        "wrongAnswer_4": "The migration of cytotrophoblasts and differentiation into syncytiotrophoblast is regulated by signaling pathways including the Notch pathway and transcription factors like KLF4, crucial for cell fate determination."
+                    }
+                ]
+            },
+            {
+                "title": "Branching, Vasculogenesis",
+                "quizzes": [
+                    {
+                        "question": "What is the principal mechanism driving the extensive branching morphogenesis of placental villi, which is essential for increasing the surface area for maternal-fetal exchange?",
+                        "goodAnswer": "Branching morphogenesis of placental villi is primarily driven by cytotrophoblast proliferation and invasion, coupled with extracellular matrix remodeling, to expand the surface area for exchange.",
+                        "wrongAnswer_1": "Branching morphogenesis of placental villi is primarily driven by syncytiotrophoblast fusion and expansion, coupled with apoptosis of cytotrophoblast cells, to thin the placental barrier.",
+                        "wrongAnswer_2": "Branching morphogenesis of placental villi is primarily driven by fetal blood vessel angiogenesis and expansion, coupled with Hofbauer cell recruitment, to increase blood flow to the placenta.",
+                        "wrongAnswer_3": "Branching morphogenesis of placental villi is primarily driven by decidual cell differentiation and secretion, coupled with maternal spiral artery remodeling, to enhance maternal blood supply.",
+                        "wrongAnswer_4": "Branching morphogenesis of placental villi is primarily driven by amniotic membrane expansion and folding, coupled with yolk sac regression, to create a larger space for fetal growth."
+                    },
+                    {
+                        "question": "During placental vasculogenesis, which cells are the primary source of endothelial progenitors that differentiate and assemble to form the initial fetal blood vessels within the chorionic villi?",
+                        "goodAnswer": "Mesenchymal cells within the extraembryonic mesoderm of the chorionic villi differentiate into angioblasts, the endothelial progenitors that initiate vasculogenesis in the placenta.",
+                        "wrongAnswer_1": "Cytotrophoblast cells within the chorionic villi differentiate into angioblasts, the endothelial progenitors that initiate vasculogenesis and contribute to the syncytiotrophoblast layer.",
+                        "wrongAnswer_2": "Syncytiotrophoblast cells within the chorionic villi differentiate into angioblasts, the endothelial progenitors that initiate vasculogenesis and facilitate maternal blood flow into the intervillous space.",
+                        "wrongAnswer_3": "Hofbauer cells within the chorionic villi differentiate into angioblasts, the endothelial progenitors that initiate vasculogenesis and provide immune protection to the developing fetal vessels.",
+                        "wrongAnswer_4": "Decidual cells migrating into the chorionic villi differentiate into angioblasts, the endothelial progenitors that initiate vasculogenesis and establish the maternal-fetal circulatory connection."
+                    },
+                    {
+                        "question": "Which growth factor family plays a crucial role in stimulating angiogenesis and vasculogenesis within the developing placenta, promoting the formation and maturation of fetal blood vessels?",
+                        "goodAnswer": "The Vascular Endothelial Growth Factor (VEGF) family is critical for placental angiogenesis and vasculogenesis, promoting endothelial cell proliferation, migration, and vessel formation within villi.",
+                        "wrongAnswer_1": "The Fibroblast Growth Factor (FGF) family is critical for placental angiogenesis and vasculogenesis, promoting fibroblast proliferation, extracellular matrix deposition, and villous branching.",
+                        "wrongAnswer_2": "The Transforming Growth Factor beta (TGF-\u03b2) family is critical for placental angiogenesis and vasculogenesis, promoting trophoblast differentiation, immune modulation, and spiral artery remodeling.",
+                        "wrongAnswer_3": "The Epidermal Growth Factor (EGF) family is critical for placental angiogenesis and vasculogenesis, promoting cytotrophoblast invasion, syncytiotrophoblast fusion, and hormone production.",
+                        "wrongAnswer_4": "The Platelet-Derived Growth Factor (PDGF) family is critical for placental angiogenesis and vasculogenesis, promoting pericyte recruitment, smooth muscle cell differentiation, and vessel stabilization."
+                    }
+                ]
+            },
+            {
+                "title": "Immunobiology of pregnancy, Complement, Role of HLA-G, Adhesion molecules",
+                "quizzes": [
+                    {
+                        "question": "During pregnancy, the maternal immune system exhibits tolerance towards the semi-allogeneic fetus. Which primary mechanism contributes to this maternal tolerance, preventing rejection of the fetus?",
+                        "goodAnswer": "Maternal tolerance to the fetus is primarily mediated by immune suppression and modulation at the maternal-fetal interface, involving regulatory T cells, altered cytokine profiles, and HLA-G expression.",
+                        "wrongAnswer_1": "Maternal tolerance to the fetus is primarily mediated by complete immune ignorance of the fetus, due to the placenta acting as an absolute barrier preventing any fetal-maternal immune interaction.",
+                        "wrongAnswer_2": "Maternal tolerance to the fetus is primarily mediated by clonal deletion of maternal T cells reactive to fetal antigens in the thymus before pregnancy establishment.",
+                        "wrongAnswer_3": "Maternal tolerance to the fetus is primarily mediated by antibody-mediated enhancement, where maternal antibodies against fetal antigens block cellular immune responses.",
+                        "wrongAnswer_4": "Maternal tolerance to the fetus is primarily mediated by active immune stimulation, where fetal antigens induce a strong TH1 immune response in the mother, promoting placental development."
+                    },
+                    {
+                        "question": "How is the complement system, a component of innate immunity, regulated at the maternal-fetal interface to prevent excessive inflammation and damage while still providing defense against pathogens?",
+                        "goodAnswer": "Complement activation at the maternal-fetal interface is tightly regulated by complement regulatory proteins like CD46 and DAF, expressed on trophoblast cells, limiting excessive inflammatory responses.",
+                        "wrongAnswer_1": "Complement activation at the maternal-fetal interface is completely suppressed by the absence of complement proteins in the decidua and placenta, preventing any immune reactions.",
+                        "wrongAnswer_2": "Complement activation at the maternal-fetal interface is enhanced by maternal antibodies crossing the placenta, promoting opsonization and phagocytosis of fetal cells.",
+                        "wrongAnswer_3": "Complement activation at the maternal-fetal interface is unregulated, leading to chronic inflammation and tissue damage, which is a normal part of placental development.",
+                        "wrongAnswer_4": "Complement activation at the maternal-fetal interface is primarily mediated by fetal complement proteins, which attack maternal tissues and establish fetal dominance in the uterus."
+                    },
+                    {
+                        "question": "HLA-G, a non-classical MHC class I molecule, plays a crucial role in maternal-fetal tolerance. What is its primary function in modulating the maternal immune response at the placental interface?",
+                        "goodAnswer": "HLA-G primarily functions to inhibit maternal NK cell and T cell cytotoxicity at the placental interface, preventing immune attack on trophoblast cells and promoting maternal tolerance.",
+                        "wrongAnswer_1": "HLA-G primarily functions to activate maternal NK cells and T cells at the placental interface, enhancing immune surveillance and eliminating infected trophoblast cells.",
+                        "wrongAnswer_2": "HLA-G primarily functions to present fetal antigens to maternal T cells at the placental interface, inducing a strong TH1 immune response and promoting placental vascularization.",
+                        "wrongAnswer_3": "HLA-G primarily functions to promote complement activation at the placental interface, enhancing opsonization and phagocytosis of pathogens and facilitating placental clearance.",
+                        "wrongAnswer_4": "HLA-G primarily functions to block adhesion molecule expression on trophoblast cells at the placental interface, preventing maternal immune cell infiltration and promoting immune ignorance."
+                    },
+                    {
+                        "question": "Adhesion molecules are critical for cell-cell and cell-extracellular matrix interactions at the maternal-fetal interface. Which class of adhesion molecules is particularly important for trophoblast invasion and placental development?",
+                        "goodAnswer": "Integrins are crucial adhesion molecules for trophoblast invasion and placental development, mediating trophoblast attachment to the extracellular matrix and facilitating migration through the decidua.",
+                        "wrongAnswer_1": "Selectins are crucial adhesion molecules for trophoblast invasion and placental development, mediating initial rolling and tethering of trophoblast cells to maternal endothelial cells.",
+                        "wrongAnswer_2": "Cadherins are crucial adhesion molecules for trophoblast invasion and placental development, mediating homotypic cell-cell adhesion between trophoblast cells and forming tight junctions.",
+                        "wrongAnswer_3": "Immunoglobulin superfamily adhesion molecules (IgCAMs) are crucial adhesion molecules for trophoblast invasion and placental development, mediating leukocyte adhesion and immune cell trafficking to the placenta.",
+                        "wrongAnswer_4": "Mucin-like adhesion molecules are crucial adhesion molecules for trophoblast invasion and placental development, providing a protective glycocalyx layer on trophoblast cells and preventing maternal immune cell adhesion."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

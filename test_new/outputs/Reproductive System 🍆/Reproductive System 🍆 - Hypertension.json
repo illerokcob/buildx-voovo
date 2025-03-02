@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Hypertension",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Classification",
+                "quizzes": [
+                    {
+                        "question": "According to established diagnostic guidelines for hypertensive disorders in pregnancy, which classification is precisely characterized by the emergence of new-onset hypertension accompanied by new-onset proteinuria, specifically at or after 20 weeks of gestation in individuals with previously normal blood pressure?",
+                        "goodAnswer": "Preeclampsia is precisely defined by the co-occurrence of new-onset hypertension and new-onset proteinuria at or beyond 20 weeks of gestation in a woman previously normotensive, and may also manifest with end-organ dysfunction.",
+                        "wrongAnswer_1": "Gestational hypertension is strictly defined by new-onset hypertension without the presence of proteinuria at or beyond 20 weeks of gestation in a woman with prior normotension, and is distinguished by its potential resolution within 12 weeks postpartum.",
+                        "wrongAnswer_2": "Chronic hypertension is clinically identified by hypertension evident prior to pregnancy or diagnosed before 20 weeks of gestation, frequently associated with pre-existing proteinuria and necessitating ongoing antihypertensive management post-delivery.",
+                        "wrongAnswer_3": "Eclampsia is accurately characterized by new-onset hypertension and new-onset proteinuria at or beyond 20 weeks of gestation in a woman previously normotensive, uniquely complicated by the occurrence of seizures or unexplained coma.",
+                        "wrongAnswer_4": "Superimposed preeclampsia on chronic hypertension is clinically defined by the exacerbation of pre-existing hypertension and the subsequent development of proteinuria in a woman with documented chronic hypertension, typically presenting prior to 20 weeks of gestation."
+                    },
+                    {
+                        "question": "Discriminate between gestational hypertension and preeclampsia based on their distinct clinical presentations and established diagnostic criteria pertinent to hypertensive disorders during pregnancy.",
+                        "goodAnswer": "Gestational hypertension is clinically distinguished by new-onset hypertension at or beyond 20 weeks gestation without proteinuria, whereas preeclampsia is characterized by new-onset hypertension and proteinuria at or beyond 20 weeks gestation, potentially accompanied by end-organ damage.",
+                        "wrongAnswer_1": "Gestational hypertension is characterized by hypertension manifesting before 20 weeks gestation along with proteinuria, conversely, preeclampsia is clinically marked by hypertension arising after 20 weeks gestation without proteinuria but with the presence of notable edema.",
+                        "wrongAnswer_2": "Gestational hypertension inherently involves pre-existing hypertension with superimposed proteinuria, while preeclampsia is precisely defined by hypertension developing after 20 weeks gestation, absent of proteinuria yet accompanied by significant thrombocytopenia.",
+                        "wrongAnswer_3": "Gestational hypertension typically presents with both hypertension and proteinuria before the 20th week of gestation, in contrast, preeclampsia manifests with hypertension alone after 20 weeks gestation and is expected to resolve spontaneously postpartum.",
+                        "wrongAnswer_4": "Gestational hypertension is diagnostically confirmed by hypertension after 20 weeks gestation that resolves before delivery, conversely, preeclampsia is characterized by hypertension before 20 weeks gestation and persistent proteinuria even in the postpartum period."
+                    },
+                    {
+                        "question": "Identify the pivotal differentiating factor that clinically distinguishes chronic hypertension from gestational hypertension when evaluating pregnant women for hypertensive disorders.",
+                        "goodAnswer": "Chronic hypertension is definitively diagnosed if hypertension is known to precede pregnancy or is initially detected prior to 20 weeks of gestation, in contrast, gestational hypertension is diagnosed upon its first detection after 20 weeks of gestation.",
+                        "wrongAnswer_1": "Chronic hypertension is clinically identified by the presence of proteinuria in conjunction with hypertension after 20 weeks of gestation, whereas gestational hypertension is diagnosed by hypertension alone but before 20 weeks of gestation.",
+                        "wrongAnswer_2": "Chronic hypertension is indicated by hypertension that resolves spontaneously within 6 weeks postpartum, while gestational hypertension is characterized by hypertension that persistently continues beyond 12 weeks postpartum.",
+                        "wrongAnswer_3": "Chronic hypertension is diagnostically based on diastolic blood pressure readings exceeding 110 mmHg consistently, whereas gestational hypertension is diagnosed when systolic blood pressure reaches a threshold of 160 mmHg or higher.",
+                        "wrongAnswer_4": "Chronic hypertension is clinically defined by hypertension specifically associated with fetal growth restriction, while gestational hypertension is associated with maternal end-organ dysfunction but with typically normal fetal growth parameters."
+                    }
+                ]
+            },
+            {
+                "title": "Preeclampsia",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental pathophysiological mechanism that underlies the development of preeclampsia, specifically considering the crucial role of placental factors and subsequent systemic maternal effects?",
+                        "goodAnswer": "Preeclampsia is fundamentally attributed to abnormal placentation initiating placental ischemia, which subsequently leads to the release of various factors into the maternal circulation, culminating in systemic endothelial dysfunction and widespread vasospasm.",
+                        "wrongAnswer_1": "Preeclampsia is primarily initiated by maternal hyperlipidemia causing arterial plaque formation, which obstructs placental blood flow and consequently induces both hypertension and proteinuria due to resulting renal ischemia.",
+                        "wrongAnswer_2": "Preeclampsia is fundamentally caused by autoimmune antibodies selectively targeting the glomerular structures, resulting in significant renal damage and proteinuria, subsequently leading to the development of hypertension and placental insufficiency.",
+                        "wrongAnswer_3": "Preeclampsia is primarily initiated by a physiological increase in maternal cardiac output and blood volume, directly leading to hypertension and increased glomerular filtration, ultimately resulting in proteinuria and placental hyperperfusion.",
+                        "wrongAnswer_4": "Preeclampsia is fundamentally caused by maternal hypercoagulability promoting thrombus formation within placental vessels, causing placental infarction and the release of inflammatory mediators that induce both hypertension and edema systemically."
+                    },
+                    {
+                        "question": "Which of the following maternal systemic manifestations is most directly and causally linked to the endothelial dysfunction that is pathognomonic of preeclampsia in pregnant women?",
+                        "goodAnswer": "Systemic endothelial dysfunction in preeclampsia directly leads to generalized vasospasm, increased vascular permeability, and activation of the coagulation cascade, clinically manifesting as hypertension, proteinuria, and edema in affected mothers.",
+                        "wrongAnswer_1": "Endothelial dysfunction in preeclampsia primarily affects the renal tubules, impairing sodium reabsorption and consequently causing hyponatremia, which directly contributes to the hypertension and peripheral vasodilation observed clinically.",
+                        "wrongAnswer_2": "Endothelial dysfunction in preeclampsia predominantly targets the hepatic sinusoids, leading to significant liver enzyme elevation and impaired hepatic protein synthesis, clinically resulting in hypoalbuminemia and the development of ascites.",
+                        "wrongAnswer_3": "Endothelial dysfunction in preeclampsia mainly impacts the pulmonary vasculature, causing increased pulmonary capillary wedge pressure and pulmonary edema, clinically leading to symptoms of dyspnea and hypoxemia in pregnant patients.",
+                        "wrongAnswer_4": "Endothelial dysfunction in preeclampsia primarily affects the cerebral vasculature, causing a significant increase in cerebral blood flow and vasodilation, clinically resulting in manifestations such as severe headaches, visual disturbances, and seizures."
+                    },
+                    {
+                        "question": "Identify the critical placental pathological finding that is consistently considered a definitive hallmark of preeclampsia and is fundamentally crucial in understanding its pathogenesis during pregnancy.",
+                        "goodAnswer": "Incomplete or shallow trophoblastic invasion of the maternal spiral arteries, resulting in the failure of physiological conversion from small resistance vessels to large capacitance vessels, is definitively recognized as a hallmark placental pathology in preeclampsia.",
+                        "wrongAnswer_1": "Excessive trophoblastic invasion extending into the decidua basalis, leading to deep penetration into the myometrium and clinically manifesting as placental accreta, increta, or percreta, is considered a hallmark placental pathology in preeclampsia.",
+                        "wrongAnswer_2": "Premature separation of the placenta from the uterine wall, resulting in placental abruption and subsequent maternal hemorrhage and acute fetal distress, is definitively recognized as a hallmark placental pathology in preeclampsia.",
+                        "wrongAnswer_3": "Villitis of unknown etiology, characterized by chronic inflammatory lesions within the placental villi and clinically associated with fetal growth restriction, is consistently considered a hallmark placental pathology in preeclampsia.",
+                        "wrongAnswer_4": "Placental chorioangiomas, benign vascular tumors of the placenta that can clinically cause fetal thrombocytopenia and polyhydramnios, are definitively recognized as a hallmark placental pathology in preeclampsia."
+                    }
+                ]
+            },
+            {
+                "title": "Blood pressure measurement",
+                "quizzes": [
+                    {
+                        "question": "What is the precisely recommended patient position and arm preparation protocol for ensuring accurate office blood pressure measurement in pregnant women, specifically for effective hypertension screening?",
+                        "goodAnswer": "Patient positioning should be seated with back supported, feet flat on the floor, and arm supported at heart level, following a rest period of at least 5 minutes, with an appropriately sized cuff correctly placed on the upper arm for measurement.",
+                        "wrongAnswer_1": "Patient positioning should be supine with legs elevated and arm unsupported above heart level, requiring only minimal rest prior, with a standard adult cuff placed on the forearm for the blood pressure measurement procedure.",
+                        "wrongAnswer_2": "Patient positioning should be standing with arm hanging freely, ideally after recent physical activity, utilizing a large adult cuff positioned on the thigh for the comprehensive blood pressure assessment protocol.",
+                        "wrongAnswer_3": "Patient positioning should be in the left lateral decubitus position with arm flexed at the elbow, preferably after consuming a heavy meal, and employing a pediatric cuff used on the wrist for blood pressure monitoring purposes.",
+                        "wrongAnswer_4": "Patient positioning should be in semi-Fowler's position with legs crossed and arm supported below heart level, commencing immediately upon room entry, and using an extra-large cuff placed on the lower arm for measurement."
+                    },
+                    {
+                        "question": "When employing an automated blood pressure device in a clinical setting for pregnant patients, what is a critically important procedural step to rigorously ensure measurement accuracy and effectively minimize potential errors?",
+                        "goodAnswer": "Ensure meticulous selection of an appropriately sized cuff for the patient's arm circumference, precise positioning of the cuff on the upper arm at heart level, and obtaining multiple readings, subsequently averaging the last two for enhanced accuracy.",
+                        "wrongAnswer_1": "Utilize a standard adult cuff size irrespective of patient arm circumference, position the cuff loosely on the forearm below heart level, and acquire a single reading immediately following cuff application for procedural simplicity.",
+                        "wrongAnswer_2": "Apply the cuff directly over clothing on either arm without considering heart level positioning, routinely use a pediatric cuff size for all pregnant patients, and document the initial reading obtained as the definitive blood pressure value.",
+                        "wrongAnswer_3": "Rapidly inflate the cuff to a predetermined high pressure without considering the patient's systolic pressure range, position the cuff on the wrist above heart level, and selectively discard any readings exceeding 140/90 mmHg as outliers.",
+                        "wrongAnswer_4": "Employ an extra-large cuff size universally for all pregnant patients, position the cuff on the thigh well below heart level, and perform blood pressure readings immediately following patient exertion or periods of significant stress."
+                    },
+                    {
+                        "question": "For the purpose of accurate diagnosis and comprehensive management of hypertension during pregnancy, what is the recommended frequency and clinical setting for blood pressure monitoring, extending beyond routine office-based visits?",
+                        "goodAnswer": "Ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) are strongly recommended for obtaining out-of-office measurements to definitively confirm hypertension and rigorously assess blood pressure control efficacy.",
+                        "wrongAnswer_1": "Routine blood pressure measurement exclusively during scheduled monthly prenatal visits within the clinic is generally considered sufficient for diagnosing and managing hypertension throughout the entirety of pregnancy.",
+                        "wrongAnswer_2": "Blood pressure should ideally be measured only within the emergency department setting if overt symptoms of hypertension manifest, negating the necessity for regular outpatient monitoring protocols during pregnancy.",
+                        "wrongAnswer_3": "Continuous intra-arterial blood pressure monitoring is routinely and universally recommended for all pregnant women to proactively detect any hypertensive episodes and effectively guide antihypertensive therapeutic interventions.",
+                        "wrongAnswer_4": "Blood pressure monitoring is specifically indicated solely in pregnant women with pre-existing chronic hypertension and is deemed unnecessary for women exhibiting risk factors solely for gestational hypertension development."
+                    }
+                ]
+            },
+            {
+                "title": "Trophoblastic invasion",
+                "quizzes": [
+                    {
+                        "question": "Elaborate on the physiological process of trophoblastic invasion during normal placentation in the first trimester of pregnancy, specifically emphasizing the characteristic depth and overall extent of invasion into the uterine wall structure.",
+                        "goodAnswer": "Normal trophoblastic invasion physiologically involves extravillous trophoblasts migrating from the developing placenta and actively invading the decidua and the inner third of the myometrium, reaching and subsequently remodeling the spiral arteries.",
+                        "wrongAnswer_1": "Normal trophoblastic invasion typically extends deeply into the full thickness of the myometrium, often reaching the serosa layer and potentially causing uterine rupture complications in the first trimester of pregnancy.",
+                        "wrongAnswer_2": "Normal trophoblastic invasion is inherently limited to the endometrial surface and does not penetrate the decidua or myometrium layers, thereby actively maintaining the structural integrity of the endometrial-myometrial junction.",
+                        "wrongAnswer_3": "Normal trophoblastic invasion predominantly occurs during the third trimester, involving superficial invasion of the decidua without reaching the spiral arteries, ensuring minimal disruption of the maternal circulatory system.",
+                        "wrongAnswer_4": "Normal trophoblastic invasion involves the active migration of cytotrophoblasts into the maternal circulation, forming emboli that travel to distant organs and subsequently establish secondary placental implantation sites systemically."
+                    },
+                    {
+                        "question": "What is the physiological significance of the conversion process of spiral arteries during normal trophoblastic invasion, and precisely how does this vascular transformation beneficially impact the developing fetus?",
+                        "goodAnswer": "Physiological conversion of spiral arteries involves trophoblast-mediated replacement of the musculoelastic media with fibrinoid material, effectively transforming them into low-resistance, high-capacitance vessels, thereby substantially enhancing uteroplacental blood flow.",
+                        "wrongAnswer_1": "Physiological conversion of spiral arteries primarily involves vasoconstriction mediated by factors released from trophoblasts, deliberately reducing blood flow velocity and pressure to protect the delicate placental villi from potential damage.",
+                        "wrongAnswer_2": "Physiological conversion of spiral arteries is characterized by the thickening of the arterial walls through trophoblast deposition of collagenous material, inherently creating high-resistance vessels that limit maternal blood flow to the placenta.",
+                        "wrongAnswer_3": "Physiological conversion of spiral arteries is notably characterized by the development of arteriovenous shunts within the myometrial tissue, actively diverting maternal blood flow preferentially away from the placental intervillous space.",
+                        "wrongAnswer_4": "Physiological conversion of spiral arteries inherently involves the formation of thrombi within the vessel lumens, effectively reducing maternal blood flow to the placenta and concurrently promoting angiogenesis within the placental villous structures."
+                    },
+                    {
+                        "question": "In the context of preeclampsia pathogenesis, how is abnormal trophoblastic invasion implicated, and what are the consequences for uteroplacental circulation and maternal health?",
+                        "goodAnswer": "Abnormal trophoblastic invasion in preeclampsia results in shallow invasion and incomplete conversion of spiral arteries, leading to persistent high-resistance vessels, reduced uteroplacental perfusion, placental ischemia, and release of vasoactive factors causing maternal endothelial dysfunction.",
+                        "wrongAnswer_1": "Abnormal trophoblastic invasion in preeclampsia leads to excessive invasion of the myometrium and over-conversion of spiral arteries into low-resistance vessels, causing placental hyperperfusion and maternal hypertension due to increased cardiac output.",
+                        "wrongAnswer_2": "Abnormal trophoblastic invasion in preeclampsia results in complete absence of trophoblast invasion, preventing any modification of spiral arteries and leading to maternal hypotension and placental hypoplasia.",
+                        "wrongAnswer_3": "Abnormal trophoblastic invasion in preeclampsia causes trophoblast embolization into the maternal pulmonary circulation, leading to pulmonary hypertension and right ventricular failure, but without affecting uteroplacental circulation.",
+                        "wrongAnswer_4": "Abnormal trophoblastic invasion in preeclampsia results in the formation of placental lakes and intervillous thrombi, leading to placental abruption and maternal hemorrhage, but not directly impacting maternal endothelial function."
+                    }
+                ]
+            },
+            {
+                "title": "Treatment",
+                "quizzes": [
+                    {
+                        "question": "What is the primary pharmacological treatment strategy employed for managing severe hypertension in pregnant women diagnosed with preeclampsia, specifically aimed at preventing maternal stroke and other critical complications?",
+                        "goodAnswer": "Intravenous antihypertensive medications, including labetalol, hydralazine, or nifedipine, are therapeutically utilized to rapidly reduce severely elevated blood pressure in preeclampsia cases and effectively prevent acute maternal complications.",
+                        "wrongAnswer_1": "Oral diuretics, such as furosemide, are considered the first-line treatment modality for severe hypertension in preeclampsia, primarily to reduce fluid overload and safely and effectively lower blood pressure levels in affected patients.",
+                        "wrongAnswer_2": "Angiotensin-converting enzyme inhibitors (ACEIs), for instance enalapril, are the preferred initial pharmacological agents for managing severe hypertension in pregnant women specifically diagnosed with preeclampsia.",
+                        "wrongAnswer_3": "Beta-blockers, like atenolol, are strictly contraindicated in the acute management of severe hypertension in preeclampsia due to potential risks of inducing fetal bradycardia and intrauterine growth restriction complications.",
+                        "wrongAnswer_4": "Intramuscular magnesium sulfate is routinely administered as the primary antihypertensive pharmacological agent to rapidly and effectively reduce blood pressure in cases of severe preeclampsia and concurrently prevent seizure activity."
+                    },
+                    {
+                        "question": "Beyond the administration of antihypertensive medications, what constitutes another critical component in the comprehensive management of severe preeclampsia, particularly concerning the prophylactic prevention of eclampsia?",
+                        "goodAnswer": "Magnesium sulfate is administered intravenously or intramuscularly in severe preeclampsia primarily for seizure prophylaxis to effectively prevent the onset of eclampsia, rather than as a primary pharmacological agent for antihypertensive management.",
+                        "wrongAnswer_1": "Fluid restriction and dietary sodium restriction are considered the cornerstone of treatment for severe preeclampsia, primarily aimed at reducing edema and preventing the clinical progression towards eclampsia in affected mothers.",
+                        "wrongAnswer_2": "Corticosteroids, such as dexamethasone, are routinely administered in cases of severe preeclampsia to accelerate fetal lung maturation and simultaneously provide prophylactic prevention against maternal seizures in these high-risk pregnancies.",
+                        "wrongAnswer_3": "Anticoagulants, including heparin or enoxaparin, are therapeutically used in severe preeclampsia cases to prevent disseminated intravascular coagulation (DIC) and thereby effectively reduce the overall risk of developing eclampsia.",
+                        "wrongAnswer_4": "Potassium supplementation is deemed essential in the comprehensive management of severe preeclampsia to counteract diuretic-induced hypokalemia and prevent potential complications like muscle weakness and cardiac arrhythmias in pregnant patients."
+                    },
+                    {
+                        "question": "Outline the definitive treatment strategy for both preeclampsia and eclampsia, meticulously considering both maternal and fetal well-being and the critical factors influencing the optimal timing of medical intervention.",
+                        "goodAnswer": "Delivery of the placenta is recognized as the definitive treatment for preeclampsia and eclampsia; the precise timing of delivery is contingent upon gestational age, disease severity, and fetal status, carefully balancing prematurity risks against ongoing maternal health risks associated with pregnancy continuation.",
+                        "wrongAnswer_1": "Long-term antihypertensive medication therapy and strict bed rest are considered the definitive treatments for preeclampsia, allowing the pregnancy to continue to full term and effectively minimizing both maternal and fetal health risks throughout gestation.",
+                        "wrongAnswer_2": "Maternal plasma exchange and intravenous immunoglobulin (IVIG) therapy are recognized as definitive treatments for preeclampsia, effectively reversing endothelial dysfunction and allowing for the safe continuation of pregnancy to term.",
+                        "wrongAnswer_3": "Fetal blood transfusion and comprehensive intrauterine growth restriction management strategies are considered the definitive treatments for preeclampsia, primarily focusing on improving fetal outcomes while simultaneously continuing the ongoing pregnancy.",
+                        "wrongAnswer_4": "Maternal renal dialysis and hepatic support interventions are recognized as definitive treatments for preeclampsia, directly addressing end-organ dysfunction and effectively enabling pregnancy continuation until fetal maturity is achieved."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

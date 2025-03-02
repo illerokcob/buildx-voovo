@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Fibroids",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "General characteristics",
+                "quizzes": [
+                    {
+                        "question": "Uterine fibroids, medically termed leiomyomas or myomas, are characterized by which of the following pathological descriptions regarding their cellular origin and neoplastic behavior?",
+                        "goodAnswer": "Leiomyomas are benign neoplasms originating from the smooth muscle cells of the myometrium, representing the most common solid pelvic tumors in women of reproductive age.",
+                        "wrongAnswer_1": "Leiomyomas are malignant neoplasms arising from the endometrial glands, representing a rare form of uterine cancer in postmenopausal women.",
+                        "wrongAnswer_2": "Myomas are benign neoplasms originating from the connective tissue stroma of the endometrium, representing a common cause of infertility in women of reproductive age.",
+                        "wrongAnswer_3": "Fibroids are premalignant lesions originating from the glandular epithelium of the cervix, frequently progressing to cervical carcinoma in women over 50.",
+                        "wrongAnswer_4": "Myomas are malignant tumors originating from the striated muscle fibers of the myometrium, representing an aggressive form of uterine sarcoma in young women."
+                    },
+                    {
+                        "question": "The growth and development of uterine fibroids are significantly influenced by hormonal factors. Identify the primary hormonal milieu that promotes the proliferation and maintenance of leiomyoma tissue within the uterus.",
+                        "goodAnswer": "Estrogen and progesterone are the primary steroid hormones that stimulate the growth of uterine fibroids by promoting cell proliferation and extracellular matrix deposition within the myometrium.",
+                        "wrongAnswer_1": "Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) are the main pituitary hormones that directly induce fibroid growth through direct receptor activation on leiomyoma cells.",
+                        "wrongAnswer_2": "Prolactin and oxytocin are the key peptide hormones that indirectly contribute to fibroid enlargement by increasing uterine blood flow and nutrient supply to the tumor.",
+                        "wrongAnswer_3": "Testosterone and dihydrotestosterone (DHT) are the principal androgens that drive fibroid development by converting to estrogen within the leiomyoma tissue, promoting local growth.",
+                        "wrongAnswer_4": "Cortisol and adrenaline are the stress hormones that indirectly influence fibroid size by altering the immune response and inflammatory environment within the uterine cavity."
+                    },
+                    {
+                        "question": "Considering the epidemiological characteristics and clinical behavior of uterine fibroids, which statement accurately reflects their prevalence and typical clinical course in women?",
+                        "goodAnswer": "Uterine fibroids are highly prevalent benign tumors, affecting a significant proportion of women of reproductive age and often remaining asymptomatic or causing mild symptoms throughout their course.",
+                        "wrongAnswer_1": "Uterine fibroids are rare benign tumors, affecting less than 5% of women and typically presenting with severe symptoms requiring immediate surgical intervention in most cases.",
+                        "wrongAnswer_2": "Uterine fibroids are common premalignant lesions, affecting up to 50% of women and frequently progressing to uterine cancer if left untreated during reproductive years.",
+                        "wrongAnswer_3": "Uterine fibroids are infrequent malignant tumors, primarily affecting postmenopausal women and characterized by rapid growth and widespread metastasis in the majority of diagnosed cases.",
+                        "wrongAnswer_4": "Uterine fibroids are relatively common benign tumors, predominantly affecting women over 60 years of age and typically associated with significant pain and bleeding requiring long-term medical management."
+                    }
+                ]
+            },
+            {
+                "title": "Location, Incidence & etiology, development of fibroids",
+                "quizzes": [
+                    {
+                        "question": "Uterine fibroids are classified based on their anatomical location within the uterine structure. Which of the following descriptions accurately differentiates the various types of fibroid locations within the uterus?",
+                        "goodAnswer": "Fibroids are categorized as intramural when located within the myometrial wall, subserosal when projecting outwards from the uterine surface, submucosal when protruding into the uterine cavity, and cervical when situated in the cervix.",
+                        "wrongAnswer_1": "Fibroids are classified as intramural when located in the endometrium, subserosal when situated within the myometrial wall, submucosal when projecting outwards from the uterine surface, and fundal when located in the uterine fundus.",
+                        "wrongAnswer_2": "Myomas are categorized as intramural when projecting into the uterine cavity, subserosal when located in the cervix, submucosal when situated within the myometrial wall, and serosal when projecting into the broad ligament.",
+                        "wrongAnswer_3": "Leiomyomas are classified as intramural when projecting outwards from the uterine surface, subserosal when protruding into the uterine cavity, submucosal when located within the endometrium, and ovarian when located in the ovaries.",
+                        "wrongAnswer_4": "Fibroids are categorized as intramural when situated in the uterine serosa, subserosal when located in the endometrium, submucosal when projecting outwards into the parametrium, and broad ligament when extending into the broad ligament."
+                    },
+                    {
+                        "question": "Considering the epidemiology of uterine fibroids, which statement best describes the incidence patterns and identified risk factors associated with their development in women?",
+                        "goodAnswer": "The incidence of uterine fibroids is notably high in women of reproductive age, increasing with age until menopause, with a higher prevalence observed in Black women compared to women of other ethnicities.",
+                        "wrongAnswer_1": "The incidence of uterine fibroids is low in women of reproductive age, decreasing with age after menarche, with a lower prevalence reported in Black women compared to women of other ethnicities.",
+                        "wrongAnswer_2": "The incidence of uterine fibroids is moderately high in women in their postmenopausal years, remaining constant throughout life, with no significant racial disparities in prevalence reported.",
+                        "wrongAnswer_3": "The incidence of uterine fibroids is extremely low in women of all ages, only slightly increasing after menopause, with a significantly lower prevalence in Asian women compared to women of other ethnicities.",
+                        "wrongAnswer_4": "The incidence of uterine fibroids is moderately low in adolescent girls and young women, sharply increasing during puberty, with a higher prevalence observed in Caucasian women compared to women of other ethnicities."
+                    },
+                    {
+                        "question": "The etiology of uterine fibroids is considered multifactorial, involving a complex interplay of various biological and environmental influences. Which of the following accurately describes the recognized etiological factors contributing to fibroid development?",
+                        "goodAnswer": "The etiology of fibroids involves genetic predisposition, hormonal influences primarily from estrogen and progesterone, growth factors like TGF-\u03b2, and components of the extracellular matrix, all contributing to their formation and growth.",
+                        "wrongAnswer_1": "The etiology of fibroids is primarily attributed to viral infections, inflammatory processes mediated by cytokines, and autoimmune reactions targeting the myometrial smooth muscle cells.",
+                        "wrongAnswer_2": "The etiology of fibroids is predominantly linked to dietary factors, specifically high fat intake, environmental toxins such as heavy metals, and lifestyle factors like smoking and alcohol consumption.",
+                        "wrongAnswer_3": "The etiology of fibroids is mainly associated with chromosomal abnormalities, genetic mutations in oncogenes and tumor suppressor genes, and epigenetic modifications leading to uncontrolled cell proliferation.",
+                        "wrongAnswer_4": "The etiology of fibroids is solely determined by hormonal imbalances, particularly excessive estrogen production, combined with psychological stress and chronic anxiety leading to uterine smooth muscle hyperplasia."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Ultrasonography is a primary imaging modality for the diagnosis of uterine fibroids. Which of the following statements accurately describes the utility and characteristics of ultrasound in fibroid detection and evaluation?",
+                        "goodAnswer": "Transvaginal and transabdominal ultrasound are valuable for detecting fibroids, assessing their size, number, and location, and monitoring growth over time, utilizing sound waves to create images of the uterine structures.",
+                        "wrongAnswer_1": "Hysterosalpingography (HSG) and intravenous pyelography (IVP) are essential ultrasound techniques for detailed fibroid characterization, specifically for evaluating vascularity and tissue density within the fibroid mass.",
+                        "wrongAnswer_2": "Doppler ultrasound and elastography are specialized ultrasound methods used exclusively for detecting malignant fibroids, differentiating them from benign lesions based on blood flow patterns and tissue stiffness.",
+                        "wrongAnswer_3": "Computed tomography (CT) and positron emission tomography (PET) scans are the preferred ultrasound techniques for visualizing submucosal fibroids within the uterine cavity and assessing their impact on endometrial receptivity.",
+                        "wrongAnswer_4": "3D ultrasound and saline infusion sonohysterography (SIS) are advanced ultrasound methods primarily used to quantify fibroid volume and to guide minimally invasive surgical procedures for fibroid removal."
+                    },
+                    {
+                        "question": "Magnetic Resonance Imaging (MRI) is often employed for further evaluation of uterine fibroids, particularly in complex cases.  What accurately describes the advantages and applications of MRI in the diagnostic workup of fibroids?",
+                        "goodAnswer": "MRI offers superior soft tissue contrast, providing detailed information about fibroid size, number, location, and type, especially useful for differentiating fibroids from adenomyosis and planning surgical or interventional procedures.",
+                        "wrongAnswer_1": "MRI is primarily used for screening asymptomatic women for fibroids due to its high sensitivity and low cost, making it ideal for population-based screening programs and routine gynecological examinations.",
+                        "wrongAnswer_2": "MRI is mainly utilized to assess the vascularity of fibroids by using contrast enhancement, specifically to identify rapidly growing fibroids with increased blood flow suggestive of malignant transformation.",
+                        "wrongAnswer_3": "MRI is the initial imaging modality of choice for diagnosing submucosal fibroids, as it provides the best visualization of the endometrial-myometrial junction and the degree of cavity distortion caused by these lesions.",
+                        "wrongAnswer_4": "MRI is exclusively used for post-treatment follow-up after uterine artery embolization (UAE) to evaluate fibroid infarction and shrinkage, and to detect any recurrence or regrowth of treated fibroids."
+                    },
+                    {
+                        "question": "In the differential diagnosis of uterine fibroids, several other gynecological conditions should be considered. Which of the following conditions is most commonly included in the differential diagnosis of uterine fibroids due to overlapping clinical presentations?",
+                        "goodAnswer": "Adenomyosis, a condition where endometrial glands and stroma are present within the myometrium, is a key differential diagnosis for fibroids, often presenting with similar symptoms like heavy bleeding and pelvic pain.",
+                        "wrongAnswer_1": "Ovarian torsion, an acute condition involving the twisting of the ovary, is a primary differential diagnosis for fibroids, especially when presenting with acute lower abdominal pain and nausea in young women.",
+                        "wrongAnswer_2": "Ectopic pregnancy, a condition where a fertilized egg implants outside the uterus, is a common differential diagnosis for fibroids in women presenting with amenorrhea and a positive pregnancy test.",
+                        "wrongAnswer_3": "Pelvic inflammatory disease (PID), an infection of the female reproductive organs, is a major differential diagnosis for fibroids, particularly when presenting with fever, purulent vaginal discharge, and cervical motion tenderness.",
+                        "wrongAnswer_4": "Endometriosis, a condition where tissue similar to the uterine lining grows outside the uterus, is a rarely considered differential diagnosis for fibroids because endometriosis primarily presents with symptoms of urinary urgency and constipation, unlike fibroids."
+                    }
+                ]
+            },
+            {
+                "title": "Therapy",
+                "quizzes": [
+                    {
+                        "question": "Gonadotropin-releasing hormone (GnRH) agonists are a class of medications used in the medical management of uterine fibroids. Which of the following accurately describes the mechanism of action and clinical application of GnRH agonists in fibroid treatment?",
+                        "goodAnswer": "GnRH agonists induce a temporary hypoestrogenic state by suppressing ovarian estrogen production, leading to fibroid shrinkage and symptom reduction, primarily used for short-term preoperative fibroid volume reduction.",
+                        "wrongAnswer_1": "GnRH agonists directly inhibit fibroid growth by blocking estrogen receptors on leiomyoma cells, resulting in long-term fibroid regression and sustained symptom relief for up to 5 years.",
+                        "wrongAnswer_2": "GnRH agonists stimulate the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH), which in turn promote fibroid necrosis and apoptosis, leading to permanent fibroid eradication after a single treatment course.",
+                        "wrongAnswer_3": "GnRH agonists enhance progesterone production by the ovaries, which competitively inhibits estrogen's action on fibroid tissue, causing gradual fibroid shrinkage and symptom control over several months of continuous use.",
+                        "wrongAnswer_4": "GnRH agonists increase uterine blood flow and nutrient supply to fibroids, paradoxically promoting fibroid growth and symptom exacerbation, therefore used to stimulate fibroid growth prior to surgical removal for better visualization."
+                    },
+                    {
+                        "question": "Uterine Artery Embolization (UAE) is a minimally invasive interventional radiology procedure used for the treatment of uterine fibroids. Which of the following accurately describes the principle and outcomes of UAE in fibroid management?",
+                        "goodAnswer": "UAE involves the selective embolization of uterine arteries, blocking blood supply to fibroids, causing ischemic necrosis and shrinkage, leading to symptom relief and reduced fibroid volume, while preserving the uterus.",
+                        "wrongAnswer_1": "UAE involves the targeted delivery of chemotherapy drugs directly into fibroids via uterine arteries, causing cytotoxic destruction of fibroid tissue and complete fibroid elimination with minimal side effects.",
+                        "wrongAnswer_2": "UAE involves the surgical ligation of uterine arteries, permanently cutting off blood flow to fibroids, resulting in immediate fibroid removal and complete resolution of fibroid-related symptoms.",
+                        "wrongAnswer_3": "UAE involves the injection of sclerosing agents into fibroids under ultrasound guidance, causing fibroid fibrosis and hardening, leading to symptomatic improvement by reducing fibroid compressibility and bulk.",
+                        "wrongAnswer_4": "UAE involves the application of radiofrequency energy to uterine arteries, causing thermal ablation of the arterial walls, leading to permanent cessation of blood flow to fibroids and complete fibroid vaporization."
+                    },
+                    {
+                        "question": "Myomectomy is a surgical procedure aimed at removing uterine fibroids while preserving the uterus. Which of the following accurately differentiates the various surgical approaches to myomectomy and their respective characteristics?",
+                        "goodAnswer": "Myomectomy can be performed hysteroscopically for submucosal fibroids, laparoscopically or robotically for subserosal and intramural fibroids, and abdominally via laparotomy for large or numerous fibroids, each approach varying in invasiveness and recovery time.",
+                        "wrongAnswer_1": "Myomectomy is exclusively performed via laparotomy for all types of fibroids, providing the best visualization and access to the uterus, but associated with the longest recovery period and highest risk of complications.",
+                        "wrongAnswer_2": "Myomectomy is primarily performed hysteroscopically for all fibroid types, regardless of location or size, as it is the least invasive and most effective approach for complete fibroid removal and uterine preservation.",
+                        "wrongAnswer_3": "Myomectomy is mainly performed laparoscopically for submucosal fibroids, hysteroscopically for subserosal fibroids, and abdominally for intramural fibroids, with each approach tailored to the specific fibroid location for optimal outcomes.",
+                        "wrongAnswer_4": "Myomectomy is only performed abdominally via laparotomy for intramural fibroids, while subserosal and submucosal fibroids are treated exclusively with non-surgical methods like UAE or MRgFUS to avoid uterine incision."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "mainTopic": {
+        "title": "Chronic coronary artery disease",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Development of CAD",
+                "quizzes": [
+                    {
+                        "question": "Which of the following sequences accurately depicts the generally accepted stages in the pathogenesis of Coronary Artery Disease (CAD), initiating from endothelial dysfunction and culminating in the formation of a complex atherosclerotic plaque?",
+                        "goodAnswer": "Endothelial dysfunction -> Lipid accumulation and insudation -> Inflammatory response and foam cell formation -> Smooth muscle cell migration and proliferation -> Extracellular matrix deposition and plaque stabilization/complication",
+                        "wrongAnswer_1": "Endothelial dysfunction -> Inflammatory response and foam cell formation -> Smooth muscle cell migration and proliferation -> Lipid accumulation and insudation -> Extracellular matrix deposition and plaque stabilization/complication",
+                        "wrongAnswer_2": "Lipid accumulation and insudation -> Endothelial dysfunction -> Smooth muscle cell migration and proliferation -> Inflammatory response and foam cell formation -> Extracellular matrix deposition and plaque stabilization/complication",
+                        "wrongAnswer_3": "Endothelial dysfunction -> Inflammatory response and foam cell formation -> Lipid accumulation and insudation -> Extracellular matrix deposition and plaque stabilization/complication -> Smooth muscle cell migration and proliferation",
+                        "wrongAnswer_4": "Endothelial dysfunction -> Smooth muscle cell migration and proliferation -> Lipid accumulation and insudation -> Inflammatory response and foam cell formation -> Extracellular matrix deposition and plaque stabilization/complication"
+                    },
+                    {
+                        "question": "In the context of early atherogenesis, what is the primary initiating event that predisposes coronary arteries to the development of atherosclerotic lesions, eventually leading to Coronary Artery Disease (CAD)?",
+                        "goodAnswer": "Endothelial dysfunction, characterized by impaired vasodilation and increased permeability, serves as the critical initial step, allowing for lipoprotein entry and initiating the inflammatory cascade in the arterial wall.",
+                        "wrongAnswer_1": "Smooth muscle cell proliferation in the arterial media is the primary initiating event, causing narrowing of the lumen and predisposing to lipoprotein accumulation and subsequent atherosclerotic lesion formation.",
+                        "wrongAnswer_2": "Lipid accumulation in the arterial intima, particularly LDL cholesterol, is the primary initiating event, directly triggering inflammatory responses and endothelial dysfunction leading to atherogenesis.",
+                        "wrongAnswer_3": "Adventitial inflammation, with infiltration of immune cells, is the primary initiating event, promoting endothelial activation and subsequent lipid accumulation and atherosclerotic plaque development.",
+                        "wrongAnswer_4": "Thrombocyte aggregation and adhesion to the arterial endothelium is the primary initiating event, creating a nidus for lipoprotein deposition and initiating the process of atherosclerotic plaque formation."
+                    },
+                    {
+                        "question": "Which of the following cellular processes is most directly responsible for the 'fatty streak' formation observed in the early stages of atherosclerosis development within the coronary arteries?",
+                        "goodAnswer": "The accumulation of lipid-laden macrophages, known as foam cells, in the subendothelial space is the primary cellular process underlying the formation of fatty streaks, representing the earliest visible lesions of atherosclerosis.",
+                        "wrongAnswer_1": "The proliferation of smooth muscle cells in the intima, leading to increased cellularity and extracellular matrix deposition, is the primary cellular process responsible for the formation of fatty streaks in early atherosclerosis.",
+                        "wrongAnswer_2": "The deposition of extracellular cholesterol crystals within the arterial intima, forming visible aggregates that stain with fat-soluble dyes, is the primary process in fatty streak formation.",
+                        "wrongAnswer_3": "The infiltration of neutrophils into the arterial wall and their subsequent degranulation, releasing enzymes and inflammatory mediators, is the main cellular event causing fatty streak development.",
+                        "wrongAnswer_4": "The migration of dendritic cells into the intima and their presentation of antigens to T lymphocytes, initiating an adaptive immune response, is the key cellular process in fatty streak formation."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical presentations/definitions",
+                "quizzes": [
+                    {
+                        "question": "Which of the following clinical syndromes is characterized by episodic chest discomfort or pain that is typically predictable, reproducible with exertion, and relieved by rest or nitroglycerin, reflecting stable atherosclerotic plaques in coronary arteries?",
+                        "goodAnswer": "Stable angina pectoris is defined by predictable chest pain triggered by exertion or emotional stress, relieved by rest or nitrates, indicating a fixed coronary artery obstruction due to a stable plaque.",
+                        "wrongAnswer_1": "Unstable angina pectoris is characterized by predictable chest pain at rest or minimal exertion, not reliably relieved by nitrates, suggesting a ruptured or eroded plaque with thrombus formation and dynamic obstruction.",
+                        "wrongAnswer_2": "Variant angina (Prinzmetal's angina) is defined by predictable chest pain occurring at rest, often in the early morning hours, relieved by nitrates and calcium channel blockers, due to coronary artery vasospasm without significant plaque.",
+                        "wrongAnswer_3": "Silent myocardial ischemia is characterized by predictable chest discomfort without any perceptible symptoms, only detectable by ECG changes during stress testing, indicating a fixed obstruction without pain.",
+                        "wrongAnswer_4": "Microvascular angina is defined by predictable chest pain that is prolonged, severe and unrelieved by rest or nitrates, associated with small vessel coronary disease and endothelial dysfunction, not large vessel plaques."
+                    },
+                    {
+                        "question": "What clinical entity is best described as a syndrome encompassing acute onset of myocardial ischemia severe enough to cause myocardial necrosis, typically resulting from abrupt reduction in coronary blood flow due to thrombus formation at the site of plaque disruption?",
+                        "goodAnswer": "Acute Myocardial Infarction (AMI) is defined by myocardial necrosis resulting from a sudden and critical reduction in coronary blood flow, usually due to thrombotic occlusion following plaque rupture or erosion.",
+                        "wrongAnswer_1": "Chronic Stable Angina is defined by myocardial necrosis resulting from a gradual and progressive reduction in coronary blood flow due to the slow growth of a stable atherosclerotic plaque.",
+                        "wrongAnswer_2": "Unstable Angina is defined by myocardial necrosis resulting from transient and reversible reduction in coronary blood flow, without permanent myocardial cell death, due to dynamic obstruction.",
+                        "wrongAnswer_3": "Heart Failure with preserved ejection fraction (HFpEF) is defined by myocardial necrosis resulting from diastolic dysfunction and elevated filling pressures, independent of coronary artery obstruction.",
+                        "wrongAnswer_4": "Cardiomyopathy is defined by myocardial necrosis resulting from structural and functional abnormalities of the heart muscle, primarily affecting contractility and independent of acute coronary events."
+                    },
+                    {
+                        "question": "Which of the following best characterizes 'unstable angina' in the spectrum of acute coronary syndromes (ACS)?",
+                        "goodAnswer": "Unstable angina is defined by new onset angina, angina at rest, or increasing angina frequency/intensity, reflecting a vulnerable plaque at risk of rupture or erosion, without detectable myocardial necrosis.",
+                        "wrongAnswer_1": "Unstable angina is defined by prolonged, severe chest pain at rest associated with significant ST-segment elevation on ECG, indicating transmural myocardial ischemia and necrosis.",
+                        "wrongAnswer_2": "Unstable angina is defined by predictable, exertional chest pain relieved by rest or nitrates, reflecting a fixed coronary obstruction due to a stable atherosclerotic plaque.",
+                        "wrongAnswer_3": "Unstable angina is defined by chest pain associated with evidence of myocardial necrosis as indicated by elevated cardiac biomarkers like troponin, signaling myocardial infarction.",
+                        "wrongAnswer_4": "Unstable angina is defined by chest pain occurring only during sleep, often associated with transient ST-segment elevation, due to coronary vasospasm without significant plaque rupture."
+                    }
+                ]
+            },
+            {
+                "title": "Concept of myocardioal oxygen supply and demand",
+                "quizzes": [
+                    {
+                        "question": "Which of the following factors is considered the primary determinant of myocardial oxygen demand (MVO2), reflecting the energy consumption of the heart muscle?",
+                        "goodAnswer": "Heart rate is a major determinant of MVO2 because increased heart rate directly elevates the frequency of cardiac muscle contraction, thereby increasing energy expenditure and oxygen consumption.",
+                        "wrongAnswer_1": "Coronary artery diameter is the primary determinant of MVO2 as a larger diameter facilitates greater blood flow and thus higher oxygen delivery to meet myocardial metabolic needs.",
+                        "wrongAnswer_2": "Systemic blood pressure is the primary determinant of MVO2 because higher blood pressure increases afterload, reducing myocardial work and consequently lowering oxygen demand.",
+                        "wrongAnswer_3": "Myocardial contractility, while influential, is a secondary determinant of MVO2, less impactful than heart rate on the overall oxygen consumption in physiological conditions.",
+                        "wrongAnswer_4": "Blood oxygen saturation level is the primary determinant of MVO2, as higher saturation ensures abundant oxygen supply, directly dictating the myocardial oxygen consumption rate."
+                    },
+                    {
+                        "question": "What is the principal mechanism by which the coronary circulation adapts to increased myocardial oxygen demand during physical exercise to maintain adequate oxygen supply?",
+                        "goodAnswer": "Coronary vasodilation, primarily mediated by local metabolic factors such as adenosine and nitric oxide, is the principal mechanism, increasing coronary blood flow to match elevated myocardial oxygen needs during exercise.",
+                        "wrongAnswer_1": "Coronary vasoconstriction, induced by sympathetic nervous system activation, is the primary mechanism, redirecting blood flow to the myocardium and away from less critical vascular beds during exercise.",
+                        "wrongAnswer_2": "Increased blood viscosity, resulting from hemoconcentration during exercise, is the principal mechanism, enhancing oxygen delivery to the myocardium by improving oxygen carrying capacity of the blood.",
+                        "wrongAnswer_3": "Elevated systemic blood pressure, driven by exercise-induced sympathetic activation, is the primary mechanism, forcing more blood through the coronary arteries to meet increased myocardial demand.",
+                        "wrongAnswer_4": "Decreased heart rate, a physiological response to exercise, is the principal mechanism, reducing myocardial oxygen consumption and thereby balancing oxygen supply and demand during exertion."
+                    },
+                    {
+                        "question": "Which of the following conditions would most significantly reduce myocardial oxygen supply, potentially leading to ischemia, despite normal myocardial oxygen demand?",
+                        "goodAnswer": "Severe coronary artery stenosis, causing a fixed obstruction to blood flow, markedly reduces myocardial oxygen supply, even with normal demand, predisposing to ischemia, especially during increased activity.",
+                        "wrongAnswer_1": "Increased systemic blood pressure, elevating afterload, reduces myocardial oxygen supply because it increases the resistance against which the heart must pump, decreasing coronary perfusion.",
+                        "wrongAnswer_2": "Elevated blood oxygen saturation, while beneficial, reduces myocardial oxygen supply as it decreases the need for coronary blood flow to deliver sufficient oxygen to the myocardium.",
+                        "wrongAnswer_3": "Bradycardia, or a slow heart rate, reduces myocardial oxygen supply because it decreases the frequency of coronary perfusion, as coronary flow primarily occurs during diastole.",
+                        "wrongAnswer_4": "Increased myocardial contractility, although it raises oxygen demand, directly reduces oxygen supply by shortening diastolic filling time and thus reducing coronary blood flow."
+                    }
+                ]
+            },
+            {
+                "title": "Pathophysiology of chronic ischemia syndromes",
+                "quizzes": [
+                    {
+                        "question": "In chronic coronary artery disease leading to stable angina, what is the primary pathophysiological mechanism that causes predictable chest pain upon exertion?",
+                        "goodAnswer": "Fixed coronary artery stenosis from atherosclerotic plaques limits blood flow, causing a mismatch between myocardial oxygen supply and demand during exertion, resulting in predictable angina symptoms.",
+                        "wrongAnswer_1": "Transient coronary artery spasm, superimposed on minor atherosclerotic plaques, causes episodic reductions in blood flow leading to unpredictable angina episodes, not related to exertion.",
+                        "wrongAnswer_2": "Microvascular dysfunction in small coronary vessels leads to impaired vasodilation and reduced myocardial perfusion reserve, resulting in angina primarily at rest and not clearly related to exertion.",
+                        "wrongAnswer_3": "Increased platelet aggregation and thrombus formation on stable plaques cause dynamic obstruction and intermittent angina episodes, particularly during periods of emotional stress and exertion.",
+                        "wrongAnswer_4": "Ventricular hypertrophy secondary to hypertension increases myocardial oxygen demand at rest and during exertion, leading to angina even without significant coronary artery stenosis."
+                    },
+                    {
+                        "question": "Which of the following adaptive responses of the myocardium can partially compensate for chronic, gradually developing coronary artery stenosis in chronic ischemia?",
+                        "goodAnswer": "Development of coronary collateral circulation, involving angiogenesis and arteriogenesis, can provide alternative pathways for blood flow to ischemic regions, partially mitigating the impact of stenosis.",
+                        "wrongAnswer_1": "Myocardial hypertrophy, characterized by an increase in cardiomyocyte size, enhances contractility and oxygen delivery, effectively compensating for reduced coronary blood flow in chronic ischemia.",
+                        "wrongAnswer_2": "Increased myocardial glucose metabolism, shifting away from fatty acid oxidation, reduces oxygen consumption and compensates for chronic ischemia by lowering myocardial oxygen demand.",
+                        "wrongAnswer_3": "Enhanced anaerobic metabolism in cardiomyocytes, producing ATP without oxygen, becomes the primary energy source, allowing the heart to function adequately despite chronic ischemia.",
+                        "wrongAnswer_4": "Reduced myocardial contractility, decreasing the workload of the heart, is an adaptive response that compensates for chronic ischemia by lowering myocardial oxygen demand, improving balance."
+                    },
+                    {
+                        "question": "What is the primary long-term consequence of chronic myocardial ischemia if not adequately managed, potentially leading to impaired cardiac function?",
+                        "goodAnswer": "Progressive myocardial fibrosis and remodeling, resulting from chronic ischemia and repeated ischemic insults, leads to ventricular dysfunction and heart failure over time if ischemia is unaddressed.",
+                        "wrongAnswer_1": "Myocardial hypertrophy and increased ventricular wall thickness, developing in response to chronic ischemia, improve long-term cardiac function by strengthening the heart muscle.",
+                        "wrongAnswer_2": "Coronary artery vasodilation and angiogenesis, stimulated by chronic ischemia, fully restore normal coronary blood flow and prevent long-term cardiac dysfunction in most cases.",
+                        "wrongAnswer_3": "Metabolic adaptation of cardiomyocytes to utilize anaerobic metabolism chronically allows for sustained cardiac function despite persistent myocardial ischemia and reduced oxygen supply.",
+                        "wrongAnswer_4": "Persistent myocardial inflammation and edema, characteristic of chronic ischemia, enhance myocardial contractility and long-term cardiac function by stimulating tissue repair and regeneration."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnosis, Treatment strategies, Prognosis",
+                "quizzes": [
+                    {
+                        "question": "Which non-invasive diagnostic modality is typically considered the initial test of choice for evaluating patients presenting with suspected stable angina to assess for myocardial ischemia?",
+                        "goodAnswer": "Exercise electrocardiography (ECG) stress test is often the initial diagnostic test for stable angina, assessing for ischemic ECG changes during exercise-induced stress to detect flow-limiting coronary stenosis.",
+                        "wrongAnswer_1": "Coronary angiography is the initial diagnostic test for stable angina, directly visualizing coronary arteries to identify and quantify stenoses but is invasive and reserved for higher risk patients initially.",
+                        "wrongAnswer_2": "Cardiac magnetic resonance imaging (MRI) is the initial diagnostic test for stable angina, providing detailed anatomical and functional assessment of the heart and coronary arteries non-invasively.",
+                        "wrongAnswer_3": "Positron emission tomography (PET) myocardial perfusion imaging is the initial diagnostic test for stable angina, offering high sensitivity and specificity for detecting myocardial ischemia and viability.",
+                        "wrongAnswer_4": "Echocardiography is the initial diagnostic test for stable angina, assessing for regional wall motion abnormalities at rest and during stress to detect myocardial ischemia and structural heart disease."
+                    },
+                    {
+                        "question": "In the management of stable angina, which class of medications is considered first-line therapy for symptomatic relief by reducing myocardial oxygen demand?",
+                        "goodAnswer": "Beta-blockers are first-line medications for stable angina, reducing heart rate and contractility, thereby decreasing myocardial oxygen demand and alleviating anginal symptoms during exertion.",
+                        "wrongAnswer_1": "Calcium channel blockers are first-line medications for stable angina, primarily acting by dilating coronary arteries to increase myocardial oxygen supply and reduce angina frequency and severity.",
+                        "wrongAnswer_2": "Nitrates are first-line medications for stable angina, primarily reducing preload and afterload, thereby decreasing myocardial oxygen demand and providing rapid relief of acute angina episodes.",
+                        "wrongAnswer_3": "ACE inhibitors are first-line medications for stable angina, primarily reducing blood pressure and afterload, indirectly decreasing myocardial oxygen demand and preventing cardiovascular events.",
+                        "wrongAnswer_4": "Statins are first-line medications for stable angina, primarily focusing on lipid lowering and plaque stabilization to prevent disease progression and reduce long-term cardiovascular risk, not directly for symptom relief."
+                    },
+                    {
+                        "question": "What is the primary goal of percutaneous coronary intervention (PCI) in patients with stable angina who have failed medical therapy and continue to experience limiting symptoms?",
+                        "goodAnswer": "The primary goal of PCI in stable angina is to relieve symptoms and improve quality of life by mechanically widening the stenotic coronary artery segment, restoring blood flow, and reducing myocardial ischemia.",
+                        "wrongAnswer_1": "The primary goal of PCI in stable angina is to prevent future myocardial infarctions by completely removing atherosclerotic plaques from coronary arteries and eliminating the underlying disease process.",
+                        "wrongAnswer_2": "The primary goal of PCI in stable angina is to improve long-term survival by reversing myocardial fibrosis and remodeling that has occurred due to chronic ischemia and restoring normal ventricular function.",
+                        "wrongAnswer_3": "The primary goal of PCI in stable angina is to reduce the need for long-term medical therapy by permanently resolving coronary artery stenosis and eliminating the requirement for anti-anginal medications.",
+                        "wrongAnswer_4": "The primary goal of PCI in stable angina is to facilitate the development of coronary collateral circulation by creating micro-injuries to the vessel wall and stimulating angiogenesis in the ischemic myocardium."
+                    },
+                    {
+                        "question": "Which of the following factors is most strongly associated with a poorer prognosis in patients diagnosed with chronic coronary artery disease (CAD)?",
+                        "goodAnswer": "Left ventricular dysfunction, indicated by reduced ejection fraction, is a strong predictor of poorer prognosis in chronic CAD, reflecting advanced myocardial damage and increased risk of heart failure and death.",
+                        "wrongAnswer_1": "Presence of stable angina symptoms, while indicative of CAD, is not strongly associated with poorer prognosis compared to asymptomatic CAD or well-managed stable angina with optimal medical therapy.",
+                        "wrongAnswer_2": "Single-vessel coronary artery disease, especially if not involving the left main coronary artery, generally carries a better prognosis than multi-vessel disease or left main disease in chronic CAD.",
+                        "wrongAnswer_3": "Elevated LDL cholesterol levels, while contributing to CAD progression, are less directly predictive of immediate poorer prognosis compared to established myocardial dysfunction in chronic CAD.",
+                        "wrongAnswer_4": "Advanced age at diagnosis, though a risk factor for CAD, is not as strong a predictor of poorer prognosis as the degree of left ventricular dysfunction and overall cardiac function in established CAD."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "mainTopic": {
+        "title": "Vasoactive Drugs for hypertension",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Overview of Hypertension",
+                "quizzes": [
+                    {
+                        "question": "What is the generally accepted clinical definition of hypertension in adults, based on office blood pressure measurements, according to current guidelines?",
+                        "goodAnswer": "Hypertension is clinically defined as a sustained systolic blood pressure (SBP) of 130 mmHg or higher, or a sustained diastolic blood pressure (DBP) of 80 mmHg or higher, measured in a seated position after at least 5 minutes of rest, confirmed on at least two separate occasions.",
+                        "wrongAnswer_1": "Hypertension is clinically defined as a single reading of systolic blood pressure (SBP) of 140 mmHg or higher, or a single reading of diastolic blood pressure (DBP) of 90 mmHg or higher, measured in any position without prior rest, and requiring immediate pharmacological intervention.",
+                        "wrongAnswer_2": "Hypertension is clinically defined as an average systolic blood pressure (SBP) of 120 mmHg or higher, or an average diastolic blood pressure (DBP) of 70 mmHg or higher, based on ambulatory measurements taken during normal daily activities and confirmed within a 24-hour monitoring period.",
+                        "wrongAnswer_3": "Hypertension is clinically defined as a sustained systolic blood pressure (SBP) of 140 mmHg or higher, or a sustained diastolic blood pressure (DBP) of 90 mmHg or higher, measured in a standing position after at least 10 minutes of moderate exercise, and indicative of severe cardiovascular risk.",
+                        "wrongAnswer_4": "Hypertension is clinically defined as a fluctuating systolic blood pressure (SBP) above 130 mmHg during daytime or a diastolic blood pressure (DBP) above 80 mmHg during nighttime, recorded at any time of day regardless of physical activity or rest, based on home blood pressure monitoring."
+                    },
+                    {
+                        "question": "Primary hypertension, also known as essential hypertension, constitutes the vast majority of hypertension cases. Which of the following is considered the LEAST likely initial contributing factor to the development of primary hypertension?",
+                        "goodAnswer": "Rare genetic mutations causing monogenic hypertension syndromes are least likely to be initial contributors to primary hypertension, as primary hypertension is polygenic and multifactorial, involving complex interactions of common genes and environmental factors, unlike these specific genetic disorders.",
+                        "wrongAnswer_1": "Genetic predisposition involving common polymorphisms in genes regulating blood pressure, such as those affecting the renin-angiotensin-aldosterone system, significantly contributes to the heritability and development of primary hypertension across diverse populations.",
+                        "wrongAnswer_2": "Lifestyle factors including chronic excessive alcohol consumption, persistent psychological stress, and diets high in processed foods are major modifiable contributors that exacerbate neurohormonal imbalances and promote primary hypertension development over time.",
+                        "wrongAnswer_3": "Age-related physiological changes such as decreased arterial elasticity, endothelial dysfunction, and increased sympathetic nervous system activity are critical pathophysiological processes that progressively elevate blood pressure in primary hypertension among older adults.",
+                        "wrongAnswer_4": "Environmental factors like chronic exposure to air pollution, persistent noise pollution, and sedentary urban lifestyles are increasingly recognized as significant contributors to the rising global prevalence of primary hypertension, particularly in industrialized nations."
+                    },
+                    {
+                        "question": "Secondary hypertension is characterized by an identifiable underlying cause. Which of the following conditions is a well-established endocrine cause of secondary hypertension due to its impact on sodium and fluid retention and systemic vasoconstriction?",
+                        "goodAnswer": "Primary aldosteronism, characterized by excessive aldosterone production from the adrenal glands, is a well-established endocrine cause of secondary hypertension because aldosterone promotes renal sodium and water retention and increases peripheral vascular resistance, elevating blood pressure.",
+                        "wrongAnswer_1": "Hyperthyroidism, while affecting cardiovascular function by increasing heart rate and contractility, primarily induces systolic hypertension through increased cardiac output and is less directly associated with renal sodium retention typical of secondary hypertension.",
+                        "wrongAnswer_2": "Hypothyroidism, although it can cause diastolic hypertension through increased peripheral vascular resistance, is less commonly associated with significant sodium and water retention compared to conditions like primary aldosteronism in secondary hypertension.",
+                        "wrongAnswer_3": "Cushing's syndrome, characterized by excessive cortisol production, can cause secondary hypertension through multiple mechanisms including increased vascular reactivity and sodium retention, but is less directly mediated by aldosterone-driven sodium and water retention.",
+                        "wrongAnswer_4": "Diabetes insipidus, a condition of ADH deficiency leading to excessive water excretion, is paradoxically associated with hypotension and dehydration, and is not a cause of secondary hypertension related to sodium and water retention or vasoconstriction."
+                    },
+                    {
+                        "question": "Resistant hypertension is defined as blood pressure that remains uncontrolled despite the use of multiple antihypertensive medications. According to guideline definitions, what specific criteria must be met to classify hypertension as resistant, concerning the number and type of antihypertensive agents used?",
+                        "goodAnswer": "Resistant hypertension is clinically defined as uncontrolled blood pressure despite the concurrent and optimal use of three or more antihypertensive medications of different classes, including a diuretic, at maximally tolerated doses, or requiring four or more medications to achieve blood pressure control.",
+                        "wrongAnswer_1": "Resistant hypertension is clinically defined as uncontrolled blood pressure despite the sequential use of three or more antihypertensive medications, regardless of classes or doses, where each medication is tried and then discontinued before starting the next, over a period of six months.",
+                        "wrongAnswer_2": "Resistant hypertension is clinically defined as uncontrolled blood pressure despite the concurrent use of two antihypertensive medications from different classes, neither of which is a diuretic, at maximally tolerated doses, in patients with documented adherence issues.",
+                        "wrongAnswer_3": "Resistant hypertension is clinically defined as uncontrolled blood pressure despite the concurrent use of three antihypertensive medications all from the same pharmacological class but at maximally tolerated doses, with documented lifestyle modification failure.",
+                        "wrongAnswer_4": "Resistant hypertension is clinically defined as uncontrolled blood pressure despite the concurrent use of four or more antihypertensive medications of different classes, where at least two are diuretics, but doses are kept at the lowest recommended levels to minimize side effects."
+                    }
+                ]
+            },
+            {
+                "title": "Pharmacotherapy of hypertension based on the four possible mechanisms of hypertension",
+                "quizzes": [
+                    {
+                        "question": "Considering the renin-angiotensin-aldosterone system (RAAS) as a key mechanism in hypertension, which class of antihypertensive drugs directly inhibits the enzymatic activity responsible for generating angiotensin II from angiotensin I?",
+                        "goodAnswer": "Angiotensin-converting enzyme inhibitors (ACEIs) directly inhibit the catalytic activity of angiotensin-converting enzyme (ACE), preventing the cleavage of angiotensin I into angiotensin II, thereby reducing vasoconstriction and aldosterone release within the RAAS.",
+                        "wrongAnswer_1": "Angiotensin II receptor blockers (ARBs) directly inhibit the enzymatic activity of ACE, thereby blocking the synthesis of angiotensin II and subsequently preventing its binding to AT1 receptors to modulate blood pressure via the RAAS pathway.",
+                        "wrongAnswer_2": "Beta-adrenergic receptor blockers indirectly inhibit the conversion of angiotensin I to angiotensin II by suppressing renin release from juxtaglomerular cells through blockade of beta-1 adrenergic receptors, thus dampening RAAS activation upstream of ACE.",
+                        "wrongAnswer_3": "Calcium channel blockers (CCBs) indirectly inhibit the conversion of angiotensin I to angiotensin II by reducing calcium-dependent renin secretion from the kidneys, leading to decreased angiotensinogen conversion and subsequent modulation of the RAAS pathway.",
+                        "wrongAnswer_4": "Thiazide diuretics indirectly inhibit the conversion of angiotensin I to angiotensin II by promoting sodium and water excretion, which reduces plasma volume and renal perfusion pressure, secondarily decreasing renin release and activity of the RAAS pathway."
+                    },
+                    {
+                        "question": "Sympathetic nervous system (SNS) overactivity contributes significantly to hypertension by increasing heart rate, contractility, and peripheral vascular resistance. Which category of antihypertensive drugs primarily diminishes SNS influence by reducing norepinephrine release at peripheral sympathetic nerve terminals?",
+                        "goodAnswer": "Centrally acting alpha-2 adrenergic agonists, such as clonidine and methyldopa, primarily diminish sympathetic outflow by stimulating alpha-2 adrenergic receptors in the brainstem, which reduces central sympathetic tone and consequently decreases norepinephrine release at peripheral nerve terminals.",
+                        "wrongAnswer_1": "Alpha-1 adrenergic receptor blockers, such as prazosin and terazosin, primarily diminish sympathetic influence by blocking alpha-1 receptors on peripheral blood vessels, causing vasodilation and reflexively reducing sympathetic nervous system activity without directly affecting norepinephrine release.",
+                        "wrongAnswer_2": "Beta-adrenergic receptor blockers, such as metoprolol and atenolol, primarily diminish sympathetic influence by blocking beta-1 receptors in the heart, reducing heart rate and myocardial contractility, and indirectly influencing peripheral vascular resistance but not directly norepinephrine release from nerve terminals.",
+                        "wrongAnswer_3": "Ganglionic blockers, such as trimethaphan and mecamylamine, primarily diminish sympathetic influence by blocking nicotinic cholinergic receptors in autonomic ganglia, inhibiting neurotransmission in both sympathetic and parasympathetic pathways, broadly reducing autonomic tone.",
+                        "wrongAnswer_4": "Dopamine receptor agonists, such as fenoldopam, primarily diminish sympathetic influence by stimulating dopamine D1 receptors in renal vasculature, promoting renal vasodilation and natriuresis, and indirectly reducing sympathetic activity through volume and blood pressure reduction."
+                    },
+                    {
+                        "question": "Volume overload, resulting from excessive sodium and water retention, is a key mechanism in the pathophysiology of hypertension. Which class of antihypertensive drugs directly enhances renal sodium and water excretion by acting on the distal convoluted tubule of the nephron?",
+                        "goodAnswer": "Thiazide diuretics, including hydrochlorothiazide and chlorthalidone, directly enhance renal sodium and water excretion by inhibiting the Na+-Cl\u2212 symporter in the distal convoluted tubule, thereby reducing sodium reabsorption and promoting diuresis to decrease volume overload.",
+                        "wrongAnswer_1": "Loop diuretics, such as furosemide and bumetanide, directly enhance renal sodium and water excretion by inhibiting the Na+-K+-2Cl\u2212 symporter in the proximal convoluted tubule, leading to profound natriuresis and diuresis primarily through action in this nephron segment.",
+                        "wrongAnswer_2": "Potassium-sparing diuretics, like spironolactone and eplerenone, directly enhance renal sodium and water excretion by antagonizing aldosterone receptors in the collecting duct, which increases sodium excretion and water loss while conserving potassium, mainly in the collecting duct.",
+                        "wrongAnswer_3": "Carbonic anhydrase inhibitors, such as acetazolamide, directly enhance renal sodium and water excretion by inhibiting carbonic anhydrase in the proximal tubule, reducing bicarbonate reabsorption and indirectly increasing sodium and water excretion, primarily in the proximal nephron.",
+                        "wrongAnswer_4": "Osmotic diuretics, such as mannitol and glycerin, directly enhance renal sodium and water excretion by increasing the osmotic pressure within the renal tubules, particularly in the loop of Henle and proximal tubule, limiting water reabsorption and promoting excretion of both sodium and water."
+                    },
+                    {
+                        "question": "Increased vascular resistance due to vasoconstriction is a fundamental mechanism in hypertension. Which category of antihypertensive drugs directly reduces vascular smooth muscle contraction by blocking calcium influx through L-type calcium channels?",
+                        "goodAnswer": "Dihydropyridine calcium channel blockers, such as amlodipine and nifedipine, directly reduce vascular resistance by selectively blocking L-type calcium channels in vascular smooth muscle, inhibiting calcium influx and causing vasodilation.",
+                        "wrongAnswer_1": "Non-dihydropyridine calcium channel blockers, such as verapamil and diltiazem, directly reduce vascular resistance by selectively blocking T-type calcium channels in vascular smooth muscle, preventing calcium influx and inducing vasodilation.",
+                        "wrongAnswer_2": "Potassium channel openers, such as minoxidil, directly reduce vascular resistance by opening potassium channels in vascular smooth muscle, leading to hyperpolarization and relaxation but not primarily through calcium channel blockade.",
+                        "wrongAnswer_3": "Alpha-1 adrenergic receptor blockers, such as prazosin, directly reduce vascular resistance by blocking alpha-1 receptors on vascular smooth muscle, preventing norepinephrine-induced vasoconstriction and reducing peripheral resistance.",
+                        "wrongAnswer_4": "Beta-2 adrenergic receptor agonists, such as albuterol, directly reduce vascular resistance by stimulating beta-2 receptors on vascular smooth muscle, leading to smooth muscle relaxation and vasodilation, but not through calcium channel blockade."
+                    }
+                ]
+            },
+            {
+                "title": "Major anti hypertensive drug classes and treatment protocol of hypertension",
+                "quizzes": [
+                    {
+                        "question": "According to current guidelines for the initial pharmacological treatment of hypertension in patients without compelling indications, which drug class is generally recommended as a first-line agent, particularly in the absence of specific comorbidities?",
+                        "goodAnswer": "Thiazide diuretics, such as hydrochlorothiazide or chlorthalidone, are generally recommended as first-line agents for the initial pharmacological treatment of hypertension in the absence of compelling indications, due to their efficacy and cost-effectiveness.",
+                        "wrongAnswer_1": "Beta-blockers, such as metoprolol or atenolol, are generally recommended as first-line agents for the initial pharmacological treatment of hypertension in the absence of compelling indications, particularly in younger patients with anxiety or migraines.",
+                        "wrongAnswer_2": "Angiotensin-converting enzyme inhibitors (ACEIs), such as lisinopril or enalapril, are generally recommended as first-line agents for the initial pharmacological treatment of hypertension in the absence of compelling indications, especially in patients with diabetes or heart failure.",
+                        "wrongAnswer_3": "Calcium channel blockers (CCBs), such as amlodipine or diltiazem, are generally recommended as first-line agents for the initial pharmacological treatment of hypertension in the absence of compelling indications, particularly in elderly patients with isolated systolic hypertension.",
+                        "wrongAnswer_4": "Loop diuretics, such as furosemide or bumetanide, are generally recommended as first-line agents for the initial pharmacological treatment of hypertension in the absence of compelling indications, especially in patients with significant edema or renal insufficiency."
+                    },
+                    {
+                        "question": "In the stepped-care approach to hypertension management, if monotherapy with a first-line agent is insufficient to achieve blood pressure targets, what is the next recommended step in treatment intensification for most patients?",
+                        "goodAnswer": "If monotherapy is insufficient, the next step is typically to initiate combination therapy with two antihypertensive drugs from different classes, often combining a thiazide diuretic with an ACEI or ARB, or a CCB, to achieve additive blood pressure reduction.",
+                        "wrongAnswer_1": "If monotherapy is insufficient, the next step is typically to immediately switch to a higher dose of the initial monotherapy agent before considering combination therapy, to maximize the effect of the first drug chosen.",
+                        "wrongAnswer_2": "If monotherapy is insufficient, the next step is typically to add a potassium-sparing diuretic to the initial monotherapy agent, regardless of the initial drug class, to enhance sodium and water excretion and lower blood pressure.",
+                        "wrongAnswer_3": "If monotherapy is insufficient, the next step is typically to switch to a beta-blocker as monotherapy, especially in younger patients, before considering combination therapy with other antihypertensive classes.",
+                        "wrongAnswer_4": "If monotherapy is insufficient, the next step is typically to add a direct renin inhibitor to the initial monotherapy, particularly if the initial agent was not an ACEI or ARB, to further suppress the RAAS system."
+                    },
+                    {
+                        "question": "For patients with hypertension and specific compelling indications such as chronic kidney disease (CKD), which class of antihypertensive drugs is strongly recommended as first-line therapy due to its renal protective effects?",
+                        "goodAnswer": "Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin II receptor blockers (ARBs) are strongly recommended as first-line therapy for hypertensive patients with chronic kidney disease (CKD) due to their proven renal protective effects and ability to slow CKD progression.",
+                        "wrongAnswer_1": "Beta-blockers are strongly recommended as first-line therapy for hypertensive patients with chronic kidney disease (CKD) because they reduce cardiac workload and sympathetic nervous system activity, thereby protecting renal function.",
+                        "wrongAnswer_2": "Calcium channel blockers (CCBs) are strongly recommended as first-line therapy for hypertensive patients with chronic kidney disease (CKD) due to their vasodilatory effects and ability to improve renal blood flow and glomerular filtration.",
+                        "wrongAnswer_3": "Thiazide diuretics are strongly recommended as first-line therapy for hypertensive patients with chronic kidney disease (CKD), especially in early stages, because they effectively reduce volume overload and lower blood pressure.",
+                        "wrongAnswer_4": "Loop diuretics are strongly recommended as first-line therapy for hypertensive patients with chronic kidney disease (CKD), particularly in advanced stages, to manage fluid overload and hypertension, despite their limited renal protective effects."
+                    },
+                    {
+                        "question": "In managing hypertensive emergencies, which of the following intravenous antihypertensive agents is preferred for its rapid onset of action and ease of titration, making it suitable for immediate blood pressure reduction?",
+                        "goodAnswer": "Sodium nitroprusside is often preferred in hypertensive emergencies due to its rapid onset of action (seconds to minutes) and short half-life, allowing for precise and easily titratable blood pressure control intravenously.",
+                        "wrongAnswer_1": "Intravenous hydralazine is often preferred in hypertensive emergencies because of its rapid onset of action (minutes) and prolonged duration, providing sustained blood pressure reduction with minimal titration needs.",
+                        "wrongAnswer_2": "Intravenous labetalol is often preferred in hypertensive emergencies due to its combined alpha and beta-adrenergic blockade, offering rapid blood pressure reduction and heart rate control, but with a slightly slower onset than nitroprusside.",
+                        "wrongAnswer_3": "Intravenous furosemide is often preferred in hypertensive emergencies because of its rapid diuretic effect, quickly reducing volume overload and blood pressure, particularly in patients with congestive heart failure exacerbation.",
+                        "wrongAnswer_4": "Intravenous verapamil is often preferred in hypertensive emergencies due to its potent calcium channel blocking action, providing rapid vasodilation and blood pressure reduction, especially in patients with supraventricular tachyarrhythmias."
+                    }
+                ]
+            },
+            {
+                "title": "Antihypertensive drugs and their effects outside of hypertension",
+                "quizzes": [
+                    {
+                        "question": "Beyond their primary role in lowering blood pressure, ACE inhibitors and ARBs are known for providing significant renal protection, particularly in diabetic nephropathy. What is the primary mechanism through which these drugs exert this renoprotective effect?",
+                        "goodAnswer": "ACE inhibitors and ARBs primarily exert renoprotection by reducing intraglomerular pressure through efferent arteriolar vasodilation, decreasing glomerular hyperfiltration and proteinuria in conditions like diabetic nephropathy.",
+                        "wrongAnswer_1": "ACE inhibitors and ARBs primarily exert renoprotection by increasing renal blood flow through afferent arteriolar vasodilation, enhancing glomerular filtration rate and reducing overall renal vascular resistance in nephropathy.",
+                        "wrongAnswer_2": "ACE inhibitors and ARBs primarily exert renoprotection by promoting sodium and water excretion, reducing extracellular fluid volume and consequently decreasing renal workload and pressure in hypertensive nephropathy.",
+                        "wrongAnswer_3": "ACE inhibitors and ARBs primarily exert renoprotection by inhibiting aldosterone secretion, reducing sodium retention and potassium excretion, thus maintaining electrolyte balance and protecting renal tubular function in nephropathy.",
+                        "wrongAnswer_4": "ACE inhibitors and ARBs primarily exert renoprotection by directly stimulating erythropoietin production in the kidneys, improving oxygen delivery to renal tissues and mitigating hypoxic damage in chronic nephropathy."
+                    },
+                    {
+                        "question": "Beta-adrenergic receptor blockers are clinically utilized primarily for managing hypertension and angina pectoris; however, they also possess notable applications in the management of certain neurological conditions. Which specific neurological condition is frequently treated with beta-blockers due to their capacity to alleviate somatic symptoms associated with heightened anxiety?",
+                        "goodAnswer": "Beta-blockers are commonly used to manage the somatic symptoms of anxiety disorders, such as palpitations, tremors, and excessive sweating, particularly in performance anxiety and generalized anxiety disorder, by competitively blocking peripheral beta-adrenergic receptors and mitigating autonomic hyperreactivity.",
+                        "wrongAnswer_1": "Beta-blockers are commonly used to treat migraine headaches due to their cerebral vasoconstrictive properties, reducing vasodilation of cranial blood vessels and alleviating migraine symptoms and frequency in susceptible individuals, primarily through central and peripheral vascular mechanisms.",
+                        "wrongAnswer_2": "Beta-blockers are commonly used to manage Parkinson's disease symptoms by reducing resting tremors and muscle rigidity through central beta-adrenergic receptor blockade in the basal ganglia and motor pathways, modulating neurotransmitter balance and improving motor control.",
+                        "wrongAnswer_3": "Beta-blockers are commonly used to treat epilepsy by raising the seizure threshold and stabilizing neuronal excitability through modulation of beta-adrenergic signaling in the central nervous system, reducing neuronal hyperexcitability and preventing seizure propagation.",
+                        "wrongAnswer_4": "Beta-blockers are commonly used to manage Alzheimer's disease by improving cognitive function and reducing neuronal degeneration through neuroprotective effects of beta-adrenergic receptor antagonism in the brain, enhancing neuronal survival and mitigating neurodegenerative processes."
+                    },
+                    {
+                        "question": "Calcium channel blockers (CCBs), particularly dihydropyridines like amlodipine and felodipine, are widely prescribed for hypertension, but also find therapeutic application in treating other cardiovascular conditions. Beyond hypertension, for which other cardiovascular condition are CCBs frequently prescribed, primarily attributable to their potent vasodilatory properties?",
+                        "goodAnswer": "Calcium channel blockers, especially dihydropyridines, are commonly prescribed for the management of chronic stable angina pectoris due to their potent vasodilatory effects, which reduce myocardial oxygen demand by decreasing afterload and improving coronary blood flow, thereby alleviating anginal symptoms.",
+                        "wrongAnswer_1": "Calcium channel blockers are commonly prescribed for heart failure with reduced ejection fraction (HFrEF) because they improve cardiac contractility and reduce afterload, enhancing overall cardiac output and functional capacity in patients with systolic heart failure, improving hemodynamic parameters.",
+                        "wrongAnswer_2": "Calcium channel blockers are commonly prescribed for acute myocardial infarction (MI) to limit infarct size and improve myocardial salvage by reducing calcium overload in ischemic cardiomyocytes and promoting reperfusion, especially in the acute phase of myocardial ischemia.",
+                        "wrongAnswer_3": "Calcium channel blockers are commonly prescribed for peripheral artery disease (PAD) to directly dilate peripheral arteries and improve blood flow to ischemic limbs, alleviating claudication symptoms and preventing limb ischemia, enhancing peripheral circulation in patients with PAD.",
+                        "wrongAnswer_4": "Calcium channel blockers are commonly prescribed for pulmonary hypertension to reduce pulmonary vascular resistance and improve right ventricular function by selectively dilating pulmonary arteries and lowering pulmonary artery pressure, particularly in specific types of pulmonary hypertension."
+                    },
+                    {
+                        "question": "Spironolactone, a potassium-sparing diuretic and aldosterone receptor antagonist, is therapeutically employed for hypertension and heart failure management. What is another significant clinical application of spironolactone, particularly relevant in women, stemming from its notable anti-androgenic pharmacological actions?",
+                        "goodAnswer": "Spironolactone is clinically utilized in the treatment of hirsutism in women due to its anti-androgenic properties, which competitively block androgen receptors and reduce the effects of androgens on hair follicles, effectively decreasing excessive and unwanted hair growth in androgen-sensitive areas.",
+                        "wrongAnswer_1": "Spironolactone is clinically utilized in the treatment of osteoporosis in women because it promotes calcium retention and bone mineral density by antagonizing aldosterone receptors in bone tissue and enhancing calcium absorption, improving bone health and reducing fracture risk.",
+                        "wrongAnswer_2": "Spironolactone is clinically utilized in the treatment of endometriosis in women due to its anti-inflammatory properties, which reduce endometrial tissue proliferation and alleviate pelvic pain associated with endometriosis lesions, improving symptoms and quality of life.",
+                        "wrongAnswer_3": "Spironolactone is clinically utilized in the treatment of polycystic ovary syndrome (PCOS) to induce ovulation and improve fertility by modulating hormonal balance and reducing ovarian cyst formation through aldosterone antagonism, enhancing reproductive function in women with PCOS.",
+                        "wrongAnswer_4": "Spironolactone is clinically utilized in the treatment of premenstrual syndrome (PMS) to alleviate mood swings and fluid retention by reducing sodium and water retention and stabilizing hormonal fluctuations associated with the menstrual cycle, mitigating PMS symptoms and improving well-being."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

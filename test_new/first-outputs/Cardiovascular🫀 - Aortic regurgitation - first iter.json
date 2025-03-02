@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Aortic regurgitation",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "What is considered the principal underlying pathophysiological mechanism in the development of chronic rhinosinusitis (CRS)?",
+                        "goodAnswer": "The primary mechanism in CRS is considered to be chronic inflammation of the sinonasal mucosa, often perpetuated by a complex interplay of factors including impaired mucociliary clearance, microbial dysbiosis, and host immune responses, leading to persistent tissue remodeling.",
+                        "wrongAnswer_1": "The principal mechanism in CRS is acute bacterial infection of the sinuses, primarily driven by Streptococcus pneumoniae and Haemophilus influenzae, leading to rapid onset of symptoms and requiring immediate antibiotic intervention to prevent chronicity.",
+                        "wrongAnswer_2": "The central pathophysiological mechanism in CRS involves the overproduction of mucus by goblet cells in the nasal epithelium, which obstructs the sinus ostia and results in secondary bacterial colonization and subsequent chronic infection and inflammation.",
+                        "wrongAnswer_3": "CRS pathophysiology is mainly attributed to structural abnormalities of the nasal septum and turbinates, causing mechanical obstruction of sinus drainage pathways and predisposing to recurrent acute infections that eventually evolve into a chronic inflammatory state.",
+                        "wrongAnswer_4": "The fundamental mechanism in CRS is thought to be an autoimmune reaction targeting the sinonasal mucosa, characterized by the infiltration of lymphocytes and the release of pro-inflammatory cytokines, leading to progressive tissue destruction and irreversible damage."
+                    },
+                    {
+                        "question": "Which etiological factor is most strongly associated with the development of eosinophilic chronic rhinosinusitis with nasal polyps (CRSwNP)?",
+                        "goodAnswer": "Eosinophilic CRSwNP is most strongly associated with a type 2 inflammatory response, characterized by elevated levels of IL-5, IL-13, and IgE, often linked to underlying atopic diathesis, genetic predisposition, and potentially fungal sensitization, driving eosinophil-mediated inflammation.",
+                        "wrongAnswer_1": "Eosinophilic CRSwNP is primarily caused by chronic bacterial biofilms within the sinuses, particularly Staphylococcus aureus, which trigger a persistent neutrophilic inflammatory response leading to tissue destruction and polyp formation in susceptible individuals.",
+                        "wrongAnswer_2": "The development of eosinophilic CRSwNP is mainly attributed to environmental pollutants and irritants, such as airborne particulate matter and volatile organic compounds, which induce a non-specific inflammatory response and subsequent polypogenesis in the nasal cavity.",
+                        "wrongAnswer_3": "Eosinophilic CRSwNP is predominantly linked to systemic autoimmune diseases, like granulomatosis with polyangiitis, where vasculitis and granulomatous inflammation secondarily affect the sinonasal mucosa, leading to polyp development and eosinophil infiltration.",
+                        "wrongAnswer_4": "The primary etiological factor in eosinophilic CRSwNP is considered to be a deficiency in regulatory T cells within the sinonasal mucosa, resulting in a failure to suppress excessive Th1 immune responses and subsequent chronic inflammation and polyp formation."
+                    },
+                    {
+                        "question": "What is the role of mucociliary clearance dysfunction in the pathogenesis of chronic rhinosinusitis?",
+                        "goodAnswer": "Dysfunction of mucociliary clearance is a critical factor in CRS pathogenesis as it impairs the effective removal of mucus, pathogens, and debris from the sinonasal cavity, leading to mucus stasis, increased bacterial colonization, prolonged inflammation, and compromised sinus ventilation.",
+                        "wrongAnswer_1": "Mucociliary clearance dysfunction is a minor contributing factor in CRS, primarily affecting the rate of symptom resolution in acute exacerbations but not playing a significant role in the chronicity or underlying inflammatory processes of the disease.",
+                        "wrongAnswer_2": "Efficient mucociliary clearance is paradoxically detrimental in CRS, as it facilitates the rapid spread of inflammatory mediators and pathogens throughout the sinonasal cavity, exacerbating the inflammatory response and worsening the condition.",
+                        "wrongAnswer_3": "Mucociliary clearance dysfunction is primarily involved in the early stages of CRS development by initiating the initial inflammatory insult, but it becomes less relevant in the later chronic phases where structural changes dominate the pathophysiology.",
+                        "wrongAnswer_4": "Mucociliary clearance dysfunction is not directly related to CRS pathogenesis, but rather it is a consequence of chronic inflammation that occurs secondarily, impairing ciliary function and reducing mucus transport as a result of tissue damage."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which of the following symptom clusters is most indicative of chronic rhinosinusitis according to established diagnostic criteria?",
+                        "goodAnswer": "The hallmark symptom cluster for CRS includes nasal obstruction/blockage/congestion, facial pain/pressure, nasal discharge (anterior/posterior nasal drip), and reduction/loss of smell, persisting for more than 12 weeks, with objective evidence of mucosal inflammation.",
+                        "wrongAnswer_1": "The defining symptom cluster for CRS consists of acute onset of high fever, severe facial pain localized to the maxillary sinuses, purulent nasal discharge, and significant cough, typically resolving within 7-10 days with antibiotic treatment.",
+                        "wrongAnswer_2": "The characteristic symptom cluster of CRS is characterized by intermittent episodes of sneezing, watery rhinorrhea, itchy eyes and nose, and postnasal drip, often triggered by seasonal allergens and promptly relieved by antihistamines and nasal corticosteroids.",
+                        "wrongAnswer_3": "CRS is clinically defined by the presence of persistent sore throat, hoarseness, cervical lymphadenopathy, and fatigue, accompanied by mild nasal congestion and postnasal drip, lasting for several weeks and often associated with viral upper respiratory infections.",
+                        "wrongAnswer_4": "The diagnostic symptom cluster for CRS is defined by recurrent episodes of epistaxis, nasal crusting, anosmia, and headache, which are exacerbated by dry air and nasal trauma, and may be associated with underlying systemic conditions like Wegener's granulomatosis."
+                    },
+                    {
+                        "question": "In the clinical presentation of chronic rhinosinusitis with nasal polyps (CRSwNP), which feature is most commonly observed in patients compared to those with chronic rhinosinusitis without nasal polyps (CRSsNP)?",
+                        "goodAnswer": "Patients with CRSwNP more frequently exhibit a profound loss of smell (anosmia) or significant reduction in smell (hyposmia) compared to patients with CRSsNP, along with increased nasal obstruction and a greater likelihood of comorbid asthma.",
+                        "wrongAnswer_1": "Patients with CRSwNP typically present with more severe facial pain and pressure compared to CRSsNP, often described as sharp and radiating pain, particularly in the frontal and maxillary sinus regions, accompanied by tenderness to palpation.",
+                        "wrongAnswer_2": "CRSwNP is characterized by a higher incidence of purulent nasal discharge and postnasal drip, which is typically thick and colored, compared to the predominantly clear or mucoid discharge seen in patients with CRSsNP.",
+                        "wrongAnswer_3": "Patients with CRSwNP are more likely to experience frequent and severe epistaxis (nosebleeds) compared to CRSsNP, often requiring medical intervention to control the bleeding and prevent recurrence due to increased vascularity in polyps.",
+                        "wrongAnswer_4": "CRSwNP is distinguished by a higher prevalence of cough and lower respiratory tract symptoms compared to CRSsNP, with patients frequently reporting a chronic, non-productive cough and increased susceptibility to lower respiratory infections."
+                    },
+                    {
+                        "question": "Which clinical finding on nasal endoscopy is most suggestive of chronic rhinosinusitis?",
+                        "goodAnswer": "On nasal endoscopy, findings suggestive of CRS include mucosal edema, erythema, purulent secretions within the nasal cavity and sinuses, and potentially the presence of nasal polyps in cases of CRSwNP, indicating chronic inflammation.",
+                        "wrongAnswer_1": "Nasal endoscopy in CRS typically reveals pale, dry nasal mucosa with prominent crusting and ulcerations, particularly in the anterior nasal septum and inferior turbinates, suggestive of atrophic rhinitis or granulomatous disease.",
+                        "wrongAnswer_2": "Endoscopic findings in CRS commonly include septal perforation, deviation, or spurs, along with turbinate hypertrophy causing significant nasal obstruction, but without significant mucosal inflammation or discharge.",
+                        "wrongAnswer_3": "Nasal endoscopy in CRS usually demonstrates cobblestoning of the posterior pharyngeal wall, clear mucoid secretions pooling in the nasopharynx, and enlarged adenoids, indicating predominantly postnasal drip and allergic rhinitis rather than CRS.",
+                        "wrongAnswer_4": "Endoscopic examination in CRS typically shows a smooth, glistening, and pale nasal mucosa with minimal secretions, suggesting normal sinonasal health and ruling out significant inflammatory or infectious processes."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "Which imaging modality is generally considered the gold standard for diagnosing chronic rhinosinusitis and assessing its extent and severity?",
+                        "goodAnswer": "Computed Tomography (CT) scan of the sinuses is typically considered the gold standard imaging modality for diagnosing CRS, providing detailed anatomical information about sinus opacification, mucosal thickening, bony changes, and polyp extent.",
+                        "wrongAnswer_1": "Magnetic Resonance Imaging (MRI) of the sinuses is the preferred imaging modality for diagnosing CRS, offering superior soft tissue contrast to visualize mucosal inflammation and differentiate between infectious and neoplastic processes within the sinuses.",
+                        "wrongAnswer_2": "Plain radiography (X-rays) of the sinuses is the gold standard for CRS diagnosis, providing a quick and cost-effective method to identify sinus fluid levels and bony abnormalities associated with chronic sinus infections.",
+                        "wrongAnswer_3": "Ultrasound imaging of the sinuses is the most accurate diagnostic tool for CRS, allowing real-time visualization of sinus contents and fluid collections, and is particularly useful in pregnant women and children to avoid radiation exposure.",
+                        "wrongAnswer_4": "Positron Emission Tomography (PET) scan of the sinuses is the definitive imaging modality for diagnosing CRS, detecting metabolic activity associated with inflammation and infection, and is highly sensitive for identifying early-stage disease and recurrence."
+                    },
+                    {
+                        "question": "What is the primary purpose of using the Lund-Mackay scoring system in the context of chronic rhinosinusitis?",
+                        "goodAnswer": "The Lund-Mackay scoring system is primarily used to objectively quantify the extent and severity of sinus opacification on CT scans in CRS, providing a standardized method to assess disease burden, monitor treatment response, and compare outcomes across studies.",
+                        "wrongAnswer_1": "The Lund-Mackay scoring system is mainly employed to evaluate the clinical symptom severity in CRS patients, using a patient-reported questionnaire to quantify nasal obstruction, facial pain, and nasal discharge, guiding treatment decisions.",
+                        "wrongAnswer_2": "The primary purpose of the Lund-Mackay score is to classify different subtypes of chronic rhinosinusitis, such as CRSwNP and CRSsNP, based on endoscopic findings and symptom profiles to tailor specific treatment approaches.",
+                        "wrongAnswer_3": "The Lund-Mackay scoring system is used to assess mucociliary clearance function in CRS patients, measuring the saccharin transit time and nasal ciliary beat frequency to determine the effectiveness of mucociliary transport.",
+                        "wrongAnswer_4": "The Lund-Mackay score is primarily utilized to evaluate the presence and severity of underlying allergies in CRS patients, through skin prick testing and serum IgE levels, to identify allergic triggers and guide allergen avoidance strategies."
+                    },
+                    {
+                        "question": "In the differential diagnosis of chronic rhinosinusitis, which condition is most crucial to distinguish due to its potentially life-threatening nature if misdiagnosed?",
+                        "goodAnswer": "In the differential diagnosis of CRS, it is crucial to distinguish granulomatosis with polyangiitis (GPA), formerly Wegener's granulomatosis, due to its potential for systemic involvement and life-threatening complications if left untreated, mimicking CRS in its early stages.",
+                        "wrongAnswer_1": "In the differential diagnosis of CRS, it is most critical to distinguish allergic rhinitis, as misdiagnosis can lead to inappropriate use of antibiotics and delay in addressing underlying allergic triggers, exacerbating nasal symptoms and complications.",
+                        "wrongAnswer_2": "In differentiating CRS, it's paramount to rule out acute bacterial rhinosinusitis, as misdiagnosis may result in unnecessary long-term antibiotic use and contribute to antibiotic resistance, while the acute condition typically resolves spontaneously.",
+                        "wrongAnswer_3": "When considering CRS, it is essential to differentiate nasal polyps associated with cystic fibrosis, as misdiagnosis might delay crucial genetic testing and management specific to cystic fibrosis, affecting overall patient prognosis and care.",
+                        "wrongAnswer_4": "In the differential diagnosis of CRS, it is most important to exclude nasal vestibulitis, as misdiagnosing it as CRS can lead to inappropriate surgical interventions and delay in addressing the localized infection and inflammation of the nasal vestibule."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "What is generally considered the first-line medical management for chronic rhinosinusitis?",
+                        "goodAnswer": "First-line medical management for CRS typically involves intranasal corticosteroids (INCS), used to reduce mucosal inflammation and edema, improve sinus drainage, and alleviate symptoms, forming the cornerstone of initial therapy.",
+                        "wrongAnswer_1": "First-line treatment for CRS usually consists of oral antibiotics, such as amoxicillin-clavulanate or doxycycline, administered to eradicate bacterial infections and reduce inflammation, providing rapid symptom relief and preventing disease progression.",
+                        "wrongAnswer_2": "The primary initial management for CRS is oral corticosteroids, like prednisone, prescribed to systemically suppress inflammation and rapidly improve symptoms, particularly in severe cases, but limited to short-term use due to side effects.",
+                        "wrongAnswer_3": "First-line management of CRS typically involves antihistamines, both oral and intranasal, to control allergic components and reduce nasal congestion and rhinorrhea, especially in patients with concomitant allergic rhinitis.",
+                        "wrongAnswer_4": "Initial management of CRS usually focuses on nasal saline irrigations, performed multiple times daily to mechanically clear nasal passages, remove mucus and debris, and improve mucociliary clearance, serving as a fundamental supportive therapy."
+                    },
+                    {
+                        "question": "In patients with chronic rhinosinusitis who are refractory to medical management, what surgical intervention is most commonly considered?",
+                        "goodAnswer": "For CRS patients refractory to medical therapy, Functional Endoscopic Sinus Surgery (FESS) is often considered, aiming to improve sinus drainage and ventilation by widening sinus ostia and removing obstructing tissues, such as polyps or thickened mucosa.",
+                        "wrongAnswer_1": "In medically refractory CRS, radical maxillary antrostomy (Caldwell-Luc procedure) is the most frequently considered surgical option, involving extensive removal of the anterior wall of the maxillary sinus to create a large drainage pathway into the inferior meatus.",
+                        "wrongAnswer_2": "For patients with persistent CRS despite medical treatment, total ethmoidectomy is typically performed, involving complete removal of all ethmoid air cells to eliminate the primary source of inflammation and infection within the ethmoid sinus.",
+                        "wrongAnswer_3": "In cases of refractory CRS, external frontoethmoidectomy (Lothrop procedure) is commonly indicated, which involves surgically creating a large opening between the frontal sinus and the nasal cavity through an external incision, ensuring optimal frontal sinus drainage.",
+                        "wrongAnswer_4": "For medically resistant CRS, septoplasty and turbinate reduction are often the surgical procedures of choice, focusing on correcting nasal septal deviation and reducing turbinate hypertrophy to improve nasal airflow and sinus drainage indirectly."
+                    },
+                    {
+                        "question": "What role do biologics, such as dupilumab, play in the management of chronic rhinosinusitis, particularly in CRSwNP?",
+                        "goodAnswer": "Biologics like dupilumab, an anti-IL-4R\u03b1 antibody, are increasingly used in CRSwNP management for patients with severe, refractory disease, targeting type 2 inflammation to reduce polyp size, improve symptoms, and potentially decrease the need for surgery and systemic corticosteroids.",
+                        "wrongAnswer_1": "Biologics, such as omalizumab (anti-IgE), are the first-line treatment for all subtypes of CRS, effectively suppressing the overall inflammatory response and preventing disease progression, regardless of the underlying inflammatory phenotype or polyp presence.",
+                        "wrongAnswer_2": "Biologics, like mepolizumab (anti-IL-5), are primarily used in CRSsNP to target neutrophilic inflammation and reduce mucus production, thereby improving sinus drainage and alleviating symptoms in patients without nasal polyps.",
+                        "wrongAnswer_3": "Biologics, such as rituximab (anti-CD20), are indicated for CRS patients with suspected autoimmune etiology, depleting B cells and reducing antibody production to control the inflammatory process and prevent tissue damage in severe cases.",
+                        "wrongAnswer_4": "Biologics, such as infliximab (anti-TNF-\u03b1), are commonly used in CRS management to broadly suppress inflammation and improve symptom control in patients with both CRSwNP and CRSsNP, particularly those with comorbid inflammatory bowel disease."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

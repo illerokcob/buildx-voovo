@@ -1,0 +1,212 @@
+{
+    "mainTopic": {
+        "title": "Anti Inflammatory Drugs",
+        "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+        "subTopics": [
+            {
+                "title": "Prostaglandins: physiologic and pathological functions",
+                "quizzes": [
+                    {
+                        "question": "Identify the rate-limiting enzyme primarily responsible for the initiation of prostaglandin synthesis from arachidonic acid, a process crucial in both physiological homeostasis and inflammatory responses.",
+                        "goodAnswer": "Cyclooxygenase (COX) enzymes, specifically COX-1 and COX-2 isoforms, are the rate-limiting enzymes that catalyze the first committed step in prostaglandin synthesis from arachidonic acid.",
+                        "wrongAnswer_1": "Phospholipase A2 (PLA2) enzymes are the rate-limiting enzymes directly converting arachidonic acid into prostaglandins, initiating the synthesis cascade in response to cellular stimuli.",
+                        "wrongAnswer_2": "Lipoxygenases (LOX) enzymes, particularly 5-lipoxygenase, are the rate-limiting enzymes that initiate prostaglandin synthesis by converting arachidonic acid to leukotrienes, a precursor to prostaglandins.",
+                        "wrongAnswer_3": "Prostaglandin synthases are the rate-limiting enzymes that directly convert arachidonic acid into prostaglandins, bypassing the intermediate steps and rapidly producing these lipid mediators.",
+                        "wrongAnswer_4": "Thromboxane synthases are the rate-limiting enzymes in prostaglandin synthesis, converting arachidonic acid through a series of enzymatic reactions into the final prostaglandin products."
+                    },
+                    {
+                        "question": "Which specific prostaglandin is predominantly responsible for mediating the physiological processes of gastric mucosal protection and the maintenance of renal blood flow, particularly under normal homeostatic conditions?",
+                        "goodAnswer": "Prostaglandin E2 (PGE2), primarily synthesized by COX-1, is crucial for maintaining gastric mucosal integrity by stimulating mucus and bicarbonate secretion and regulating renal blood flow.",
+                        "wrongAnswer_1": "Prostaglandin I2 (PGI2), also known as prostacyclin, is the primary prostaglandin responsible for gastric acid secretion and the reduction of renal blood flow under normal physiological conditions.",
+                        "wrongAnswer_2": "Thromboxane A2 (TXA2) is the key prostaglandin involved in gastric mucosal protection by inhibiting platelet aggregation and promoting renal vasoconstriction in homeostasis.",
+                        "wrongAnswer_3": "Prostaglandin F2\u03b1 (PGF2\u03b1) is the predominant prostaglandin responsible for gastric motility and the increase of renal blood flow, particularly during periods of stress and inflammation.",
+                        "wrongAnswer_4": "Leukotriene B4 (LTB4), a product of the lipoxygenase pathway, is the primary prostaglandin responsible for gastric mucosal protection and the maintenance of renal blood flow under homeostatic conditions."
+                    },
+                    {
+                        "question": "In the context of inflammation, identify the prostaglandin primarily associated with the cardinal signs of inflammation, specifically contributing to vasodilation, increased vascular permeability, and the sensitization of pain receptors.",
+                        "goodAnswer": "Prostaglandin E2 (PGE2), mainly produced by COX-2 at inflammatory sites, is a key mediator of inflammation, inducing vasodilation, increasing vascular permeability, and sensitizing nociceptors to pain stimuli.",
+                        "wrongAnswer_1": "Prostaglandin I2 (PGI2), produced by COX-1 in inflamed tissues, is the primary prostaglandin responsible for vasoconstriction, decreased vascular permeability, and the desensitization of pain receptors.",
+                        "wrongAnswer_2": "Thromboxane A2 (TXA2), synthesized by COX-2 in platelets, is the main prostaglandin that promotes vasodilation, reduces vascular permeability, and inhibits pain receptor activation during inflammation.",
+                        "wrongAnswer_3": "Prostaglandin F2\u03b1 (PGF2\u03b1), primarily produced by COX-1 in inflammatory cells, is the key prostaglandin mediating vasoconstriction, increased vascular permeability, and desensitizing pain receptors.",
+                        "wrongAnswer_4": "Leukotriene C4 (LTC4), a product of the lipoxygenase pathway, is the primary prostaglandin associated with vasodilation, increased vascular permeability, and sensitization of pain receptors in inflammation."
+                    }
+                ]
+            },
+            {
+                "title": "Overview of NSAIDs: General pharmacodynamics and pharmacokinetics of NSAIDS",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary pharmacodynamic mechanism of action shared by traditional Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) in reducing inflammation, pain, and fever.",
+                        "goodAnswer": "NSAIDs primarily exert their anti-inflammatory, analgesic, and antipyretic effects by inhibiting cyclooxygenase (COX) enzymes, thereby reducing the production of prostaglandins and thromboxanes.",
+                        "wrongAnswer_1": "NSAIDs primarily reduce inflammation, pain, and fever by directly blocking phospholipase A2 (PLA2) enzymes, thus preventing the release of arachidonic acid from membrane phospholipids.",
+                        "wrongAnswer_2": "The main mechanism of action of NSAIDs involves the activation of lipoxygenase (LOX) enzymes, leading to a decrease in leukotriene production and subsequent reduction in inflammation and pain.",
+                        "wrongAnswer_3": "NSAIDs primarily function by stimulating prostaglandin synthases, which paradoxically reduces overall prostaglandin levels due to a negative feedback mechanism on COX enzymes.",
+                        "wrongAnswer_4": "NSAIDs exert their therapeutic effects by directly antagonizing prostaglandin receptors (EP receptors), preventing prostaglandins from binding and exerting their inflammatory effects."
+                    },
+                    {
+                        "question": "Considering the pharmacokinetic properties of most traditional NSAIDs, which statement accurately describes their typical absorption, distribution, metabolism, and excretion profile?",
+                        "goodAnswer": "Most traditional NSAIDs are well-absorbed orally, highly protein-bound, metabolized primarily in the liver via cytochrome P450 enzymes, and excreted mainly through the kidneys as inactive metabolites.",
+                        "wrongAnswer_1": "Most NSAIDs exhibit poor oral absorption, minimal protein binding, are metabolized in the kidneys via glucuronidation, and excreted primarily in bile as active drug conjugates.",
+                        "wrongAnswer_2": "Traditional NSAIDs are typically administered intravenously, have low protein binding, undergo extensive first-pass metabolism in the gut, and are excreted unchanged in the feces.",
+                        "wrongAnswer_3": "NSAIDs are generally poorly absorbed from the gastrointestinal tract, are minimally protein-bound in plasma, undergo metabolism in the plasma via esterases, and are excreted renally as active drugs.",
+                        "wrongAnswer_4": "Most traditional NSAIDs are well-absorbed transdermally, are minimally metabolized, exhibit high protein binding to erythrocytes, and are excreted via the lungs as volatile compounds."
+                    },
+                    {
+                        "question": "Explain the concept of COX selectivity in NSAIDs and its implications for therapeutic effects and side effect profiles, particularly focusing on the difference between COX-1 and COX-2 inhibition.",
+                        "goodAnswer": "COX selectivity refers to the preferential inhibition of either COX-1 or COX-2 isoforms by NSAIDs; COX-1 inhibition is associated with gastrointestinal side effects, while COX-2 inhibition is linked to reduced GI effects but potential cardiovascular risks.",
+                        "wrongAnswer_1": "COX selectivity describes the ability of NSAIDs to selectively inhibit cyclooxygenase enzymes in specific tissues; COX-1 selective NSAIDs target inflammatory tissues, while COX-2 selective drugs act primarily in the kidneys.",
+                        "wrongAnswer_2": "COX selectivity indicates the duration of action of NSAIDs; COX-1 selective drugs have a longer half-life and prolonged effects, while COX-2 selective agents are rapidly metabolized and have shorter duration of action.",
+                        "wrongAnswer_3": "COX selectivity in NSAIDs refers to their ability to selectively block prostaglandin receptors; COX-1 selective drugs target EP1 receptors, whereas COX-2 selective drugs block EP2 receptors, influencing their therapeutic profiles.",
+                        "wrongAnswer_4": "COX selectivity describes the route of administration for NSAIDs; COX-1 selective drugs are administered orally, while COX-2 selective drugs are formulated for topical application to minimize systemic side effects."
+                    }
+                ]
+            },
+            {
+                "title": "Toxic side effects of NSAIDs",
+                "quizzes": [
+                    {
+                        "question": "Identify the most common and clinically significant gastrointestinal toxic effect associated with the use of non-selective NSAIDs and explain the underlying mechanism.",
+                        "goodAnswer": "The most common GI toxic effect is peptic ulceration and bleeding, resulting from COX-1 inhibition which reduces protective prostaglandin synthesis in the gastric mucosa, leading to impaired mucosal defense.",
+                        "wrongAnswer_1": "The primary GI toxicity of NSAIDs is diarrhea and malabsorption, caused by COX-2 inhibition in the intestinal epithelium, disrupting fluid and electrolyte balance and nutrient absorption.",
+                        "wrongAnswer_2": "The most significant GI side effect is esophageal stricture formation, resulting from direct chemical irritation of the esophageal lining by NSAIDs and subsequent inflammation and scarring.",
+                        "wrongAnswer_3": "The predominant GI toxicity is pancreatic insufficiency, due to NSAID-induced inhibition of pancreatic prostaglandin synthesis, impairing digestive enzyme secretion and nutrient digestion.",
+                        "wrongAnswer_4": "The main GI side effect is ulcerative colitis exacerbation, triggered by NSAID-mediated activation of inflammatory pathways in the colon and increased susceptibility to mucosal damage."
+                    },
+                    {
+                        "question": "Describe the primary renal toxicities associated with NSAID use, focusing on the mechanisms by which NSAIDs can impair renal function and potentially lead to kidney damage.",
+                        "goodAnswer": "NSAIDs can cause renal toxicity primarily by inhibiting COX-1 and COX-2 in the kidneys, reducing prostaglandin-mediated vasodilation and renal blood flow, potentially leading to acute kidney injury and chronic interstitial nephritis.",
+                        "wrongAnswer_1": "NSAIDs induce renal toxicity mainly by stimulating renal prostaglandin synthesis, resulting in excessive vasodilation, glomerular hyperfiltration, and subsequent glomerular damage and proteinuria.",
+                        "wrongAnswer_2": "The primary renal toxicity of NSAIDs is nephrotic syndrome, caused by direct toxic effects on podocytes and glomerular basement membrane, leading to massive proteinuria and edema.",
+                        "wrongAnswer_3": "NSAIDs cause renal damage by directly inhibiting the renin-angiotensin-aldosterone system (RAAS), leading to sodium and water retention, hypertension, and subsequent renal vascular damage.",
+                        "wrongAnswer_4": "The main renal toxicity is renal tubular acidosis, resulting from NSAID-induced impairment of renal tubular transport mechanisms and acid-base balance, leading to metabolic acidosis."
+                    },
+                    {
+                        "question": "Explain the cardiovascular risks associated with NSAID use, particularly focusing on the differential risks between non-selective NSAIDs and COX-2 selective inhibitors, and the underlying pathophysiological mechanisms.",
+                        "goodAnswer": "NSAIDs, especially COX-2 selective inhibitors, are associated with increased cardiovascular risk, potentially due to an imbalance between thromboxane A2 (TXA2) and prostacyclin (PGI2), favoring platelet aggregation and vasoconstriction.",
+                        "wrongAnswer_1": "Non-selective NSAIDs are associated with higher cardiovascular risks compared to COX-2 selective inhibitors, primarily due to increased COX-1 mediated platelet aggregation and thrombus formation.",
+                        "wrongAnswer_2": "NSAIDs generally reduce cardiovascular risk by inhibiting platelet aggregation and promoting vasodilation through COX-1 and COX-2 inhibition, thus preventing thrombotic events and hypertension.",
+                        "wrongAnswer_3": "The cardiovascular risks of NSAIDs are mainly related to increased myocardial contractility and heart rate, leading to increased cardiac workload and potential for arrhythmias and heart failure.",
+                        "wrongAnswer_4": "NSAIDs induce cardiovascular toxicity by directly damaging vascular endothelial cells and promoting atherosclerosis through COX-mediated oxidative stress and lipid peroxidation."
+                    }
+                ]
+            },
+            {
+                "title": "COX-2 Selective Inhibitors",
+                "quizzes": [
+                    {
+                        "question": "Describe the rationale behind the development of COX-2 selective inhibitors (coxibs) compared to traditional non-selective NSAIDs, particularly focusing on the intended therapeutic advantages.",
+                        "goodAnswer": "COX-2 selective inhibitors were developed to reduce gastrointestinal side effects associated with non-selective NSAIDs by selectively inhibiting COX-2, the isoform primarily involved in inflammation and pain, while sparing COX-1's protective GI effects.",
+                        "wrongAnswer_1": "Coxibs were designed to enhance the anti-inflammatory efficacy of NSAIDs by selectively targeting COX-2, which is more potent in mediating inflammation compared to COX-1, thus providing superior pain relief.",
+                        "wrongAnswer_2": "COX-2 selective inhibitors were developed to improve the pharmacokinetic profile of NSAIDs, resulting in faster onset of action and longer duration of effect by selectively inhibiting COX-2 in the liver.",
+                        "wrongAnswer_3": "Coxibs were created to reduce renal toxicity associated with NSAIDs by selectively inhibiting COX-2 in the kidneys, thus preserving renal prostaglandin synthesis and preventing kidney damage.",
+                        "wrongAnswer_4": "COX-2 selective inhibitors were designed to minimize cardiovascular risks linked to NSAIDs by selectively inhibiting COX-2 in platelets, reducing thromboxane A2 production and preventing thrombotic events."
+                    },
+                    {
+                        "question": "Explain the mechanism of COX-2 selectivity for coxibs, highlighting the structural differences between COX-1 and COX-2 active sites that allow for this selective inhibition.",
+                        "goodAnswer": "Coxibs achieve COX-2 selectivity due to a larger hydrophobic side pocket in the COX-2 active site compared to COX-1, allowing bulky coxibs to preferentially bind and inhibit COX-2 while having reduced affinity for COX-1.",
+                        "wrongAnswer_1": "COX-2 selectivity of coxibs is achieved by their ability to covalently bind to the active site of COX-2 but not COX-1, forming a stable irreversible complex with COX-2 and selectively inhibiting its activity.",
+                        "wrongAnswer_2": "Coxibs selectively inhibit COX-2 through allosteric modulation, binding to a site distinct from the active site and inducing a conformational change that selectively inhibits COX-2 enzyme activity.",
+                        "wrongAnswer_3": "COX-2 selective inhibitors achieve selectivity by undergoing rapid metabolism in tissues expressing high levels of COX-1, resulting in lower systemic concentrations and preferential action in COX-2 rich inflammatory sites.",
+                        "wrongAnswer_4": "Coxibs exhibit COX-2 selectivity due to their ability to selectively block the gene expression of COX-2 but not COX-1, thus reducing COX-2 protein levels and selectively inhibiting its enzymatic activity."
+                    },
+                    {
+                        "question": "Discuss the cardiovascular safety concerns associated with COX-2 selective inhibitors, particularly focusing on the potential for increased thrombotic events and the proposed mechanisms contributing to this risk.",
+                        "goodAnswer": "COX-2 inhibitors have been linked to increased cardiovascular risk due to the preferential inhibition of COX-2-derived prostacyclin (PGI2), which is anti-thrombotic and vasodilating, while COX-1-derived thromboxane A2 (TXA2), pro-thrombotic, remains relatively unaffected, leading to a pro-thrombotic state.",
+                        "wrongAnswer_1": "The cardiovascular risks of coxibs are primarily due to their potent inhibition of both COX-1 and COX-2 in cardiac tissues, leading to reduced prostaglandin synthesis and direct myocardial toxicity and increased arrhythmias.",
+                        "wrongAnswer_2": "Coxibs increase cardiovascular risk by promoting vasodilation and hypotension through excessive COX-2 inhibition, leading to reduced coronary perfusion and increased risk of myocardial ischemia and infarction.",
+                        "wrongAnswer_3": "The cardiovascular safety concerns are linked to coxibs' ability to induce platelet aggregation and thrombus formation by directly activating platelet COX-2, leading to increased risk of arterial thrombosis and stroke.",
+                        "wrongAnswer_4": "Coxibs increase cardiovascular risk by inhibiting COX-2 in vascular smooth muscle cells, leading to vasoconstriction and increased peripheral resistance, resulting in hypertension and increased cardiac workload."
+                    }
+                ]
+            },
+            {
+                "title": "Overview, therapeutic effects, and toxic side effects of Glucocorticoids",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary mechanism of action of glucocorticoids at the cellular level in mediating their diverse therapeutic and adverse effects.",
+                        "goodAnswer": "Glucocorticoids primarily act by binding to intracellular glucocorticoid receptors (GR), which then translocate to the nucleus and alter gene transcription, modulating the expression of numerous genes involved in inflammation, metabolism, and immune function.",
+                        "wrongAnswer_1": "Glucocorticoids exert their effects by directly activating cell surface receptors, initiating intracellular signaling cascades that rapidly alter cellular function without directly affecting gene transcription.",
+                        "wrongAnswer_2": "The primary mechanism of action involves the direct inhibition of cyclooxygenase (COX) and lipoxygenase (LOX) enzymes, reducing the synthesis of prostaglandins, leukotrienes, and other inflammatory mediators.",
+                        "wrongAnswer_3": "Glucocorticoids mainly function by directly interacting with plasma membrane phospholipids, altering membrane fluidity and permeability, which indirectly modulates cellular signaling and function.",
+                        "wrongAnswer_4": "Glucocorticoids primarily act by chelating intracellular calcium ions, reducing intracellular calcium concentration and thereby inhibiting calcium-dependent signaling pathways and cellular processes."
+                    },
+                    {
+                        "question": "Identify the major therapeutic effects of glucocorticoids that make them valuable in managing various inflammatory and autoimmune conditions, as well as in certain other clinical scenarios.",
+                        "goodAnswer": "Glucocorticoids exhibit potent anti-inflammatory and immunosuppressive effects, making them effective in treating autoimmune diseases, allergic reactions, organ transplantation rejection, and certain malignancies like lymphoma.",
+                        "wrongAnswer_1": "The primary therapeutic effects of glucocorticoids are their analgesic and antipyretic properties, making them particularly useful in managing acute pain, fever, and headaches, similar to NSAIDs but with fewer side effects.",
+                        "wrongAnswer_2": "Glucocorticoids are mainly used for their anabolic effects, promoting muscle growth and increasing bone density, making them beneficial in treating muscle wasting conditions and osteoporosis.",
+                        "wrongAnswer_3": "The major therapeutic applications of glucocorticoids are in the treatment of infectious diseases due to their potent antibacterial and antiviral properties, effectively eradicating pathogens and resolving infections.",
+                        "wrongAnswer_4": "Glucocorticoids are primarily used for their hypoglycemic effects in managing diabetes mellitus, effectively lowering blood glucose levels by increasing insulin sensitivity and glucose uptake by cells."
+                    },
+                    {
+                        "question": "Describe the common and clinically significant toxic side effects associated with chronic glucocorticoid use, focusing on the major organ systems affected and the underlying mechanisms.",
+                        "goodAnswer": "Chronic glucocorticoid use can lead to numerous side effects including Cushing's syndrome, osteoporosis, hyperglycemia, muscle weakness, increased susceptibility to infections, and psychiatric disturbances, primarily due to their broad effects on metabolism, bone, immune, and endocrine systems.",
+                        "wrongAnswer_1": "Long-term glucocorticoid use primarily causes liver toxicity and hepatic failure due to direct hepatotoxic effects and accumulation of glucocorticoid metabolites in the liver, leading to liver damage.",
+                        "wrongAnswer_2": "Chronic glucocorticoid therapy mainly results in severe renal impairment and chronic kidney disease due to direct nephrotoxic effects and glomerular damage, leading to renal failure.",
+                        "wrongAnswer_3": "The major chronic side effects of glucocorticoids are cardiovascular complications, particularly hypertension and atherosclerosis, due to their direct vasoconstrictive effects and promotion of lipid deposition in arteries.",
+                        "wrongAnswer_4": "Long-term glucocorticoid use primarily induces severe gastrointestinal ulceration and bleeding due to direct irritant effects on the gastric mucosa and inhibition of protective prostaglandin synthesis in the stomach."
+                    }
+                ]
+            },
+            {
+                "title": "Steroid withdrawal and glucocorticoid replacement",
+                "quizzes": [
+                    {
+                        "question": "Explain the phenomenon of adrenal insufficiency following abrupt cessation of chronic glucocorticoid therapy and the physiological basis for this withdrawal syndrome.",
+                        "goodAnswer": "Abrupt glucocorticoid withdrawal can cause adrenal insufficiency because chronic exogenous glucocorticoid administration suppresses the hypothalamic-pituitary-adrenal (HPA) axis, leading to decreased endogenous cortisol production and adrenal atrophy, requiring gradual tapering to allow HPA axis recovery.",
+                        "wrongAnswer_1": "Steroid withdrawal syndrome is primarily due to the body's dependence on exogenous glucocorticoids for maintaining normal blood glucose levels; abrupt cessation leads to severe hypoglycemia and metabolic imbalance.",
+                        "wrongAnswer_2": "Adrenal insufficiency upon glucocorticoid withdrawal is caused by a rebound overproduction of inflammatory mediators as the immunosuppressive effects of glucocorticoids cease, leading to intense inflammatory reactions.",
+                        "wrongAnswer_3": "The withdrawal syndrome results from the body becoming dependent on the euphoric effects of glucocorticoids; abrupt cessation leads to psychological withdrawal symptoms and mood disturbances, mimicking drug addiction withdrawal.",
+                        "wrongAnswer_4": "Adrenal insufficiency following glucocorticoid withdrawal is due to the kidneys becoming unable to reabsorb sodium and water after prolonged glucocorticoid-induced sodium and water retention, leading to dehydration and electrolyte imbalance."
+                    },
+                    {
+                        "question": "Describe the recommended strategy for glucocorticoid withdrawal after prolonged therapy to minimize the risk of adrenal insufficiency and withdrawal symptoms, focusing on the tapering process.",
+                        "goodAnswer": "Gradual tapering of glucocorticoid dose is crucial for withdrawal, typically involving slow reduction of the daily dose over weeks or months, allowing the HPA axis to gradually recover its function and endogenous cortisol production.",
+                        "wrongAnswer_1": "A rapid dose reduction over a few days is recommended to minimize the duration of glucocorticoid exposure and quickly restore normal adrenal function after prolonged therapy, effectively preventing withdrawal symptoms.",
+                        "wrongAnswer_2": "Intermittent dosing strategies, such as alternate-day therapy, are the preferred method for glucocorticoid withdrawal, allowing for periods without glucocorticoids to stimulate HPA axis recovery while maintaining therapeutic effect.",
+                        "wrongAnswer_3": "Complete and immediate cessation of glucocorticoids is the most effective withdrawal strategy, as it abruptly forces the HPA axis to resume function and quickly eliminates the risk of long-term side effects.",
+                        "wrongAnswer_4": "Glucocorticoid withdrawal should be accompanied by high-dose mineralocorticoid administration to compensate for potential adrenal insufficiency and maintain electrolyte balance during the tapering process."
+                    },
+                    {
+                        "question": "Outline the principles of glucocorticoid replacement therapy in patients with adrenal insufficiency, including considerations for dosage, administration, and monitoring of therapeutic efficacy and potential side effects.",
+                        "goodAnswer": "Glucocorticoid replacement therapy involves administering physiological doses of hydrocortisone or similar agents, typically divided doses to mimic diurnal cortisol rhythm, with monitoring of clinical symptoms and sometimes ACTH levels to adjust dosage and minimize over- or under-replacement.",
+                        "wrongAnswer_1": "Replacement therapy for adrenal insufficiency requires high doses of long-acting glucocorticoids like dexamethasone, administered once daily to ensure sustained suppression of ACTH secretion and prevent adrenal crisis.",
+                        "wrongAnswer_2": "Glucocorticoid replacement should be initiated with a loading dose followed by a fixed, low maintenance dose of prednisone, without the need for dose adjustments based on clinical response or ACTH levels.",
+                        "wrongAnswer_3": "Replacement therapy involves administering supraphysiological doses of glucocorticoids to compensate for the impaired adrenal function and ensure adequate anti-inflammatory and immunosuppressive effects, monitored primarily by blood glucose levels.",
+                        "wrongAnswer_4": "Glucocorticoid replacement therapy is best managed with intermittent, pulse dosing of high-potency glucocorticoids to stimulate adrenal gland recovery and gradually wean off exogenous glucocorticoids, monitored by serum electrolyte levels."
+                    }
+                ]
+            },
+            {
+                "title": "Anti-cytokine agents",
+                "quizzes": [
+                    {
+                        "question": "Describe the general mechanism of action of anti-cytokine agents in the treatment of inflammatory and autoimmune diseases, focusing on their targets and therapeutic outcomes.",
+                        "goodAnswer": "Anti-cytokine agents work by selectively targeting specific cytokines (e.g., TNF-\u03b1, IL-1, IL-6) or their receptors, thereby modulating inflammatory pathways and reducing immune-mediated tissue damage in autoimmune and inflammatory conditions.",
+                        "wrongAnswer_1": "Anti-cytokine agents broadly suppress the entire immune system by depleting immune cells, such as T and B lymphocytes, leading to a general reduction in immune responses and inflammation across various diseases.",
+                        "wrongAnswer_2": "These agents primarily function by enhancing the activity of regulatory T cells (Tregs), promoting immune tolerance and suppressing excessive immune responses in autoimmune and inflammatory disorders.",
+                        "wrongAnswer_3": "Anti-cytokine drugs work by directly inhibiting the production of prostaglandins and leukotrienes, similar to NSAIDs, but with greater specificity for inflammatory cytokines and fewer systemic side effects.",
+                        "wrongAnswer_4": "The main mechanism of action involves the activation of intracellular signaling pathways that counteract inflammatory signals, indirectly reducing cytokine production and their downstream effects in target tissues."
+                    },
+                    {
+                        "question": "Identify the major classes of anti-cytokine agents currently used in clinical practice, providing examples of specific drugs within each class and their primary cytokine targets.",
+                        "goodAnswer": "Major classes include TNF-\u03b1 inhibitors (e.g., infliximab, adalimumab, etanercept), IL-1 inhibitors (e.g., anakinra, canakinumab), and IL-6 inhibitors (e.g., tocilizumab, sarilumab), each targeting specific cytokines involved in inflammatory pathways.",
+                        "wrongAnswer_1": "The primary classes are COX-2 selective inhibitors (e.g., celecoxib, etoricoxib), LOX inhibitors (e.g., zileuton), and prostaglandin receptor antagonists (e.g., misoprostol), each targeting specific lipid mediators of inflammation.",
+                        "wrongAnswer_2": "Major classes of anti-cytokine agents are glucocorticoids (e.g., prednisone, dexamethasone), calcineurin inhibitors (e.g., cyclosporine, tacrolimus), and mTOR inhibitors (e.g., sirolimus), broadly suppressing immune cell activation and proliferation.",
+                        "wrongAnswer_3": "The main classes include antihistamines (e.g., diphenhydramine, loratadine), leukotriene receptor antagonists (e.g., montelukast, zafirlukast), and mast cell stabilizers (e.g., cromolyn), primarily targeting allergic and mast cell-mediated inflammation.",
+                        "wrongAnswer_4": "Major classes are non-selective NSAIDs (e.g., ibuprofen, naproxen), disease-modifying antirheumatic drugs (DMARDs) like methotrexate and sulfasalazine, and Janus kinase (JAK) inhibitors (e.g., tofacitinib), broadly modulating inflammatory and immune responses."
+                    },
+                    {
+                        "question": "Discuss the therapeutic applications and potential toxic side effects of TNF-\u03b1 inhibitors, a prominent class of anti-cytokine agents, in the management of autoimmune diseases.",
+                        "goodAnswer": "TNF-\u03b1 inhibitors are effective in rheumatoid arthritis, Crohn's disease, and psoriasis by reducing TNF-\u03b1-mediated inflammation, but they carry risks of infections (especially TB), infusion reactions, and potential increased risk of lymphoma and demyelinating diseases.",
+                        "wrongAnswer_1": "TNF-\u03b1 inhibitors are primarily used to treat acute bacterial infections and sepsis by neutralizing TNF-\u03b1's pro-inflammatory effects, effectively controlling systemic inflammatory response and improving patient outcomes, with minimal side effects.",
+                        "wrongAnswer_2": "Therapeutic applications of TNF-\u03b1 inhibitors are mainly in managing allergic asthma and atopic dermatitis by blocking TNF-\u03b1-induced airway inflammation and skin hypersensitivity reactions, with common side effects being skin rashes and itching.",
+                        "wrongAnswer_3": "TNF-\u03b1 inhibitors are used for treating cardiovascular diseases like atherosclerosis and heart failure by reducing TNF-\u03b1-mediated vascular inflammation and improving cardiac function, with potential side effects including hypertension and arrhythmias.",
+                        "wrongAnswer_4": "TNF-\u03b1 inhibitors are primarily indicated for treating type 2 diabetes mellitus and obesity by improving insulin sensitivity and reducing TNF-\u03b1-induced insulin resistance, with common side effects being weight gain and hyperglycemia."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

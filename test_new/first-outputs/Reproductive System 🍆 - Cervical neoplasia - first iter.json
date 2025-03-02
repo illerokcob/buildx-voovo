@@ -1,0 +1,154 @@
+{
+    "mainTopic": {
+        "title": "Cervical neoplasia",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Placental site trophoblastic tumor",
+                "quizzes": [
+                    {
+                        "question": "In the classification of gestational trophoblastic diseases, placental site trophoblastic tumor (PSTT) is distinguished from choriocarcinoma and other molar pregnancies primarily by which characteristic?",
+                        "goodAnswer": "PSTT is uniquely characterized by its origin from intermediate trophoblasts of the placental implantation site and the absence of chorionic villi, typically presenting with lower serum hCG levels compared to choriocarcinoma.",
+                        "wrongAnswer_1": "PSTT is distinguished by its derivation from syncytiotrophoblasts of the placental implantation site and the presence of prominent chorionic villi, typically associated with elevated serum hCG levels comparable to molar pregnancies.",
+                        "wrongAnswer_2": "PSTT is identified by its development from cytotrophoblasts of the placental implantation site and the presence of hydropic chorionic villi, usually presenting with significantly higher serum hCG levels than complete hydatidiform moles.",
+                        "wrongAnswer_3": "PSTT is characterized by its origin from syncytiotrophoblasts of the placental implantation site and the absence of syncytial knots, often associated with serum hCG levels that are markedly elevated, similar to invasive moles.",
+                        "wrongAnswer_4": "PSTT is uniquely defined by its derivation from cytotrophoblasts of the placental implantation site and the presence of well-formed chorionic villi, typically presenting with serum hCG levels that are undetectable or minimally elevated due to rapid tumor growth."
+                    },
+                    {
+                        "question": "Which of the following histological features is most indicative of a Placental Site Trophoblastic Tumor (PSTT) when differentiating it from other gestational trophoblastic neoplasms?",
+                        "goodAnswer": "Predominance of mononuclear intermediate trophoblasts infiltrating the myometrium, with minimal syncytiotrophoblasts and a notable absence of chorionic villi, along with characteristic low mitotic activity, is indicative of PSTT.",
+                        "wrongAnswer_1": "Presence of multinucleated syncytiotrophoblasts with extensive hemorrhage and necrosis, infiltration of chorionic villi into the myometrium, and high mitotic activity are the hallmark features of Placental Site Trophoblastic Tumor (PSTT).",
+                        "wrongAnswer_2": "Characterized by a dual population of cytotrophoblasts and syncytiotrophoblasts forming villous structures with marked stromal edema and atypia, and elevated mitotic index, is the definitive histological characteristic of PSTT.",
+                        "wrongAnswer_3": "Demonstration of biphasic population of mononuclear and multinucleated cells with prominent stromal condensation and vascular invasion, accompanied by high levels of p53 expression, is diagnostic for Placental Site Trophoblastic Tumor (PSTT).",
+                        "wrongAnswer_4": "Identification of large, pleomorphic cytotrophoblasts with abundant eosinophilic cytoplasm and syncytial giant cells, arranged in sheets and nests with extensive lymphatic invasion and low Ki-67 proliferation index, is consistent with PSTT."
+                    },
+                    {
+                        "question": "Serum human chorionic gonadotropin (hCG) levels in patients with Placental Site Trophoblastic Tumor (PSTT) typically exhibit which pattern compared to other gestational trophoblastic diseases like choriocarcinoma or hydatidiform mole?",
+                        "goodAnswer": "Serum hCG levels in PSTT are characteristically lower and often fluctuate less dramatically than in choriocarcinoma or hydatidiform mole, frequently remaining in the low or moderately elevated range despite significant tumor mass.",
+                        "wrongAnswer_1": "Serum hCG levels in PSTT are typically markedly elevated, often exceeding levels seen in choriocarcinoma and hydatidiform mole, reflecting the aggressive nature and rapid growth rate of PSTT cells.",
+                        "wrongAnswer_2": "Serum hCG levels in PSTT are usually undetectable or minimally elevated, even in advanced stages, due to the tumor's limited capacity to produce hCG and its primary reliance on other growth factors.",
+                        "wrongAnswer_3": "Serum hCG levels in PSTT demonstrate a biphasic pattern, initially low but rapidly escalating to extremely high levels as the tumor progresses and metastasizes, similar to invasive hydatidiform mole.",
+                        "wrongAnswer_4": "Serum hCG levels in PSTT are highly variable and unpredictable, ranging from undetectable to extremely elevated, with no consistent correlation to tumor burden or clinical stage, unlike in choriocarcinoma where levels are consistently high."
+                    }
+                ]
+            },
+            {
+                "title": "Pap Smear, Infections Detected by Pap Smear",
+                "quizzes": [
+                    {
+                        "question": "The Bethesda System for reporting cervical cytology results emphasizes the classification of squamous intraepithelial lesions (SIL). Which of the following best describes the distinction between Low-grade SIL (LSIL) and High-grade SIL (HSIL) in this system?",
+                        "goodAnswer": "LSIL encompasses changes associated with HPV infection, including CIN 1, while HSIL includes CIN 2 and CIN 3, reflecting a greater degree of dysplasia and a higher risk of progression to invasive carcinoma.",
+                        "wrongAnswer_1": "LSIL includes CIN 2 and CIN 3, representing moderate to severe dysplasia, whereas HSIL encompasses CIN 1, indicating mild dysplasia and changes consistent with reversible HPV infection.",
+                        "wrongAnswer_2": "LSIL is defined by the presence of koilocytes and mild dysplasia (CIN 1), and HSIL is characterized by the absence of koilocytes but significant dysplasia (CIN 2 and CIN 3) with increased mitotic figures.",
+                        "wrongAnswer_3": "LSIL refers to cellular changes limited to the basal layer of the cervical epithelium, while HSIL indicates involvement of the full thickness of the epithelium with features of carcinoma in situ (CIN 3 and invasive carcinoma).",
+                        "wrongAnswer_4": "LSIL is diagnosed when dysplasia is confined to the outer one-third of the cervical epithelium (CIN 1), and HSIL is diagnosed when dysplasia extends beyond the outer one-third but not full thickness (CIN 2), with CIN 3 being reported separately as carcinoma in situ."
+                    },
+                    {
+                        "question": "In the context of Pap smear interpretation, atypical squamous cells of undetermined significance (ASC-US) represent a common but diagnostically challenging category. Which of the following is the most appropriate initial management strategy for a patient with an ASC-US Pap smear result, according to current guidelines?",
+                        "goodAnswer": "Repeat cytology in 12 months or HPV DNA testing; if HPV-negative, routine screening; if HPV-positive, colposcopy is recommended for further evaluation and risk stratification.",
+                        "wrongAnswer_1": "Immediate colposcopy with directed biopsies is mandatory for all patients with ASC-US results to rule out high-grade lesions or invasive carcinoma, regardless of HPV status or age.",
+                        "wrongAnswer_2": "Loop electrosurgical excision procedure (LEEP) is the preferred initial management to remove the atypical cells and provide definitive diagnosis and treatment in cases of ASC-US.",
+                        "wrongAnswer_3": "Hysterectomy is recommended as the primary management for ASC-US to prevent potential progression to cervical cancer, especially in postmenopausal women with persistent ASC-US results.",
+                        "wrongAnswer_4": "Prescription of broad-spectrum antibiotics and repeat cytology in 6 weeks is the first-line management, assuming ASC-US is likely due to an underlying bacterial or fungal infection, before considering further investigations."
+                    },
+                    {
+                        "question": "Which of the following infectious agents is most reliably detected and reported by a routine Pap smear, even though Pap smear is primarily designed for cervical cancer screening?",
+                        "goodAnswer": "Trichomonas vaginalis is often detected on Pap smears as it causes characteristic cellular changes and inflammation, although specific diagnostic tests are more sensitive for confirmation.",
+                        "wrongAnswer_1": "Chlamydia trachomatis is routinely and reliably detected on Pap smears due to its intracellular nature and the distinctive cytoplasmic inclusions it produces in infected cervical epithelial cells.",
+                        "wrongAnswer_2": "Neisseria gonorrhoeae is effectively identified on Pap smears as it induces a specific columnar cell morphology and neutrophilic inflammation, making it a sensitive screening tool for gonorrhea.",
+                        "wrongAnswer_3": "Herpes simplex virus (HSV) is consistently and accurately diagnosed on Pap smears due to the characteristic multinucleated giant cells and intranuclear inclusions it forms in infected squamous cells.",
+                        "wrongAnswer_4": "Human papillomavirus (HPV) is directly detected and typed by Pap smear analysis, allowing for precise identification of high-risk HPV types and guiding management decisions based on viral genotype."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical Intraepithelial Neoplasia (CIN) \u2013 Risk factors, Role of HPV, HPV infection risk factors,",
+                "quizzes": [
+                    {
+                        "question": "Persistent infection with high-risk types of Human Papillomavirus (HPV) is considered the most critical etiological factor in the development of Cervical Intraepithelial Neoplasia (CIN). Which of the following mechanisms best describes how HPV contributes to cervical carcinogenesis?",
+                        "goodAnswer": "High-risk HPV oncoproteins E6 and E7 interfere with tumor suppressor genes p53 and Rb, respectively, disrupting cell cycle regulation and promoting uncontrolled cellular proliferation and genomic instability, leading to CIN development.",
+                        "wrongAnswer_1": "HPV directly induces mutations in key oncogenes such as MYC and KRAS, causing activation of cellular growth pathways and bypassing normal apoptotic mechanisms, resulting in the formation of CIN lesions and progression to cancer.",
+                        "wrongAnswer_2": "HPV infection triggers chronic inflammation and oxidative stress in the cervical epithelium, leading to DNA damage and epigenetic modifications that promote cellular transformation and the development of CIN and invasive carcinoma.",
+                        "wrongAnswer_3": "HPV disrupts the normal differentiation program of cervical epithelial cells by directly inhibiting the expression of differentiation-specific keratins and promoting the expression of embryonic stem cell markers, causing CIN.",
+                        "wrongAnswer_4": "HPV infection leads to the integration of viral DNA into the host genome, causing insertional mutagenesis and disruption of critical cellular genes involved in DNA repair and chromosomal stability, thereby initiating CIN."
+                    },
+                    {
+                        "question": "Several risk factors, beyond HPV infection, are known to increase the likelihood of developing Cervical Intraepithelial Neoplasia (CIN). Among the following, which is considered a significant independent risk factor for CIN, potentially modifying the course of HPV infection?",
+                        "goodAnswer": "Cigarette smoking is an established independent risk factor, as carcinogens in tobacco smoke can synergize with HPV to promote cervical dysplasia and impair local immune responses, increasing CIN risk.",
+                        "wrongAnswer_1": "Regular consumption of alcohol is a major independent risk factor for CIN, as alcohol metabolites directly damage cervical epithelial cells and promote HPV integration, significantly increasing the risk of dysplasia.",
+                        "wrongAnswer_2": "Dietary factors, particularly high intake of saturated fats and processed foods, are strongly linked to increased CIN risk by inducing chronic inflammation and weakening the cervical mucosal barrier against HPV infection.",
+                        "wrongAnswer_3": "Occupational exposure to ionizing radiation is a significant independent risk factor for CIN, as radiation directly damages cervical DNA and impairs the immune system's ability to clear HPV infections, leading to dysplasia.",
+                        "wrongAnswer_4": "Lack of physical exercise and a sedentary lifestyle are independent risk factors for CIN, as they contribute to systemic inflammation and immune suppression, making individuals more susceptible to persistent HPV infection and CIN progression."
+                    },
+                    {
+                        "question": "Certain behaviors and conditions increase the risk of acquiring Human Papillomavirus (HPV) infection, which is a prerequisite for Cervical Intraepithelial Neoplasia (CIN). Which of the following is most strongly associated with an increased risk of HPV acquisition?",
+                        "goodAnswer": "Having multiple sexual partners or partners with multiple partners significantly elevates the risk of HPV acquisition due to increased exposure to the virus through sexual contact, the primary mode of HPV transmission.",
+                        "wrongAnswer_1": "Frequent use of public restrooms is a major risk factor for HPV acquisition, as HPV is highly contagious and can survive on fomites in public environments, leading to transmission through casual contact.",
+                        "wrongAnswer_2": "Poor personal hygiene, including infrequent handwashing and inadequate genital cleaning, is a significant risk factor for HPV acquisition, as it facilitates viral spread and transmission through direct contact and autoinoculation.",
+                        "wrongAnswer_3": "Sharing personal items such as towels and razors with others is a primary route of HPV transmission, as HPV can persist on these items and be transmitted through skin-to-skin contact, especially in moist environments.",
+                        "wrongAnswer_4": "Living in densely populated urban areas is a substantial risk factor for HPV acquisition due to increased environmental exposure to HPV and higher rates of sexual activity among urban populations, facilitating viral spread."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical cancer signs, Staging of Cervical Cancer, Type of Cancers,",
+                "quizzes": [
+                    {
+                        "question": "Early-stage cervical cancer is often asymptomatic, but as the disease progresses, certain signs and symptoms may become apparent. Which of the following is a common presenting symptom of locally advanced cervical cancer?",
+                        "goodAnswer": "Abnormal vaginal bleeding, particularly postcoital bleeding or bleeding between periods, is a frequent symptom of locally advanced cervical cancer due to tumor vascularity and ulceration.",
+                        "wrongAnswer_1": "Sudden and significant weight gain is a common presenting symptom of advanced cervical cancer, resulting from tumor-induced metabolic changes and fluid retention in the abdominal cavity.",
+                        "wrongAnswer_2": "Persistent and severe headaches are often the first symptom of cervical cancer metastasis to the brain, indicating widespread dissemination of the disease and involvement of the central nervous system.",
+                        "wrongAnswer_3": "Acute onset of lower abdominal pain radiating to the groin is a typical presenting symptom of early cervical cancer, caused by tumor invasion of pelvic nerves and ligaments.",
+                        "wrongAnswer_4": "Changes in bowel habits, such as constipation alternating with diarrhea, are frequently observed in early cervical cancer due to tumor compression of the colon and rectum in the pelvic region."
+                    },
+                    {
+                        "question": "The FIGO staging system is widely used for cervical cancer to guide treatment and prognosis. According to the FIGO 2018 staging, which of the following best describes Stage IIB cervical cancer?",
+                        "goodAnswer": "Stage IIB indicates that the cervical cancer has extended beyond the uterus, involving the parametrium but not reaching the pelvic sidewall or the lower third of the vagina.",
+                        "wrongAnswer_1": "Stage IIB signifies that the cervical cancer is confined to the cervix but with lymph node metastasis in the pelvic region, irrespective of parametrial involvement or vaginal extension.",
+                        "wrongAnswer_2": "Stage IIB denotes that the cervical cancer has invaded the vagina but is limited to the upper two-thirds of the vagina and has not extended to the parametrium or pelvic sidewall.",
+                        "wrongAnswer_3": "Stage IIB means the cervical cancer has spread to the pelvic sidewall or lower third of the vagina, or caused hydronephrosis or non-functioning kidney, regardless of parametrial involvement.",
+                        "wrongAnswer_4": "Stage IIB represents cervical cancer that has metastasized to distant organs, such as the lungs, liver, or bones, indicating widespread dissemination beyond the pelvis and regional lymph nodes."
+                    },
+                    {
+                        "question": "Histologically, cervical cancers are classified into different types, with squamous cell carcinoma being the most prevalent. Which of the following is the second most common histological type of cervical cancer?",
+                        "goodAnswer": "Adenocarcinoma is the second most common type, arising from the glandular cells of the cervix and often associated with HPV infection, though with distinct epidemiological and clinical features compared to squamous cell carcinoma.",
+                        "wrongAnswer_1": "Small cell carcinoma is the second most common type, characterized by neuroendocrine differentiation and aggressive behavior, representing a significant proportion of cervical cancer cases worldwide.",
+                        "wrongAnswer_2": "Clear cell carcinoma is the second most frequent type, often linked to in utero exposure to diethylstilbestrol (DES) and typically arising in the vagina or cervix, but less common overall than squamous cell carcinoma.",
+                        "wrongAnswer_3": "Melanoma is the second most common type of cervical cancer, originating from melanocytes in the cervical mucosa and characterized by aggressive behavior and poor prognosis, frequently misdiagnosed as squamous cell carcinoma.",
+                        "wrongAnswer_4": "Sarcoma is the second most prevalent histological type of cervical cancer, arising from mesenchymal tissues of the cervix and exhibiting varied subtypes like leiomyosarcoma and rhabdomyosarcoma, common in younger women."
+                    }
+                ]
+            },
+            {
+                "title": "Treatments, Cervical Cancer Therapy",
+                "quizzes": [
+                    {
+                        "question": "The treatment approach for cervical cancer is highly dependent on the stage of the disease. For early-stage cervical cancer (FIGO Stage IA1), which of the following is often considered a primary treatment option, particularly for women desiring to preserve fertility?",
+                        "goodAnswer": "Cone biopsy or simple hysterectomy are primary options for Stage IA1, offering excellent cure rates while cone biopsy allows for fertility preservation in selected cases with negative margins and no lymphovascular space invasion.",
+                        "wrongAnswer_1": "Radical hysterectomy with pelvic lymph node dissection is the standard primary treatment for Stage IA1, ensuring maximal tumor removal and minimizing recurrence risk, irrespective of fertility considerations or patient age.",
+                        "wrongAnswer_2": "External beam radiation therapy combined with brachytherapy is the preferred primary treatment for Stage IA1, providing effective local control and equivalent survival outcomes to surgery, while preserving ovarian function.",
+                        "wrongAnswer_3": "Chemotherapy with platinum-based regimens is the mainstay of primary treatment for Stage IA1, targeting microscopic disease and preventing distant metastasis, even in the absence of lymph node involvement or high-risk features.",
+                        "wrongAnswer_4": "Observation alone with close follow-up is the recommended primary management for Stage IA1, as the risk of progression is minimal and treatment-related morbidity outweighs the potential benefits in this early stage."
+                    },
+                    {
+                        "question": "For locally advanced cervical cancer (e.g., FIGO Stage IIB-IVA), the standard treatment typically involves a combination of modalities. Which of the following represents the guideline-recommended primary treatment for locally advanced cervical cancer?",
+                        "goodAnswer": "Concurrent chemoradiation, combining external beam radiation therapy with cisplatin-based chemotherapy, is the standard of care for locally advanced cervical cancer, improving local control and overall survival compared to radiation alone.",
+                        "wrongAnswer_1": "Neoadjuvant chemotherapy followed by radical hysterectomy is the preferred primary treatment sequence for locally advanced cervical cancer, aiming to downstage the tumor and facilitate surgical resection with better outcomes.",
+                        "wrongAnswer_2": "Radical surgery alone, specifically radical hysterectomy with pelvic and para-aortic lymph node dissection, is the primary treatment for locally advanced cervical cancer, offering definitive local control without the need for radiation or chemotherapy.",
+                        "wrongAnswer_3": "Brachytherapy alone as monotherapy is the standard treatment for locally advanced cervical cancer, delivering high doses of radiation directly to the tumor while sparing surrounding tissues, achieving comparable outcomes to chemoradiation.",
+                        "wrongAnswer_4": "Hormonal therapy with anti-estrogens or aromatase inhibitors is the primary treatment for locally advanced cervical cancer, targeting hormone receptors in tumor cells and inhibiting tumor growth, especially in adenocarcinoma subtypes."
+                    },
+                    {
+                        "question": "In cases of recurrent or metastatic cervical cancer, treatment options shift towards palliative care and systemic therapies. Which of the following systemic therapy regimens is commonly used as first-line chemotherapy for metastatic cervical cancer?",
+                        "goodAnswer": "Platinum-based chemotherapy, often cisplatin or carboplatin, combined with paclitaxel or topotecan, is a standard first-line regimen for metastatic cervical cancer, providing improved response rates and progression-free survival.",
+                        "wrongAnswer_1": "Single-agent hormonal therapy with tamoxifen or letrozole is the preferred first-line systemic treatment for metastatic cervical cancer, particularly for estrogen receptor-positive tumors, offering minimal toxicity and symptom control.",
+                        "wrongAnswer_2": "High-dose methotrexate-based chemotherapy is the standard first-line regimen for metastatic cervical cancer, known for its efficacy in rapidly reducing tumor burden and alleviating symptoms, but with significant side effects.",
+                        "wrongAnswer_3": "Immunotherapy with checkpoint inhibitors, such as pembrolizumab or nivolumab, as monotherapy is the first-line systemic treatment of choice for all metastatic cervical cancers, regardless of PD-L1 expression or prior treatment history.",
+                        "wrongAnswer_4": "Targeted therapy with VEGF inhibitors like bevacizumab as a single agent is the standard first-line treatment for metastatic cervical cancer, selectively targeting tumor angiogenesis and inhibiting tumor growth and metastasis."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

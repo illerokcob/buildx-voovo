@@ -1,0 +1,144 @@
+{
+    "mainTopic": {
+        "title": "Female pelvic anatomy",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Uterus",
+                "quizzes": [
+                    {
+                        "question": "What is the primary anatomical position of the uterus in the pelvic cavity relative to the urinary bladder and rectum in a typical anteverted and anteflexed configuration?",
+                        "goodAnswer": "In the typical anteverted and anteflexed position, the uterus is situated superior and posterior to the urinary bladder and anterior to the rectum, with the fundus directed anterosuperiorly.",
+                        "wrongAnswer_1": "In the retroverted and retroflexed position, the uterus is located inferior and anterior to the urinary bladder and posterior to the rectum, with the fundus directed posteroinferiorly.",
+                        "wrongAnswer_2": "In the anteverted and retroflexed position, the uterus is positioned inferior and posterior to the urinary bladder and anterior to the rectum, with the fundus directed anteroinferiorly.",
+                        "wrongAnswer_3": "In the retroverted and anteflexed position, the uterus is situated superior and anterior to the urinary bladder and posterior to the rectum, with the fundus directed posterosuperiorly.",
+                        "wrongAnswer_4": "In the typical anteverted and anteflexed position, the uterus is situated inferior and anterior to the urinary bladder and anterior to the rectum, with the fundus directed anterosuperiorly."
+                    },
+                    {
+                        "question": "Which of the following accurately describes the layers of the uterine wall, moving from the innermost to the outermost?",
+                        "goodAnswer": "Endometrium -> Myometrium -> Perimetrium, representing the mucosal lining, muscular layer, and serosal outer layer, respectively, with the endometrium exhibiting cyclical changes.",
+                        "wrongAnswer_1": "Perimetrium -> Myometrium -> Endometrium, representing the serosal outer layer, muscular layer, and mucosal lining, respectively, with the myometrium exhibiting cyclical changes.",
+                        "wrongAnswer_2": "Myometrium -> Endometrium -> Perimetrium, representing the muscular layer, mucosal lining, and serosal outer layer, respectively, with the perimetrium exhibiting cyclical changes.",
+                        "wrongAnswer_3": "Endometrium -> Perimetrium -> Myometrium, representing the mucosal lining, serosal outer layer, and muscular layer, respectively, with the endometrium exhibiting cyclical changes.",
+                        "wrongAnswer_4": "Myometrium -> Perimetrium -> Endometrium, representing the muscular layer, serosal outer layer, and mucosal lining, respectively, with the myometrium exhibiting cyclical changes."
+                    },
+                    {
+                        "question": "What is the functional significance of the arcuate arteries in the uterus, and where are they primarily located within the uterine wall?",
+                        "goodAnswer": "Arcuate arteries, branches of the radial arteries, encircle the uterus within the myometrium and give rise to the radial arteries that supply the endometrium and myometrium, ensuring consistent blood flow.",
+                        "wrongAnswer_1": "Arcuate arteries, branches of the spiral arteries, encircle the cervix within the endometrium and give rise to the basal arteries that supply the endometrium and cervix, ensuring cyclical blood flow.",
+                        "wrongAnswer_2": "Arcuate arteries, branches of the uterine arteries, encircle the ovaries within the perimetrium and give rise to the spiral arteries that supply the ovaries and myometrium, ensuring consistent hormonal supply.",
+                        "wrongAnswer_3": "Arcuate arteries, branches of the ovarian arteries, are located within the endometrium and give rise to the basal arteries that supply the myometrium and perimetrium, ensuring cyclical hormonal changes.",
+                        "wrongAnswer_4": "Arcuate arteries, branches of the radial arteries, are located within the endometrium and give rise to the spiral arteries that supply the myometrium and cervix, ensuring consistent nutrient supply."
+                    },
+                    {
+                        "question": "During the secretory phase of the menstrual cycle, what histological changes are predominantly observed in the functional layer of the endometrium under the influence of progesterone?",
+                        "goodAnswer": "Increased tortuosity of spiral arteries, development of glycogen-rich vacuoles in glandular epithelial cells, and increased stromal edema are observed in the functional layer during the secretory phase.",
+                        "wrongAnswer_1": "Increased mitotic activity in glandular epithelial cells, thinning of spiral arteries, and decreased stromal edema are observed in the functional layer during the proliferative phase.",
+                        "wrongAnswer_2": "Increased apoptosis of glandular epithelial cells, thickening of basal arteries, and decreased stromal vascularity are observed in the functional layer during the menstrual phase.",
+                        "wrongAnswer_3": "Increased stratification of glandular epithelial cells, dilation of basal arteries, and increased stromal cellularity are observed in the functional layer during the proliferative phase.",
+                        "wrongAnswer_4": "Increased tortuosity of basal arteries, development of lipid-rich vacuoles in stromal cells, and decreased glandular secretion are observed in the functional layer during the secretory phase."
+                    }
+                ]
+            },
+            {
+                "title": "Histology",
+                "quizzes": [
+                    {
+                        "question": "Which specific type of epithelium primarily lines the uterine endometrium, and what are its key cellular components and their functional roles?",
+                        "goodAnswer": "Simple columnar epithelium with ciliated and secretory cells lines the endometrium, where ciliated cells aid in ovum transport and secretory cells produce uterine milk and endometrial secretions.",
+                        "wrongAnswer_1": "Stratified squamous epithelium with goblet and basal cells lines the endometrium, where goblet cells secrete mucus and basal cells provide structural support and protection from abrasion.",
+                        "wrongAnswer_2": "Pseudostratified columnar epithelium with stereocilia and goblet cells lines the endometrium, where stereocilia enhance absorption and goblet cells produce cervical mucus for lubrication.",
+                        "wrongAnswer_3": "Transitional epithelium with umbrella and basal cells lines the endometrium, where umbrella cells provide distensibility and basal cells maintain the epithelial barrier against urine reflux.",
+                        "wrongAnswer_4": "Simple cuboidal epithelium with absorptive and ciliated cells lines the endometrium, where absorptive cells facilitate nutrient uptake and ciliated cells remove cellular debris and pathogens."
+                    },
+                    {
+                        "question": "Describe the histological characteristics that distinguish the functional layer (stratum functionalis) from the basal layer (stratum basalis) of the endometrium, particularly concerning their response to hormonal fluctuations during the menstrual cycle.",
+                        "goodAnswer": "Stratum functionalis undergoes cyclical changes and is shed during menstruation, characterized by spiral arteries and glands, while stratum basalis is retained, containing straight arteries and gland bases for regeneration.",
+                        "wrongAnswer_1": "Stratum basalis undergoes cyclical changes and is shed during menstruation, characterized by spiral arteries and glands, while stratum functionalis is retained, containing straight arteries and gland bases for regeneration.",
+                        "wrongAnswer_2": "Stratum functionalis and stratum basalis both undergo cyclical changes and are shed during menstruation, both characterized by spiral arteries and glands, requiring complete regeneration each cycle.",
+                        "wrongAnswer_3": "Stratum functionalis and stratum basalis are both retained during menstruation, neither is shed, and both contain straight arteries and gland bases, maintaining a constant endometrial thickness.",
+                        "wrongAnswer_4": "Stratum basalis is shed during menstruation and regenerates the stratum functionalis, characterized by spiral arteries and glands, while stratum functionalis is retained, containing straight arteries and gland bases."
+                    },
+                    {
+                        "question": "What are the key histological features of the myometrium, and how does its structure contribute to its primary function in uterine contractions during parturition?",
+                        "goodAnswer": "The myometrium is composed of interlacing bundles of smooth muscle cells, arranged in longitudinal, circular, and oblique layers, facilitating powerful and coordinated contractions during labor and delivery.",
+                        "wrongAnswer_1": "The myometrium is composed of stratified layers of skeletal muscle cells, arranged in parallel bundles, enabling rapid and voluntary contractions during labor and delivery.",
+                        "wrongAnswer_2": "The myometrium is composed of dense irregular connective tissue with embedded fibroblasts and collagen fibers, providing structural support and rigidity to the uterine wall during pregnancy.",
+                        "wrongAnswer_3": "The myometrium is composed of a single layer of smooth muscle cells arranged circularly, primarily responsible for maintaining uterine tone and preventing prolapse, not forceful contractions.",
+                        "wrongAnswer_4": "The myometrium is composed of elastic fibers and adipose tissue, allowing for uterine distension during pregnancy but not contributing significantly to contractile force during parturition."
+                    },
+                    {
+                        "question": "How does the histology of the endometrium change during the proliferative phase of the menstrual cycle, and which hormone primarily drives these changes?",
+                        "goodAnswer": "During the proliferative phase, under estrogen influence, the endometrium shows increased thickness, straight glands, and pseudostratified columnar epithelium, reflecting glandular and stromal proliferation.",
+                        "wrongAnswer_1": "During the secretory phase, under progesterone influence, the endometrium shows decreased thickness, coiled glands, and simple cuboidal epithelium, reflecting glandular atrophy and stromal regression.",
+                        "wrongAnswer_2": "During the menstrual phase, under FSH influence, the endometrium shows sloughing of the functional layer, fragmented glands, and simple squamous epithelium, reflecting tissue necrosis and shedding.",
+                        "wrongAnswer_3": "During the proliferative phase, under progesterone influence, the endometrium shows decreased thickness, straight glands, and stratified squamous epithelium, reflecting glandular regression and stromal condensation.",
+                        "wrongAnswer_4": "During the secretory phase, under estrogen influence, the endometrium shows increased thickness, coiled glands, and pseudostratified columnar epithelium, reflecting glandular hypertrophy and stromal edema."
+                    },
+                    {
+                        "question": "Describe the histological characteristics of endometrial glands during the secretory phase compared to the proliferative phase, focusing on their morphology and secretions.",
+                        "goodAnswer": "Secretory phase glands are coiled and tortuous with glycogen-rich secretions and subnuclear vacuoles, while proliferative phase glands are straight, tubular, and contain minimal secretions with mitotic activity.",
+                        "wrongAnswer_1": "Proliferative phase glands are coiled and tortuous with lipid-rich secretions and supranuclear vacuoles, while secretory phase glands are straight, tubular, and contain abundant secretions with apoptotic activity.",
+                        "wrongAnswer_2": "Secretory phase glands are atrophic and flattened with serous secretions and perinuclear vacuoles, while proliferative phase glands are hypertrophic and dilated, containing mucoid secretions with secretory exhaustion.",
+                        "wrongAnswer_3": "Proliferative phase glands are branched and alveolar with proteinaceous secretions and cytoplasmic vacuoles, while secretory phase glands are unbranched and acinar, containing serous secretions with basal nuclei.",
+                        "wrongAnswer_4": "Secretory phase glands are straight and tubular with watery secretions and supranuclear vacuoles, while proliferative phase glands are coiled and tortuous, and contain viscous secretions with basal vacuoles."
+                    }
+                ]
+            },
+            {
+                "title": "Abnormal bleeding",
+                "quizzes": [
+                    {
+                        "question": "According to the PALM-COEIN classification system, what category does 'leiomyoma' fall under, and how does it typically contribute to abnormal uterine bleeding?",
+                        "goodAnswer": "Leiomyoma falls under the 'P' (Polyp, Adenomyosis, Leiomyoma, Malignancy and hyperplasia) category, and submucosal leiomyomas, in particular, can distort the uterine cavity leading to heavy menstrual bleeding.",
+                        "wrongAnswer_1": "Leiomyoma falls under the 'C' (Coagulopathy) category, and it contributes to abnormal uterine bleeding by interfering with systemic hemostatic mechanisms and causing prolonged bleeding.",
+                        "wrongAnswer_2": "Leiomyoma falls under the 'E' (Endometrial) category, and it causes abnormal uterine bleeding by inducing endometrial hyperplasia and disrupting the normal shedding process during menstruation.",
+                        "wrongAnswer_3": "Leiomyoma falls under the 'O' (Ovulatory dysfunction) category, and it contributes to abnormal uterine bleeding by causing irregular ovulation and subsequent hormonal imbalances.",
+                        "wrongAnswer_4": "Leiomyoma falls under the 'M' (Malignancy and hyperplasia) category, and it is directly classified as a malignant tumor of the uterus, leading to unpredictable and heavy uterine bleeding."
+                    },
+                    {
+                        "question": "Within the COEIN classification of abnormal uterine bleeding, what conditions are encompassed under 'Coagulopathy', and how do these conditions typically manifest as abnormal bleeding?",
+                        "goodAnswer": "'Coagulopathy' encompasses systemic hemostatic disorders such as von Willebrand disease and thrombocytopenia, often manifesting as heavy menstrual bleeding (menorrhagia) from the uterus and other sites.",
+                        "wrongAnswer_1": "'Coagulopathy' encompasses structural uterine abnormalities such as adenomyosis and polyps, typically manifesting as intermenstrual bleeding (metrorrhagia) due to localized endometrial defects.",
+                        "wrongAnswer_2": "'Coagulopathy' encompasses hormonal imbalances such as polycystic ovary syndrome and hypothyroidism, usually manifesting as infrequent or absent menstrual bleeding (amenorrhea) due to ovulatory dysfunction.",
+                        "wrongAnswer_3": "'Coagulopathy' encompasses iatrogenic causes such as intrauterine devices and anticoagulation medications, often manifesting as breakthrough bleeding or spotting due to endometrial irritation.",
+                        "wrongAnswer_4": "'Coagulopathy' encompasses endometrial pathologies such as endometritis and endometrial cancer, primarily manifesting as postmenopausal bleeding due to inflammatory or neoplastic processes."
+                    },
+                    {
+                        "question": "How does 'Endometrial dysfunction' (category E in COEIN) contribute to abnormal uterine bleeding, and what are the typical bleeding patterns associated with this category?",
+                        "goodAnswer": "'Endometrial dysfunction' refers to primary disorders of endometrial hemostasis, leading to heavy menstrual bleeding (menorrhagia) with regular cycles, often due to altered local prostaglandin or fibrinolytic activity.",
+                        "wrongAnswer_1": "'Endometrial dysfunction' refers to structural abnormalities within the endometrium, leading to intermenstrual bleeding (metrorrhagia) with irregular cycles, often due to polyps or fibroids distorting the cavity.",
+                        "wrongAnswer_2": "'Endometrial dysfunction' refers to ovulatory dysfunction affecting the endometrium, leading to infrequent bleeding (oligomenorrhea) with prolonged cycles, often due to hormonal imbalances and anovulation.",
+                        "wrongAnswer_3": "'Endometrial dysfunction' refers to coagulopathies impacting the endometrium, leading to breakthrough bleeding (spotting) with unpredictable cycles, often due to systemic clotting disorders.",
+                        "wrongAnswer_4": "'Endometrial dysfunction' refers to infectious processes within the endometrium, leading to postcoital bleeding (contact bleeding) with painful cycles, often due to endometritis or pelvic inflammatory disease."
+                    },
+                    {
+                        "question": "What is the role of 'Ovulatory dysfunction' (category O in COEIN) in causing abnormal uterine bleeding, and what bleeding patterns are typically observed in women with ovulatory disorders?",
+                        "goodAnswer": "'Ovulatory dysfunction' leads to hormonal imbalances, particularly progesterone deficiency, causing irregular shedding of the endometrium and resulting in unpredictable, heavy, or prolonged bleeding (menometrorrhagia).",
+                        "wrongAnswer_1": "'Ovulatory dysfunction' leads to structural changes in the myometrium, causing impaired contractility and resulting in consistently light and infrequent bleeding (oligomenorrhea) due to reduced endometrial perfusion.",
+                        "wrongAnswer_2": "'Ovulatory dysfunction' leads to coagulopathies affecting uterine blood vessels, causing excessive clotting and resulting in absent menstrual bleeding (amenorrhea) due to endometrial atrophy.",
+                        "wrongAnswer_3": "'Ovulatory dysfunction' leads to endometrial hyperplasia due to unopposed estrogen, causing regular but excessively heavy and prolonged bleeding (menorrhagia) due to increased endometrial mass.",
+                        "wrongAnswer_4": "'Ovulatory dysfunction' leads to inflammatory conditions of the endometrium, causing painful and frequent bleeding (polymenorrhea) due to increased prostaglandin production and endometrial irritation."
+                    },
+                    {
+                        "question": "How do 'Iatrogenic' causes (category I in COEIN), such as certain medications or intrauterine devices, contribute to abnormal uterine bleeding, and what are some examples of iatrogenic factors?",
+                        "goodAnswer": "'Iatrogenic' factors, like hormonal contraceptives, anticoagulants, or intrauterine devices, can disrupt endometrial integrity or hemostasis, leading to breakthrough bleeding, spotting, or heavy menstrual bleeding, depending on the agent.",
+                        "wrongAnswer_1": "'Iatrogenic' factors, like structural uterine abnormalities, such as fibroids or polyps, can directly compress endometrial vessels, leading to heavy menstrual bleeding or intermenstrual bleeding due to physical distortion.",
+                        "wrongAnswer_2": "'Iatrogenic' factors, like systemic coagulopathies, such as hemophilia or von Willebrand disease, can impair clotting mechanisms, leading to prolonged and heavy menstrual bleeding from various sites, including the uterus.",
+                        "wrongAnswer_3": "'Iatrogenic' factors, like ovulatory disorders, such as PCOS or thyroid dysfunction, can cause hormonal imbalances, leading to irregular or absent menstrual bleeding due to disrupted endometrial cycling.",
+                        "wrongAnswer_4": "'Iatrogenic' factors, like endometrial infections, such as endometritis or PID, can induce inflammation and tissue damage, leading to postcoital bleeding, pelvic pain, and abnormal vaginal discharge."
+                    },
+                    {
+                        "question": "Within the PALM-COEIN classification, what does 'Not yet classified' (category N) signify in the context of abnormal uterine bleeding, and when is this category typically used?",
+                        "goodAnswer": "'Not yet classified' (N) is used when the cause of abnormal uterine bleeding is undetermined or when a patient has rare conditions that do not fit into the other PALM-COEIN categories, requiring further investigation.",
+                        "wrongAnswer_1": "'Not yet classified' (N) is used when abnormal uterine bleeding is clearly attributed to structural causes (PALM) but the specific type of structural abnormality has not yet been identified through imaging.",
+                        "wrongAnswer_2": "'Not yet classified' (N) is used when abnormal uterine bleeding is definitively diagnosed as being due to ovulatory dysfunction (O) but the underlying hormonal imbalance is still being investigated.",
+                        "wrongAnswer_3": "'Not yet classified' (N) is used as a preliminary category when abnormal uterine bleeding is suspected to be related to coagulopathy (C) but laboratory confirmation is pending.",
+                        "wrongAnswer_4": "'Not yet classified' (N) is used when abnormal uterine bleeding is considered to be physiological and within normal limits, requiring no further investigation or intervention according to guidelines."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

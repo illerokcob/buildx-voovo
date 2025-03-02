@@ -1,0 +1,215 @@
+{
+    "mainTopic": {
+        "title": "Epithelium",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Overview and definition of epithelium",
+                "quizzes": [
+                    {
+                        "question": "Considering its location at the interface between the body and external environments, what is the most critical function of epithelial tissue in maintaining physiological homeostasis?",
+                        "goodAnswer": "Epithelial tissue serves primarily as a selective barrier, controlling the passage of ions and molecules, protecting underlying tissues, and defining tissue compartments.",
+                        "wrongAnswer_1": "Epithelial tissue is mainly responsible for generating mechanical force through contraction, enabling movement and structural support throughout the organism's body.",
+                        "wrongAnswer_2": "Epithelial tissue primarily functions in long-distance communication via electrical and chemical signaling, coordinating organ functions and rapid responses to stimuli.",
+                        "wrongAnswer_3": "Epithelial tissue's fundamental role is energy storage and thermal insulation, composed predominantly of adipocytes and contributing to the body's metabolic reserves.",
+                        "wrongAnswer_4": "Epithelial tissue is essentially involved in the synthesis and systemic distribution of hormones, regulating metabolic processes and intercellular communication across distant organs."
+                    },
+                    {
+                        "question": "Which of the following structural characteristics is most indicative of the fundamental nature and organizational principles of epithelial tissue throughout the body?",
+                        "goodAnswer": "Epithelial tissue is fundamentally characterized by densely packed cells with minimal extracellular matrix, forming continuous sheets or linings that cover surfaces and enclose spaces.",
+                        "wrongAnswer_1": "Epithelial tissue is identified by loosely arranged cells embedded within an extensive extracellular matrix, providing structural flexibility and facilitating rapid nutrient diffusion and waste removal.",
+                        "wrongAnswer_2": "Epithelial tissue is defined by its highly vascular nature and abundant blood supply within the cellular matrix, ensuring high metabolic activity and efficient oxygen delivery to all cells.",
+                        "wrongAnswer_3": "Epithelial tissue is distinguished by its contractile cells and extensive innervation, allowing for rapid responses to external stimuli and generation of force for movement and posture maintenance.",
+                        "wrongAnswer_4": "Epithelial tissue is fundamentally recognized by isolated cells dispersed in a fluid-filled matrix, promoting efficient diffusion and nutrient exchange over considerable distances within the tissue."
+                    },
+                    {
+                        "question": "In the context of cellular organization and function, what is the paramount significance of 'apical-basal polarity' in epithelial cells for their interaction with different environments?",
+                        "goodAnswer": "Apical-basal polarity in epithelial cells establishes functionally distinct domains, with the apical surface oriented towards the lumen or external space and the basal surface anchored to the basement membrane and underlying connective tissue.",
+                        "wrongAnswer_1": "Apical-basal polarity in epithelial cells refers to the uniform distribution of cellular organelles and membrane proteins, ensuring identical functionality across all cell surfaces and interactions with adjacent cells.",
+                        "wrongAnswer_2": "Apical-basal polarity in epithelial cells describes the radial symmetry of cell organization around a central axis, facilitating multidirectional transport and uniform exposure to environmental influences.",
+                        "wrongAnswer_3": "Apical-basal polarity in epithelial cells indicates the dynamic rearrangement of cell junctions and membrane domains, enabling cellular migration and tissue remodeling in response to developmental cues and injury.",
+                        "wrongAnswer_4": "Apical-basal polarity in epithelial cells signifies the presence of a concentration gradient of nuclei, with multiple nuclei at the apical pole and a single nucleus at the basal pole, reflecting differential gene expression and cellular specialization."
+                    }
+                ]
+            },
+            {
+                "title": "Classification of epithelium",
+                "quizzes": [
+                    {
+                        "question": "Considering cellular morphology and layer arrangement, how is simple squamous epithelium most accurately described in terms of its structural adaptations and functional roles?",
+                        "goodAnswer": "Simple squamous epithelium is characterized by a single layer of flattened, scale-like cells, optimized for rapid diffusion and filtration in regions with minimal mechanical stress, such as alveolar walls and blood vessel linings.",
+                        "wrongAnswer_1": "Simple squamous epithelium is identified by multiple layers of cube-shaped cells, providing robust protection against abrasion and shear forces in areas like the epidermis and oral mucosa exposed to significant friction.",
+                        "wrongAnswer_2": "Simple squamous epithelium consists of a single layer of tall, column-shaped cells, highly specialized for active transport and secretion in the digestive tract and gallbladder lining where absorption is crucial.",
+                        "wrongAnswer_3": "Simple squamous epithelium is defined by multiple layers of flattened cells at the apical surface and cuboidal cells at the basal surface, characteristic of transitional epithelium found in the urinary bladder adapted for distension.",
+                        "wrongAnswer_4": "Simple squamous epithelium is characterized by a single layer of irregularly shaped cells with nuclei at varying levels, specialized for distensibility and found lining the respiratory airways, facilitating mucociliary clearance."
+                    },
+                    {
+                        "question": "How does pseudostratified columnar epithelium fundamentally differ from stratified epithelia in terms of cellular organization and basement membrane contact, despite its seemingly layered appearance?",
+                        "goodAnswer": "Pseudostratified columnar epithelium is composed of a single layer of cells with nuclei positioned at different levels, creating a stratified appearance, but all cells are in contact with the basement membrane, unlike true stratified epithelium.",
+                        "wrongAnswer_1": "Pseudostratified columnar epithelium is characterized by multiple layers of columnar cells, with only the apical layer directly attached to the basement membrane, providing enhanced protection and robust secretory capacity.",
+                        "wrongAnswer_2": "Pseudostratified columnar epithelium features a bilayer arrangement consisting of a superficial layer of columnar cells and a basal layer of squamous cells, facilitating both efficient diffusion and considerable mechanical protection.",
+                        "wrongAnswer_3": "Pseudostratified columnar epithelium is constituted of stratified layers of cells, all exhibiting a columnar shape and reaching the apical surface, but not all cells make contact with the basement membrane.",
+                        "wrongAnswer_4": "Pseudostratified columnar epithelium is distinguished by a false stratification due to varying cell sizes within a multilayered arrangement, where only the largest cells extend down to the basement membrane."
+                    },
+                    {
+                        "question": "Transitional epithelium, specifically adapted to accommodate distension and relaxation, exhibits unique morphological characteristics. Which of the following accurately describes its cellular organization and functional adaptation?",
+                        "goodAnswer": "Transitional epithelium features multiple layers of cells; the apical cells are large and dome-shaped when relaxed and flatten when stretched, allowing for significant volume changes in organs like the urinary bladder.",
+                        "wrongAnswer_1": "Transitional epithelium consists of a single layer of cuboidal cells that can stretch and flatten, primarily found in areas requiring both secretion and distension, such as the stomach lining.",
+                        "wrongAnswer_2": "Transitional epithelium is characterized by stratified squamous cells at the surface, which are highly keratinized to provide protection against abrasion and distension in the skin.",
+                        "wrongAnswer_3": "Transitional epithelium is composed of pseudostratified columnar cells with cilia that aid in movement of fluids while also allowing for expansion and contraction in the respiratory tract.",
+                        "wrongAnswer_4": "Transitional epithelium features a bilayer of cells: a superficial layer of flattened cells for distension and a basal layer of columnar cells for structural support in blood vessels."
+                    },
+                    {
+                        "question": "Considering the diverse functional demands for protection and secretion across different anatomical locations, how does stratified cuboidal epithelium compare to simple cuboidal epithelium in terms of structural complexity and principal functions?",
+                        "goodAnswer": "Stratified cuboidal epithelium, with multiple layers of cuboidal cells, provides enhanced protection in larger gland ducts and portions of the male urethra, whereas simple cuboidal epithelium, a single layer, is primarily specialized for secretion and absorption in smaller ducts and kidney tubules.",
+                        "wrongAnswer_1": "Stratified cuboidal epithelium, a single layer of cube-shaped cells, is primarily engaged in high levels of secretion and absorption in larger glands and the urinary bladder lining, while simple cuboidal epithelium, with multiple layers, offers protection in smaller ducts against mechanical stress.",
+                        "wrongAnswer_2": "Stratified cuboidal epithelium, composed of transitional cells, is specifically adapted for distension and protection in larger ducts and glandular structures, whereas simple cuboidal epithelium, with multiple layers of cuboidal cells, is optimized for secretion in kidney glomeruli.",
+                        "wrongAnswer_3": "Stratified cuboidal epithelium, characterized by pseudostratified columnar cells, is found in larger ducts and glands for secretion and coordinated movement of substances, while simple cuboidal epithelium, a single layer, offers protection in smaller ducts from chemical damage.",
+                        "wrongAnswer_4": "Stratified cuboidal epithelium, with keratinized layers of cuboidal cells, is principally designed for protection against abrasion and water loss in larger glands and epidermal layers, while simple cuboidal epithelium, a single layer, is specialized for filtration in kidney tubules."
+                    }
+                ]
+            },
+            {
+                "title": "Apical cell surface specializations and functions",
+                "quizzes": [
+                    {
+                        "question": "Microvilli, as apical surface modifications of epithelial cells, are primarily associated with which specific cellular function, and how does their unique structural organization facilitate this function effectively?",
+                        "goodAnswer": "Microvilli are primarily involved in augmenting the apical surface area to enhance absorption and secretion; their finger-like projections are supported by actin filaments, increasing membrane availability for nutrient uptake in regions like the small intestinal lining.",
+                        "wrongAnswer_1": "Microvilli mainly function in cellular locomotion and the directed movement of extracellular fluids; their whip-like structure, powered by microtubules, propels substances across the epithelial surface, as typically observed in respiratory airways for mucus clearance.",
+                        "wrongAnswer_2": "Microvilli are primarily responsible for establishing robust cell-cell adhesion and maintaining the structural integrity of epithelial layers; their interlocking projections, composed of intermediate filaments, provide mechanical stability and prevent tissue separation under stress.",
+                        "wrongAnswer_3": "Microvilli function in sensory reception and transduction of environmental signals; their specialized membrane receptors, coupled with G-proteins, detect external stimuli and initiate intracellular signaling cascades in sensory epithelia such as taste buds.",
+                        "wrongAnswer_4": "Microvilli are mainly involved in cellular defense mechanisms and phagocytic processes; their dynamic extensions, enriched with lysosomal enzymes, engulf pathogens and cellular debris in immune-related epithelial tissues within mucosal linings."
+                    },
+                    {
+                        "question": "Cilia, another form of apical specialization in epithelial cells, significantly differ from microvilli in both their ultrastructure and functional roles. What is the defining structural characteristic of cilia and their principal function in epithelial tissues?",
+                        "goodAnswer": "Cilia are motile, hair-like projections containing a core of microtubules arranged in a 9+2 axoneme structure; their primary function is to generate force for moving fluid and particles along the epithelial surface, such as mucus transport in the respiratory tract or ovum movement in the oviduct.",
+                        "wrongAnswer_1": "Cilia are non-motile, finger-like extensions supported by actin filaments; their main role is to increase the apical surface area for absorption, similar to microvilli, but they are generally longer and more densely branched in highly absorptive epithelia like kidney tubules.",
+                        "wrongAnswer_2": "Cilia are sensory organelles with a core of intermediate filaments; they are specialized to detect mechanical stimuli and transmit signals to the cell body, functioning as mechanoreceptors in sensory epithelial cells found in the skin and inner ear.",
+                        "wrongAnswer_3": "Cilia are cytoplasmic extensions filled with ribosomes and endoplasmic reticulum; their primary function is protein synthesis and lipid metabolism, significantly contributing to the secretory activity of glandular epithelia in exocrine glands.",
+                        "wrongAnswer_4": "Cilia are anchoring structures primarily composed of keratin; they provide structural support to the apical surface and facilitate the attachment of epithelial cells to the extracellular matrix, enhancing tissue integrity especially in stratified epithelia under stress."
+                    },
+                    {
+                        "question": "Stereocilia, despite their name suggesting similarity to cilia, are structurally and functionally more analogous to microvilli. How do stereocilia differ from both true cilia and microvilli, and what is their specialized function in specific epithelial types?",
+                        "goodAnswer": "Stereocilia are elongated, often branched microvilli-like structures supported by actin filaments, but they are typically non-motile and primarily function to significantly increase surface area for absorption or in mechanosensation, notably in the epididymis for sperm maturation and in the inner ear for auditory and balance perception.",
+                        "wrongAnswer_1": "Stereocilia are motile cilia with a 9+2 microtubule arrangement, specialized for propelling highly viscous fluids and particulate matter within lumens of highly secretory glands such as salivary glands and the exocrine pancreas, facilitating secretion transport.",
+                        "wrongAnswer_2": "Stereocilia are short, rigid projections containing intermediate filaments, primarily involved in providing robust structural support and resisting mechanical stress in stratified squamous epithelium of the skin, protecting against abrasion and external forces.",
+                        "wrongAnswer_3": "Stereocilia are sensory cilia containing chemoreceptors, specifically designed for detecting chemical signals and initiating signal transduction pathways in olfactory and gustatory epithelial cells of the nasal cavity and tongue, mediating smell and taste.",
+                        "wrongAnswer_4": "Stereocilia are cellular extensions densely packed with mitochondria and Golgi apparatus, mainly responsible for high energy production and extensive protein modification in metabolically highly active epithelial cells of the liver and proximal kidney tubules."
+                    }
+                ]
+            },
+            {
+                "title": "Specialized and unspecialized epithelial cells",
+                "quizzes": [
+                    {
+                        "question": "Considering their distinct roles, how do goblet cells, as specialized epithelial cells, contribute to the function of certain epithelia, particularly in the respiratory and digestive tracts?",
+                        "goodAnswer": "Goblet cells are specialized for mucus secretion; they are interspersed among other epithelial cells, producing mucin that hydrates to form mucus, protecting and lubricating the epithelial surface in the respiratory and digestive tracts.",
+                        "wrongAnswer_1": "Goblet cells are specialized for ion transport and water reabsorption; they are densely packed in epithelia of the kidney tubules and ducts of salivary glands, regulating electrolyte balance and fluid secretion.",
+                        "wrongAnswer_2": "Goblet cells are specialized for hormone synthesis and endocrine secretion; they are found in endocrine glands like the thyroid and adrenal glands, producing hormones that regulate metabolism and stress response.",
+                        "wrongAnswer_3": "Goblet cells are specialized for nutrient storage and lipid metabolism; they are abundant in adipose tissue and liver, storing energy reserves and synthesizing lipoproteins for systemic circulation.",
+                        "wrongAnswer_4": "Goblet cells are specialized for cellular defense and immune surveillance; they are present in lymphoid tissues and mucosal linings, phagocytosing pathogens and initiating immune responses in epithelial barriers."
+                    },
+                    {
+                        "question": "Myoepithelial cells represent a unique specialization within epithelial tissues. What is their primary function and where are they typically located to exert this function effectively?",
+                        "goodAnswer": "Myoepithelial cells are contractile cells associated with glands; they surround secretory units and ducts of exocrine glands, contracting to expel secretions into the duct system, found in salivary, mammary, and sweat glands.",
+                        "wrongAnswer_1": "Myoepithelial cells are sensory cells located in sensory epithelia such as taste buds and olfactory epithelium; they detect stimuli and transmit sensory information to the nervous system, initiating reflex responses.",
+                        "wrongAnswer_2": "Myoepithelial cells are stem cells found in the basal layer of stratified epithelia; they are responsible for cell renewal and tissue repair, proliferating and differentiating to replace damaged epithelial cells in the skin and mucosae.",
+                        "wrongAnswer_3": "Myoepithelial cells are pigment-producing cells located in the epidermis of the skin; they synthesize melanin to protect against UV radiation and determine skin and hair color, acting as a protective barrier.",
+                        "wrongAnswer_4": "Myoepithelial cells are structural support cells present in connective tissues underlying epithelia; they secrete collagen and extracellular matrix components, providing mechanical strength and tissue elasticity to epithelial layers."
+                    },
+                    {
+                        "question": "In contrast to specialized epithelial cells like goblet or myoepithelial cells, 'unspecialized' epithelial cells perform fundamental functions common to most epithelial types. Which of the following best characterizes a primary, generalized function of these unspecialized epithelial cells?",
+                        "goodAnswer": "Unspecialized epithelial cells primarily function in forming a continuous protective barrier and regulating selective permeability; they establish a selectively permeable layer that precisely controls the passage of substances across the epithelium, thereby maintaining tissue and systemic homeostasis.",
+                        "wrongAnswer_1": "Unspecialized epithelial cells mainly function in generating rapid electrical signals and transmitting nerve impulses; they are excitable cells found in nervous tissue and certain sensory organs, mediating rapid communication and coordination throughout the organism.",
+                        "wrongAnswer_2": "Unspecialized epithelial cells primarily function in providing mechanical support and transmitting contractile forces; they are contractile cells that generate tension and movement in muscles and related tissues, enabling locomotion and postural control.",
+                        "wrongAnswer_3": "Unspecialized epithelial cells mainly function in long-term energy storage and thermal insulation; they are adipocytes and brown fat cells that store triglycerides and generate heat, playing a critical role in regulating body temperature and energy balance over time.",
+                        "wrongAnswer_4": "Unspecialized epithelial cells primarily function in cell-cell communication and immune modulation; they are lymphocytes and macrophages that coordinate complex immune responses and tissue repair processes in various organs and tissues, maintaining tissue integrity and defense."
+                    }
+                ]
+            },
+            {
+                "title": "Types of Intercellular junctions and hemidesmosomes",
+                "quizzes": [
+                    {
+                        "question": "Tight junctions (zonula occludens) are crucial for epithelial barrier function. What is their primary role in maintaining tissue integrity and regulating substance movement?",
+                        "goodAnswer": "Tight junctions primarily seal adjacent cells together to prevent leakage of molecules between cells across the epithelium, establishing a selective permeability barrier and maintaining tissue compartments.",
+                        "wrongAnswer_1": "Tight junctions mainly provide strong mechanical attachment between adjacent cells, resisting physical stress and preventing cell separation under tension in tissues subjected to mechanical forces.",
+                        "wrongAnswer_2": "Tight junctions primarily facilitate rapid intercellular communication by allowing direct passage of ions and small molecules between adjacent cells, synchronizing cellular activities and metabolic coupling.",
+                        "wrongAnswer_3": "Tight junctions primarily anchor cells to the extracellular matrix, mediating cell adhesion to the basement membrane and providing structural support and stability to epithelial layers.",
+                        "wrongAnswer_4": "Tight junctions primarily function in cell recognition and immune surveillance, enabling immune cells to identify and interact with epithelial cells, facilitating tissue homeostasis and defense against pathogens."
+                    },
+                    {
+                        "question": "Adherens junctions (zonula adherens) play a crucial role in mediating cell adhesion and maintaining tissue stability within epithelial sheets. What is the key structural protein component of adherens junctions, and what is its primary functional contribution?",
+                        "goodAnswer": "Adherens junctions are structurally characterized by cadherins, transmembrane proteins that mediate calcium-dependent cell-cell adhesion, linking to actin filaments intracellularly, thus providing mechanical stability and enabling transmission of contractile forces across epithelial tissues.",
+                        "wrongAnswer_1": "Adherens junctions are composed of connexins, transmembrane proteins that assemble to form gap junction channels for direct intercellular communication, allowing passage of ions and small molecules for electrical and metabolic synchronization.",
+                        "wrongAnswer_2": "Adherens junctions are primarily formed by integrins, transmembrane proteins that mediate cell-matrix adhesion, anchoring cells to the basement membrane and playing a critical role in regulating cell migration and tissue organization during development and repair.",
+                        "wrongAnswer_3": "Adherens junctions are characterized by claudins and occludins, transmembrane proteins that constitute the sealing strands of tight junctions, preventing paracellular diffusion and maintaining epithelial barrier function against solute leakage.",
+                        "wrongAnswer_4": "Adherens junctions are composed of selectins, cell surface proteins that mediate transient cell-cell adhesion, particularly important for leukocyte trafficking and inflammatory responses within epithelial tissues during immune surveillance and pathogen response."
+                    },
+                    {
+                        "question": "Desmosomes (macula adherens) are essential for providing mechanical strength and resistance to shearing forces within epithelial tissues. Which cytoskeletal element is predominantly associated with desmosomes, and how does it contribute to their function in mechanical integrity?",
+                        "goodAnswer": "Desmosomes are predominantly associated with intermediate filaments (typically keratin in epithelia), which anchor to plaque proteins on the cytoplasmic side of the cell membrane, effectively distributing tensile forces and providing robust structural integrity to withstand mechanical stress and prevent tissue disruption.",
+                        "wrongAnswer_1": "Desmosomes are primarily linked to actin filaments, which form a dynamic contractile network within the cell, enabling cell shape changes and force generation required for cell movement and tissue remodeling processes in epithelial layers during development and repair.",
+                        "wrongAnswer_2": "Desmosomes are predominantly associated with microtubules, which provide structural support and intracellular transport pathways, organizing the cytoplasm and facilitating vesicle trafficking and intracellular organelle positioning within epithelial cells.",
+                        "wrongAnswer_3": "Desmosomes are composed of tubulin proteins, which polymerize to form microtubules, dynamic polymers that regulate cell division and chromosome segregation, ensuring proper cell proliferation and tissue growth in epithelial tissues during development and regeneration.",
+                        "wrongAnswer_4": "Desmosomes are primarily linked to collagen fibers, which are extracellular matrix proteins providing tensile strength and elasticity to connective tissues underlying epithelia, supporting tissue structure and function from the extracellular environment and providing bulk mechanical resistance."
+                    },
+                    {
+                        "question": "Gap junctions (nexus) are specialized intercellular junctions designed for direct cell-to-cell communication. What is the fundamental structural component of gap junctions, and what is their primary role in coordinating cellular activities within epithelial tissues?",
+                        "goodAnswer": "Gap junctions are structurally formed by connexons, hexameric protein channels that span the intercellular space, allowing direct passage of ions and small molecules between adjacent cells, thereby enabling electrical and metabolic coupling and synchronized cellular activity across epithelial sheets.",
+                        "wrongAnswer_1": "Gap junctions are composed of cadherins, transmembrane proteins that mediate cell-cell adhesion, providing mechanical linkage and stability to epithelial tissues, particularly under mechanical stress and tension, ensuring tissue integrity and resistance to separation.",
+                        "wrongAnswer_2": "Gap junctions are primarily made of integrins, transmembrane proteins that mediate cell-matrix adhesion, anchoring cells to the basement membrane and regulating cell migration and tissue organization during embryonic development and tissue repair processes.",
+                        "wrongAnswer_3": "Gap junctions are characterized by claudins and occludins, transmembrane proteins that form tight seals between cells, preventing paracellular diffusion and maintaining epithelial barrier function, thus restricting solute and water movement across epithelial layers.",
+                        "wrongAnswer_4": "Gap junctions are associated with selectins, cell surface proteins mediating transient cell-cell adhesion, particularly important for immune cell interactions and inflammatory responses within epithelial tissues during immune surveillance and pathogen clearance."
+                    },
+                    {
+                        "question": "Hemidesmosomes are specialized junctional complexes located at the basal surface of epithelial cells. What is their primary function, and how do they structurally and functionally differ from desmosomes in terms of cellular attachment and anchoring?",
+                        "goodAnswer": "Hemidesmosomes primarily function to anchor epithelial cells to the underlying basement membrane, utilizing integrins to link intracellular intermediate filaments to extracellular matrix components such as laminin and type IV collagen, thus providing stable adhesion and structural support to the epithelial layer.",
+                        "wrongAnswer_1": "Hemidesmosomes primarily provide strong cell-cell adhesion between adjacent epithelial cells, similar to desmosomes, but they are uniquely positioned at the apical surface to resist lateral forces and maintain the integrity of the epithelial sheet against mechanical disruption from the apical side.",
+                        "wrongAnswer_2": "Hemidesmosomes primarily facilitate intercellular communication by forming channels for ion and small molecule passage between epithelial cells, analogous to gap junctions but with enhanced selectivity and regulated gating properties for signal transduction and metabolic coordination.",
+                        "wrongAnswer_3": "Hemidesmosomes primarily regulate paracellular permeability by forming tight seals between epithelial cells, similar to tight junctions, but they are specifically localized to the basal surface to control basal-lateral diffusion and maintain polarity of transmembrane protein distribution.",
+                        "wrongAnswer_4": "Hemidesmosomes primarily mediate transient cell-cell interactions, similar to selectin-mediated adhesion, but they are involved in cell migration and tissue remodeling during development and wound healing, rather than providing stable adhesion in stationary epithelia."
+                    }
+                ]
+            },
+            {
+                "title": "Exocrine and endocrine glands of secretory epithelium",
+                "quizzes": [
+                    {
+                        "question": "What is the fundamental distinguishing characteristic between exocrine and endocrine glands based on their secretion delivery mechanism and the location of their target cells within the organism?",
+                        "goodAnswer": "Exocrine glands secrete substances into ducts that convey secretions onto an epithelial surface or into a lumen, exerting local effects, whereas endocrine glands release hormones directly into the bloodstream for systemic distribution to act on distant target cells throughout the body.",
+                        "wrongAnswer_1": "Exocrine glands secrete hormones directly into the bloodstream to achieve widespread systemic effects, while endocrine glands secrete their products into ducts for localized actions on epithelial surfaces or within specific organ lumens.",
+                        "wrongAnswer_2": "Exocrine glands are characterized by secreting lipid-soluble hormones that readily diffuse across cell membranes to reach intracellular receptors, whereas endocrine glands secrete water-soluble products that require membrane receptors for cellular entry and signal transduction.",
+                        "wrongAnswer_3": "Exocrine glands primarily secrete enzymes and digestive juices into the gastrointestinal tract to facilitate nutrient breakdown, while endocrine glands secrete neurotransmitters that act on adjacent nerve cells and synapses within the nervous system for rapid signal transmission.",
+                        "wrongAnswer_4": "Exocrine glands are composed of nervous tissue and secrete electrical signals for rapid communication between cells, whereas endocrine glands are epithelial tissues that secrete chemical signals for slower, sustained communication and regulation of physiological processes."
+                    },
+                    {
+                        "question": "Merocrine secretion, a prevalent mode of exocrine gland secretion, is defined by which specific cellular process of product release that ensures cellular integrity and continued secretory function?",
+                        "goodAnswer": "Merocrine secretion is characterized by exocytosis, a process where secretory vesicles fuse with the apical plasma membrane and release their contents into the duct lumen without any loss of cytoplasm or structural damage to the secretory cell, thus preserving cell viability and function.",
+                        "wrongAnswer_1": "Merocrine secretion is characterized by holocrine release, where the entire secretory cell accumulates product, then ruptures and disintegrates to release its accumulated secretions and cellular debris, leading to cell destruction and necessitating cell replacement for sustained secretion.",
+                        "wrongAnswer_2": "Merocrine secretion is characterized by apocrine release, where the apical portion of the secretory cell, containing accumulated secretory products, is pinched off and released into the duct, resulting in partial cellular loss but preserving the basal cell components for continued secretory activity.",
+                        "wrongAnswer_3": "Merocrine secretion is characterized by diffusion of secretory products directly across the plasma membrane, without the involvement of vesicles, relying on concentration gradients and membrane permeability for product release, which is limited to small, lipid-soluble molecules.",
+                        "wrongAnswer_4": "Merocrine secretion is characterized by transcytosis, where secretory products are internalized into vesicles at the basal membrane, transported across the cytoplasm, and then released at the apical membrane through exocytosis, involving vesicular transport across the cell."
+                    },
+                    {
+                        "question": "Apocrine secretion, another distinct mode of exocrine secretion, is distinguished by a unique mechanism of product release involving partial cellular loss. How does apocrine secretion specifically differ from both merocrine and holocrine secretion in terms of cellular involvement and the mode of product release?",
+                        "goodAnswer": "Apocrine secretion involves the release of secretory products along with a portion of the apical cytoplasm, where the apical region of the cell pinches off, enclosing the secretion, resulting in some cellular loss but not cell destruction, as observed in mammary glands and certain sweat glands.",
+                        "wrongAnswer_1": "Apocrine secretion is virtually identical to merocrine secretion, involving exocytosis of secretory vesicles without any cellular loss or structural damage; it represents the most common mode of secretion found in the majority of exocrine glands throughout the body.",
+                        "wrongAnswer_2": "Apocrine secretion is functionally equivalent to holocrine secretion, where the entire cell ruptures and releases its contents; this process leads to complete cell destruction and requires continuous cell regeneration to maintain secretory capacity over time.",
+                        "wrongAnswer_3": "Apocrine secretion involves diffusion of secretory products across the cell membrane, similar to merocrine secretion, but it is specifically limited to lipid-soluble substances and primarily occurs in sebaceous glands, releasing sebum onto the skin surface.",
+                        "wrongAnswer_4": "Apocrine secretion involves transcytosis of secretory products across the cell, from the basal to apical surface, without any cellular loss or damage; this mechanism is primarily found in endocrine glands secreting peptide hormones into the bloodstream for systemic distribution."
+                    },
+                    {
+                        "question": "Holocrine secretion represents a destructive mode of exocrine gland secretion characterized by complete cellular disintegration. What is the defining characteristic of holocrine secretion regarding the fate of secretory cells and the mechanism of product release in this process?",
+                        "goodAnswer": "Holocrine secretion is defined by the accumulation of secretory products within the cell cytoplasm, followed by complete cell rupture and disintegration, releasing both the accumulated product and cellular debris into the gland lumen; the entire cell is lost and must be replaced by new cell proliferation, a hallmark of sebaceous glands.",
+                        "wrongAnswer_1": "Holocrine secretion is functionally similar to merocrine secretion, where secretory vesicles fuse with the plasma membrane and release their products without causing any cell damage; it is a conservative process that maintains cell integrity and allows for continuous secretion without cell loss.",
+                        "wrongAnswer_2": "Holocrine secretion resembles apocrine secretion, where only the apical portion of the cell pinches off and releases secretory products along with some cytoplasm; the cell remains viable and continues to secrete after this partial loss, ensuring sustained secretory function.",
+                        "wrongAnswer_3": "Holocrine secretion involves the release of secretory products through ion channels and carrier proteins located in the plasma membrane, without vesicle involvement or cell damage; it is a rapid and highly regulated secretion mechanism that preserves cell viability.",
+                        "wrongAnswer_4": "Holocrine secretion involves the fusion of multiple cells to form a multinucleated syncytium, which then releases a large amount of secretory product; the constituent cells remain intact and continue secreting after product release, maintaining tissue integrity and secretory capacity."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

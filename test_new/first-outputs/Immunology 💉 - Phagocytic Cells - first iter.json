@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Phagocytic Cells",
+        "content_info": "",
+        "subTopics": [
+            {
+                "title": "Types and functions of phagocytic cells",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the primary function of phagocytic cells within the immune system, focusing on their role in maintaining tissue homeostasis and defense?",
+                        "goodAnswer": "Phagocytic cells are crucial for the innate immune response, primarily functioning to engulf and digest pathogens, cellular debris, and apoptotic cells, thereby clearing infections and maintaining tissue homeostasis.",
+                        "wrongAnswer_1": "Phagocytic cells are essential for adaptive immunity, primarily targeting cancerous cells and producing antibodies to neutralize toxins and promote long-term immunological memory.",
+                        "wrongAnswer_2": "Phagocytic cells are key components of the humoral immune response, mainly involved in the activation of complement pathways and the production of cytokines to regulate body temperature during infection.",
+                        "wrongAnswer_3": "Phagocytic cells serve as the primary antigen-presenting cells in the body, initiating the adaptive immune response by presenting processed antigens to T lymphocytes in the lymph nodes.",
+                        "wrongAnswer_4": "Phagocytic cells are predominantly involved in the regulation of allergic reactions, releasing histamine and other mediators to promote inflammation and attract eosinophils to sites of parasitic infection."
+                    },
+                    {
+                        "question": "Identify the principal types of cells classified as professional phagocytes in the mammalian immune system, known for their potent capacity to internalize and eliminate particulate matter and microorganisms.",
+                        "goodAnswer": "The main types of professional phagocytes include neutrophils, macrophages, monocytes, dendritic cells, and mast cells, each contributing to pathogen clearance and immune surveillance.",
+                        "wrongAnswer_1": "The primary professional phagocytes are lymphocytes, erythrocytes, thrombocytes, and fibroblasts, which work together to circulate in the bloodstream and repair damaged tissues through phagocytosis.",
+                        "wrongAnswer_2": "Professional phagocytes are exclusively composed of eosinophils, basophils, natural killer cells, and megakaryocytes, specializing in the destruction of viral-infected cells and large parasites via phagocytosis.",
+                        "wrongAnswer_3": "The major professional phagocytes consist of B lymphocytes, T lymphocytes, plasma cells, and follicular dendritic cells, primarily functioning in antigen presentation and antibody production, indirectly supporting phagocytosis.",
+                        "wrongAnswer_4": "Professional phagocytes are limited to neutrophils, basophils, eosinophils, and mast cells, which are granulocytes that release cytotoxic granules and perform phagocytosis mainly in allergic reactions."
+                    },
+                    {
+                        "question": "In the context of phagocytic function, which of the following processes accurately describes the sequential steps involved in the engulfment and destruction of a bacterium by a macrophage?",
+                        "goodAnswer": "Chemotaxis -> Adherence -> Ingestion -> Phagosome formation -> Phagolysosome fusion -> Digestion -> Exocytosis represents the correct sequence of events in bacterial phagocytosis by a macrophage.",
+                        "wrongAnswer_1": "Adherence -> Chemotaxis -> Phagosome formation -> Ingestion -> Digestion -> Phagolysosome fusion -> Exocytosis outlines the steps in bacterial phagocytosis, beginning with cell attachment.",
+                        "wrongAnswer_2": "Ingestion -> Phagosome formation -> Adherence -> Chemotaxis -> Exocytosis -> Digestion -> Phagolysosome fusion details the process, starting with the uptake of the bacterium into a vesicle.",
+                        "wrongAnswer_3": "Phagolysosome fusion -> Digestion -> Exocytosis -> Chemotaxis -> Adherence -> Ingestion -> Phagosome formation illustrates the stages, commencing with the enzymatic breakdown inside the cell.",
+                        "wrongAnswer_4": "Exocytosis -> Chemotaxis -> Adherence -> Ingestion -> Phagosome formation -> Phagolysosome fusion -> Digestion shows the sequence, beginning with the expulsion of waste materials after digestion."
+                    }
+                ]
+            },
+            {
+                "title": "Neutrophils and Macrophages",
+                "quizzes": [
+                    {
+                        "question": "Contrast the typical lifespan and primary location of neutrophils and macrophages within the human body, considering their roles in immune surveillance and response.",
+                        "goodAnswer": "Neutrophils are typically short-lived, circulating in the blood and migrating to tissues during inflammation, whereas macrophages are longer-lived, residing in tissues and acting as sentinels and resident phagocytes.",
+                        "wrongAnswer_1": "Neutrophils are long-lived cells residing primarily in tissues, serving as resident phagocytes and sentinels, while macrophages are short-lived and mainly circulate in the blood during infection.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages are short-lived cells that predominantly circulate in the blood, rapidly responding to infection and inflammation by migrating to the affected sites simultaneously.",
+                        "wrongAnswer_3": "Both neutrophils and macrophages are long-lived cells found exclusively in lymphoid tissues, where they collaborate to initiate adaptive immune responses and maintain immunological memory.",
+                        "wrongAnswer_4": "Neutrophils are moderately long-lived and are tissue-resident cells mainly in lymphoid organs, whereas macrophages are very short-lived and circulate through lymphatic vessels to reach infection sites."
+                    },
+                    {
+                        "question": "Differentiate between the primary mechanisms employed by neutrophils and macrophages in pathogen destruction, focusing on their distinct arsenal of antimicrobial agents and processes.",
+                        "goodAnswer": "Neutrophils primarily utilize oxidative burst and neutrophil extracellular traps (NETs) for rapid extracellular killing, while macrophages rely more on phagolysosomal digestion and antigen presentation for adaptive immunity.",
+                        "wrongAnswer_1": "Neutrophils mainly depend on phagolysosomal digestion and antigen presentation to activate T cells, whereas macrophages primarily use NETs and oxidative burst for extracellular pathogen elimination.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages exclusively utilize oxidative burst and NETs for pathogen destruction, exhibiting identical mechanisms of extracellular killing and lacking phagolysosomal activity.",
+                        "wrongAnswer_3": "Both neutrophils and macrophages solely depend on phagolysosomal digestion and antigen presentation, sharing the same intracellular mechanisms for pathogen degradation and adaptive immune activation.",
+                        "wrongAnswer_4": "Neutrophils and macrophages both primarily employ antibody-dependent cellular cytotoxicity (ADCC) and complement activation for pathogen destruction, requiring prior adaptive immune responses for effective killing."
+                    },
+                    {
+                        "question": "Compare and contrast the roles of neutrophils and macrophages in the inflammatory response, specifically considering their temporal recruitment, cytokine production, and contribution to tissue repair.",
+                        "goodAnswer": "Neutrophils are early responders, rapidly recruited to inflammation sites and producing pro-inflammatory cytokines, while macrophages arrive later, resolving inflammation and promoting tissue repair through different cytokines.",
+                        "wrongAnswer_1": "Neutrophils are late responders, arriving after macrophages to amplify inflammation and delay tissue repair through the production of anti-inflammatory cytokines, whereas macrophages initiate inflammation.",
+                        "wrongAnswer_2": "Both neutrophils and macrophages are early responders, simultaneously recruited and producing identical pro-inflammatory cytokines that prolong inflammation and inhibit tissue repair processes.",
+                        "wrongAnswer_3": "Both neutrophils and macrophages are late responders, arriving together to resolve inflammation and promote tissue repair by producing the same anti-inflammatory cytokines in a coordinated manner.",
+                        "wrongAnswer_4": "Neutrophils are primarily involved in resolving inflammation and tissue repair by producing anti-inflammatory cytokines, while macrophages are early responders that initiate and sustain the inflammatory response."
+                    }
+                ]
+            },
+            {
+                "title": "Targets of Neutrophil Products",
+                "quizzes": [
+                    {
+                        "question": "Identify the primary targets of neutrophil-derived products, focusing on their effects on pathogens, host tissues, and the broader immune response during infection and inflammation.",
+                        "goodAnswer": "Neutrophil products target pathogens for destruction, host tissues causing collateral damage, and other immune cells modulating the inflammatory and immune responses to infection.",
+                        "wrongAnswer_1": "Neutrophil products exclusively target pathogens for highly specific and localized destruction, with no significant impact on host tissues or modulation of other immune cells.",
+                        "wrongAnswer_2": "Neutrophil products primarily target host tissues, promoting tissue regeneration and repair, while having minimal direct effects on pathogens or modulation of the overall immune response.",
+                        "wrongAnswer_3": "Neutrophil products mainly target other immune cells, specifically suppressing the adaptive immune response and preventing excessive inflammation without directly affecting pathogens or host tissues.",
+                        "wrongAnswer_4": "Neutrophil products are designed to target only cancerous cells and auto-antigens, playing a crucial role in tumor surveillance and preventing autoimmunity, with no impact on pathogens or normal host tissues."
+                    },
+                    {
+                        "question": "Describe the impact of neutrophil-derived reactive oxygen species (ROS) on bacterial pathogens and host cells, considering their role in antimicrobial defense and potential for oxidative damage.",
+                        "goodAnswer": "Neutrophil ROS damage bacterial proteins, lipids, and DNA, leading to pathogen death, and can also cause oxidative damage to host cells and tissues if not tightly regulated during inflammation.",
+                        "wrongAnswer_1": "Neutrophil ROS selectively target bacterial cell walls, causing lysis without affecting bacterial DNA or host cell components, thus preventing oxidative damage to host tissues.",
+                        "wrongAnswer_2": "Neutrophil ROS enhance bacterial metabolism and proliferation, promoting pathogen growth and survival, while simultaneously protecting host cells from oxidative stress and damage during infection.",
+                        "wrongAnswer_3": "Neutrophil ROS primarily function as signaling molecules, activating bacterial virulence factors and suppressing host immune responses without causing direct damage to either pathogens or host cells.",
+                        "wrongAnswer_4": "Neutrophil ROS exclusively target viral pathogens by disrupting viral envelopes and inhibiting viral replication, leaving bacterial pathogens and host cells unaffected by oxidative stress."
+                    },
+                    {
+                        "question": "Explain the role of neutrophil-released proteases, such as elastase and cathepsins, in both pathogen clearance and tissue injury during inflammatory responses.",
+                        "goodAnswer": "Neutrophil proteases degrade bacterial virulence factors and extracellular matrix components, aiding pathogen clearance, but can also cause tissue damage by degrading host structural proteins during inflammation.",
+                        "wrongAnswer_1": "Neutrophil proteases selectively target and degrade host extracellular matrix components, facilitating tissue remodeling and repair, while having no direct effect on bacterial pathogens or their virulence factors.",
+                        "wrongAnswer_2": "Neutrophil proteases exclusively enhance bacterial virulence by activating bacterial toxins and promoting pathogen invasion, without causing any significant damage to host tissues or extracellular matrix.",
+                        "wrongAnswer_3": "Neutrophil proteases primarily function to neutralize host inflammatory mediators and resolve inflammation, preventing tissue damage and promoting homeostasis without directly affecting pathogens.",
+                        "wrongAnswer_4": "Neutrophil proteases are solely involved in the activation of complement pathways and coagulation cascades, indirectly contributing to pathogen clearance and inflammation but not causing direct tissue damage."
+                    }
+                ]
+            },
+            {
+                "title": "Protective mechansims",
+                "quizzes": [
+                    {
+                        "question": "Identify the key protective mechanisms employed by the innate immune system to defend against invading pathogens prior to the activation of adaptive immunity.",
+                        "goodAnswer": "Innate protective mechanisms include physical barriers, complement system activation, phagocytosis, inflammation, and antimicrobial peptides, providing immediate defense against a broad range of pathogens.",
+                        "wrongAnswer_1": "Innate protective mechanisms primarily rely on antibody production, cytotoxic T lymphocyte activation, immunological memory, and antigen presentation, offering highly specific and long-lasting protection.",
+                        "wrongAnswer_2": "Innate protective mechanisms are limited to fever, mucus production, sneezing, and coughing, which are non-specific responses designed to expel pathogens from the body without immune cell involvement.",
+                        "wrongAnswer_3": "Innate protective mechanisms exclusively depend on the activation of B lymphocytes and plasma cells, leading to rapid antibody production and neutralization of pathogens in the bloodstream and tissues.",
+                        "wrongAnswer_4": "Innate protective mechanisms are solely composed of natural killer cells and mast cells, which directly kill infected cells and release histamine to induce allergic reactions, respectively, for pathogen clearance."
+                    },
+                    {
+                        "question": "Describe the role of physical barriers, such as skin and mucous membranes, as a primary protective mechanism against microbial invasion, emphasizing their structural and functional components.",
+                        "goodAnswer": "Physical barriers like skin and mucous membranes prevent pathogen entry through tight junctions, antimicrobial secretions (e.g., defensins, lysozyme), and mechanical removal (e.g., cilia, mucus flow).",
+                        "wrongAnswer_1": "Physical barriers primarily function to activate the complement system and initiate the adaptive immune response upon pathogen contact, serving as the first line of antigen presentation and antibody production.",
+                        "wrongAnswer_2": "Physical barriers mainly rely on the production of inflammatory cytokines and chemokines to attract immune cells to the site of infection, inducing a rapid inflammatory response before pathogen entry.",
+                        "wrongAnswer_3": "Physical barriers exclusively depend on the presence of resident macrophages and dendritic cells within the tissue to phagocytose and eliminate pathogens before they can penetrate deeper into the body.",
+                        "wrongAnswer_4": "Physical barriers are primarily involved in regulating body temperature and maintaining fluid balance, indirectly supporting immune function but not directly preventing pathogen invasion or colonization."
+                    },
+                    {
+                        "question": "Explain the complement system as a crucial protective mechanism of innate immunity, detailing its activation pathways and effector functions in pathogen elimination and inflammation.",
+                        "goodAnswer": "The complement system is activated via classical, alternative, and lectin pathways, leading to opsonization, direct lysis of pathogens, and inflammation, enhancing pathogen clearance and immune responses.",
+                        "wrongAnswer_1": "The complement system is activated exclusively by antigen-antibody complexes through the classical pathway, resulting in antibody-dependent cellular cytotoxicity (ADCC) and adaptive immune memory.",
+                        "wrongAnswer_2": "The complement system primarily functions to suppress inflammation and prevent tissue damage during infection, producing anti-inflammatory mediators and inhibiting the recruitment of immune cells.",
+                        "wrongAnswer_3": "The complement system is limited to the production of antimicrobial peptides and reactive oxygen species, directly killing pathogens without involving opsonization, lysis, or inflammatory responses.",
+                        "wrongAnswer_4": "The complement system solely targets viral-infected cells and cancerous cells for destruction by natural killer cells, playing no role in bacterial or fungal infections or the induction of inflammation."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

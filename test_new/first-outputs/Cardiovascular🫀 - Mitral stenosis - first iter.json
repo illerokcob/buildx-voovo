@@ -1,0 +1,125 @@
+{
+    "mainTopic": {
+        "title": "Mitral stenosis",
+        "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+        "subTopics": [
+            {
+                "title": "Etiology, Pathophysiology",
+                "quizzes": [
+                    {
+                        "question": "What is the primary etiological factor implicated in the development of acute rhinosinusitis (ARS), initiating the inflammatory cascade within the sinonasal mucosa?",
+                        "goodAnswer": "Viral upper respiratory tract infections (URTIs) are the predominant etiological agents in ARS, initiating epithelial damage and subsequent inflammatory responses within the sinonasal mucosa.",
+                        "wrongAnswer_1": "Bacterial infections, particularly Streptococcus pneumoniae and Haemophilus influenzae, are the primary etiological agents in ARS, directly invading the sinus epithelium and causing purulent inflammation.",
+                        "wrongAnswer_2": "Allergic rhinitis is the primary etiological factor in ARS, with allergen exposure leading to chronic eosinophilic inflammation and secondary bacterial colonization of the sinuses.",
+                        "wrongAnswer_3": "Fungal infections, especially Aspergillus fumigatus, are the most common cause of ARS in immunocompetent individuals, leading to invasive fungal sinusitis and acute inflammatory exacerbations.",
+                        "wrongAnswer_4": "Barometric pressure changes during air travel or diving are the primary etiological factors in ARS, causing mucosal edema and obstruction of the sinus ostia, predisposing to secondary infection."
+                    },
+                    {
+                        "question": "In the pathophysiology of chronic rhinosinusitis (CRS), which of the following mechanisms is considered most central to the perpetuation of mucosal inflammation and structural changes within the sinonasal cavities?",
+                        "goodAnswer": "Persistent mucosal inflammation driven by complex interactions between innate and adaptive immune responses, alongside impaired mucociliary clearance, is central to CRS pathophysiology, leading to structural remodeling.",
+                        "wrongAnswer_1": "Recurrent acute bacterial infections are the primary driver of CRS pathophysiology, with each infection episode causing cumulative damage and eventual transition to chronic inflammation and polyp formation.",
+                        "wrongAnswer_2": "Chronic fungal colonization of the sinuses, particularly with dematiaceous fungi, is the central mechanism in CRS, inducing a granulomatous inflammatory response and subsequent mucosal thickening and polypogenesis.",
+                        "wrongAnswer_3": "Systemic autoimmune diseases, such as granulomatosis with polyangiitis (GPA), are the main underlying cause of CRS, leading to widespread vasculitis and secondary sinonasal mucosal inflammation and destruction.",
+                        "wrongAnswer_4": "Environmental pollutants, such as particulate matter and ozone, are the primary etiological factors in CRS, causing direct toxic injury to the sinonasal epithelium and triggering a chronic inflammatory state and fibrosis."
+                    },
+                    {
+                        "question": "Identify the principal physiological derangement that contributes to the symptomatic obstruction and pressure sensations experienced in rhinosinusitis, irrespective of acute or chronic presentation.",
+                        "goodAnswer": "Mucosal edema and inflammation within the sinonasal cavities, leading to narrowing or blockage of sinus ostia and impaired drainage, are the primary causes of obstruction and pressure sensations in rhinosinusitis.",
+                        "wrongAnswer_1": "Increased intracranial pressure due to meningeal inflammation is the main cause of pressure sensations in rhinosinusitis, referred pain from the meninges being misinterpreted as sinus pressure.",
+                        "wrongAnswer_2": "Muscular spasm of the facial muscles surrounding the sinuses is the primary cause of pressure sensations in rhinosinusitis, triggered by underlying nerve irritation and referred pain to the sinus areas.",
+                        "wrongAnswer_3": "Vasoconstriction of the blood vessels within the nasal mucosa, leading to ischemia and nerve stimulation, is the primary mechanism of pressure and pain experienced in rhinosinusitis.",
+                        "wrongAnswer_4": "Accumulation of cerebrospinal fluid within the sinus cavities due to a defect in the cribriform plate is the primary cause of pressure sensations and nasal discharge in rhinosinusitis."
+                    }
+                ]
+            },
+            {
+                "title": "Clinical features",
+                "quizzes": [
+                    {
+                        "question": "Which clinical manifestation is considered a cardinal symptom of acute rhinosinusitis (ARS), distinguishing it from uncomplicated upper respiratory tract infections?",
+                        "goodAnswer": "Facial pain or pressure, particularly localized over the affected sinuses and often exacerbated by bending forward, is a cardinal symptom of ARS, indicative of sinus mucosal inflammation.",
+                        "wrongAnswer_1": "Generalized myalgia and fatigue, accompanied by a persistent dry cough, are cardinal symptoms of ARS, reflecting systemic viral infection and widespread inflammatory cytokine release.",
+                        "wrongAnswer_2": "Severe headache localized to the vertex and occiput, worsening with Valsalva maneuver, is a cardinal symptom of ARS, suggesting intracranial hypertension secondary to sinus infection.",
+                        "wrongAnswer_3": "Abdominal pain and diarrhea, often preceded by nausea and vomiting, are cardinal symptoms of ARS, indicating gastrointestinal involvement as a primary manifestation of sinus infection.",
+                        "wrongAnswer_4": "Photophobia and phonophobia, coupled with neck stiffness and Kernig's sign, are cardinal symptoms of ARS, suggesting meningeal irritation and potential spread of infection to the central nervous system."
+                    },
+                    {
+                        "question": "In chronic rhinosinusitis (CRS), what symptom complex is most indicative of the condition and frequently reported by patients over an extended duration?",
+                        "goodAnswer": "Persistent nasal obstruction, nasal discharge (anterior or posterior), facial pain/pressure, and reduction or loss of smell (anosmia/hyposmia) are characteristic symptom complexes in CRS, lasting for at least 12 weeks.",
+                        "wrongAnswer_1": "Intermittent episodes of high fever, severe sore throat, and cervical lymphadenopathy, recurring every few weeks, are characteristic symptom complexes in CRS, indicative of recurrent acute exacerbations.",
+                        "wrongAnswer_2": "Chronic productive cough, exertional dyspnea, and chest tightness, worsening in supine position, are characteristic symptom complexes in CRS, suggesting lower respiratory tract involvement secondary to sinus disease.",
+                        "wrongAnswer_3": "Recurrent epistaxis, gingival bleeding, and easy bruising, accompanied by petechiae and purpura, are characteristic symptom complexes in CRS, indicative of underlying coagulopathy secondary to chronic inflammation.",
+                        "wrongAnswer_4": "Persistent vertigo, tinnitus, and sensorineural hearing loss, often exacerbated by head movements, are characteristic symptom complexes in CRS, suggesting inner ear involvement and vestibular dysfunction."
+                    },
+                    {
+                        "question": "Which clinical sign, observed during anterior rhinoscopy, is most suggestive of inflammatory mucosal changes consistent with rhinosinusitis?",
+                        "goodAnswer": "Edematous and erythematous nasal mucosa, often with mucopurulent discharge in the middle meatus, is a key clinical sign of inflammatory changes in rhinosinusitis, indicating active infection or inflammation.",
+                        "wrongAnswer_1": "Pale and boggy nasal mucosa with clear, watery discharge and inferior turbinate hypertrophy, is a typical sign of allergic rhinitis, indicating IgE-mediated hypersensitivity reaction and vasodilation.",
+                        "wrongAnswer_2": "Atrophic nasal mucosa with crusting and widening of the nasal passages, accompanied by foul odor (ozena), is a characteristic sign of atrophic rhinitis, indicating chronic mucosal degeneration and loss of function.",
+                        "wrongAnswer_3": "Deviated nasal septum with unilateral nasal obstruction and compensatory hypertrophy of the contralateral inferior turbinate, is a common anatomical variant, contributing to nasal obstruction but not directly to inflammation.",
+                        "wrongAnswer_4": "Perforated nasal septum with whistling sound during nasal breathing and crusting around the perforation site, is suggestive of septal perforation, potentially due to trauma, surgery, or cocaine abuse, not primarily inflammation."
+                    }
+                ]
+            },
+            {
+                "title": "Diagnostic testing, Differential diagnosis",
+                "quizzes": [
+                    {
+                        "question": "In the diagnostic evaluation of rhinosinusitis, particularly in cases of suspected complicated or refractory disease, what imaging modality is considered the gold standard for visualizing sinonasal anatomy and pathology?",
+                        "goodAnswer": "Computed Tomography (CT) of the sinuses is the gold standard imaging modality for rhinosinusitis, providing detailed bony and soft tissue anatomy of the sinonasal cavities and identifying structural abnormalities or complications.",
+                        "wrongAnswer_1": "Magnetic Resonance Imaging (MRI) of the sinuses is the gold standard imaging for rhinosinusitis, offering superior soft tissue contrast and detecting early mucosal inflammation and subtle intracranial extensions of infection.",
+                        "wrongAnswer_2": "Plain film radiography (Water's view) of the sinuses is the gold standard for rhinosinusitis, being readily available and cost-effective for initial screening and detecting air-fluid levels in the maxillary sinuses.",
+                        "wrongAnswer_3": "Ultrasound of the sinuses is the gold standard imaging modality for rhinosinusitis, providing real-time visualization of sinus contents and detecting fluid collections or mucosal thickening in a non-invasive manner.",
+                        "wrongAnswer_4": "Positron Emission Tomography (PET) scan of the sinuses is the gold standard for rhinosinusitis, useful for differentiating between benign and malignant sinonasal lesions and assessing metabolic activity in inflammatory conditions."
+                    },
+                    {
+                        "question": "When differentiating rhinosinusitis from other conditions presenting with similar symptoms, which of the following is a key distinguishing feature that helps rule out uncomplicated upper respiratory tract infection (URTI) and suggest rhinosinusitis?",
+                        "goodAnswer": "Persistence of symptoms beyond 10 days or worsening of symptoms after 5-7 days of onset, particularly nasal discharge and facial pain/pressure, is a key differentiator for rhinosinusitis from uncomplicated URTI.",
+                        "wrongAnswer_1": "Presence of a high-grade fever (above 39\u00b0C) in the initial 24-48 hours of illness, accompanied by severe myalgia and headache, is a key differentiator for rhinosinusitis, indicating a more systemic viral infection.",
+                        "wrongAnswer_2": "Predominance of cough as the primary symptom, especially a dry cough worsening at night and exacerbated by cold air, is a key differentiator for rhinosinusitis, suggesting lower respiratory tract involvement.",
+                        "wrongAnswer_3": "Association with conjunctivitis (pink eye) and vesicular rash on the skin, particularly on the face and trunk, is a key differentiator for rhinosinusitis, pointing towards a specific viral exanthem rather than sinus infection.",
+                        "wrongAnswer_4": "Rapid onset of symptoms within 24 hours of exposure to a known allergen, accompanied by sneezing and profuse watery rhinorrhea, is a key differentiator for rhinosinusitis, suggesting acute allergic rhinitis."
+                    },
+                    {
+                        "question": "In cases of chronic rhinosinusitis (CRS) refractory to initial medical management, what diagnostic procedure is often employed to obtain tissue samples for histopathological analysis and culture, aiding in definitive diagnosis and guiding further treatment?",
+                        "goodAnswer": "Endoscopic sinus surgery with biopsy is frequently utilized in refractory CRS to obtain mucosal tissue for histopathology and culture, allowing for detailed assessment of inflammation, infection, and underlying pathology.",
+                        "wrongAnswer_1": "Fine needle aspiration (FNA) of the sinuses is commonly performed in refractory CRS to obtain fluid samples for cytology and culture, providing minimally invasive assessment of sinus contents and identifying infectious agents.",
+                        "wrongAnswer_2": "Skin prick testing for aeroallergens is routinely conducted in refractory CRS to identify potential allergic triggers and guide allergen avoidance strategies, addressing underlying allergic components of the disease.",
+                        "wrongAnswer_3": "Bronchoscopy with bronchoalveolar lavage (BAL) is frequently performed in refractory CRS to evaluate for lower respiratory tract involvement and exclude coexisting pulmonary infections or inflammatory conditions.",
+                        "wrongAnswer_4": "Lumbar puncture with cerebrospinal fluid (CSF) analysis is indicated in refractory CRS to rule out intracranial complications, such as meningitis or brain abscess, when neurological symptoms are present."
+                    }
+                ]
+            },
+            {
+                "title": "Managemnet",
+                "quizzes": [
+                    {
+                        "question": "What is considered the first-line medical management for uncomplicated acute rhinosinusitis (ARS) in adults, focusing on symptomatic relief and addressing the underlying inflammatory process?",
+                        "goodAnswer": "Intranasal corticosteroids (INS) are first-line for uncomplicated ARS, reducing mucosal inflammation and edema, thereby improving sinus drainage and alleviating nasal obstruction and facial pressure.",
+                        "wrongAnswer_1": "Systemic antibiotics, such as amoxicillin-clavulanate, are the first-line treatment for all cases of ARS, targeting presumed bacterial infection and preventing progression to chronic rhinosinusitis.",
+                        "wrongAnswer_2": "Oral antihistamines, such as cetirizine or loratadine, are first-line for ARS, primarily addressing allergic components and reducing histamine-mediated nasal congestion and rhinorrhea.",
+                        "wrongAnswer_3": "Oral decongestants, such as pseudoephedrine or phenylephrine, are first-line for ARS, providing rapid relief of nasal congestion by vasoconstricting nasal mucosa blood vessels and improving airflow.",
+                        "wrongAnswer_4": "Systemic corticosteroids, such as prednisone, are first-line for ARS, providing potent anti-inflammatory effects and rapidly resolving mucosal edema and obstruction in severe acute cases."
+                    },
+                    {
+                        "question": "In the management of chronic rhinosinusitis (CRS), particularly in patients with nasal polyps, which therapeutic approach is often employed to reduce polyp size, improve nasal airflow, and enhance delivery of topical medications?",
+                        "goodAnswer": "Intranasal corticosteroids (INS) are a cornerstone of CRS management, especially in polypoid CRS, reducing inflammation, shrinking polyps, and improving access for other topical therapies.",
+                        "wrongAnswer_1": "Systemic leukotriene receptor antagonists, such as montelukast, are the primary therapy for polypoid CRS, directly targeting leukotriene-mediated inflammation and preventing polyp recurrence.",
+                        "wrongAnswer_2": "Oral antifungal medications, such as itraconazole, are routinely used in polypoid CRS to address presumed fungal etiology and reduce fungal burden within the sinonasal cavities.",
+                        "wrongAnswer_3": "Immunotherapy with subcutaneous allergen injections is the first-line treatment for polypoid CRS, desensitizing patients to aeroallergens and reducing allergic inflammation driving polyp formation.",
+                        "wrongAnswer_4": "Short courses of systemic antibiotics are the mainstay of therapy for polypoid CRS, eradicating underlying bacterial biofilms and preventing polyp growth and recurrence."
+                    },
+                    {
+                        "question": "When medical management for chronic rhinosinusitis (CRS) fails to provide adequate symptom control or address structural issues, what surgical intervention is often considered to improve sinus drainage and ventilation?",
+                        "goodAnswer": "Functional Endoscopic Sinus Surgery (FESS) is a common surgical procedure for refractory CRS, aiming to widen sinus ostia, remove obstructions (polyps, thickened mucosa), and improve mucociliary clearance.",
+                        "wrongAnswer_1": "Total turbinectomy is a surgical procedure routinely performed for refractory CRS, removing the inferior and middle turbinates to create wider nasal passages and improve nasal airflow and drainage.",
+                        "wrongAnswer_2": "Septoplasty with submucosal resection is the primary surgical intervention for refractory CRS, correcting deviated nasal septum and improving nasal airflow, indirectly benefiting sinus drainage.",
+                        "wrongAnswer_3": "Maxillary antrostomy via Caldwell-Luc approach is the standard surgical procedure for refractory CRS, creating a large drainage window into the maxillary sinus through the canine fossa for improved drainage.",
+                        "wrongAnswer_4": "External frontoethmoidectomy is the most common surgical approach for refractory CRS, involving external incision and removal of the frontal and ethmoid sinuses to eradicate disease and create a large drainage pathway."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

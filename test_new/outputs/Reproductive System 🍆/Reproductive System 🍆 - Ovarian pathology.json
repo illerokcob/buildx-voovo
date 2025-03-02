@@ -1,0 +1,194 @@
+{
+    "mainTopic": {
+        "title": "Ovarian pathology",
+        "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+        "subTopics": [
+            {
+                "title": "Types of ovarian tumors",
+                "quizzes": [
+                    {
+                        "question": "Which of the following categories represents the most common origin of malignant ovarian neoplasms, accounting for the vast majority of cases diagnosed clinically?",
+                        "goodAnswer": "Epithelial tumors constitute the most frequent type of malignant ovarian neoplasms, originating from the surface epithelium and representing approximately 90% of all ovarian cancers.",
+                        "wrongAnswer_1": "Germ cell tumors represent the most frequent type of malignant ovarian neoplasms, originating from primordial germ cells and representing approximately 80% of all ovarian cancers.",
+                        "wrongAnswer_2": "Sex cord-stromal tumors are the most frequent type of malignant ovarian neoplasms, originating from the gonadal ridges and representing approximately 75% of all ovarian cancers.",
+                        "wrongAnswer_3": "Metastatic tumors to the ovary represent the most frequent type of malignant ovarian neoplasms, originating from distant sites and representing approximately 85% of all ovarian cancers.",
+                        "wrongAnswer_4": "Epithelial tumors represent the most frequent type of benign ovarian neoplasms, originating from the surface epithelium and representing approximately 90% of all ovarian cancers."
+                    },
+                    {
+                        "question": "Identify the classification that best describes ovarian tumors characterized by cellular proliferation without stromal invasion, exhibiting nuclear atypia and increased mitotic activity, yet lacking destructive stromal infiltration.",
+                        "goodAnswer": "Borderline ovarian tumors, also known as tumors of low malignant potential, are characterized by cellular proliferation, nuclear atypia, and increased mitotic activity without destructive stromal invasion.",
+                        "wrongAnswer_1": "Benign ovarian tumors are characterized by cellular proliferation, minimal nuclear atypia, and low mitotic activity with destructive stromal invasion.",
+                        "wrongAnswer_2": "Malignant ovarian tumors are characterized by cellular proliferation, minimal nuclear atypia, and low mitotic activity without destructive stromal invasion.",
+                        "wrongAnswer_3": "Metastatic ovarian tumors are characterized by cellular proliferation, nuclear atypia, and increased mitotic activity with destructive stromal invasion.",
+                        "wrongAnswer_4": "Benign ovarian tumors, also known as tumors of high malignant potential, are characterized by cellular proliferation, nuclear atypia, and increased mitotic activity without destructive stromal invasion."
+                    },
+                    {
+                        "question": "Which primary characteristic is most indicative of benign ovarian tumors when differentiating them from their malignant counterparts in histological analysis and clinical prognosis?",
+                        "goodAnswer": "Benign ovarian tumors are primarily characterized by their lack of stromal invasion and metastasis, indicating localized growth and a favorable prognosis in most cases.",
+                        "wrongAnswer_1": "Benign ovarian tumors are primarily characterized by rapid cellular proliferation and high mitotic index, indicating aggressive growth but a favorable prognosis.",
+                        "wrongAnswer_2": "Benign ovarian tumors are primarily characterized by extensive stromal invasion and distant metastasis, indicating aggressive spread and a poor prognosis.",
+                        "wrongAnswer_3": "Benign ovarian tumors are primarily characterized by marked nuclear atypia and pleomorphism, indicating cellular abnormalities but a favorable prognosis.",
+                        "wrongAnswer_4": "Benign ovarian tumors are primarily characterized by their ability to cause widespread angiogenesis and lymphovascular invasion, indicating metastatic potential."
+                    }
+                ]
+            },
+            {
+                "title": "Fibrothecomas, Hemorrhagic Cyst, Ovarian surface epithelial tumors, Serous cystadenoma, Papillary serous cystadenocarcinoma",
+                "quizzes": [
+                    {
+                        "question": "Differentiate serous cystadenoma from papillary serous cystadenocarcinoma based on their key histological features and clinical behavior.",
+                        "goodAnswer": "Serous cystadenomas are benign epithelial tumors characterized by a single layer of bland, uniform cells lining cystic spaces, lacking papillary projections and stromal invasion, exhibiting benign clinical behavior, whereas papillary serous cystadenocarcinomas show complex papillary architecture, cellular atypia, stromal invasion, and malignant clinical behavior.",
+                        "wrongAnswer_1": "Serous cystadenomas are malignant epithelial tumors characterized by complex papillary architecture, cellular atypia, and stromal invasion, exhibiting malignant clinical behavior, whereas papillary serous cystadenocarcinomas show a single layer of bland, uniform cells lining cystic spaces, lacking papillary projections and stromal invasion, exhibiting benign clinical behavior.",
+                        "wrongAnswer_2": "Serous cystadenomas and papillary serous cystadenocarcinomas are both benign epithelial tumors characterized by complex papillary architecture, cellular atypia, and stromal invasion, exhibiting benign clinical behavior.",
+                        "wrongAnswer_3": "Serous cystadenomas and papillary serous cystadenocarcinomas are both malignant mesenchymal tumors characterized by a single layer of bland, uniform cells lining cystic spaces, lacking papillary projections and stromal invasion, exhibiting malignant clinical behavior.",
+                        "wrongAnswer_4": "Serous cystadenomas are borderline epithelial tumors characterized by complex papillary architecture and mild cellular atypia, with minimal stromal invasion, exhibiting borderline clinical behavior, whereas papillary serous cystadenocarcinomas show a single layer of bland, uniform cells lining cystic spaces, lacking papillary projections and stromal invasion, exhibiting benign clinical behavior."
+                    },
+                    {
+                        "question": "Which of the following best describes the origin and hormonal activity typically associated with fibrothecomas of the ovary?",
+                        "goodAnswer": "Fibrothecomas are benign sex cord-stromal tumors originating from ovarian stromal cells, frequently associated with estrogen production, potentially leading to endometrial hyperplasia and postmenopausal bleeding due to their hormonal activity.",
+                        "wrongAnswer_1": "Fibrothecomas are malignant epithelial tumors originating from ovarian surface epithelium, frequently associated with androgen production, potentially leading to virilization and hirsutism due to their hormonal activity.",
+                        "wrongAnswer_2": "Fibrothecomas are benign germ cell tumors originating from primordial germ cells, frequently associated with progesterone production, potentially leading to amenorrhea and infertility due to their hormonal activity.",
+                        "wrongAnswer_3": "Fibrothecomas are malignant sex cord-stromal tumors originating from granulosa cells, frequently associated with estrogen and progesterone production, potentially leading to precocious puberty and abnormal bleeding due to their hormonal activity.",
+                        "wrongAnswer_4": "Fibrothecomas are benign epithelial tumors originating from ovarian surface epithelium, and are typically hormonally inactive, rarely associated with endocrine manifestations or hormonal imbalances."
+                    },
+                    {
+                        "question": "What is the most likely pathogenesis of a hemorrhagic ovarian cyst and its typical clinical significance in premenopausal women?",
+                        "goodAnswer": "Hemorrhagic ovarian cysts typically arise from ruptured follicular cysts or corpus luteum cysts with bleeding into the cyst lumen, usually resolving spontaneously and often associated with transient pelvic pain in premenopausal women without long-term clinical significance.",
+                        "wrongAnswer_1": "Hemorrhagic ovarian cysts typically arise from malignant transformation of serous cystadenomas with extensive vascular invasion, usually requiring surgical intervention and often associated with chronic pelvic pain and infertility in premenopausal women with significant long-term clinical significance.",
+                        "wrongAnswer_2": "Hemorrhagic ovarian cysts typically arise from endometriosis implants on the ovary with cyclical bleeding, usually resolving with hormonal therapy and often associated with severe dysmenorrhea and infertility in premenopausal women with significant long-term clinical significance.",
+                        "wrongAnswer_3": "Hemorrhagic ovarian cysts typically arise from polycystic ovarian syndrome with multiple follicular cysts and stromal hyperplasia, usually requiring long-term management and often associated with irregular menses and metabolic disturbances in premenopausal women with significant long-term clinical significance.",
+                        "wrongAnswer_4": "Hemorrhagic ovarian cysts typically arise from metastatic spread of endometrial cancer to the ovary with extensive bleeding, usually indicating advanced malignancy and often associated with systemic symptoms and poor prognosis in postmenopausal women with significant long-term clinical significance."
+                    },
+                    {
+                        "question": "Identify the key distinguishing feature of ovarian surface epithelial tumors compared to other types of ovarian neoplasms, concerning their cellular origin and anatomical location.",
+                        "goodAnswer": "Ovarian surface epithelial tumors originate from the ovarian surface epithelium, a modified mesothelium covering the ovary, distinct from germ cell tumors (from germ cells) or sex cord-stromal tumors (from gonadal stroma), and are located on the outer surface of the ovary.",
+                        "wrongAnswer_1": "Ovarian surface epithelial tumors originate from the ovarian medulla, the central core of the ovary containing blood vessels and nerves, distinct from germ cell tumors (from germ cells) or sex cord-stromal tumors (from gonadal stroma), and are located in the inner medulla of the ovary.",
+                        "wrongAnswer_2": "Ovarian surface epithelial tumors originate from the ovarian hilum, the point of entry for blood vessels and nerves, distinct from germ cell tumors (from germ cells) or sex cord-stromal tumors (from gonadal stroma), and are located in the hilum region of the ovary.",
+                        "wrongAnswer_3": "Ovarian surface epithelial tumors originate from the ovarian cortex, the outer layer containing follicles, distinct from germ cell tumors (from germ cells) but similar to sex cord-stromal tumors (from gonadal stroma), and are located within the ovarian cortex.",
+                        "wrongAnswer_4": "Ovarian surface epithelial tumors originate from the fallopian tube epithelium, which migrates to the ovary surface, distinct from germ cell tumors (from germ cells) or sex cord-stromal tumors (from gonadal stroma), and are located on the outer surface of the fallopian tube."
+                    }
+                ]
+            },
+            {
+                "title": "Key issues, Epidemiology, Associations",
+                "quizzes": [
+                    {
+                        "question": "What is the most significant 'key issue' in ovarian cancer management that contributes to its high mortality rate compared to other gynecological malignancies?",
+                        "goodAnswer": "The most significant 'key issue' in ovarian cancer is the lack of effective early detection methods, leading to diagnosis at advanced stages when the disease has already spread beyond the ovaries, contributing to poor prognosis.",
+                        "wrongAnswer_1": "The most significant 'key issue' in ovarian cancer is the over-diagnosis of early-stage disease due to highly sensitive screening tests, leading to unnecessary treatments and increased morbidity but not affecting mortality.",
+                        "wrongAnswer_2": "The most significant 'key issue' in ovarian cancer is the highly effective chemotherapy regimens leading to over-treatment and significant side effects, ultimately increasing mortality rates due to treatment complications.",
+                        "wrongAnswer_3": "The most significant 'key issue' in ovarian cancer is the availability of highly specific tumor markers for early detection, paradoxically leading to delayed diagnosis as clinicians rely solely on these markers in early stages.",
+                        "wrongAnswer_4": "The most significant 'key issue' in ovarian cancer is the high incidence of benign ovarian tumors mimicking malignant lesions, leading to delayed diagnosis and treatment of true malignancies due to diagnostic confusion."
+                    },
+                    {
+                        "question": "Which age group exhibits the highest incidence rate for epithelial ovarian cancer, based on epidemiological data?",
+                        "goodAnswer": "Epithelial ovarian cancer incidence rates are highest in postmenopausal women, particularly those aged 60 years and older, with incidence increasing significantly after menopause due to hormonal changes and cumulative risk factors.",
+                        "wrongAnswer_1": "Epithelial ovarian cancer incidence rates are highest in adolescent girls and young women under 20 years of age, primarily due to genetic predisposition and early menarche, showing a peak incidence in younger age groups.",
+                        "wrongAnswer_2": "Epithelial ovarian cancer incidence rates are highest in women in their 30s and 40s, coinciding with peak reproductive years and hormonal fluctuations during perimenopause, indicating a strong link to reproductive hormones.",
+                        "wrongAnswer_3": "Epithelial ovarian cancer incidence rates are equally distributed across all age groups from adolescence to old age, showing no significant age-related variation in risk, suggesting environmental factors are the primary drivers.",
+                        "wrongAnswer_4": "Epithelial ovarian cancer incidence rates are highest in women undergoing hormone replacement therapy (HRT) in their 50s, due to the direct carcinogenic effect of exogenous hormones, indicating a strong association with HRT use."
+                    },
+                    {
+                        "question": "Identify a well-established 'association' or risk factor that significantly increases the likelihood of developing epithelial ovarian cancer.",
+                        "goodAnswer": "Inherited mutations in BRCA1 and BRCA2 genes are well-established associations that significantly increase the risk of developing epithelial ovarian cancer, along with breast cancer, due to their role in DNA repair and tumor suppression.",
+                        "wrongAnswer_1": "High parity (multiple pregnancies) is a well-established association that significantly increases the risk of developing epithelial ovarian cancer, due to hormonal changes and increased ovarian stimulation during pregnancy.",
+                        "wrongAnswer_2": "Early menarche (early onset of menstruation) is a well-established association that significantly increases the risk of developing epithelial ovarian cancer, due to prolonged exposure to endogenous estrogen throughout reproductive life.",
+                        "wrongAnswer_3": "Long-term use of oral contraceptive pills is a well-established association that significantly increases the risk of developing epithelial ovarian cancer, due to the synthetic hormones altering ovarian cell proliferation.",
+                        "wrongAnswer_4": "History of pelvic inflammatory disease (PID) is a well-established association that significantly increases the risk of developing epithelial ovarian cancer, due to chronic inflammation and scarring of the ovaries and fallopian tubes."
+                    }
+                ]
+            },
+            {
+                "title": "Staging of Ovarian Cancer, Intraoperative findings, Timeline for therapy",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary purpose of the FIGO staging system for ovarian cancer and its clinical significance in patient management.",
+                        "goodAnswer": "The FIGO staging system for ovarian cancer is primarily used to define the extent of tumor spread, guiding treatment decisions, predicting prognosis, and facilitating communication among clinicians regarding disease severity and management strategies.",
+                        "wrongAnswer_1": "The FIGO staging system for ovarian cancer is primarily used for early detection of ovarian cancer in asymptomatic women through population-based screening programs, enabling early intervention and reducing mortality rates in the general population.",
+                        "wrongAnswer_2": "The FIGO staging system for ovarian cancer is primarily used to determine the histological subtype of ovarian cancer, guiding targeted therapy selection and predicting response to specific chemotherapy regimens based on tumor histology.",
+                        "wrongAnswer_3": "The FIGO staging system for ovarian cancer is primarily used to assess patient's overall performance status and comorbidities, guiding supportive care measures and predicting tolerance to aggressive chemotherapy and surgical interventions.",
+                        "wrongAnswer_4": "The FIGO staging system for ovarian cancer is primarily used to monitor treatment response during chemotherapy and assess for disease recurrence post-treatment, guiding adjustments in therapy and predicting long-term survival outcomes during follow-up."
+                    },
+                    {
+                        "question": "Which intraoperative finding is most indicative of advanced stage (Stage III or IV) ovarian cancer during surgical exploration?",
+                        "goodAnswer": "Intraoperative findings of peritoneal carcinomatosis, including widespread tumor implants on peritoneal surfaces and omentum, are most indicative of advanced stage ovarian cancer, signifying extra-ovarian spread and distant metastasis.",
+                        "wrongAnswer_1": "Intraoperative findings of unilateral ovarian enlargement with a smooth outer surface are most indicative of advanced stage ovarian cancer, suggesting rapid growth and malignant transformation within a single ovary.",
+                        "wrongAnswer_2": "Intraoperative findings of ascites (fluid accumulation in the abdominal cavity) without visible tumor implants are most indicative of advanced stage ovarian cancer, indicating early lymphatic spread and systemic involvement.",
+                        "wrongAnswer_3": "Intraoperative findings of adhesions between the ovary and uterus are most indicative of advanced stage ovarian cancer, suggesting local invasion and spread to adjacent pelvic organs through direct extension.",
+                        "wrongAnswer_4": "Intraoperative findings of enlarged pelvic lymph nodes only, without peritoneal involvement, are most indicative of advanced stage ovarian cancer, signifying regional lymph node metastasis but localized disease within the pelvis."
+                    },
+                    {
+                        "question": "What is the typical 'timeline for therapy' for a patient newly diagnosed with advanced stage epithelial ovarian cancer, outlining the standard sequence of treatment modalities?",
+                        "goodAnswer": "The typical 'timeline for therapy' for advanced stage epithelial ovarian cancer involves initial cytoreductive surgery followed by adjuvant platinum-based chemotherapy, typically within 4-6 weeks post-surgery, aiming for maximal tumor debulking and systemic eradication of residual disease.",
+                        "wrongAnswer_1": "The typical 'timeline for therapy' for advanced stage epithelial ovarian cancer involves neoadjuvant chemotherapy followed by interval debulking surgery after 3-4 cycles, aiming to shrink tumor burden before surgical resection and improve resectability in initially unresectable cases.",
+                        "wrongAnswer_2": "The typical 'timeline for therapy' for advanced stage epithelial ovarian cancer involves primary radiation therapy to the whole abdomen and pelvis, followed by adjuvant chemotherapy after radiation completion, aiming for local control and systemic eradication of microscopic disease.",
+                        "wrongAnswer_3": "The typical 'timeline for therapy' for advanced stage epithelial ovarian cancer involves hormonal therapy with aromatase inhibitors or anti-estrogens, followed by palliative chemotherapy in case of disease progression, aiming for symptom control and delaying disease progression in hormonally sensitive tumors.",
+                        "wrongAnswer_4": "The typical 'timeline for therapy' for advanced stage epithelial ovarian cancer involves upfront targeted therapy with PARP inhibitors or angiogenesis inhibitors, followed by consolidation chemotherapy after targeted therapy completion, aiming for personalized treatment based on molecular tumor characteristics."
+                    }
+                ]
+            },
+            {
+                "title": "Germ Cell Tumors, Classification of Germ Cell Tumors, Teratoma, Complications of Dermoid Cysts, Mixed Germ Cell Tumors, Sex Cord Tumors, Metastatic tumors to ovary",
+                "quizzes": [
+                    {
+                        "question": "How do germ cell tumors of the ovary differ fundamentally from epithelial ovarian tumors in terms of their cellular origin and typical patient demographics?",
+                        "goodAnswer": "Germ cell tumors originate from primordial germ cells within the ovary, typically affecting younger patients (children and adolescents), whereas epithelial ovarian tumors arise from the ovarian surface epithelium, predominantly affecting older, postmenopausal women, representing distinct tumor biology and patient populations.",
+                        "wrongAnswer_1": "Germ cell tumors originate from the ovarian surface epithelium, typically affecting older, postmenopausal women, whereas epithelial ovarian tumors arise from primordial germ cells within the ovary, predominantly affecting younger patients (children and adolescents), representing reversed tumor biology and patient demographics.",
+                        "wrongAnswer_2": "Germ cell tumors and epithelial ovarian tumors both originate from primordial germ cells within the ovary, but germ cell tumors affect older patients while epithelial tumors affect younger patients, showing age-related differences in tumor presentation.",
+                        "wrongAnswer_3": "Germ cell tumors and epithelial ovarian tumors both originate from the ovarian surface epithelium, but germ cell tumors are more common in postmenopausal women, whereas epithelial tumors are more common in premenopausal women, reflecting hormonal influences on tumor development.",
+                        "wrongAnswer_4": "Germ cell tumors originate from the ovarian stroma, typically affecting middle-aged women, whereas epithelial ovarian tumors arise from the ovarian surface epithelium, predominantly affecting women of all ages equally, indicating overlapping tumor origins and patient demographics."
+                    },
+                    {
+                        "question": "Classify the major subtypes of germ cell tumors of the ovary, highlighting the most common and clinically significant types.",
+                        "goodAnswer": "Major subtypes of germ cell tumors include teratoma (mature and immature), dysgerminoma, endodermal sinus tumor (yolk sac tumor), embryonal carcinoma, and choriocarcinoma, with mature teratoma (dermoid cyst) and dysgerminoma being the most common and clinically significant due to their frequency and specific management approaches.",
+                        "wrongAnswer_1": "Major subtypes of germ cell tumors include serous cystadenoma, mucinous cystadenoma, endometrioid tumor, clear cell carcinoma, and Brenner tumor, with serous cystadenoma and mucinous cystadenoma being the most common and clinically significant due to their benign nature and high prevalence.",
+                        "wrongAnswer_2": "Major subtypes of germ cell tumors include fibrothecoma, granulosa cell tumor, Sertoli-Leydig cell tumor, and steroid cell tumor, with fibrothecoma and granulosa cell tumor being the most common and clinically significant due to their hormonal activity and potential for malignancy.",
+                        "wrongAnswer_3": "Major subtypes of germ cell tumors include metastatic adenocarcinoma, metastatic squamous cell carcinoma, metastatic melanoma, and metastatic sarcoma, with metastatic adenocarcinoma and squamous cell carcinoma being the most common and clinically significant due to their aggressive behavior and poor prognosis.",
+                        "wrongAnswer_4": "Major subtypes of germ cell tumors include borderline serous tumor, borderline mucinous tumor, borderline endometrioid tumor, and borderline clear cell tumor, with borderline serous tumor and mucinous tumor being the most common and clinically significant due to their uncertain malignant potential and diagnostic challenges."
+                    },
+                    {
+                        "question": "Describe the key characteristics of a mature cystic teratoma (dermoid cyst) of the ovary, including its typical components and benign nature.",
+                        "goodAnswer": "Mature cystic teratomas (dermoid cysts) are benign germ cell tumors composed of well-differentiated tissues from at least two of the three germ layers (ectoderm, mesoderm, endoderm), commonly containing skin appendages, hair follicles, teeth, and sebaceous material, and are typically benign with low malignant potential.",
+                        "wrongAnswer_1": "Mature cystic teratomas (dermoid cysts) are malignant germ cell tumors composed of undifferentiated tissues from all three germ layers (ectoderm, mesoderm, endoderm), commonly containing immature neuroepithelium, cartilage, and striated muscle, and are typically malignant with high metastatic potential.",
+                        "wrongAnswer_2": "Mature cystic teratomas (dermoid cysts) are benign epithelial tumors composed of a single layer of bland cells lining cystic spaces, commonly containing serous fluid, mucin, and ciliated cells, and are typically benign with no malignant potential.",
+                        "wrongAnswer_3": "Mature cystic teratomas (dermoid cysts) are malignant sex cord-stromal tumors composed of granulosa cells and theca cells, commonly containing estrogen and progesterone, and are typically malignant with hormonal activity and potential for metastasis.",
+                        "wrongAnswer_4": "Mature cystic teratomas (dermoid cysts) are borderline epithelial tumors composed of papillary projections and mild cellular atypia, commonly containing psammoma bodies and nuclear grooves, and are typically borderline with uncertain malignant potential."
+                    },
+                    {
+                        "question": "Identify the major 'complications of dermoid cysts' that necessitate clinical intervention and potentially surgical management.",
+                        "goodAnswer": "Major 'complications of dermoid cysts' include ovarian torsion, cyst rupture with chemical peritonitis, infection, and rarely, malignant transformation (squamous cell carcinoma), necessitating clinical intervention and potentially surgical management to address these acute or chronic issues.",
+                        "wrongAnswer_1": "Major 'complications of dermoid cysts' include hypercalcemia, paraneoplastic syndromes, and disseminated intravascular coagulation (DIC), necessitating clinical intervention and potentially chemotherapy to manage these systemic metabolic and hematologic derangements.",
+                        "wrongAnswer_2": "Major 'complications of dermoid cysts' include polycythemia, thrombocytosis, and leukemoid reaction, necessitating clinical intervention and potentially bone marrow transplantation to address these hematologic malignancies and cytopenias.",
+                        "wrongAnswer_3": "Major 'complications of dermoid cysts' include pulmonary embolism, deep vein thrombosis, and arterial thromboembolism, necessitating clinical intervention and potentially anticoagulation therapy to prevent and treat these thromboembolic events.",
+                        "wrongAnswer_4": "Major 'complications of dermoid cysts' include autoimmune hemolytic anemia, immune thrombocytopenic purpura, and systemic lupus erythematosus, necessitating clinical intervention and potentially immunosuppressive therapy to manage these autoimmune disorders."
+                    },
+                    {
+                        "question": "What are 'mixed germ cell tumors' of the ovary and how do they impact prognosis and treatment strategies compared to pure germ cell tumor subtypes?",
+                        "goodAnswer": "'Mixed germ cell tumors' contain more than one subtype of germ cell tumor components (e.g., teratoma + dysgerminoma + yolk sac tumor), potentially influencing prognosis and treatment strategies by requiring combination chemotherapy regimens effective against all constituent tumor types, and possibly indicating a more aggressive clinical course than pure subtypes.",
+                        "wrongAnswer_1": "'Mixed germ cell tumors' are a mixture of germ cell and epithelial tumor components (e.g., teratoma + serous cystadenocarcinoma), typically treated as epithelial ovarian cancers with cytoreductive surgery and platinum-based chemotherapy, showing a prognosis similar to high-grade epithelial ovarian cancers.",
+                        "wrongAnswer_2": "'Mixed germ cell tumors' are a mixture of germ cell and sex cord-stromal tumor components (e.g., dysgerminoma + granulosa cell tumor), typically treated with hormonal therapy and targeted agents, showing a prognosis similar to sex cord-stromal tumors with hormonal responsiveness.",
+                        "wrongAnswer_3": "'Mixed germ cell tumors' refer to germ cell tumors with both benign and malignant components within the same tumor mass (e.g., mature and immature teratoma), typically treated as benign tumors with conservative surgical management, showing an excellent prognosis similar to benign germ cell tumors.",
+                        "wrongAnswer_4": "'Mixed germ cell tumors' are germ cell tumors that have metastasized to other organs (e.g., dysgerminoma with lung metastasis), typically treated with palliative chemotherapy and radiation therapy, showing a poor prognosis similar to metastatic epithelial ovarian cancers."
+                    },
+                    {
+                        "question": "How do sex cord-stromal tumors of the ovary differ from both epithelial and germ cell tumors in terms of their cellular origin and typical clinical manifestations?",
+                        "goodAnswer": "Sex cord-stromal tumors arise from the gonadal stroma and sex cords of the ovary, distinct from epithelial (surface epithelium) and germ cell (primordial germ cells) origins, often presenting with endocrine manifestations due to hormone production (estrogen or androgens), unlike typical epithelial or germ cell tumors.",
+                        "wrongAnswer_1": "Sex cord-stromal tumors arise from the ovarian surface epithelium, similar to epithelial tumors but distinct from germ cell tumors (primordial germ cells), often presenting with ascites and abdominal distension, similar to typical epithelial ovarian cancer presentations.",
+                        "wrongAnswer_2": "Sex cord-stromal tumors arise from primordial germ cells, similar to germ cell tumors but distinct from epithelial tumors (surface epithelium), often presenting with rapid tumor growth and elevated tumor markers (AFP or hCG), similar to typical germ cell tumor presentations.",
+                        "wrongAnswer_3": "Sex cord-stromal tumors and epithelial tumors share the same cellular origin from the ovarian surface epithelium, while germ cell tumors originate from primordial germ cells, both sex cord-stromal and epithelial tumors typically present with pelvic pain and abnormal vaginal bleeding.",
+                        "wrongAnswer_4": "Sex cord-stromal tumors and germ cell tumors share the same cellular origin from primordial germ cells, while epithelial tumors originate from the ovarian surface epithelium, both sex cord-stromal and germ cell tumors typically present with early-stage disease and favorable prognosis."
+                    },
+                    {
+                        "question": "Which primary cancers are most likely to 'metastasize to the ovary', and what are the typical patterns of metastatic involvement?",
+                        "goodAnswer": "Primary cancers most likely to 'metastasize to the ovary' include colorectal cancer, breast cancer, gastric cancer, and endometrial cancer, typically involving bilateral ovarian involvement and a multinodular pattern on ovarian surface, often mimicking primary ovarian tumors but representing secondary ovarian malignancies.",
+                        "wrongAnswer_1": "Primary cancers most likely to 'metastasize to the ovary' include leukemia, lymphoma, myeloma, and Hodgkin's disease, typically involving unilateral ovarian involvement and a cystic pattern within the ovarian stroma, often presenting as large solitary ovarian masses with hematologic malignancy history.",
+                        "wrongAnswer_2": "Primary cancers most likely to 'metastasize to the ovary' include cervical cancer, vaginal cancer, vulvar cancer, and fallopian tube cancer, typically involving direct extension to the ovary and a single dominant ovarian mass, often associated with local pelvic recurrence and lymphatic spread.",
+                        "wrongAnswer_3": "Primary cancers most likely to 'metastasize to the ovary' include lung cancer, melanoma, renal cell carcinoma, and thyroid cancer, typically involving unilateral ovarian involvement and a solid pattern with prominent vascularity, often presenting as rapidly growing ovarian masses with distant metastases.",
+                        "wrongAnswer_4": "Primary cancers most likely to 'metastasize to the ovary' include sarcoma, mesothelioma, neuroblastoma, and Wilms' tumor, typically involving bilateral ovarian involvement and a diffuse infiltrative pattern throughout the ovarian parenchyma, often presenting as complex adnexal masses in pediatric or young adult patients."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "mainTopic": {
+        "title": "Kidney",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Gross anatomy of the kidney",
+                "quizzes": [
+                    {
+                        "question": "Describe the outermost layer of the kidney, a dense and irregular connective tissue covering, and differentiate it from the deeper layers.",
+                        "goodAnswer": "The renal fascia is the outermost layer, composed of dense irregular connective tissue, encapsulating the kidney and adrenal gland, and is distinct from the perirenal fat and renal capsule.",
+                        "wrongAnswer_1": "The renal capsule is the outermost layer, made of dense regular connective tissue, surrounding only the kidney, and is superficial to the renal fascia and perirenal fat.",
+                        "wrongAnswer_2": "The adipose capsule is the outermost layer, composed of loose connective tissue and fat, enclosing the kidney and adrenal gland, and is external to the renal fascia and renal capsule.",
+                        "wrongAnswer_3": "The renal fascia is the outermost layer, made of dense regular connective tissue, encapsulating the kidney but not the adrenal gland, and lies directly beneath the renal capsule.",
+                        "wrongAnswer_4": "The fibrous capsule is the outermost layer, composed of dense irregular connective tissue, surrounding the kidney and adrenal gland, and is situated between the renal fascia and adipose capsule."
+                    },
+                    {
+                        "question": "Identify the specific anatomical region of the kidney where the renal artery, renal vein, and ureter enter and exit, and describe its structural significance.",
+                        "goodAnswer": "The renal hilum is the concave region on the medial border of the kidney serving as the entry and exit point for the renal artery, renal vein, lymphatic vessels, nerves, and ureter, providing access to the renal sinus.",
+                        "wrongAnswer_1": "The renal cortex is the concave region on the lateral border of the kidney, allowing passage for the renal artery, renal vein, nerves, and ureter to the renal sinus, and is superficial to the renal medulla.",
+                        "wrongAnswer_2": "The renal pelvis is the central cavity of the kidney, located at the medial border, where the renal artery, renal vein, and ureter connect, and is continuous with the major calyces.",
+                        "wrongAnswer_3": "The renal sinus is the concave region on the medial surface of the kidney, acting as the primary passage for the renal artery, renal vein, and ureter, and is filled with adipose tissue and renal pyramids.",
+                        "wrongAnswer_4": "The renal medulla is the region at the hilum of the kidney, serving as the point of entry and exit for the renal artery, renal vein, and ureter, and is characterized by the presence of renal columns."
+                    },
+                    {
+                        "question": "Describe the arrangement of the renal pyramids and renal columns within the kidney's internal structure, and their respective locations within the medulla and cortex.",
+                        "goodAnswer": "Renal pyramids are located in the renal medulla, with their bases facing the cortex and apices (renal papillae) pointing towards the renal sinus, separated by renal columns, which are cortical extensions into the medulla.",
+                        "wrongAnswer_1": "Renal pyramids are situated in the renal cortex, their bases towards the medulla and apices towards the renal capsule, and are separated by renal columns, which are medullary extensions into the cortex.",
+                        "wrongAnswer_2": "Renal columns are located within the renal medulla, extending from the cortex to the renal sinus, and are interspersed between the renal pyramids, which are cortical structures.",
+                        "wrongAnswer_3": "Renal pyramids are found in the renal medulla, with their apices facing the cortex and bases towards the renal sinus, and are divided by renal columns, which are medullary extensions from the papillae.",
+                        "wrongAnswer_4": "Renal columns are situated in the renal cortex, extending from the medulla to the renal capsule, and are located between the renal pyramids, which are entirely medullary structures projecting into the cortex."
+                    },
+                    {
+                        "question": "Explain the hierarchical organization of the renal calyces, detailing the flow of urine from the renal papillae to the renal pelvis and the specific roles of minor and major calyces.",
+                        "goodAnswer": "Minor calyces collect urine from the renal papillae of each pyramid, and several minor calyces merge to form major calyces, which subsequently drain into the renal pelvis, funneling urine towards the ureter.",
+                        "wrongAnswer_1": "Major calyces collect urine directly from the renal papillae, and these then converge to form minor calyces, which subsequently empty into the renal pelvis before urine enters the ureter.",
+                        "wrongAnswer_2": "Renal papillae drain urine into the major calyces, which then combine to form minor calyces, ultimately leading to the renal pelvis and the ureter for urine excretion.",
+                        "wrongAnswer_3": "Minor calyces are large collecting chambers that receive urine from multiple renal pyramids, and these then drain into smaller major calyces, which lead to the renal pelvis and the ureter.",
+                        "wrongAnswer_4": "Renal papillae drain into the renal pelvis directly, which is then subdivided into major and minor calyces that distribute urine to the ureter, ensuring efficient drainage from all pyramids."
+                    }
+                ]
+            },
+            {
+                "title": "Nephrons",
+                "quizzes": [
+                    {
+                        "question": "Describe the structural components of the renal corpuscle, differentiating between Bowman's capsule and the glomerulus, and their respective roles in filtration.",
+                        "goodAnswer": "The renal corpuscle consists of the glomerulus, a capillary network for filtration, enclosed by Bowman's capsule, which has parietal and visceral layers; the visceral layer contains podocytes that enhance filtration.",
+                        "wrongAnswer_1": "The renal corpuscle is composed of Bowman's capsule, a network of tubules for reabsorption, surrounded by the glomerulus, a single-layered membrane; the glomerulus contains podocytes for selective secretion.",
+                        "wrongAnswer_2": "The renal corpuscle includes the glomerulus, a collecting duct for urine concentration, surrounded by Bowman's capsule, a thick muscular layer; Bowman's capsule has podocytes for active transport.",
+                        "wrongAnswer_3": "The renal corpuscle consists of Bowman's capsule, a filtration membrane, enclosing the glomerulus, a network of lymphatic vessels; the parietal layer of Bowman's capsule contains podocytes for ultrafiltration.",
+                        "wrongAnswer_4": "The renal corpuscle is made up of the glomerulus, a network of arterioles for blood supply, and Bowman's capsule, a dense connective tissue layer; the visceral layer of Bowman's capsule is devoid of podocytes."
+                    },
+                    {
+                        "question": "Contrast the structural and functional characteristics of cortical nephrons and juxtamedullary nephrons, emphasizing their location within the kidney and the length of their loops of Henle.",
+                        "goodAnswer": "Cortical nephrons are primarily located in the renal cortex, possessing short loops of Henle that barely extend into the outer medulla, while juxtamedullary nephrons have glomeruli near the corticomedullary junction and long loops of Henle extending deep into the inner medulla, crucial for urine concentration.",
+                        "wrongAnswer_1": "Cortical nephrons are found throughout the renal medulla, characterized by long loops of Henle reaching into the cortex, whereas juxtamedullary nephrons are located superficially in the cortex with short loops confined to the outer cortex, playing a minor role in concentration.",
+                        "wrongAnswer_2": "Juxtamedullary nephrons are predominantly located in the renal cortex with short loops of Henle restricted to the outer medulla, while cortical nephrons are situated near the renal pelvis and have long loops extending deep into the inner medulla, responsible for dilution.",
+                        "wrongAnswer_3": "Both cortical and juxtamedullary nephrons are evenly distributed between the cortex and medulla, with cortical nephrons having longer loops of Henle than juxtamedullary nephrons, and both types equally contributing to urine concentration and dilution.",
+                        "wrongAnswer_4": "Juxtamedullary nephrons are mainly located in the renal cortex, possessing long loops of Henle that extend far into the outer medulla, and cortical nephrons are found closer to the medulla with short loops limited to the inner cortex, primarily involved in reabsorption but not concentration."
+                    },
+                    {
+                        "question": "Describe the detailed structure of the proximal convoluted tubule (PCT), focusing on its cellular lining and its primary function in the nephron.",
+                        "goodAnswer": "The PCT is lined by simple cuboidal epithelium with a prominent brush border of microvilli, significantly increasing the surface area for reabsorption, and is primarily responsible for reabsorbing most of the filtered water, ions, and nutrients from the tubular fluid.",
+                        "wrongAnswer_1": "The PCT is lined by simple squamous epithelium with cilia, enhancing fluid movement along the tubule, and its primary function is active secretion of waste products into the tubular fluid and minimal reabsorption of nutrients.",
+                        "wrongAnswer_2": "The DCT is lined by stratified cuboidal epithelium with stereocilia, increasing surface area for secretion, and is mainly involved in reabsorbing water under hormonal control and minimal electrolyte reabsorption.",
+                        "wrongAnswer_3": "The loop of Henle is lined by simple columnar epithelium with goblet cells, secreting mucus to protect the lining, and its primary function is to concentrate urine by actively transporting solutes out of the tubular fluid.",
+                        "wrongAnswer_4": "The PCT is lined by pseudostratified columnar epithelium with a thick glycocalyx layer, protecting the cells from toxins, and its primary role is to filter blood plasma and prevent protein reabsorption into the bloodstream."
+                    },
+                    {
+                        "question": "Explain the structural differences between the descending limb and ascending limb of the loop of Henle, and how these differences contribute to their distinct permeabilities and functions in urine concentration.",
+                        "goodAnswer": "The descending limb of the loop of Henle is permeable to water but not very permeable to solutes, facilitating water reabsorption, while the thin ascending limb is permeable to solutes but not water, allowing solute reabsorption, and the thick ascending limb actively transports NaCl out of the filtrate.",
+                        "wrongAnswer_1": "Both the descending and ascending limbs of the loop of Henle are equally permeable to both water and solutes, facilitating simultaneous reabsorption and secretion of both, maintaining isotonic conditions within the loop.",
+                        "wrongAnswer_2": "The descending limb of the loop of Henle is permeable to solutes but impermeable to water, leading to solute concentration in the tubular fluid, whereas the ascending limb is permeable to water but not solutes, diluting the tubular fluid.",
+                        "wrongAnswer_3": "The descending limb of the loop of Henle actively transports water out of the filtrate, making it impermeable to solutes, while the ascending limb actively transports solutes into the filtrate and is impermeable to water, concentrating the urine.",
+                        "wrongAnswer_4": "Both the descending and ascending limbs of the loop of Henle are impermeable to both water and solutes, functioning primarily as structural conduits for tubular fluid movement without significant reabsorption or secretion occurring within these segments."
+                    },
+                    {
+                        "question": "Describe the structural and functional characteristics of the distal convoluted tubule (DCT) and collecting duct, emphasizing their roles in fine-tuning electrolyte balance and water reabsorption under hormonal control.",
+                        "goodAnswer": "The DCT and collecting duct are lined by simple cuboidal epithelium with fewer microvilli than PCT, and are involved in hormonally regulated reabsorption of sodium and water (by aldosterone and ADH respectively), and secretion of potassium and hydrogen ions for electrolyte and pH balance.",
+                        "wrongAnswer_1": "The DCT and collecting duct are lined by stratified squamous epithelium with a dense brush border, primarily involved in active secretion of large proteins and glucose into the urine, and are unresponsive to hormonal regulation.",
+                        "wrongAnswer_2": "The PCT and collecting duct are lined by simple columnar epithelium with prominent cilia, and are responsible for obligatory reabsorption of water and electrolytes, with hormonal control primarily acting on the loop of Henle.",
+                        "wrongAnswer_3": "The DCT and loop of Henle are lined by pseudostratified columnar epithelium and are mainly involved in passive diffusion of water and solutes, with hormonal control primarily regulating blood flow to the glomerulus, not tubular reabsorption.",
+                        "wrongAnswer_4": "The PCT and DCT are lined by simple cuboidal epithelium with numerous goblet cells, secreting mucus to protect the lining, and are primarily involved in filtration and initial formation of urine, with minimal hormonal influence on their function."
+                    }
+                ]
+            },
+            {
+                "title": "Vasculature of the kidney",
+                "quizzes": [
+                    {
+                        "question": "Outline the sequence of arterial blood flow within the kidney, starting from the renal artery and tracing it to the afferent arterioles that supply the glomeruli.",
+                        "goodAnswer": "Renal artery -> Segmental arteries -> Interlobar arteries -> Arcuate arteries -> Interlobular arteries -> Afferent arterioles.",
+                        "wrongAnswer_1": "Renal artery -> Interlobar arteries -> Segmental arteries -> Arcuate arteries -> Interlobular arteries -> Afferent arterioles.",
+                        "wrongAnswer_2": "Renal artery -> Arcuate arteries -> Segmental arteries -> Interlobar arteries -> Interlobular arteries -> Afferent arterioles.",
+                        "wrongAnswer_3": "Renal artery -> Segmental arteries -> Interlobular arteries -> Arcuate arteries -> Interlobar arteries -> Afferent arterioles.",
+                        "wrongAnswer_4": "Renal artery -> Interlobar arteries -> Interlobular arteries -> Arcuate arteries -> Segmental arteries -> Afferent arterioles."
+                    },
+                    {
+                        "question": "Describe the pathway of venous blood drainage from the kidney, starting from the peritubular capillaries and vasa recta and ending with the renal vein.",
+                        "goodAnswer": "Peritubular capillaries/Vasa recta -> Interlobular veins -> Arcuate veins -> Interlobar veins -> Renal vein.",
+                        "wrongAnswer_1": "Peritubular capillaries/Vasa recta -> Arcuate veins -> Interlobular veins -> Interlobar veins -> Renal vein.",
+                        "wrongAnswer_2": "Peritubular capillaries/Vasa recta -> Interlobar veins -> Arcuate veins -> Interlobular veins -> Renal vein.",
+                        "wrongAnswer_3": "Peritubular capillaries/Vasa recta -> Interlobular veins -> Interlobar veins -> Arcuate veins -> Renal vein.",
+                        "wrongAnswer_4": "Peritubular capillaries/Vasa recta -> Arcuate veins -> Interlobar veins -> Renal vein -> Interlobular veins."
+                    },
+                    {
+                        "question": "Explain the role of the efferent arteriole in renal circulation, contrasting its diameter and function with that of the afferent arteriole, particularly in the context of glomerular filtration pressure.",
+                        "goodAnswer": "The efferent arteriole, with a smaller diameter than the afferent arteriole, carries blood away from the glomerulus, creating resistance and maintaining high glomerular hydrostatic pressure necessary for filtration.",
+                        "wrongAnswer_1": "The efferent arteriole, with a larger diameter than the afferent arteriole, carries blood to the glomerulus, reducing resistance and lowering glomerular hydrostatic pressure to facilitate reabsorption.",
+                        "wrongAnswer_2": "The afferent arteriole, with a smaller diameter than the efferent arteriole, carries blood to the glomerulus, increasing resistance and lowering glomerular hydrostatic pressure, which inhibits filtration.",
+                        "wrongAnswer_3": "The afferent arteriole and efferent arteriole have equal diameters, and the efferent arteriole carries blood away from the glomerulus, primarily regulating blood flow to the peritubular capillaries but not filtration pressure.",
+                        "wrongAnswer_4": "The efferent arteriole, with a larger diameter than the afferent arteriole, carries blood away from the glomerulus, decreasing resistance and increasing glomerular hydrostatic pressure, promoting excessive filtration."
+                    },
+                    {
+                        "question": "Describe the vasa recta and their significance in the function of juxtamedullary nephrons, particularly in the establishment and maintenance of the medullary osmotic gradient.",
+                        "goodAnswer": "Vasa recta are specialized peritubular capillaries surrounding the loops of Henle of juxtamedullary nephrons, forming hairpin loops that run parallel to the loops of Henle, crucial for maintaining the medullary osmotic gradient by countercurrent exchange and preventing solute dissipation.",
+                        "wrongAnswer_1": "Vasa recta are specialized arterioles supplying blood directly to the glomeruli of juxtamedullary nephrons, playing a key role in regulating glomerular filtration rate but not directly involved in the medullary osmotic gradient.",
+                        "wrongAnswer_2": "Vasa recta are lymphatic vessels associated with juxtamedullary nephrons, responsible for draining excess interstitial fluid from the renal medulla and preventing fluid accumulation, indirectly affecting osmotic balance.",
+                        "wrongAnswer_3": "Vasa recta are specialized venules draining blood from the glomeruli of juxtamedullary nephrons, primarily involved in removing waste products from the medulla and not directly participating in the countercurrent mechanism or osmotic gradient.",
+                        "wrongAnswer_4": "Vasa recta are peritubular capillaries associated with cortical nephrons, forming a network around the proximal and distal convoluted tubules, mainly involved in nutrient and water reabsorption in the cortex, and not related to the medullary osmotic gradient."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

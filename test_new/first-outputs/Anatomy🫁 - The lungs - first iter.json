@@ -1,0 +1,156 @@
+{
+    "mainTopic": {
+        "title": "The lungs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Gross anatomy of the lungs",
+                "quizzes": [
+                    {
+                        "question": "Which structural feature accurately describes the division of the right lung lobes?",
+                        "goodAnswer": "The right lung is typically divided into three lobes \u2013 superior, middle, and inferior \u2013 by two fissures: the oblique and horizontal fissures.",
+                        "wrongAnswer_1": "The right lung is divided into two lobes \u2013 superior and inferior \u2013 by a single fissure: the oblique fissure, which also separates the lobes of the left lung.",
+                        "wrongAnswer_2": "The right lung is segmented into four lobes \u2013 apical, basal, medial, and lateral \u2013 delineated by three fissures: oblique, horizontal, and sagittal fissures.",
+                        "wrongAnswer_3": "The right lung consists of five lobes \u2013 upper, middle-upper, middle-lower, lower, and basal \u2013 separated by interlobar septa rather than distinct fissures.",
+                        "wrongAnswer_4": "The right lung is uniquely structured with a singular lobe, featuring pseudo-fissures that superficially divide it into anterior, posterior, and medial segments."
+                    },
+                    {
+                        "question": "What are the key components that constitute the root of the lung?",
+                        "goodAnswer": "The root of the lung typically includes the pulmonary artery, pulmonary veins, main bronchus, bronchial vessels, lymphatic vessels, and nerves, all encased within a pleural sleeve.",
+                        "wrongAnswer_1": "The root of the lung primarily consists of the trachea, esophagus, superior vena cava, azygos vein, and phrenic nerve, which enter and exit the lung parenchyma.",
+                        "wrongAnswer_2": "The root of the lung is solely composed of the pulmonary trunk, aortic arch, inferior vena cava, thoracic duct, and sympathetic chain, serving as the lung's attachment to the mediastinum.",
+                        "wrongAnswer_3": "The root of the lung is minimally formed by the pulmonary capillaries, alveolar ducts, respiratory bronchioles, and intercostal nerves, facilitating gas exchange and neural control.",
+                        "wrongAnswer_4": "The root of the lung is characterized by the presence of the cardiac notch, lingula, mediastinal pleura, costal pleura, and diaphragmatic pleura, defining the lung's pleural boundaries."
+                    },
+                    {
+                        "question": "Descriptively, how does the oblique fissure contribute to the lobar separation in both lungs?",
+                        "goodAnswer": "In both lungs, the oblique fissure separates the inferior lobe from the superior and middle lobes (where present), running from the posterior aspect superiorly and anteriorly.",
+                        "wrongAnswer_1": "The oblique fissure solely exists in the right lung, dividing the middle lobe from the inferior lobe and extending horizontally from the hilum to the anterior border.",
+                        "wrongAnswer_2": "The oblique fissure in both lungs divides the anterior segment from the posterior segment of each lobe and courses vertically from the apex to the base of the lung.",
+                        "wrongAnswer_3": "The oblique fissure is a rudimentary fissure found only in the left lung, incompletely separating the lingula from the cardiac notch and running antero-inferiorly.",
+                        "wrongAnswer_4": "The oblique fissure is absent in both lungs; lobar separation is achieved by interlobular bronchi and connective tissue septa, not by distinct fissures."
+                    },
+                    {
+                        "question": "How does the bronchial tree branch as it progresses from the primary bronchi to the alveolar sacs?",
+                        "goodAnswer": "The bronchial tree branches dichotomously from the primary bronchi into secondary (lobar) bronchi, then tertiary (segmental) bronchi, subsequently into smaller bronchioles, terminal bronchioles, respiratory bronchioles, alveolar ducts, and finally alveolar sacs.",
+                        "wrongAnswer_1": "The bronchial tree follows a linear progression from the trachea directly into alveolar ducts, bypassing bronchioles and segmental bronchi, and culminating in singular alveoli clusters.",
+                        "wrongAnswer_2": "The bronchial tree branches in a quadrichotomous pattern from the primary bronchi into quaternary bronchi, followed by quintary bronchioles, then directly into alveolar sacs without intermediate structures.",
+                        "wrongAnswer_3": "The bronchial tree initially divides into lobar bronchi, then converges into a central alveolar duct before diverging into segmental bronchi and finally terminating in alveolar sacs.",
+                        "wrongAnswer_4": "The bronchial tree branches into primary bronchi, then directly into terminal bronchioles, followed by respiratory bronchi, and immediately transitions into pleural cavities for gas exchange."
+                    }
+                ]
+            },
+            {
+                "title": "Blood supply",
+                "quizzes": [
+                    {
+                        "question": "What is the primary origin and destination of the pulmonary arteries in relation to lung circulation?",
+                        "goodAnswer": "Pulmonary arteries originate from the right ventricle of the heart and carry deoxygenated blood to the lungs for gas exchange in the pulmonary capillaries.",
+                        "wrongAnswer_1": "Pulmonary arteries originate from the left ventricle of the heart and transport oxygenated blood to the systemic circulation via the pulmonary capillaries in the lungs.",
+                        "wrongAnswer_2": "Pulmonary arteries arise from the aorta and supply oxygenated blood to the lung tissue itself, while pulmonary veins drain deoxygenated blood back to the aorta.",
+                        "wrongAnswer_3": "Pulmonary arteries branch directly from the superior vena cava and carry deoxygenated blood to the liver for detoxification before oxygenation in the lungs.",
+                        "wrongAnswer_4": "Pulmonary arteries originate from the pulmonary veins and carry oxygenated blood from the lungs to the right atrium of the heart, completing the pulmonary circuit."
+                    },
+                    {
+                        "question": "Describe the pathway and function of the bronchial arteries within the pulmonary system.",
+                        "goodAnswer": "Bronchial arteries, typically branching from the thoracic aorta, supply oxygenated blood to the lung tissues including the bronchi, bronchioles, visceral pleura, and supporting structures, distinct from pulmonary circulation.",
+                        "wrongAnswer_1": "Bronchial arteries originate from the pulmonary trunk and deliver deoxygenated blood to the alveoli for gas exchange, functioning as the primary vessels for pulmonary oxygenation.",
+                        "wrongAnswer_2": "Bronchial arteries arise from the pulmonary veins and carry oxygenated blood away from the lungs to nourish the mediastinal structures and the parietal pleura.",
+                        "wrongAnswer_3": "Bronchial arteries are branches of the superior vena cava and provide deoxygenated blood to the lymphatic nodes within the lung parenchyma for immune surveillance.",
+                        "wrongAnswer_4": "Bronchial arteries are direct extensions of the pulmonary capillaries and facilitate the diffusion of oxygen into the bronchiolar lumen for direct airway oxygenation."
+                    },
+                    {
+                        "question": "How do pulmonary veins differ functionally and anatomically from bronchial veins in the lungs?",
+                        "goodAnswer": "Pulmonary veins carry oxygenated blood from the lungs back to the left atrium for systemic circulation, whereas bronchial veins primarily drain deoxygenated blood from the larger bronchi and bronchioles into the azygos and hemiazygos systems.",
+                        "wrongAnswer_1": "Pulmonary veins transport deoxygenated blood from the lungs to the right atrium, while bronchial veins carry oxygenated blood from the lung parenchyma directly to the pulmonary arteries.",
+                        "wrongAnswer_2": "Pulmonary veins drain deoxygenated blood from the entire lung tissue into the inferior vena cava, and bronchial veins are responsible for oxygenating the blood within the pulmonary capillaries.",
+                        "wrongAnswer_3": "Pulmonary veins are solely responsible for lymphatic drainage from the lungs, and bronchial veins function to deliver nutrient-rich blood to the alveolar walls for metabolic support.",
+                        "wrongAnswer_4": "Pulmonary veins and bronchial veins are functionally identical, both carrying mixed oxygenated and deoxygenated blood from the lungs to the superior vena cava for systemic distribution."
+                    },
+                    {
+                        "question": "What is the general lymphatic drainage pathway from the lungs, and where do these lymphatic vessels ultimately lead?",
+                        "goodAnswer": "Lymphatic drainage from the lungs generally follows pathways along bronchi and pulmonary vessels to reach bronchopulmonary (hilar) lymph nodes, then to tracheobronchial nodes, and finally into the thoracic duct or right lymphatic duct.",
+                        "wrongAnswer_1": "Lymphatic drainage from the lungs flows directly into the axillary lymph nodes, then to the subclavian lymphatic trunk, and ultimately into the subclavian vein near the neck.",
+                        "wrongAnswer_2": "Lymphatic vessels from the lungs drain primarily into the mediastinal lymph nodes, then directly into the superior vena cava, bypassing the thoracic and right lymphatic ducts.",
+                        "wrongAnswer_3": "Lung lymphatics drain initially into the parasternal lymph nodes, then to the cisterna chyli in the abdomen, and subsequently into the lumbar lymphatic trunks.",
+                        "wrongAnswer_4": "Lymphatic drainage from the lungs is a closed system, circulating lymph within the lung parenchyma and returning it directly to the pulmonary capillaries for reabsorption."
+                    }
+                ]
+            },
+            {
+                "title": "Nervous innervation",
+                "quizzes": [
+                    {
+                        "question": "What are the primary sources of nervous innervation to the lungs, and what type of control do they exert?",
+                        "goodAnswer": "The lungs are primarily innervated by the pulmonary plexus, which receives fibers from both the vagus nerve (parasympathetic) and sympathetic trunk, controlling bronchial muscle tone, glandular secretion, and pulmonary vessel diameter.",
+                        "wrongAnswer_1": "Lung innervation is solely derived from the phrenic nerve (somatic), which controls voluntary breathing muscles and has no direct influence on bronchial or vascular tone within the lungs.",
+                        "wrongAnswer_2": "The lungs are mainly innervated by the intercostal nerves, which provide sensory innervation to the pleura and control the intercostal muscles, but not the intrinsic lung structures.",
+                        "wrongAnswer_3": "Lung innervation originates from the cervical plexus, specifically the ansa cervicalis, which regulates mucus production in the bronchi and has no effect on bronchial smooth muscle.",
+                        "wrongAnswer_4": "The lungs are exclusively innervated by the spinal accessory nerve (cranial nerve XI), controlling the diaphragm and upper respiratory muscles but not the pulmonary vasculature."
+                    },
+                    {
+                        "question": "Describe the parasympathetic innervation of the lungs and its principal effects.",
+                        "goodAnswer": "Parasympathetic innervation of the lungs, via the vagus nerve, causes bronchoconstriction, increased bronchial gland secretion, and vasodilation of pulmonary vessels; it is primarily bronchoconstrictive.",
+                        "wrongAnswer_1": "Parasympathetic innervation of the lungs, mediated by the phrenic nerve, results in bronchodilation, decreased mucus production, and vasoconstriction of pulmonary arteries, enhancing airflow.",
+                        "wrongAnswer_2": "Parasympathetic fibers to the lungs, arising from the sympathetic trunk, lead to bronchodilation, increased glandular activity, and vasodilation, facilitating deeper and faster respiration.",
+                        "wrongAnswer_3": "Parasympathetic innervation of the lungs, through the glossopharyngeal nerve, primarily affects sensory function and has no significant impact on bronchial or vascular smooth muscle.",
+                        "wrongAnswer_4": "Parasympathetic innervation to the lungs causes bronchodilation and vasoconstriction of pulmonary veins, reducing pulmonary blood flow and increasing airway resistance."
+                    },
+                    {
+                        "question": "What are the effects of sympathetic innervation on the bronchioles and pulmonary vessels within the lungs?",
+                        "goodAnswer": "Sympathetic innervation of the lungs typically results in bronchodilation and vasoconstriction of pulmonary vessels, reducing airway resistance and potentially decreasing blood flow in certain vessels.",
+                        "wrongAnswer_1": "Sympathetic innervation causes bronchoconstriction and vasodilation of pulmonary vessels, increasing airway resistance and enhancing blood perfusion to the alveoli.",
+                        "wrongAnswer_2": "Sympathetic stimulation leads to increased mucus secretion in the bronchioles and dilation of pulmonary veins, promoting mucus clearance and increasing venous return from the lungs.",
+                        "wrongAnswer_3": "Sympathetic fibers to the lungs primarily affect the pleura, causing pleural effusion and changes in pleural pressure but having minimal impact on bronchioles or pulmonary vessels.",
+                        "wrongAnswer_4": "Sympathetic and parasympathetic innervations have identical effects on bronchioles and pulmonary vessels, both causing bronchodilation and vasodilation to optimize gas exchange."
+                    },
+                    {
+                        "question": "How does the pulmonary plexus facilitate both afferent and efferent nerve signaling in the lungs?",
+                        "goodAnswer": "The pulmonary plexus serves as a network for both efferent (motor) fibers from the vagus and sympathetic trunks to control lung structures and afferent (sensory) fibers transmitting visceral sensory information from the lungs back to the central nervous system.",
+                        "wrongAnswer_1": "The pulmonary plexus exclusively transmits efferent signals from the brain to the lungs, controlling only voluntary respiratory muscles and having no role in sensory feedback from the lungs.",
+                        "wrongAnswer_2": "The pulmonary plexus is primarily a sensory ganglion, processing afferent signals from the pleura and airways but not involved in transmitting motor commands to the lung tissue.",
+                        "wrongAnswer_3": "The pulmonary plexus functions solely as a relay station for somatic motor neurons controlling the diaphragm and intercostal muscles, unrelated to autonomic innervation of the lungs.",
+                        "wrongAnswer_4": "The pulmonary plexus is responsible for conducting efferent sympathetic signals to the heart and afferent parasympathetic signals from the digestive tract, with no direct role in lung innervation."
+                    }
+                ]
+            },
+            {
+                "title": "Pleura of the lungs",
+                "quizzes": [
+                    {
+                        "question": "What are the distinct layers of the pleura and their spatial relationship to the lung and thoracic wall?",
+                        "goodAnswer": "The pleura consists of two layers: the visceral pleura, which directly covers the lung surface, and the parietal pleura, which lines the thoracic cavity, including the mediastinum, diaphragm, and rib cage.",
+                        "wrongAnswer_1": "The pleura is composed of three layers: the endopleura, surrounding the lung parenchyma; the mesopleura, lining the pleural cavity; and the exopleura, adhering to the thoracic wall.",
+                        "wrongAnswer_2": "The pleura is a single-layered membrane that directly adheres to both the lung surface and the thoracic wall, with no distinct visceral or parietal components.",
+                        "wrongAnswer_3": "The pleura comprises the pulmonary pleura, covering the bronchioles; the alveolar pleura, surrounding the alveoli; and the costal pleura, lining the ribs and intercostal spaces.",
+                        "wrongAnswer_4": "The pleura is made up of the internal pleura, which is adjacent to the mediastinum, and the external pleura, which is in contact with the pericardium and pleural fluid."
+                    },
+                    {
+                        "question": "Describe the pleural cavity and its normal contents under physiological conditions.",
+                        "goodAnswer": "The pleural cavity is the potential space between the visceral and parietal pleurae, normally containing a thin film of serous pleural fluid, which lubricates pleural surfaces and allows frictionless lung movement.",
+                        "wrongAnswer_1": "The pleural cavity is a large, air-filled space between the lung and chest wall, essential for lung expansion and containing a significant volume of gaseous exchange medium.",
+                        "wrongAnswer_2": "The pleural cavity is filled with a viscous mucus that cushions the lungs and prevents them from collapsing, also serving as a medium for nutrient exchange with lung tissue.",
+                        "wrongAnswer_3": "The pleural cavity is normally filled with blood, ensuring continuous perfusion of the pleural membranes and maintaining a positive pressure gradient for lung inflation.",
+                        "wrongAnswer_4": "The pleural cavity is a solid, connective tissue matrix that supports the lung structure and prevents over-inflation, containing no fluid or air under healthy conditions."
+                    },
+                    {
+                        "question": "What are the primary functions of the pleural fluid within the pleural cavity?",
+                        "goodAnswer": "The primary functions of pleural fluid are to lubricate the pleural surfaces, reducing friction during breathing, and to create surface tension that helps maintain lung apposition to the chest wall, facilitating lung expansion.",
+                        "wrongAnswer_1": "Pleural fluid primarily functions to provide nutrients and oxygen directly to the lung tissue, acting as a circulatory medium within the pleural cavity and directly participating in gas exchange.",
+                        "wrongAnswer_2": "Pleural fluid serves mainly as a shock absorber, protecting the lungs from external trauma and sudden pressure changes, and it plays no significant role in lung mechanics.",
+                        "wrongAnswer_3": "Pleural fluid acts as a sealant, preventing air from entering the pleural space and ensuring a positive intrapleural pressure that pushes the lungs outward against the chest wall.",
+                        "wrongAnswer_4": "Pleural fluid's main role is to facilitate immune surveillance within the pleural cavity, containing high concentrations of lymphocytes and macrophages to protect against infections."
+                    },
+                    {
+                        "question": "How is the negative intrapleural pressure normally maintained, and why is it physiologically important?",
+                        "goodAnswer": "Negative intrapleural pressure is maintained by the opposing elastic recoil of the lungs inward and the chest wall outward, creating a subatmospheric pressure in the pleural cavity that prevents lung collapse and facilitates inspiration.",
+                        "wrongAnswer_1": "Negative intrapleural pressure is generated by the active contraction of the pleural muscles, which pull the parietal pleura away from the visceral pleura, creating a vacuum necessary for expiration.",
+                        "wrongAnswer_2": "Negative intrapleural pressure is maintained by the continuous absorption of pleural fluid into the lymphatic system, creating a fluid deficit that results in subatmospheric pressure.",
+                        "wrongAnswer_3": "Negative intrapleural pressure is a consequence of the atmospheric pressure pushing on the external chest wall, creating a lower pressure within the pleural cavity relative to the atmosphere.",
+                        "wrongAnswer_4": "Negative intrapleural pressure is an artifact of measurement and does not exist physiologically; intrapleural pressure is always positive, ensuring lung expansion against atmospheric pressure."
+                    }
+                ]
+            }
+        ]
+    }
+}

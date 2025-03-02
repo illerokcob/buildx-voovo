@@ -1,0 +1,162 @@
+{
+    "mainTopic": {
+        "title": "Accessory digestive organs",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The salivary glands",
+                "quizzes": [
+                    {
+                        "question": "Which of the following accurately describes the parotid gland's anatomical characteristics, including its location, secretion type, and drainage pathway into the oral cavity?",
+                        "goodAnswer": "The parotid gland, situated anterior to the auricle and superficial to the masseter muscle, is characterized as a purely serous gland, draining its secretions into the oral vestibule via the parotid duct (Stensen's duct) opposite the maxillary second molar.",
+                        "wrongAnswer_1": "The parotid gland, located inferior to the mandible and deep to the masseter muscle, is classified as a mixed seromucous gland, draining its secretions into the oral cavity proper via the submandibular duct (Wharton's duct) near the mandibular second molar.",
+                        "wrongAnswer_2": "The sublingual gland, positioned anterior to the auricle and superficial to the masseter muscle, is predominantly a mucous gland, draining its secretions into the oral vestibule through multiple minor ducts (ducts of Rivinus) and occasionally via the sublingual duct (Bartholin's duct).",
+                        "wrongAnswer_3": "The submandibular gland, situated inferior to the zygomatic arch and superficial to the buccinator muscle, is characterized as a purely serous gland, draining its secretions into the oral cavity proper via the submandibular duct (Wharton's duct) near the maxillary second molar.",
+                        "wrongAnswer_4": "The parotid gland, located posterior to the auricle and deep to the temporalis muscle, is classified as a mixed seromucous gland, draining its secretions into the oral vestibule via the parotid duct (Stensen's duct) opposite the mandibular second molar."
+                    },
+                    {
+                        "question": "Identify the correct anatomical description of the submandibular gland, focusing on its spatial relationship within the submandibular triangle, the nature of its secretion, and the duct through which it empties into the oral cavity.",
+                        "goodAnswer": "The submandibular gland, located within the submandibular triangle, deep to the mylohyoid muscle and superficial to the hyoglossus muscle, is a mixed seromucous gland that secretes saliva into the oral cavity via the submandibular duct (Wharton's duct) opening at the sublingual caruncle.",
+                        "wrongAnswer_1": "The submandibular gland, located within the submental triangle, superficial to the mylohyoid muscle and deep to the hyoglossus muscle, is a purely mucous gland that secretes saliva into the oral cavity via the sublingual duct (Bartholin's duct) opening at the sublingual fold.",
+                        "wrongAnswer_2": "The sublingual gland, located within the submandibular triangle, deep to the geniohyoid muscle and superficial to the styloglossus muscle, is a mixed seromucous gland that secretes saliva into the oral cavity via the parotid duct (Stensen's duct) opening at the sublingual caruncle.",
+                        "wrongAnswer_3": "The parotid gland, located within the submental triangle, deep to the digastric muscle and superficial to the mylohyoid muscle, is a purely serous gland that secretes saliva into the oral cavity via the submandibular duct (Wharton's duct) opening at the parotid papilla.",
+                        "wrongAnswer_4": "The submandibular gland, located within the submandibular triangle, superficial to the mylohyoid muscle and deep to the genioglossus muscle, is a predominantly serous gland that secretes saliva into the oral cavity via the sublingual duct (Bartholin's duct) opening at the sublingual fold."
+                    },
+                    {
+                        "question": "Which statement accurately describes the anatomical characteristics of the sublingual gland, including its position in the floor of the mouth, the predominant type of secretion it produces, and the route of drainage into the oral cavity?",
+                        "goodAnswer": "The sublingual gland, situated in the floor of the mouth, inferior to the tongue and medial to the mandible, is primarily a mucous-secreting gland, draining via multiple minor sublingual ducts (ducts of Rivinus) along the sublingual fold, with some contributing to the major sublingual duct (Bartholin's duct) that may join the submandibular duct.",
+                        "wrongAnswer_1": "The sublingual gland, situated in the floor of the mouth, superior to the tongue and lateral to the mandible, is primarily a serous-secreting gland, draining via a single major sublingual duct (Bartholin's duct) directly into the oral vestibule opposite the maxillary molars.",
+                        "wrongAnswer_2": "The submandibular gland, situated in the floor of the mouth, inferior to the tongue and medial to the hyoid bone, is primarily a mucous-secreting gland, draining via multiple minor submandibular ducts (ducts of Rivinus) along the sublingual caruncle, with some contributing to the submandibular duct (Wharton's duct) that opens into the parotid duct.",
+                        "wrongAnswer_3": "The parotid gland, situated in the floor of the mouth, superior to the tongue and medial to the mandible, is primarily a serous-secreting gland, draining via multiple minor parotid ducts (ducts of Rivinus) along the sublingual fold, with some contributing to the parotid duct (Stensen's duct) that may join the sublingual duct.",
+                        "wrongAnswer_4": "The sublingual gland, situated in the floor of the mouth, inferior to the tongue and lateral to the hyoid bone, is primarily a mixed seromucous-secreting gland, draining via a single major sublingual duct (Bartholin's duct) directly into the oral cavity proper opposite the mandibular incisors."
+                    }
+                ]
+            },
+            {
+                "title": "The liver",
+                "quizzes": [
+                    {
+                        "question": "Select the option that most accurately describes the liver's anatomical location within the abdominal cavity, detailing its quadrant and regional placement and its relationship to adjacent anatomical structures.",
+                        "goodAnswer": "The liver is predominantly located in the right upper quadrant (RUQ) and epigastric region of the abdomen, positioned inferior to the diaphragm, superior to the stomach, and overlying parts of the duodenum and right kidney.",
+                        "wrongAnswer_1": "The liver is predominantly located in the left upper quadrant (LUQ) and hypochondriac region of the abdomen, positioned superior to the diaphragm, inferior to the stomach, and overlying parts of the jejunum and left kidney.",
+                        "wrongAnswer_2": "The liver is predominantly located in the right lower quadrant (RLQ) and umbilical region of the abdomen, positioned inferior to the stomach, superior to the diaphragm, and overlying parts of the ileum and right ovary.",
+                        "wrongAnswer_3": "The liver is predominantly located in the left lower quadrant (LLQ) and suprapubic region of the abdomen, positioned superior to the stomach, inferior to the diaphragm, and overlying parts of the sigmoid colon and left ureter.",
+                        "wrongAnswer_4": "The liver is centrally located in the umbilical and epigastric regions of the abdomen, positioned anterior to the diaphragm, posterior to the stomach, and overlying parts of the transverse colon and pancreas."
+                    },
+                    {
+                        "question": "Which of the following options correctly identifies the principal anatomical lobes of the liver, delineated by fissures and ligamentous attachments, considering both the diaphragmatic and visceral surfaces?",
+                        "goodAnswer": "The liver is anatomically divided into the right and left lobes by the falciform ligament and the fissures for the ligamentum teres and ligamentum venosum; additionally, the caudate and quadrate lobes are considered part of the anatomical left lobe based on traditional descriptions.",
+                        "wrongAnswer_1": "The liver is anatomically divided into the superior and inferior lobes by the coronary ligament and the fissures for the ligamentum teres and ligamentum venosum; furthermore, the caudate and quadrate lobes are considered independent lobes due to their distinct vascular supply.",
+                        "wrongAnswer_2": "The liver is anatomically divided into the anterior and posterior lobes by the triangular ligaments and the fissures for the ligamentum teres and ligamentum venosum; excluding the caudate and quadrate lobes, which are considered functional segments rather than anatomical lobes.",
+                        "wrongAnswer_3": "The liver is anatomically divided into the right, left, and central lobes by the falciform ligament and the fissures for the ligamentum teres and ligamentum venosum; with the caudate and quadrate lobes being subdivisions of the central lobe based on portal venous drainage.",
+                        "wrongAnswer_4": "The liver is anatomically divided into the right and left lobes by the coronary ligament and the fissures for the ligamentum teres and ligamentum venosum; furthermore, the caudate and quadrate lobes are considered part of the anatomical right lobe based on hepatic venous drainage."
+                    },
+                    {
+                        "question": "Select the statement that accurately describes the structural contents of the porta hepatis, specifying the major vascular and ductal elements that enter and exit the liver at this crucial anatomical location.",
+                        "goodAnswer": "The porta hepatis, located on the visceral surface of the liver, contains the hepatic portal vein and hepatic artery proper entering the liver, and the common hepatic duct and hepatic lymphatic vessels exiting, along with branches of the hepatic nerve plexus.",
+                        "wrongAnswer_1": "The porta hepatis, located on the diaphragmatic surface of the liver, contains the hepatic vein and hepatic artery proper entering the liver, and the cystic duct and hepatic lymphatic vessels exiting, along with branches of the vagus nerve and phrenic nerve.",
+                        "wrongAnswer_2": "The porta hepatis, located on the anterior margin of the liver, contains the hepatic portal vein and hepatic artery proper exiting the liver, and the common bile duct and hepatic lymphatic vessels entering, along with branches of the celiac plexus and sympathetic trunk.",
+                        "wrongAnswer_3": "The porta hepatis, located on the posterior aspect of the liver, contains the hepatic artery proper and hepatic vein entering the liver, and the common hepatic duct and cystic lymphatic vessels exiting, along with branches of the spinal nerves and somatic motor fibers.",
+                        "wrongAnswer_4": "The porta hepatis, located on the visceral surface of the liver, contains the hepatic portal vein and hepatic vein entering the liver, and the common bile duct and hepatic lymphatic vessels exiting, along with branches of the gastric nerve plexus and parasympathetic fibers."
+                    },
+                    {
+                        "question": "Identify the option that correctly outlines the major ligaments associated with the liver, detailing their specific anatomical attachments and their roles in maintaining liver position and structural support within the abdominal cavity.",
+                        "goodAnswer": "The major ligaments of the liver include the falciform ligament (attaching to the anterior abdominal wall and diaphragm), the coronary ligament (attaching the liver to the diaphragm), the right and left triangular ligaments (at the lateral extremes of the coronary ligament), and the lesser omentum (hepatogastric and hepatoduodenal ligaments).",
+                        "wrongAnswer_1": "The major ligaments of the liver include the round ligament (attaching to the anterior abdominal wall and umbilicus), the coronary ligament (attaching the liver to the stomach), the right and left triangular ligaments (at the medial extremes of the coronary ligament), and the greater omentum (hepatogastric and hepatoduodenal ligaments).",
+                        "wrongAnswer_2": "The major ligaments of the liver include the falciform ligament (attaching to the posterior abdominal wall and peritoneum), the coronary ligament (attaching the liver to the spleen), the superior and inferior triangular ligaments (at the superior and inferior borders of the liver), and the lesser omentum (gastrocolic and gastrosplenic ligaments).",
+                        "wrongAnswer_3": "The major ligaments of the liver include the falciform ligament (attaching to the anterior thoracic wall and diaphragm), the gastrosplenic ligament (attaching the liver to the diaphragm), the anterior and posterior triangular ligaments (at the anterior and posterior surfaces of the liver), and the greater omentum (hepatogastric and hepatoduodenal ligaments).",
+                        "wrongAnswer_4": "The major ligaments of the liver include the suspensory ligament (attaching to the anterior abdominal wall and diaphragm), the hepatorenal ligament (attaching the liver to the kidney), the right and left quadrate ligaments (at the lateral aspects of the liver), and the lesser omentum (hepato-oesophageal and hepatogastric ligaments)."
+                    }
+                ]
+            },
+            {
+                "title": "The pancreas",
+                "quizzes": [
+                    {
+                        "question": "Choose the statement that accurately describes the pancreas' retroperitoneal anatomical positioning within the abdomen, specifying its relationships to surrounding organs such as the stomach, duodenum, and spleen, and its vertebral level.",
+                        "goodAnswer": "The pancreas is a retroperitoneal organ situated posterior to the stomach in the epigastric and left hypochondriac regions, extending transversely from the duodenum on the right to the spleen on the left, typically located at the L1-L2 vertebral level.",
+                        "wrongAnswer_1": "The pancreas is an intraperitoneal organ situated anterior to the stomach in the umbilical and right lumbar regions, extending longitudinally from the jejunum on the left to the liver on the right, typically located at the T12-L1 vertebral level.",
+                        "wrongAnswer_2": "The pancreas is a retroperitoneal organ situated anterior to the liver in the hypogastric and left iliac regions, extending obliquely from the duodenum on the left to the gallbladder on the right, typically located at the L3-L4 vertebral level.",
+                        "wrongAnswer_3": "The pancreas is an intraperitoneal organ situated posterior to the liver in the right hypochondriac and epigastric regions, extending vertically from the jejunum superiorly to the colon inferiorly, typically located at the L1-L3 vertebral level.",
+                        "wrongAnswer_4": "The pancreas is a retroperitoneal organ situated anterior to the duodenum in the right lumbar and umbilical regions, extending sagittally from the stomach anteriorly to the aorta posteriorly, typically located at the T11-T12 vertebral level."
+                    },
+                    {
+                        "question": "Identify the correct sequence of anatomical parts of the pancreas, from right to left, detailing their positional relationships and key anatomical landmarks associated with each part.",
+                        "goodAnswer": "From right to left, the pancreas is divided into the head (nestled in the C-shaped curve of the duodenum), neck (anterior to the superior mesenteric vessels), body (extending transversely), and tail (reaching towards the hilum of the spleen).",
+                        "wrongAnswer_1": "From right to left, the pancreas is divided into the head (nestled in the S-shaped curve of the jejunum), neck (posterior to the inferior mesenteric vessels), body (extending longitudinally), and fundus (reaching towards the diaphragmatic surface of the liver).",
+                        "wrongAnswer_2": "From left to right, the pancreas is divided into the tail (adjacent to the left kidney), body (extending transversely), corpus (anterior to the celiac trunk), and head (nestled in the C-shaped curve of the duodenum).",
+                        "wrongAnswer_3": "From right to left, the pancreas is divided into the head (anterior to the portal vein), body (extending obliquely), neck (posterior to the splenic vessels), and tail (reaching towards the greater curvature of the stomach).",
+                        "wrongAnswer_4": "From left to right, the pancreas is divided into the fundus (adjacent to the spleen), corpus (extending longitudinally), body (anterior to the superior mesenteric artery), and head (nestled in the S-shaped curve of the jejunum)."
+                    },
+                    {
+                        "question": "Describe the anatomical course and termination of the main pancreatic duct (duct of Wirsung), specifying its typical junction with the common bile duct and the location of their combined opening into the duodenum.",
+                        "goodAnswer": "The main pancreatic duct (duct of Wirsung) traverses the pancreas from the tail to the head, typically uniting with the common bile duct to form the hepatopancreatic ampulla (ampulla of Vater), which opens into the descending duodenum at the major duodenal papilla.",
+                        "wrongAnswer_1": "The main pancreatic duct (duct of Wirsung) traverses the pancreas from the head to the tail, typically uniting with the cystic duct to form the hepatopancreatic ampulla (ampulla of Vater), which opens into the ascending duodenum at the minor duodenal papilla.",
+                        "wrongAnswer_2": "The accessory pancreatic duct (duct of Santorini) traverses the pancreas from the tail to the head, typically uniting with the common hepatic duct to form the hepatopancreatic ampulla (ampulla of Vater), which opens into the horizontal duodenum at the major duodenal papilla.",
+                        "wrongAnswer_3": "The main pancreatic duct (duct of Wirsung) traverses the pancreas from the head to the tail, typically uniting with the common bile duct to form the pancreaticobiliary duct (duct of Oddi), which opens into the descending duodenum at the minor duodenal papilla.",
+                        "wrongAnswer_4": "The accessory pancreatic duct (duct of Santorini) traverses the pancreas from the body to the head, typically uniting with the cystic duct to form the pancreaticohepatic ampulla (ampulla of Santorini), which opens into the ascending duodenum at the major duodenal papilla."
+                    }
+                ]
+            },
+            {
+                "title": "The gallbladder",
+                "quizzes": [
+                    {
+                        "question": "Select the option that accurately describes the anatomical location of the gallbladder, specifying its relationship to the liver surface, hepatic lobes, and peritoneal covering.",
+                        "goodAnswer": "The gallbladder is situated in the gallbladder fossa on the inferior (visceral) surface of the liver, typically between the right and quadrate lobes, and is considered intraperitoneal as it is covered by visceral peritoneum.",
+                        "wrongAnswer_1": "The gallbladder is situated in the gallbladder fossa on the superior (diaphragmatic) surface of the liver, typically between the left and caudate lobes, and is considered retroperitoneal as it is covered by parietal peritoneum.",
+                        "wrongAnswer_2": "The gallbladder is situated in the gallbladder fossa on the anterior surface of the stomach, typically between the fundus and body, and is considered intraperitoneal as it is partially covered by visceral peritoneum.",
+                        "wrongAnswer_3": "The gallbladder is situated in the gallbladder fossa on the posterior surface of the liver, typically between the caudate and left lobes, and is considered retroperitoneal as it is completely covered by parietal peritoneum.",
+                        "wrongAnswer_4": "The gallbladder is situated in the gallbladder fossa on the medial surface of the right lobe of the liver, typically adjacent to the falciform ligament, and is considered intraperitoneal as it is mostly covered by visceral peritoneum."
+                    },
+                    {
+                        "question": "Identify the distinct anatomical parts of the gallbladder and their respective functions in bile storage and release.",
+                        "goodAnswer": "The gallbladder consists of the fundus (rounded end), body (main portion), and neck (tapered part leading to the cystic duct). The fundus and body primarily store bile, while the neck connects to the cystic duct for bile release.",
+                        "wrongAnswer_1": "The gallbladder consists of the fundus (pointed end), body (main portion), and neck (rounded part leading to the cystic duct). The fundus and body primarily store bile, while the neck connects to the cystic duct for bile release.",
+                        "wrongAnswer_2": "The gallbladder consists of the fundus (rounded end), corpus (main portion), and neck (tapered part leading to the hepatic duct). The fundus and corpus primarily store bile, while the neck connects to the hepatic duct for bile release.",
+                        "wrongAnswer_3": "The gallbladder consists of the head (rounded end), body (main portion), and neck (tapered part leading to the cystic duct). The head and body primarily store bile, while the neck connects to the cystic duct for bile release.",
+                        "wrongAnswer_4": "The gallbladder consists of the fundus (rounded end), body (main portion), and tail (tapered part leading to the cystic duct). The fundus and body primarily store bile, while the tail connects to the cystic duct for bile release."
+                    },
+                    {
+                        "question": "Describe the anatomical origin, course, and termination of the cystic duct, emphasizing its role in the biliary tree and its junction with another major duct to form the common bile duct.",
+                        "goodAnswer": "The cystic duct originates from the neck of the gallbladder, descends inferiorly, and typically joins the common hepatic duct, usually in the hepatoduodenal ligament, to form the common bile duct, serving as a bidirectional conduit for bile flow to and from the gallbladder.",
+                        "wrongAnswer_1": "The cystic duct originates from the fundus of the gallbladder, ascends superiorly, and typically joins the main pancreatic duct, usually posterior to the duodenum, to form the common bile duct, serving as a unidirectional conduit for bile flow only into the gallbladder.",
+                        "wrongAnswer_2": "The cystic duct originates from the body of the gallbladder, traverses horizontally, and typically joins the accessory pancreatic duct, usually anterior to the pancreas, to form the hepatic duct, serving as a bidirectional conduit for bile flow only out of the gallbladder.",
+                        "wrongAnswer_3": "The cystic duct originates from the neck of the gallbladder, ascends superiorly, and typically joins the common bile duct, usually within the lesser omentum, to form the pancreatic duct, serving as a unidirectional conduit for bile flow to and from the liver.",
+                        "wrongAnswer_4": "The cystic duct originates from the body of the gallbladder, descends inferiorly, and typically joins the common hepatic duct, usually within the falciform ligament, to form the hepatic duct, serving as a bidirectional conduit for bile flow only to the gallbladder."
+                    }
+                ]
+            },
+            {
+                "title": "The peritoneum",
+                "quizzes": [
+                    {
+                        "question": "Differentiate between the parietal and visceral layers of the peritoneum based on their anatomical location, their relationship to the abdominal and pelvic organs, and the nature of the cavity they define.",
+                        "goodAnswer": "The parietal peritoneum is the outer layer lining the inner surface of the abdominal and pelvic walls, while the visceral peritoneum is the inner layer reflecting over and directly covering most abdominal and pelvic organs; together, they enclose the peritoneal cavity, a potential space containing serous fluid.",
+                        "wrongAnswer_1": "The parietal peritoneum is the inner layer lining the outer surface of the thoracic and abdominal walls, while the visceral peritoneum is the outer layer reflecting over and directly covering most thoracic and abdominal organs; together, they enclose the pleural cavity, a real space containing lymphatic fluid.",
+                        "wrongAnswer_2": "The parietal peritoneum is the outer layer lining the inner surface of the abdominal and thoracic walls, while the visceral peritoneum is the inner layer reflecting over and directly covering most pelvic and abdominal organs; together, they enclose the peritoneal cavity, a real space containing synovial fluid.",
+                        "wrongAnswer_3": "The parietal peritoneum is the inner layer lining the outer surface of the pelvic and thoracic walls, while the visceral peritoneum is the outer layer reflecting over and directly covering most abdominal and thoracic organs; together, they enclose the pleural cavity, a potential space containing cerebrospinal fluid.",
+                        "wrongAnswer_4": "The parietal peritoneum is the outer layer lining the outer surface of the abdominal and pelvic walls, while the visceral peritoneum is the inner layer reflecting over and directly covering most thoracic and pelvic organs; together, they enclose the peritoneal cavity, a potential space containing mucous fluid."
+                    },
+                    {
+                        "question": "Describe the mesentery proper, detailing its anatomical attachment, content, and functional role within the peritoneal cavity.",
+                        "goodAnswer": "The mesentery proper is a double layer of peritoneum that suspends the jejunum and ileum from the posterior abdominal wall. It contains blood vessels, lymphatic vessels, and nerves supplying the small intestine, facilitating motility and support.",
+                        "wrongAnswer_1": "The mesentery proper is a single layer of peritoneum that suspends the colon and rectum from the anterior abdominal wall. It contains blood vessels, lymphatic vessels, and nerves supplying the large intestine, facilitating absorption and support.",
+                        "wrongAnswer_2": "The mesentery proper is a double layer of peritoneum that suspends the duodenum and jejunum from the anterior abdominal wall. It contains bile ducts, lymphatic vessels, and nerves supplying the small intestine, facilitating digestion and support.",
+                        "wrongAnswer_3": "The mesentery proper is a single layer of peritoneum that suspends the jejunum and ileum from the posterior thoracic wall. It contains blood vessels, lymphatic vessels, and nerves supplying the small intestine, hindering motility and support.",
+                        "wrongAnswer_4": "The mesentery proper is a double layer of peritoneum that suspends the stomach and duodenum from the posterior abdominal wall. It contains blood vessels, lymphatic vessels, and nerves supplying the stomach, facilitating motility and support."
+                    },
+                    {
+                        "question": "Outline the greater omentum, specifying its anatomical attachments, composition, and principal functions within the abdominal cavity.",
+                        "goodAnswer": "The greater omentum, a large, fatty, apron-like fold of peritoneum, hangs from the greater curvature of the stomach and drapes over the transverse colon and small intestine. It is composed of fat and lymphoid tissue, providing insulation, protection, and immune defense.",
+                        "wrongAnswer_1": "The greater omentum, a small, muscular, apron-like fold of peritoneum, hangs from the lesser curvature of the stomach and drapes over the ascending colon and large intestine. It is composed of muscle and nervous tissue, providing support, protection, and endocrine function.",
+                        "wrongAnswer_2": "The lesser omentum, a large, fatty, apron-like fold of peritoneum, hangs from the greater curvature of the stomach and drapes over the descending colon and small intestine. It is composed of fat and epithelial tissue, providing insulation, secretion, and immune defense.",
+                        "wrongAnswer_3": "The greater omentum, a large, fibrous, sheet-like fold of peritoneum, hangs from the greater curvature of the liver and drapes over the transverse colon and large intestine. It is composed of collagen and elastic tissue, providing structural support, protection, and lymphatic drainage.",
+                        "wrongAnswer_4": "The lesser omentum, a large, fatty, apron-like fold of peritoneum, hangs from the lesser curvature of the stomach and drapes over the transverse colon and small intestine. It is composed of fat and lymphoid tissue, providing insulation, protection, and immune defense."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}

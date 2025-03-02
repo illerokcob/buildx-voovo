@@ -1,0 +1,182 @@
+{
+    "mainTopic": {
+        "title": "Airways",
+        "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "The Nose and its Adjacent Structures",
+                "quizzes": [
+                    {
+                        "question": "Which of the following statements accurately describes the anatomical composition of the nasal septum?",
+                        "goodAnswer": "The nasal septum is composed anteriorly of the septal cartilage and posteriorly by the perpendicular plate of the ethmoid bone and the vomer bone.",
+                        "wrongAnswer_1": "The nasal septum is primarily formed by the nasal bones and the frontal process of the maxilla, with a small contribution from the sphenoid bone posteriorly.",
+                        "wrongAnswer_2": "The nasal septum is entirely cartilaginous in structure, providing flexibility and support to the external nasal framework without bony components.",
+                        "wrongAnswer_3": "The nasal septum consists of the cribriform plate of the ethmoid bone superiorly and the palatine process of the maxilla inferiorly, separated by connective tissue.",
+                        "wrongAnswer_4": "The nasal septum is made up of the vomer bone anteriorly and the perpendicular plate of the palatine bone posteriorly, covered by a thick periosteal layer."
+                    },
+                    {
+                        "question": "What is the primary function of the nasal conchae (turbinates) within the nasal cavity in relation to inhaled air?",
+                        "goodAnswer": "To increase the surface area of the nasal cavity, thereby enhancing the warming, humidifying, and filtering of inhaled air before it reaches the lower respiratory tract.",
+                        "wrongAnswer_1": "To produce mucus that traps pathogens and debris, and to directly propel this mucus towards the pharynx for expulsion through forceful coughing only.",
+                        "wrongAnswer_2": "To cool and dehumidify inhaled air, creating a drier environment in the nasal cavity which inhibits the growth of bacteria and viruses within the nasal passages.",
+                        "wrongAnswer_3": "To secrete enzymes that break down particulate matter in inhaled air and to facilitate the absorption of oxygen directly into the bloodstream within the nasal cavity.",
+                        "wrongAnswer_4": "To regulate airflow resistance in the nasal cavity and to direct air specifically towards the olfactory epithelium for enhanced odor detection, bypassing general air conditioning."
+                    },
+                    {
+                        "question": "Which set of paranasal sinuses directly communicates with the middle nasal meatus, an important anatomical landmark for drainage and potential infection spread?",
+                        "goodAnswer": "The frontal sinuses, maxillary sinuses, and anterior ethmoid air cells all drain into the middle nasal meatus.",
+                        "wrongAnswer_1": "Only the sphenoid sinuses and posterior ethmoid air cells drain into the middle nasal meatus, while frontal and maxillary sinuses drain into the superior meatus.",
+                        "wrongAnswer_2": "The maxillary sinuses and sphenoid sinuses exclusively drain into the middle nasal meatus, with frontal and ethmoid sinuses draining into the inferior meatus.",
+                        "wrongAnswer_3": "The ethmoid air cells (anterior, middle, and posterior) and frontal sinuses drain into the middle nasal meatus, but maxillary sinuses drain into the inferior meatus.",
+                        "wrongAnswer_4": "The frontal sinuses, sphenoid sinuses, and posterior ethmoid air cells are the primary contributors draining into the middle nasal meatus, with maxillary sinuses draining directly into the nasal vestibule."
+                    }
+                ]
+            },
+            {
+                "title": "Pharynx",
+                "quizzes": [
+                    {
+                        "question": "Anatomically, how is the nasopharynx distinctly characterized in terms of its primary function and typical contents?",
+                        "goodAnswer": "The nasopharynx serves primarily as an airway and contains the pharyngeal tonsil (adenoids) and the opening of the pharyngotympanic (Eustachian) tube.",
+                        "wrongAnswer_1": "The nasopharynx is mainly involved in both respiration and digestion, housing the palatine tonsils and the inferior nasal concha for air filtration.",
+                        "wrongAnswer_2": "The nasopharynx is characterized by the presence of the epiglottis and vocal cords, crucial for voice production and protection of the lower airways during swallowing.",
+                        "wrongAnswer_3": "The nasopharynx is predominantly a muscular passage for food and air, containing the lingual tonsils and the opening to the trachea for air conduction.",
+                        "wrongAnswer_4": "The nasopharynx is lined with stratified squamous epithelium and includes the uvula and palatoglossal arches, primarily for initiating the swallowing reflex and taste perception."
+                    },
+                    {
+                        "question": "Which anatomical structure demarcates the boundary between the oropharynx and the laryngopharynx, influencing the pathway of both air and food?",
+                        "goodAnswer": "The hyoid bone serves as a superior landmark, generally delineating the oropharynx from the laryngopharynx inferiorly.",
+                        "wrongAnswer_1": "The soft palate and uvula anatomically separate the oropharynx from the laryngopharynx, guiding food posteriorly and air anteriorly.",
+                        "wrongAnswer_2": "The cricoid cartilage of the larynx is the key landmark that divides the oropharynx superiorly from the laryngopharynx inferiorly.",
+                        "wrongAnswer_3": "The epiglottis primarily separates the oropharynx from the laryngopharynx, directing air into the larynx and food into the esophagus.",
+                        "wrongAnswer_4": "The palatine tonsils, located laterally, define the transition point between the oropharynx and laryngopharynx, acting as a lymphoid barrier in this region."
+                    },
+                    {
+                        "question": "What is the primary epithelial lining of the oropharynx, and how does it relate to its function in both respiration and digestion?",
+                        "goodAnswer": "The oropharynx is lined by non-keratinized stratified squamous epithelium, providing protection against abrasion from food particles and inhaled air.",
+                        "wrongAnswer_1": "The oropharynx is lined with pseudostratified ciliated columnar epithelium with goblet cells, facilitating mucus production and clearance of inhaled debris.",
+                        "wrongAnswer_2": "The oropharynx is lined by simple squamous epithelium, optimized for rapid diffusion of gases and nutrients, essential for both respiratory and digestive processes.",
+                        "wrongAnswer_3": "The oropharynx is lined with transitional epithelium, allowing for distension and recoil as food and air pass through this region during swallowing and breathing.",
+                        "wrongAnswer_4": "The oropharynx is lined by keratinized stratified squamous epithelium, offering maximum protection against dehydration and abrasion from coarse food materials."
+                    }
+                ]
+            },
+            {
+                "title": "Larynx",
+                "quizzes": [
+                    {
+                        "question": "Which of the following cartilages of the larynx is described as a complete ring, providing circumferential support to the laryngeal structure?",
+                        "goodAnswer": "The cricoid cartilage is the only complete ring of cartilage in the larynx, located inferior to the thyroid cartilage and superior to the trachea.",
+                        "wrongAnswer_1": "The thyroid cartilage forms a complete ring anteriorly, protecting the vocal cords and forming the Adam's apple in the anterior neck region.",
+                        "wrongAnswer_2": "The epiglottis forms a complete cartilaginous ring at the superior inlet of the larynx, preventing food and liquid from entering the trachea during swallowing.",
+                        "wrongAnswer_3": "The arytenoid cartilages, paired structures, together form a complete ring posteriorly, crucial for vocal cord attachment and tension adjustment.",
+                        "wrongAnswer_4": "The corniculate cartilages, located apically on the arytenoids, collectively form a complete ring, providing support to the laryngeal inlet and vocal folds."
+                    },
+                    {
+                        "question": "What is the anatomical and functional significance of the rima glottidis within the larynx?",
+                        "goodAnswer": "The rima glottidis is the opening between the true vocal cords and arytenoid cartilages, controlling airflow and sound production during respiration and phonation.",
+                        "wrongAnswer_1": "The rima glottidis refers to the space between the false vocal cords (vestibular folds), primarily functioning to trap particulate matter and prevent its entry into the trachea.",
+                        "wrongAnswer_2": "The rima glottidis is the anatomical term for the laryngeal inlet, the superior opening of the larynx from the pharynx, protected by the epiglottis during swallowing.",
+                        "wrongAnswer_3": "The rima glottidis is the space within the cricoid cartilage ring, providing structural support to the larynx and maintaining airway patency at all times.",
+                        "wrongAnswer_4": "The rima glottidis is the anatomical depression on the posterior surface of the epiglottis, serving as a reservoir for saliva and preventing aspiration during swallowing."
+                    },
+                    {
+                        "question": "Which muscle is primarily responsible for abduction of the vocal cords, leading to widening of the rima glottidis and facilitating deeper inhalation?",
+                        "goodAnswer": "The posterior cricoarytenoid muscle is the primary abductor of the vocal cords, pulling them laterally to open the airway for respiration.",
+                        "wrongAnswer_1": "The lateral cricoarytenoid muscle is the main abductor of the vocal cords, drawing them apart during forced exhalation to clear the airway of mucus.",
+                        "wrongAnswer_2": "The transverse arytenoid muscle abducts the vocal cords by pulling the arytenoid cartilages posteriorly, increasing tension and pitch of voice.",
+                        "wrongAnswer_3": "The thyroarytenoid muscle is responsible for vocal cord abduction, relaxing the vocal cords and deepening the voice during quiet respiration.",
+                        "wrongAnswer_4": "The cricothyroid muscle is the primary abductor, tilting the thyroid cartilage forward to lengthen and tense the vocal cords, thus opening the rima glottidis."
+                    }
+                ]
+            },
+            {
+                "title": "Trachea",
+                "quizzes": [
+                    {
+                        "question": "What is the structural significance of the C-shaped cartilaginous rings in the trachea, and why are they not complete rings posteriorly?",
+                        "goodAnswer": "The C-shaped rings provide anterior and lateral support to prevent tracheal collapse while allowing flexibility and space posteriorly for esophageal expansion during swallowing.",
+                        "wrongAnswer_1": "The C-shaped rings offer complete circumferential support, ensuring the trachea remains fully open at all times, with the posterior gap filled by dense connective tissue to prevent over-expansion.",
+                        "wrongAnswer_2": "The C-shaped rings are incomplete anteriorly to facilitate anterior flexion of the neck, while the posterior aspect is reinforced by a longitudinal band of cartilage for rigidity.",
+                        "wrongAnswer_3": "The C-shaped rings are made of bone, providing rigid support to the trachea, with the posterior gap allowing for attachment of the trachea to the vertebral column.",
+                        "wrongAnswer_4": "The C-shaped rings are open laterally to permit lateral expansion of the trachea during deep inspiration, and they are composed of hyaline cartilage for maximum rigidity and support."
+                    },
+                    {
+                        "question": "Which type of epithelium lines the mucosa of the trachea, and what is its functional role in the respiratory system?",
+                        "goodAnswer": "The trachea is lined by pseudostratified ciliated columnar epithelium with goblet cells, which secretes mucus to trap debris and uses cilia to propel it towards the pharynx (mucociliary escalator).",
+                        "wrongAnswer_1": "The tracheal mucosa is lined by stratified squamous epithelium, providing protection against abrasion from inhaled particles and facilitating gas exchange directly across the tracheal wall.",
+                        "wrongAnswer_2": "The trachea is lined with simple cuboidal epithelium, which secretes serous fluid to lubricate the tracheal walls and prevent dehydration of the inhaled air.",
+                        "wrongAnswer_3": "The tracheal mucosa consists of transitional epithelium, allowing for expansion and contraction of the trachea during breathing and providing a barrier against infection.",
+                        "wrongAnswer_4": "The trachea is lined by simple columnar epithelium with microvilli, enhancing absorption of nutrients from inhaled air and secreting enzymes to break down inhaled pathogens."
+                    },
+                    {
+                        "question": "Anatomically, where is the carina located within the trachea, and what is its physiological significance?",
+                        "goodAnswer": "The carina is an internal ridge at the bifurcation of the trachea into the right and left main bronchi, serving as a sensitive trigger for the cough reflex when irritants are present.",
+                        "wrongAnswer_1": "The carina is located at the superior end of the trachea, just below the larynx, acting as a sphincter to regulate airflow into the trachea and prevent aspiration of fluids.",
+                        "wrongAnswer_2": "The carina is an external landmark on the anterior surface of the trachea, marking the point of attachment to the thyroid gland and providing structural support to the anterior tracheal wall.",
+                        "wrongAnswer_3": "The carina is situated at the posterior aspect of the trachea, near the esophagus, facilitating the passage of food by widening the tracheal lumen during swallowing.",
+                        "wrongAnswer_4": "The carina is found within the submucosa of the trachea, composed of dense elastic fibers, allowing for tracheal recoil and assisting in forceful exhalation during coughing."
+                    }
+                ]
+            },
+            {
+                "title": "Bronchial tree",
+                "quizzes": [
+                    {
+                        "question": "How does the histological structure of bronchi differ from that of bronchioles within the bronchial tree, reflecting their respective functions?",
+                        "goodAnswer": "Bronchi have cartilaginous plates in their walls and a pseudostratified ciliated columnar epithelium, while bronchioles lack cartilage and are lined with simple columnar to cuboidal epithelium.",
+                        "wrongAnswer_1": "Bronchi are characterized by smooth muscle layers and simple squamous epithelium, optimized for gas exchange, whereas bronchioles contain cartilage rings and a pseudostratified epithelium for structural support.",
+                        "wrongAnswer_2": "Bronchi are lined with transitional epithelium and have mucous glands in their walls, whereas bronchioles have stratified squamous epithelium and lack mucous glands, focusing on air conduction.",
+                        "wrongAnswer_3": "Bronchi contain complete rings of cartilage and a simple columnar epithelium, while bronchioles have C-shaped cartilaginous rings and a pseudostratified ciliated epithelium.",
+                        "wrongAnswer_4": "Bronchi are primarily composed of elastic connective tissue and lined with simple cuboidal epithelium, whereas bronchioles have cartilaginous plates and stratified columnar epithelium for robust structure."
+                    },
+                    {
+                        "question": "What is the typical branching pattern of the bronchial tree, starting from the trachea and progressing towards the alveolar sacs?",
+                        "goodAnswer": "Trachea -> main bronchi -> lobar bronchi -> segmental bronchi -> bronchioles -> terminal bronchioles -> respiratory bronchioles -> alveolar ducts -> alveolar sacs.",
+                        "wrongAnswer_1": "Trachea -> segmental bronchi -> lobar bronchi -> main bronchi -> bronchioles -> respiratory bronchioles -> terminal bronchioles -> alveolar ducts -> alveolar sacs.",
+                        "wrongAnswer_2": "Trachea -> main bronchi -> terminal bronchioles -> lobar bronchi -> segmental bronchi -> bronchioles -> respiratory bronchioles -> alveolar ducts -> alveolar sacs.",
+                        "wrongAnswer_3": "Trachea -> lobar bronchi -> main bronchi -> segmental bronchi -> bronchioles -> terminal bronchioles -> respiratory bronchioles -> alveolar ducts -> alveolar sacs.",
+                        "wrongAnswer_4": "Trachea -> main bronchi -> segmental bronchi -> lobar bronchi -> respiratory bronchioles -> terminal bronchioles -> bronchioles -> alveolar ducts -> alveolar sacs."
+                    },
+                    {
+                        "question": "How many secondary (lobar) bronchi typically arise from the right main bronchus, and to which lobes of the right lung do they supply air?",
+                        "goodAnswer": "Three secondary bronchi arise from the right main bronchus, supplying the superior, middle, and inferior lobes of the right lung respectively.",
+                        "wrongAnswer_1": "Two secondary bronchi originate from the right main bronchus, distributing air to the upper and lower lobes of the right lung, with the middle lobe supplied by a branch of the lower lobe bronchus.",
+                        "wrongAnswer_2": "Four secondary bronchi branch from the right main bronchus, each dedicated to a specific segment within the right lung's lobes, ensuring precise air distribution.",
+                        "wrongAnswer_3": "Five secondary bronchi emerge from the right main bronchus, corresponding to the five lobes typically found in the right lung in some anatomical variations.",
+                        "wrongAnswer_4": "One secondary bronchus, which quickly trifurcates, emerges from the right main bronchus to supply the three lobes of the right lung in a sequential manner."
+                    }
+                ]
+            },
+            {
+                "title": "Respiratory zone",
+                "quizzes": [
+                    {
+                        "question": "Which anatomical structures define the beginning of the respiratory zone in the lungs, marking the transition from air conduction to gas exchange?",
+                        "goodAnswer": "Respiratory bronchioles are considered the beginning of the respiratory zone, as they contain scattered alveoli and participate in gas exchange, unlike terminal bronchioles.",
+                        "wrongAnswer_1": "Terminal bronchioles are the initial structures of the respiratory zone, characterized by their thin walls and direct connection to alveolar ducts for immediate gas exchange.",
+                        "wrongAnswer_2": "Segmental bronchi are the starting point of the respiratory zone, as their larger diameter and proximity to alveoli facilitate initial stages of oxygen diffusion.",
+                        "wrongAnswer_3": "Lobar bronchi mark the commencement of the respiratory zone, branching directly into alveolar sacs and bypassing bronchioles in the gas exchange pathway.",
+                        "wrongAnswer_4": "Main bronchi are the anatomical entry to the respiratory zone, directly leading to alveolar ducts and sacs for efficient gas exchange throughout the lung volume."
+                    },
+                    {
+                        "question": "What are the primary cell types constituting the alveolar walls, and what are their respective functions in gas exchange and lung homeostasis?",
+                        "goodAnswer": "Type I alveolar cells are primarily for gas exchange, forming the thin respiratory membrane, while Type II alveolar cells secrete surfactant to reduce alveolar surface tension.",
+                        "wrongAnswer_1": "Type I alveolar cells secrete surfactant to maintain alveolar patency, while Type II alveolar cells are involved in gas exchange, possessing extensive microvilli for increased surface area.",
+                        "wrongAnswer_2": "Type I alveolar cells are macrophages that clear debris from the alveolar surface, while Type II alveolar cells form the structural framework of the alveoli and facilitate gas diffusion.",
+                        "wrongAnswer_3": "Type I alveolar cells are ciliated cells that propel mucus and debris out of the alveoli, while Type II alveolar cells produce and secrete enzymes for breaking down inhaled pollutants.",
+                        "wrongAnswer_4": "Type I alveolar cells are stem cells responsible for regenerating damaged alveolar tissue, while Type II alveolar cells regulate blood flow through alveolar capillaries for optimal gas exchange."
+                    },
+                    {
+                        "question": "Describe the composition of the air-blood barrier (respiratory membrane) in the alveoli, outlining the layers that oxygen and carbon dioxide must traverse during gas exchange.",
+                        "goodAnswer": "The respiratory membrane consists of the alveolar epithelium (Type I cell), the fused basement membranes of the alveolar epithelium and capillary endothelium, and the capillary endothelium.",
+                        "wrongAnswer_1": "The respiratory membrane includes the alveolar epithelium, a thick layer of interstitial fluid, and the capillary endothelium, forming a multi-layered barrier to gas diffusion.",
+                        "wrongAnswer_2": "The respiratory membrane is composed of the surfactant layer, the alveolar epithelium, the basement membrane of the alveolar epithelium, and the capillary endothelium.",
+                        "wrongAnswer_3": "The respiratory membrane consists of the alveolar epithelium, the basement membrane of the capillary endothelium, and the capillary endothelium, lacking a fused basement membrane layer.",
+                        "wrongAnswer_4": "The respiratory membrane includes the alveolar epithelium, a layer of connective tissue, the basement membrane of the capillary endothelium, and the capillary endothelium, providing structural support and filtration."
+                    }
+                ]
+            }
+        ]
+    }
+}

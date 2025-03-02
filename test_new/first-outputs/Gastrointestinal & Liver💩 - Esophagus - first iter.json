@@ -1,0 +1,120 @@
+{
+    "mainTopic": {
+        "title": "Esophagus",
+        "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+        "subTopics": [
+            {
+                "title": "Histology of the Esophagus",
+                "quizzes": [
+                    {
+                        "question": "Identify the characteristic epithelial lining of the esophageal mucosa that provides protection against abrasion during swallowing, and specify its key structural feature.",
+                        "goodAnswer": "The esophageal mucosa is lined by stratified squamous epithelium, characterized by multiple layers of cells with the superficial layers being flattened to withstand mechanical stress from food passage.",
+                        "wrongAnswer_1": "The esophageal mucosa is lined by pseudostratified columnar epithelium, characterized by a single layer of cells with nuclei at different levels, providing a smooth surface for bolus transport.",
+                        "wrongAnswer_2": "The esophageal mucosa is lined by simple columnar epithelium, characterized by a single layer of tall cells with apical microvilli, facilitating absorption of nutrients from the bolus.",
+                        "wrongAnswer_3": "The esophageal mucosa is lined by transitional epithelium, characterized by the ability to stretch and change shape, accommodating the varying volumes of the bolus passing through.",
+                        "wrongAnswer_4": "The esophageal mucosa is lined by stratified cuboidal epithelium, characterized by multiple layers of cube-shaped cells, providing structural support and secretion of mucus to lubricate the esophagus."
+                    },
+                    {
+                        "question": "Which layer of the esophageal wall is immediately deep to the mucosa and is characterized by containing glands that secrete mucus to lubricate the esophageal lumen and facilitate bolus passage?",
+                        "goodAnswer": "The submucosa is the layer deep to the mucosa in the esophagus, and it is characterized by the presence of esophageal glands proper, which secrete mucus to lubricate the lumen.",
+                        "wrongAnswer_1": "The muscularis externa is the layer deep to the mucosa in the esophagus, and it is characterized by the presence of esophageal glands proper, which secrete serous fluid to aid in digestion.",
+                        "wrongAnswer_2": "The lamina propria is the layer deep to the mucosa in the esophagus, and it is characterized by the presence of esophageal glands proper, which secrete enzymes to break down carbohydrates.",
+                        "wrongAnswer_3": "The adventitia is the layer deep to the mucosa in the esophagus, and it is characterized by the presence of esophageal glands proper, which secrete hormones to regulate esophageal motility.",
+                        "wrongAnswer_4": "The muscularis mucosae is the layer deep to the mucosa in the esophagus, and it is characterized by the presence of esophageal glands proper, which secrete hydrochloric acid to sterilize the bolus."
+                    },
+                    {
+                        "question": "Describe the arrangement and composition of the muscularis externa in the esophagus, noting the orientation of its muscle layers and the type of muscle tissue present in its upper, middle, and lower thirds.",
+                        "goodAnswer": "The muscularis externa of the esophagus consists of inner circular and outer longitudinal layers. The upper third is composed of skeletal muscle, the middle third contains a mixture of skeletal and smooth muscle, and the lower third is entirely smooth muscle.",
+                        "wrongAnswer_1": "The muscularis externa of the esophagus consists of inner longitudinal and outer circular layers. The upper third is composed of smooth muscle, the middle third contains a mixture of skeletal and smooth muscle, and the lower third is entirely skeletal muscle.",
+                        "wrongAnswer_2": "The muscularis externa of the esophagus consists of inner oblique and outer circular layers. The upper third is composed of skeletal muscle, the middle third contains only smooth muscle, and the lower third is entirely cardiac muscle.",
+                        "wrongAnswer_3": "The muscularis externa of the esophagus consists of inner circular and outer oblique layers. The upper third is composed of cardiac muscle, the middle third contains a mixture of cardiac and smooth muscle, and the lower third is entirely skeletal muscle.",
+                        "wrongAnswer_4": "The muscularis externa of the esophagus consists of inner longitudinal and outer oblique layers. The upper third is composed of smooth muscle, the middle third contains only skeletal muscle, and the lower third is entirely cardiac muscle."
+                    },
+                    {
+                        "question": "What is the outermost layer of the esophagus, and what type of tissue primarily constitutes this layer in the thoracic portion of the esophagus?",
+                        "goodAnswer": "The outermost layer of the esophagus is the adventitia, which in the thoracic portion, is composed of areolar connective tissue that blends with the surrounding connective tissues of the mediastinum.",
+                        "wrongAnswer_1": "The outermost layer of the esophagus is the serosa, which in the thoracic portion, is composed of dense irregular connective tissue that provides a protective outer covering and reduces friction.",
+                        "wrongAnswer_2": "The outermost layer of the esophagus is the muscularis externa, which in the thoracic portion, is composed of smooth muscle tissue that facilitates peristaltic movements for bolus transport.",
+                        "wrongAnswer_3": "The outermost layer of the esophagus is the submucosa, which in the thoracic portion, is composed of adipose connective tissue that provides insulation and energy storage for esophageal function.",
+                        "wrongAnswer_4": "The outermost layer of the esophagus is the mucosa, which in the thoracic portion, is composed of stratified squamous epithelium that directly interfaces with the mediastinal structures."
+                    }
+                ]
+            },
+            {
+                "title": "Chewing and Swallowing",
+                "quizzes": [
+                    {
+                        "question": "Identify the phase of swallowing that is under voluntary control and involves the movement of the bolus into the oropharynx, initiated by the tongue.",
+                        "goodAnswer": "The voluntary phase of swallowing is the buccal phase, where the tongue moves the bolus posteriorly into the oropharynx, initiating the swallowing reflex.",
+                        "wrongAnswer_1": "The involuntary phase of swallowing is the pharyngeal phase, where the tongue moves the bolus anteriorly into the oropharynx, initiating the swallowing reflex.",
+                        "wrongAnswer_2": "The esophageal phase of swallowing is the voluntary phase, where the tongue moves the bolus laterally into the oropharynx, initiating the swallowing reflex.",
+                        "wrongAnswer_3": "The gastric phase of swallowing is the voluntary phase, where the tongue moves the bolus superiorly into the oropharynx, initiating the swallowing reflex.",
+                        "wrongAnswer_4": "The pharyngeal phase of swallowing is the buccal phase, where the tongue moves the bolus posteriorly into the laryngopharynx, initiating the swallowing reflex."
+                    },
+                    {
+                        "question": "During the pharyngeal phase of swallowing, a series of involuntary actions occur to protect the airway and propel the bolus into the esophagus. Which of the following sequences accurately represents these events?",
+                        "goodAnswer": "Pharyngeal phase events: Soft palate elevates -> Larynx elevates and moves anteriorly -> Epiglottis closes over laryngeal inlet -> Pharyngeal constrictor muscles contract to propel bolus.",
+                        "wrongAnswer_1": "Pharyngeal phase events: Soft palate depresses -> Larynx depresses and moves posteriorly -> Epiglottis opens over laryngeal inlet -> Pharyngeal dilator muscles contract to propel bolus.",
+                        "wrongAnswer_2": "Pharyngeal phase events: Hard palate elevates -> Larynx elevates and moves posteriorly -> Epiglottis closes under laryngeal inlet -> Pharyngeal constrictor muscles relax to propel bolus.",
+                        "wrongAnswer_3": "Pharyngeal phase events: Soft palate elevates -> Larynx depresses and moves anteriorly -> Epiglottis opens over laryngeal inlet -> Pharyngeal dilator muscles relax to propel bolus.",
+                        "wrongAnswer_4": "Pharyngeal phase events: Hard palate depresses -> Larynx elevates and moves anteriorly -> Epiglottis closes under laryngeal inlet -> Pharyngeal dilator muscles contract to propel bolus."
+                    },
+                    {
+                        "question": "Describe the mechanism of esophageal peristalsis during the esophageal phase of swallowing and specify the type of muscle contractions involved.",
+                        "goodAnswer": "Esophageal peristalsis involves sequential contractions of the muscularis externa, specifically circular muscle contraction behind the bolus and longitudinal muscle contraction ahead of it, propelling the bolus towards the stomach.",
+                        "wrongAnswer_1": "Esophageal peristalsis involves simultaneous contractions of the muscularis mucosae, specifically circular muscle contraction ahead of the bolus and longitudinal muscle contraction behind it, pulling the bolus towards the stomach.",
+                        "wrongAnswer_2": "Esophageal peristalsis involves rhythmic contractions of the submucosa, specifically oblique muscle contraction behind the bolus and circular muscle relaxation ahead of it, pushing the bolus towards the stomach.",
+                        "wrongAnswer_3": "Esophageal peristalsis involves sporadic contractions of the adventitia, specifically longitudinal muscle relaxation behind the bolus and circular muscle contraction ahead of it, guiding the bolus towards the stomach.",
+                        "wrongAnswer_4": "Esophageal peristalsis involves continuous contractions of the muscularis externa, specifically longitudinal muscle contraction behind the bolus and circular muscle relaxation ahead of it, pulling the bolus away from the stomach."
+                    },
+                    {
+                        "question": "What is the primary function of chewing (mastication) in the digestive process, and which type of digestion is it categorized as?",
+                        "goodAnswer": "The primary function of chewing is to reduce food particle size, increasing surface area for enzymatic digestion, and it is categorized as mechanical digestion.",
+                        "wrongAnswer_1": "The primary function of chewing is to initiate chemical digestion of proteins through salivary proteases, and it is categorized as chemical digestion.",
+                        "wrongAnswer_2": "The primary function of chewing is to absorb nutrients from food in the oral cavity, increasing absorption efficiency, and it is categorized as absorptive digestion.",
+                        "wrongAnswer_3": "The primary function of chewing is to neutralize the acidity of food before swallowing, protecting the esophagus, and it is categorized as protective digestion.",
+                        "wrongAnswer_4": "The primary function of chewing is to stimulate hormonal release for gastric acid secretion, preparing the stomach for food arrival, and it is categorized as hormonal digestion."
+                    }
+                ]
+            },
+            {
+                "title": "Innervation, Regulation",
+                "quizzes": [
+                    {
+                        "question": "Describe the primary type of innervation controlling the upper esophageal sphincter (UES) and the lower esophageal sphincter (LES), and specify the neurotransmitters typically involved in their regulation.",
+                        "goodAnswer": "The UES is primarily controlled by somatic motor neurons via the vagus nerve, utilizing acetylcholine for contraction, while the LES is primarily controlled by autonomic neurons also via the vagus nerve, using both acetylcholine for contraction and nitric oxide/VIP for relaxation.",
+                        "wrongAnswer_1": "The UES is primarily controlled by autonomic motor neurons via the glossopharyngeal nerve, utilizing norepinephrine for contraction, while the LES is primarily controlled by somatic neurons via the spinal nerves, using acetylcholine for both contraction and relaxation.",
+                        "wrongAnswer_2": "The UES is primarily controlled by sensory neurons via the facial nerve, utilizing substance P for contraction, while the LES is primarily controlled by autonomic neurons via the vagus nerve, using only acetylcholine for relaxation.",
+                        "wrongAnswer_3": "The UES is primarily controlled by autonomic motor neurons via the vagus nerve, utilizing nitric oxide for contraction, while the LES is primarily controlled by somatic neurons via the phrenic nerve, using norepinephrine for contraction and VIP for relaxation.",
+                        "wrongAnswer_4": "The UES is primarily controlled by somatic sensory neurons via the trigeminal nerve, utilizing glutamate for contraction, while the LES is primarily controlled by autonomic neurons via the sympathetic trunk, using acetylcholine for contraction and substance P for relaxation."
+                    },
+                    {
+                        "question": "What is the role of the vagus nerve (cranial nerve X) in the regulation of esophageal function, and through which nervous system division does it primarily exert its influence?",
+                        "goodAnswer": "The vagus nerve plays a crucial role in regulating esophageal motility and secretion, primarily exerting its influence through the parasympathetic division of the autonomic nervous system.",
+                        "wrongAnswer_1": "The vagus nerve plays a minor role in regulating esophageal blood flow and temperature, primarily exerting its influence through the sympathetic division of the autonomic nervous system.",
+                        "wrongAnswer_2": "The vagus nerve plays a crucial role in regulating esophageal pain and sensory perception, primarily exerting its influence through the somatic nervous system.",
+                        "wrongAnswer_3": "The vagus nerve plays a minor role in regulating esophageal sphincter tone and mucus production, primarily exerting its influence through the enteric nervous system.",
+                        "wrongAnswer_4": "The vagus nerve plays a crucial role in regulating esophageal pH and enzymatic activity, primarily exerting its influence through the central nervous system."
+                    },
+                    {
+                        "question": "Describe the enteric nervous system's (ENS) contribution to esophageal regulation, differentiating its function from that of the extrinsic nervous system.",
+                        "goodAnswer": "The ENS, intrinsic to the esophageal wall, primarily regulates local esophageal motility and secretion independently, whereas the extrinsic nervous system (vagus nerve) modulates and coordinates these ENS activities and integrates them with higher brain centers.",
+                        "wrongAnswer_1": "The ENS, extrinsic to the esophageal wall, primarily regulates global esophageal motility and secretion in coordination with the vagus nerve, whereas the extrinsic nervous system (vagus nerve) only controls sphincter tone and blood flow.",
+                        "wrongAnswer_2": "The ENS, intrinsic to the esophageal lumen, primarily regulates bolus pH and enzyme activity, whereas the extrinsic nervous system (vagus nerve) controls mucus secretion and epithelial cell turnover.",
+                        "wrongAnswer_3": "The ENS, extrinsic to the esophageal lumen, primarily regulates nutrient absorption and waste removal, whereas the extrinsic nervous system (vagus nerve) controls only sensory input from the esophagus.",
+                        "wrongAnswer_4": "The ENS, intrinsic to the esophageal mucosa, primarily regulates immune responses and inflammatory processes, whereas the extrinsic nervous system (vagus nerve) controls only motor output to the esophageal sphincters."
+                    },
+                    {
+                        "question": "How does the hormone gastrin influence esophageal function, and under what conditions is gastrin secretion typically stimulated?",
+                        "goodAnswer": "Gastrin primarily increases LES tone, preventing gastric reflux, and its secretion is stimulated by the presence of peptides and amino acids in the stomach, as well as vagal nerve stimulation during anticipation of eating.",
+                        "wrongAnswer_1": "Gastrin primarily decreases LES tone, facilitating gastric emptying, and its secretion is stimulated by the presence of lipids and fatty acids in the duodenum, as well as sympathetic nerve stimulation during stress.",
+                        "wrongAnswer_2": "Gastrin primarily increases UES tone, preventing pharyngeal reflux, and its secretion is stimulated by the presence of glucose and carbohydrates in the jejunum, as well as somatic nerve stimulation during swallowing.",
+                        "wrongAnswer_3": "Gastrin primarily decreases UES tone, facilitating esophageal distension, and its secretion is stimulated by the presence of bile salts and bilirubin in the ileum, as well as hormonal stimulation from secretin.",
+                        "wrongAnswer_4": "Gastrin primarily increases esophageal peristalsis, accelerating bolus transport, and its secretion is stimulated by the presence of hydrochloric acid and pepsin in the esophagus, as well as enteric nerve stimulation during peristalsis."
+                    }
+                ]
+            }
+        ],
+        "team_name": "Bob\u00f3kocka"
+    }
+}
