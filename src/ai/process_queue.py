@@ -46,21 +46,17 @@ def topicWorker(client, srcPath, resPath, topic):
         parts.append(types.Part.from_text(text=str(review)))
         correctedResult = stringToDict(generate(client, parts, "correction_prompt.txt"))
         
-        if ANALYTICS_PATH:
-            try:
-                verificationParts = loadPdfs(client, srcPath)
-                verificationParts.append(types.Part.from_text(text=str(correctedResult)))
-                correctedReview = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
-                analitics["revised"] = evalReview(correctedReview)
-                
-                correctedResult = filterBetter(result, correctedResult, review, correctedReview)
-                analitics["final"] = evalReview(correctedReview)
-
-                saveJSON(os.path.join(ANALYTICS_PATH,f"{topic} - stats.json"),analitics)
-            except:
-                print(f"{prefix} - ❌ Failed to make final review")
-                
+        verificationParts = loadPdfs(client, srcPath)
+        verificationParts.append(types.Part.from_text(text=str(correctedResult)))
+        correctedReview = stringToDict(generate(client, verificationParts, "openai_verification_prompt.txt"))
+        analitics["revised"] = evalReview(correctedReview)
         
+        correctedResult = filterBetter(result, correctedResult, review, correctedReview)
+        analitics["final"] = evalReview(correctedReview)
+
+        if ANALYTICS_PATH:
+            saveJSON(os.path.join(ANALYTICS_PATH,f"{topic} - stats.json"),analitics)
+                    
         if saveResult(srcPath, resPath, correctedResult):
             print(f"{prefix} ✅")
         else:
@@ -69,7 +65,7 @@ def topicWorker(client, srcPath, resPath, topic):
     except Exception as e:
         print(f"{prefix} ❌❌❌")
         
-        if str(e).startswith("429") or str(e).startswith("503"):
+        if str(e).startswith("429") or str(e).startswith("503") or str(e).startswith("502"):
             print("Out of resource, waiting 30 seconds")
             time.sleep(30)
             addRequest(client, srcPath, resPath, topic)

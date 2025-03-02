@@ -25,13 +25,13 @@ def generate(client: genai.Client, parts, prompt: str):
     global running
     global requests
     if running:
-        if requests == 0:
-            cooldown = threading.Thread(target=startCooldown,args=())
-            cooldown.start()
         requests += 1
         with condition:
             condition.wait()
-    running = True
+    else:
+        running = True
+        cooldown = threading.Thread(target=startCooldown,args=())
+        cooldown.start()
     
     model = "gemini-2.0-flash-thinking-exp-01-21"
     contents = [
