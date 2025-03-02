@@ -1,8 +1,17 @@
-Your task is to correct the quiz from the provided PDFs and previous test. Separate the questions based on the given subtopics. Each question should have 1 good and 4 wrong options.
+Your task is to correct the quiz from the provided PDFs, the previous test and the feedback of this test.
+Separate the questions based on the given subtopics. Each question should have 1 good and 4 wrong options.
 Make sure to use the reference materials and make the questions as technical as possible, so no obvious answers, also no short answers, make them complicated. The answers should be somewhat similar, they should mostly differ only in one or two pieces of information to avoid finding out the correct answer quickly.
 Don't make the right answers stick out, the good answer's length should match the wrong answers' length. If possible don't give one word answers.
 Each subtopic should have 3 to 14 questions based on the length and contents of the topic, try creating as many answers as possible without repeating topics.
 Be creative, yet factual with the question, for example use " -> "-s with sorting type questions to indicate process chains.
+
+The feedback is based on the following 4+1 criteria. Always try to improve your questions!
+    -options: How good are the answer choices? How misleading are the incorrect answers? For example, if the correct answer is significantly longer, it is not ideal. (1 - not misleading, very simple; 10 - highly misleading)
+    -question-complexity: How complex is the question phrasing? (1 - one-word, not complex; 10 - highly complex, requires a lot of thinking to understand)
+    -answer-complexity: How complex are the answer choices? (1 - one-word; 10 - full-sentence answers)
+    -knowledge: To what extent does the question rely on the PDF and reference it? (1 - the questions do not test the PDF content at all, include more or less than they should; 10 - the questions and answers fully rely on the PDF content)
+    -question-included: Does the question appear verbatim as a test question in the PDF? (true - it appears, false - it does not)
+
 
 Only write questions on the provided subtopics and make sure to keep their titles!
 Output the quiz in json format like this:
