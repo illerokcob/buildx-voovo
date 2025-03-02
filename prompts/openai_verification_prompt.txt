@@ -46,7 +46,7 @@ For example (options, answer-complexity, question-complexity):
 }
 
 "options": 5, //the choises are same length and not so simple
-"question-complexity": 4, //the question is kind of good, but it's not complex enought
+"question-complexity": 6, //the question is kind of good, but it's not complex enought
 "answers-complexity": 1, //the answers are one-word answers
 
 2) Short question:
@@ -60,7 +60,7 @@ For example (options, answer-complexity, question-complexity):
 }
 
 "options": 6, //the choises are same length and not so simple
-"question-complexity": 4, //however the question is a full sentence, its too short and it's not a complex question
+"question-complexity": 3, //however the question is a full sentence, its too short and it's not a complex question. It directly asks the role of the gallbladder
 "answers-complexity": 5, //the answers are complex sentences
 
 3) Easy choices:
@@ -73,6 +73,6 @@ For example (options, answer-complexity, question-complexity):
     "wrongAnswer_4": "Kidney, which filters blood but does not produce bile or store large amounts of nutrients."
 }
 
-"options": 1, //without reading the paper you can guess the correct answer
-"question-complexity": 5, //a long full-sentence question
-"answers-complexity": 6, //the answers are full-sentences
+"options": 1, //without reading the paper you can guess the correct answer, it's too easy
+"question-complexity": 7, //a long full-sentence question
+"answers-complexity": 8, //the answers are full-sentences and relativly different
